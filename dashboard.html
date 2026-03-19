@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DataCentral Query Executor</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Segoe UI', 'Meiryo', sans-serif; 
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container { 
+            max-width: 1400px; 
+            margin: 0 auto; 
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        .header {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        .header h1 { font-size: 2.5em; margin-bottom: 10px; }
+        .header p { opacity: 0.8; font-size: 1.1em; }
+        .content { padding: 40px; }
+        .form-section {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        .form-group label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #333;
+        }
+        .form-group input, .form-group textarea {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 1em;
+            transition: border-color 0.3s;
+            font-family: inherit;
+        }
+        .form-group textarea {
+            min-height: 100px;
+            font-family: 'Courier New', monospace;
+        }
+        .form-group input:focus, .form-group textarea:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        .btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            border-radius: 10px;
+            font-size: 1.1em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            margin-right: 10px;
+        }
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+        }
+        .btn-secondary {
+            background: linear-gradient(135deg, #6c757d 0%, #495057 100%);
+        }
+        .info-box {
+            background: #e7f3ff;
+            border-left: 4px solid #2196F3;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .info-box h3 {
+            color: #1976D2;
+            margin-bottom: 10px;
+        }
+        .info-box p {
+            color: #555;
+            line-height: 1.6;
+        }
+        .command-box {
+            background: #1a1a2e;
+            color: #00ff00;
+            padding: 15px;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            margin-top: 10px;
+            overflow-x: auto;
+        }
+        .section-title {
+            font-size: 1.5em;
+            color: #1a1a2e;
+            border-left: 5px solid #667eea;
+            padding-left: 15px;
+            margin-bottom: 20px;
+        }
+        .step {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .step-number {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            width: 35px;
+            height: 35px;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 35px;
+            font-weight: bold;
+            margin-right: 10px;
+        }
+        .copy-btn {
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 0.9em;
+            margin-left: 10px;
+        }
+        .copy-btn:hover {
+            background: #218838;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📊 DataCentral Query Executor</h1>
+            <p>クエリ実行コマンドを生成</p>
+        </div>
+        
+        <div class="content">
+            <div class="info-box">
+                <h3>💡 使い方</h3>
+                <p>
+                    このダッシュボードは、DataCentralクエリを実行するためのコマンドを生成します。<br>
+                    下記のフォームに情報を入力して「コマンドを生成」ボタンをクリックすると、
+                    コマンドプロンプトで実行できるコマンドが表示されます。
+                </p>
+            </div>
+            
+            <!-- 入力フォーム -->
+            <div class="form-section">
+                <h2 class="section-title">🔧 クエリ設定</h2>
+                
+                <div class="form-group">
+                    <label for="url">DataCentral URL *</label>
+                    <input type="text" id="url" placeholder="https://datacentral.a2z.com/dw-platform/servlet/dwp/template/EtlViewExtractJobs.vm/job_profile_id/14164725">
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="date">置換日付 (yyyy-mm-dd) *</label>
+                        <input type="text" id="date" placeholder="2026-02-02" value="2026-02-02">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="db_path">データベースパス</label>
+                        <input type="text" id="db_path" placeholder="database.sqlite" value="database.sqlite">
+                    </div>
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="start_line">開始行</label>
+                        <input type="number" id="start_line" value="6">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="end_line">終了行</label>
+                        <input type="number" id="end_line" value="11">
+                    </div>
+                </div>
+                
+                <button class="btn" onclick="generateCommand()">🚀 コマンドを生成</button>
+                <button class="btn btn-secondary" onclick="clearForm()">🔄 クリア</button>
+            </div>
+            
+            <!-- 実行手順 -->
+            <div id="instructions" style="display: none;">
+                <h2 class="section-title">📋 実行手順</h2>
+                
+                <div class="step">
+                    <span class="step-number">1</span>
+                    <strong>コマンドプロンプトを開く</strong>
+                    <p style="margin-left: 45px; margin-top: 10px;">
+                        Windowsキー + R を押して、「cmd」と入力してEnterを押します。
+                    </p>
+                </div>
+                
+                <div class="step">
+                    <span class="step-number">2</span>
+                    <strong>プロジェクトフォルダに移動</strong>
+                    <div class="command-box">
+cd C:\Users\murakei\.aki
+                    </div>
+                </div>
+                
+                <div class="step">
+                    <span class="step-number">3</span>
+                    <strong>以下のコマンドをコピーして実行</strong>
+                    <button class="copy-btn" onclick="copyCommand()">📋 コピー</button>
+                    <div class="command-box" id="commandOutput"></div>
+                </div>
+                
+                <div class="step">
+                    <span class="step-number">4</span>
+                    <strong>結果を確認</strong>
+                    <p style="margin-left: 45px; margin-top: 10px;">
+                        実行が完了すると、HTMLレポートが自動的にブラウザで開きます。<br>
+                        テキストファイルも同時に生成されます。
+                    </p>
+                </div>
+            </div>
+            
+            <!-- バッチファイル方式 -->
+            <div class="form-section" style="margin-top: 30px;">
+                <h2 class="section-title">⚡ もっと簡単な方法</h2>
+                <div class="info-box">
+                    <h3>バッチファイルを使う</h3>
+                    <p>
+                        <strong>run_datacentral_query.bat</strong> をダブルクリックして、
+                        URLと日付を入力するだけで実行できます。
+                    </p>
+                    <p style="margin-top: 10px;">
+                        ファイルの場所: <code>C:\Users\murakei\.aki\run_datacentral_query.bat</code>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        function generateCommand() {
+            const url = document.getElementById('url').value;
+            const date = document.getElementById('date').value;
+            const db_path = document.getElementById('db_path').value;
+            const start_line = document.getElementById('start_line').value;
+            const end_line = document.getElementById('end_line').value;
+            
+            if (!url || !date) {
+                alert('URLと日付は必須です');
+                return;
+            }
+            
+            // コマンドを生成
+            let command = `python src\\run_datacentral_query.py --url "${url}" --date ${date} --html --open-browser`;
+            
+            if (db_path && db_path !== 'database.sqlite') {
+                command += ` --db "${db_path}"`;
+            }
+            
+            if (start_line && start_line !== '6') {
+                command += ` --start-line ${start_line}`;
+            }
+            
+            if (end_line && end_line !== '11') {
+                command += ` --end-line ${end_line}`;
+            }
+            
+            // コマンドを表示
+            document.getElementById('commandOutput').textContent = command;
+            document.getElementById('instructions').style.display = 'block';
+            
+            // スクロール
+            document.getElementById('instructions').scrollIntoView({ behavior: 'smooth' });
+        }
+        
+        function copyCommand() {
+            const command = document.getElementById('commandOutput').textContent;
+            navigator.clipboard.writeText(command).then(() => {
+                alert('コマンドをコピーしました！');
+            }).catch(err => {
+                alert('コピーに失敗しました: ' + err);
+            });
+        }
+        
+        function clearForm() {
+            document.getElementById('url').value = '';
+            document.getElementById('date').value = '2026-02-02';
+            document.getElementById('db_path').value = 'database.sqlite';
+            document.getElementById('start_line').value = '6';
+            document.getElementById('end_line').value = '11';
+            document.getElementById('instructions').style.display = 'none';
+        }
+    </script>
+</body>
+</html>

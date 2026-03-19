@@ -1,0 +1,4788 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bridge Plan Dashboard - スタンドアロン版</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        .content {
+            padding: 40px;
+        }
+        
+        .filters {
+            background: #f8f9fa;
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            border-left: 5px solid #667eea;
+        }
+        
+        .filter-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .filter-group label {
+            font-weight: bold;
+            margin-bottom: 8px;
+            color: #667eea;
+        }
+        
+        .filter-group select {
+            padding: 12px;
+            font-size: 1em;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            transition: border-color 0.3s;
+        }
+        
+        .filter-group select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        .button {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 12px 30px;
+            font-size: 1em;
+            border-radius: 50px;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            font-weight: bold;
+        }
+        
+        .button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.4);
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        
+        .stat-card .number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+        
+        .stat-card .label {
+            color: #666;
+            font-size: 1.1em;
+        }
+        
+        .results-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .results-table th {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px;
+            text-align: left;
+            font-weight: bold;
+        }
+        
+        .results-table td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .results-table tr:hover {
+            background: #f8f9fa;
+        }
+        
+        .info-box {
+            background: #e3f2fd;
+            border-left: 4px solid #2196f3;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+        
+        .info-box strong {
+            color: #1976d2;
+        }
+        
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎯 Bridge Plan Dashboard</h1>
+            <p>ブリッジプラン分析ダッシュボード（スタンドアロン版）</p>
+            <p style="font-size: 0.9em; margin-top: 10px;">生成日時: 2026-03-18 15:57:02</p>
+        </div>
+        
+        <div class="content">
+            <div class="info-box">
+                <strong>📌 使い方:</strong> 集計レベルと対象を選択して「表示」ボタンをクリックしてください。
+                このファイルはオフラインで動作します（インターネット接続不要）。
+            </div>
+            
+            <div class="filters">
+                <h2 style="margin-bottom: 20px; color: #667eea;">🔍 フィルター</h2>
+                <div class="filter-row">
+                    <div class="filter-group">
+                        <label>集計レベル</label>
+                        <select id="levelSelect" onchange="updateEntityOptions()">
+                            <option value="">-- 選択してください --</option>
+                            <option value="CID">CID（個別セラー）</option>
+                            <option value="Alias">Alias（営業担当者）</option>
+                            <option value="Mgr">Mgr（マネージャー）</option>
+                            <option value="Team">Team（チーム）</option>
+                        </select>
+                    </div>
+                    
+                    <div class="filter-group">
+                        <label>対象（オプション）</label>
+                        <select id="entitySelect">
+                            <option value="">すべて</option>
+                        </select>
+                    </div>
+                    
+                    <div class="filter-group">
+                        <label>パターン（オプション）</label>
+                        <select id="patternSelect">
+                            <option value="">すべて</option>
+                            <option value="Sourcing-Focused">Sourcing-Focused</option>
+                            <option value="Suppression-Focused">Suppression-Focused</option>
+                            <option value="Balanced">Balanced</option>
+                        </select>
+                    </div>
+                </div>
+                
+                <button class="button" onclick="filterAndDisplay()">📊 表示</button>
+                <button class="button" onclick="resetFilters()" style="margin-left: 10px; background: #6c757d;">🔄 リセット</button>
+            </div>
+            
+            <div id="statsSection" class="hidden">
+                <h2 style="margin-bottom: 20px; color: #667eea;">📈 統計サマリー</h2>
+                <div class="stats-grid" id="statsGrid"></div>
+            </div>
+            
+            <div id="resultsSection" class="hidden">
+                <h2 style="margin-bottom: 20px; color: #667eea;">📋 Bridge Plan一覧</h2>
+                <div id="resultsCount" style="margin-bottom: 15px; font-weight: bold;"></div>
+                <div style="overflow-x: auto;">
+                    <table class="results-table">
+                        <thead>
+                            <tr>
+                                <th>レベル</th>
+                                <th>対象</th>
+                                <th>パターン</th>
+                                <th>現在GMS</th>
+                                <th>目標GMS</th>
+                                <th>ギャップ</th>
+                                <th>Sourcing貢献</th>
+                                <th>Suppression改善</th>
+                                <th>合計貢献</th>
+                                <th>達成率</th>
+                                <th>詳細</th>
+                            </tr>
+                        </thead>
+                        <tbody id="resultsBody">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            
+            <!-- Detail Modal -->
+            <div id="detailModal" class="modal hidden">
+                <div class="modal-content">
+                    <span class="close" onclick="closeDetailModal()">&times;</span>
+                    <h2 id="modalTitle"></h2>
+                    <div id="modalBody"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <style>
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0,0,0,0.6);
+        }
+        
+        .modal.show {
+            display: block;
+        }
+        
+        .modal-content {
+            background-color: #fefefe;
+            margin: 5% auto;
+            padding: 30px;
+            border: 1px solid #888;
+            border-radius: 15px;
+            width: 90%;
+            max-width: 1000px;
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+        
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        
+        .close:hover,
+        .close:focus {
+            color: #000;
+        }
+        
+        .detail-section {
+            margin: 20px 0;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+        }
+        
+        .detail-section h3 {
+            color: #667eea;
+            margin-bottom: 15px;
+        }
+        
+        .detail-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        
+        .detail-table th,
+        .detail-table td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        .detail-table th {
+            background: #667eea;
+            color: white;
+        }
+        
+        .btn-detail {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 0.9em;
+        }
+        
+        .btn-detail:hover {
+            background: #5568d3;
+        }
+    </style>
+    
+    <script>
+        // Embed data
+        const BRIDGE_PLAN_DATA = {
+  "metadata": {
+    "generated_at": "2026-03-18 15:57:02",
+    "total_plans": 78,
+    "levels": [
+      "CID",
+      "Alias",
+      "Mgr",
+      "Team"
+    ],
+    "suppression_categories": [
+      "No suppression",
+      "OOS",
+      "VRP missing",
+      "Price Error",
+      "Others"
+    ],
+    "current_suppression": {
+      "No suppression": 54.0,
+      "OOS": 16.0,
+      "VRP missing": 12.0,
+      "Price Error": 12.0,
+      "Others": 6.0
+    },
+    "benchmark_suppression": {
+      "No suppression": 45.5,
+      "OOS": 22.3,
+      "VRP missing": 8.7,
+      "Price Error": 15.2,
+      "Others": 8.3
+    },
+    "coefficients": {
+      "No suppression": 0.5343,
+      "OOS": 0.2807,
+      "VRP missing": 0.0963,
+      "Price Error": 0.275,
+      "Others": 0.1801
+    }
+  },
+  "plans": [
+    {
+      "level": "CID",
+      "entity_id": "CID001",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 68000.0,
+      "target_t30_gms": 75000.0,
+      "gap": 7000.0,
+      "sourcing_contribution": 12541.935483870968,
+      "suppression_contribution": 0.0,
+      "total_contribution": 12541.935483870968,
+      "achievement_rate": 179.17050691244242,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 43200.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 49500.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 31200.0
+        },
+        "bf25_flag": {
+          "asin_count": 1,
+          "total_gms": 15000.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID001",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 68000.0,
+      "target_t30_gms": 75000.0,
+      "gap": 7000.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 1084.0500000000002,
+      "total_contribution": 1084.0500000000002,
+      "achievement_rate": 15.486428571428574,
+      "feasibility_score": 0.15486428571428573,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID001",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 68000.0,
+      "target_t30_gms": 75000.0,
+      "gap": 7000.0,
+      "sourcing_contribution": 12541.935483870968,
+      "suppression_contribution": 1084.0500000000002,
+      "total_contribution": 13625.985483870969,
+      "achievement_rate": 194.65693548387097,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 43200.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 49500.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 31200.0
+        },
+        "bf25_flag": {
+          "asin_count": 1,
+          "total_gms": 15000.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID002",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 76800.0,
+      "target_t30_gms": 95000.0,
+      "gap": 18200.0,
+      "sourcing_contribution": 22000.0,
+      "suppression_contribution": 0.0,
+      "total_contribution": 22000.0,
+      "achievement_rate": 120.87912087912088,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 48300.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 54800.0
+        },
+        "nys26_flag": {
+          "asin_count": 4,
+          "total_gms": 66300.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 32500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 22000.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 22000.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID002",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 76800.0,
+      "target_t30_gms": 95000.0,
+      "gap": 18200.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 1373.1300000000003,
+      "total_contribution": 1373.1300000000003,
+      "achievement_rate": 7.544670329670332,
+      "feasibility_score": 0.07544670329670332,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID002",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 76800.0,
+      "target_t30_gms": 95000.0,
+      "gap": 18200.0,
+      "sourcing_contribution": 22000.0,
+      "suppression_contribution": 1373.1300000000003,
+      "total_contribution": 23373.13,
+      "achievement_rate": 128.42379120879122,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 48300.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 54800.0
+        },
+        "nys26_flag": {
+          "asin_count": 4,
+          "total_gms": 66300.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 32500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 22000.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 22000.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID003",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 65100.0,
+      "target_t30_gms": 68000.0,
+      "gap": 2900.0,
+      "sourcing_contribution": 20806.451612903224,
+      "suppression_contribution": 0.0,
+      "total_contribution": 20806.451612903224,
+      "achievement_rate": 717.4638487208008,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 56200.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 44400.0
+        },
+        "nys26_flag": {
+          "asin_count": 1,
+          "total_gms": 21500.0
+        },
+        "bf25_flag": {
+          "asin_count": 1,
+          "total_gms": 21500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 21500.0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID003",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 65100.0,
+      "target_t30_gms": 68000.0,
+      "gap": 2900.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 982.8720000000002,
+      "total_contribution": 982.8720000000002,
+      "achievement_rate": 33.89213793103449,
+      "feasibility_score": 0.3389213793103449,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID003",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 65100.0,
+      "target_t30_gms": 68000.0,
+      "gap": 2900.0,
+      "sourcing_contribution": 20806.451612903224,
+      "suppression_contribution": 982.8720000000002,
+      "total_contribution": 21789.323612903223,
+      "achievement_rate": 751.3559866518353,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 56200.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 44400.0
+        },
+        "nys26_flag": {
+          "asin_count": 1,
+          "total_gms": 21500.0
+        },
+        "bf25_flag": {
+          "asin_count": 1,
+          "total_gms": 21500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 21500.0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID004",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 85500.0,
+      "target_t30_gms": 110000.0,
+      "gap": 24500.0,
+      "sourcing_contribution": 40193.548387096766,
+      "suppression_contribution": 0.0,
+      "total_contribution": 40193.548387096766,
+      "achievement_rate": 164.05529953917045,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 74500.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 61700.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 55500.0
+        },
+        "bf25_flag": {
+          "asin_count": 3,
+          "total_gms": 61700.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID004",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 85500.0,
+      "target_t30_gms": 110000.0,
+      "gap": 24500.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 1589.9400000000005,
+      "total_contribution": 1589.9400000000005,
+      "achievement_rate": 6.4895510204081654,
+      "feasibility_score": 0.06489551020408166,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID004",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 85500.0,
+      "target_t30_gms": 110000.0,
+      "gap": 24500.0,
+      "sourcing_contribution": 22580.64516129032,
+      "suppression_contribution": 1589.9400000000005,
+      "total_contribution": 24170.58516129032,
+      "achievement_rate": 98.65544963791967,
+      "feasibility_score": 0.9865544963791968,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 74500.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 61700.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 55500.0
+        },
+        "bf25_flag": {
+          "asin_count": 3,
+          "total_gms": 61700.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID005",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 67100.0,
+      "target_t30_gms": 82000.0,
+      "gap": 14900.0,
+      "sourcing_contribution": 16980.64516129032,
+      "suppression_contribution": 0.0,
+      "total_contribution": 16980.64516129032,
+      "achievement_rate": 113.96406148516994,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 48500.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 46100.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 46100.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 26600.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID005",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 67100.0,
+      "target_t30_gms": 82000.0,
+      "gap": 14900.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 1185.2280000000003,
+      "total_contribution": 1185.2280000000003,
+      "achievement_rate": 7.954550335570472,
+      "feasibility_score": 0.07954550335570472,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID005",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 67100.0,
+      "target_t30_gms": 82000.0,
+      "gap": 14900.0,
+      "sourcing_contribution": 16980.64516129032,
+      "suppression_contribution": 1185.2280000000003,
+      "total_contribution": 18165.873161290318,
+      "achievement_rate": 121.9186118207404,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 48500.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 46100.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 46100.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 26600.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID006",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 81300.0,
+      "target_t30_gms": 98000.0,
+      "gap": 16700.0,
+      "sourcing_contribution": 22500.0,
+      "suppression_contribution": 0.0,
+      "total_contribution": 22500.0,
+      "achievement_rate": 134.7305389221557,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 71800.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 67800.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 58300.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 41500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 2,
+          "total_gms": 41500.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 22500.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID006",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 81300.0,
+      "target_t30_gms": 98000.0,
+      "gap": 16700.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 1416.4920000000004,
+      "total_contribution": 1416.4920000000004,
+      "achievement_rate": 8.481988023952098,
+      "feasibility_score": 0.08481988023952099,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID006",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 81300.0,
+      "target_t30_gms": 98000.0,
+      "gap": 16700.0,
+      "sourcing_contribution": 22500.0,
+      "suppression_contribution": 1416.4920000000004,
+      "total_contribution": 23916.492000000002,
+      "achievement_rate": 143.2125269461078,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 71800.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 67800.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 58300.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 41500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 2,
+          "total_gms": 41500.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 22500.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID007",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 71400.0,
+      "target_t30_gms": 88000.0,
+      "gap": 16600.0,
+      "sourcing_contribution": 18967.741935483868,
+      "suppression_contribution": 0.0,
+      "total_contribution": 18967.741935483868,
+      "achievement_rate": 114.26350563544499,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 52000.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 61200.0
+        },
+        "nys26_flag": {
+          "asin_count": 2,
+          "total_gms": 36800.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 31200.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID007",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 71400.0,
+      "target_t30_gms": 88000.0,
+      "gap": 16600.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 1271.9520000000005,
+      "total_contribution": 1271.9520000000005,
+      "achievement_rate": 7.662361445783135,
+      "feasibility_score": 0.07662361445783135,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID007",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 71400.0,
+      "target_t30_gms": 88000.0,
+      "gap": 16600.0,
+      "sourcing_contribution": 18967.741935483868,
+      "suppression_contribution": 1271.9520000000005,
+      "total_contribution": 20239.69393548387,
+      "achievement_rate": 121.92586708122812,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 52000.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 61200.0
+        },
+        "nys26_flag": {
+          "asin_count": 2,
+          "total_gms": 36800.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 31200.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID008",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 71300.0,
+      "target_t30_gms": 92000.0,
+      "gap": 20700.0,
+      "sourcing_contribution": 33387.096774193546,
+      "suppression_contribution": 0.0,
+      "total_contribution": 33387.096774193546,
+      "achievement_rate": 161.29032258064515,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 62600.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 2,
+          "total_gms": 38000.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 46700.0
+        },
+        "bf25_flag": {
+          "asin_count": 1,
+          "total_gms": 20500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 20500.0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID008",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 71300.0,
+      "target_t30_gms": 92000.0,
+      "gap": 20700.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 1329.7680000000005,
+      "total_contribution": 1329.7680000000005,
+      "achievement_rate": 6.424000000000002,
+      "feasibility_score": 0.06424000000000002,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID008",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 71300.0,
+      "target_t30_gms": 92000.0,
+      "gap": 20700.0,
+      "sourcing_contribution": 19838.709677419352,
+      "suppression_contribution": 1329.7680000000005,
+      "total_contribution": 21168.477677419352,
+      "achievement_rate": 102.26317718560074,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 62600.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 2,
+          "total_gms": 38000.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 46700.0
+        },
+        "bf25_flag": {
+          "asin_count": 1,
+          "total_gms": 20500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 20500.0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID009",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 77300.0,
+      "target_t30_gms": 85000.0,
+      "gap": 7700.0,
+      "sourcing_contribution": 20200.0,
+      "suppression_contribution": 0.0,
+      "total_contribution": 20200.0,
+      "achievement_rate": 262.3376623376624,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 66800.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 65000.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 50500.0
+        },
+        "bf25_flag": {
+          "asin_count": 3,
+          "total_gms": 54500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 20200.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 20200.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID009",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 77300.0,
+      "target_t30_gms": 85000.0,
+      "gap": 7700.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 1228.5900000000004,
+      "total_contribution": 1228.5900000000004,
+      "achievement_rate": 15.95571428571429,
+      "feasibility_score": 0.1595571428571429,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID009",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 77300.0,
+      "target_t30_gms": 85000.0,
+      "gap": 7700.0,
+      "sourcing_contribution": 20200.0,
+      "suppression_contribution": 1228.5900000000004,
+      "total_contribution": 21428.59,
+      "achievement_rate": 278.2933766233766,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 66800.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 65000.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 50500.0
+        },
+        "bf25_flag": {
+          "asin_count": 3,
+          "total_gms": 54500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 20200.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 20200.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID010",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 70500.0,
+      "target_t30_gms": 125000.0,
+      "gap": 54500.0,
+      "sourcing_contribution": 52890.32258064515,
+      "suppression_contribution": 0.0,
+      "total_contribution": 52890.32258064515,
+      "achievement_rate": 97.04646345072506,
+      "feasibility_score": 0.9704646345072505,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 70500.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 56700.0
+        },
+        "nys26_flag": {
+          "asin_count": 2,
+          "total_gms": 41200.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 41200.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 23000.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 23000.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID010",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 70500.0,
+      "target_t30_gms": 125000.0,
+      "gap": 54500.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 1806.7500000000005,
+      "total_contribution": 1806.7500000000005,
+      "achievement_rate": 3.3151376146789002,
+      "feasibility_score": 0.033151376146789,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID010",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 70500.0,
+      "target_t30_gms": 125000.0,
+      "gap": 54500.0,
+      "sourcing_contribution": 39438.70967741935,
+      "suppression_contribution": 1806.7500000000005,
+      "total_contribution": 41245.45967741935,
+      "achievement_rate": 75.67974252737496,
+      "feasibility_score": 0.7567974252737495,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 70500.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 56700.0
+        },
+        "nys26_flag": {
+          "asin_count": 2,
+          "total_gms": 41200.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 41200.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 23000.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 23000.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "中村優子",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 71300.0,
+      "target_t30_gms": 92000.0,
+      "gap": 20700.0,
+      "sourcing_contribution": 33387.096774193546,
+      "suppression_contribution": 0.0,
+      "total_contribution": 33387.096774193546,
+      "achievement_rate": 161.29032258064515,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 62600.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 2,
+          "total_gms": 38000.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 46700.0
+        },
+        "bf25_flag": {
+          "asin_count": 1,
+          "total_gms": 20500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 20500.0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "中村優子",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 71300.0,
+      "target_t30_gms": 92000.0,
+      "gap": 20700.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 1329.7680000000005,
+      "total_contribution": 1329.7680000000005,
+      "achievement_rate": 6.424000000000002,
+      "feasibility_score": 0.06424000000000002,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "中村優子",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 71300.0,
+      "target_t30_gms": 92000.0,
+      "gap": 20700.0,
+      "sourcing_contribution": 19838.709677419352,
+      "suppression_contribution": 1329.7680000000005,
+      "total_contribution": 21168.477677419352,
+      "achievement_rate": 102.26317718560074,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 62600.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 2,
+          "total_gms": 38000.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 46700.0
+        },
+        "bf25_flag": {
+          "asin_count": 1,
+          "total_gms": 20500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 20500.0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "伊藤さくら",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 81300.0,
+      "target_t30_gms": 98000.0,
+      "gap": 16700.0,
+      "sourcing_contribution": 22500.0,
+      "suppression_contribution": 0.0,
+      "total_contribution": 22500.0,
+      "achievement_rate": 134.7305389221557,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 71800.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 67800.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 58300.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 41500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 2,
+          "total_gms": 41500.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 22500.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "伊藤さくら",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 81300.0,
+      "target_t30_gms": 98000.0,
+      "gap": 16700.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 1416.4920000000004,
+      "total_contribution": 1416.4920000000004,
+      "achievement_rate": 8.481988023952098,
+      "feasibility_score": 0.08481988023952099,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "伊藤さくら",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 81300.0,
+      "target_t30_gms": 98000.0,
+      "gap": 16700.0,
+      "sourcing_contribution": 22500.0,
+      "suppression_contribution": 1416.4920000000004,
+      "total_contribution": 23916.492000000002,
+      "achievement_rate": 143.2125269461078,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 71800.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 67800.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 58300.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 41500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 2,
+          "total_gms": 41500.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 22500.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "佐藤花子",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 76800.0,
+      "target_t30_gms": 95000.0,
+      "gap": 18200.0,
+      "sourcing_contribution": 22000.0,
+      "suppression_contribution": 0.0,
+      "total_contribution": 22000.0,
+      "achievement_rate": 120.87912087912088,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 48300.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 54800.0
+        },
+        "nys26_flag": {
+          "asin_count": 4,
+          "total_gms": 66300.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 32500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 22000.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 22000.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "佐藤花子",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 76800.0,
+      "target_t30_gms": 95000.0,
+      "gap": 18200.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 1373.1300000000003,
+      "total_contribution": 1373.1300000000003,
+      "achievement_rate": 7.544670329670332,
+      "feasibility_score": 0.07544670329670332,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "佐藤花子",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 76800.0,
+      "target_t30_gms": 95000.0,
+      "gap": 18200.0,
+      "sourcing_contribution": 22000.0,
+      "suppression_contribution": 1373.1300000000003,
+      "total_contribution": 23373.13,
+      "achievement_rate": 128.42379120879122,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 48300.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 54800.0
+        },
+        "nys26_flag": {
+          "asin_count": 4,
+          "total_gms": 66300.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 32500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 22000.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 22000.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "加藤愛",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 70500.0,
+      "target_t30_gms": 125000.0,
+      "gap": 54500.0,
+      "sourcing_contribution": 52890.32258064515,
+      "suppression_contribution": 0.0,
+      "total_contribution": 52890.32258064515,
+      "achievement_rate": 97.04646345072506,
+      "feasibility_score": 0.9704646345072505,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 70500.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 56700.0
+        },
+        "nys26_flag": {
+          "asin_count": 2,
+          "total_gms": 41200.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 41200.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 23000.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 23000.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "加藤愛",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 70500.0,
+      "target_t30_gms": 125000.0,
+      "gap": 54500.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 1806.7500000000005,
+      "total_contribution": 1806.7500000000005,
+      "achievement_rate": 3.3151376146789002,
+      "feasibility_score": 0.033151376146789,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "加藤愛",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 70500.0,
+      "target_t30_gms": 125000.0,
+      "gap": 54500.0,
+      "sourcing_contribution": 39438.70967741935,
+      "suppression_contribution": 1806.7500000000005,
+      "total_contribution": 41245.45967741935,
+      "achievement_rate": 75.67974252737496,
+      "feasibility_score": 0.7567974252737495,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 70500.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 56700.0
+        },
+        "nys26_flag": {
+          "asin_count": 2,
+          "total_gms": 41200.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 41200.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 23000.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 23000.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "小林誠",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 77300.0,
+      "target_t30_gms": 85000.0,
+      "gap": 7700.0,
+      "sourcing_contribution": 20200.0,
+      "suppression_contribution": 0.0,
+      "total_contribution": 20200.0,
+      "achievement_rate": 262.3376623376624,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 66800.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 65000.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 50500.0
+        },
+        "bf25_flag": {
+          "asin_count": 3,
+          "total_gms": 54500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 20200.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 20200.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "小林誠",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 77300.0,
+      "target_t30_gms": 85000.0,
+      "gap": 7700.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 1228.5900000000004,
+      "total_contribution": 1228.5900000000004,
+      "achievement_rate": 15.95571428571429,
+      "feasibility_score": 0.1595571428571429,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "小林誠",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 77300.0,
+      "target_t30_gms": 85000.0,
+      "gap": 7700.0,
+      "sourcing_contribution": 20200.0,
+      "suppression_contribution": 1228.5900000000004,
+      "total_contribution": 21428.59,
+      "achievement_rate": 278.2933766233766,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 66800.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 65000.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 50500.0
+        },
+        "bf25_flag": {
+          "asin_count": 3,
+          "total_gms": 54500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 20200.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 20200.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "山本大輔",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 71400.0,
+      "target_t30_gms": 88000.0,
+      "gap": 16600.0,
+      "sourcing_contribution": 18967.741935483868,
+      "suppression_contribution": 0.0,
+      "total_contribution": 18967.741935483868,
+      "achievement_rate": 114.26350563544499,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 52000.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 61200.0
+        },
+        "nys26_flag": {
+          "asin_count": 2,
+          "total_gms": 36800.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 31200.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "山本大輔",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 71400.0,
+      "target_t30_gms": 88000.0,
+      "gap": 16600.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 1271.9520000000005,
+      "total_contribution": 1271.9520000000005,
+      "achievement_rate": 7.662361445783135,
+      "feasibility_score": 0.07662361445783135,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "山本大輔",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 71400.0,
+      "target_t30_gms": 88000.0,
+      "gap": 16600.0,
+      "sourcing_contribution": 18967.741935483868,
+      "suppression_contribution": 1271.9520000000005,
+      "total_contribution": 20239.69393548387,
+      "achievement_rate": 121.92586708122812,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 52000.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 61200.0
+        },
+        "nys26_flag": {
+          "asin_count": 2,
+          "total_gms": 36800.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 31200.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "渡辺健太",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 67100.0,
+      "target_t30_gms": 82000.0,
+      "gap": 14900.0,
+      "sourcing_contribution": 16980.64516129032,
+      "suppression_contribution": 0.0,
+      "total_contribution": 16980.64516129032,
+      "achievement_rate": 113.96406148516994,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 48500.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 46100.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 46100.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 26600.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "渡辺健太",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 67100.0,
+      "target_t30_gms": 82000.0,
+      "gap": 14900.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 1185.2280000000003,
+      "total_contribution": 1185.2280000000003,
+      "achievement_rate": 7.954550335570472,
+      "feasibility_score": 0.07954550335570472,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "渡辺健太",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 67100.0,
+      "target_t30_gms": 82000.0,
+      "gap": 14900.0,
+      "sourcing_contribution": 16980.64516129032,
+      "suppression_contribution": 1185.2280000000003,
+      "total_contribution": 18165.873161290318,
+      "achievement_rate": 121.9186118207404,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 48500.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 46100.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 46100.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 26600.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "田中太郎",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 68000.0,
+      "target_t30_gms": 75000.0,
+      "gap": 7000.0,
+      "sourcing_contribution": 12541.935483870968,
+      "suppression_contribution": 0.0,
+      "total_contribution": 12541.935483870968,
+      "achievement_rate": 179.17050691244242,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 43200.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 49500.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 31200.0
+        },
+        "bf25_flag": {
+          "asin_count": 1,
+          "total_gms": 15000.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "田中太郎",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 68000.0,
+      "target_t30_gms": 75000.0,
+      "gap": 7000.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 1084.0500000000002,
+      "total_contribution": 1084.0500000000002,
+      "achievement_rate": 15.486428571428574,
+      "feasibility_score": 0.15486428571428573,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "田中太郎",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 68000.0,
+      "target_t30_gms": 75000.0,
+      "gap": 7000.0,
+      "sourcing_contribution": 12541.935483870968,
+      "suppression_contribution": 1084.0500000000002,
+      "total_contribution": 13625.985483870969,
+      "achievement_rate": 194.65693548387097,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 43200.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 49500.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 31200.0
+        },
+        "bf25_flag": {
+          "asin_count": 1,
+          "total_gms": 15000.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "鈴木一郎",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 65100.0,
+      "target_t30_gms": 68000.0,
+      "gap": 2900.0,
+      "sourcing_contribution": 20806.451612903224,
+      "suppression_contribution": 0.0,
+      "total_contribution": 20806.451612903224,
+      "achievement_rate": 717.4638487208008,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 56200.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 44400.0
+        },
+        "nys26_flag": {
+          "asin_count": 1,
+          "total_gms": 21500.0
+        },
+        "bf25_flag": {
+          "asin_count": 1,
+          "total_gms": 21500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 21500.0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "鈴木一郎",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 65100.0,
+      "target_t30_gms": 68000.0,
+      "gap": 2900.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 982.8720000000002,
+      "total_contribution": 982.8720000000002,
+      "achievement_rate": 33.89213793103449,
+      "feasibility_score": 0.3389213793103449,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "鈴木一郎",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 65100.0,
+      "target_t30_gms": 68000.0,
+      "gap": 2900.0,
+      "sourcing_contribution": 20806.451612903224,
+      "suppression_contribution": 982.8720000000002,
+      "total_contribution": 21789.323612903223,
+      "achievement_rate": 751.3559866518353,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 56200.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 44400.0
+        },
+        "nys26_flag": {
+          "asin_count": 1,
+          "total_gms": 21500.0
+        },
+        "bf25_flag": {
+          "asin_count": 1,
+          "total_gms": 21500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 21500.0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "高橋美咲",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 85500.0,
+      "target_t30_gms": 110000.0,
+      "gap": 24500.0,
+      "sourcing_contribution": 40193.548387096766,
+      "suppression_contribution": 0.0,
+      "total_contribution": 40193.548387096766,
+      "achievement_rate": 164.05529953917045,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 74500.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 61700.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 55500.0
+        },
+        "bf25_flag": {
+          "asin_count": 3,
+          "total_gms": 61700.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "高橋美咲",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 85500.0,
+      "target_t30_gms": 110000.0,
+      "gap": 24500.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 1589.9400000000005,
+      "total_contribution": 1589.9400000000005,
+      "achievement_rate": 6.4895510204081654,
+      "feasibility_score": 0.06489551020408166,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Alias",
+      "entity_id": "高橋美咲",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 85500.0,
+      "target_t30_gms": 110000.0,
+      "gap": 24500.0,
+      "sourcing_contribution": 22580.64516129032,
+      "suppression_contribution": 1589.9400000000005,
+      "total_contribution": 24170.58516129032,
+      "achievement_rate": 98.65544963791967,
+      "feasibility_score": 0.9865544963791968,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 74500.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 61700.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 55500.0
+        },
+        "bf25_flag": {
+          "asin_count": 3,
+          "total_gms": 61700.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Mgr",
+      "entity_id": "佐々木マネージャー",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 217700.0,
+      "target_t30_gms": 260000.0,
+      "gap": 42300.0,
+      "sourcing_contribution": 43387.096774193546,
+      "suppression_contribution": 0.0,
+      "total_contribution": 43387.096774193546,
+      "achievement_rate": 102.56996873331808,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 11,
+          "total_gms": 179200.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 9,
+          "total_gms": 152200.0
+        },
+        "nys26_flag": {
+          "asin_count": 7,
+          "total_gms": 123100.0
+        },
+        "bf25_flag": {
+          "asin_count": 6,
+          "total_gms": 109800.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 21500.0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Mgr",
+      "entity_id": "佐々木マネージャー",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 217700.0,
+      "target_t30_gms": 260000.0,
+      "gap": 42300.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 3758.040000000001,
+      "total_contribution": 3758.040000000001,
+      "achievement_rate": 8.884255319148938,
+      "feasibility_score": 0.08884255319148938,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Mgr",
+      "entity_id": "佐々木マネージャー",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 217700.0,
+      "target_t30_gms": 260000.0,
+      "gap": 42300.0,
+      "sourcing_contribution": 22580.64516129032,
+      "suppression_contribution": 3758.040000000001,
+      "total_contribution": 26338.68516129032,
+      "achievement_rate": 62.26639518035536,
+      "feasibility_score": 0.6226639518035536,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 11,
+          "total_gms": 179200.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 9,
+          "total_gms": 152200.0
+        },
+        "nys26_flag": {
+          "asin_count": 7,
+          "total_gms": 123100.0
+        },
+        "bf25_flag": {
+          "asin_count": 6,
+          "total_gms": 109800.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 21500.0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Mgr",
+      "entity_id": "山田マネージャー",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 144800.0,
+      "target_t30_gms": 170000.0,
+      "gap": 25200.0,
+      "sourcing_contribution": 34541.93548387097,
+      "suppression_contribution": 0.0,
+      "total_contribution": 34541.93548387097,
+      "achievement_rate": 137.07117255504352,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 6,
+          "total_gms": 91500.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 7,
+          "total_gms": 104300.0
+        },
+        "nys26_flag": {
+          "asin_count": 7,
+          "total_gms": 97500.0
+        },
+        "bf25_flag": {
+          "asin_count": 3,
+          "total_gms": 47500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 22000.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 22000.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Mgr",
+      "entity_id": "山田マネージャー",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 144800.0,
+      "target_t30_gms": 170000.0,
+      "gap": 25200.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 2457.1800000000007,
+      "total_contribution": 2457.1800000000007,
+      "achievement_rate": 9.750714285714288,
+      "feasibility_score": 0.09750714285714289,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Mgr",
+      "entity_id": "山田マネージャー",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 144800.0,
+      "target_t30_gms": 170000.0,
+      "gap": 25200.0,
+      "sourcing_contribution": 22000.0,
+      "suppression_contribution": 2457.1800000000007,
+      "total_contribution": 24457.18,
+      "achievement_rate": 97.0523015873016,
+      "feasibility_score": 0.9705230158730159,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 6,
+          "total_gms": 91500.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 7,
+          "total_gms": 104300.0
+        },
+        "nys26_flag": {
+          "asin_count": 7,
+          "total_gms": 97500.0
+        },
+        "bf25_flag": {
+          "asin_count": 3,
+          "total_gms": 47500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 22000.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 22000.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Mgr",
+      "entity_id": "木村マネージャー",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 147800.0,
+      "target_t30_gms": 210000.0,
+      "gap": 62200.0,
+      "sourcing_contribution": 77522.58064516129,
+      "suppression_contribution": 0.0,
+      "total_contribution": 77522.58064516129,
+      "achievement_rate": 124.6343740275905,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 8,
+          "total_gms": 137300.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 7,
+          "total_gms": 121700.0
+        },
+        "nys26_flag": {
+          "asin_count": 5,
+          "total_gms": 91700.0
+        },
+        "bf25_flag": {
+          "asin_count": 5,
+          "total_gms": 95700.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 2,
+          "total_gms": 43200.0
+        },
+        "t365_flag": {
+          "asin_count": 2,
+          "total_gms": 43200.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Mgr",
+      "entity_id": "木村マネージャー",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 147800.0,
+      "target_t30_gms": 210000.0,
+      "gap": 62200.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 3035.3400000000006,
+      "total_contribution": 3035.3400000000006,
+      "achievement_rate": 4.8799678456591655,
+      "feasibility_score": 0.04879967845659165,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Mgr",
+      "entity_id": "木村マネージャー",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 147800.0,
+      "target_t30_gms": 210000.0,
+      "gap": 62200.0,
+      "sourcing_contribution": 43200.0,
+      "suppression_contribution": 3035.3400000000006,
+      "total_contribution": 46235.340000000004,
+      "achievement_rate": 74.33334405144694,
+      "feasibility_score": 0.7433334405144695,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 8,
+          "total_gms": 137300.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 7,
+          "total_gms": 121700.0
+        },
+        "nys26_flag": {
+          "asin_count": 5,
+          "total_gms": 91700.0
+        },
+        "bf25_flag": {
+          "asin_count": 5,
+          "total_gms": 95700.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 2,
+          "total_gms": 43200.0
+        },
+        "t365_flag": {
+          "asin_count": 2,
+          "total_gms": 43200.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Mgr",
+      "entity_id": "田村マネージャー",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 224000.0,
+      "target_t30_gms": 278000.0,
+      "gap": 54000.0,
+      "sourcing_contribution": 61306.45161290321,
+      "suppression_contribution": 0.0,
+      "total_contribution": 61306.45161290321,
+      "achievement_rate": 113.53046594982077,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 11,
+          "total_gms": 186400.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 10,
+          "total_gms": 167000.0
+        },
+        "nys26_flag": {
+          "asin_count": 8,
+          "total_gms": 141800.0
+        },
+        "bf25_flag": {
+          "asin_count": 5,
+          "total_gms": 93200.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 3,
+          "total_gms": 62000.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 22500.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Mgr",
+      "entity_id": "田村マネージャー",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 224000.0,
+      "target_t30_gms": 278000.0,
+      "gap": 54000.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 4018.212000000001,
+      "total_contribution": 4018.212000000001,
+      "achievement_rate": 7.441133333333334,
+      "feasibility_score": 0.07441133333333334,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Mgr",
+      "entity_id": "田村マネージャー",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 224000.0,
+      "target_t30_gms": 278000.0,
+      "gap": 54000.0,
+      "sourcing_contribution": 42338.70967741935,
+      "suppression_contribution": 4018.212000000001,
+      "total_contribution": 46356.92167741935,
+      "achievement_rate": 85.84615125448028,
+      "feasibility_score": 0.8584615125448027,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 11,
+          "total_gms": 186400.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 10,
+          "total_gms": 167000.0
+        },
+        "nys26_flag": {
+          "asin_count": 8,
+          "total_gms": 141800.0
+        },
+        "bf25_flag": {
+          "asin_count": 5,
+          "total_gms": 93200.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 3,
+          "total_gms": 62000.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 22500.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Team",
+      "entity_id": "大阪チーム",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 371800.0,
+      "target_t30_gms": 488000.0,
+      "gap": 116200.0,
+      "sourcing_contribution": 122893.54838709676,
+      "suppression_contribution": 0.0,
+      "total_contribution": 122893.54838709676,
+      "achievement_rate": 105.76036866359446,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 19,
+          "total_gms": 323700.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 17,
+          "total_gms": 288700.0
+        },
+        "nys26_flag": {
+          "asin_count": 13,
+          "total_gms": 233500.0
+        },
+        "bf25_flag": {
+          "asin_count": 10,
+          "total_gms": 188900.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 5,
+          "total_gms": 105200.0
+        },
+        "t365_flag": {
+          "asin_count": 3,
+          "total_gms": 65700.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Team",
+      "entity_id": "大阪チーム",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 371800.0,
+      "target_t30_gms": 488000.0,
+      "gap": 116200.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 7053.5520000000015,
+      "total_contribution": 7053.5520000000015,
+      "achievement_rate": 6.070182444061963,
+      "feasibility_score": 0.06070182444061963,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Team",
+      "entity_id": "大阪チーム",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 371800.0,
+      "target_t30_gms": 488000.0,
+      "gap": 116200.0,
+      "sourcing_contribution": 65700.0,
+      "suppression_contribution": 7053.5520000000015,
+      "total_contribution": 72753.552,
+      "achievement_rate": 62.61062994836488,
+      "feasibility_score": 0.6261062994836488,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 19,
+          "total_gms": 323700.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 17,
+          "total_gms": 288700.0
+        },
+        "nys26_flag": {
+          "asin_count": 13,
+          "total_gms": 233500.0
+        },
+        "bf25_flag": {
+          "asin_count": 10,
+          "total_gms": 188900.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 5,
+          "total_gms": 105200.0
+        },
+        "t365_flag": {
+          "asin_count": 3,
+          "total_gms": 65700.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Team",
+      "entity_id": "東京チーム",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 362500.0,
+      "target_t30_gms": 430000.0,
+      "gap": 67500.0,
+      "sourcing_contribution": 83000.0,
+      "suppression_contribution": 0.0,
+      "total_contribution": 83000.0,
+      "achievement_rate": 122.96296296296296,
+      "feasibility_score": 1.0,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 17,
+          "total_gms": 270700.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 16,
+          "total_gms": 256500.0
+        },
+        "nys26_flag": {
+          "asin_count": 14,
+          "total_gms": 220600.0
+        },
+        "bf25_flag": {
+          "asin_count": 9,
+          "total_gms": 157300.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 2,
+          "total_gms": 43500.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 22000.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Team",
+      "entity_id": "東京チーム",
+      "pattern_name": "Suppression-Focused",
+      "current_t30_gms": 362500.0,
+      "target_t30_gms": 430000.0,
+      "gap": 67500.0,
+      "sourcing_contribution": 0.0,
+      "suppression_contribution": 6215.220000000001,
+      "total_contribution": 6215.220000000001,
+      "achievement_rate": 9.207733333333334,
+      "feasibility_score": 0.09207733333333334,
+      "event_breakdown": {},
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "level": "Team",
+      "entity_id": "東京チーム",
+      "pattern_name": "Balanced",
+      "current_t30_gms": 362500.0,
+      "target_t30_gms": 430000.0,
+      "gap": 67500.0,
+      "sourcing_contribution": 44580.64516129032,
+      "suppression_contribution": 6215.220000000001,
+      "total_contribution": 50795.86516129032,
+      "achievement_rate": 75.25313357228195,
+      "feasibility_score": 0.7525313357228195,
+      "event_breakdown": {
+        "sshve1_flag": {
+          "asin_count": 17,
+          "total_gms": 270700.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 16,
+          "total_gms": 256500.0
+        },
+        "nys26_flag": {
+          "asin_count": 14,
+          "total_gms": 220600.0
+        },
+        "bf25_flag": {
+          "asin_count": 9,
+          "total_gms": 157300.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 2,
+          "total_gms": 43500.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 22000.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    }
+  ]
+};
+        
+        function showDetailModal(planIndex) {
+            const plan = window.currentFilteredPlans[planIndex];
+            const modal = document.getElementById('detailModal');
+            const modalTitle = document.getElementById('modalTitle');
+            const modalBody = document.getElementById('modalBody');
+            
+            modalTitle.textContent = `${plan.entity_id} - ${plan.pattern_name} 詳細`;
+            
+            let html = '';
+            
+            // Sourcing Detail
+            if (plan.event_breakdown && Object.keys(plan.event_breakdown).length > 0) {
+                html += `
+                    <div class="detail-section">
+                        <h3>📊 Sourcingポテンシャル詳細（イベント別）</h3>
+                        <table class="detail-table">
+                            <thead>
+                                <tr>
+                                    <th>イベント</th>
+                                    <th>参加ASIN数</th>
+                                    <th>合計GMS</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                `;
+                
+                for (const [event, data] of Object.entries(plan.event_breakdown)) {
+                    html += `
+                        <tr>
+                            <td><strong>${event}</strong></td>
+                            <td>${data.asin_count.toLocaleString('ja-JP')}</td>
+                            <td>${data.total_gms.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</td>
+                        </tr>
+                    `;
+                }
+                
+                html += `
+                            </tbody>
+                        </table>
+                        <p style="margin-top: 15px; font-size: 0.9em; color: #666;">
+                            ※ 各イベントに過去参加したASINの数とGMS合計を表示しています
+                        </p>
+                    </div>
+                `;
+            }
+            
+            // Suppression Detail
+            if (plan.suppression_breakdown && Object.keys(plan.suppression_breakdown).length > 0) {
+                html += `
+                    <div class="detail-section">
+                        <h3>📍 Suppression状況詳細（カテゴリ別）</h3>
+                        <table class="detail-table">
+                            <thead>
+                                <tr>
+                                    <th>カテゴリ</th>
+                                    <th>ASIN数</th>
+                                    <th>割合</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                `;
+                
+                for (const [category, data] of Object.entries(plan.suppression_breakdown)) {
+                    html += `
+                        <tr>
+                            <td><strong>${category}</strong></td>
+                            <td>${data.count.toLocaleString('ja-JP')}</td>
+                            <td>${data.percentage.toFixed(1)}%</td>
+                        </tr>
+                    `;
+                }
+                
+                html += `
+                            </tbody>
+                        </table>
+                        <p style="margin-top: 15px; font-size: 0.9em; color: #666;">
+                            ※ このエンティティのASINがどのSuppressionカテゴリに属しているかを表示しています
+                        </p>
+                    </div>
+                `;
+            }
+            
+            // Summary
+            html += `
+                <div class="detail-section">
+                    <h3>📈 達成状況サマリー</h3>
+                    <table class="detail-table">
+                        <tbody>
+                            <tr>
+                                <td><strong>現在GMS</strong></td>
+                                <td>${plan.current_t30_gms.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</td>
+                            </tr>
+                            <tr>
+                                <td><strong>目標GMS</strong></td>
+                                <td>${plan.target_t30_gms.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</td>
+                            </tr>
+                            <tr>
+                                <td><strong>ギャップ</strong></td>
+                                <td>${plan.gap.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Sourcing貢献</strong></td>
+                                <td>${plan.sourcing_contribution.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Suppression改善</strong></td>
+                                <td>${plan.suppression_contribution.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</td>
+                            </tr>
+                            <tr style="background: #f0f0f0;">
+                                <td><strong>合計貢献</strong></td>
+                                <td><strong>${plan.total_contribution.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</strong></td>
+                            </tr>
+                            <tr style="background: ${plan.achievement_rate >= 100 ? '#d4edda' : '#fff3cd'};">
+                                <td><strong>達成率</strong></td>
+                                <td><strong style="color: ${plan.achievement_rate >= 100 ? '#28a745' : '#ffc107'}">${plan.achievement_rate.toFixed(1)}%</strong></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            `;
+            
+            modalBody.innerHTML = html;
+            modal.classList.remove('hidden');
+            modal.classList.add('show');
+        }
+        
+        function closeDetailModal() {
+            const modal = document.getElementById('detailModal');
+            modal.classList.remove('show');
+            modal.classList.add('hidden');
+        }
+        
+        // Close modal when clicking outside
+        window.onclick = function(event) {
+            const modal = document.getElementById('detailModal');
+            if (event.target == modal) {
+                closeDetailModal();
+            }
+        }
+        
+        function updateEntityOptions() {
+            const level = document.getElementById('levelSelect').value;
+            const entitySelect = document.getElementById('entitySelect');
+            
+            entitySelect.innerHTML = '<option value="">すべて</option>';
+            
+            if (!level) return;
+            
+            // Get unique entities for this level
+            const entities = [...new Set(
+                BRIDGE_PLAN_DATA.plans
+                    .filter(p => p.level === level)
+                    .map(p => p.entity_id)
+            )].sort();
+            
+            entities.forEach(entity => {
+                const option = document.createElement('option');
+                option.value = entity;
+                option.textContent = entity;
+                entitySelect.appendChild(option);
+            });
+        }
+        
+        function filterAndDisplay() {
+            const level = document.getElementById('levelSelect').value;
+            const entity = document.getElementById('entitySelect').value;
+            const pattern = document.getElementById('patternSelect').value;
+            
+            if (!level) {
+                alert('集計レベルを選択してください');
+                return;
+            }
+            
+            // Filter plans
+            let filteredPlans = BRIDGE_PLAN_DATA.plans.filter(p => p.level === level);
+            
+            if (entity) {
+                filteredPlans = filteredPlans.filter(p => p.entity_id === entity);
+            }
+            
+            if (pattern) {
+                filteredPlans = filteredPlans.filter(p => p.pattern_name === pattern);
+            }
+            
+            // Store for detail modal
+            window.currentFilteredPlans = filteredPlans;
+            
+            // Display results
+            displayResults(filteredPlans);
+            displayStats(filteredPlans);
+        }
+        
+        function displayResults(plans) {
+            const tbody = document.getElementById('resultsBody');
+            const resultsSection = document.getElementById('resultsSection');
+            const resultsCount = document.getElementById('resultsCount');
+            
+            tbody.innerHTML = '';
+            
+            if (plans.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="11" style="text-align: center; padding: 30px;">該当するプランが見つかりません</td></tr>';
+                resultsSection.classList.remove('hidden');
+                resultsCount.textContent = '0件のプラン';
+                return;
+            }
+            
+            plans.forEach((plan, index) => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${plan.level}</td>
+                    <td><strong>${plan.entity_id}</strong></td>
+                    <td>${plan.pattern_name}</td>
+                    <td>${plan.current_t30_gms.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</td>
+                    <td>${plan.target_t30_gms.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</td>
+                    <td>${plan.gap.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</td>
+                    <td>${plan.sourcing_contribution.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</td>
+                    <td>${plan.suppression_contribution.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</td>
+                    <td><strong>${plan.total_contribution.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</strong></td>
+                    <td><strong style="color: ${plan.achievement_rate >= 100 ? '#28a745' : '#dc3545'}">${plan.achievement_rate.toFixed(1)}%</strong></td>
+                    <td><button class="btn-detail" onclick="showDetailModal(${index})">詳細</button></td>
+                `;
+                tbody.appendChild(row);
+            });
+            
+            resultsSection.classList.remove('hidden');
+            resultsCount.textContent = `${plans.length}件のプラン`;
+        }
+        
+        function displayStats(plans) {
+            const statsGrid = document.getElementById('statsGrid');
+            const statsSection = document.getElementById('statsSection');
+            
+            if (plans.length === 0) {
+                statsSection.classList.add('hidden');
+                return;
+            }
+            
+            // Calculate stats
+            const totalGap = plans.reduce((sum, p) => sum + p.gap, 0);
+            const totalContribution = plans.reduce((sum, p) => sum + p.total_contribution, 0);
+            const avgAchievement = plans.reduce((sum, p) => sum + p.achievement_rate, 0) / plans.length;
+            const plansOver100 = plans.filter(p => p.achievement_rate >= 100).length;
+            
+            statsGrid.innerHTML = `
+                <div class="stat-card">
+                    <div class="number">${plans.length}</div>
+                    <div class="label">プラン数</div>
+                </div>
+                <div class="stat-card">
+                    <div class="number">${totalGap.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</div>
+                    <div class="label">総ギャップ</div>
+                </div>
+                <div class="stat-card">
+                    <div class="number">${totalContribution.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</div>
+                    <div class="label">総貢献見込み</div>
+                </div>
+                <div class="stat-card">
+                    <div class="number" style="color: ${avgAchievement >= 100 ? '#28a745' : '#dc3545'}">${avgAchievement.toFixed(1)}%</div>
+                    <div class="label">平均達成率</div>
+                </div>
+                <div class="stat-card">
+                    <div class="number" style="color: #28a745">${plansOver100}</div>
+                    <div class="label">達成可能プラン</div>
+                </div>
+            `;
+            
+            statsSection.classList.remove('hidden');
+        }
+        
+        function resetFilters() {
+            document.getElementById('levelSelect').value = '';
+            document.getElementById('entitySelect').innerHTML = '<option value="">すべて</option>';
+            document.getElementById('patternSelect').value = '';
+            document.getElementById('resultsSection').classList.add('hidden');
+            document.getElementById('statsSection').classList.add('hidden');
+        }
+    </script>
+</body>
+</html>

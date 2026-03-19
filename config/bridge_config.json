@@ -1,0 +1,22 @@
+{
+  "sourcing_data_path": "data/sample_sourcing_data.csv",
+  "target_data_path": "data/sample_target_data.csv",
+  "suppression_benchmark_path": "data/sample_suppression_benchmark.csv",
+  "cid_mapping_path": "data/sample_cid_mapping.xlsx",
+  "cid_mapping_sheet": "Sheet1",
+  "suppression_coefficients": {
+    "No suppression": 0.5343,
+    "OOS": 0.2807,
+    "VRP missing": 0.0963,
+    "Price Error": 0.275,
+    "Others": 0.1801
+  },
+  "event_flag_priority": [
+    "sshve1_flag",
+    "fy26_mde2_flag",
+    "nys26_flag",
+    "bf25_flag",
+    "fy25_mde4_flag",
+    "t365_flag"
+  ]
+}

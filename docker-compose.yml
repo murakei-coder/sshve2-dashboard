@@ -1,0 +1,25 @@
+# Docker Compose configuration for SSHVE2 Dashboard
+# Docker Compose用の設定ファイル
+
+version: '3.8'
+
+services:
+  sshve2-dashboard:
+    build: .
+    container_name: sshve2_dashboard
+    ports:
+      - "8000:8000"
+    volumes:
+      # Mount data files
+      - ./sshve2_data_new_suppression_20260318_222020.json:/app/sshve2_data_new_suppression_20260318_222020.json:ro
+      - ./logs:/app/logs
+    environment:
+      - FLASK_ENV=production
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s

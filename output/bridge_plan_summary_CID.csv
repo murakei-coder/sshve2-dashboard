@@ -1,0 +1,61 @@
+﻿Pattern,Aggregation Level,Entity ID,Current T30 GMS,Target T30 GMS,Gap,Feasibility Score,Recommendations,Sourcing Gap Closable,Sourcing ASINs Count,Sourcing Remaining Gap,Suppression Gap Closable,Suppression Opportunities Count,Suppression Remaining Gap
+Sourcing-Focused,CID,CID001,68000,75000,7000,1.0,"Focus on sourcing high-potential ASINs to close 12542 of 7000 gap
+Recruit 1 ASINs with strong participation history
+Confidence level: 100%",12541.935483870968,1.0,0.0,,,
+Suppression-Focused,CID,CID001,68000,75000,7000,0.5142257142857143,"Focus on reducing suppression issues to close 3600 of 7000 gap
+Address 2 suppression categories
+Confidence level: 51%
+Priority: Reduce VRP missing from 18.0% to 8.7%
+Priority: Reduce Price Error from 18.0% to 15.2%
+Remaining gap: 3400 - consider supplementing with sourcing",,,,3599.5800000000004,2.0,3400.4199999999996
+Balanced,CID,CID001,68000,75000,7000,1.0,"Balanced approach: 179% sourcing + 50% suppression
+Recruit 1 ASINs (contributes 12542)
+Address 2 suppression issues (contributes 3500)
+Confidence level: 100%",12541.935483870968,1.0,0.0,3500.0,2.0,0.0
+Sourcing-Focused,CID,CID002,76800,95000,18200,1.0,"Focus on sourcing high-potential ASINs to close 22000 of 18200 gap
+Recruit 1 ASINs with strong participation history
+Confidence level: 100%",22000.0,1.0,0.0,,,
+Sourcing-Focused,CID,CID003,65100,68000,2900,1.0,"Focus on sourcing high-potential ASINs to close 20806 of 2900 gap
+Recruit 1 ASINs with strong participation history
+Confidence level: 100%",20806.451612903224,1.0,0.0,,,
+Suppression-Focused,CID,CID003,65100,68000,2900,1.0,"Focus on reducing suppression issues to close 2900 of 2900 gap
+Address 2 suppression categories
+Confidence level: 100%
+Priority: Reduce VRP missing from 18.0% to 8.7%
+Priority: Reduce Price Error from 18.0% to 15.2%",,,,2900.0,2.0,0.0
+Balanced,CID,CID003,65100,68000,2900,1.0,"Balanced approach: 717% sourcing + 50% suppression
+Recruit 1 ASINs (contributes 20806)
+Address 2 suppression issues (contributes 1450)
+Confidence level: 100%",20806.451612903224,1.0,0.0,1450.0,2.0,0.0
+Sourcing-Focused,CID,CID004,85500,110000,24500,1.0,"Focus on sourcing high-potential ASINs to close 40194 of 24500 gap
+Recruit 2 ASINs with strong participation history
+Confidence level: 100%",40193.548387096766,2.0,0.0,,,
+Sourcing-Focused,CID,CID005,67100,82000,14900,1.0,"Focus on sourcing high-potential ASINs to close 16981 of 14900 gap
+Recruit 1 ASINs with strong participation history
+Confidence level: 100%",16980.64516129032,1.0,0.0,,,
+Sourcing-Focused,CID,CID006,81300,98000,16700,1.0,"Focus on sourcing high-potential ASINs to close 22500 of 16700 gap
+Recruit 1 ASINs with strong participation history
+Confidence level: 100%",22500.0,1.0,0.0,,,
+Sourcing-Focused,CID,CID007,71400,88000,16600,1.0,"Focus on sourcing high-potential ASINs to close 18968 of 16600 gap
+Recruit 1 ASINs with strong participation history
+Confidence level: 100%",18967.741935483868,1.0,0.0,,,
+Sourcing-Focused,CID,CID008,71300,92000,20700,1.0,"Focus on sourcing high-potential ASINs to close 33387 of 20700 gap
+Recruit 2 ASINs with strong participation history
+Confidence level: 100%",33387.096774193546,2.0,0.0,,,
+Sourcing-Focused,CID,CID009,77300,85000,7700,1.0,"Focus on sourcing high-potential ASINs to close 20200 of 7700 gap
+Recruit 1 ASINs with strong participation history
+Confidence level: 100%",20200.0,1.0,0.0,,,
+Suppression-Focused,CID,CID009,77300,85000,7700,0.5298083116883118,"Focus on reducing suppression issues to close 4080 of 7700 gap
+Address 2 suppression categories
+Confidence level: 53%
+Priority: Reduce VRP missing from 18.0% to 8.7%
+Priority: Reduce Price Error from 18.0% to 15.2%
+Remaining gap: 3620 - consider supplementing with sourcing",,,,4079.5240000000003,2.0,3620.4759999999997
+Balanced,CID,CID009,77300,85000,7700,1.0,"Balanced approach: 262% sourcing + 50% suppression
+Recruit 1 ASINs (contributes 20200)
+Address 2 suppression issues (contributes 3850)
+Confidence level: 100%",20200.0,1.0,0.0,3850.0,2.0,0.0
+Sourcing-Focused,CID,CID010,70500,125000,54500,0.9704646345072505,"Focus on sourcing high-potential ASINs to close 52890 of 54500 gap
+Recruit 4 ASINs with strong participation history
+Confidence level: 97%
+Remaining gap: 1610 - consider supplementing with suppression optimization",52890.32258064515,4.0,1609.677419354848,,,

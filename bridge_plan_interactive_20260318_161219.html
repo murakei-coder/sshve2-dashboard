@@ -1,0 +1,964 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bridge Plan インタラクティブダッシュボード</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: 'Segoe UI', 'Yu Gothic', 'Meiryo', sans-serif;
+            background: #f5f7fa;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            padding: 25px 30px;
+        }
+        
+        .header h1 { font-size: 1.8em; margin-bottom: 5px; }
+        .header p { font-size: 0.9em; opacity: 0.9; }
+        
+        .content { padding: 30px; }
+        
+        .info-box {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        
+        .info-box strong { color: #856404; }
+        
+        .filter-section {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 25px;
+            border-left: 4px solid #1e3c72;
+        }
+        
+        .filter-row {
+            display: flex;
+            gap: 15px;
+            align-items: flex-end;
+        }
+        
+        .filter-group { flex: 1; }
+        
+        .filter-group label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 5px;
+            color: #333;
+            font-size: 0.9em;
+        }
+        
+        .filter-group input,
+        .filter-group select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 0.95em;
+        }
+        
+        .btn {
+            background: #1e3c72;
+            color: white;
+            border: none;
+            padding: 10px 25px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: background 0.3s;
+        }
+        
+        .btn:hover { background: #2a5298; }
+        .btn-secondary { background: #6c757d; }
+        .btn-secondary:hover { background: #5a6268; }
+        
+        .table-container {
+            overflow-x: auto;
+            margin-top: 20px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9em;
+        }
+        
+        thead {
+            background: #1e3c72;
+            color: white;
+        }
+        
+        thead th {
+            padding: 12px 8px;
+            text-align: center;
+            font-weight: 600;
+            border-right: 1px solid rgba(255,255,255,0.2);
+            font-size: 0.85em;
+        }
+        
+        tbody td {
+            padding: 10px 8px;
+            text-align: right;
+            border-bottom: 1px solid #e9ecef;
+            border-right: 1px solid #e9ecef;
+        }
+        
+        tbody td:first-child {
+            text-align: left;
+            font-weight: 600;
+            background: #f8f9fa;
+        }
+        
+        tbody tr:hover { background: #f8f9fa; }
+        
+        .editable-cell {
+            background: #fff9e6 !important;
+            cursor: pointer;
+        }
+        
+        .editable-cell:hover { background: #fff3cd !important; }
+        
+        .editable-cell input {
+            width: 100%;
+            padding: 5px;
+            border: 2px solid #ffc107;
+            border-radius: 3px;
+            text-align: right;
+            font-family: 'Consolas', 'Monaco', monospace;
+            font-size: 0.9em;
+        }
+        
+        .calculated-cell {
+            background: #e7f3ff !important;
+            font-weight: 700;
+        }
+        
+        .positive { color: #28a745; font-weight: 600; }
+        .negative { color: #dc3545; font-weight: 600; }
+        .section-header { background: #e9ecef; font-weight: 700; }
+        .sub-header { background: #f8f9fa; font-weight: 600; font-size: 0.8em; }
+        .number { font-family: 'Consolas', 'Monaco', monospace; }
+        .pct { font-size: 0.85em; color: #666; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎯 Bridge Plan インタラクティブダッシュボード</h1>
+            <p>生成日時: 2026-03-18 16:12:19</p>
+        </div>
+        
+        <div class="content">
+            <div class="info-box">
+                <strong>💡 使い方:</strong><br>
+                1. CIDを検索して表示<br>
+                2. 黄色のセル（Sourcing改善幅、Price Error削減率）をクリックして値を入力<br>
+                3. Projected OPSが自動計算されます
+            </div>
+            
+            <div class="filter-section">
+                <div class="filter-row">
+                    <div class="filter-group">
+                        <label>CID検索</label>
+                        <input type="text" id="cidSearch" placeholder="CIDを入力（例: CID001）">
+                    </div>
+                    <button class="btn" onclick="filterData()">🔍 検索</button>
+                    <button class="btn btn-secondary" onclick="resetFilter()">🔄 リセット</button>
+                </div>
+            </div>
+            
+            <div id="resultsSection">
+                <div class="table-container">
+                    <table id="dataTable">
+                        <thead>
+                            <tr>
+                                <th rowspan="2">CID</th>
+                                <th colspan="2" class="section-header">Sourced GMS</th>
+                                <th colspan="2" class="section-header">過去参加ASIN</th>
+                                <th colspan="5" class="section-header">Suppression Rate</th>
+                                <th colspan="2" class="section-header">Promotion OPS</th>
+                                <th rowspan="2">Sourcing<br>改善幅<br>(入力)</th>
+                                <th rowspan="2">Price Error<br>削減率%<br>(入力)</th>
+                                <th rowspan="2">Projected<br>OPS<br>(計算)</th>
+                            </tr>
+                            <tr>
+                                <th class="sub-header">Act</th>
+                                <th class="sub-header">vs Target</th>
+                                <th class="sub-header">SS HVE1</th>
+                                <th class="sub-header">T365</th>
+                                <th class="sub-header">No Supp</th>
+                                <th class="sub-header">OOS</th>
+                                <th class="sub-header">VRP Miss</th>
+                                <th class="sub-header">Price Err</th>
+                                <th class="sub-header">Others</th>
+                                <th class="sub-header">Forecast</th>
+                                <th class="sub-header">vs Target</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tableBody">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        const DATA = {
+  "metadata": {
+    "generated_at": "2026-03-18 16:12:19",
+    "total_cids": 10,
+    "suppression_coefficients": {
+      "No suppression": 0.5343,
+      "OOS": 0.2807,
+      "VRP missing": 0.0963,
+      "Price Error": 0.275,
+      "Others": 0.1801
+    },
+    "event_flags": [
+      "sshve1_flag",
+      "fy26_mde2_flag",
+      "nys26_flag",
+      "bf25_flag",
+      "fy25_mde4_flag",
+      "t365_flag"
+    ]
+  },
+  "cids": [
+    {
+      "cid": "CID001",
+      "current_gms": 68000.0,
+      "target_gms": 75000.0,
+      "gap": 7000.0,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 43200.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 49500.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 31200.0
+        },
+        "bf25_flag": {
+          "asin_count": 1,
+          "total_gms": 15000.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP Missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "cid": "CID002",
+      "current_gms": 76800.0,
+      "target_gms": 95000.0,
+      "gap": 18200.0,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 48300.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 54800.0
+        },
+        "nys26_flag": {
+          "asin_count": 4,
+          "total_gms": 66300.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 32500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 22000.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 22000.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP Missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "cid": "CID003",
+      "current_gms": 65100.0,
+      "target_gms": 68000.0,
+      "gap": 2900.0,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 56200.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 44400.0
+        },
+        "nys26_flag": {
+          "asin_count": 1,
+          "total_gms": 21500.0
+        },
+        "bf25_flag": {
+          "asin_count": 1,
+          "total_gms": 21500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 21500.0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP Missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "cid": "CID004",
+      "current_gms": 85500.0,
+      "target_gms": 110000.0,
+      "gap": 24500.0,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 74500.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 61700.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 55500.0
+        },
+        "bf25_flag": {
+          "asin_count": 3,
+          "total_gms": 61700.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP Missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "cid": "CID005",
+      "current_gms": 67100.0,
+      "target_gms": 82000.0,
+      "gap": 14900.0,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 48500.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 46100.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 46100.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 26600.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP Missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "cid": "CID006",
+      "current_gms": 81300.0,
+      "target_gms": 98000.0,
+      "gap": 16700.0,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 71800.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 67800.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 58300.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 41500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 2,
+          "total_gms": 41500.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 22500.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP Missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "cid": "CID007",
+      "current_gms": 71400.0,
+      "target_gms": 88000.0,
+      "gap": 16600.0,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 3,
+          "total_gms": 52000.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 61200.0
+        },
+        "nys26_flag": {
+          "asin_count": 2,
+          "total_gms": 36800.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 31200.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP Missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "cid": "CID008",
+      "current_gms": 71300.0,
+      "target_gms": 92000.0,
+      "gap": 20700.0,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 62600.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 2,
+          "total_gms": 38000.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 46700.0
+        },
+        "bf25_flag": {
+          "asin_count": 1,
+          "total_gms": 20500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 20500.0
+        },
+        "t365_flag": {
+          "asin_count": 0,
+          "total_gms": 0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP Missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "cid": "CID009",
+      "current_gms": 77300.0,
+      "target_gms": 85000.0,
+      "gap": 7700.0,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 66800.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 4,
+          "total_gms": 65000.0
+        },
+        "nys26_flag": {
+          "asin_count": 3,
+          "total_gms": 50500.0
+        },
+        "bf25_flag": {
+          "asin_count": 3,
+          "total_gms": 54500.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 20200.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 20200.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP Missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    {
+      "cid": "CID010",
+      "current_gms": 70500.0,
+      "target_gms": 125000.0,
+      "gap": 54500.0,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 4,
+          "total_gms": 70500.0
+        },
+        "fy26_mde2_flag": {
+          "asin_count": 3,
+          "total_gms": 56700.0
+        },
+        "nys26_flag": {
+          "asin_count": 2,
+          "total_gms": 41200.0
+        },
+        "bf25_flag": {
+          "asin_count": 2,
+          "total_gms": 41200.0
+        },
+        "fy25_mde4_flag": {
+          "asin_count": 1,
+          "total_gms": 23000.0
+        },
+        "t365_flag": {
+          "asin_count": 1,
+          "total_gms": 23000.0
+        }
+      },
+      "suppression_breakdown": {
+        "No suppression": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "OOS": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "VRP Missing": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Price Error": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Others": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    }
+  ]
+};
+        const COEFFICIENTS = {"No suppression": 0.5343, "OOS": 0.2807, "VRP missing": 0.0963, "Price Error": 0.275, "Others": 0.1801};
+        
+        // Store user inputs
+        const userInputs = {};
+        
+        function formatNumber(num) {
+            return Math.round(num).toLocaleString('ja-JP');
+        }
+        
+        function formatPercent(num) {
+            return num.toFixed(1) + '%';
+        }
+        
+        function calculateProjectedOPS(cid, currentGMS, targetGMS, suppBreakdown) {
+            const inputs = userInputs[cid] || {};
+            const sourcingImprovement = parseFloat(inputs.sourcing || 0);
+            const priceErrorReduction = parseFloat(inputs.priceErrorReduction || 0);
+            
+            // Calculate suppression improvement
+            // Formula: Current GMS * (Price Error % * Reduction % * Coefficient)
+            const currentPriceErrorPct = suppBreakdown['Price Error'].percentage / 100;
+            const priceErrorReductionPct = priceErrorReduction / 100;
+            const coefficient = COEFFICIENTS['Price Error'];
+            
+            const suppressionImprovement = currentGMS * currentPriceErrorPct * priceErrorReductionPct * coefficient;
+            
+            // Projected OPS = Current GMS + Sourcing Improvement + Suppression Improvement
+            const projectedOPS = currentGMS + sourcingImprovement + suppressionImprovement;
+            
+            return {
+                sourcingImprovement: sourcingImprovement,
+                suppressionImprovement: suppressionImprovement,
+                projectedOPS: projectedOPS,
+                vsTarget: projectedOPS - targetGMS,
+                achievementRate: (projectedOPS / targetGMS * 100)
+            };
+        }
+        
+        function makeEditable(cell, cid, field) {
+            const currentValue = userInputs[cid]?.[field] || 0;
+            cell.innerHTML = `<input type="number" value="${currentValue}" 
+                onblur="updateValue('${cid}', '${field}', this.value)" 
+                onkeypress="if(event.key==='Enter') this.blur()" 
+                step="0.01" min="0">`;
+            cell.querySelector('input').focus();
+            cell.querySelector('input').select();
+        }
+        
+        function updateValue(cid, field, value) {
+            if (!userInputs[cid]) {
+                userInputs[cid] = {};
+            }
+            userInputs[cid][field] = parseFloat(value) || 0;
+            renderTable(window.currentPlans);
+        }
+        
+        function renderTable(plans) {
+            const tbody = document.getElementById('tableBody');
+            tbody.innerHTML = '';
+            
+            window.currentPlans = plans;
+            
+            plans.forEach(plan => {
+                const row = document.createElement('tr');
+                
+                const calc = calculateProjectedOPS(
+                    plan.cid, 
+                    plan.current_gms, 
+                    plan.target_gms, 
+                    plan.suppression_breakdown
+                );
+                
+                // CID
+                const cidCell = document.createElement('td');
+                cidCell.textContent = plan.cid;
+                row.appendChild(cidCell);
+                
+                // Sourced GMS - Act
+                const actCell = document.createElement('td');
+                actCell.className = 'number';
+                actCell.textContent = formatNumber(plan.current_gms);
+                row.appendChild(actCell);
+                
+                // Sourced GMS - vs Target
+                const vsTargetClass = plan.gap < 0 ? 'positive' : 'negative';
+                const vsTargetCell = document.createElement('td');
+                vsTargetCell.className = 'number ' + vsTargetClass;
+                vsTargetCell.innerHTML = `${formatNumber(-plan.gap)}<br><span class="pct">${formatPercent(-plan.gap / plan.target_gms * 100)}</span>`;
+                row.appendChild(vsTargetCell);
+                
+                // 過去参加ASIN - SS HVE1
+                const sshve1 = plan.event_participation['sshve1_flag'] || {asin_count: 0};
+                const sshve1Cell = document.createElement('td');
+                sshve1Cell.className = 'number';
+                sshve1Cell.textContent = sshve1.asin_count;
+                row.appendChild(sshve1Cell);
+                
+                // 過去参加ASIN - T365
+                const t365 = plan.event_participation['t365_flag'] || {asin_count: 0};
+                const t365Cell = document.createElement('td');
+                t365Cell.className = 'number';
+                t365Cell.textContent = t365.asin_count;
+                row.appendChild(t365Cell);
+                
+                // Suppression rates
+                const suppCategories = ['No suppression', 'OOS', 'VRP Missing', 'Price Error', 'Others'];
+                suppCategories.forEach(cat => {
+                    const suppData = plan.suppression_breakdown[cat] || {percentage: 0};
+                    const suppCell = document.createElement('td');
+                    suppCell.className = 'number';
+                    suppCell.textContent = formatPercent(suppData.percentage);
+                    row.appendChild(suppCell);
+                });
+                
+                // Promotion OPS - Forecast
+                const forecastCell = document.createElement('td');
+                forecastCell.className = 'number';
+                forecastCell.textContent = formatNumber(plan.target_gms);
+                row.appendChild(forecastCell);
+                
+                // Promotion OPS - vs Target
+                const projVsTargetClass = calc.vsTarget >= 0 ? 'positive' : 'negative';
+                const projVsTargetCell = document.createElement('td');
+                projVsTargetCell.className = 'number ' + projVsTargetClass;
+                projVsTargetCell.textContent = formatNumber(calc.vsTarget);
+                row.appendChild(projVsTargetCell);
+                
+                // Sourcing改善幅 (Editable)
+                const sourcingCell = document.createElement('td');
+                sourcingCell.className = 'number editable-cell';
+                sourcingCell.textContent = formatNumber(calc.sourcingImprovement);
+                sourcingCell.onclick = function() { makeEditable(this, plan.cid, 'sourcing'); };
+                row.appendChild(sourcingCell);
+                
+                // Price Error削減率 (Editable)
+                const priceErrorReduction = userInputs[plan.cid]?.priceErrorReduction || 0;
+                const priceErrorCell = document.createElement('td');
+                priceErrorCell.className = 'number editable-cell';
+                priceErrorCell.textContent = formatPercent(priceErrorReduction);
+                priceErrorCell.onclick = function() { makeEditable(this, plan.cid, 'priceErrorReduction'); };
+                row.appendChild(priceErrorCell);
+                
+                // Projected OPS (Calculated)
+                const achievementClass = calc.achievementRate >= 100 ? 'positive' : 'negative';
+                const projectedCell = document.createElement('td');
+                projectedCell.className = 'number calculated-cell ' + achievementClass;
+                projectedCell.innerHTML = `${formatNumber(calc.projectedOPS)}<br><span class="pct">${formatPercent(calc.achievementRate)}</span>`;
+                row.appendChild(projectedCell);
+                
+                tbody.appendChild(row);
+            });
+        }
+        
+        function filterData() {
+            const searchTerm = document.getElementById('cidSearch').value.trim().toUpperCase();
+            
+            if (searchTerm === '') {
+                renderTable(DATA.cids);
+            } else {
+                const filtered = DATA.cids.filter(cid => 
+                    cid.cid.toUpperCase().includes(searchTerm)
+                );
+                renderTable(filtered);
+            }
+        }
+        
+        function resetFilter() {
+            document.getElementById('cidSearch').value = '';
+            renderTable(DATA.cids);
+        }
+        
+        // Initial render
+        renderTable(DATA.cids);
+    </script>
+</body>
+</html>

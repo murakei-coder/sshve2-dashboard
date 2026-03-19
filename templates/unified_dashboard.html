@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>統合ダッシュボード - Unified Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Meiryo, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            margin-bottom: 30px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 3em;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 1.3em;
+            color: #666;
+        }
+        
+        .tools-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 30px;
+            margin-top: 30px;
+        }
+        
+        .tool-card {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            transition: transform 0.3s, box-shadow 0.3s;
+            cursor: pointer;
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+        
+        .tool-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 50px rgba(0,0,0,0.3);
+        }
+        
+        .tool-icon {
+            font-size: 4em;
+            margin-bottom: 20px;
+        }
+        
+        .tool-title {
+            font-size: 1.8em;
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #333;
+        }
+        
+        .tool-description {
+            font-size: 1.1em;
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        
+        .tool-features {
+            list-style: none;
+            margin-top: 20px;
+        }
+        
+        .tool-features li {
+            padding: 8px 0;
+            color: #555;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .tool-features li:before {
+            content: "✓ ";
+            color: #667eea;
+            font-weight: bold;
+            margin-right: 10px;
+        }
+        
+        .badge {
+            display: inline-block;
+            padding: 5px 15px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 20px;
+            font-size: 0.9em;
+            margin-top: 15px;
+        }
+        
+        .footer {
+            text-align: center;
+            color: white;
+            margin-top: 50px;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎯 統合ダッシュボード</h1>
+            <p>Unified Analytics Dashboard</p>
+        </div>
+        
+        <div class="tools-grid">
+            <!-- Bridge Plan Generator -->
+            <a href="/bridge-plan" class="tool-card">
+                <div class="tool-icon">🌉</div>
+                <div class="tool-title">Bridge Plan Generator</div>
+                <div class="tool-description">
+                    売上目標を達成するための戦略的なブリッジプランを自動生成
+                </div>
+                <ul class="tool-features">
+                    <li>ソーシング最適化</li>
+                    <li>抑制問題の削減</li>
+                    <li>複数パターン生成</li>
+                    <li>Excel自動出力</li>
+                </ul>
+                <span class="badge">NEW</span>
+            </a>
+            
+            <!-- Data Central Query Executor -->
+            <div class="tool-card" style="opacity: 0.6; cursor: not-allowed;">
+                <div class="tool-icon">📊</div>
+                <div class="tool-title">Data Central Query</div>
+                <div class="tool-description">
+                    DataCentralクエリの実行と結果の可視化
+                </div>
+                <ul class="tool-features">
+                    <li>クエリ実行</li>
+                    <li>結果の可視化</li>
+                    <li>HTMLレポート生成</li>
+                </ul>
+                <span class="badge" style="background: #ccc;">準備中</span>
+            </div>
+            
+            <!-- Uplift Interaction Analyzer -->
+            <div class="tool-card" style="opacity: 0.6; cursor: not-allowed;">
+                <div class="tool-icon">📈</div>
+                <div class="tool-title">Uplift Analyzer</div>
+                <div class="tool-description">
+                    Uplift分析とインタラクション効果の測定
+                </div>
+                <ul class="tool-features">
+                    <li>Uplift計算</li>
+                    <li>統計分析</li>
+                    <li>可視化レポート</li>
+                </ul>
+                <span class="badge" style="background: #ccc;">準備中</span>
+            </div>
+            
+            <!-- Discount Effectiveness Analyzer -->
+            <div class="tool-card" style="opacity: 0.6; cursor: not-allowed;">
+                <div class="tool-icon">💰</div>
+                <div class="tool-title">Discount Analyzer</div>
+                <div class="tool-description">
+                    ディスカウント効果の分析と最適化
+                </div>
+                <ul class="tool-features">
+                    <li>効果測定</li>
+                    <li>外れ値検出</li>
+                    <li>最適化提案</li>
+                </ul>
+                <span class="badge" style="background: #ccc;">準備中</span>
+            </div>
+            
+            <!-- Sourcing Data Aggregator -->
+            <div class="tool-card" style="opacity: 0.6; cursor: not-allowed;">
+                <div class="tool-icon">📦</div>
+                <div class="tool-title">Sourcing Aggregator</div>
+                <div class="tool-description">
+                    ソーシングデータの集計と分析
+                </div>
+                <ul class="tool-features">
+                    <li>データ集計</li>
+                    <li>MCID分析</li>
+                    <li>レポート生成</li>
+                </ul>
+                <span class="badge" style="background: #ccc;">準備中</span>
+            </div>
+            
+            <!-- Reservation Management -->
+            <div class="tool-card" style="opacity: 0.6; cursor: not-allowed;">
+                <div class="tool-icon">📅</div>
+                <div class="tool-title">Reservation Manager</div>
+                <div class="tool-description">
+                    予約管理と最適化
+                </div>
+                <ul class="tool-features">
+                    <li>予約管理</li>
+                    <li>最適化</li>
+                    <li>レポート</li>
+                </ul>
+                <span class="badge" style="background: #ccc;">準備中</span>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>© 2026 Analytics Dashboard | すべての機能は順次追加予定です</p>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "amazon": {
+      "command": "amzn-mcp",
+      "args": [
+        "--include-tools=read_internal_website,search_internal_websites,read_quip,search_internal_code,edit_quip,sim_get_issue,create_quip,search_internal_issues,search_people,eureka_web_search"
+      ],
+      "env": {
+        "AMAZON_MCP_SERVER_CONFIG_PATH": "${aki_home}/.env"
+      },
+      "transport": "stdio"
+    },
+    "outlook": {
+      "command": "${aki_home}/venv/outlook-mcp/Scripts/python.exe",
+      "args": [
+        "${aki_home}/mcp_servers/outlook_mcp_server.py"
+      ],
+      "env": {},
+      "transport": "stdio",
+      "enabled": true,
+      "platforms": ["windows"],
+      "description": "Microsoft Outlook email management tools"
+    }
+  }
+}

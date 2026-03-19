@@ -1,0 +1,770 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bridge Plan Generator - ブリッジプラン生成ツール</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        
+        .content {
+            padding: 40px;
+        }
+        
+        .step {
+            margin-bottom: 40px;
+            padding: 30px;
+            background: #f8f9fa;
+            border-radius: 15px;
+            border-left: 5px solid #667eea;
+        }
+        
+        .step h2 {
+            color: #667eea;
+            margin-bottom: 20px;
+            font-size: 1.8em;
+        }
+        
+        .step-number {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            background: #667eea;
+            color: white;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 40px;
+            font-weight: bold;
+            margin-right: 15px;
+        }
+        
+        .button {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            font-size: 1.1em;
+            border-radius: 50px;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            font-weight: bold;
+        }
+        
+        .button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.4);
+        }
+        
+        .button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .select-box {
+            width: 100%;
+            padding: 15px;
+            font-size: 1.1em;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            transition: border-color 0.3s;
+        }
+        
+        .select-box:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        .radio-group {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .radio-option {
+            position: relative;
+        }
+        
+        .radio-option input[type="radio"] {
+            position: absolute;
+            opacity: 0;
+        }
+        
+        .radio-option label {
+            display: block;
+            padding: 20px;
+            background: white;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s;
+            text-align: center;
+            font-weight: bold;
+        }
+        
+        .radio-option input[type="radio"]:checked + label {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-color: #667eea;
+        }
+        
+        .radio-option label:hover {
+            border-color: #667eea;
+        }
+        
+        .status {
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+        
+        .status.success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        
+        .status.error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        
+        .status.info {
+            background: #d1ecf1;
+            color: #0c5460;
+            border: 1px solid #bee5eb;
+        }
+        
+        .loading {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #667eea;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-right: 10px;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .results-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .results-table th {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px;
+            text-align: left;
+            font-weight: bold;
+        }
+        
+        .results-table td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .results-table tr:hover {
+            background: #f8f9fa;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        
+        .stat-card .number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+        
+        .stat-card .label {
+            color: #666;
+            font-size: 1.1em;
+        }
+        
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎯 Bridge Plan Generator</h1>
+            <p>ブリッジプラン生成ツール</p>
+        </div>
+        
+        <div class="content">
+            <!-- Step 1: Data Status (Auto-loaded) -->
+            <div class="step">
+                <h2><span class="step-number">1</span>データ読み込み状況</h2>
+                <div id="loadStatus" class="status info">
+                    <span class="loading"></span>データ読み込み状況を確認しています...
+                </div>
+                <div id="dataStats" class="hidden"></div>
+            </div>
+            
+            <!-- Step 2: Select Level -->
+            <div class="step" id="step2" style="display: none;">
+                <h2><span class="step-number">2</span>集計レベルを選択</h2>
+                <p style="margin-bottom: 20px;">ブリッジプランを生成する集計レベルを選択してください。</p>
+                <div class="radio-group">
+                    <div class="radio-option">
+                        <input type="radio" id="level_cid" name="level" value="CID">
+                        <label for="level_cid">
+                            <div style="font-size: 1.5em; margin-bottom: 5px;">👤</div>
+                            CID<br>
+                            <small>個別セラー</small>
+                        </label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="level_alias" name="level" value="Alias">
+                        <label for="level_alias">
+                            <div style="font-size: 1.5em; margin-bottom: 5px;">👨‍💼</div>
+                            Alias<br>
+                            <small>営業担当者</small>
+                        </label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="level_mgr" name="level" value="Mgr">
+                        <label for="level_mgr">
+                            <div style="font-size: 1.5em; margin-bottom: 5px;">👔</div>
+                            Mgr<br>
+                            <small>マネージャー</small>
+                        </label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="level_team" name="level" value="Team">
+                        <label for="level_team">
+                            <div style="font-size: 1.5em; margin-bottom: 5px;">👥</div>
+                            Team<br>
+                            <small>チーム</small>
+                        </label>
+                    </div>
+                </div>
+                <button class="button" onclick="selectLevel()" id="selectLevelBtn">
+                    ✅ レベルを確定
+                </button>
+            </div>
+            
+            <!-- Step 3: Select Entity (Optional) -->
+            <div class="step" id="step3" style="display: none;">
+                <h2><span class="step-number">3</span>対象を選択（オプション）</h2>
+                <p style="margin-bottom: 20px;">特定の対象のみプランを生成する場合は選択してください。全体を生成する場合は「すべて」を選択してください。</p>
+                <select class="select-box" id="entitySelect">
+                    <option value="">すべて</option>
+                </select>
+            </div>
+            
+            <!-- Step 4: Generate Plan -->
+            <div class="step" id="step4" style="display: none;">
+                <h2><span class="step-number">4</span>プラン生成</h2>
+                <p style="margin-bottom: 20px;">設定が完了しました。ブリッジプランを生成します。</p>
+                <button class="button" onclick="generatePlan()" id="generateBtn">
+                    🚀 プランを生成
+                </button>
+                <div id="generateStatus" class="hidden"></div>
+            </div>
+            
+            <!-- Results -->
+            <div class="step" id="results" style="display: none;">
+                <h2><span class="step-number">✓</span>生成結果</h2>
+                <div id="resultsContent"></div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        let selectedLevel = null;
+        
+        // Auto-check data status on page load
+        window.addEventListener('DOMContentLoaded', function() {
+            checkDataStatus();
+        });
+        
+        async function checkDataStatus() {
+            const status = document.getElementById('loadStatus');
+            const statsDiv = document.getElementById('dataStats');
+            
+            try {
+                const response = await fetch('/api/bridge/load_data', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'}
+                });
+                
+                const data = await response.json();
+                
+                if (data.success) {
+                    status.className = 'status success';
+                    status.innerHTML = '✅ データは既に読み込まれています';
+                    
+                    // Show stats
+                    statsDiv.innerHTML = `
+                        <div class="stats-grid">
+                            <div class="stat-card">
+                                <div class="number">${data.stats.cid_count}</div>
+                                <div class="label">CID</div>
+                            </div>
+                            <div class="stat-card">
+                                <div class="number">${data.stats.alias_count}</div>
+                                <div class="label">Alias</div>
+                            </div>
+                            <div class="stat-card">
+                                <div class="number">${data.stats.mgr_count}</div>
+                                <div class="label">Manager</div>
+                            </div>
+                            <div class="stat-card">
+                                <div class="number">${data.stats.team_count}</div>
+                                <div class="label">Team</div>
+                            </div>
+                        </div>
+                    `;
+                    statsDiv.classList.remove('hidden');
+                    
+                    // Show step 2
+                    document.getElementById('step2').style.display = 'block';
+                } else {
+                    status.className = 'status error';
+                    status.innerHTML = '❌ ' + data.message + '<br><small>設定ファイルとデータファイルのパスを確認してください</small>';
+                }
+            } catch (error) {
+                status.className = 'status error';
+                status.innerHTML = '❌ サーバーに接続できません: ' + error.message;
+            }
+        }
+        
+        async function loadData() {
+            const btn = document.getElementById('loadBtn');
+            const status = document.getElementById('loadStatus');
+            const statsDiv = document.getElementById('dataStats');
+            
+            btn.disabled = true;
+            status.className = 'status info';
+            status.innerHTML = '<span class="loading"></span>データを読み込んでいます...';
+            status.classList.remove('hidden');
+            
+            try {
+                const response = await fetch('/api/bridge/load_data', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'}
+                });
+                
+                const data = await response.json();
+                
+                if (data.success) {
+                    status.className = 'status success';
+                    status.innerHTML = '✅ ' + data.message;
+                    
+                    // Show stats
+                    statsDiv.innerHTML = `
+                        <div class="stats-grid">
+                            <div class="stat-card">
+                                <div class="number">${data.stats.cid_count}</div>
+                                <div class="label">CID</div>
+                            </div>
+                            <div class="stat-card">
+                                <div class="number">${data.stats.alias_count}</div>
+                                <div class="label">Alias</div>
+                            </div>
+                            <div class="stat-card">
+                                <div class="number">${data.stats.mgr_count}</div>
+                                <div class="label">Manager</div>
+                            </div>
+                            <div class="stat-card">
+                                <div class="number">${data.stats.team_count}</div>
+                                <div class="label">Team</div>
+                            </div>
+                        </div>
+                    `;
+                    statsDiv.classList.remove('hidden');
+                    
+                    // Show step 2
+                    document.getElementById('step2').style.display = 'block';
+                } else {
+                    status.className = 'status error';
+                    status.innerHTML = '❌ ' + data.message;
+                    btn.disabled = false;
+                }
+            } catch (error) {
+                status.className = 'status error';
+                status.innerHTML = '❌ エラー: ' + error.message;
+                btn.disabled = false;
+            }
+        }
+        
+        async function selectLevel() {
+            const level = document.querySelector('input[name="level"]:checked');
+            
+            if (!level) {
+                alert('集計レベルを選択してください');
+                return;
+            }
+            
+            selectedLevel = level.value;
+            
+            // Load entities for this level
+            try {
+                const response = await fetch('/api/bridge/get_entities', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({level: selectedLevel})
+                });
+                
+                const data = await response.json();
+                
+                if (data.success) {
+                    const select = document.getElementById('entitySelect');
+                    select.innerHTML = '<option value="">すべて</option>';
+                    
+                    data.entities.forEach(entity => {
+                        const option = document.createElement('option');
+                        option.value = entity;
+                        option.textContent = entity;
+                        select.appendChild(option);
+                    });
+                    
+                    // Show steps 3 and 4
+                    document.getElementById('step3').style.display = 'block';
+                    document.getElementById('step4').style.display = 'block';
+                }
+            } catch (error) {
+                alert('エラー: ' + error.message);
+            }
+        }
+        
+        async function generatePlan() {
+            const btn = document.getElementById('generateBtn');
+            const status = document.getElementById('generateStatus');
+            const entitySelect = document.getElementById('entitySelect');
+            
+            btn.disabled = true;
+            status.className = 'status info';
+            status.innerHTML = '<span class="loading"></span>プランを生成しています...（数分かかる場合があります）';
+            status.classList.remove('hidden');
+            
+            try {
+                const response = await fetch('/api/bridge/generate_plan', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({
+                        level: selectedLevel,
+                        entity_id: entitySelect.value || null
+                    })
+                });
+                
+                const data = await response.json();
+                
+                if (data.success) {
+                    status.className = 'status success';
+                    status.innerHTML = '✅ ' + data.message;
+                    
+                    // Show results
+                    displayResults(data.plans, data.files, data.detailed_stats);
+                    document.getElementById('results').style.display = 'block';
+                    
+                    // Scroll to results
+                    document.getElementById('results').scrollIntoView({behavior: 'smooth'});
+                } else {
+                    status.className = 'status error';
+                    status.innerHTML = '❌ ' + data.message;
+                    btn.disabled = false;
+                }
+            } catch (error) {
+                status.className = 'status error';
+                status.innerHTML = '❌ エラー: ' + error.message;
+                btn.disabled = false;
+            }
+        }
+        
+        function displayResults(plans, files, detailedStats) {
+            const content = document.getElementById('resultsContent');
+            
+            let html = `
+                <div class="status success" style="margin-bottom: 20px;">
+                    <strong>📁 出力ファイル:</strong><br>
+                    ・サマリーCSV: ${files.summary_csv}<br>
+                    ・詳細Excel: ${files.excel}
+                </div>
+                
+                <h3 style="margin-bottom: 15px;">生成されたプラン一覧</h3>
+                <table class="results-table">
+                    <thead>
+                        <tr>
+                            <th>対象</th>
+                            <th>パターン</th>
+                            <th>現在</th>
+                            <th>目標</th>
+                            <th>ギャップ</th>
+                            <th>ソーシング貢献</th>
+                            <th>Suppression改善</th>
+                            <th>合計貢献</th>
+                            <th>達成率</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            `;
+            
+            plans.forEach(plan => {
+                html += `
+                    <tr>
+                        <td><strong>${plan.entity_id}</strong></td>
+                        <td>${plan.pattern_type}</td>
+                        <td>${plan.current_t30_gms}</td>
+                        <td>${plan.target_t30_gms}</td>
+                        <td>${plan.gap}</td>
+                        <td>${plan.sourcing_contribution}</td>
+                        <td>${plan.suppression_contribution}</td>
+                        <td><strong>${plan.total_contribution}</strong></td>
+                        <td><strong>${plan.achievement_rate}%</strong></td>
+                    </tr>
+                `;
+            });
+            
+            html += `
+                    </tbody>
+                </table>
+                
+                <div style="margin-top: 30px; padding: 20px; background: #f8f9fa; border-radius: 10px;">
+                    <h3 style="margin-bottom: 15px;">💡 用語説明</h3>
+                    <ul style="line-height: 2;">
+                        <li><strong>パターン</strong>: 目標達成のための戦略
+                            <ul style="margin-left: 20px; margin-top: 5px;">
+                                <li>Sourcing-Focused: ソーシング（ASIN募集）を中心に目標達成</li>
+                                <li>Suppression-Focused: Suppression改善（OOS・価格エラー削減）を中心に目標達成</li>
+                                <li>Balanced: ソーシングとSuppression改善の両方を活用</li>
+                            </ul>
+                        </li>
+                        <li><strong>ソーシング貢献</strong>: 高ポテンシャルASINの募集による売上増加見込み</li>
+                        <li><strong>Suppression改善</strong>: OOS・価格エラー・VRP欠落などの運用問題を削減することによる売上増加見込み</li>
+                        <li><strong>達成率</strong>: ギャップに対する合計貢献の割合（100%以上で目標達成可能）</li>
+                    </ul>
+                </div>
+            `;
+            
+            // Add detailed statistics section
+            if (detailedStats) {
+                html += `
+                    <div style="margin-top: 30px;">
+                        <h3 style="margin-bottom: 20px;">📊 詳細統計情報</h3>
+                        
+                        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px;">
+                            <!-- Sourcing Status -->
+                            <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+                                <h4 style="color: #28a745; margin-bottom: 15px;">🎯 Sourcing状況</h4>
+                                <table style="width: 100%; border-collapse: collapse;">
+                                    <tbody>
+                                        <tr style="background: #f8f9fa;">
+                                            <td style="padding: 10px; font-weight: bold; border-bottom: 2px solid #e0e0e0;">現在のSourcing Rate</td>
+                                            <td style="padding: 10px; text-align: right; font-weight: bold; border-bottom: 2px solid #e0e0e0; font-size: 1.2em; color: #28a745;">${detailedStats.sourcing.current_rate}</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding: 10px; border-bottom: 1px solid #eee;">Target Sourcing Rate</td>
+                                            <td style="padding: 10px; text-align: right; border-bottom: 1px solid #eee;"><strong>${detailedStats.sourcing.target_rate}</strong></td>
+                                        </tr>
+                                        <tr style="background: ${parseFloat(detailedStats.sourcing.gap) < 0 ? '#d4edda' : '#fff3cd'};">
+                                            <td style="padding: 10px; font-weight: bold; border-bottom: 1px solid #eee;">ギャップ</td>
+                                            <td style="padding: 10px; text-align: right; font-weight: bold; border-bottom: 1px solid #eee; color: ${parseFloat(detailedStats.sourcing.gap) < 0 ? '#28a745' : '#ffc107'};">${detailedStats.sourcing.gap}</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding: 10px; border-bottom: 1px solid #eee;">総ASIN数</td>
+                                            <td style="padding: 10px; text-align: right; border-bottom: 1px solid #eee;">${detailedStats.sourcing.total_asins}</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding: 10px; border-bottom: 1px solid #eee;">参加ASIN数</td>
+                                            <td style="padding: 10px; text-align: right; border-bottom: 1px solid #eee;">${detailedStats.sourcing.participating_asins}</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding: 10px; border-bottom: 1px solid #eee;">総CID数</td>
+                                            <td style="padding: 10px; text-align: right; border-bottom: 1px solid #eee;">${detailedStats.sourcing.total_cids}</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding: 10px;">平均参加スコア</td>
+                                            <td style="padding: 10px; text-align: right;"><strong>${detailedStats.sourcing.avg_participation_score}</strong></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <div style="margin-top: 15px; padding: 10px; background: #f8f9fa; border-radius: 5px; font-size: 0.9em;">
+                                    <strong>Sourcing Rateとは？</strong><br>
+                                    過去イベントに参加したASINの割合<br>
+                                    参加スコア: 過去参加履歴に基づく確度（0-6点）
+                                </div>
+                            </div>
+                            
+                            <!-- Suppression Detail by Category -->
+                            <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+                                <h4 style="color: #764ba2; margin-bottom: 15px;">📍 Suppression詳細（カテゴリ別）</h4>
+                                <table style="width: 100%; border-collapse: collapse; font-size: 0.9em;">
+                                    <thead>
+                                        <tr style="background: #f8f9fa;">
+                                            <th style="padding: 8px; text-align: left; border-bottom: 2px solid #e0e0e0;">カテゴリ</th>
+                                            <th style="padding: 8px; text-align: right; border-bottom: 2px solid #e0e0e0;">現在</th>
+                                            <th style="padding: 8px; text-align: right; border-bottom: 2px solid #e0e0e0;">BM</th>
+                                            <th style="padding: 8px; text-align: right; border-bottom: 2px solid #e0e0e0;">係数</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                `;
+                
+                for (const [category, data] of Object.entries(detailedStats.suppression.detail)) {
+                    html += `
+                        <tr>
+                            <td style="padding: 6px; border-bottom: 1px solid #eee; font-size: 0.85em;">${category}</td>
+                            <td style="padding: 6px; text-align: right; border-bottom: 1px solid #eee;"><strong>${data.current_rate}</strong></td>
+                            <td style="padding: 6px; text-align: right; border-bottom: 1px solid #eee;">${data.benchmark_rate}</td>
+                            <td style="padding: 6px; text-align: right; border-bottom: 1px solid #eee;">${data.coefficient}</td>
+                        </tr>
+                    `;
+                }
+                
+                html += `
+                                    </tbody>
+                                </table>
+                                <div style="margin-top: 15px; padding: 10px; background: #f8f9fa; border-radius: 5px; font-size: 0.85em;">
+                                    <strong>BM</strong>: ベンチマークイベントの割合<br>
+                                    <strong>係数</strong>: Promotion OPS影響係数
+                                </div>
+                            </div>
+                            
+                            <!-- Promotion OPS -->
+                            <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+                                <h4 style="color: #667eea; margin-bottom: 15px;">📈 Promotion OPS</h4>
+                                <table style="width: 100%; border-collapse: collapse;">
+                                    <tbody>
+                                        <tr>
+                                            <td style="padding: 10px; border-bottom: 1px solid #eee;">Current OPS</td>
+                                            <td style="padding: 10px; text-align: right; border-bottom: 1px solid #eee;"><strong>${detailedStats.promotion_ops.current_ops}</strong></td>
+                                        </tr>
+                                        <tr style="background: #f8f9fa;">
+                                            <td style="padding: 10px; font-weight: bold; border-bottom: 1px solid #eee;">Target OPS</td>
+                                            <td style="padding: 10px; text-align: right; font-weight: bold; border-bottom: 1px solid #eee; font-size: 1.1em;">${detailedStats.promotion_ops.target_ops}</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding: 10px; border-bottom: 1px solid #eee;">OPS Gap</td>
+                                            <td style="padding: 10px; text-align: right; border-bottom: 1px solid #eee; color: #dc3545;"><strong>${detailedStats.promotion_ops.ops_gap}</strong></td>
+                                        </tr>
+                                        <tr style="background: #d4edda;">
+                                            <td style="padding: 10px; font-weight: bold; border-bottom: 1px solid #eee;">Forecasted OPS</td>
+                                            <td style="padding: 10px; text-align: right; font-weight: bold; border-bottom: 1px solid #eee; font-size: 1.1em; color: #28a745;">${detailedStats.promotion_ops.forecasted_ops}</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding: 10px; font-weight: bold;">達成見込み</td>
+                                            <td style="padding: 10px; text-align: right; font-weight: bold; font-size: 1.2em; color: ${parseFloat(detailedStats.promotion_ops.forecasted_achievement) >= 100 ? '#28a745' : '#dc3545'};">${detailedStats.promotion_ops.forecasted_achievement}</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <div style="margin-top: 15px; padding: 10px; background: #f8f9fa; border-radius: 5px; font-size: 0.9em;">
+                                    <strong>Promotion OPSとは？</strong><br>
+                                    T30 GMS × Suppression Rate × 係数の合計<br>
+                                    Suppression改善による売上増加の指標
+                                </div>
+                            </div>
+                            
+                            <!-- Achievement Summary -->
+                            <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+                                <h4 style="color: #ffc107; margin-bottom: 15px;">📈 達成状況サマリー</h4>
+                                <table style="width: 100%; border-collapse: collapse;">
+                                    <tbody>
+                `;
+                
+                // Calculate overall statistics
+                let totalGap = 0;
+                let totalContribution = 0;
+                plans.forEach(plan => {
+                    totalGap += parseFloat(plan.gap.replace(/,/g, ''));
+                    totalContribution += parseFloat(plan.total_contribution.replace(/,/g, ''));
+                });
+                const overallAchievement = totalGap > 0 ? (totalContribution / totalGap * 100).toFixed(1) : 0;
+                
+                html += `
+                                        <tr>
+                                            <td style="padding: 10px; border-bottom: 1px solid #eee;">総ギャップ (T30 GMS)</td>
+                                            <td style="padding: 10px; text-align: right; border-bottom: 1px solid #eee;"><strong>${totalGap.toLocaleString()}</strong></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding: 10px; border-bottom: 1px solid #eee;">総貢献見込み</td>
+                                            <td style="padding: 10px; text-align: right; border-bottom: 1px solid #eee;"><strong>${totalContribution.toLocaleString()}</strong></td>
+                                        </tr>
+                                        <tr style="background: #fff3cd;">
+                                            <td style="padding: 10px; font-weight: bold;">全体達成率</td>
+                                            <td style="padding: 10px; text-align: right; font-weight: bold; font-size: 1.2em; color: ${overallAchievement >= 100 ? '#28a745' : '#dc3545'};">${overallAchievement}%</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <div style="margin-top: 15px; padding: 10px; background: ${overallAchievement >= 100 ? '#d4edda' : '#f8d7da'}; border-radius: 5px; font-size: 0.9em; color: ${overallAchievement >= 100 ? '#155724' : '#721c24'};">
+                                    ${overallAchievement >= 100 ? '✅ 目標達成可能です！' : '⚠️ 追加施策が必要です'}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }
+            
+            content.innerHTML = html;
+        }
+    </script>
+</body>
+</html>

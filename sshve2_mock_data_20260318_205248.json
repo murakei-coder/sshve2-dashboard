@@ -1,0 +1,351 @@
+{
+  "cids": [
+    {
+      "cid": "851346684",
+      "alias": "ayakahm",
+      "mgr": "oekoichi",
+      "team": "EITS Paid",
+      "current_gms": 373949380,
+      "target_gms": 281263106,
+      "gap": -92686274,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 537
+        },
+        "t365_flag": {
+          "asin_count": 804
+        }
+      },
+      "sshve1_suppression": {
+        "No suppression": 99.5,
+        "OOS": 0.4,
+        "VRP Missing": 0,
+        "Price Error": 0.1,
+        "Others": 0
+      },
+      "sshve2_suppression": {
+        "No suppression": 85.2,
+        "OOS": 8.3,
+        "VRP Missing": 2.1,
+        "Price Error": 3.4,
+        "Others": 1.0
+      },
+      "forecast_ops": 183869040.3991,
+      "target_ops": 149920632.71768776,
+      "vs_target_ops": 33948407.68141225
+    },
+    {
+      "cid": "915168294",
+      "alias": "yurikaka",
+      "mgr": "oekoichi",
+      "team": "LL Paid",
+      "current_gms": 329735721,
+      "target_gms": 195871571,
+      "gap": -133864150,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 153
+        },
+        "t365_flag": {
+          "asin_count": 195
+        }
+      },
+      "sshve1_suppression": {
+        "No suppression": 94.4,
+        "OOS": 5.6,
+        "VRP Missing": 0,
+        "Price Error": 0,
+        "Others": 0
+      },
+      "sshve2_suppression": {
+        "No suppression": 78.5,
+        "OOS": 12.3,
+        "VRP Missing": 3.2,
+        "Price Error": 4.8,
+        "Others": 1.2
+      },
+      "forecast_ops": 155765308.0803624,
+      "target_ops": 101872490.6825864,
+      "vs_target_ops": 53892817.39777601
+    },
+    {
+      "cid": "20364495622",
+      "alias": "torun",
+      "mgr": "santf",
+      "team": "EITS Paid",
+      "current_gms": 302068059,
+      "target_gms": 271278746,
+      "gap": -30789313,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 29
+        },
+        "t365_flag": {
+          "asin_count": 33
+        }
+      },
+      "sshve1_suppression": {
+        "No suppression": 95.5,
+        "OOS": 4.5,
+        "VRP Missing": 0,
+        "Price Error": 0,
+        "Others": 0
+      },
+      "sshve2_suppression": {
+        "No suppression": 82.1,
+        "OOS": 9.8,
+        "VRP Missing": 2.5,
+        "Price Error": 4.1,
+        "Others": 1.5
+      },
+      "forecast_ops": 145763817.86782107,
+      "target_ops": 141848400.93844798,
+      "vs_target_ops": 3915416.9293730855
+    },
+    {
+      "cid": "677383194",
+      "alias": "omoonsun",
+      "mgr": "oekoichi",
+      "team": "EITS Paid",
+      "current_gms": 160708945,
+      "target_gms": 85763941,
+      "gap": -74945004,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 347
+        },
+        "t365_flag": {
+          "asin_count": 347
+        }
+      },
+      "sshve1_suppression": {
+        "No suppression": 97.6,
+        "OOS": 2.2,
+        "VRP Missing": 0,
+        "Price Error": 0.2,
+        "Others": 0
+      },
+      "sshve2_suppression": {
+        "No suppression": 88.3,
+        "OOS": 6.5,
+        "VRP Missing": 1.8,
+        "Price Error": 2.7,
+        "Others": 0.7
+      },
+      "forecast_ops": 80427032.5886675,
+      "target_ops": 45300702.3168702,
+      "vs_target_ops": 35126330.2717973
+    },
+    {
+      "cid": "635826845",
+      "alias": "okiryo",
+      "mgr": "ryotankj",
+      "team": "EITS Paid",
+      "current_gms": 131611236,
+      "target_gms": 118059390,
+      "gap": -13551846,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 34
+        },
+        "t365_flag": {
+          "asin_count": 63
+        }
+      },
+      "sshve1_suppression": {
+        "No suppression": 68.4,
+        "OOS": 23.7,
+        "VRP Missing": 0,
+        "Price Error": 7.9,
+        "Others": 0
+      },
+      "sshve2_suppression": {
+        "No suppression": 62.5,
+        "OOS": 20.3,
+        "VRP Missing": 4.2,
+        "Price Error": 10.5,
+        "Others": 2.5
+      },
+      "forecast_ops": 56374580.5673412,
+      "target_ops": 53564973.761619,
+      "vs_target_ops": 2809606.8057221994
+    },
+    {
+      "cid": "3178563422",
+      "alias": "ayakahm",
+      "mgr": "oekoichi",
+      "team": "EITS Paid",
+      "current_gms": 129140737,
+      "target_gms": 120798340,
+      "gap": -8342397,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 106
+        },
+        "t365_flag": {
+          "asin_count": 110
+        }
+      },
+      "sshve1_suppression": {
+        "No suppression": 98.1,
+        "OOS": 1.9,
+        "VRP Missing": 0,
+        "Price Error": 0,
+        "Others": 0
+      },
+      "sshve2_suppression": {
+        "No suppression": 91.2,
+        "OOS": 5.1,
+        "VRP Missing": 1.3,
+        "Price Error": 1.8,
+        "Others": 0.6
+      },
+      "forecast_ops": 65717112.4164126,
+      "target_ops": 63960498.34054399,
+      "vs_target_ops": 1756614.0758686066
+    },
+    {
+      "cid": "7197130245",
+      "alias": "ayakahm",
+      "mgr": "oekoichi",
+      "team": "EITS Paid",
+      "current_gms": 126868314,
+      "target_gms": 28717536,
+      "gap": -98150778,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 18
+        },
+        "t365_flag": {
+          "asin_count": 38
+        }
+      },
+      "sshve1_suppression": {
+        "No suppression": 98.5,
+        "OOS": 1.5,
+        "VRP Missing": 0,
+        "Price Error": 0,
+        "Others": 0
+      },
+      "sshve2_suppression": {
+        "No suppression": 89.7,
+        "OOS": 6.2,
+        "VRP Missing": 1.5,
+        "Price Error": 2.1,
+        "Others": 0.5
+      },
+      "forecast_ops": 64041919.658217005,
+      "target_ops": 15234537.977855999,
+      "vs_target_ops": 48807381.680361
+    },
+    {
+      "cid": "33309145422",
+      "alias": "mantaro",
+      "mgr": "oekoichi",
+      "team": "EITS Paid",
+      "current_gms": 123292921,
+      "target_gms": 115295298,
+      "gap": -7997623,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 186
+        },
+        "t365_flag": {
+          "asin_count": 186
+        }
+      },
+      "sshve1_suppression": {
+        "No suppression": 96.6,
+        "OOS": 3.4,
+        "VRP Missing": 0,
+        "Price Error": 0,
+        "Others": 0
+      },
+      "sshve2_suppression": {
+        "No suppression": 84.3,
+        "OOS": 8.9,
+        "VRP Missing": 2.3,
+        "Price Error": 3.5,
+        "Others": 1.0
+      },
+      "forecast_ops": 60294935.8292901,
+      "target_ops": 60608155.5439248,
+      "vs_target_ops": -313219.7146347016
+    },
+    {
+      "cid": "8024630955",
+      "alias": "ygomz",
+      "mgr": "oekoichi",
+      "team": "EITS Paid",
+      "current_gms": 108455573,
+      "target_gms": 95595391,
+      "gap": -12860182,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 42
+        },
+        "t365_flag": {
+          "asin_count": 45
+        }
+      },
+      "sshve1_suppression": {
+        "No suppression": 95.8,
+        "OOS": 4.0,
+        "VRP Missing": 0,
+        "Price Error": 0.2,
+        "Others": 0
+      },
+      "sshve2_suppression": {
+        "No suppression": 87.1,
+        "OOS": 7.3,
+        "VRP Missing": 2.0,
+        "Price Error": 2.9,
+        "Others": 0.7
+      },
+      "forecast_ops": 53905467.382601306,
+      "target_ops": 50057321.995223396,
+      "vs_target_ops": 3848145.3873779103
+    },
+    {
+      "cid": "59206315122",
+      "alias": "hdkai",
+      "mgr": "ryotankj",
+      "team": "EITS Paid",
+      "current_gms": 88558040,
+      "target_gms": 76871209,
+      "gap": -11686831,
+      "event_participation": {
+        "sshve1_flag": {
+          "asin_count": 38
+        },
+        "t365_flag": {
+          "asin_count": 55
+        }
+      },
+      "sshve1_suppression": {
+        "No suppression": 80.1,
+        "OOS": 19.9,
+        "VRP Missing": 0,
+        "Price Error": 0,
+        "Others": 0
+      },
+      "sshve2_suppression": {
+        "No suppression": 72.3,
+        "OOS": 18.5,
+        "VRP Missing": 3.8,
+        "Price Error": 4.2,
+        "Others": 1.2
+      },
+      "forecast_ops": 40346954.46595999,
+      "target_ops": 37192873.78682239,
+      "vs_target_ops": 3154080.679137595
+    }
+  ],
+  "coefficients": {
+    "No suppression": 0.5343,
+    "OOS": 0.2807,
+    "VRP Missing": 0.0963,
+    "Price Error": 0.275,
+    "Others": 0.1801
+  }
+}

@@ -1,0 +1,13 @@
+# Production requirements for SSHVE2 Dashboard
+# 本番環境用の依存パッケージ
+
+# Core dependencies
+Flask==3.0.0
+pandas==2.1.4
+gunicorn==21.2.0
+
+# Optional: For better performance
+gevent==23.9.1
+
+# Optional: For monitoring
+psutil==5.9.6

@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bridge Plan Generator - 簡単ガイド</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Meiryo, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #667eea;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #764ba2;
+            margin-top: 30px;
+        }
+        .step {
+            background: #f8f9fa;
+            padding: 20px;
+            margin: 20px 0;
+            border-left: 5px solid #667eea;
+            border-radius: 5px;
+        }
+        .step-number {
+            display: inline-block;
+            width: 30px;
+            height: 30px;
+            background: #667eea;
+            color: white;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 30px;
+            font-weight: bold;
+            margin-right: 10px;
+        }
+        .important {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .success {
+            background: #d4edda;
+            border: 2px solid #28a745;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        code {
+            background: #f4f4f4;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+        }
+        ul {
+            line-height: 1.8;
+        }
+        .button {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎯 Bridge Plan Generator - 簡単ガイド</h1>
+        
+        <div class="success">
+            <strong>✨ このツールの特徴</strong>
+            <ul>
+                <li>Pythonのインストール不要</li>
+                <li>ブラウザで簡単操作</li>
+                <li>自動的にExcelファイルを生成</li>
+            </ul>
+        </div>
+
+        <h2>📦 初回セットアップ</h2>
+        
+        <div class="step">
+            <span class="step-number">1</span>
+            <strong>ZIPファイルを解凍</strong>
+            <p>受け取った <code>BridgePlanGenerator_配布用.zip</code> を右クリック → 「すべて展開」</p>
+        </div>
+
+        <div class="step">
+            <span class="step-number">2</span>
+            <strong>フォルダを開く</strong>
+            <p>解凍したフォルダを開くと、以下のファイルがあります：</p>
+            <ul>
+                <li><code>起動.bat</code> - これをダブルクリックして起動</li>
+                <li><code>BridgePlanGenerator.exe</code> - 本体</li>
+                <li><code>config\</code> - 設定ファイル</li>
+                <li><code>data\</code> - データファイル</li>
+            </ul>
+        </div>
+
+        <h2>🚀 使い方</h2>
+
+        <div class="step">
+            <span class="step-number">1</span>
+            <strong>アプリを起動</strong>
+            <p><code>起動.bat</code> をダブルクリック</p>
+            <p>黒い画面（コマンドプロンプト）が表示されます。<br>
+            <strong>※ この画面は閉じないでください！</strong></p>
+        </div>
+
+        <div class="step">
+            <span class="step-number">2</span>
+            <strong>ブラウザを開く</strong>
+            <p>自動的にブラウザが開きます。<br>
+            開かない場合は、ブラウザで以下のURLを入力：</p>
+            <p><code>http://localhost:5000</code></p>
+        </div>
+
+        <div class="step">
+            <span class="step-number">3</span>
+            <strong>画面で操作</strong>
+            <ol>
+                <li>集計レベルを選択（CID / Alias / Mgr / Team）</li>
+                <li>対象を選択（全体または特定の対象）</li>
+                <li>「プランを生成」ボタンをクリック</li>
+            </ol>
+        </div>
+
+        <div class="step">
+            <span class="step-number">4</span>
+            <strong>結果を確認</strong>
+            <p>画面に結果が表示され、以下のファイルが自動生成されます：</p>
+            <ul>
+                <li><code>output\bridge_plan_summary_*.csv</code></li>
+                <li><code>output\bridge_plan_detailed_*.xlsx</code></li>
+            </ul>
+            <p>Excelで開いて確認できます。</p>
+        </div>
+
+        <h2>⚠️ 重要な注意事項</h2>
+
+        <div class="important">
+            <strong>アプリを終了する方法</strong>
+            <p>黒い画面（コマンドプロンプト）を閉じてください。<br>
+            ブラウザのタブを閉じるだけでは終了しません。</p>
+        </div>
+
+        <h2>🔧 データファイルの変更方法</h2>
+
+        <div class="step">
+            <p><code>config\bridge_config.json</code> をメモ帳で開いて、<br>
+            データファイルのパスを変更できます。</p>
+            <p>例：</p>
+            <pre style="background: #f4f4f4; padding: 10px; border-radius: 5px;">
+"sourcing_data_path": "C:\\Users\\yourname\\Desktop\\data.csv"
+            </pre>
+        </div>
+
+        <h2>❓ トラブルシューティング</h2>
+
+        <div class="step">
+            <strong>Q: ブラウザが自動で開かない</strong>
+            <p>A: ブラウザを手動で開いて、<code>http://localhost:5000</code> を入力</p>
+        </div>
+
+        <div class="step">
+            <strong>Q: エラーが表示される</strong>
+            <p>A: データファイルのパスを確認してください（<code>config\bridge_config.json</code>）</p>
+        </div>
+
+        <div class="step">
+            <strong>Q: 「ポート5000は既に使用されています」エラー</strong>
+            <p>A: 前回起動したアプリが終了していません。<br>
+            タスクマネージャーで <code>BridgePlanGenerator.exe</code> を終了してください。</p>
+        </div>
+
+        <h2>📞 サポート</h2>
+
+        <div class="step">
+            <p>問題が解決しない場合は、以下の情報を添えて連絡してください：</p>
+            <ul>
+                <li>表示されたエラーメッセージ</li>
+                <li>黒い画面に表示されている内容</li>
+                <li>使用しているWindowsのバージョン</li>
+            </ul>
+        </div>
+
+        <div class="success">
+            <strong>✅ 必要な環境</strong>
+            <ul>
+                <li>Windows 10 または Windows 11</li>
+                <li>ブラウザ（Chrome、Edge、Firefoxなど）</li>
+                <li>Excel（結果ファイルを開く場合）</li>
+            </ul>
+            <p><strong>※ Pythonのインストールは不要です！</strong></p>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,31 @@
+# Systemd service file for SSHVE2 Dashboard
+# Linux systemd用のサービス設定ファイル
+# 
+# インストール方法:
+# 1. このファイルを /etc/systemd/system/sshve2-dashboard.service にコピー
+# 2. sudo systemctl daemon-reload
+# 3. sudo systemctl enable sshve2-dashboard
+# 4. sudo systemctl start sshve2-dashboard
+#
+# 確認: sudo systemctl status sshve2-dashboard
+
+[Unit]
+Description=SSHVE2 Opportunity Dashboard
+After=network.target
+
+[Service]
+Type=notify
+User=YOUR_USERNAME
+Group=YOUR_GROUP
+WorkingDirectory=/path/to/your/app
+Environment="PATH=/path/to/your/app/venv/bin"
+ExecStart=/path/to/your/app/venv/bin/gunicorn -c gunicorn_config.py wsgi:application
+ExecReload=/bin/kill -s HUP $MAINPID
+KillMode=mixed
+TimeoutStopSec=5
+PrivateTmp=true
+Restart=on-failure
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,44 @@
+# Docker ignore file
+# Dockerビルド時に除外するファイル
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Test
+.pytest_cache/
+.hypothesis/
+tests/
+
+# Documentation
+*.md
+!README_SSHVE2_WebApp.md
+
+# Build
+build/
+dist/
+*.egg-info/

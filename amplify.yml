@@ -1,0 +1,22 @@
+version: 1
+backend:
+  phases:
+    build:
+      commands:
+        - pip3 install -r requirements_production.txt
+        - pip3 install gunicorn
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - echo "Starting SSHVE2 Dashboard build..."
+    build:
+      commands:
+        - echo "Build completed"
+  artifacts:
+    baseDirectory: /
+    files:
+      - '**/*'
+  cache:
+    paths:
+      - '.venv/**/*'

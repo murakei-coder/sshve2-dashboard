@@ -1,0 +1,22 @@
+{
+  "sourcing_data_path": "C:/Users/murakei/Desktop/SSHVE2/Sourcing/Tracking/Sourcing_data_raw_Sourcing更新.csv",
+  "target_data_path": "C:/Users/murakei/Desktop/SSHVE2/Dashboard/raw/Suppression/SSHVE2_BySeller_Target.xlsx",
+  "suppression_benchmark_path": "C:/Users/murakei/Desktop/SSHVE2/Dashboard/raw/Suppression/SSHVE1_BySuppressionReason_Percentage.csv",
+  "cid_mapping_path": "C:/Users/murakei/Desktop/SSHVE2/Dashboard/raw/CID ASIN SSHVE2_ALL PF.xlsx",
+  "cid_mapping_sheet": "Sheet1",
+  "suppression_coefficients": {
+    "No suppression": 0.5343,
+    "OOS": 0.2807,
+    "VRP missing": 0.0963,
+    "Price Error": 0.275,
+    "Others": 0.1801
+  },
+  "event_flag_priority": [
+    "sshve1_flag",
+    "fy26_mde2_flag",
+    "nys26_flag",
+    "bf25_flag",
+    "fy25_mde4_flag",
+    "t365_flag"
+  ]
+}

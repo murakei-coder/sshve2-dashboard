@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bridge Plan Dashboard - スタンドアロン版</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        .content {
+            padding: 40px;
+        }
+        
+        .filters {
+            background: #f8f9fa;
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            border-left: 5px solid #667eea;
+        }
+        
+        .filter-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .filter-group label {
+            font-weight: bold;
+            margin-bottom: 8px;
+            color: #667eea;
+        }
+        
+        .filter-group select {
+            padding: 12px;
+            font-size: 1em;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            transition: border-color 0.3s;
+        }
+        
+        .filter-group select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        .button {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 12px 30px;
+            font-size: 1em;
+            border-radius: 50px;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            font-weight: bold;
+        }
+        
+        .button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.4);
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        
+        .stat-card .number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+        
+        .stat-card .label {
+            color: #666;
+            font-size: 1.1em;
+        }
+        
+        .results-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .results-table th {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px;
+            text-align: left;
+            font-weight: bold;
+        }
+        
+        .results-table td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .results-table tr:hover {
+            background: #f8f9fa;
+        }
+        
+        .info-box {
+            background: #e3f2fd;
+            border-left: 4px solid #2196f3;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+        
+        .info-box strong {
+            color: #1976d2;
+        }
+        
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎯 Bridge Plan Dashboard</h1>
+            <p>ブリッジプラン分析ダッシュボード（スタンドアロン版）</p>
+            <p style="font-size: 0.9em; margin-top: 10px;">生成日時: 2026-03-18 10:28:40</p>
+        </div>
+        
+        <div class="content">
+            <div class="info-box">
+                <strong>📌 使い方:</strong> 集計レベルと対象を選択して「表示」ボタンをクリックしてください。
+                このファイルはオフラインで動作します（インターネット接続不要）。
+            </div>
+            
+            <div class="filters">
+                <h2 style="margin-bottom: 20px; color: #667eea;">🔍 フィルター</h2>
+                <div class="filter-row">
+                    <div class="filter-group">
+                        <label>集計レベル</label>
+                        <select id="levelSelect" onchange="updateEntityOptions()">
+                            <option value="">-- 選択してください --</option>
+                            <option value="CID">CID（個別セラー）</option>
+                            <option value="Alias">Alias（営業担当者）</option>
+                            <option value="Mgr">Mgr（マネージャー）</option>
+                            <option value="Team">Team（チーム）</option>
+                        </select>
+                    </div>
+                    
+                    <div class="filter-group">
+                        <label>対象（オプション）</label>
+                        <select id="entitySelect">
+                            <option value="">すべて</option>
+                        </select>
+                    </div>
+                    
+                    <div class="filter-group">
+                        <label>パターン（オプション）</label>
+                        <select id="patternSelect">
+                            <option value="">すべて</option>
+                            <option value="Sourcing-Focused">Sourcing-Focused</option>
+                            <option value="Suppression-Focused">Suppression-Focused</option>
+                            <option value="Balanced">Balanced</option>
+                        </select>
+                    </div>
+                </div>
+                
+                <button class="button" onclick="filterAndDisplay()">📊 表示</button>
+                <button class="button" onclick="resetFilters()" style="margin-left: 10px; background: #6c757d;">🔄 リセット</button>
+            </div>
+            
+            <div id="statsSection" class="hidden">
+                <h2 style="margin-bottom: 20px; color: #667eea;">📈 統計サマリー</h2>
+                <div class="stats-grid" id="statsGrid"></div>
+            </div>
+            
+            <div id="resultsSection" class="hidden">
+                <h2 style="margin-bottom: 20px; color: #667eea;">📋 Bridge Plan一覧</h2>
+                <div id="resultsCount" style="margin-bottom: 15px; font-weight: bold;"></div>
+                <div style="overflow-x: auto;">
+                    <table class="results-table">
+                        <thead>
+                            <tr>
+                                <th>レベル</th>
+                                <th>対象</th>
+                                <th>パターン</th>
+                                <th>現在GMS</th>
+                                <th>目標GMS</th>
+                                <th>ギャップ</th>
+                                <th>Sourcing貢献</th>
+                                <th>Suppression改善</th>
+                                <th>合計貢献</th>
+                                <th>達成率</th>
+                            </tr>
+                        </thead>
+                        <tbody id="resultsBody">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Embed data
+        const BRIDGE_PLAN_DATA = {
+  "metadata": {
+    "generated_at": "2026-03-18 10:28:40",
+    "total_plans": 26,
+    "levels": [
+      "CID",
+      "Alias",
+      "Mgr",
+      "Team"
+    ],
+    "suppression_categories": [
+      "No suppression",
+      "OOS",
+      "VRP missing",
+      "Price Error",
+      "Others"
+    ],
+    "current_suppression": {
+      "No suppression": 54.0,
+      "OOS": 16.0,
+      "VRP missing": 12.0,
+      "Price Error": 12.0,
+      "Others": 6.0
+    },
+    "benchmark_suppression": {
+      "No suppression": 45.5,
+      "OOS": 22.3,
+      "VRP missing": 8.7,
+      "Price Error": 15.2,
+      "Others": 8.3
+    },
+    "coefficients": {
+      "No suppression": 0.5343,
+      "OOS": 0.2807,
+      "VRP missing": 0.0963,
+      "Price Error": 0.275,
+      "Others": 0.1801
+    }
+  },
+  "plans": [
+    {
+      "level": "CID",
+      "entity_id": "CID001",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 68000.0,
+      "target_t30_gms": 75000.0,
+      "gap": 7000.0,
+      "sourcing_contribution": 12541.935483870968,
+      "suppression_contribution": 0.0,
+      "total_contribution": 12541.935483870968,
+      "achievement_rate": 179.17050691244242,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID002",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 76800.0,
+      "target_t30_gms": 95000.0,
+      "gap": 18200.0,
+      "sourcing_contribution": 22000.0,
+      "suppression_contribution": 0.0,
+      "total_contribution": 22000.0,
+      "achievement_rate": 120.87912087912088,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID003",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 65100.0,
+      "target_t30_gms": 68000.0,
+      "gap": 2900.0,
+      "sourcing_contribution": 20806.451612903224,
+      "suppression_contribution": 0.0,
+      "total_contribution": 20806.451612903224,
+      "achievement_rate": 717.4638487208008,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID004",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 85500.0,
+      "target_t30_gms": 110000.0,
+      "gap": 24500.0,
+      "sourcing_contribution": 40193.548387096766,
+      "suppression_contribution": 0.0,
+      "total_contribution": 40193.548387096766,
+      "achievement_rate": 164.05529953917045,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID005",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 67100.0,
+      "target_t30_gms": 82000.0,
+      "gap": 14900.0,
+      "sourcing_contribution": 16980.64516129032,
+      "suppression_contribution": 0.0,
+      "total_contribution": 16980.64516129032,
+      "achievement_rate": 113.96406148516994,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID006",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 81300.0,
+      "target_t30_gms": 98000.0,
+      "gap": 16700.0,
+      "sourcing_contribution": 22500.0,
+      "suppression_contribution": 0.0,
+      "total_contribution": 22500.0,
+      "achievement_rate": 134.7305389221557,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID007",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 71400.0,
+      "target_t30_gms": 88000.0,
+      "gap": 16600.0,
+      "sourcing_contribution": 18967.741935483868,
+      "suppression_contribution": 0.0,
+      "total_contribution": 18967.741935483868,
+      "achievement_rate": 114.26350563544499,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID008",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 71300.0,
+      "target_t30_gms": 92000.0,
+      "gap": 20700.0,
+      "sourcing_contribution": 33387.096774193546,
+      "suppression_contribution": 0.0,
+      "total_contribution": 33387.096774193546,
+      "achievement_rate": 161.29032258064515,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID009",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 77300.0,
+      "target_t30_gms": 85000.0,
+      "gap": 7700.0,
+      "sourcing_contribution": 20200.0,
+      "suppression_contribution": 0.0,
+      "total_contribution": 20200.0,
+      "achievement_rate": 262.3376623376624,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "CID",
+      "entity_id": "CID010",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 70500.0,
+      "target_t30_gms": 125000.0,
+      "gap": 54500.0,
+      "sourcing_contribution": 52890.32258064515,
+      "suppression_contribution": 0.0,
+      "total_contribution": 52890.32258064515,
+      "achievement_rate": 97.04646345072506,
+      "feasibility_score": 0.9704646345072505
+    },
+    {
+      "level": "Alias",
+      "entity_id": "中村優子",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 71300.0,
+      "target_t30_gms": 92000.0,
+      "gap": 20700.0,
+      "sourcing_contribution": 33387.096774193546,
+      "suppression_contribution": 0.0,
+      "total_contribution": 33387.096774193546,
+      "achievement_rate": 161.29032258064515,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "Alias",
+      "entity_id": "伊藤さくら",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 81300.0,
+      "target_t30_gms": 98000.0,
+      "gap": 16700.0,
+      "sourcing_contribution": 22500.0,
+      "suppression_contribution": 0.0,
+      "total_contribution": 22500.0,
+      "achievement_rate": 134.7305389221557,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "Alias",
+      "entity_id": "佐藤花子",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 76800.0,
+      "target_t30_gms": 95000.0,
+      "gap": 18200.0,
+      "sourcing_contribution": 22000.0,
+      "suppression_contribution": 0.0,
+      "total_contribution": 22000.0,
+      "achievement_rate": 120.87912087912088,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "Alias",
+      "entity_id": "加藤愛",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 70500.0,
+      "target_t30_gms": 125000.0,
+      "gap": 54500.0,
+      "sourcing_contribution": 52890.32258064515,
+      "suppression_contribution": 0.0,
+      "total_contribution": 52890.32258064515,
+      "achievement_rate": 97.04646345072506,
+      "feasibility_score": 0.9704646345072505
+    },
+    {
+      "level": "Alias",
+      "entity_id": "小林誠",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 77300.0,
+      "target_t30_gms": 85000.0,
+      "gap": 7700.0,
+      "sourcing_contribution": 20200.0,
+      "suppression_contribution": 0.0,
+      "total_contribution": 20200.0,
+      "achievement_rate": 262.3376623376624,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "Alias",
+      "entity_id": "山本大輔",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 71400.0,
+      "target_t30_gms": 88000.0,
+      "gap": 16600.0,
+      "sourcing_contribution": 18967.741935483868,
+      "suppression_contribution": 0.0,
+      "total_contribution": 18967.741935483868,
+      "achievement_rate": 114.26350563544499,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "Alias",
+      "entity_id": "渡辺健太",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 67100.0,
+      "target_t30_gms": 82000.0,
+      "gap": 14900.0,
+      "sourcing_contribution": 16980.64516129032,
+      "suppression_contribution": 0.0,
+      "total_contribution": 16980.64516129032,
+      "achievement_rate": 113.96406148516994,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "Alias",
+      "entity_id": "田中太郎",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 68000.0,
+      "target_t30_gms": 75000.0,
+      "gap": 7000.0,
+      "sourcing_contribution": 12541.935483870968,
+      "suppression_contribution": 0.0,
+      "total_contribution": 12541.935483870968,
+      "achievement_rate": 179.17050691244242,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "Alias",
+      "entity_id": "鈴木一郎",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 65100.0,
+      "target_t30_gms": 68000.0,
+      "gap": 2900.0,
+      "sourcing_contribution": 20806.451612903224,
+      "suppression_contribution": 0.0,
+      "total_contribution": 20806.451612903224,
+      "achievement_rate": 717.4638487208008,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "Alias",
+      "entity_id": "高橋美咲",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 85500.0,
+      "target_t30_gms": 110000.0,
+      "gap": 24500.0,
+      "sourcing_contribution": 40193.548387096766,
+      "suppression_contribution": 0.0,
+      "total_contribution": 40193.548387096766,
+      "achievement_rate": 164.05529953917045,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "Mgr",
+      "entity_id": "佐々木マネージャー",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 217700.0,
+      "target_t30_gms": 260000.0,
+      "gap": 42300.0,
+      "sourcing_contribution": 43387.096774193546,
+      "suppression_contribution": 0.0,
+      "total_contribution": 43387.096774193546,
+      "achievement_rate": 102.56996873331808,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "Mgr",
+      "entity_id": "山田マネージャー",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 144800.0,
+      "target_t30_gms": 170000.0,
+      "gap": 25200.0,
+      "sourcing_contribution": 34541.93548387097,
+      "suppression_contribution": 0.0,
+      "total_contribution": 34541.93548387097,
+      "achievement_rate": 137.07117255504352,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "Mgr",
+      "entity_id": "木村マネージャー",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 147800.0,
+      "target_t30_gms": 210000.0,
+      "gap": 62200.0,
+      "sourcing_contribution": 77522.58064516129,
+      "suppression_contribution": 0.0,
+      "total_contribution": 77522.58064516129,
+      "achievement_rate": 124.6343740275905,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "Mgr",
+      "entity_id": "田村マネージャー",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 224000.0,
+      "target_t30_gms": 278000.0,
+      "gap": 54000.0,
+      "sourcing_contribution": 61306.45161290321,
+      "suppression_contribution": 0.0,
+      "total_contribution": 61306.45161290321,
+      "achievement_rate": 113.53046594982077,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "Team",
+      "entity_id": "大阪チーム",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 371800.0,
+      "target_t30_gms": 488000.0,
+      "gap": 116200.0,
+      "sourcing_contribution": 122893.54838709676,
+      "suppression_contribution": 0.0,
+      "total_contribution": 122893.54838709676,
+      "achievement_rate": 105.76036866359446,
+      "feasibility_score": 1.0
+    },
+    {
+      "level": "Team",
+      "entity_id": "東京チーム",
+      "pattern_name": "Sourcing-Focused",
+      "current_t30_gms": 362500.0,
+      "target_t30_gms": 430000.0,
+      "gap": 67500.0,
+      "sourcing_contribution": 83000.0,
+      "suppression_contribution": 0.0,
+      "total_contribution": 83000.0,
+      "achievement_rate": 122.96296296296296,
+      "feasibility_score": 1.0
+    }
+  ]
+};
+        
+        function updateEntityOptions() {
+            const level = document.getElementById('levelSelect').value;
+            const entitySelect = document.getElementById('entitySelect');
+            
+            entitySelect.innerHTML = '<option value="">すべて</option>';
+            
+            if (!level) return;
+            
+            // Get unique entities for this level
+            const entities = [...new Set(
+                BRIDGE_PLAN_DATA.plans
+                    .filter(p => p.level === level)
+                    .map(p => p.entity_id)
+            )].sort();
+            
+            entities.forEach(entity => {
+                const option = document.createElement('option');
+                option.value = entity;
+                option.textContent = entity;
+                entitySelect.appendChild(option);
+            });
+        }
+        
+        function filterAndDisplay() {
+            const level = document.getElementById('levelSelect').value;
+            const entity = document.getElementById('entitySelect').value;
+            const pattern = document.getElementById('patternSelect').value;
+            
+            if (!level) {
+                alert('集計レベルを選択してください');
+                return;
+            }
+            
+            // Filter plans
+            let filteredPlans = BRIDGE_PLAN_DATA.plans.filter(p => p.level === level);
+            
+            if (entity) {
+                filteredPlans = filteredPlans.filter(p => p.entity_id === entity);
+            }
+            
+            if (pattern) {
+                filteredPlans = filteredPlans.filter(p => p.pattern_name === pattern);
+            }
+            
+            // Display results
+            displayResults(filteredPlans);
+            displayStats(filteredPlans);
+        }
+        
+        function displayResults(plans) {
+            const tbody = document.getElementById('resultsBody');
+            const resultsSection = document.getElementById('resultsSection');
+            const resultsCount = document.getElementById('resultsCount');
+            
+            tbody.innerHTML = '';
+            
+            if (plans.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="10" style="text-align: center; padding: 30px;">該当するプランが見つかりません</td></tr>';
+                resultsSection.classList.remove('hidden');
+                resultsCount.textContent = '0件のプラン';
+                return;
+            }
+            
+            plans.forEach(plan => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${plan.level}</td>
+                    <td><strong>${plan.entity_id}</strong></td>
+                    <td>${plan.pattern_name}</td>
+                    <td>${plan.current_t30_gms.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</td>
+                    <td>${plan.target_t30_gms.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</td>
+                    <td>${plan.gap.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</td>
+                    <td>${plan.sourcing_contribution.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</td>
+                    <td>${plan.suppression_contribution.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</td>
+                    <td><strong>${plan.total_contribution.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</strong></td>
+                    <td><strong style="color: ${plan.achievement_rate >= 100 ? '#28a745' : '#dc3545'}">${plan.achievement_rate.toFixed(1)}%</strong></td>
+                `;
+                tbody.appendChild(row);
+            });
+            
+            resultsSection.classList.remove('hidden');
+            resultsCount.textContent = `${plans.length}件のプラン`;
+        }
+        
+        function displayStats(plans) {
+            const statsGrid = document.getElementById('statsGrid');
+            const statsSection = document.getElementById('statsSection');
+            
+            if (plans.length === 0) {
+                statsSection.classList.add('hidden');
+                return;
+            }
+            
+            // Calculate stats
+            const totalGap = plans.reduce((sum, p) => sum + p.gap, 0);
+            const totalContribution = plans.reduce((sum, p) => sum + p.total_contribution, 0);
+            const avgAchievement = plans.reduce((sum, p) => sum + p.achievement_rate, 0) / plans.length;
+            const plansOver100 = plans.filter(p => p.achievement_rate >= 100).length;
+            
+            statsGrid.innerHTML = `
+                <div class="stat-card">
+                    <div class="number">${plans.length}</div>
+                    <div class="label">プラン数</div>
+                </div>
+                <div class="stat-card">
+                    <div class="number">${totalGap.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</div>
+                    <div class="label">総ギャップ</div>
+                </div>
+                <div class="stat-card">
+                    <div class="number">${totalContribution.toLocaleString('ja-JP', {maximumFractionDigits: 0})}</div>
+                    <div class="label">総貢献見込み</div>
+                </div>
+                <div class="stat-card">
+                    <div class="number" style="color: ${avgAchievement >= 100 ? '#28a745' : '#dc3545'}">${avgAchievement.toFixed(1)}%</div>
+                    <div class="label">平均達成率</div>
+                </div>
+                <div class="stat-card">
+                    <div class="number" style="color: #28a745">${plansOver100}</div>
+                    <div class="label">達成可能プラン</div>
+                </div>
+            `;
+            
+            statsSection.classList.remove('hidden');
+        }
+        
+        function resetFilters() {
+            document.getElementById('levelSelect').value = '';
+            document.getElementById('entitySelect').innerHTML = '<option value="">すべて</option>';
+            document.getElementById('patternSelect').value = '';
+            document.getElementById('resultsSection').classList.add('hidden');
+            document.getElementById('statsSection').classList.add('hidden');
+        }
+    </script>
+</body>
+</html>

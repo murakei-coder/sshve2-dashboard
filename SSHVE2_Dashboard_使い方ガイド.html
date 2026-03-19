@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SSHVE2 Opportunity Dashboard 使い方ガイド</title>
+<style>
+* {margin:0;padding:0;box-sizing:border-box}
+body {font-family:'Segoe UI','Yu Gothic',sans-serif;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);padding:20px;line-height:1.6}
+.container {max-width:1200px;margin:0 auto;background:#fff;border-radius:15px;box-shadow:0 10px 40px rgba(0,0,0,0.2)}
+.header {background:linear-gradient(135deg,#1e3c72 0%,#2a5298 100%);color:#fff;padding:40px;border-radius:15px 15px 0 0}
+.header h1 {font-size:2.5em;margin-bottom:10px}
+.header p {font-size:1.1em;opacity:0.9}
+.content {padding:40px}
+.toc {background:#f8f9fa;padding:25px;border-radius:12px;margin-bottom:30px;border-left:5px solid #1e3c72}
+.toc h2 {color:#1e3c72;margin-bottom:15px;font-size:1.5em}
+.toc ul {list-style:none;padding-left:0}
+.toc li {margin:8px 0}
+.toc a {color:#2a5298;text-decoration:none;font-weight:600;transition:all 0.3s}
+.toc a:hover {color:#1e3c72;padding-left:10px}
+.section {margin-bottom:40px}
+.section h2 {color:#1e3c72;font-size:2em;margin-bottom:20px;padding-bottom:10px;border-bottom:3px solid #1e3c72}
+.section h3 {color:#2a5298;font-size:1.5em;margin:25px 0 15px 0}
+.section h4 {color:#4a6fa5;font-size:1.2em;margin:20px 0 10px 0}
+.info-box {background:linear-gradient(135deg,#e3f2fd 0%,#bbdefb 100%);border-left:5px solid #2196F3;padding:20px;margin:20px 0;border-radius:8px}
+.warning-box {background:linear-gradient(135deg,#fff3e0 0%,#ffe0b2 100%);border-left:5px solid #FF9800;padding:20px;margin:20px 0;border-radius:8px}
+.success-box {background:linear-gradient(135deg,#e8f5e9 0%,#c8e6c9 100%);border-left:5px solid #4CAF50;padding:20px;margin:20px 0;border-radius:8px}
+table {width:100%;border-collapse:collapse;margin:20px 0;background:#fff;box-shadow:0 2px 10px rgba(0,0,0,0.1)}
+thead {background:linear-gradient(135deg,#1e3c72 0%,#2a5298 100%);color:#fff}
+thead th {padding:15px;text-align:left;font-weight:700}
+tbody td {padding:12px 15px;border-bottom:1px solid #e9ecef}
+tbody tr:hover {background:#f8f9fa}
+.step {background:#fff;padding:20px;margin:15px 0;border-radius:8px;box-shadow:0 2px 10px rgba(0,0,0,0.1);border-left:5px solid #4CAF50}
+.step-number {display:inline-block;background:#4CAF50;color:#fff;width:35px;height:35px;border-radius:50%;text-align:center;line-height:35px;font-weight:700;margin-right:15px;font-size:1.2em}
+code {background:#f4f4f4;padding:3px 8px;border-radius:4px;font-family:'Consolas',monospace;color:#e83e8c;font-size:0.95em}
+pre {background:#2d2d2d;color:#f8f8f2;padding:20px;border-radius:8px;overflow-x:auto;margin:15px 0}
+pre code {background:none;color:#f8f8f2;padding:0}
+ul,ol {margin:15px 0;padding-left:30px}
+li {margin:8px 0}
+.icon {font-size:1.3em;margin-right:8px}
+.badge {display:inline-block;padding:5px 12px;border-radius:20px;font-size:0.85em;font-weight:700;margin:5px 5px 5px 0}
+.badge-sourcing {background:#FFC107;color:#000}
+.badge-suppression {background:#2196F3;color:#fff}
+.badge-both {background:#9C27B0;color:#fff}
+.badge-maintain {background:#4CAF50;color:#fff}
+.footer {background:#f8f9fa;padding:30px;text-align:center;border-radius:0 0 15px 15px;color:#6c757d;margin-top:40px}
+</style>
+</head>
+<body>
+<div class="container">
+<div class="header">
+<h1>📊 SSHVE2 Opportunity Dashboard</h1>
+<p>使い方ガイド - 完全版SOP</p>
+</div>
+<div class="content">
+
+<div class="toc">
+<h2>📋 目次</h2>
+<ul>
+<li><a href="#overview">1. 概要</a></li>
+<li><a href="#purpose">2. ダッシュボードの目的</a></li>
+<li><a href="#sop">3. 基本的な使い方（SOP）</a></li>
+<li><a href="#indicators">4. 各指標の説明</a></li>
+<li><a href="#action-focus">5. Action Focusの判定基準</a></li>
+<li><a href="#calculation">6. 入力方法と計算ロジック</a></li>
+<li><a href="#faq">7. よくある質問（FAQ）</a></li>
+</ul>
+</div>
+
+<div class="section" id="overview">
+<h2>1. 概要</h2>
+<div class="info-box">
+<p><strong>SSHVE2 Opportunity Dashboard</strong>は、セラーごとのPromotion OPS（Ordered Product Sales）のギャップを可視化し、Bridge Planを作成するためのツールです。</p>
+</div>
+<h3>主な機能</h3>
+<ul>
+<li><span class="icon">📊</span>セラーごとのOPS現状と目標の比較</li>
+<li><span class="icon">🎯</span>Sourcing/Suppression施策の優先順位付け</li>
+<li><span class="icon">💡</span>改善施策のシミュレーション</li>
+<li><span class="icon">🔗</span>ASIN単位のRawデータへのアクセス</li>
+</ul>
+</div>
+
+<div class="section" id="purpose">
+<h2>2. ダッシュボードの目的</h2>
+<p>このダッシュボードは、<strong>Target OPSとの差分を埋めるためのBridge Plan作成</strong>を支援します。</p>
+<div class="success-box">
+<h3>Bridge Planとは？</h3>
+<p>Target OPSを達成するために必要な施策を具体化した計画です：</p>
+<ul>
+<li><strong>Sourcing施策</strong>: 新規ASINの追加、既存ASINのGMS拡大</li>
+<li><strong>Suppression施策</strong>: OOS削減、Price Error削減、その他Suppression削減</li>
+</ul>
+</div>
+</div>
+
+<div class="section" id="sop">
+<h2>3. 基本的な使い方（SOP）</h2>
+
+<div class="step">
+<h3><span class="step-number">1</span>担当範囲にフィルターをかける</h3>
+<ol>
+<li><strong>フィルターセクション</strong>で自分の担当範囲を選択
+<ul>
+<li>Team / Mgr / Alias / MCID / Merchant Name から選択</li>
+<li>例: Team = "BITS SA&M" を選択</li>
+</ul>
+</li>
+<li><strong>🔍 検索ボタン</strong>をクリック
+<ul>
+<li>該当するセラーのリストが表示されます</li>
+<li>Team Summaryで全体像を確認できます</li>
+</ul>
+</li>
+</ol>
+</div>
+
+<div class="step">
+<h3><span class="step-number">2</span>Promotion OPS vs Targetで昇順ソート</h3>
+<ol>
+<li><strong>Promotion OPS</strong>セクションの<strong>vs Target</strong>カラムヘッダーをクリック
+<ul>
+<li>昇順（▲）にソート</li>
+<li>マイナスが大きいセラー（ギャップが大きい）が上位に表示されます</li>
+</ul>
+</li>
+<li><strong>優先度の高いセラーから対応</strong>
+<ul>
+<li>vs Targetがマイナスのセラーは目標未達</li>
+<li>マイナス幅が大きいほど優先度が高い</li>
+</ul>
+</li>
+</ol>
+</div>
+
+<div class="step">
+<h3><span class="step-number">3</span>Action Focusを確認</h3>
+<p>各セラーの<strong>Action Focus</strong>カラムで推奨アクションを確認：</p>
+<table>
+<thead>
+<tr>
+<th>アイコン</th>
+<th>意味</th>
+<th>対応方針</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="badge badge-sourcing">🎯 Sourcing</span></td>
+<td>Sourcing施策が必要</td>
+<td>新規ASIN追加、既存ASIN拡大</td>
+</tr>
+<tr>
+<td><span class="badge badge-suppression">🔧 Suppression</span></td>
+<td>Suppression施策が必要</td>
+<td>OOS削減、Price Error削減</td>
+</tr>
+<tr>
+<td><span class="badge badge-both">📊 Both</span></td>
+<td>両方の施策が必要</td>
+<td>Sourcing + Suppression</td>
+</tr>
+<tr>
+<td><span class="badge badge-maintain">✅ Maintain</span></td>
+<td>現状維持でOK</td>
+<td>特別な施策不要</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div class="step">
+<h3><span class="step-number">4</span>改善施策を入力してシミュレーション</h3>
+<ol>
+<li><strong>黄色のセル</strong>をクリックして改善幅を入力</li>
+</ol>
+<div class="warning-box">
+<h4>入力項目と入力例</h4>
+<ul>
+<li><strong>Sourcing改善幅</strong>: 金額で入力（例: <code>10000</code> = 1万円の改善）</li>
+<li><strong>OOS改善率</strong>: %の数値のみ（例: <code>20</code> = 20%改善、<code>5.5</code> = 5.5%改善）</li>
+<li><strong>Price Error削減率</strong>: %の数値のみ（例: <code>15</code> = 15%削減）</li>
+<li><strong>その他Suppression削減率</strong>: %の数値のみ（例: <code>10</code> = 10%削減）</li>
+</ul>
+<p style="margin-top:15px;font-weight:700;color:#E65100">⚠️ 重要: 20%改善したい場合は <code>20</code> と入力してください（<code>0.2</code> ではありません）</p>
+</div>
+<ol start="2">
+<li><strong>Enter</strong>キーを押すと自動計算
+<ul>
+<li><strong>Projected OPS</strong>: 改善後の予測OPS</li>
+<li><strong>Incremental OPS</strong>: 改善によるOPS増分</li>
+<li><strong>vs Target</strong>: 改善後の目標との差分</li>
+</ul>
+</li>
+<li><strong>一括入力機能</strong>も利用可能
+<ul>
+<li>複数セラーに同じ改善幅を適用したい場合</li>
+<li>一括入力セクションで値を入力 → ✅ 一括適用ボタン</li>
+</ul>
+</li>
+</ol>
+</div>
+
+<div class="step">
+<h3><span class="step-number">5</span>Bridge Planに反映</h3>
+<ol>
+<li><strong>Projected OPS</strong>と<strong>Incremental OPS</strong>を確認
+<ul>
+<li>Target OPSに到達できるか確認</li>
+<li>到達できない場合は追加施策を検討</li>
+</ul>
+</li>
+<li><strong>CSV出力</strong>で結果を保存
+<ul>
+<li>📥 CSV出力ボタンをクリック</li>
+<li>Excel等で開いてBridge Planに転記</li>
+</ul>
+</li>
+<li><strong>ASIN単位の詳細確認</strong>（必要に応じて）
+<ul>
+<li>上部の<strong>📊 QuickSight</strong>リンクをクリック</li>
+<li>またはCIDをクリックしてQuickSightで詳細データを確認</li>
+</ul>
+</li>
+</ol>
+</div>
+</div>
+
+<div class="section" id="indicators">
+<h2>4. 各指標の説明</h2>
+
+<h3>Sourced GMS</h3>
+<ul>
+<li><strong>Act</strong>: 現在のSourced GMS（SSHVE2でSourcedフラグがYのASINのGMS合計）</li>
+<li><strong>vs Target</strong>: 現在のGMSと目標GMSの差分</li>
+<li><strong>Target</strong>: 目標GMS（Target T30 GMS）</li>
+<li><strong>Total GMS</strong>: Act + 過去参加ASIN（SSHVE1 + T365）</li>
+</ul>
+
+<h3>SSHVE1 Suppression</h3>
+<ul>
+<li>前回イベント（SSHVE1）のSuppression状況</li>
+<li><strong>灰色ハイライト</strong>: データがないセラーはPF平均値を使用</li>
+<li>Target OPSの計算に使用</li>
+</ul>
+
+<h3>SSHVE2 Suppression</h3>
+<ul>
+<li>今回イベント（SSHVE2）の現在のSuppression状況</li>
+<li>Forecast OPSの計算に使用</li>
+</ul>
+
+<h3>Promotion OPS</h3>
+<div class="info-box">
+<h4>Forecast OPS</h4>
+<p>現在のGMSとSSHVE2 Suppressionから算出される予測OPS</p>
+<p><strong>計算式</strong>: <code>Σ(Current GMS × SSHVE2% × 係数)</code></p>
+</div>
+
+<div class="warning-box">
+<h4>Target OPS</h4>
+<p>Target GMSとSSHVE1 Suppressionから算出される目標OPS</p>
+<p><strong>計算式</strong>: <code>Σ(Target GMS × SSHVE1% × 係数)</code></p>
+<p style="margin-top:10px;color:#E65100;font-weight:700">※ SS HVE1 SuppressionデータがないセラーはPF平均の数字を使用（灰色ハイライト）</p>
+</div>
+
+<div class="info-box">
+<h4>vs Target</h4>
+<p>Forecast OPS - Target OPS</p>
+<p>マイナスの場合は目標未達、プラスの場合は目標達成見込み</p>
+</div>
+
+<h3>改善施策入力（黄色セル）</h3>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>単位</th>
+<th>入力例</th>
+<th>意味</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sourcing改善幅</td>
+<td>金額</td>
+<td><code>10000</code></td>
+<td>1万円のGMS増加</td>
+</tr>
+<tr>
+<td>OOS改善率</td>
+<td>%</td>
+<td><code>20</code></td>
+<td>OOS%を20%削減</td>
+</tr>
+<tr>
+<td>Price Error削減率</td>
+<td>%</td>
+<td><code>15</code></td>
+<td>Price Error%を15%削減</td>
+</tr>
+<tr>
+<td>その他Suppression削減率</td>
+<td>%</td>
+<td><code>10</code></td>
+<td>その他Suppression%を10%削減</td>
+</tr>
+</tbody>
+</table>
+
+<h3>改善後の予測（青色セル）</h3>
+<ul>
+<li><strong>Suppression改善幅</strong>: Suppression削減によるOPS増分</li>
+<li><strong>Projected OPS</strong>: 改善施策適用後の予測OPS
+<ul>
+<li>計算式: <code>Σ(Improved GMS × Improved SSHVE2% × 係数)</code></li>
+</ul>
+</li>
+<li><strong>Incremental OPS</strong>: Projected OPS - Forecast OPS</li>
+<li><strong>vs Target</strong>: Projected OPS - Target OPS</li>
+</ul>
+</div>
+
+<div class="section" id="action-focus">
+<h2>5. Action Focusの判定基準</h2>
+<p>Action Focusは以下の3つの条件で自動判定されます：</p>
+
+<h3>判定条件</h3>
+<ol>
+<li><strong>Promotion OPS vs Target</strong>: Projected OPS - Target OPS</li>
+<li><strong>Sourced GMS vs Target</strong>: Current GMS - Target GMS</li>
+<li><strong>No Suppression比較</strong>: SSHVE2 No Supp% - SSHVE1 No Supp%</li>
+</ol>
+
+<h3>判定ロジック</h3>
+<table>
+<thead>
+<tr>
+<th>Action Focus</th>
+<th>条件</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="badge badge-maintain">✅ Maintain</span></td>
+<td>OPS vs Target ≥ 0 <strong>かつ</strong> GMS vs Target ≥ 0 <strong>かつ</strong> No Supp ≥ SSHVE1</td>
+</tr>
+<tr>
+<td><span class="badge badge-suppression">🔧 Suppression</span></td>
+<td>GMS vs Target ≥ 0 <strong>だが</strong> No Supp &lt; SSHVE1</td>
+</tr>
+<tr>
+<td><span class="badge badge-sourcing">🎯 Sourcing</span></td>
+<td>GMS vs Target &lt; 0 <strong>だが</strong> No Supp ≥ SSHVE1</td>
+</tr>
+<tr>
+<td><span class="badge badge-both">📊 Both</span></td>
+<td>GMS vs Target &lt; 0 <strong>かつ</strong> No Supp &lt; SSHVE1</td>
+</tr>
+</tbody>
+</table>
+
+<h3>対応方針</h3>
+
+<div class="success-box">
+<h4><span class="badge badge-sourcing">🎯 Sourcing</span></h4>
+<p><strong>状況</strong>: GMSが不足しているが、Suppressionは改善している</p>
+<p><strong>施策</strong>:</p>
+<ul>
+<li>新規ASINの追加</li>
+<li>既存ASINのGMS拡大</li>
+<li>Deal強化</li>
+</ul>
+</div>
+
+<div class="info-box">
+<h4><span class="badge badge-suppression">🔧 Suppression</span></h4>
+<p><strong>状況</strong>: GMSは十分だが、Suppressionが悪化している</p>
+<p><strong>施策</strong>:</p>
+<ul>
+<li>OOS削減（在庫管理改善）</li>
+<li>Price Error削減（価格設定の最適化）</li>
+<li>その他Suppression削減</li>
+</ul>
+</div>
+
+<div class="warning-box">
+<h4><span class="badge badge-both">📊 Both</span></h4>
+<p><strong>状況</strong>: GMSもSuppressionも両方課題がある</p>
+<p><strong>施策</strong>:</p>
+<ul>
+<li>Sourcing施策とSuppression施策の両方を実施</li>
+<li>優先度を付けて段階的に対応</li>
+</ul>
+</div>
+
+<div class="success-box">
+<h4><span class="badge badge-maintain">✅ Maintain</span></h4>
+<p><strong>状況</strong>: 目標達成済み、または達成見込み</p>
+<p><strong>施策</strong>:</p>
+<ul>
+<li>現状維持</li>
+<li>必要に応じて更なる改善を検討</li>
+</ul>
+</div>
+</div>
+
+<div class="section" id="calculation">
+<h2>6. 入力方法と計算ロジック</h2>
+
+<h3>入力方法</h3>
+
+<h4>個別入力</h4>
+<ol>
+<li>黄色のセルをクリック</li>
+<li>数値を入力
+<ul>
+<li><strong>Sourcing改善幅</strong>: 金額（例: <code>10000</code>）</li>
+<li><strong>改善率/削減率</strong>: %の数値のみ（例: <code>20</code> = 20%）</li>
+</ul>
+</li>
+<li>Enterキーで確定</li>
+<li>自動的に再計算されます</li>
+</ol>
+
+<h4>一括入力</h4>
+<ol>
+<li>一括入力セクションで値を入力</li>
+<li>✅ 一括適用ボタンをクリック</li>
+<li>表示中の全セラーに適用されます</li>
+</ol>
+
+<h3>計算ロジック</h3>
+
+<h4>Suppression Category係数</h4>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>係数</th>
+<th>備考</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>No suppression</td>
+<td>0.5343</td>
+<td>-</td>
+</tr>
+<tr>
+<td>OOS</td>
+<td>0.0000</td>
+<td style="color:#999">係数0に設定</td>
+</tr>
+<tr>
+<td>VRP Missing</td>
+<td>0.0000</td>
+<td style="color:#999">係数0に設定</td>
+</tr>
+<tr>
+<td>Price Error</td>
+<td>0.2750</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Others</td>
+<td>0.1801</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<div class="warning-box">
+<p><strong>注</strong>: OOSとVRP Missingの係数は0に設定されています</p>
+</div>
+
+<h4>Improved SSHVE2%の計算</h4>
+<p>改善施策を入力すると、SSHVE2のSuppression比率が以下のように変化します：</p>
+
+<div class="info-box">
+<h4>1. OOS改善</h4>
+<ul>
+<li>Improved OOS% = OOS% × (1 - OOS改善率% / 100)</li>
+<li>削減分はNo suppressionに加算</li>
+</ul>
+</div>
+
+<div class="info-box">
+<h4>2. Price Error削減</h4>
+<ul>
+<li>Improved Price Error% = Price Error% × (1 - Price Error削減率% / 100)</li>
+<li>削減分はNo suppressionに加算</li>
+</ul>
+</div>
+
+<div class="info-box">
+<h4>3. その他Suppression削減</h4>
+<ul>
+<li>Improved Others% = Others% × (1 - その他削減率% / 100)</li>
+<li>Improved VRP% = VRP% × (1 - その他削減率% / 100)</li>
+<li>削減分はNo suppressionに加算</li>
+</ul>
+</div>
+
+<div class="success-box">
+<h4>4. No suppression</h4>
+<ul>
+<li>Improved No Supp% = 元のNo Supp% + 各削減分の合計</li>
+</ul>
+</div>
+
+<h4>Projected OPSの計算</h4>
+<pre><code>Improved GMS = Current GMS + Sourcing改善幅
+
+Projected OPS = Σ(Improved GMS × Improved SSHVE2% × 係数)
+              = (Improved GMS × Improved No Supp% / 100 × 0.5343)
+              + (Improved GMS × Improved OOS% / 100 × 0.0000)
+              + (Improved GMS × Improved VRP% / 100 × 0.0000)
+              + (Improved GMS × Improved Price Error% / 100 × 0.2750)
+              + (Improved GMS × Improved Others% / 100 × 0.1801)
+</code></pre>
+</div>
+
+<div class="section" id="faq">
+<h2>7. よくある質問（FAQ）</h2>
+
+<div class="info-box">
+<h3>Q1: フィルターをかけてもデータが表示されない</h3>
+<p><strong>A</strong>: 以下を確認してください：</p>
+<ul>
+<li>フィルター条件が正しく選択されているか</li>
+<li>🔍 検索ボタンをクリックしたか</li>
+<li>ブラウザのコンソールにエラーが出ていないか（F12キーで確認）</li>
+</ul>
+</div>
+
+<div class="warning-box">
+<h3>Q2: 20%改善したい場合、何を入力すればいい？</h3>
+<p><strong>A</strong>: <code>20</code>と入力してください（<code>0.2</code>ではありません）</p>
+<ul>
+<li>例: OOS改善率に<code>20</code>と入力 → 20%改善</li>
+</ul>
+</div>
+
+<div class="info-box">
+<h3>Q3: Sourcing改善幅はどう決めればいい？</h3>
+<p><strong>A</strong>: 以下を参考に決定してください：</p>
+<ul>
+<li>新規ASIN追加の見込みGMS</li>
+<li>既存ASINのGMS拡大見込み</li>
+<li>Deal強化による増加見込み</li>
+<li>QuickSightでASIN単位のデータを確認して積み上げ</li>
+</ul>
+</div>
+
+<div class="info-box">
+<h3>Q4: SSHVE1 Suppressionが灰色になっているのはなぜ？</h3>
+<p><strong>A</strong>: そのセラーのSSHVE1データが存在しないため、PF平均値を使用しています</p>
+<ul>
+<li>灰色セルにマウスを乗せると「PF平均値を使用」と表示されます</li>
+</ul>
+</div>
+
+<div class="warning-box">
+<h3>Q5: Action Focusが「Both」のセラーはどう対応すればいい？</h3>
+<p><strong>A</strong>: Sourcing施策とSuppression施策の両方が必要です：</p>
+<ol>
+<li>まずギャップの大きい方から着手</li>
+<li>QuickSightでASIN単位のデータを確認</li>
+<li>優先度を付けて段階的に対応</li>
+</ol>
+</div>
+
+<div class="success-box">
+<h3>Q6: CSV出力したデータの文字化けを防ぐには？</h3>
+<p><strong>A</strong>: UTF-8 BOMで出力されているため、Excelで開いても文字化けしません</p>
+<ul>
+<li>そのままExcelで開いてください</li>
+</ul>
+</div>
+
+<div class="info-box">
+<h3>Q7: Team Summaryの数値は何を表している？</h3>
+<p><strong>A</strong>:</p>
+<ul>
+<li><strong>Sellers</strong>: セラー数</li>
+<li><strong>Current/Target GMS</strong>: GMS合計</li>
+<li><strong>Gap</strong>: Current GMS - Target GMS</li>
+<li><strong>No Supp%等</strong>: GMS加重平均</li>
+<li><strong>Sourcing/Suppression/Both/Maintain</strong>: 各Action Focusに該当するセラー数</li>
+</ul>
+</div>
+
+<div class="info-box">
+<h3>Q8: QuickSightで何が確認できる？</h3>
+<p><strong>A</strong>: ASIN単位の詳細データを確認できます：</p>
+<ul>
+<li>ASIN別のGMS、OPS</li>
+<li>Suppression Category別の内訳</li>
+<li>時系列推移</li>
+<li>より詳細な分析が可能</li>
+</ul>
+</div>
+
+<div class="warning-box">
+<h3>Q9: 一括入力を取り消したい</h3>
+<p><strong>A</strong>:</p>
+<ul>
+<li>個別に値を修正するか</li>
+<li>ページをリロードして最初からやり直してください</li>
+<li>CSV出力前であれば、ブラウザの戻るボタンでも可</li>
+</ul>
+</div>
+
+<div class="warning-box">
+<h3>Q10: Projected OPSがTarget OPSに届かない場合は？</h3>
+<p><strong>A</strong>: 以下を検討してください：</p>
+<ol>
+<li>Sourcing改善幅を増やす（新規ASIN追加等）</li>
+<li>Suppression削減率を上げる（より積極的な施策）</li>
+<li>両方の施策を強化</li>
+<li>現実的な目標値かどうかを再検討</li>
+</ol>
+</div>
+</div>
+
+<div class="footer">
+<p><strong>サポート</strong></p>
+<p>質問や不具合がある場合は、ダッシュボード管理者に連絡してください。</p>
+<p style="margin-top:20px;font-size:0.9em">最終更新: 2026年3月19日</p>
+</div>
+
+</div>
+</div>
+</body>
+</html>
