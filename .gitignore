@@ -53,6 +53,12 @@ htmlcov/
 # *.csv
 # *.txt
 
+# Large data files
+sshve2_data_*.json
+*_raw_*.txt
+*.xlsx
+*.xls
+
 # Environment variables
 .env
 .env.local
