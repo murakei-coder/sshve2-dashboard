@@ -59,6 +59,18 @@ sshve2_data_*.json
 *.xlsx
 *.xls
 
+# Large HTML dashboard files (old versions)
+sshve2_dashboard_v2_cascading_*.html
+sshve2_final_dashboard_*.html
+
+# Large raw data files
+data/BF25_3PAllraw.txt
+data/*Allraw.txt
+
+# Binary executables
+bin/*.exe
+bin/*.dll
+
 # Environment variables
 .env
 .env.local
