@@ -1,274 +1,38 @@
 {
-  "775213729702": [
+  "775270588702": [
     {
-      "asin": "B0DTP38VRW",
-      "item_name": "【G系 焼そば セット | 4食 】G系焼そば麺×4袋 ＋豚にんにく焼ダレ×4袋 | ガッツリ系 要冷蔵 | 人気 お取り寄せ | 岩崎食品工業 二郎系 ジロリアン (4食, 【めん＋スープ】 焼きそばラーメン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 9920.0,
-      "t30d_units": 4.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 775270588702,
+      "merchant_name": "フォーセンス公式ストア",
+      "asin": "B0D311Y11F",
+      "item_name": "4SENSE 炭酸生クリームセラム 70g｜20,000ppm 炭酸美容液 目の下 クマ くすみ ナイアシンアミド ビタミンC ヒト型セラミド",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 517734.65,
+      "t30d_units": 183.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DTP81Y7S",
-      "item_name": "G系 ﾗｰﾒﾝ ｽｰﾌﾟｾｯﾄ 極平麺 × 3袋 + 背脂にんにく醬油 ﾗｰﾒﾝｽｰﾌﾟ× 6袋 | 要冷蔵 | 二郎系 インスパイア ジロリアン 岩崎食品工業 (G系極平麺 6食, 背脂にんにく醬油)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 13900.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0F4MRX5GG",
-      "item_name": "【二郎系ラーメン 麺のみ | 18食分】生麺 要冷蔵 (18食, DX超G系極太麺)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 39800.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0BYFB6JVR",
-      "item_name": "翁の郷 肉汁うどん(カレー味)3人前",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 47320.08,
-      "t30d_units": 34.0
-    },
-    {
-      "asin": "B0FS6Q37VT",
-      "item_name": "【二郎系ラーメン 食べ比べ | 3種 6食】極太麺・極平麺・DX麺 各1＋スープ3種（味噌/醤油/にんにく）要冷蔵 | 人気 お取り寄せ | 岩崎食品工業 (麺３種6食 (DX/極太麺/極平麺), DX醤油/DX濃厚味噌/背脂にんにくスープ (各2袋）)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 92380.0,
-      "t30d_units": 31.0
-    },
-    {
-      "asin": "B0F248KB6X",
-      "item_name": "DX超 G系 ﾗｰﾒﾝ ｽｰﾌﾟｾｯﾄ 極太麺 × 3袋 +DX背脂にんにく醬油ﾗｰﾒﾝｽｰﾌﾟ× 6袋 | 要冷蔵 | 二郎系 インスパイア ジロリアン 岩崎食品工業 (DX超G系極太麺 6食, DX背脂にんにく醬油)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 99360.0,
-      "t30d_units": 27.0
-    },
-    {
-      "asin": "B0FWGMV9D9",
-      "item_name": "翁の郷 埼玉名物肉汁うどん3人前【３個セット】（乾めん、つゆ付）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 98882.86,
-      "t30d_units": 29.0
-    },
-    {
-      "asin": "B0FS6PG3PW",
-      "item_name": "【ガッツリ系ラーメン用 スープ】DX濃厚豚骨味噌ラーメンスープ 20食分 | 二郎系/次郎系 インスパイア | 岩崎食品工業 (20袋, DX濃厚豚骨味噌ラーメンスープ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 10560.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FSCX37SX",
-      "item_name": "DX超 G系 ﾗｰﾒﾝ ｽｰﾌﾟｾｯﾄ 極太麺 × 3袋 + 濃厚豚骨味噌 ﾗｰﾒﾝｽｰﾌﾟ× 6袋 | 要冷蔵 | 二郎系 インスパイア ジロリアン 岩崎食品工業 (DX超G系極太麺 6食, 濃厚豚骨味噌)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 29440.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0F4MV4N42",
-      "item_name": "【ガッツリ系ラーメン用 スープ】DX背脂にんにく醤油ラーメンスープ 20食分 | 二郎系/次郎系 インスパイア | 岩崎食品工業 (20袋, DX背脂にんにく醤油ラーメンスープ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 21120.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DJCXPX1N",
-      "item_name": "【二郎系ラーメン 麺のみ】G系 生麺 (24食, G系極太麺)【要冷蔵】岩崎食品工業",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 160392.0,
-      "t30d_units": 42.0
-    },
-    {
-      "asin": "B0DTP5WVJD",
-      "item_name": "翁の郷 埼玉名物肉汁うどん9人前（乾めん、つゆ付） (肉汁うどん(醤油))",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 22330.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0GMWK3P49",
-      "item_name": "岩崎食品工業 超Ｇ系極太麺6食分【めんのみ】要冷凍（超G系極太麺×6袋） 二郎系 (冷凍超G系極太麺 ６食, 麺のみ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DSPCZDTL",
-      "item_name": "翁の郷 埼玉 名物 肉汁 うどんつゆ付 生うどん 6人前 (2人前 × 3袋) 要冷蔵 お土産 岩崎食品工業",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 21510.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0GMWL5D6T",
-      "item_name": "岩崎食品工業 超Ｇ系極太麺6食分【めんのみ】要冷凍（超G系極太麺×6袋） 二郎系 (冷凍超Ｇ系極太麺 10食, DX背脂にんにく醤油)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F386XLYQ",
-      "item_name": "【二郎系ラーメン 麺のみ | 6食分】岩崎食品工業 DX超G系 生麺 要冷蔵 (6食, DX超G系極太麺)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 59024.0,
-      "t30d_units": 25.0
-    },
-    {
-      "asin": "B0FS6T2PNP",
-      "item_name": "島田造り小松菜うどん5袋入り（乾めん）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 2790.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DLGC6S9Q",
-      "item_name": "翁の郷 埼玉名物肉汁うどんつゆ300ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 34258.25,
-      "t30d_units": 35.0
-    },
-    {
-      "asin": "B09D9XQT5W",
-      "item_name": "翁の郷 埼玉名物 肉汁うどん 乾麺 3人前 ｜つゆ付 ｜435g｜埼玉県産小麦 使用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 70332.55,
-      "t30d_units": 54.0
-    },
-    {
-      "asin": "B0F134KHNG",
-      "item_name": "【刀削麺風 ラーメン 麺のみ | 6食分】G系 生麺 (6食, G系極平麺)【要冷蔵】",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 6240.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0F387JZ51",
-      "item_name": "【刀削麺風 麺のみ】生麺 (24食, G系極平麺)【要冷蔵】",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GMX12HRS",
-      "item_name": "岩崎食品工業 超Ｇ系極太麺6食分【めんのみ】要冷凍（超G系極太麺×6袋） 二郎系 (冷凍超Ｇ系極太麺 12食, 麺のみ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DSP1KDKN",
-      "item_name": "翁の郷 埼玉 名物肉汁 うどんつゆ付 生うどん12人前(2人前×6袋) 要冷蔵 お土産 岩崎食品工業",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0GMW7ZJ2M",
-      "item_name": "岩崎食品工業 超Ｇ系極太麺6食分【めんのみ】要冷凍（超G系極太麺×6袋） 二郎系 (冷凍超G系極太麺 5食, DX背脂にんにく醤油)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DHWTRG4S",
-      "item_name": "G系 ﾗｰﾒﾝ ｽｰﾌﾟｾｯﾄ 極太麺 × 3袋 + 背脂にんにく醬油 ﾗｰﾒﾝｽｰﾌﾟ× 6袋 | 要冷蔵 | 二郎系 インスパイア ジロリアン 岩崎食品工業 (G系極太麺 6食, 背脂にんにく醬油)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 224900.0,
-      "t30d_units": 81.0
-    },
-    {
-      "asin": "B0DG84STS8",
-      "item_name": "【二郎系ラーメン 麺のみ | 6食分】G系 生麺 (6食, G系極太麺)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 68460.0,
-      "t30d_units": 33.0
-    },
-    {
-      "asin": "B0DJQNXF8H",
-      "item_name": "【ガッツリ系ラーメン用 スープ】背脂にんにく醤油ラーメンスープ 20食分 | 二郎系/次郎系 インスパイア | 岩崎食品工業 (20袋, 背脂にんにく醤油ラーメンスープ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 86455.75,
-      "t30d_units": 27.0
-    },
-    {
-      "asin": "B0F2MHBY3N",
-      "item_name": "【G系 焼そば】G系焼そば麺20食 | ガッツリ系 要冷蔵 | 人気 お取り寄せ | 岩崎食品工業 二郎系 ジロリアン (20食, めんのみ)",
-      "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
-      "suppression_category": "5.Others",
-      "pf": "Consumables",
-      "t30d_ops": 11640.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0GMW2J9YT",
-      "item_name": "【ガッツリ系焼そば・まぜ麺用 タレ】 二郎系/次郎系 インスパイア | 岩崎食品工業 (20袋, 豚ニンニク焼ダレ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 3180.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FWGNC2NZ",
-      "item_name": "翁の郷 埼玉名物煮ぼうとう3人前（乾めん、つゆ付）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 14065.33,
-      "t30d_units": 11.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 775270588702,
+      "merchant_name": "フォーセンス公式ストア",
+      "asin": "B0FL2123CZ",
+      "item_name": "4SENSE 炭酸生クリームウォッシュ｜酵素洗顔 毛穴洗浄 泡洗顔【酵素×濃密炭酸泡×クレイ】たっぷり180g",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 294254.1,
+      "t30d_units": 120.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

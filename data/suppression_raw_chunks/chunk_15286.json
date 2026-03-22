@@ -1,22 +1,72 @@
 {
-  "1082049210102": [
+  "1082073715602": [
     {
-      "asin": "B0DPG7MSWQ",
-      "item_name": "FOGABER 鼻専用美顔器 鼻クリップ 電動 小鼻クリップ ノーズクリップ 鼻美顔器 鼻を高くする器具 メンズ レディース 美鼻クリップ 美容グッズ 充電式鼻美顔器 鼻高く美顔器 鼻の形に合わせて 3段階レベル 男女兼用 充電ケーブル付き",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1082073715602,
+      "merchant_name": "Bailian Direct",
+      "asin": "B0FF1QPD5B",
+      "item_name": "マグネットブロック 100 Pcs 磁石ブロック 磁石おもち マグネットおもちゃ 三歳以上 子供知育玩具 男の子女の子 学習教育用 建設玩具 誕生日プレゼント クリスマス ギフト 贈り物",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 82674.3,
+      "t30d_units": 29.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FN3YTRNR",
-      "item_name": "FOGABER 鼻専用美顔器 鼻クリップ 電動 小鼻クリップ ノーズクリップ 鼻美顔器 鼻を高くする器具 美鼻クリップ 充電式鼻美顔器 鼻高く美顔器 3段階レベル レディース メンズ 日本語説明書",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1082073715602,
+      "merchant_name": "Bailian Direct",
+      "asin": "B0FF1YFDTC",
+      "item_name": "マグネットブロック 220 Pcs 磁石ブロック 磁石おもち マグネットおもちゃ 3歳以上 子供知育玩具 男の子女の子 学習教育用 建設玩具 誕生日プレゼント クリスマス ギフト 贈り物",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 230361.8,
+      "t30d_units": 41.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1082073715602,
+      "merchant_name": "Bailian Direct",
+      "asin": "B0FF25H5JS",
+      "item_name": "マグネットブロック 150 Pcs 磁石ブロック 磁石おもち マグネットおもちゃ 3歳以上 子供知育玩具 男の子女の子 学習教育用 建設玩具 誕生日プレゼント クリスマス ギフト 贈り物",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 165244.21,
+      "t30d_units": 42.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1082073715602,
+      "merchant_name": "Bailian Direct",
+      "asin": "B0FF27RPDR",
+      "item_name": "マグネットブロック 100 Pcs 磁石ブロック 磁石おもち マグネットおもちゃ 3歳以上 子供知育玩具 男の子女の子 学習教育用 建設玩具 誕生日プレゼント クリスマス ギフト 贈り物",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 182089.92,
+      "t30d_units": 76.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

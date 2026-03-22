@@ -1,31 +1,38 @@
 {
-  "52658420622": [
+  "52662228622": [
     {
-      "asin": "B092CZ8V99",
-      "item_name": "［指定医薬部外品］日本製 アルコール消毒液 エタノール 消毒液 濃度76.9～81.4vol% アルコール 消毒 除菌 業務用 消毒剤 国産 アルコール 除菌液 手指 手 キレイズキ リバテープ製薬 1リットル (x 1)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 125188.33,
-      "t30d_units": 57.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 52662228622,
+      "merchant_name": "ＸｉＳ",
+      "asin": "B0FQ2LYK3X",
+      "item_name": "【2026版新モデル】 筋膜リリースガン マッサージガン (整体院長監修) (国内企画品) きんまくリリース 電動ガン ミニ ハンディガン 電動マッサージガン ボディケア振動 6種類ヘッド 30段階パワー 最大14mm振動 筋膜枪 肩こり 腰 足 ふくらはぎ 小型 軽量 ギフト",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 300260.0,
+      "t30d_units": 69.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0B4VSFNFX",
-      "item_name": "【製薬会社開発】安眠口閉じテープ (通常タイプ) 30枚入 鼻呼吸テープ 口閉じテープ いびき防止テープ マウステープ 鼻呼吸促進 日本製 リバテープ製薬",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 551379.44,
-      "t30d_units": 910.0
-    },
-    {
-      "asin": "B0BM9VZPLP",
-      "item_name": "安眠口閉じテープ (通常タイプ3個セット)90枚入 口閉じテープ 口閉じテープ いびき防止 鼻呼吸促進 日本製 リバテープ製薬",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 648160.82,
-      "t30d_units": 433.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 52662228622,
+      "merchant_name": "ＸｉＳ",
+      "asin": "B0F6D3FKBS",
+      "item_name": "【2026版新モデル】EMS腹筋ベルト 筋トレ (国内企画品) ダイエット器具 ジェルシート不要 腹筋エクササイズ サイズ調節可能 男女兼用 日本語説明 お腹周り おなかまわりの脂肪を落とすマシーン インナーマッスル 鍛える 8種類モード 18段階強度 USB充電式 液晶表示",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 184418.0,
+      "t30d_units": 58.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

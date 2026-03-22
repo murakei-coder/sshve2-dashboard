@@ -1,22 +1,38 @@
 {
   "677903864": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 677903864,
+      "merchant_name": "アスリートギア",
       "asin": "B0D3392C4Q",
       "item_name": "インザペイント IN THE PAINT レフリーパンツ ITPRF003P (3XL, ブラック)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Softlines",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
       "t30d_ops": 39600.0,
-      "t30d_units": 3.0
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 677903864,
+      "merchant_name": "アスリートギア",
       "asin": "B0D337JCRW",
       "item_name": "インザペイント IN THE PAINT レフリーパンツ ITPRF003P (M, ブラック)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

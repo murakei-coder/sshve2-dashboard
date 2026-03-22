@@ -1,13 +1,38 @@
 {
-  "1168639213602": [
+  "1169303700402": [
     {
-      "asin": "B0GC4YYS5K",
-      "item_name": "【その場で検出】性病抗原検出用キット 最短15分 男女兼用 淋病 梅毒 クラミジア マイコプラズマ 白色ガンジタ症 トリコモナス 即日 返送不要 研究用",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 427680.0,
-      "t30d_units": 66.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1169303700402,
+      "merchant_name": "Xi Pan Electronics",
+      "asin": "B0GCMYX4CH",
+      "item_name": "BQEYZ BQ10 12mm PET ダイナミックドライバー 有線インイヤーイヤホン インイヤーモニター ゲーミングイヤホン HiFi ゲーミングイヤホン 0.78mm 2ピン 取り外し可能なケーブル シルバー (BQ10 3.5mm マイクなし)",
+      "cleaned_suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 4180.33,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1169303700402,
+      "merchant_name": "Xi Pan Electronics",
+      "asin": "B0GCM445B4",
+      "item_name": "BQEYZ BQ10 12mm PET ダイナミックドライバー 有線インイヤーイヤホン インイヤーモニター ゲーミングイヤホン HiFi ゲーミングイヤホン 0.78mm 2ピン 取り外し可能なケーブル シルバー (BQ10 Type-Cマイク付き)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 4799.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

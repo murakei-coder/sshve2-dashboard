@@ -1,13 +1,21 @@
 {
-  "913266605202": [
+  "913282700002": [
     {
-      "asin": "B0F6Y3J9PZ",
-      "item_name": "Yoaio 第2代目ブロワー 洗車 強力 6段風速ロック ノズル付き エアダスター 【風量なら第2代目 ブルーが推奨】 3000&2000mAhpse認証済バッテリー各1個 電量残量表示 マキタ電池互換 センシャ ブロアー 52m/s大風速 210000RPM 最強 充電式ブロワー 80mm風入口 12枚ファンブレード ターボブロワー ターボファン 軽",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 182416.25,
-      "t30d_units": 38.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 913282700002,
+      "merchant_name": "YF すこやかくらし 【1年保証付】",
+      "asin": "B0DZC5DMP1",
+      "item_name": "【2025新登場】ネックケア リラックス 日本語音声ガイダンス リモコン付き 首・肩・腰・背中・太もも・ふくらはぎ リラクゼーション器 5種類モード 4段階強度調節 3段階温熱機能 3Dショルダーリラクゼーション器 ネックウォーマー ネックリラックス 全身使用可能 長さ調節可能 コードレス Type-C充",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 2306974.34,
+      "t30d_units": 258.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

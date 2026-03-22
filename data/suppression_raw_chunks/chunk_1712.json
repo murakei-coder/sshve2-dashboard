@@ -1,31 +1,55 @@
 {
   "5593813022": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 5593813022,
+      "merchant_name": "McDoo! 製作所",
       "asin": "B0F2CGRMH2",
       "item_name": "DeeAWai 金属探知機 カードサーチ、レア抜きサーチ機、日本語取扱説明書、レアカードサーチ機、トレーディングカードスキャナー、ワイヤーパイプパワー探知機、3in1壁スキャナー金属探知機 高感度(24時間以内に配達)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 1524342.51,
-      "t30d_units": 691.0
+      "t30d_units": 691.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 5593813022,
+      "merchant_name": "McDoo! 製作所",
       "asin": "B0F5GS2V1V",
       "item_name": "DeeAWai 替刃 互換品 S3シリーズ対応 32S シリーズ3シェーバー ステンレス製網刃・内刃一体型 310s 3040s 3010s 3000s 3050cc 3080s 3090ccなどに適用 互換品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
       "t30d_ops": 166053.8,
-      "t30d_units": 179.0
+      "t30d_units": 179.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 5593813022,
+      "merchant_name": "McDoo! 製作所",
       "asin": "B0F87FPR7T",
       "item_name": "DeeAWai 刷毛 3本セット 31ｍｍ 49ｍｍ 73ｍｍ お得用多用途用 水性塗料 油性塗料 兼用, 白",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
       "t30d_ops": 333195.23,
-      "t30d_units": 590.0
+      "t30d_units": 590.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

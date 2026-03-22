@@ -1,58 +1,21 @@
 {
-  "73995035122": [
+  "74024549022": [
     {
-      "asin": "B0FPQV2CJX",
-      "item_name": "投光器LED 作業灯 コードレス投光器 8000LM 14.4V /18Vバッテリーとの互換性あり 集魚灯 2つの出力充電ポート IP66防水防塵 停電対策 夜間作業 夜釣り 夜間工事 アウトドア 防災照明 8in (電池なし) (ブルー, 5インチー5000LM)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 1990.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DSTR37WK",
-      "item_name": "【超高輝度2000LM】自転車ライト 自転車用ヘッドライト バッテリー大容量 超明るい USB充電式 高强度アルミ合金製 IPX6防水 防振 ロードバイクライト ミニ軽量 着脱簡単 通学通勤 停電対応 アウトドア 防災照明 日本語説明書付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 15157.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0FR1MPWZP",
-      "item_name": "【最新版】ストリングライト ledランタン キャンプ ランタン 充電式 高輝度1000lm 5000mAh大容量 イルミネーションライト内蔵 無段階調光 USB充電式 防災 停電 アウトドア 登山 夜釣り 災害対策",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 1354.33,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BS38FS6R",
-      "item_name": "自転車 ライト 自転車ヘッドライト【超高輝度・5200mAh大容量】 自転車LEDライト 超明るい USB充電式 4つ調光モード IPX6防水 防振 アルミ合金製 停電対応 防災対策 登山 夜釣り アウトドア PSE認証済 日本語説明書 (2000ルーメン-5200mAh)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 77217.41,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B0FF9F76DM",
-      "item_name": "投光器LED 作業灯 コードレス投光器 8000LM 14.4V /18Vバッテリーとの互換性あり 集魚灯 2つの出力充電ポート IP66防水防塵 停電対策 夜間作業 夜釣り 夜間工事 アウトドア 防災照明 8in (電池なし) (ブッラク, 4インチー5000LM)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 5920.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0FF2B5Z8Q",
-      "item_name": "投光器LED 作業灯 コードレス投光器 8000LM 14.4V /18Vバッテリーとの互換性あり 集魚灯 2つの出力充電ポート IP66防水防塵 停電対策 夜間作業 夜釣り 夜間工事 アウトドア 防災照明 8in (電池なし) (ブッラク, 8インチー8000LM)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 9760.0,
-      "t30d_units": 4.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 74024549022,
+      "merchant_name": "Tunenge",
+      "asin": "B0DHGMVC5M",
+      "item_name": "TUNENGE S15Pro キーチェーン懐中電灯、750 高ルーメン EDC ポケット懐中電灯 クリップ付き USB C 充電式ミニ懐中電灯 マグネット付き ハイキング キャンプ 修理に最適 (ブラック)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 81183.75,
+      "t30d_units": 22.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

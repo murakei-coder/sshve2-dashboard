@@ -1,49 +1,21 @@
 {
-  "1123735573902": [
+  "1123942348502": [
     {
-      "asin": "B0FN881CQL",
-      "item_name": "Renobond レジン液 大容量 500g UVレジン液 ードタイプ成形 高い透明 急速に硬化 超透明 UV/LED対応 レジン DIY手作り装飾 低アレルギー性",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 82176.0,
-      "t30d_units": 42.0
-    },
-    {
-      "asin": "B0FN4WYTLR",
-      "item_name": "Renobond エポキシ樹脂 二液性レジン液 大容量 948ml/32oz (A液+B液) 低刺激性 高い透明 高硬度 黄変しにくい エポキシレジン液 DIY 手芸用品 セルフレべリング 人気",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 197138.35,
-      "t30d_units": 73.0
-    },
-    {
-      "asin": "B0G5LFTD12",
-      "item_name": "ジェルネイル ライト ネイルライト LED UVライト レジン用 硬化ライト ジェルネイル と レジンクラフト用 新しいUVライト レジン用 硬化ライト 36w",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 56625.57,
-      "t30d_units": 30.0
-    },
-    {
-      "asin": "B0FN89DXJW",
-      "item_name": "Renobond レジン液 大容量 1000g UVレジン液 ードタイプ成形 高い透明 急速に硬化 超透明 UV/LED対応 レジン DIY手作り装飾 低アレルギー性",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 211996.63,
-      "t30d_units": 55.0
-    },
-    {
-      "asin": "B0FNX99MBC",
-      "item_name": "Renobond エポキシ樹脂 二液性レジン液 大容量 4.3kg/128oz (A液+B液) 低刺激性 高い透明 高硬度 黄変しにくい エポキシレジン液 DIY 手芸用品 セルフレべリング 人気",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 417883.0,
-      "t30d_units": 57.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1123942348502,
+      "merchant_name": "EvoAce LYP",
+      "asin": "B0FNW7Q9KD",
+      "item_name": "EvoAce ストーブファン 7枚ブレード【2025年新モデル/アップグレード版】薪ストーブ/暖炉/石油ストーブ対応｜電源不要 自動回転 空気循環ファン 静音 省エネ 温度計付き スチール製 堅牢構造 室内・キャンプ・アウトドア用 日本語説明書付き ブラック",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1552231.93,
+      "t30d_units": 464.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

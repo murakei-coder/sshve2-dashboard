@@ -1,22 +1,38 @@
 {
-  "884203731202": [
+  "884712237002": [
     {
-      "asin": "B0DM66Z1LT",
-      "item_name": "Trueway 猫おもちゃ カタツムリ 猫玩具 自動 全方向に転がる 2モード搭載 急速充電式 LED触角付き お留守番に 好奇心満足 (ブルー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 884712237002,
+      "merchant_name": "hegeiの店",
+      "asin": "B0FS1HTPP5",
+      "item_name": "カーボンヒーター 【2025年冬モデル・360°全方位速暖・3in1デザイン】 電気ストーブ 座卓一体型ヒーター 足元 暖房器具 三段階運転 1000W 暖房/煮る/保温 多用途 静音 節電 9時間切タイマー 転倒自動OFF 寒さ対策 飲み物加熱・保温できる リモコン 脱衣所/キッチン/リビング センターテーブル PSE認証済",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 728249.75,
+      "t30d_units": 123.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DM67MNYR",
-      "item_name": "Trueway 猫おもちゃ カタツムリ 猫玩具 自動 全方向に転がる 2モード搭載 急速充電式 LED触角付き お留守番に 好奇心満足 (ブラウン)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 8995.0,
-      "t30d_units": 5.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 884712237002,
+      "merchant_name": "hegeiの店",
+      "asin": "B0FP4Y9GB2",
+      "item_name": "イヤホン bluetooth ワイヤレスイヤホン 【2025業界新開発&最先端Bluetooth5.4】 ブルートゥース LEDディスプレイ残量表示 最大60時間連続再生 ENCノイズキャンセリング+DNS技術 自動ペアリング 完全ぶるーとぅーす タッチ操作 Type-C 急速充電 IPX7防水 片耳/両耳 小型/軽量 ランニング/通勤/通学/スポーツ/会議",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 295591.32,
+      "t30d_units": 176.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

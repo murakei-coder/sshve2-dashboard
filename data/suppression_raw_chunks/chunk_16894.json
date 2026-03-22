@@ -1,13 +1,38 @@
 {
-  "1190394413602": [
+  "1190406983102": [
     {
-      "asin": "B0CCJ6HSJ9",
-      "item_name": "掃除機 コードレス Fochai【20000pa 強力吸引 革新モデル】スティック電気掃除機 5WAY 5種類ノズル 軽量 Type-C充電式 一人暮らし LEDライト照明 ワンプッシュでゴミ箱を開ける 水洗可能なステンレスフィルター 布団用ブラシ付 HEPA多重濾過 一人暮らし&お年寄り 低騒音 敬老の日 年末お掃除 日本語取扱説",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 7154092.36,
-      "t30d_units": 1292.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1190406983102,
+      "merchant_name": "KOPOPIKAM",
+      "asin": "B0GJS7L26G",
+      "item_name": "小型カメラ 隠しカメラ ライター型 防犯カメラ 小型監視カメラ【1080P画質/静音録画/128GBカード対応（別売り）/長時間録画】 上書き録画 会議/商談記録 必要時刻を記録 証拠収集 操作簡単 ポータブル 隠蔽設計 日本語取扱説明書付き",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 77992.0,
+      "t30d_units": 8.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1190406983102,
+      "merchant_name": "KOPOPIKAM",
+      "asin": "B0GJF6268T",
+      "item_name": "小型カメラ 隠しカメラ メガネカメラ HD1080P画質 大容量128GB対応(別売り) 長時間録画 操作簡単 スパイカメラ 写真撮影 充電しながら録画 カメラ付きメガネ 防犯用 会議 商談 証拠撮影 Vlog 屋内 屋外ブラック 日本語説明書",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 106384.66,
+      "t30d_units": 14.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

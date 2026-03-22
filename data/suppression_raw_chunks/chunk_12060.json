@@ -1,85 +1,38 @@
 {
-  "724615004302": [
+  "724837855502": [
     {
-      "asin": "B0DHHKFQR2",
-      "item_name": "【日本公式店】サンケファン サンクェファン イージートゥモロー easytomorrow 宴会 (サプリ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 124307.0,
-      "t30d_units": 44.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 724837855502,
+      "merchant_name": "LifeRich【公式オンラインストア】",
+      "asin": "B0GJ5P244G",
+      "item_name": "オトナプロテイン 黒ごまきなこ味 大人の腸活・美容・関節ケア ソイプロテイン 特許乳酸菌1000億個 国内製造 300g LifeRich",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 572509.83,
+      "t30d_units": 157.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CSS3GV2L",
-      "item_name": "イージートゥモロー（ゼリータイプ）桃味 18g x 10本 飲む前の新しい習慣",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 106646.32,
-      "t30d_units": 41.0
-    },
-    {
-      "asin": "B08K2P48KK",
-      "item_name": "【DASHU】 ウェットカールクリーム 150ml ㅣ しっとりツヤ感ウェットスタイリング 定番クリーム うるおい質感 濡れ髪風ツヤアップ くせ毛 縮れ毛 防止 ヘアケア ヘアトリートメント ヘアエッセンス ヘアスタイリング剤 整髪剤",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 136139.99,
-      "t30d_units": 90.0
-    },
-    {
-      "asin": "B0FYCYV54Q",
-      "item_name": "【日本公式店】サンケファン （ゼリー・ピーチ味）爽快サプリメント",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 344562.63,
-      "t30d_units": 123.0
-    },
-    {
-      "asin": "B0CNGNCLB7",
-      "item_name": "【貼るだけ簡単】自宅で歯の黄ばみケア 削らないホワイトニングシート 28枚（14日分）研磨剤不使用 フィチン酸配合 スマイルプラス",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 443948.47,
-      "t30d_units": 407.0
-    },
-    {
-      "asin": "B08K31KK5D",
-      "item_name": "【DASHU】 ナチュラルカールクリーム 150ml ㅣ ナチュラルヘアスタイリング スタイリングジェル 頭皮とヘアケア 水分ベース 自然な髪の流れ くせ毛縮れ毛防止 ヘアトリートメント ヘアエッセンス",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 91674.5,
-      "t30d_units": 60.0
-    },
-    {
-      "asin": "B0FCLV7LFG",
-      "item_name": "【日本公式】テイラー ディープウォーター 180ml*3本｜Taylor Deep Water ｜韓国で1700万本突破！インナークリーンドリンク｜速攻スッキリ実感・腸活サポート｜プルーン・食物繊維・ラクツロース配合｜便秘対策・美容・ダイエットにもおすすめ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 583416.98,
-      "t30d_units": 231.0
-    },
-    {
-      "asin": "B0B4R444CY",
-      "item_name": "【DASHU】 ボリュームアップカールクリーム ㅣ サロン仕上がり カールクリーム 3IN1（カール・エッセンス・ワックス）弾力カール べたつかない ヘアダメージケア ヘアスタイリング",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 81451.99,
-      "t30d_units": 55.0
-    },
-    {
-      "asin": "B0DLZZRKXR",
-      "item_name": "【日本公式店】サンケファン （ゼリー・シャインマスカット味） 爽快サプリメント",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 267820.5,
-      "t30d_units": 93.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 724837855502,
+      "merchant_name": "LifeRich【公式オンラインストア】",
+      "asin": "B0G267DSFT",
+      "item_name": "オトナプロテイン ココア味 大人の腸活・美容・関節ケア ソイプロテイン 特許乳酸菌1000億個 国内製造 300g LifeRich",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 435706.36,
+      "t30d_units": 112.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

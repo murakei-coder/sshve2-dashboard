@@ -1,13 +1,21 @@
 {
-  "1144392914002": [
+  "1144410774002": [
     {
-      "asin": "B0GF1SV4ZH",
-      "item_name": "【タブレット 8インチ】-Android16 強化版 Wi-Fi6 モデル タブレット、24GB+64GB+2TB拡張、2.0GHz高速CPU搭載 、Wi-Fi6·Bluetooth5.4、Type-C充電+5000mAh、WidevineL1/Netflix/YouTube対応、児童守護·無線投影、動画/電子書/マンガ見る 保護フイルム貼り済み 8インチ Tablet BMSE A80",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 4648130.0,
-      "t30d_units": 414.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1144410774002,
+      "merchant_name": "Simmor WYJ JP Store",
+      "asin": "B0GKDGYTBL",
+      "item_name": "電動シェーバー 回転式 肌に優しい 髭剃り 静音 ロック機能 海外対応",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 36020.0,
+      "t30d_units": 10.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

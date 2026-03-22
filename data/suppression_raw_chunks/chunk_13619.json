@@ -1,85 +1,38 @@
 {
-  "890840019402": [
+  "891792782202": [
     {
-      "asin": "B0FRZK1RBK",
-      "item_name": "[IZWFH] 縮まない ベランダ サンダル 耐熱 滑り止め 水が溜まらない 穴あき バス スリッパ 男女兼用 浴室 浴槽 庭 トイレ シャワーサンダル グレー 24.5-26.0cm",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 245163.69,
-      "t30d_units": 168.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 891792782202,
+      "merchant_name": "OZURIA直販店【3年間安心保証】",
+      "asin": "B0DC5ZNHHC",
+      "item_name": "掃除機 コード式 45KPa強力吸引 【業界初 2段吸引力 コード式掃除機】 超軽量 Ozuria サイクロン 2WAY仕様 ハンディ スティッククリーナー 多種類ノズル 遠心分離 5M電源コード HEPA多層濾過 紙パック不要 ハードフロア/カーペット/カーテンに適用 家庭用 一人暮らし プレゼント PSE認証済み",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 2768263.12,
+      "t30d_units": 693.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FRZM9QF7",
-      "item_name": "[IZWFH] 縮まない ベランダ サンダル 耐熱 滑り止め 水が溜まらない 穴あき バス スリッパ 男女兼用 浴室 浴槽 庭 トイレ シャワーサンダル グレー 26.0-27.5cm",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 265743.23,
-      "t30d_units": 180.0
-    },
-    {
-      "asin": "B0FRZLBD5V",
-      "item_name": "[IZWFH] 縮まない ベランダ サンダル 耐熱 滑り止め 水が溜まらない 穴あき バス スリッパ 男女兼用 浴室 浴槽 庭 トイレ シャワーサンダル ブラック 24.5-26.0cm",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 101200.61,
-      "t30d_units": 67.0
-    },
-    {
-      "asin": "B0FRZLVD38",
-      "item_name": "[IZWFH] 縮まない ベランダ サンダル 耐熱 滑り止め 水が溜まらない 穴あき バス スリッパ 男女兼用 浴室 浴槽 庭 トイレ シャワーサンダル ネイビー 26.0-27.5cm",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 369456.15,
-      "t30d_units": 247.0
-    },
-    {
-      "asin": "B0FRZKCY6K",
-      "item_name": "[IZWFH] 縮まない ベランダ サンダル 耐熱 滑り止め 水が溜まらない 穴あき バス スリッパ 男女兼用 浴室 浴槽 庭 トイレ シャワーサンダル ネイビー 24.5-26.0cm",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 177462.68,
-      "t30d_units": 119.0
-    },
-    {
-      "asin": "B0FRZLWV3V",
-      "item_name": "[IZWFH] 縮まない ベランダ サンダル 耐熱 滑り止め 水が溜まらない 穴あき バス スリッパ 男女兼用 浴室 浴槽 庭 トイレ シャワーサンダル グレー 22.0-24.0cm",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 69535.54,
-      "t30d_units": 48.0
-    },
-    {
-      "asin": "B0FRZLZ7NN",
-      "item_name": "[IZWFH] 縮まない ベランダ サンダル 耐熱 滑り止め 水が溜まらない 穴あき バス スリッパ 男女兼用 浴室 浴槽 庭 トイレ シャワーサンダル ネイビー 22.0-24.0cm",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 32719.24,
-      "t30d_units": 22.0
-    },
-    {
-      "asin": "B0FRZMF6VF",
-      "item_name": "[IZWFH] 縮まない ベランダ サンダル 耐熱 滑り止め 水が溜まらない 穴あき バス スリッパ 男女兼用 浴室 浴槽 庭 トイレ シャワーサンダル ブラック 26.0-27.5cm",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 236380.88,
-      "t30d_units": 160.0
-    },
-    {
-      "asin": "B0FRZJDXC9",
-      "item_name": "[IZWFH] 縮まない ベランダ サンダル 耐熱 滑り止め 水が溜まらない 穴あき バス スリッパ 男女兼用 浴室 浴槽 庭 トイレ シャワーサンダル ブラック 22.0-24.0cm",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 42202.47,
-      "t30d_units": 28.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 891792782202,
+      "merchant_name": "OZURIA直販店【3年間安心保証】",
+      "asin": "B0DJQYXQHH",
+      "item_name": "掃除機 コードレス 100KPa【業界初 ムードライト登場】 OZURIA コードレス掃除機 自立式 着脱式バッテリー 60分間連続稼働 サイクロン掃除機 軽量 3段吸引力 スティック/ハンディ 2WAY LEDライト ハードフロア/カーペット/カーテン/ソファ/車に適用 家庭用 PSE認証済",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 6306451.98,
+      "t30d_units": 603.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

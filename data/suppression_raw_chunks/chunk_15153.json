@@ -1,13 +1,55 @@
 {
-  "1075047212002": [
+  "1075099807002": [
     {
-      "asin": "B0FN6W7DM5",
-      "item_name": "メガネ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1075099807002,
+      "merchant_name": "XIN ZHENG ELECTRICAL APPLIANCE",
+      "asin": "B0FXWSP8R7",
+      "item_name": "電気ケトル 4つの温度設定 プラグイン式 小型 持ち運びケトル 304食品級ステンレス鋼 トラベルケトル 300W低消費電力 空焚き防止 漏水防止 ポータブル電気ケトル PSE認証済み 日本語説明書付属 （黒色）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 249902.62,
+      "t30d_units": 66.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1075099807002,
+      "merchant_name": "XIN ZHENG ELECTRICAL APPLIANCE",
+      "asin": "B0FXWR18L2",
+      "item_name": "電気ケトル 4つの温度設定 プラグイン式 小型 持ち運びケトル 304食品級ステンレス鋼 トラベルケトル 300W低消費電力 空焚き防止 漏水防止 ポータブル電気ケトル PSE認証済み 日本語説明書付属 （ピンク色）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 37809.0,
+      "t30d_units": 10.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1075099807002,
+      "merchant_name": "XIN ZHENG ELECTRICAL APPLIANCE",
+      "asin": "B0FXWPTWS3",
+      "item_name": "電気ケトル 4つの温度設定 プラグイン式 小型 持ち運びケトル 304食品級ステンレス鋼 トラベルケトル 300W低消費電力 空焚き防止 漏水防止 ポータブル電気ケトル PSE認証済み 日本語説明書付属 (クリーム色)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 70110.33,
+      "t30d_units": 19.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

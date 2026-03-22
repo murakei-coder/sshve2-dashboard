@@ -1,229 +1,89 @@
 {
-  "56468585422": [
+  "56480088322": [
     {
-      "asin": "B0G2RL53JN",
-      "item_name": "丸鋸刃 165mm チップソー 165x1.5x50P 内径20mm 木工用 静音 造作用 フッ素樹脂コーディング (黒/2枚セット)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 60680.87,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B0DHXCB77R",
-      "item_name": "YOIbuy PRO 3.6V充電式電動ドライバー, ペン型ドライバに変形可能, 21段クラッチギア, 電動max締付けトルク6.8Nm, 2段変速, 高速650rpm, 2000mAhバッテリー内蔵, タイプC充電, 正逆回転切替, LEDライト付き GD36-1 (赤・ケースなし)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DHZG9W1K",
-      "item_name": "YOIbuy PRO 3.6V充電式電動ドライバー, 5段変速max300rpm, 正逆回転切替, ブレーキ機能あり, 電動max締付けトルク4.5Nm, USBタイプC充電, バッテリー容量2000mAh, LEDライト付き PD36-1 (グレー・収納ケースあり)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D2HFSZ9Y",
-      "item_name": "YOIbuy PRO インパクトドライバー 充電式 4眼LED トルク230Nm 楽モードあり 4段変速 マキタ 18V 互換 本体のみ （充電池・充電器別売） 国内1年間メーカー保証 YID-PR-11（黒）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 471693.52,
-      "t30d_units": 56.0
-    },
-    {
-      "asin": "B0DMJ665YM",
-      "item_name": "丸鋸刃 165mm チップソー 165x1.5x50P 内径20mm 木工用 静音 造作用 フッ素樹脂コーディング (黒/単品)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 51485.54,
-      "t30d_units": 38.0
-    },
-    {
-      "asin": "B0DG4G7HX9",
-      "item_name": "YOIbuy PRO インパクトドライバー 充電式 4眼LED トルク230Nm 楽モードあり 4段変速 マキタ 18V 互換 本体のみ （充電池・充電器別売） 国内1年間メーカー保証 YID-PR-11 (イェロー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 474507.89,
-      "t30d_units": 57.0
-    },
-    {
-      "asin": "B0DHXCRXRL",
-      "item_name": "YOIbuy PRO 3.6V充電式電動ドライバー, ペン型ドライバに変形可能, 21段クラッチギア, 電動max締付けトルク6.8Nm, 2段変速, 高速650rpm, 2000mAhバッテリー内蔵, タイプC充電, 正逆回転切替, LEDライト付き GD36-1 (グレー・ケースなし)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DHZHNZYB",
-      "item_name": "YOIbuy PRO 3.6V充電式電動ドライバー, 5段変速max300rpm, 正逆回転切替, ブレーキ機能あり, 電動max締付けトルク4.5Nm, USBタイプC充電, バッテリー容量2000mAh, LEDライト付き PD36-1 (赤・収納ケースあり)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 97401.0,
-      "t30d_units": 29.0
-    },
-    {
-      "asin": "B0B3HBVBPF",
-      "item_name": "YOIbuy ケース付き 充電式 マルチツール 18V コードレス 電動工具 無段変速ダイヤ付き LEDライド付き 低騒音 軽量 クイックチェンジ スターロック OISゼットソー 対応 替刃9点セット付き 左右共通 ハンドル付き マキタ 18V 純正/互換バッテリー 互換対応 DIY工具 日曜大工 本体のみ 充電池・充電器別売 国",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 17998.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DHX9SX2P",
-      "item_name": "YOIbuy PRO 3.6V充電式電動ドライバー, ペン型ドライバに変形可能, 21段クラッチギア, 電動max締付けトルク6.8Nm, 2段変速, 高速650rpm, 2000mAhバッテリー内蔵, タイプC充電, 正逆回転切替, LEDライト付き GD36-1 (赤・収納ケースあり)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09R1HYCSK",
-      "item_name": "YOIbuy 充電式 マルチツール 18V コードレス 電動工具 無段変速ダイヤ・LEDライド付き 低騒音 軽量 クイックチェンジ スターロック OISゼットソー 対応 替刃9点セット付き 左右共通 ハンドル付き マキタ 18V 純正/互換バッテリー DIY 日曜大工 詳細な日本語取扱説明書があり 本体のみ 充電池・充電器 ケ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 215572.75,
-      "t30d_units": 27.0
-    },
-    {
-      "asin": "B0CSXTCYDH",
-      "item_name": "YOIbuy 丸鋸刃 165mm 2枚入れ チップソー 165x1.5x55P 内径20mm 木工用 静音 造作用 フッ素樹脂コーディング YCSB-165-55",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 101270.0,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B0FBLDB1K3",
-      "item_name": "YOIbuy PRO 充電式 ミストファン 卓上扇風機 キャンプ用 LED照明付き 自動首振り リモコン付き タイマー付き 静音モータ USB出力付き タイプC充電 加湿器 サーキュレーター 防災グッズ アウトドア用品 熱中症対策 PSE認定品 YMF-003",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 69859.66,
-      "t30d_units": 7.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 56480088322,
+      "merchant_name": "Tasigok JP",
+      "asin": "B0DZX3WRJ8",
+      "item_name": "Tasigok USB扇風機 卓上 自動首振り 小型 車用 静音 dcモーター 充電式 クリップ 45時間連続使用 4段階風量 6000mAh リモコン LEDライト タイマー 壁掛け dcモーター ミニ サーキュレーター 強力 コンパクト デスク ファン リビング キャンプ アウトドア トイレ 脱衣所 ホワイト",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 379022.5,
+      "t30d_units": 139.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CSCVF3BF",
-      "item_name": "YOIbuy PRO インパクトドライバー 充電式 4眼LED トルク230Nm 楽モードあり 4段変速 マキタ 18V 互換 本体のみ （充電池・充電器別売） 国内1年間メーカー保証 YID-PR-11（青）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 334830.46,
-      "t30d_units": 40.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 56480088322,
+      "merchant_name": "Tasigok JP",
+      "asin": "B0FMXH9FBC",
+      "item_name": "Tasigok 加湿器 小型 卓上 大容量 2.5L 上から給水 アロマ対応 LEDライト 睡眠モード タイマー 3段階ミスト量 おしゃれ お手入れ簡単 強力 超音波式 静音 28dB 省エネ 6畳 15畳 空焚き防止 水漏れ防止 寝室 オフィス リビング コンパクト 次亜塩素酸水 乾燥対策 ホワイト",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1015323.37,
+      "t30d_units": 336.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DG4GSJN9",
-      "item_name": "YOIbuy PRO インパクトドライバー 充電式 4眼LED トルク230Nm 楽モードあり 4段変速 マキタ 18V 互換 本体のみ （充電池・充電器別売） 国内1年間メーカー保証 YID-PR-11 (グリーン)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 350717.16,
-      "t30d_units": 41.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 56480088322,
+      "merchant_name": "Tasigok JP",
+      "asin": "B0DZ1WSCPH",
+      "item_name": "Tasigok 卓上扇風機 自動首振り 小型 車用 usb充電式 クリップ ミニ 静音 コードレス 28時間連続使用 4段階風量 タイマー LEDライト dcモーター 壁掛け サーキュレーター 強力 コンパクト デスク ファン リビング キャンプ アウトドア トイレ 脱衣所 ホワイト",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 155222.65,
+      "t30d_units": 67.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DSJQ5M42",
-      "item_name": "YOIbuy PRO 3.6V充電式 電動ドライバー ボール式グリップ 280rpm 2.5Nm 正逆回転切替 ブレーキ機能あり LED付き 10点ビットセット 収納バッグ付き BD36-1",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 23106.0,
-      "t30d_units": 7.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 56480088322,
+      "merchant_name": "Tasigok JP",
+      "asin": "B0FMX8KPXN",
+      "item_name": "Tasigok 加湿器 小型 卓上 大容量 2.5L 上から給水 アロマ対応 LEDライト 睡眠モード タイマー 3段階ミスト量 おしゃれ お手入れ簡単 強力 超音波式 静音 28dB 省エネ 6畳 15畳 空焚き防止 水漏れ防止 寝室 オフィス リビング コンパクト 次亜塩素酸水 乾燥対策 カートリッジ付き",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 316479.64,
+      "t30d_units": 99.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0B3H7T72W",
-      "item_name": "YOIbuy ケース付き 充電式 マルチツール 18V コードレス 電動工具 無段変速ダイヤ付き LEDライド付き 低騒音 軽量 クイックチェンジ スターロック OISゼットソー 対応 替刃9点セット付き 左右共通 ハンドル付き マキタ 18V 純正/互換バッテリー 互換対応 DIY工具 日曜大工 本体のみ 充電池・充電器別売 国",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 242522.66,
-      "t30d_units": 27.0
-    },
-    {
-      "asin": "B0DD3J6WTK",
-      "item_name": "YOIbuy 丸鋸刃 165mm チップソー 165x1.5x55P 内径20mm 木工用 静音 造作用 フッ素樹脂コーディング YCSB-165-55-1P",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 15690.08,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0DHX8B6HG",
-      "item_name": "YOIbuy PRO 3.6V充電式電動ドライバー, ペン型ドライバに変形可能, 21段クラッチギア, 電動max締付けトルク6.8Nm, 2段変速, 高速650rpm, 2000mAhバッテリー内蔵, タイプC充電, 正逆回転切替, LEDライト付き GD36-1 (グレー・収納ケースあり)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DSJRX641",
-      "item_name": "YOIbuy PRO 電動精密ドライバー 124in1 トルク0.3Nm 回転速度170rpm アルミ合金本体 手動ドライバ付き スマホ修理ツール付属 専用収納ケース PD36-9",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 23392.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DHZFQXZ7",
-      "item_name": "YOIbuy PRO 3.6V充電式電動ドライバー, 5段変速max300rpm, 正逆回転切替, ブレーキ機能あり, 電動max締付けトルク4.5Nm, USBタイプC充電, バッテリー容量2000mAh, LEDライト付き PD36-1 (グレー・ケースなし)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0B3GHQ96B",
-      "item_name": "YOIbuy ブラシレスモーター 充電式 マルチツール 18V コードレス 集じんアタッチメント ケース付き 電動工具 無段変速ダイヤ付き LEDライド付き 集塵アダプター付き 軽量 クイックチェンジ スターロック OISゼットソー 対応 替刃9点セット付き 左右共通 ハンドル付き マキタ 18V 純正/互換 本体のみ 充",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 310174.33,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B09R1GPGN3",
-      "item_name": "YOIbuy 充電式 マルチツール 18V コードレス 電動工具 無段変速ダイヤ付き LEDライド付き 低騒音 軽量 クイックチェンジ スターロック OISゼットソー 対応 替刃9点セット付き 左右共通 ハンドル付き マキタ 18V 純正/互換バッテリー 互換対応 DIY工具 日曜大工 詳細な日本語取扱説明書があり 本体のみ 充",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 7999.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DG4K1ZS4",
-      "item_name": "YOIbuy PRO インパクトドライバー 充電式 4眼LED トルク230Nm 楽モードあり 4段変速 マキタ 18V 互換 本体のみ （充電池・充電器別売） 国内1年間メーカー保証 YID-PR-11 (赤)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 288268.55,
-      "t30d_units": 34.0
-    },
-    {
-      "asin": "B0DHZHHDBN",
-      "item_name": "YOIbuy PRO 3.6V充電式電動ドライバー, 5段変速max300rpm, 正逆回転切替, ブレーキ機能あり, 電動max締付けトルク4.5Nm, USBタイプC充電, バッテリー容量2000mAh, LEDライト付き PD36-1 (赤・ケースなし)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 4380.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 56480088322,
+      "merchant_name": "Tasigok JP",
+      "asin": "B0DZX2VPP4",
+      "item_name": "Tasigok USB扇風機 卓上 自動首振り 小型 車用 静音 dcモーター 充電式 クリップ 45時間連続使用 4段階風量 6000mAh リモコン LEDライト タイマー 壁掛け dcモーター ミニ サーキュレーター 強力 コンパクト デスク ファン リビング キャンプ アウトドア トイレ 脱衣所 ブラック",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 399138.94,
+      "t30d_units": 134.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

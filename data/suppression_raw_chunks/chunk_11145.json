@@ -1,247 +1,55 @@
 {
-  "630309976802": [
+  "630724429402": [
     {
-      "asin": "B0DS5128RS",
-      "item_name": "Kitchen in the box スタンドミキサー 4.5L+5Lダブルボウル 大容量 卓上ミキサー 10段階スピード調節 3種類アタッチメント付き 家庭用 業務用 こねる/混ぜる/泡立てる レッド",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 171825.0,
-      "t30d_units": 9.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 630724429402,
+      "merchant_name": "OK Duo-US",
+      "asin": "B0F4PLZQS1",
+      "item_name": "ノートパソコン スタンド 折りたたみ式 パソコンスタンド 超軽量ポータブ合金製 7段階高さ調節可能 滑り止め PC/MacBook/ラップトップ/iPad/タブレット (金属) シルバ",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 13482.3,
+      "t30d_units": 18.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F4QTPBG3",
-      "item_name": "Kitchen in the box ハンドミキサー コードレス 泡立て器 小型 充電式 電動 6段階スピード調節 軽量 多機能(ダークグレー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 73316.0,
-      "t30d_units": 8.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 630724429402,
+      "merchant_name": "OK Duo-US",
+      "asin": "B0FPX84P8K",
+      "item_name": "ノートパソコン スタンド 折りたたみ式 パソコンスタンド 超軽量ポータブ合金製 7段階高さ調節可能 滑り止め PC/MacBook/ラップトップ/iPad/タブレット (金属) グレー",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 16477.8,
+      "t30d_units": 22.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G13MQBTW",
-      "item_name": "Kitchen in the box フードプロセッサー2L大容量 2種類ボウル ガラスボウル ステンレスボウル 2段階スピード 400w ハイパワー 4枚刃 食洗機対応 離乳食 刻む・混ぜる・おろす (シルバー, 2L+2L)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 400000.72,
-      "t30d_units": 54.0
-    },
-    {
-      "asin": "B0DJNR5CN1",
-      "item_name": "Kitchen in the box ミキサー ブレンダー 大容量 2L 氷も砕ける ジュースミキサー 1450Wハイパワー スピード調整 一台多役 ジューサーミキサー 野菜/果物/スムージー (ホワイト)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 972650.32,
-      "t30d_units": 82.0
-    },
-    {
-      "asin": "B0GD5GM97V",
-      "item_name": "Kitchen in the box スタンドミキサー 3.5L+3.5Lダブルボウル 大容量 卓上ミキサー 10段階スピード調節 3種類アタッチメント付き 家庭用 業務用 こねる/混ぜる/泡立てる ピンク",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 210396.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0GD67WNLD",
-      "item_name": "Kitchen in the box スタンドミキサー 3.5L+3.5Lダブルボウル コンパクト 卓上ミキサー 10段階スピード調節 3種類アタッチメント付き 家庭用 業務用 こねる/混ぜる/泡立てる アイボリー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1041077.59,
-      "t30d_units": 60.0
-    },
-    {
-      "asin": "B0G13SMXXJ",
-      "item_name": "Kitchen in the box フードプロセッサー2L大容量 2種類ボウル ガラスボウル ステンレスボウル 2段階スピード 400w ハイパワー 4枚刃 食洗機対応 離乳食 刻む・混ぜる・おろす (ホワイト, 2L+2L)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 148752.0,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0FDQLDJCJ",
-      "item_name": "Kitchen in the box スタンドミキサー 3.5L+3.5Lダブルボウル 大容量 卓上ミキサー 10段階スピード調節 3種類アタッチメント付き 家庭用 業務用 こねる/混ぜる/泡立てる ダークグリーン",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 595657.0,
-      "t30d_units": 38.0
-    },
-    {
-      "asin": "B0DS56VKD6",
-      "item_name": "Kitchen in the box スタンドミキサー 4.5L+5Lダブルボウル 大容量 卓上ミキサー 10段階スピード調節 3種類アタッチメント付き 家庭用 業務用 こねる/混ぜる/泡立てる ピンク",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 441361.0,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B0F9PFXYBV",
-      "item_name": "【アップグレード·低騒音版】Kitchen in the box金属ダイカスト一体成型 スタンドミキサー 5L大容量 6段階調速 卓上型ミキサー 3種アタッチメント 捏ねる/混ぜる/泡立てる 一台三役(マットブラック)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 382250.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0DJNRX26Q",
-      "item_name": "Kitchen in the box ミキサー ブレンダー 大容量 2L 氷も砕ける ジュースミキサー 1450Wハイパワー スピード調整 一台多役 ジューサーミキサー 野菜/果物/スムージー (ブラック)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 3063317.35,
-      "t30d_units": 250.0
-    },
-    {
-      "asin": "B0G13MZP37",
-      "item_name": "Kitchen in the box フードプロセッサー 容量1L 小型 ガラスボウル 2段階スピード 400W ハイパワー 4枚刃 食洗機対応 離乳食 刻む・混ぜる・おろす(ホワイト, 1L)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 86579.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0F7L6V6WS",
-      "item_name": "Kitchen in the box スタンドミキサー 4.5L+5Lダブルボウル 大容量 卓上ミキサー 10段階スピード調節 3種類アタッチメント付き 家庭用 業務用 こねる 混ぜる 泡立てる ライトグリーン",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 173906.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0DS51CZ33",
-      "item_name": "Kitchen in the box スタンドミキサー 4.5L+5Lダブルボウル 大容量 卓上ミキサー 10段階スピード調節 3種類アタッチメント付き 家庭用 業務用 こねる/混ぜる/泡立てる パープル",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 130298.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0DS5C7MHQ",
-      "item_name": "Kitchen in the box スタンドミキサー 4.5L+5Lダブルボウル 大容量 卓上ミキサー 10段階スピード調節 3種類アタッチメント付き 家庭用 業務用 こねる/混ぜる/泡立てる アイボリー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 747611.0,
-      "t30d_units": 37.0
-    },
-    {
-      "asin": "B0DS56VGF3",
-      "item_name": "Kitchen in the box スタンドミキサー 4.5L+5Lダブルボウル 大容量 卓上ミキサー 10段階スピード調節 3種類アタッチメント付き 家庭用 業務用 こねる/混ぜる/泡立てる ローズ",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 148182.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0FJY5MW9L",
-      "item_name": "Kitchen in the box スロージューサー BPAフリー 低速 コールドプレスジューサー 静音 洗いやすい ミキサー 高い搾汁率 取り付け簡単 搾りカス分離 フルーツ 野菜 ライトブルー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 25280.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FD9MTVPM",
-      "item_name": "Kitchen in the box スロージューサー BPAフリー 低速 コールドプレスジューサー 静音 洗いやすい ミキサー 高い搾汁率 取り付け簡単 搾りカス分離 フルーツ 野菜 赤",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 37920.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0F9PFBS9Z",
-      "item_name": "【アップグレード·低騒音版】Kitchen in the box金属ダイカスト一体成型 スタンドミキサー 5L大容量 6段階調速 卓上型ミキサー 3種アタッチメント 捏ねる/混ぜる/泡立てる 一台三役 (グロスホワイト)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 565840.0,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0FDQKLVC9",
-      "item_name": "Kitchen in the box スタンドミキサー 3.5L+3.5Lダブルボウル コンパクト 卓上ミキサー 10段階スピード調節 3種類アタッチメント付き 家庭用 業務用 こねる/混ぜる/泡立てる ブラック",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1431816.7,
-      "t30d_units": 86.0
-    },
-    {
-      "asin": "B0CJF68TPJ",
-      "item_name": "Kitchen in the box ハンドミキサー コードレス 小型 泡立て器 6段階スピード調節 充電式 多機能 軽量 電動 (ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 402108.3,
-      "t30d_units": 39.0
-    },
-    {
-      "asin": "B0DS553KJ4",
-      "item_name": "Kitchen in the box スタンドミキサー 4.5L+5Lダブルボウル 大容量 卓上ミキサー 10段階スピード調節 3種類アタッチメント付き 家庭用 業務用 こねる/混ぜる/泡立てる ダークグリーン",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 266450.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0DS55K7G8",
-      "item_name": "Kitchen in the box スタンドミキサー 4.5L+5Lダブルボウル 大容量 卓上ミキサー 10段階スピード調節 3種類アタッチメント付き 家庭用 業務用 こねる/混ぜる/泡立てる ブラック",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1731379.33,
-      "t30d_units": 90.0
-    },
-    {
-      "asin": "B0CJDHY622",
-      "item_name": "Kitchen in the box ハンドミキサー コードレス 小型 泡立て器 6段階スピード調節 充電式 多機能 軽量 電動 (ホワイト)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 237852.66,
-      "t30d_units": 24.0
-    },
-    {
-      "asin": "B0G13SVH2B",
-      "item_name": "Kitchen in the box フードプロセッサー 容量1L 小型 ガラスボウル 2段階スピード 400W ハイパワー 4枚刃 食洗機対応 離乳食 刻む・混ぜる・おろす (シルバー, 1L)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 137032.0,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B0FDQLRT3Q",
-      "item_name": "Kitchen in the box スタンドミキサー 3.5L+3.5Lダブルボウル 大容量 卓上ミキサー 10段階スピード調節 3種類アタッチメント付き 家庭用 業務用 こねる/混ぜる/泡立てる ピンク",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 320979.0,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B0CKX8MDPG",
-      "item_name": "Kitchen in the box スロージューサー BPAフリー 低速 コールドプレスジューサー 静音 洗いやすい ミキサー 高い搾汁率 取り付け簡単 搾りカス分離 フルーツ 野菜",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 574672.66,
-      "t30d_units": 106.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 630724429402,
+      "merchant_name": "OK Duo-US",
+      "asin": "B0F4PJ5KT9",
+      "item_name": "ノートパソコン スタンド 折りたたみ式 パソコンスタンド 超軽量ポータブ合金製 7段階高さ調節可能 滑り止め PC/MacBook/ラップトップ/iPad/タブレット (金属) 黒",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 34445.04,
+      "t30d_units": 44.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

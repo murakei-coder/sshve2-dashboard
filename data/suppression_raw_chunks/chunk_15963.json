@@ -1,13 +1,38 @@
 {
-  "1117899524002": [
+  "1117916048202": [
     {
-      "asin": "B0DBL12322",
-      "item_name": "【2025革新静音プロジェクター】ONOAYO プロジェクター 家庭用 32000LM高輝度 1080P 小型 自動台形補正 電動フォーカス 700ANSI WIFI6 双方向Bluetooth5.3 50％ズーム機能 操作簡単 300\"大画面 天井吊り可 スマホ/タブレット/PC/Switch接続可 3年保証 AY2Pro",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 1028021.99,
-      "t30d_units": 88.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1117916048202,
+      "merchant_name": "KJKD-JP",
+      "asin": "B0FP294GLY",
+      "item_name": "【2026最新ChatGPT&AI文字盤】 KJKD L1スマートウォッチ常時表示 1.5時間充電 iPhone/アンドロイド対応 AMOLED 24時間睡眠管理 Smart Watch 腕時計 Bluetooth5.3通話 メッセージ通知 アプリのGPS連動 IP68 100+運動モード 体感ゲーム DIY文字盤 懐中電灯 歩数計 カロリー 天気 スマホ探す タイマー(シルバー)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1019698.81,
+      "t30d_units": 174.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1117916048202,
+      "merchant_name": "KJKD-JP",
+      "asin": "B0FP2BD82G",
+      "item_name": "【2026最新ChatGPT&AI文字盤】 KJKD L1スマートウォッチ常時表示 1.5時間充電 iPhone/アンドロイド対応 AMOLED 24時間睡眠管理 Smart Watch 腕時計 Bluetooth5.3通話 メッセージ通知 アプリのGPS連動 IP68 100+運動モード 体感ゲーム DIY文字盤 懐中電灯 歩数計 カロリー 天気 スマホ探す タイマー (ブラック)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 3002285.06,
+      "t30d_units": 509.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

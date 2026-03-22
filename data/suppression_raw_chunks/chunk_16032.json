@@ -1,121 +1,21 @@
 {
-  "1120846045002": [
+  "1120855286602": [
     {
-      "asin": "B0FVXJGYMP",
-      "item_name": "AOOSTAR NAS PC 4べい nasキット ミニpc OSなし ryzen7 5825u 4つSATA HDDと2つM.2 SSDスロット デュアルDDR4チャンネル デスクトップ ミニパソコン TPYE-C/DP/HDMI 4k 3画面出力 TFカード対応 (WTR PRO NO RAM/SSD)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 403120.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0FWC4M3ZQ",
-      "item_name": "AOOSTAR ミニpc GT68 ryzen7 Pro 6850H+680M 16G/512G (8C/16T 4.7GHz ）三つM.2 SSD増設、Oculink搭載、 40Gbps USB4 接続安定高速、省電力・低ノイズ・高放熱ミニパソコン オフィス/編集/ビジネス、8k 3画面出力、デュアル2.5G LAN 、三つUSB3.2Gen2 小型pc",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 128800.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0G1BRDS42",
-      "item_name": "AOOSTAR EG01 外付けGPU ドッキングステーション, OCuLink インターフェース搭載 - PCIe 4.0 x4 64Gbps 高速伝送，オープンフレーム設計 (EG01、 OCULink)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 321862.33,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0FPCMSB2B",
-      "item_name": "AOOSTAR WTR MAX 11 ベイ NAS ミニ PC / | AMD R7 PRO 8845HS 搭載ミニデスクトップ | Mini PC ある2.5/3.5 インチ SATA HDD 6 台 + M.2 2280 SSD 5 台対応 Oculink/USB4/10GbE SFP+/二つ2.5G LAN| 家庭・事業用高速ストレージサーバー (NO RAM NO SSD)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 682024.71,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0G7GFPS7J",
-      "item_name": "AOOSTAR G-FLIP ミニpc HDモニター付 ryzen7 H255(8C/16T 4.9GHz)+780M ベアボーンキット (128Gx2 DDR5 4TBx2 PCIE4.0 SSD拡張可) 双USB4.0 /Oculink /6個USB/ 2.5GLANx2 /指紋ロック解除 無料WIN11proキー提供 WIFI6 8K出力 静音 編集/ビジネス/ゲーミング mini pc",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 235520.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0GGBVWGXJ",
-      "item_name": "AOOSTAR 次世代AI ミニpc ゲーミング ryzen AI9 HX370+890M(12C/24T 5.1GHz 80TOPS) 32Gx1 DDR5(最大128Gx2拡張可) 1TB M.2 SSD HDモニター付 双USB4.0 Oculink搭載 指紋ロック解除 高速WIFI7 mini pc 最大4画面出力 静音 パソコン 高性能pc",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 1538336.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0GGHQW69B",
-      "item_name": "AOOSTAR G-FLIP ミニpc ryzen 9 PRO 8945HS+780M 32G DDR5 1TB PCIE4.0 SSD HDモニター付 双USB4.0とOculink搭載 mini pc 8C/16T 5.2GHz、指紋ロック解除 WIFI6 8k出力 静音 高放熱 小型 AI パソコン ゲーミングpc (GFLIP8945 128G*2メモリと8TB*2容量増設可)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 419736.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0G1BWZN7T",
-      "item_name": "AOOSTAR EG02 外付け GPU ドッキングステーション デュアルサンダーボルト 5+OCuLink 対応 PCIe4.0 x4 インターフェース オープンフレームデザイン ATX/SFX 電源互換（EG02、デュアルサンダーボルト 5）",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 789319.12,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0G6F1SV3T",
-      "item_name": "AOOSTAR MACOミニPC Ryzen 7 PRO 6850H (7640HS/6800Hより高性能) 24GB RAM 1TB SSD，8C/16T, 最大 4.7GHz、Mini PCはUSB4 x2台、デュアル2.5G LAN、Oculink、USB x4、4画面表示対応、指紋ロック解除 (PRO 6850H 24GB+1TB)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1369908.0,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0G5NK18BF",
-      "item_name": "AOOSTAR G-FLIP ミニpc ryzen 7 PRO 8845HS 8C/16T 5.1GHz 32G(16Gx2)DDR5 1TB SSD mini pc HDモニター付き（256G RAM+8TB SSD拡張可)指紋ロック解除、双USB4.0とOculink搭載、WiFi6 BT5.2 最大4画面出力 静音 ミニゲーミングpc(PRO 8845HS 32G+1T)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1748712.0,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0G7H8QFW7",
-      "item_name": "AOOSTAR MACOミニPC Ryzen 9 Pro 8945HS (8C/16T, up to 5.2GHz) 32GB DDR5 1TB SSD、Mini PCはUSB4 x2台、デュアル2.5G LAN、Oculink、USB x4、4画面表示対応、指紋ロック解除 OpenClaw をサポートする (Pro 8945HS 32GB+1TB)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 2660857.0,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B0GGHFRGJD",
-      "item_name": "AOOSTAR G-FLIP ミニpc ryzen7 H255(8C/16T 4.9GHz 8745hsより速い) HDモニター付 24G DDR5 1TB PCIE4.0 SSD、openclaw対応、双USB4.0+Oculink 指紋ロック解除 Radeon 780M 2.5GLANx2 WIFI6 8k@60hz出力 静音 mini pc 小型 ゲーミング ミニパソコン 容量拡張可",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DXKXCCG3",
-      "item_name": "AOOSTAR AG02 eGPUドックドッキングステーション OCulinkポート USB4.0ポート100W逆給電 800W電源内蔵 外付けGPU グラフィックボード ドックケース エンクロージャ 最新型 合金製",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 2733493.3,
-      "t30d_units": 80.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1120855286602,
+      "merchant_name": "TZ Tech Shop",
+      "asin": "B0G5DT5LPM",
+      "item_name": "モバイルバッテリー MagSafe対応 16000ｍAh PD22.5W急速充電 3台同時充電可能 大容量 マグネット式 マグセーフ スマホ充電器 LCD電量残量表示 USB-A出力ポート/Type-C出入力ポート ワイヤレス充電器 スタンド付き 軽量 PSE認証済み iPhone 17/16/15/14/13シリーズ 機内持ち込み可 旅行/出張/アウトドア/キャンプ/停電",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 11692069.18,
+      "t30d_units": 3776.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

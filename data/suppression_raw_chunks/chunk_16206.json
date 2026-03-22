@@ -1,13 +1,21 @@
 {
-  "1128468627602": [
+  "1128473913002": [
     {
-      "asin": "B0DLH54P84",
-      "item_name": "iphone usb 変換アダプタ【Apple MFi正規認証品・2年間の企業品質保証】lightning - USB3.0 カメラアダプタ ライトニング 変換 USB-A OTG機能対応 高速データ転送 設定不要 写真/動画/音楽/USB周辺機器接続 iOS/macOSをサポート",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 520620.63,
-      "t30d_units": 413.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1128473913002,
+      "merchant_name": "TAREASS JP 代理店",
+      "asin": "B0G3QLRVWT",
+      "item_name": "ドライヤー 人気 ナノケア 大風量1300W 静音 コンパクト 軽量 ヘアドライヤー 小型 温度・風量調節 温度制御・過熱損傷防止 メモリー機能 高濃度マイナスイオン",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 2213700.47,
+      "t30d_units": 459.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

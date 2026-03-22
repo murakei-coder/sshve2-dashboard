@@ -1,13 +1,21 @@
 {
   "931610284": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 931610284,
+      "merchant_name": "エー・リンクライフ",
       "asin": "B09R3QYWRX",
       "item_name": "EZCast Pocket PLUS（イージーキャストポケットプラス）【日本語版】【技適マーク取得済み】 さすだけでミラーリングと無線(Miracast/Airplay)でミラーリングの両方の機能を備えた2in1の最新機器。TPOでミラーリングも新時代へ・・・",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 424721.8,
-      "t30d_units": 25.0
+      "t30d_units": 25.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,31 +1,21 @@
 {
-  "19318902622": [
+  "19319938722": [
     {
-      "asin": "B086HQHFXJ",
-      "item_name": "LED作業灯 ワークライト COBライト ハンディライトUSB充電式 マグネット機能搭載 夜間作業 工事使用 折り畳み式 小型",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 194709.46,
-      "t30d_units": 77.0
-    },
-    {
-      "asin": "B086HQYM4D",
-      "item_name": "【２個セット】LED作業灯 ワークライト COBライト ハンディライトUSB充電式 マグネット機能搭載 夜間作業 工事使用 折り畳み式 小型 (2個)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 680379.24,
-      "t30d_units": 185.0
-    },
-    {
-      "asin": "B086HRW9WY",
-      "item_name": "【２個セット】作業灯 ワークライト COBライト ハンディライトUSB充電式 マグネット機能搭載 夜間作業 工事使用 折り畳み式 小型 (2個)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 261013.0,
-      "t30d_units": 70.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 19319938722,
+      "merchant_name": "Mifasol公式ショップ",
+      "asin": "B0FPFTJPV3",
+      "item_name": "加湿器 スチーム式 加熱式 大容量. 3.3L 加湿量 800ml/h 22畳 100℃高温除菌 ミスト3段階 恒湿 Mifasol加湿器 切タイマー付き 上部給水 キューブ型 お手入れ簡単 304ステンレス製水タンク 食器洗い機対応 静音 チャイルドロック 蓋開閉ロック 空焚き防止 転倒防止 3段階自動湿度調整 おやすみモード 切タイ",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 3517037.46,
+      "t30d_units": 291.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

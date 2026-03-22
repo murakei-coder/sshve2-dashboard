@@ -1,202 +1,89 @@
 {
-  "1063241205102": [
+  "1063834625702": [
     {
-      "asin": "B0FD13JSN8",
-      "item_name": "【31日対応】ピルケース お薬ケース 大容量 小分け収納 服薬管理 プラスチック製 飲み忘れ防止 予備付き",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 191534.44,
-      "t30d_units": 101.0
-    },
-    {
-      "asin": "B0FKGQY537",
-      "item_name": "小物 収納ケース 透明 アクセサリー ビーズ ネイルパーツ収納 1セット30個入り",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 62799.62,
-      "t30d_units": 35.0
-    },
-    {
-      "asin": "B0FFQ2M57B",
-      "item_name": "クローゼット収納 フックハンガー 360°可動フック 丈夫なスチール製 両面6収納 バッグ整理 吊り下げラック 主婦必見 コンパクト&大容量 (ブラック)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 37677.77,
-      "t30d_units": 27.0
-    },
-    {
-      "asin": "B0FFPC6KR4",
-      "item_name": "クローゼット収納 フックハンガー 360°可動フック 丈夫なスチール製 両面6収納 バッグ整理 吊り下げラック 主婦必見 コンパクト&大容量 (シルバー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 84179.9,
-      "t30d_units": 61.0
-    },
-    {
-      "asin": "B0G2CF64CR",
-      "item_name": "木製飾りセット 祝百日 デコレーションパーツ ベビー お祝い用 鯛・桜・寿モチーフ入り 写真撮影小物 (11点 紐なし)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 1160.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FHBTH7RY",
-      "item_name": "ヘアクリップ 2個セット 13cm 大きめ マット仕上げ 無地 強力グリップ 韓国風 ヘアアクセ (ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 2978.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FN8GRP4Z",
-      "item_name": "美顔ローラー かっさセット ホワイト マッサージ 美容 リラックス スペシャルケア 箱入り",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 11619.9,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0FDVJHRQX",
-      "item_name": "ストローキャップ 10ｍｍ シリコン タンブラー BPAフリー 衛生的 漏れ防止 オフィス アウトドア 4色セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1063834625702,
+      "merchant_name": "ShuNingSHOP",
+      "asin": "B0BYD6GD69",
+      "item_name": "JAMJAKE スタイラスペンipad用 アップルペンシル替换用ペン 急速充電 タッチペンiPad用ペンシル極細 高感度 傾き感知/磁気吸着/誤作動防止機能対応 軽量 耐摩2018-2025iPad対応",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 2584832.11,
+      "t30d_units": 1313.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F7HZMKMP",
-      "item_name": "ステンレス製 バスタブラック バスタブトレー 伸縮式 バステーブル ラグジュアリー ゴールド",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 30660.0,
-      "t30d_units": 7.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1063834625702,
+      "merchant_name": "ShuNingSHOP",
+      "asin": "B0BYCP7JMY",
+      "item_name": "JAMJAKE タッチペンapple pencil替换用ペン急速充電 スタイラスペンiPad 用ペン 極細 高感度 傾き感知/磁気吸着/誤作動防止機能対応 軽量 耐摩2018-2025iPad対応 学生 子供 筆記 絵を描く デザイン用 ドローイング用",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 526116.83,
+      "t30d_units": 236.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GGBZRKJV",
-      "item_name": "自転車ハンドルグリップ 左右セット 22mm 衝撃吸収 通気性 疲労軽減 エンドキャップ 六角レンチ付き (ホワイト)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 2720.0,
-      "t30d_units": 4.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1063834625702,
+      "merchant_name": "ShuNingSHOP",
+      "asin": "B0G6DB3VF3",
+      "item_name": "JAMJAKE 折り畳みキーボード ワイヤレス【プロ監修・驚速快適・JIS標準日本語配列】iPad用キーボード 無線Bluetooth5.4 薄型 軽量 静音【業界初・3-in-1超高精度タッチパッド・ 4台同時接続】iOS/Android/Mac/Windows対応 Type-C急速充電 iPad/iPhone/スマホ/タブレット/パソコン/surface用 持ち運び モバイル/オフィスに",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 5933485.79,
+      "t30d_units": 968.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FGCJGW36",
-      "item_name": "ジープ ラングラー 雨樋 JK JL ディフレクターキット 雨漏り 雨水 雨 パーツ ジープ Wrangler アクセサリー パーツ 外装品 レインガード",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 50400.52,
-      "t30d_units": 30.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1063834625702,
+      "merchant_name": "ShuNingSHOP",
+      "asin": "B08DJ6698B",
+      "item_name": "JAMJAKE iPad用ペンシル アップルペンシル代用ペン 2018年～2025年 iPad対応 タッチペン 超高感度 極細 スタイラスペン Type-C急速充電 傾き感知/磁気吸着/誤作動防止機能対応 軽量 耐摩 学生 子供 筆記 絵を描く デザイン用 ドローイング用",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 19979656.91,
+      "t30d_units": 11482.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FXFK5ZYB",
-      "item_name": "人工水草3点セット ソフトリーフ＆蓮型デザイン 吸盤付き 小型熱帯魚 金魚 休息空間 アクアリウム装飾",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 498.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GGC9ZJJB",
-      "item_name": "自転車ハンドルグリップ 22mm 内径適合 衝撃吸収 疲労軽減 ラバーグリップ 1ペア 六角レンチ付き (ホワイト)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 6800.25,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0F6V9Q7GY",
-      "item_name": "ジープ ラングラー アクセサリー JL テールランプカバー テールライトガード 【左右1セット】",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 71639.66,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0GG9H8HDN",
-      "item_name": "自転車ハンドルグリップ 22mm 内径適合 衝撃吸収 疲労軽減 ラバーグリップ 1ペア 六角レンチ付き (レッド)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 1050.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GGC6DS4H",
-      "item_name": "自転車ハンドルグリップ 左右セット 22mm 衝撃吸収 通気性 疲労軽減 エンドキャップ 六角レンチ付き (レッド)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 3538.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0GGCLQ9P9",
-      "item_name": "自転車ハンドルグリップ 左右セット 22mm 衝撃吸収 通気性 疲労軽減 エンドキャップ 六角レンチ付き (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 2720.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0F9YV27H5",
-      "item_name": "【1ヶ月分】ピルケース お薬ケース 大容量 小分け収納 プラスチック製 飲み忘れ防止 透明",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 72239.83,
-      "t30d_units": 43.0
-    },
-    {
-      "asin": "B0FHBWGZYP",
-      "item_name": "ヘアクリップ 2個セット 13cm 大きめ マット仕上げ 無地 強力グリップ 韓国風 ヘアアクセ (エスプレッソブラウン)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 3840.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FHBVQJSL",
-      "item_name": "ヘアクリップ 2個セット 13cm 大きめ マット仕上げ 無地 強力グリップ 韓国風 ヘアアクセ (キャラメルブラウン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 5119.66,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0GGC16KPG",
-      "item_name": "自転車ハンドルグリップ 22mm 内径適合 衝撃吸収 疲労軽減 ラバーグリップ 1ペア 六角レンチ付き (ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 5440.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0F6TNCBZL",
-      "item_name": "ジープ ラングラー アクセサリー JL JK ロールバー グラブハンドル アシストグリップ 2個セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 17440.66,
-      "t30d_units": 8.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1063834625702,
+      "merchant_name": "ShuNingSHOP",
+      "asin": "B0BYCQ8L3H",
+      "item_name": "JAMJAKE スタイラスペン アップルペンシル 急速充電 タッチペンiPad ペン 極細 高感度 iPad pencil 傾き感知/磁気吸着/誤作動防止機能対応 軽量 耐摩2018年以降iPad Pro/air/mini対応…",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 440810.97,
+      "t30d_units": 198.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

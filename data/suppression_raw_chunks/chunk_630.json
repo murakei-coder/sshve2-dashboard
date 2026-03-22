@@ -1,13 +1,21 @@
 {
   "792060785": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 792060785,
+      "merchant_name": "厳選素材で健康応援 寿物産株式会社",
       "asin": "B017VTIF1I",
       "item_name": "寿物産 エリスリトール 950g 希少糖 遺伝子組み換え不使用 (Non-GMO) カロリーゼロ 天然甘味料 糖質制限 砂糖代替甘味 砂糖の一部を置き換えて使用下さい",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 277183.91,
-      "t30d_units": 303.0
+      "t30d_units": 303.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

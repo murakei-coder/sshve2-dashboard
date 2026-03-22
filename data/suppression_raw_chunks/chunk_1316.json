@@ -1,31 +1,55 @@
 {
   "3509568622": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 3509568622,
+      "merchant_name": "Tanka-jp",
       "asin": "B0G199X3WQ",
       "item_name": "モバイルモニター 保護ケース 23.8インチ 24インチ SUNKER パソコンケース 大容量 サイドポケット付き 手提げ ノートパソコンカバー 360度衝撃吸収 パソコンバッグ 22-24型 ポータブルディスプレイ スリーブ 携帯に便利（ブラック）",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
       "t30d_ops": 98073.0,
-      "t30d_units": 27.0
+      "t30d_units": 27.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 3509568622,
+      "merchant_name": "Tanka-jp",
       "asin": "B0FQNPR958",
       "item_name": "モバイルモニター スタンド SUNKER 4.7-17.3インチ対応 タブレット スタンド アルミ製 耐荷重1.5KG 3軸自由調整 360回転 横/縱置き 卓上折り畳み固定アーム スマホ/タブレット対応 15.6インチ/17.3インチモバイルモニター対応",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
       "t30d_ops": 152935.0,
-      "t30d_units": 65.0
+      "t30d_units": 65.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 3509568622,
+      "merchant_name": "Tanka-jp",
       "asin": "B0G19BTDR7",
       "item_name": "モバイルモニター 保護ケース 23.8インチ 24インチ SUNKER パソコンケース 大容量 サイドポケット付き 手提げ ノートパソコンカバー 360度衝撃吸収 パソコンバッグ 22-24型 ポータブルディスプレイ スリーブ 携帯に便利（グレー）",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
       "t30d_ops": 186565.7,
-      "t30d_units": 53.0
+      "t30d_units": 53.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

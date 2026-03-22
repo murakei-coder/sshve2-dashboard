@@ -1,3568 +1,718 @@
 {
-  "8360220355": [
+  "8360261245": [
     {
-      "asin": "B0BGLKJC2Q",
-      "item_name": "MaT store 蒸し物用トング 茶碗蒸し トング 皿バサミ キッチン用品 ステンレス 鍋つかみ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 6520.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0D72WRJ4Y",
-      "item_name": "MaT store ペットフードストッカー ペットフード 保存容器 大容量 猫用 犬用 1.8L",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 8040.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0F74BJGGR",
-      "item_name": "MaT store バット 料理 蓋付きバット ステンレス 揚げ物 長方形 業務用 天ぷら 調理用 (13.5cm×10.5cm×5.5cm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BM3MLD72",
-      "item_name": "MaT store ワインバッグ ボトルバッグ 紙袋 無地 ギフト ワイン用 ブラック 10枚セット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 3560.0,
-      "t30d_units": 2.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0CL3QBPBV",
+      "item_name": "[ザノースフェイス] バッグ メンズ リュック A4対応 リュックサック ナイロン バックパック ブランド ブラック NF0A52VQ バークリー デイパック BERKELEY DAYPACK [並行輸入品]",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 18766.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F7456STM",
-      "item_name": "MaT store ミートプレス ハンバーガープレス パティ 肉押さえ ベーコンプレス ステンレス 肉プレス (丸タイプ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 20719.5,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0F438133V",
-      "item_name": "MaT store 菜箸 ステンレス 【長くて扱いやすい】箸 調理箸 家庭用 卵焼き 揚げ箸 食洗機対応 滑り止め",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 34413.46,
-      "t30d_units": 34.0
-    },
-    {
-      "asin": "B0CYBHTK1K",
-      "item_name": "MaT store カラーコーン マーカーコーン 運動会 野球 サッカー 軽量 穴あき 5色 50個セット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 2960.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F37T7L1J",
-      "item_name": "MaT store ケーブル収納 配線 整理 ケーブルオーガナイザー ケーブル収納ボックス ケーブルボックス (イエロー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F379XF3T",
-      "item_name": "MaT store ぬいぐるみ収納 収納かご ぬいぐるみ収納ケース おもちゃ ケース 収納 縫い包 小物収納用 (グリーン)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DCNG2455",
-      "item_name": "MaT store 車 ドリンクホルダー 後部座席 テーブル 収納ポケット 大容量 便利アイテム",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 11489.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0CK1FTJCV",
-      "item_name": "MaT store レターケース 引き出し A5 小物入れ 書類 収納 ケース トレー おしゃれ 積み重ね可能",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 66773.2,
-      "t30d_units": 24.0
-    },
-    {
-      "asin": "B0FGHFVCWV",
-      "item_name": "MaT store ウィッグスタンド マネキンヘッド マネキン スタンドクランプ 美容師 クランプ ウィッグ (シルバー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 16919.66,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0CNNFB57Y",
-      "item_name": "MaT store todoリスト ノート 時間管理 スケジュール 予定 タスク メモ B6サイズ 2冊セット (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 12927.66,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0DB4C6LC3",
-      "item_name": "MaT store 排水溝カバー メッシュテープ ベランダ バルコニー お風呂 排水口 虫侵入防止シート",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 1110.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DWW19Y4H",
-      "item_name": "MaT store 布団収納 洋服 クリーニング 洗濯物 コインランドリー リュック式 大容量 手持ち 2個セット (ブルー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DT5GHSQV",
-      "item_name": "[MaT store] シューズカバー 防水 滑り止め 靴 シリコン 着脱簡単 軽い 梅雨 通勤通学 4個セット (Sサイズ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 743.0,
-      "t30d_units": 1.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0FS1XMGW4",
+      "item_name": "[ミステリーランチ] Pack Fly S パック フライ Sサイズ レインカバー カバー メンズ レディース グレー 110906 アウトドア ミリタリー プレゼント ギフト [並行輸入品]",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 4800.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0BM3JC2TN",
-      "item_name": "MaT store ワインバッグ ボトルバッグ 紙袋 無地 ギフト ワイン用 クラフト 10枚セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0FWXXJQBY",
+      "item_name": "[ナイキ] NSW HE WR スポーツウェア ウィンドランナー ブレーカー フルジップアップ ジャケット ジム スポーツウェア フィットネス トレーニング DA0002-010 ブラック/ホワイト 春 秋 冬 国内正規品 メンズ Lサイズ",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 69212.0,
+      "t30d_units": 6.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CD9NN5CS",
-      "item_name": "MaT store 集塵ホース ダクトホース 掃除機 蛇腹 ジャバラ 内径32mm 外径39mm (2.5m)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 126858.69,
-      "t30d_units": 74.0
-    },
-    {
-      "asin": "B0D93C1B1Y",
-      "item_name": "MaT store 運搬ベルト キャリーベルト 引越し 家具 移動 荷物 重量物 移動ベルト 運搬",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 3760.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FV85Q2ND",
-      "item_name": "【工具不要でしっかり固定】MaT store 吸盤式 風呂手すり 浴槽 手すり 強力吸盤 介護用 取付簡単 ≪壁を傷つけず設置OK≫ バスルーム/トイレ/玄関 転倒防止 高齢者・子供の入浴補助に (ホワイト×グレー, スタンダード)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 23603.0,
-      "t30d_units": 40.0
-    },
-    {
-      "asin": "B0CRVT16DN",
-      "item_name": "MaT store タブレットホルダー 車 車載ホルダー ヘッドレスト 後部座席 見やすい 7-10.5インチ対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 13670.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0BM3F52TW",
-      "item_name": "MaT store ギフトボックス アクセサリー ケース 箱 指輪 プレゼント レッド 16個セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C333J9FK",
-      "item_name": "MaT store メニュースタンド ホルダー 卓上 アクリル 木製 販促用 メニュー 写真 横型 (A6サイズ)",
-      "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
-      "suppression_category": "5.Others",
-      "pf": "L&L",
-      "t30d_ops": 24370.0,
-      "t30d_units": 32.0
-    },
-    {
-      "asin": "B0D938HNC7",
-      "item_name": "MaT store ギフトボックス 長方形 ギフト アクセサリー パッケージ ラッピング 箱 10個セット (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 19977.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0DQPL9MN5",
-      "item_name": "MaT store シートクッション 運転席 座布団 腰痛対策 ドライバー 長距離運転 オフィス 持ち運び 高さ調整",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 10160.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0BM3TQS46",
-      "item_name": "MaT store ハンガーラックカバー 洋服カバー 衣類カバー 保護 防虫 半透明 幅150cm",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 11659.66,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0CRY3PSGW",
-      "item_name": "MaT store ヨガブロック 柔らかい ブロック 軽量 ヨガ フィットネス 体幹 ストレッチ 2個セット (ピンク)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 9940.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0FFGXW3H6",
-      "item_name": "MaT store キャンバスボード 6枚セット キャンバスアート 抜きキャンバス ミニ 長方形 画材 絵画 水彩画 油絵 (20×25cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 14400.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0DVYL95D5",
-      "item_name": "MaT store ノート A5 ノートブック 手帳 ビジネスノート 仕事活用 ゴムバンド付 (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 52392.3,
-      "t30d_units": 53.0
-    },
-    {
-      "asin": "B0CRXTFNCF",
-      "item_name": "MaT store サンバイザー 車 日除け サイド サンシェード スライド式 運転席 助手席 省スペース",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 3460.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0BDTS2NLB",
-      "item_name": "MaT store マネキンヘッド キャンバス モデル 展示 ディスプレイ サロン マチ針 58cm",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 33301.16,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0CRV8ZZDM",
-      "item_name": "MaT store 収納ボックス 多機能 仕切りボックス 持ち手付き 小物 化粧品 コスメ 文房具 持ち運びラクラク",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 79815.82,
-      "t30d_units": 46.0
-    },
-    {
-      "asin": "B0FGHX7DZM",
-      "item_name": "MaT store クリアファイル 収納ホルダー バインダー レールファイル ポケット 20冊セット (A4：29.7×21cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 16579.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0CQ7Z94QR",
-      "item_name": "[MaT store] 光るメガネ パーティーメガネ イベント 誕生日 眼鏡 景品 おもしろ 電池式 5個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 10785.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0BGKNN7GC",
-      "item_name": "[MaT store] 手提げ袋 不織布 エコバッグ ギフトバッグ 無地 厚手 ブラック 横型 12枚セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B01N0O34KG",
+      "item_name": "Tシャツ 半袖 丸首 綿100% 丸胴仕様 タグレス仕様 ビーフィポケットTシャツ ビーフィー H5190-010-S",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 52128.0,
+      "t30d_units": 26.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0C3ZNYJKR",
-      "item_name": "MaT store テープ 反射 シール 反射板 コンクリートに貼れるテープ 25m 幅5cm (レッド)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 6868.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DZJ82V99",
-      "item_name": "MaT store カトラリーケース 箸入れ 箸入れケース カトラリー 収納 箸箱 蓋付き 竹製 箸ケース",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BDTZ47S2",
-      "item_name": "MaT store マネキンヘッド キャンバス モデル 展示 ディスプレイ サロン マチ針 55cm",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 26367.66,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0DYV17XMQ",
-      "item_name": "MaT store ランチプレート ステンレス 食器 蓋付き キャンプ食器 仕切り皿 ディナープレート 分割 (2仕切り)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D72FQ8R7",
-      "item_name": "MaT store 窓ストッパー ベビーガード ロック 窓 引き戸 赤ちゃん ペット いたずら防止 8個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 1919.66,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DVZ4QRJK",
-      "item_name": "MaT store 試験管セット プラスチック 割れにくい 取り外せる 遠心管 一輪挿し おしゃれ 6本",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": -1250.0,
-      "t30d_units": -1.0
-    },
-    {
-      "asin": "B0F74CC1XM",
-      "item_name": "MaT store 時計型 隠し金庫 小型 貴重品ボックス 隠し収納 金庫に見えない カモフラージュ (シルバー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F73XFWCV",
-      "item_name": "MaT store あくとりお玉 あくとり かすあげ アク取り あくとり網 ステンレス かす揚げ お玉",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C3368V5P",
-      "item_name": "MaT store ハンドルカバー 編み込み 本革 滑りにくい グリップ感 手縫い 普通車 軽自動車 38cm (レッド)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DB48S91Z",
-      "item_name": "MaT store 草刈り機 ハンドル ループハンドル 持ち手 汎用 草刈り機用 軽量 グリップ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 4594.33,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0CK15YZZ6",
-      "item_name": "MaT store カゴ プラスチック 風呂 銭湯 温泉 水切り ランドリー バスルーム 籠 収納 洗面用具 (ピンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 3533.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0C4BLQ32S",
-      "item_name": "MaT store エンジニアバッグ ビニールバッグ クリアバッグ 道具袋 帯電防止 軽量 大容量",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 47785.75,
-      "t30d_units": 16.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0DLKRDR3V",
+      "item_name": "[ミステリーランチ] Rip Ruck 32 リップラック32 113077 バックパック リュック リュックサック バッグ レディース メンズ ブラック 112457 アウトドア ミリタリー プレゼント ギフト (Black(L/XL)) [並行輸入品]",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0C332M9XD",
-      "item_name": "MaT store メニュースタンド ホルダー 卓上 アクリル 木製 販促用 メニュー 写真 横型 (A4サイズ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 21996.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0D8HMYGR3",
-      "item_name": "MaT store 黒板 ブラックボード 看板 掲示板 メニューボード 店舗 吊り下げ 2枚セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 5443.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0CWYV1XR1",
-      "item_name": "MaT store 救急箱 大容量 薬箱 おしゃれ ケース 無地 収納ボックス 多機能 小物入れ 家庭用 (ピンク)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 23596.36,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0CGXBH92Z",
-      "item_name": "MaT store 救急箱 大容量 薬ケース 薬箱 収納ボックス 防災 家庭用 ツールボックス 道具箱 (ブルー 小サイズ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 1624.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CZMFW8QK",
-      "item_name": "MaT store ランニング ポーチ ジョギング ウエストポーチ 軽量 防水 スマホ カード 揺れない (イエロー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B09XM2S6T2",
+      "item_name": "[ザノースフェイス] メンズ バケットハット RECYCLED 66 BRIMMER / NF0A5FX3 ブラック S/M [並行輸入品]",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 4580.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0C349L4TZ",
-      "item_name": "MaT store シャーレ ペトリ皿 ガラス製 蓋付き 耐熱400℃ 高ホウケイ酸 細胞 5個入り (120mm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DKHT9985",
-      "item_name": "MaT store シンク下収納 キッチン収納 フライパン収納 洗面所 台所 幅調節可能 カスタマイズ便利 ホワイト",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 21052.33,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0C3ZQCYPV",
-      "item_name": "MaT store 反射テープ 反射 シール 反射板 コンクリートに貼れるテープ 25m 幅5cm (イエロー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 24526.99,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0BGKQB64F",
-      "item_name": "MaT store 手提げ袋 不織布 エコバッグ ギフトバッグ 無地 厚手 ブラック 横型 24枚セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 32540.0,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0CWZC9S3Z",
-      "item_name": "MaT store シリンジ プラスチック 実験 オイル交換 液体 エア抜き チューブ付き (500ml)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 88675.66,
-      "t30d_units": 51.0
-    },
-    {
-      "asin": "B0CWZB7YGF",
-      "item_name": "MaT store シリンジ プラスチック 実験 オイル交換 液体 エア抜き チューブ付き (200ml)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 71984.32,
-      "t30d_units": 56.0
-    },
-    {
-      "asin": "B0FGHB4DFP",
-      "item_name": "MaT store 車 テーブル ハンドル カー用品 車内 アクセサリー 車中泊 机 トレイ 車用トレイ 車載テーブル ホルダー (ウッドブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 5340.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FQ2WT98Z",
-      "item_name": "[MaT store] 使い捨てエプロン 不織布 紙エプロン 使い捨て 大人 腰ひも付 厚手 撥水加工 (ホワイト, 20枚セット)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 3760.0,
-      "t30d_units": 2.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0B2QM41G4",
+      "item_name": "[ナイキ] メンズ スポーツウェア クラブ Tシャツ［AR4999］XLサイズ 101 ホワイト",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 46839.33,
+      "t30d_units": 21.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CK1DP3C8",
-      "item_name": "MaT store アルバム 手作り 記念日 思い出 フォトアルバム デコレーション 写真 ミニ キット 木製 (木)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 22420.0,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0FFGXFW15",
-      "item_name": "MaT store キャンバスボード 6枚セット キャンバスアート 抜きキャンバス ミニ 長方形 画材 絵画 水彩画 油絵 (18×24cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 5738.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0FFGT9RLS",
-      "item_name": "MaT store キャンバスボード ミニ 正方形 6枚セット 油絵 画材 キャンバスペーパー ファーストアート (20×20cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 13973.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0DT5N4D3G",
-      "item_name": "MaT store 紙袋 ギフトバック お持ち帰り テイクアウト おみやげ プレゼント イベント 10枚セット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1750.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CD9Q92PN",
-      "item_name": "MaT store ダクトコネクター 四角 ダクトファン 換気 排気 コネクター 方型 2個セット (150mm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 12442.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0DZHZPY3H",
-      "item_name": "MaT store todoリスト タスク管理 チェックリスト メモ やることリスト メモ帳 10冊セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 3996.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0CNNM3SNH",
-      "item_name": "MaT store 踏み台 ステップ台 玄関 ベランダ 段差 低い 乗り降り 滑り止め 段差解消 10cm (小サイズ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 43439.0,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0C2BYFGB8",
-      "item_name": "MaT store ケンケンパリング ケンケンパ リング トレーニング 子供 練習 リング 10本 (38cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 26894.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0CWYMKBDJ",
-      "item_name": "MaT store ペーパークラフト ボーンフォルダー 骨べら 道具 工具 折り目 マーキング 縫製 製本 (1本)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 832.8,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DVZBRZ5T",
-      "item_name": "MaT store 植木鉢 おしゃれ 多肉植物 寄せ植え鉢 竹製スタンド 鉢3点とスタンド セット商品",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 11520.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DZXLLPRX",
-      "item_name": "MaT store ハンギングプランター 【吊り下げプランター】室内 植木鉢 ハンギングバスケット プラント (グレー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F42Y13HV",
-      "item_name": "MaT store 揚げ物用バット 料理 油きり ステンレス 天ぷら 網付き ステンレスバット (Mサイズ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 152994.08,
-      "t30d_units": 85.0
-    },
-    {
-      "asin": "B0C3ZQMKYB",
-      "item_name": "MaT store 反射テープ 反射 シール 反射板 コンクリートに貼れるテープ 25m 幅5cm (ブルー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 10139.75,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0CWYXX4TK",
-      "item_name": "MaT store デスク 卓上ラック 棚 2段 おしゃれ 収納棚 ラック 卓上収納 デスク上置き棚 (ホワイト×ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 22190.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0CWYMJD85",
-      "item_name": "MaT store 木製パズル 動物 乗り物 くだもの パズル はめ込み 型 知恵 型合わせ 6個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 36182.49,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0DZHH51ZV",
-      "item_name": "MaT store 猫 ドア 出入り自由 取付カンタン 冷暖房効果アップ ペットドア 通りやすい 後付け可能 (ホワイト)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1520.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C9PGV2L1",
-      "item_name": "MaT store サンシェード 車 フロント 日除け MINI 折りたたみ 車用 汎用 紫外線対策",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 3330.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0D1GGJB33",
-      "item_name": "MaT store 目覚まし時計 大音量 アナログ とけい シンプル 置き時計 電池式 (グリーン)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 4438.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CWYLNYL9",
-      "item_name": "MaT store ペーパークラフト ボーンフォルダー 骨べら 道具 工具 折り目 マーキング 縫製 製本 (2本)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 2620.66,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DWWNG75N",
-      "item_name": "MaT store ティーバッグホルダー 収納 紅茶置き場 カフェ 仕切り板 整理 小物収納 お手入れ ミルク 砂糖",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 24320.25,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0F4318141",
-      "item_name": "MaT store 洗剤ボトル ランドリーボトル 洗濯洗剤ボトル 柔軟剤ボトル 詰め替え 2個セット (グレー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 2938.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DQP1C4Y6",
-      "item_name": "MaT store ハムスター キャリーケース 移動 通院 旅行 車内 給水 お出かけ ケージ (ブルー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 7250.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0CWYYD1NJ",
-      "item_name": "MaT store バスケット 室内 ミニ バスケットゴール 練習 壁掛け 子供 ボール 2個セット (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 8200.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DKHN7F34",
-      "item_name": "MaT store ナンバーステー ナンバープレート 車ステー ウイングステー ステー 調節可能 ステンレス 盗難防止",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CQ86TT6B",
-      "item_name": "MaT store 中華鍋 五徳 ガスコンロ用 中華五徳 中華鍋用 フライパン サポートラック 鉄 固定",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 33211.0,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0CZM619TG",
-      "item_name": "[MaT store] フェイスマスク フェイスカバー 紫外線 ネックカバー UVカット アウトドア 2枚セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 3920.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0CWYXZ7V4",
-      "item_name": "[MaT store] 手提げ袋 不織布 エコバッグ ギフトバッグ 無地 厚手 ブラック 縦型 40枚セット",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 124769.0,
-      "t30d_units": 42.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B07Z996WWY",
+      "item_name": "[フェールラーベン] FJALLRAVEN Kanken Sling カンケン スリング ショルダーバッグ レディース メンズ FJ-23797 031:Graphite [並行輸入品]",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 9480.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FGHWLKQ4",
-      "item_name": "MaT store クリアファイル 収納ホルダー バインダー レールファイル ポケット 20冊セット (B5：26×19cm)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 14326.0,
-      "t30d_units": 10.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B07Z98PQWW",
+      "item_name": "[フェールラーベン] Kanken Sling カンケン スリング ショルダーバッグ レディース メンズ FJ-23797 312:Pink [並行輸入品]",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0D1VGGZGH",
-      "item_name": "MaT store OPP袋 テープ付き ラッピング 包装 梱包 透明 ビニール 100枚セット (35cm×45cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 16304.0,
-      "t30d_units": 9.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B01NBHVMUE",
+      "item_name": "Tシャツ 半袖 丸首 綿100% 丸胴仕様 タグレス仕様 ビーフィポケットTシャツ ビーフィー H5190-090-S",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 5503.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CDC5D9GM",
-      "item_name": "MaT store 車 フロントガラスカバー 日除け 凍結防止シート サンシェード オールシーズン",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0B2R39WML",
+      "item_name": "[ナイキ] メンズ ロングスリーブ Tシャツ［AR5194］Lサイズ 100 ホワイト",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 110179.25,
+      "t30d_units": 37.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 52228.83,
-      "t30d_units": 32.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B07MCNK8WC",
+      "item_name": "ナイキ(NIKE) フューチュラ アイコン S/S Tシャツ AR5005 ブラック(AR5005-010) L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 9134.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CWYYMCHG",
-      "item_name": "MaT store バスケット 室内 ミニ バスケットゴール 練習 壁掛け 子供 ボール 2個セット (レッド)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 10375.0,
-      "t30d_units": 5.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B09T2VBDBD",
+      "item_name": "KANGOL Bermuda Casual",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0D93C4P9D",
-      "item_name": "MaT store 筆洗 バケツ 絵の具 筆 洗う ペイントブラシ パレット 美術 油絵具 コンパクト (イエロー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0F3WZMXQB",
+      "item_name": "[ノースフェイス] メンズ ボストンバッグ ダッフルバッグ NF0A52SC BASE CAMP DUFFEL-XL ブラック [並行輸入品]",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 100634.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DLG1BXG3",
-      "item_name": "MaT store リュック ポーチ スマホ 小物収納 携帯 登山 アウトドア サバゲー 撥水 通勤 通学",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 3080.0,
-      "t30d_units": 2.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0B2QWN13N",
+      "item_name": "[ナイキ] メンズ ロングスリーブ Tシャツ［AR5194］XLサイズ 100 ホワイト",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 56704.05,
+      "t30d_units": 18.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F74BGZ16",
-      "item_name": "MaT store トング ステンレス パスタトング 揚げ物トング 穴あき 耐熱 つなぎ目なし (13cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0B2QPJ44V",
+      "item_name": "[ナイキ] メンズ NSW FT クラブ プルオーバー パーカー［CZ7858］Mサイズ 010 ブラック",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 131213.66,
+      "t30d_units": 27.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0CWKTGNMS",
+      "item_name": "[カーハート ワークインプログレス] HOODED AMERICAN SCRIPT JACKET ブラック L",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
       "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F42VHMZT",
-      "item_name": "MaT store 揚げ物用バット 料理 油きり ステンレス 天ぷら 網付き ステンレスバット (Lサイズ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 155150.92,
-      "t30d_units": 78.0
-    },
-    {
-      "asin": "B0DW2ZGBGY",
-      "item_name": "MaT store デスクサイドラック デスク周り 収納 ホルダー 便利 手が届く タブレット 小物 書類整理 (ホワイト)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09YPTYZ1V",
-      "item_name": "MaT store コットンケース 綿棒ケース 蓋付き コスメ 小物入れ メイク収納 アクリル製",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 13752.04,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0FQ2WDMKJ",
-      "item_name": "[MaT store] 使い捨てエプロン 不織布 紙エプロン 使い捨て 大人 腰ひも付 厚手 撥水加工 (ホワイト, 100枚セット)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 16281.25,
-      "t30d_units": 6.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0FKGXSX9Q",
+      "item_name": "GREGORY グレゴリー リュックサック 154670 1041 V2 ブラック 黒 [並行輸入品]",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F73WZTXM",
-      "item_name": "MaT store バット 料理 蓋付きバット ステンレス 揚げ物 長方形 業務用 天ぷら 調理用 (28.8cm×33cm×6cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 6527.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FQ311PT5",
-      "item_name": "[MaT store] 使い捨てエプロン 不織布 紙エプロン 使い捨て 大人 腰ひも付 厚手 撥水加工 (ブラック, 20枚セット)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 5640.0,
-      "t30d_units": 3.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B07GTDLWWX",
+      "item_name": "JOHN SMEDLEY ジョンスメドレー SHIPTON STANDARD FIT Vネック 長袖 ニット カラー4色 メンズ BLACK/ブラック S [並行輸入品]",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CNMG2G5X",
-      "item_name": "MaT store todoリスト ノート 時間管理 スケジュール 予定 タスク メモ B6サイズ 2冊セット (ブラウン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 10628.71,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0D1VG46RG",
-      "item_name": "MaT store 集塵ホース ダクト 掃除機 蛇腹ホース ジャバラ 内径32mm 外径39mm (3.5m)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 48678.0,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0C3ZPQ3QL",
-      "item_name": "MaT store 反射テープ 反射 シール 反射板 コンクリートに貼れるテープ 25m 幅5cm (ホワイト)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 8811.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0F744RY2K",
-      "item_name": "MaT store バット 料理 蓋付きバット ステンレス 揚げ物 長方形 業務用 天ぷら 調理用 (28.5cm×22.5cm×6.2cm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 3582.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DYV25GV4",
-      "item_name": "MaT store マッシャー ポテトマッシャー ステンレス ポテト じゃがいも さつまいも 調理器具 調理器具",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 9686.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0CDBZ6SKH",
-      "item_name": "MaT store 胸ポケット用 ペンケース ペン入れ ワイシャツ 白衣 胸ポケット用ペンケース (ブラウン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 12601.0,
-      "t30d_units": 13.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0B2QKSB66",
+      "item_name": "[ナイキ] メンズ ロングスリーブ Tシャツ［AR5194］Mサイズ 100 ホワイト",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 66212.66,
+      "t30d_units": 22.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CWYYKQWW",
-      "item_name": "MaT store デスク 卓上ラック 棚 2段 おしゃれ 収納棚 ラック 卓上収納 デスク上置き棚 (木×ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 47118.99,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0FFGWWNL2",
-      "item_name": "MaT store キャンバスボード ミニ 正方形 6枚セット 油絵 画材 キャンバスペーパー ファーストアート (15×15cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 7440.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0FV8JRZGR",
-      "item_name": "【工具不要でしっかり固定】MaT store 吸盤式 風呂手すり 浴槽 手すり 強力吸盤 介護用 取付簡単 ≪壁を傷つけず設置OK≫ バスルーム/トイレ/玄関 転倒防止 高齢者・子供の入浴補助に (ホワイト×グレー, ショートタイプ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 9913.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0BM3V8XQJ",
-      "item_name": "MaT store ワインバッグ ボトルバッグ 紙袋 無地 ギフト ワイン用 レッド 10枚セット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 3382.0,
-      "t30d_units": 2.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B09Y8WGSYR",
+      "item_name": "[フレドリックパッカーズ] MISSION TOTE (XS) ECO LEATHER ミニトートバッグ BLACK",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0C9PZ35ZJ",
-      "item_name": "MaT store 握力ボール たまご型 トレーニング ハンドグリップ 握力 筋トレグッズ 5個入り",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 4820.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DWWFYC4Q",
-      "item_name": "MaT store チェストマウント ウェアラブルカメラ 目線カメラ 両手が使える スマホ 手ぶら撮影 アウトドア",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 8848.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0DW3Y5GBV",
-      "item_name": "MaT store 折りたたみ洗面器 旅行 洗濯 便利グッズ 持ち運び 携帯できる アウトドア お風呂",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 1410.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CR879ZRP",
-      "item_name": "MaT store アクリルスタンド POP スタンド a6サイズ 卓上 台座 メニュー 写真たて 6個セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 6573.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0BGKFCLBC",
-      "item_name": "【引き出しすっきり見やすく整理できる仕切り構造】 MaT store カトラリーケース カトラリー収納 箸入れ 引き出し収納 仕切りトレー グレー キッチン収納 整理整頓 一人暮らし ファミリー向け グレー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 85361.57,
-      "t30d_units": 46.0
-    },
-    {
-      "asin": "B0DVZ87LF3",
-      "item_name": "MaT store ノート A5 ノートブック 手帳 ビジネスノート 仕事活用 ゴムバンド付 (グレー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 17067.6,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0D8HLTL2T",
-      "item_name": "MaT store 草刈り機 ハンドル 芝刈り機 交換 D型シャフト 部品 パーツ 持ち手 グリップ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 3850.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DCNPQF4K",
-      "item_name": "MaT store 輪投げ なげわ 縁日 ゲーム イベント おもちゃ 遊び 輪っか 22cm 20個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 12295.14,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0F1RW471R",
-      "item_name": "MaT store 木箱 小物入れ 蓋付き 箱 木製ボックス 木の箱 収納 木目 レトロ インテリア (ダークブラウン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 20898.0,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0CYBJ91YS",
-      "item_name": "MaT store パーツボックス パーツケース 小物 ビーズ アクセサリー 収納 仕切り透明 36格",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 2920.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CK1GSD4D",
-      "item_name": "MaT store アルバム 手作り 記念日 思い出 フォトアルバム デコレーション 写真 ミニ キット 木製 (ハート)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 26405.08,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0BGLJ3RYZ",
-      "item_name": "MaT store 帽子スタンド ウィッグスタンド アイアン 卓上 帽子 かつら 店舗 撮影 ブラック",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 23850.0,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0CDC2RL2S",
-      "item_name": "MaT store 胸ポケット用 ペンケース ペン入れ ワイシャツ 白衣 胸ポケット用ペンケース (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 40276.13,
-      "t30d_units": 48.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B08RCJCKXL",
+      "item_name": "[フレドリックパッカーズ] トートバッグ マザーズバッグ 210D TIPI TOTE BLACK(BLK) F(フリー)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0D8HKRL91",
-      "item_name": "MaT store 地球儀 おしゃれ インテリア アンティーク 世界地図 地理 オブジェ 模型 (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 190042.98,
-      "t30d_units": 64.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B07MG932P1",
+      "item_name": "ナイキ(NIKE) フューチュラ アイコン S/S Tシャツ AR5010 ブラック(AR5005-010) S",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 20700.0,
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DZHRTZ9Q",
-      "item_name": "MaT store ガンマイク カバー マイクスポンジ マイクカバー マイク風防 マイク用 2個セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DZJY1X1V",
-      "item_name": "MaT store 耐熱テープ マフラー 補修テープ 車 断熱材 アルミテープ マフラー耐熱テープ 防熱テープ (シルバー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0F74RDC3V",
-      "item_name": "MaT store バット 料理 蓋付きバット ステンレス 揚げ物 長方形 業務用 天ぷら 調理用 (22.2cm×14.8cm×6.2cm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 16124.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0CGZ6TQXR",
-      "item_name": "MaT store パーテーション 間仕切り 卓上 デスク フェルトボード 防音ボックス 衝立 折りたたみ (80cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 103434.0,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0BGLJFFG8",
-      "item_name": "MaT store ケーブル収納ボックス 配線 収納 ケーブルケース コンセント ケーブルボックス",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D722C36N",
-      "item_name": "MaT store カードボックス ロング トレカ ポケカ カード入れ 収納 大容量 横入れ 縦入れ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 40133.7,
-      "t30d_units": 40.0
-    },
-    {
-      "asin": "B0DZHRRSXB",
-      "item_name": "MaT store ネックレススタンド ネックレス 収納 ピアススタンド アクセサリー 収納 2個セット (ゴールド)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FQ2WRSGB",
-      "item_name": "[MaT store] 使い捨てエプロン 不織布 紙エプロン 使い捨て 大人 腰ひも付 厚手 撥水加工 (ブラック, 50枚セット)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 6995.8,
-      "t30d_units": 3.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B01N6E3L5P",
+      "item_name": "Tシャツ 半袖 丸首 綿100% 丸胴仕様 タグレス仕様 ビーフィポケットTシャツ ビーフィー H5190-090-M",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 40930.66,
+      "t30d_units": 25.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CZLKWX6K",
-      "item_name": "MaT store ゴルフボールケース かご ボールケース ゴルフ 練習ボール入れ 50球",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B07MQPYCFK",
+      "item_name": "ナイキ(NIKE) フューチュラ アイコン S/S Tシャツ AR5005 ブラック(AR5005-010) M",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 21898.0,
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0FNBV5T8C",
+      "item_name": "marimekko マリメッコ 鍋敷き Pieni Unikko Pot Holder ウニッコ ポットホルダー 074653 185 レディース 鍋つかみ 花柄 [並行輸入品]",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 24936.0,
-      "t30d_units": 14.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B085RCDR4K",
+      "item_name": "ジャンニキアリーニ GIANNI CHIARINI レディース トートバッグ MARCELLA MEDIUM BS6850 CNV SE 10374 MILITARE CORDA 24ss (MILITARE/CORDA) [並行輸入品]",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0BGKP8S47",
-      "item_name": "[MaT store] 手提げ袋 不織布 エコバッグ ギフトバッグ 無地 厚手 ブラック 縦型 12枚セット",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 15768.99,
-      "t30d_units": 11.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0B2QLNX4N",
+      "item_name": "[ナイキ] メンズ スポーツウェア クラブ Tシャツ［AR4999］Lサイズ 101 ホワイト",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 57548.0,
+      "t30d_units": 27.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CYC4YD3T",
-      "item_name": "【肘のベストポジションをキープ】 MaT store コンソールボックス 車用 小物入れ アームレスト 伸縮式 高級PUレザー ドリンクホルダー USB付き 運転快適 汎用 自動車用",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 56112.0,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0DTKKCSNK",
-      "item_name": "Mat store 養生テープ 養生シート マスカー 透明 マスカーテープ マスキングテープ 車 現場 10本セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FT15NZ53",
-      "item_name": "MaT store スポンジ置き スポンジホルダー キッチン用品 スポンジラック 台所 収納 シンク ステンレス製 (スタンダード)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 23808.0,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0CGZ3QMN9",
-      "item_name": "MaT store 防犯カメラ 取付金具 ブラケット ポール 防犯 カメラ 屋外 金具 取り付け 設置 (2個)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 16020.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0DCNBM2DR",
-      "item_name": "MaT store 後部座席 収納 シートバック 車用 ドリンクホルダー 大容量 収納ポケット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 20878.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0DZJ4GNDJ",
-      "item_name": "MaT store おぼん ステンレストレー 丸型 トレイ お盆 丸 ディスプレイトレイ ゴールド 丸盆 (30cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 42408.0,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0DWWP4T53",
-      "item_name": "MaT store メダルケース メダルスタンド ホルダー 写真 立てかけ 壁掛 展示 部室 学校 ディスプレイ 木製 (ホワイト)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 9520.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0CRVCWY3P",
-      "item_name": "MaT store バルーンアート 風船 ツイストバルーン ロングサイズ イベント 景品 空気入れ付き 600本入り",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 5719.5,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0BM3BH3WL",
-      "item_name": "MaT store 名刺スタンド カード立て アクリル 名刺立て ディスプレイ カード収納 2列4段",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 46401.0,
-      "t30d_units": 33.0
-    },
-    {
-      "asin": "B0F745J4MP",
-      "item_name": "MaT store あくとりお玉 穴あきお玉 あくとり かすあげ 継ぎ目無し ステンレス 一体型 揚げ物すくい網",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 3560.33,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0C332PCK2",
-      "item_name": "MaT store メニュースタンド ホルダー 卓上 アクリル 木製 販促用 メニュー 写真 横型 (A5サイズ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 27746.0,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B0CDBNWWZJ",
-      "item_name": "MaT store アクセサリートレイ ジュエリー 時計 メガネ ディスプレイ トレー 小物置き",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 3078.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DB49JP5S",
-      "item_name": "MaT store 冷蔵庫 業務用 冷蔵庫棚受け金具 交換 冷蔵ショーケース ステンレス 10個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 43908.0,
-      "t30d_units": 32.0
-    },
-    {
-      "asin": "B0DSGQKTLQ",
-      "item_name": "MaT store トラックボール ストレス解消 手遊び 大人 子ども ひまつぶし ストレス発散 入院 イライラ (ホワイト)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FGHYNNQZ",
-      "item_name": "MaT store 保冷袋 保冷バッグ ミニ 保冷ポーチ 保冷ジェル保存袋 小さめ アルミ袋 ランチバッグ 保冷 使い捨て 保温袋 25枚セット (20×30cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 21306.33,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0CZLLSQFN",
-      "item_name": "[MaT store] エコバッグ 大容量 トートバッグ ショッピングバッグ 巾着 コンパクト 軽量 (ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B074HLXXCW",
+      "item_name": "FRED PERRY(フレッドペリー) M3519 RINGER T-SHIRT リンガーTシャツ 半袖 TEE Tシャツ ロゴ メンズ シンプル ((100)WHITE, XL)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 20708.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F74M7W2P",
-      "item_name": "MaT store 時計型 隠し金庫 小型 貴重品ボックス 隠し収納 金庫に見えない カモフラージュ (ゴールド)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BGLHWSBD",
-      "item_name": "MaT store 帽子スタンド ウィッグスタンド アイアン 卓上 帽子 かつら 店舗 撮影 ホワイト",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 17797.66,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0CGX38FVM",
-      "item_name": "MaT store ガーデンバッグ 自立式 大容量 ガーデンバケツ 折り畳み 272L 400L 2個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 6415.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0BGKFJ9R3",
-      "item_name": "MaT store カトラリーケース カトラリー収納 キッチン 箸入れ 引き出し 仕切り ホワイト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 5287.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0D734PX97",
-      "item_name": "MaT store コレクションケース フィギュア ケース ディスプレイ 卓上 収納ボックス 鑑賞 (2段)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 21788.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0DB4L3LQL",
-      "item_name": "MaT store フォトフレーム 写真立て 回転式 おしゃれ プレゼント ギフト 記念日 卓上 (グレー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 38980.0,
-      "t30d_units": 22.0
-    },
-    {
-      "asin": "B0D1GJGXJX",
-      "item_name": "MaT store 目覚まし時計 大音量 アナログ とけい シンプル 置き時計 電池式 (ブラウン)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DPWMLLVY",
-      "item_name": "MaT store 自転車 ペダル 折りたたみ式 交換 部品 マウンテンバイク ロードバイク 反射板付き 左右セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 8099.99,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0F42DHSZ3",
-      "item_name": "MaT store スーツカバー 衣装カバー スーツバック 洋服カバー 持ち運び 衣類カバー ガーメントバッグ (2個セット)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 1958.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F4334PCF",
-      "item_name": "MaT store オイルポット 油入れ 油こし器 ステンレス 油入れ容器 油ポット 油こし 油 保存容器 (1.8L)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0D72VQT1J",
-      "item_name": "MaT store ペットフードストッカー フードストッカー 目盛り付き 保存容器 1000ml 2個セット (ピンク)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 10770.66,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0F42H7C1D",
-      "item_name": "MaT store スーツカバー 衣装カバー スーツバック 洋服カバー 持ち運び 衣類カバー ガーメントバッグ (1個セット)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 5520.5,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0CWZBZ9Y1",
-      "item_name": "MaT store 踏み台 ステップ台 玄関 ベランダ 段差 低い 乗り降り 滑り止め 段差解消 10cm (大サイズ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 50040.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0CWYVHCBH",
-      "item_name": "MaT store カードスタンド ポップスタンド プライスカード立て 名刺サイズ (60個)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 119184.0,
-      "t30d_units": 41.0
-    },
-    {
-      "asin": "B0C9NV2HNQ",
-      "item_name": "MaT store デスク 卓上ラック 棚 2段 おしゃれ 収納棚 ラック 卓上収納 デスク上置き棚 (木×ホワイト)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 84245.46,
-      "t30d_units": 34.0
-    },
-    {
-      "asin": "B0DKH9BCJ8",
-      "item_name": "MaT store 隙間テープ ソファー下ブロッカー ベッド下 おもちゃブロッカー ガード 長さ3m 幅5cm",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CDC2YZ47",
-      "item_name": "MaT store エアーホーン 手動式 応援 スポーツ 熊避け 防犯 パーティー グッズ イベント",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 17936.33,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0CWY3Q6L4",
-      "item_name": "MaT store 方位磁石 コンパス 登山 方位磁針 アウトドア キャンプ 夜光 防水",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 1190.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F42HJTMZ",
-      "item_name": "MaT store エアーパッキン 梱包資材 エアー緩衝材 エアパッキン あんこ 梱包 梱包材 空気緩衝材 (300枚セット+空気入れ1個)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CWYSG7XC",
-      "item_name": "MaT store 香水アトマイザー ガラス 詰め替え アトマイザー 香水瓶 携帯用 ブラック 4個セット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1340.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C9NV8PM9",
-      "item_name": "MaT store ハンギングバスケット 半円形 花 ガーデニング雑貨 壁掛け 屋外 3個セット",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 99121.33,
-      "t30d_units": 48.0
-    },
-    {
-      "asin": "B0CK17R3CX",
-      "item_name": "MaT store 知恵の輪 セット 難しい パズル 大人 子供 おもしろ 暇つぶし 謎解き グッズ 6点セット",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 26682.0,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0DWW197RD",
-      "item_name": "MaT store 指スケ 指スケボー フィンガースケートボード 指すけ スケボー ミニスケボー 子供 (デザインB)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F37GCJ5Q",
-      "item_name": "MaT store ペン立て 文房具 収納 デスクオーガナイザー 卓上収納 文房具収納 リモコン収納 整理整頓 (ピンク)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 1439.9,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CRSX3P3P",
-      "item_name": "MaT store 自転車 スマホホルダー 防水 バイク サイクリング 360度回転 携帯ホルダー 携帯 固定用",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 35937.66,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B0F7467677",
-      "item_name": "MaT store トング ステンレス パスタトング 揚げ物トング 穴あき 耐熱 つなぎ目なし (24cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 3019.66,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0F37HFWCV",
-      "item_name": "MaT store ケーブル収納 配線 整理 ケーブルオーガナイザー ケーブル収納ボックス ケーブルボックス (ホワイト)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DPWLMDRG",
-      "item_name": "MaT store ポップスタンド ポスタースタンド 卓上 メニュー 広告 写真 縦置き popスタンド カード立て (ブラック, A4)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 2937.33,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CRTRM9N9",
-      "item_name": "MaT store マラカス シェイカー 楽器 演奏 音楽 おもちゃ パーカッション 5色 10本セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 23732.29,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0CK15NGJ5",
-      "item_name": "MaT store カゴ プラスチック 風呂 銭湯 温泉 水切り ランドリー バスルーム 籠 収納 洗面用具 (グレー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 1590.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CK15VPVX",
-      "item_name": "MaT store カゴ プラスチック 風呂 銭湯 温泉 水切り ランドリー バスルーム 籠 収納 洗面用具 (ホワイト)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DT5LS2VM",
-      "item_name": "MaT store マネキンヘッド ヘアカット練習用 フェイス 土台 メイク ウィッグ マッサージ メイク落とし簡単",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 14635.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0F42R9J57",
-      "item_name": "[MaT store] 靴底 補修 靴底修理 アウトソール ビブラムシート 靴 修理 滑り止め ゴム 2個セット (ベージュ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 2236.0,
-      "t30d_units": 3.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0CW37GZ22",
+      "item_name": "[グレゴリー] カバートオーバーナイトミッション V4 ビジネスバッグ 26L ブラック",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 74560.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0C2C6T5DK",
-      "item_name": "MaT store フィギュアスタンド プラモデル 台座 180度可動 模型 フィギュア スタンド (8)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 1000.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0D72P43MC",
-      "item_name": "MaT store うさぎ トイレ ケージ 固定 モルモット 小動物 チンチラ 取り付け すのこ付き (グリーン)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DVZNB22X",
-      "item_name": "MaT store アクセサリー トレイ サボテン おしゃれ 小物置き ジュエリー トレー パワーストーン (ゴールド)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 950.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CYC5SK2G",
-      "item_name": "MaT store コンソールボックス 汎用 車用 小物入れ アームレスト コンソール 肘置き 伸縮式 (レッド)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 26369.46,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0CNNNPHLV",
-      "item_name": "MaT store ゴルフボールケース ゴルフボールポーチ メッシュ 収納袋 ケース バッグ 16個収納",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 660.0,
-      "t30d_units": 1.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0FWXBNZ68",
+      "item_name": "[ナイキ] NSW HE WR スポーツウェア ウィンドランナー ブレーカー フルジップアップ ジャケット ジム スポーツウェア フィットネス トレーニング DA0002-010 ブラック/ホワイト 春 秋 冬 国内正規品 メンズ XL(O,LL,2L) サイズ",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 28948.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0D738K9SW",
-      "item_name": "MaT store 麻袋 土のう袋 厚手 土嚢 ふくろ 園芸 ガーデニング 大きいサイズ 5枚セット",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 66747.73,
-      "t30d_units": 39.0
-    },
-    {
-      "asin": "B0F73Z96KP",
-      "item_name": "MaT store 油汚れ クロス キッチンクロス 魔法クロス ふきん 食器拭き リバーシブル竹炭 (薄いタイプ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DZHPMFKN",
-      "item_name": "MaT store 自動水やり機 自動給水器 植物 水やり 自動 自動水やり 水やり当番 自動給水装置 2個セット (グリーン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 5919.66,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0F73XJLWK",
-      "item_name": "MaT store トング ステンレス パスタトング 揚げ物トング 穴あき 耐熱 つなぎ目なし (18cm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 670.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CD9TY5LG",
-      "item_name": "MaT store 水切りトレー 水切りマット 水切りラック 食器 コップ キッチン 乾燥 トレー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 9696.33,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0DCN74PMV",
-      "item_name": "MaT store 動力噴霧器 ストレーナー 動力 噴霧器 高圧洗浄機 円盤 120mm 2個セット (19mm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 5170.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DT5TLJN1",
-      "item_name": "MaT store 太陽系 模型 天球儀 宇宙 おもちゃ 惑星 模型 天体 宇宙 観察 グッズ インテリア プラネット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 32487.0,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0C9PW5RPY",
-      "item_name": "MaT store バスケット 室内 ミニ バスケットゴール 練習 壁掛け 子供 ボール 2個セット (イエロー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 4100.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0C2B86MSL",
-      "item_name": "MaT store レザークラフト 工具 穴あけポンチ 丸型 革 クラフトパンチ 工具セット 7点セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 18659.66,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0CYC5LB4V",
-      "item_name": "MaT store タブレットホルダー 車 スマホ 取り付け クリップ式 車載 バイザー 4-11インチ対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 8209.33,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0DVLRCTL7",
-      "item_name": "MaT store カードスタンド ポップスタンド プライスカード立て 名刺サイズ (4個セット)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CWZ6ZKML",
-      "item_name": "MaT store 卓上ベル 呼び鈴 カウンターベル 受付 呼び出し ベル 飲食店 店舗用 ゴールド 2個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 14233.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0CQ9TNMMF",
-      "item_name": "MaT store じょうろ 小型 ステンレス製 ガーデニング 室内 屋外 水さし 園芸用品 250ml",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 11193.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0CYBTGQJ8",
-      "item_name": "MaT store 車止め タイヤ止め 輪止め ゴムストッパー 置くだけ 車 トラック ブロック 4個セット",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 32234.57,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0F434H6Q1",
-      "item_name": "MaT store アルミ鍋 使い捨て アルミプレート 使い捨て皿 BBQ アウトドア 四角皿 (30)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 27660.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0CK1JD2DL",
-      "item_name": "MaT store コンセントボックス ケーブル 収納 配線隠し おしゃれ 室内 寝室 リビング スマホ置き (ホワイト)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0FGHZT6RQ",
-      "item_name": "MaT store 保冷袋 保冷バッグ ミニ 保冷ポーチ 保冷ジェル保存袋 小さめ アルミ袋 ランチバッグ 保冷 使い捨て 保温袋 25枚セット (25×35cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 33858.0,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0F42TQVN2",
-      "item_name": "[MaT store] 靴底 補修 靴底修理 アウトソール ビブラムシート 靴 修理 滑り止め ゴム 2個セット (ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B08L4L852Z",
+      "item_name": "[フェールラーベン] カンケン スリング ショルダーバッグ レディース メンズ FJ-23797 550:Black [並行輸入品]",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F433FNBJ",
-      "item_name": "MaT store アルミ鍋 使い捨て アルミプレート 使い捨て皿 BBQ アウトドア 四角皿 (50)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 21385.03,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0CYCGZL73",
-      "item_name": "MaT store カウベル アゴゴベル 打楽器 パーカッション サンバ スティック 楽器 マレット付き",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 41994.35,
-      "t30d_units": 29.0
-    },
-    {
-      "asin": "B0F4394DPZ",
-      "item_name": "MaT store オイルポット 油入れ 油こし器 ステンレス 油入れ容器 油ポット 油こし 油 保存容器 (1.4L)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CRXM5DGV",
-      "item_name": "MaT store ヨガブロック 柔らかい ブロック 軽量 ヨガ フィットネス 体幹 ストレッチ 2個セット (ブルー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 38758.0,
-      "t30d_units": 27.0
-    },
-    {
-      "asin": "B0CK1GHFYB",
-      "item_name": "MaT store 箸立て 水切り ステンレス おしゃれ 箸 フォーク スプーン カトラリースタンド 収納 (小丸穴)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 2996.33,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DVYPKNVT",
-      "item_name": "MaT store スケッチブック 2冊セット お絵描き帳 自由帳 クロッキー メモ帳 縦開き A4",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 103000.39,
-      "t30d_units": 87.0
-    },
-    {
-      "asin": "B0C9PX864N",
-      "item_name": "MaT store ゴルフティー ゴム 練習用 ゴム製 ゴルフ ティー 耐久性 安定性 8個セット",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 38564.0,
-      "t30d_units": 30.0
-    },
-    {
-      "asin": "B0F4315BN5",
-      "item_name": "MaT store 包丁スタンド 包丁ケース 横置き 包丁収納 キッチン用品 置き型 通気性 スリム (グレー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DVLPRSZ6",
-      "item_name": "MaT store カードスタンド ポップスタンド プライスカード立て 名刺サイズ (3個セット)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CXCGYMBJ",
-      "item_name": "MaT store ロードバイク スタンド 自転車 屋内 前輪 後輪 サイクルトレーナー 固定 2個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 6900.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0CGY4J5S5",
-      "item_name": "MaT store ゴム鉄砲 木製 連射 射的 おもちゃ 子ども 的当て 玩具 縁日 お祭り 輪ゴム付き (2個セット)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 21441.16,
-      "t30d_units": 25.0
-    },
-    {
-      "asin": "B0CZM4KKT7",
-      "item_name": "MaT store 縄跳び 大縄 長縄 大人 子供 なわとび スポーツ 競技 練習 団体 ジャンプロープ (5m)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CWZB8C9H",
-      "item_name": "[MaT store] アクリルキーホルダー 写真 フォト フレーム DIY パーツ 手作り 100個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 82981.0,
-      "t30d_units": 35.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0B2QMCFP4",
+      "item_name": "[ナイキ] メンズ スポーツウェア クラブ Tシャツ［AR4999］Mサイズ 013 ブラック",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 111676.42,
+      "t30d_units": 56.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F6MMZ485",
-      "item_name": "MaT store 車用 小物入れ カー用品 車内収納グッズ 簡単取付 車用収納ポケット (1個)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 1418.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FGHZT3CF",
-      "item_name": "MaT store 保冷袋 保冷バッグ ミニ 保冷ポーチ 保冷ジェル保存袋 小さめ アルミ袋 ランチバッグ 保冷 使い捨て 保温袋 25枚セット (15×20cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 23020.0,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0CYCGHWHP",
-      "item_name": "MaT store ボードゲーム パーティーゲーム ジャックポット 足し算 脳トレ シャットザボックス",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 37472.08,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B0CK1DXG9H",
-      "item_name": "MaT store コンセントボックス ケーブル 収納 配線隠し おしゃれ 室内 寝室 リビング スマホ置き (グレー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 3560.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0C9P5Q4T9",
-      "item_name": "MaT store カラスよけ 烏撃退 鳥よけ 鳥避けグッズ 対策 ゴミ置き場 菜園 畑 吊り下げ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 1510.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0D739KC74",
-      "item_name": "MaT store フィギュアケース コレクションケース 陳列ケース 収納ケース 展示 鑑賞 配置自由 (ベージュ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 11934.33,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0CRT8YZLW",
-      "item_name": "MaT store ペットドライブシート 助手席 カバー 犬 防水 シート 軽自動車 ＳＵＶ ミニバン ブラック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DWVL4ZQV",
-      "item_name": "MaT store メガネケース サングラス メガネ 収納ボックス 収納 メガネディスプレイ サングラス収納ケース (ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DTG3S1SH",
-      "item_name": "MaT store エキスパンダー ゴムバンド 筋トレ チューブ 大胸筋 ゴムチューブ フィットネス ベンチプレス",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F4QQY97H",
-      "item_name": "MaT store ゴムローラー 壁紙 ローラー 版画 壁紙ローラー 圧着 ペイント 塗装 貼り付け 印刷 2個セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D1GK2XPV",
-      "item_name": "MaT store 目覚まし時計 大音量 アナログ とけい シンプル 置き時計 電池式 (ピンク)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 15029.55,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0D726FGN2",
-      "item_name": "MaT store うさぎ トイレ ケージ 固定 モルモット 小動物 チンチラ 取り付け すのこ付き (ホワイト)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 6260.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F74CCV46",
-      "item_name": "MaT store トング ステンレス パスタトング 揚げ物トング 穴あき 耐熱 つなぎ目なし (29cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1771.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CGRBPDFB",
-      "item_name": "[MaT store] スリッパ ふわふわ 室内 使い捨てスリッパ 店舗 来客用 業務用 ホテル 5足 (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 11160.0,
-      "t30d_units": 5.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0DVKXJTKG",
+      "item_name": "[グレゴリー] トートバッグ 89599 1041 フラッシュデイ ブラック 黒 [並行輸入品]",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 25600.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CWYY54DY",
-      "item_name": "MaT store ワインバッグ ボトルバッグ 紙袋 無地 ギフト ワイン用 ブラック 20枚セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0B2QN68W6",
+      "item_name": "[ナイキ] メンズ スポーツウェア クラブ Tシャツ［AR4999］Mサイズ 101 ホワイト",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 65081.08,
+      "t30d_units": 31.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DPWPLDZC",
-      "item_name": "MaT store ポップスタンド ポスタースタンド 卓上 メニュー 広告 写真 縦置き popスタンド カード立て (ブラック, A5)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 1465.33,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DVZ2MS72",
-      "item_name": "MaT store ノート A5 ノートブック 手帳 ビジネスノート 仕事活用 ゴムバンド付 (グリーン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 6993.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0F4QNNS8K",
-      "item_name": "MaT store ドアハンドル 引き戸 取っ手 ドアノブ交換 ドアレバー ドア取っ手 アルミ製 2個セット (ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CD9X7SB4",
-      "item_name": "MaT store ねずみ捕り ねずみ捕獲 かご 駆除 角型 小動物 保護 室内 屋外 罠 簡単設置",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 5120.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0F41ZCLFG",
-      "item_name": "MaT store バードトイ 鳥のおもちゃ フォージングトイ 鳥 インコ用知育玩具 訓練玩具 文鳥",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 1210.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C9PXB935",
-      "item_name": "MaT store メモクリップ カード スタンド 卓上メモ 名刺 写真 カード立て 10個セット (ホワイト)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 26108.04,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0CJZDY14S",
-      "item_name": "MaT store ドリンクホルダー 車 スマホスタンド カップホルダー 車載 車用品 エアコン 吹き出し口",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 15800.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0CQ9WQSBW",
-      "item_name": "MaT store OPP袋 テープ付き ラッピング 包装 梱包 透明 30cm 40cm 100枚セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 47488.4,
-      "t30d_units": 32.0
-    },
-    {
-      "asin": "B0DCN45WFS",
-      "item_name": "MaT store 車用収納ポケット シートバック 収納ポケット 車用 大容量 小物入れ ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 7180.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0F42Y7818",
-      "item_name": "MaT store アルミ鍋 使い捨て アルミ皿 キャンプ 鍋 鍋焼きうどん アルミ ラーメン鍋 (30)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 21840.0,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0DSHJ587M",
-      "item_name": "MaT store 骨付き肉 ぬいぐるみ 面白グッズ 原始人 イベント お笑い 骨 お昼寝 ふわふわ 映え",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 40350.0,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0CRT7K8Y8",
-      "item_name": "MaT store バードフィーダー 鳥 餌入れ 野鳥の餌台 バードウォッチング 鳥かご おしゃれ 庭 ガーデン",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 8543.66,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0CNNCKK96",
-      "item_name": "MaT store シリンジ プラスチック 実験 オイル交換 液体 エア抜き チューブ付き (300ml)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 33722.0,
-      "t30d_units": 24.0
-    },
-    {
-      "asin": "B0FGHZV5VR",
-      "item_name": "MaT store 保冷袋 保冷バッグ ミニ 保冷ポーチ 保冷ジェル保存袋 小さめ アルミ袋 ランチバッグ 保冷 使い捨て 保温袋 25枚セット (30×40cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 6540.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0C9PVL748",
-      "item_name": "MaT store スタンドルーペ ルーペ拡大鏡 精密 作業 固定 ハンダ 作業台 ルーペ スタンド",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 5905.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DTKPP1TV",
-      "item_name": "MaT store 茶封筒 A4 封筒 a4封筒 書類収納 大容量 クラフト紙 紐付き封筒 (10枚セット)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 9465.59,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0CK1BBFKW",
-      "item_name": "MaT store トレーニングチューブ エクササイズ 肩甲骨 美尻 ヨガ 野球 ダイエット ゴム チューブ (パープル)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CGY4DL7Y",
-      "item_name": "MaT store ゴム鉄砲 木製 連射 射的 おもちゃ 子ども 的当て 玩具 縁日 お祭り 輪ゴム付き (4個セット)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 6120.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0D72HPJPG",
-      "item_name": "MaT store ペットフードストッカー フードストッカー 目盛り付き 保存容器 1000ml 2個セット (ブルーグレー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 10769.75,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0DWW89KFH",
-      "item_name": "MaT store 指スケ 指スケボー フィンガースケートボード 指すけ スケボー ミニスケボー 子供 (デザインC)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 13300.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0CYC5X8KS",
-      "item_name": "MaT store スマホスタンド ブルドック 卓上 テーブル 小物置き 雑貨 おもしろ ギフト スタンド (手スタンド)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 23734.08,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0CZLM9N3P",
-      "item_name": "[MaT store] エコバッグ 大容量 トートバッグ ショッピングバッグ 巾着 コンパクト 軽量 (パープル)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0B2QKWF5V",
+      "item_name": "[ナイキ] メンズ スポーツウェア クラブ Tシャツ［AR4999］XLサイズ 013 ブラック",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 33468.0,
+      "t30d_units": 11.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CWYN9HNP",
-      "item_name": "MaT store ノートパソコン 収納 ポケット 貼り付け ケーブル 収納 ペンホルダー付き 2個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 1630.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DTKN8MXQ",
-      "item_name": "MaT store リボン ヘアアクセ ヘアリボン 髪飾り バレッタ 可愛い 韓国風 おしゃれ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D8HSJTPV",
-      "item_name": "MaT store フォームローラー ストレッチ ヨガ トレーニング 背中 30cm (ピンク)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1690.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DW2N4YHY",
-      "item_name": "MaT store インフィニティキューブ おもしろグッズ ストレス解消 無限 コンパクト 集中力アップ (レッド)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 2300.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CD9PRQRT",
-      "item_name": "MaT store ダクトコネクター 四角 ダクトファン 換気 排気 コネクター 方型 2個セット (100mm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 6540.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0F42S1K3L",
-      "item_name": "MaT store 揚げ物用バット 料理 油きり ステンレス 天ぷら 網付き ステンレスバット (Sサイズ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 3160.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DQP2J99D",
-      "item_name": "MaT store 食卓カバー フードカバー ほこり避け 虫 メッシュ ワンタッチ 手洗い 折り畳み 60cm",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CWYWQTTR",
-      "item_name": "MaT store デスク 卓上ラック 棚 2段 おしゃれ 収納棚 ラック 卓上収納 デスク上置き棚 (ブラック×ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 4935.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D739F6R2",
-      "item_name": "MaT store ブロック 収納ボックス おもちゃ入れ ケース 仕切り 大容量 プラスチック (グリーン)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 14088.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0C9P8D31H",
-      "item_name": "MaT store 車用 小物入れ カー用品 車内収納グッズ 簡単取付 車用収納ポケット (2個セット)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 26459.0,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0DVZ7JGVZ",
-      "item_name": "MaT store ノート A5 ノートブック 手帳 ビジネスノート 仕事活用 ゴムバンド付 (オレンジ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 7992.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0DSGT7ZDY",
-      "item_name": "MaT store トラックボール ストレス解消 手遊び 大人 子ども ひまつぶし ストレス発散 入院 イライラ (ブルー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 5720.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0CWZ7FXVC",
-      "item_name": "MaT store ルースケース メダルケース アクセサリー 透明フィルム 10個セット 台座付き (ホワイト)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1480.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CD9J6SFN",
-      "item_name": "MaT store 草刈り機 両手ハンドル 部品 草刈機 交換 修理 汎用 パーツ ジョイント付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 6600.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DYTW3G1S",
-      "item_name": "MaT store レゴ 収納 レゴケース 収納ボックス おもちゃ箱 折りたたみ式 収納ケース おもちゃ収納 (グレー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FQ31JSPL",
-      "item_name": "[MaT store] 使い捨てエプロン 不織布 紙エプロン 使い捨て 大人 腰ひも付 厚手 撥水加工 (ブラック, 100枚セット)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 12790.0,
-      "t30d_units": 5.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B09CPLQ3CV",
+      "item_name": "[ハフ] シャツ メンズ 半袖 トップス ロゴシャツ TS00509 ホワイト XL [並行輸入品]",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 2980.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0BGLLCY64",
-      "item_name": "MaT store 帽子スタンド ウィッグスタンド アイアン 卓上 帽子 かつら 店舗 撮影 ブラウン",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 3455.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D1VGKCT5",
-      "item_name": "MaT store 集塵ホース ダクト 掃除機 蛇腹ホース ジャバラ 内径32mm 外径39mm (1.5m)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 5190.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DWW9WHKB",
-      "item_name": "MaT store メガネケース サングラス メガネ 収納ボックス 収納 メガネディスプレイ サングラス収納ケース (ホワイト)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CGRC9PN4",
-      "item_name": "[MaT store] スリッパ ふわふわ 室内 使い捨てスリッパ 店舗 来客用 業務用 ホテル 5足 (ブラウン)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 57039.0,
-      "t30d_units": 30.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0DLKRZRWL",
+      "item_name": "[ミステリーランチ] Rip Ruck 32 リップラック32 113077 バックパック リュック リュックサック バッグ レディース メンズ ブラック 112457 アウトドア ミリタリー プレゼント ギフト (Black(S/M)) [並行輸入品]",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0D72GQ7GR",
-      "item_name": "MaT store ブロック 収納ボックス おもちゃ入れ ケース 仕切り 大容量 プラスチック (イエロー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 11370.0,
-      "t30d_units": 4.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0BT6N1ZY8",
+      "item_name": "[テクラ]ハンドタオル TERRY TOWELS SOLID 50×80 (SIENNA(ベージュ)) [並行輸入品]",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DW2W2YDW",
-      "item_name": "MaT store インフィニティキューブ おもしろグッズ ストレス解消 無限 コンパクト 集中力アップ (ブルー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CRTLM65L",
-      "item_name": "MaT store 収納ボックス 収納ケース プラスチック 仕切り 多機能 文房具 小物 おもちゃ 収納 (ピンク)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FFGSBXWG",
-      "item_name": "MaT store キャンバスボード ミニ 正方形 6枚セット 油絵 画材 キャンバスペーパー ファーストアート (25×25cm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 13445.33,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0CWYTZ95J",
-      "item_name": "MaT store カードスタンド ポップスタンド プライスカード立て 名刺サイズ (40個)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 54052.66,
-      "t30d_units": 25.0
-    },
-    {
-      "asin": "B0CRY62YWT",
-      "item_name": "MaT store テーブルゲーム リングトスゲーム 輪投げ パーティーゲーム 卓上 対戦ゲーム ファミリー 木製",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1880.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CWZ85FQ6",
-      "item_name": "MaT store 香水アトマイザー ガラス 詰め替え アトマイザー 香水瓶 携帯用 ブラック 8個セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 8898.66,
-      "t30d_units": 9.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0B2QJGLKC",
+      "item_name": "[ナイキ] メンズ スポーツウェア クラブ Tシャツ［AR4999］Lサイズ 013 ブラック",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 169142.66,
+      "t30d_units": 80.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CWYXT3GD",
-      "item_name": "MaT store ワインバッグ ボトルバッグ 紙袋 無地 ギフト ワイン用 クラフト 20枚セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B01N6E3IGR",
+      "item_name": "Tシャツ 半袖 丸首 綿100% 丸胴仕様 タグレス仕様 ビーフィポケットTシャツ ビーフィー H5190-090-L",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 92047.4,
+      "t30d_units": 52.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CQ9GX223",
-      "item_name": "MaT store カチューシャ 動物 アニマル ヘアバンド 耳 仮装 コスプレ コスチューム 6個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 35640.35,
-      "t30d_units": 22.0
-    },
-    {
-      "asin": "B0CWYXSJRR",
-      "item_name": "[MaT store] 手提げ袋 不織布 エコバッグ ギフトバッグ 無地 厚手 ブラック 縦型 24枚セット",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 20626.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0F437PDDQ",
-      "item_name": "MaT store ザル ステンレス 湯切り てぼ 湯切りザル 麺 ラーメン うどん そば ざる 水切り",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 14232.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0FT142C8D",
-      "item_name": "MaT store スポンジ置き スポンジホルダー キッチン用品 スポンジラック 台所 収納 シンク ステンレス製 (ふきん掛け付き)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DVZ94ZZ8",
-      "item_name": "MaT store ねぎ クッション おもしろグッズ リアル コスプレ ぬいぐるみ 可愛い 2個セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 7314.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0FGHBQLFN",
-      "item_name": "MaT store 車 テーブル ハンドル カー用品 車内 アクセサリー 車中泊 机 トレイ 車用トレイ 車載テーブル ホルダー (マットブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1680.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CRV2K2D2",
-      "item_name": "MaT store 車 ルームミラー バックミラー 見やすい 大きめ 曲面鏡 ブルーミラー 300mm",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DWWDPJQF",
-      "item_name": "MaT store メダルケース メダルスタンド ホルダー 写真 立てかけ 壁掛 展示 部室 学校 ディスプレイ 木製 (ブラウン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 3816.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D93CYVSQ",
-      "item_name": "MaT store 筆洗 バケツ 絵の具 筆 洗う ペイントブラシ パレット 美術 油絵具 コンパクト (ピンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 10619.9,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0FFGV8QBH",
-      "item_name": "MaT store キャンバスボード ミニ 正方形 6枚セット 油絵 画材 キャンバスペーパー ファーストアート (30×30cm)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 25448.0,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0DW2WLBG1",
-      "item_name": "MaT store 紙ナプキン スタンド レトロ おしゃれ カフェ 食堂 つまようじ立て メモスタンド 卓上 (ダークブラウン)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 52429.66,
-      "t30d_units": 27.0
-    },
-    {
-      "asin": "B0FFGVVNDX",
-      "item_name": "MaT store キャンバスボード 6枚セット キャンバスアート 抜きキャンバス ミニ 長方形 画材 絵画 水彩画 油絵 (15×20cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 4797.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0D1G8Y84S",
-      "item_name": "MaT store トレーニングチューブ 野球 ソフトボール チューブ ストレッチ 体幹チューブ (100cm×11mm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 10700.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0D1GJWNBD",
-      "item_name": "MaT store 目覚まし時計 大音量 アナログ とけい シンプル 置き時計 電池式 (ブルー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DYVCCF3H",
-      "item_name": "MaT store 収納ラック 2段 卓上 棚 おしゃれ 小物収納 インテリア 飾り棚 ディスプレイ 化粧品 (ブラック/ブラック)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 5360.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F4QNB42J",
-      "item_name": "MaT store ペン立て ペンスタンド おしゃれ アクリル 透明ペンスタンド 小物入れ 2個セット (丸型)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 16318.66,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0CGR92FWX",
-      "item_name": "[MaT store] スリッパ ふわふわ 室内 使い捨てスリッパ 店舗 来客用 業務用 ホテル 5足 (グレー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 9120.33,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0CGYF4FYF",
-      "item_name": "MaT store 防犯カメラ 取付金具 ブラケット ポール 防犯 カメラ 屋外 金具 取り付け 設置 (1個)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 8594.33,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0B8VCKSDM",
-      "item_name": "MaT store キッチンツールスタンド 収納 キッチン用品 水切り 箸立て ホワイト×ブラック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D71Y95SH",
-      "item_name": "MaT store すのこ うさぎ モルモット 小動物 マット ケージ チンチラ プラスチック 4枚セット (ホワイト)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 27970.87,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0FGHNDHKB",
-      "item_name": "MaT store ウィッグスタンド マネキンヘッド マネキン スタンドクランプ 美容師 クランプ ウィッグ (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 14240.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0C2BBNPGJ",
-      "item_name": "MaT store ケーブル収納ボックス ケーブル収納 木製 ケース ケーブルケース 配線 スリム (ホワイト)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 14114.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0DB4JWJVM",
-      "item_name": "MaT store マネキンヘッド 発泡スチロール 頭部 かつら 帽子 ウィッグ ディスプレイ 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 75565.7,
-      "t30d_units": 41.0
-    },
-    {
-      "asin": "B0CWZ9SPHX",
-      "item_name": "MaT store ペーパーヨーヨー おもちゃ イベント 子ども ゲーム 縁日 祭り 大容量 100個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 10623.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0CDBRPWCN",
-      "item_name": "MaT store 的当て ボール 室内 ダーツ ボール 両面用 公園 遊び おもちゃ 2個セット (レッド)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DYV2JFT1",
-      "item_name": "MaT store ゴミ箱 卓上 スマホスタンド付き コンパクト 蓋なしゴミ箱 おしゃれ ダストボックス (ホワイト)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 999.8,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CYCHN2BX",
-      "item_name": "[MaT store] スリッパ セット 室内 来客用 ルームシューズ 柔らかい 滑り止め 2足セット (29.0 cm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DZJ8FNBS",
-      "item_name": "MaT store インテリア雑貨 小物トレー ジュエリートレイ 韓国雑貨 おしゃれ 収納トレイ 韓国インテリア (ウッド)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 3360.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DQP4NWR1",
-      "item_name": "MaT store レシピスタンド 木製 ブックスタンド 組み立てカンタン 卓上 料理 仕事 勉強 読書",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": -499.2,
-      "t30d_units": -1.0
-    },
-    {
-      "asin": "B0F434F2L2",
-      "item_name": "MaT store アルミ鍋 使い捨て アルミ皿 キャンプ 鍋 鍋焼きうどん アルミ ラーメン鍋 (50)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 31680.66,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0CJZM6M77",
-      "item_name": "MaT store 救急箱 大容量 薬箱 おしゃれ ケース 無地 収納ボックス 多機能 小物入れ 家庭用 (ブルー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 14449.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0CWYPV3F5",
-      "item_name": "MaT store コンロカバー ガスコンロ キッチン 作業台 ガス IH ステンレス ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 54918.58,
-      "t30d_units": 24.0
-    },
-    {
-      "asin": "B0CYC3GC52",
-      "item_name": "MaT store 指輪ケース ペアリングケース リング 指輪 収納 おしゃれ ペアリング アクセサリー 木製 (ホワイト)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1350.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B09YQFWG61",
-      "item_name": "MaT store 縄なし縄跳び ダイエット エア縄跳び なわとび トレーニング 室内 有酸素運動 (ピンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 7500.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0CZLL5VJB",
-      "item_name": "[MaT store] エコバッグ 大容量 トートバッグ ショッピングバッグ 巾着 コンパクト 軽量 (グリーン)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F42XH7LY",
-      "item_name": "[MaT store] 靴底 補修 靴底修理 アウトソール ビブラムシート 靴 修理 滑り止め ゴム 2個セット (ブラウン)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0D8HRY3Y9",
-      "item_name": "MaT store フォームローラー ストレッチ ヨガ トレーニング 背中 30cm (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 20168.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0DVZFVMD8",
-      "item_name": "MaT store ドリンクキャリア 折りたたみ式 ホルダー アウトドア キャンプ 室内外 便利な6本収納 (レッド)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 9660.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0DYV5KV4W",
-      "item_name": "MaT store トランプ ビッグ マジック 手品 トランプカード 手品グッズ マジック用 大きい",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 1487.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DZJ2LNFH",
-      "item_name": "MaT store ネックレススタンド 木製 ジュエリー ディスプレイ スタンド 展示ラック 小物収納 (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 3760.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FFGRZ6FH",
-      "item_name": "MaT store キャンバスボード ミニ 正方形 6枚セット 油絵 画材 キャンバスペーパー ファーストアート (10×10cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 7724.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0CWYS4KTT",
-      "item_name": "MaT store アイマスク 睡眠用 アイカバー 使い捨て 通気性 安眠 快適 旅行 100個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 9648.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0CK1BHL76",
-      "item_name": "MaT store アルバム 手作り 記念日 思い出 フォトアルバム デコレーション 写真 ミニ キット 木製 (足跡)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DW2NTHPV",
-      "item_name": "MaT store インフィニティキューブ おもしろグッズ ストレス解消 無限 コンパクト 集中力アップ (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 6119.33,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0FSKN15HW",
-      "item_name": "MaT store 反射テープ 反射 シール 反射板 コンクリートに貼れるテープ 25m 幅5cm (レッド/ホワイト)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 7120.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0BDTX773N",
-      "item_name": "MaT store マネキンヘッド キャンバス モデル 展示 ディスプレイ サロン マチ針 53cm",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 18238.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0DCN54N8R",
-      "item_name": "MaT store タブレットホルダー 車 スマホ 吹き出し口 車載 取付簡単 伸縮 落下防止",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 1420.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F37D4JDR",
-      "item_name": "MaT store センターポンチ オートポンチ 穴あけポンチ オート ポンチ 自動ポンチ 2個セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FKBLPVVD",
-      "item_name": "MaT store フィギュアケース コレクションケース 【マグネット開閉式】 棚 透明 クリア ショーケース ディスプレイ 展示 積み重ね可能 (2個セット)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 37833.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0F1S71H2D",
-      "item_name": "MaT store 木箱 小物入れ 蓋付き 箱 木製ボックス 木の箱 収納 木目 レトロ インテリア (ホワイト)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 1279.75,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0B8VBJVWX",
-      "item_name": "MaT store キッチンツールスタンド 収納 キッチン用品 水切り 箸立て ホワイト×グレー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 20241.26,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0DWVRYQ32",
-      "item_name": "MaT store 指スケ 指スケボー フィンガースケートボード 指すけ スケボー ミニスケボー 子供 (デザインA)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 5320.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0C9Q1NQSY",
-      "item_name": "MaT store 香水アトマイザー ガラス 詰め替え アトマイザー 香水瓶 携帯用 クリア 4個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 17525.44,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0FKBH75ST",
-      "item_name": "MaT store フィギュアケース コレクションケース 【マグネット開閉式】 棚 透明 クリア ショーケース ディスプレイ 展示 積み重ね可能 (1個)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 6289.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DVLDXXLS",
-      "item_name": "MaT store カードスタンド ポップスタンド プライスカード立て 名刺サイズ (5個セット)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FQ2Z4WD9",
-      "item_name": "[MaT store] 使い捨てエプロン 不織布 紙エプロン 使い捨て 大人 腰ひも付 厚手 撥水加工 (ホワイト, 50枚セット)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 11819.33,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0D1VG1Q7R",
-      "item_name": "MaT store OPP袋 テープ付き ラッピング 包装 梱包 透明 ビニール 100枚セット (40cm×50cm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 15460.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0FGH71KXZ",
-      "item_name": "MaT store 車 テーブル ハンドル カー用品 車内 アクセサリー 車中泊 机 トレイ 車用トレイ 車載テーブル ホルダー (ウッドブラウン)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 5340.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0D8HLVX1M",
-      "item_name": "MaT store 地球儀 おしゃれ インテリア アンティーク 世界地図 地理 オブジェ 模型 (シルバー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 28972.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0DVZCTZ3X",
-      "item_name": "MaT store トイレットペーパー ストッカー 吊り下げ ホルダー 有効活用 浮かせるインテリア (カーキ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 998.37,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CQ9GZMBJ",
-      "item_name": "MaT store ピローボックス 透明 ギフトボックス プレゼント 枕型 包装 ラッピング 50個セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 21109.0,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0DYTV5GLG",
-      "item_name": "MaT store 収納ラック 2段 卓上 棚 おしゃれ 小物収納 インテリア 飾り棚 ディスプレイ 化粧品 (ゴールド/ホワイト)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 20860.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0CYC4P8GS",
-      "item_name": "MaT store スマホスタンド ブルドック 卓上 テーブル 小物置き 雑貨 おもしろ ギフト スタンド (足スタンド)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 66819.08,
-      "t30d_units": 44.0
-    },
-    {
-      "asin": "B0DVYQ48VP",
-      "item_name": "MaT store ノート A5 ノートブック 手帳 ビジネスノート 仕事活用 ゴムバンド付 (ピンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 13976.8,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0DVZDQ3VW",
-      "item_name": "MaT store ドリンクキャリア 折りたたみ式 ホルダー アウトドア キャンプ 室内外 便利な6本収納 (グリーン)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 8698.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0DVZG5DCP",
-      "item_name": "MaT store ドリンクキャリア 折りたたみ式 ホルダー アウトドア キャンプ 室内外 便利な6本収納 (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 5920.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0B8WNM2VB",
-      "item_name": "MaT store ドライヤーホルダー スタンド ドライヤー置き 壁掛け 浴室 洗面所 ホワイト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 10830.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0DZHZW325",
-      "item_name": "MaT store ネックレススタンド 木製 ジュエリー ディスプレイ スタンド 展示ラック 小物収納 (ホワイト)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 11859.8,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0CWXX612W",
-      "item_name": "MaT store 車 収納 ラゲッジルームバッグ リアシート トランク 車内 大容量 カー用品 便利グッズ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 36250.0,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B0F1CJQP33",
-      "item_name": "MaT store ケーブルボックス 【ケーブルがまとまる】 電源タップ 配線隠し コンセント コード 収納 ボックススリム おしゃれ スマホ置き (ホワイト)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0D1G5TXS5",
-      "item_name": "MaT store トレーニングチューブ 野球 ソフトボール チューブ ストレッチ 体幹チューブ (100cm×9mm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 17078.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0DKHL398W",
-      "item_name": "MaT store 紙コップホルダー スタンド 紙コップ収納 シンプル 重ね収納 カフェ オフィス 自宅 2列",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 22300.2,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0F1CJQMKF",
-      "item_name": "MaT store ケーブルボックス 【ケーブルがまとまる】 電源タップ 配線隠し コンセント コード 収納 ボックススリム おしゃれ スマホ置き (グリーン)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 9940.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0DW2LG7Y2",
-      "item_name": "MaT store インフィニティキューブ おもしろグッズ ストレス解消 無限 コンパクト 集中力アップ (ゴールド)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DVYZGDFP",
-      "item_name": "MaT store ノート A5 ノートブック 手帳 ビジネスノート 仕事活用 ゴムバンド付 (ブルー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 15619.0,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0CWZ9GZC1",
-      "item_name": "MaT store 香水アトマイザー ガラス 詰め替え アトマイザー 香水瓶 携帯用 クリア 8個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 71301.0,
-      "t30d_units": 33.0
-    },
-    {
-      "asin": "B0CRTNX6WN",
-      "item_name": "MaT store 収納ボックス プラスチック 収納ケース 小物入れ 収納バスケット ホワイト 3個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 47811.2,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B0DW3898BL",
-      "item_name": "MaT store インフィニティキューブ おもしろグッズ ストレス解消 無限 コンパクト 集中力アップ (シルバー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 2860.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B09YQC3MWJ",
-      "item_name": "MaT store 自転車荷台クッション バックシート ソフトクッション 荷台 リアキャリア 防水",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 25668.0,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0CGY5FS68",
-      "item_name": "MaT store ゴム鉄砲 木製 連射 射的 おもちゃ 子ども 的当て 玩具 縁日 お祭り 輪ゴム付き (6個セット)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 5350.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0CWYXPS1H",
-      "item_name": "MaT store デスク 卓上ラック 棚 2段 おしゃれ 収納棚 ラック 卓上収納 デスク上置き棚 (ホワイト×ホワイト)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 68375.4,
-      "t30d_units": 28.0
-    },
-    {
-      "asin": "B0D733CCFR",
-      "item_name": "MaT store ブロック 収納ボックス おもちゃ入れ ケース 仕切り 大容量 プラスチック (レッド)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 20236.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0DKHS1BCL",
-      "item_name": "MaT store 水晶 クリスタル 幸運 浄化 ドラゴン 置物 縁起 玄関 運気向上 エネルギー 透明",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 9072.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0CWYH5G4X",
-      "item_name": "MaT store ワインバッグ ボトルバッグ 紙袋 無地 ギフト ワイン用 レッド 20枚セット",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 42340.0,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0DZHZP421",
-      "item_name": "MaT store ネックレススタンド 木製 ジュエリー ディスプレイ スタンド 展示ラック 小物収納 (ベージュ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": -1380.0,
-      "t30d_units": -1.0
-    },
-    {
-      "asin": "B0CYC8Q77H",
-      "item_name": "MaT store コンソールボックス 汎用 車用 小物入れ アームレスト コンソール 肘置き 伸縮式 (ホワイト)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 5900.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F7491TPB",
-      "item_name": "MaT store 油汚れ クロス キッチンクロス 魔法クロス ふきん 食器拭き リバーシブル竹炭 (厚いタイプ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F743C27G",
-      "item_name": "MaT store ミートプレス ハンバーガープレス パティ 肉押さえ ベーコンプレス ステンレス 肉プレス (角タイプ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 15203.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0C2C41357",
-      "item_name": "MaT store ケンケンパリング ケンケンパ リング トレーニング 子供 練習 リング 10本 (28cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 18280.44,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0D8HVG1JT",
-      "item_name": "MaT store ラップホルダー ラップスタンド キッチン用品 収納 壁掛け 冷蔵庫 穴あけ不要 2点セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 13440.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0F36KSWLM",
-      "item_name": "MaT store ゴムハンマー ショックレスハンマー ハンマー 大型 衝撃吸収 滑り止め DIY ゴムマレット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CGZ11KF4",
-      "item_name": "MaT store ハンドベル 呼び鈴 おもちゃ 福引 抽選 くじ引き セット 卓上ベル ミニ 2個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 11989.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0DTKNNS9W",
-      "item_name": "MaT store 茶封筒 A4 封筒 a4封筒 書類収納 大容量 クラフト紙 紐付き封筒 (20枚セット)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FFGVT46W",
-      "item_name": "MaT store キャンバスボード 6枚セット キャンバスアート 抜きキャンバス ミニ 長方形 画材 絵画 水彩画 油絵 (30×40cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 4479.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F37MB8KZ",
-      "item_name": "MaT store ケーブル ボックス コンセント隠し 延長コードケース コンセントボックス ケーブル管理ボックス (ホワイト)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0D72YYC6B",
-      "item_name": "MaT store フィギュアケース コレクションケース 陳列ケース 収納ケース 展示 鑑賞 配置自由 (ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0B8WPFB9D",
-      "item_name": "MaT store ドライヤーホルダー スタンド ドライヤー置き 壁掛け 浴室 洗面所 ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 6992.71,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0CRTDBHCM",
-      "item_name": "MaT store マラカス エッグシェイカー 楽器 パーカッション たまご型 打楽器 5色 40個セット",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 111721.25,
-      "t30d_units": 56.0
-    },
-    {
-      "asin": "B0CNNDBCWJ",
-      "item_name": "MaT store 収納ケース 小物入れ アクリル製 アクセサリー 化粧品 ケース 収納 透明 卓上 3段",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 22806.66,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0D7251RJ6",
-      "item_name": "MaT store スプレーノズル スプレーヘッド 交換用 ノズル 霧吹き ストレート 10個セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09YPSJTT8",
-      "item_name": "MaT store 時計 ムーブメント 壁掛け 掛け時計 パーツ 部品 手作り 時計シャフト キット (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 56131.0,
-      "t30d_units": 28.0
-    },
-    {
-      "asin": "B0CDC64MZG",
-      "item_name": "MaT store 万力 小型 固定用工具 ミニ バイス クランプ アクセサリー 卓上 精密 工具 修理",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 7072.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0DCNM5KZ7",
-      "item_name": "MaT store 仕掛け巻 釣り スプール 糸巻き 釣り針 釣りライン 仕掛け巻 12個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 4440.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0C2BD8628",
-      "item_name": "MaT store ケーブル収納ボックス ケーブル収納 木製 ケース ケーブルケース 配線 スリム (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 10930.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0FFGT3QS8",
-      "item_name": "MaT store キャンバスボード 6枚セット キャンバスアート 抜きキャンバス ミニ 長方形 画材 絵画 水彩画 油絵 (25×30cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 2094.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C9PW127H",
-      "item_name": "MaT store メモクリップ カード スタンド 卓上メモ 名刺 写真 カード立て 10個セット (ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 22259.565,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0D72DL1Y3",
-      "item_name": "MaT store すのこ うさぎ モルモット 小動物 マット ケージ チンチラ プラスチック 4枚セット (グレー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 1620.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F376B34B",
-      "item_name": "MaT store ペン立て 文房具 収納 デスクオーガナイザー 卓上収納 文房具収納 リモコン収納 整理整頓 (ブルー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DVLMXTWV",
-      "item_name": "MaT store カードスタンド ポップスタンド プライスカード立て 名刺サイズ (6個セット)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F37RPXGS",
-      "item_name": "MaT store キャスター ストッパー キャスター止め キャスターストッパー 固定ストッパー 家具固定 (4個セット)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 2746.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F1CJ44HD",
-      "item_name": "MaT store ケーブルボックス 【ケーブルがまとまる】 電源タップ 配線隠し コンセント コード 収納 ボックススリム おしゃれ スマホ置き (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 4560.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0C2C1PRPP",
-      "item_name": "MaT store カードスタンド ポップスタンド プライスカード立て 名刺サイズ (20個)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 80129.45,
-      "t30d_units": 48.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8360261245,
+      "merchant_name": "雑貨倉庫TOKIA",
+      "asin": "B0FWX7YT4X",
+      "item_name": "[ナイキ] NSW HE WR スポーツウェア ウィンドランナー ブレーカー フルジップアップ ジャケット ジム スポーツウェア フィットネス トレーニング DA0002-010 ブラック/ホワイト 春 秋 冬 国内正規品 メンズ Mサイズ",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 19976.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

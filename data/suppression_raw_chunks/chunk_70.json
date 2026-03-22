@@ -1,22 +1,38 @@
 {
   "525161794": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 525161794,
+      "merchant_name": "TA-Creative",
       "asin": "B0F1XJWYXG",
       "item_name": "車用 ドアガード ドアパン防止 エッジガード 【一級自動車整備士推奨】 貼るだけ 簡単 ブラック 黒色 剥がれない 柔らかい 防水 洗車機対応 ステッカー シール",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 78392.91,
-      "t30d_units": 52.0
+      "t30d_units": 52.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 525161794,
+      "merchant_name": "TA-Creative",
       "asin": "B0GGWK45XJ",
       "item_name": "ドアガード ドアパンチ防止 車ドア用 傷防止 透明 PU素材 クッション 貼るだけ",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
       "t30d_ops": 220196.86,
-      "t30d_units": 118.0
+      "t30d_units": 118.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

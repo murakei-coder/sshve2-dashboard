@@ -1,13 +1,72 @@
 {
-  "1076465665302": [
+  "1076476793702": [
     {
-      "asin": "B0FYC1ZHND",
-      "item_name": "コンデンサーマイク PC用マイク パソコンマイク microphone 全指向性 高感度 35mm大口径 録音 外部スピーカー出力 高密度メッシュ搭載 ノイズ抑制 軽量型 コンパクト 3.5mm端子 テレワーク 会議用 配信用 ゲーム実況 カラオケ対応 耐震支架 金属スタンド 2m接続コード 日本語取扱説明書",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 610696.57,
-      "t30d_units": 157.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1076476793702,
+      "merchant_name": "Pet&me オンラインショップ",
+      "asin": "B0FSCRP59W",
+      "item_name": "ペットアンドミー Pet&me システムトイレ用 猫用トイレシート 厚型タイプ 1週間におわない脱臭シート クエン酸入 43×29cm 30枚入り",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 770071.93,
+      "t30d_units": 510.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1076476793702,
+      "merchant_name": "Pet&me オンラインショップ",
+      "asin": "B0FNR477MG",
+      "item_name": "ペットアンドミー Pet&me ペット用 うんち袋 犬 猫用 防臭タイプ うんちが臭わない袋 水溶性紙でトイレに流せる 片手でキャッチ 清潔便利 お散歩マナー袋 60枚入り",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 156350.49,
+      "t30d_units": 229.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1076476793702,
+      "merchant_name": "Pet&me オンラインショップ",
+      "asin": "B0FT73KSBJ",
+      "item_name": "ペットアンドミー Pet&me 消臭・快適 紙製猫砂 25L 大容量 お得 再生パルプ使用 お掃除らくらく",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 222185.12,
+      "t30d_units": 96.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1076476793702,
+      "merchant_name": "Pet&me オンラインショップ",
+      "asin": "B0FSCVG25F",
+      "item_name": "ペットアンドミー Pet&me システムトイレ用 猫用トイレシート 薄型タイプ クエン酸効果 匂わず快適 43×29cm 48枚入り",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 189150.83,
+      "t30d_units": 125.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

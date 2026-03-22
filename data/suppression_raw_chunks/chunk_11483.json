@@ -1,13 +1,38 @@
 {
-  "666854860602": [
+  "666855284102": [
     {
-      "asin": "B0FNWTSB4R",
-      "item_name": "Speediance ホームジム Gym Monster 2 All-in-One オールインワン スマートホームジム インテリジェントフィットネストレーナー 筋力トレーニングマシン 多機能スミスマシン フルボディトレーニングマシン 自宅でワークアウト (Family Plus All-in-One Combo)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 580980.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 666855284102,
+      "merchant_name": "mintree",
+      "asin": "B0CJ2FZHQL",
+      "item_name": "【公式】Mintree スカルプ スケーラー 15g×5個入｜炭酸スカルプケア・頭皮クレンジング・角質除去・爽快メントール・韓国コスメ",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 666855284102,
+      "merchant_name": "mintree",
+      "asin": "B0D2Z9T5QY",
+      "item_name": "【公式】Mintree ボリュームウェーブ カールクリーム 150ml｜ふんわり弾むカール・ヘアボリューム改善・べたつかない軽い仕上がり・シリコンフリー・韓国コスメ",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 6897.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

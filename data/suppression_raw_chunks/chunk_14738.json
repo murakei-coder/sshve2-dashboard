@@ -1,13 +1,21 @@
 {
-  "1032240315702": [
+  "1032677220502": [
     {
-      "asin": "B0FHB25FQ7",
-      "item_name": "スマホホルダー 車【360°回転ベース&ドーナツ型熱放散】車載スマホホルダー カー用品 携帯ホルダー 安定性アップ 視線妨害なし 片手操作 1秒で着脱 車用品 携帯スタンド 縦横置き 車用 取付け簡単 iPhone/Android4-7インチ多機種と多車種が対応",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 3198.0,
-      "t30d_units": 2.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1032677220502,
+      "merchant_name": "Callsky-AI",
+      "asin": "B0F8Q4G42G",
+      "item_name": "【Android 15 タブレット 14インチ】T616 8コアCPU、16GB+256GB+2TB拡張、4G LTE、1920×1200 IPS、10000mAh+18W PD急速充電、アンドロイド タブレット 大画面 Wi-Fi、Widevine L1/GMS認証、分割画面/FM/GPS、重力・光センサー、専用ケース & スタイラス",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 1480459.33,
+      "t30d_units": 45.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

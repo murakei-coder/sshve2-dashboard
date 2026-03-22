@@ -1,13 +1,21 @@
 {
   "5160382222": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 5160382222,
+      "merchant_name": "Duter",
       "asin": "B0FJVG7VJR",
       "item_name": "【100℃蒸気噴射×19000Pa吸引力】 スチーム式カーペットクリーナー 加熱式 カーペット洗浄機 布洗浄機 染み抜き ソファクリーナー 絨毯クリーナー 水洗い 車用掃除 バキュームクリーナー 乾湿両用 マットレス/布製品/ペットシート/車内/ラグ/ソファ/ぬいぐるみ/掃除用品 (黑色)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 30880.0,
-      "t30d_units": 1.0
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

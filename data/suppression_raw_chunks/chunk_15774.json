@@ -1,121 +1,21 @@
 {
-  "1109055059402": [
+  "1109066554602": [
     {
-      "asin": "B0G5P49P98",
-      "item_name": "Ranva カーペット滑り止めシート 12枚セット 洗濯可能 床傷防止 ラグ すべり止め 滑り止めマット アンダーラグ ラグネット 玄関マット キッチンマット 強力粘着 白色 15×5cm",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 18111.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0FXX3ZTW1",
-      "item_name": "Ranva バット ステンレス 料理 浅型 厚手 丈夫 業務用 22.8cm×14.8cm 揚げ物 ステンレス容器 角型 トレー 下ごしらえ浅型バット 食洗機対応 小分け アウトドア セット 4枚入",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 26531.31,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0FNBVJNP5",
-      "item_name": "Ranva 歯磨きコップ マグネット コップ 洗面所 洗面台 戸棚下 抗菌 カビ防止 超軽量 プラスチック製 磁気 割れない 洗面用品 浴室 家族用 水切り 逆に置き 男女兼用 W7.2×H10cm タワー 浮かせる収納 コップホルダー (ホワイト)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 33001.67,
-      "t30d_units": 44.0
-    },
-    {
-      "asin": "B0FKT7KNQ8",
-      "item_name": "[Ranva] 散髪ケープ 静電気防止 防水 ヘアーエプロン 子供大人兼用 カッティングクロス 無袖タイプ 調節可能 髪にくっつかない 美容エプロン ヘアカットケープ 散髪用ケープ 白い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 158860.39,
-      "t30d_units": 158.0
-    },
-    {
-      "asin": "B0FXDGJ6YJ",
-      "item_name": "Ranva 六角箸 約23.5cm 食洗機対応 耐熱 業務用 家庭用 滑りにくい 高品質 PET樹脂 ガラスファイバー 強化耐久性 黒",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 399507.97,
-      "t30d_units": 535.0
-    },
-    {
-      "asin": "B0G5PR7V4H",
-      "item_name": "Ranva カーペット滑り止めシート 16枚セット 洗濯可能 床傷防止 ラグ すべり止め 滑り止めマット アンダーラグ ラグネット 玄関マット キッチンマット 強力粘着 白色 15×5cm",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 23396.41,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0G42YGWSG",
-      "item_name": "Ranva 浴室鏡 風呂鏡 マグネット 曇り止め 壁に貼る 軽量 貼る鏡 割れない鏡 ミラー 角丸加工 強磁吸着 賃貸に適用 地震対策 簡単掃除 簡単設置 (30×21cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 135386.99,
-      "t30d_units": 50.0
-    },
-    {
-      "asin": "B0GC4QCGZ5",
-      "item_name": "Ranva ゆでたまごメーカー 電子レンジ用 ゆで卵メーカー 最大 4 個対応 半熟 固ゆで 簡単操作 安全 かわいいにわとり柄",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 277426.39,
-      "t30d_units": 193.0
-    },
-    {
-      "asin": "B0G8H7MMNZ",
-      "item_name": "Ranva 浴室鏡 風呂鏡 マグネット 曇り止め 壁に貼る 軽量 貼る鏡 割れない鏡 ミラー 角丸加工 強磁吸着 賃貸に適用 地震対策 簡単掃除 簡単設置 (2, 30×21cm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 72332.61,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0FXX3LJ77",
-      "item_name": "Ranva バット ステンレス 料理 浅型 厚手 丈夫 業務用 22.8cm×14.8cm 揚げ物 ステンレス容器 角型 トレー 下ごしらえ浅型バット 食洗機対応 小分け アウトドア セット 2枚入 (2)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 65113.36,
-      "t30d_units": 74.0
-    },
-    {
-      "asin": "B0FKSWF5GB",
-      "item_name": "[Ranva] 散髪ケープ 静電気防止 ヘアカットケープ 袖付き 散髪用ヶ-プ 大人用 子供用 毛染め対応 調節可能 カットクロス 美容室 散髪マント 白 ポンギー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 223024.72,
-      "t30d_units": 171.0
-    },
-    {
-      "asin": "B0FKT44WRP",
-      "item_name": "Ranva 知育玩具 犬 おもちゃ 2in1 自動給餌器 【蓋3個付き】 早食い防止 一人遊び ストレス軽減 留守番 おやつ インタラクティブ お手入れ簡単 ABS素材 猫にも対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 632973.34,
-      "t30d_units": 653.0
-    },
-    {
-      "asin": "B0FXDH15NT",
-      "item_name": "Ranva 六角箸 約23.5cm 食洗機対応 耐熱 業務用 家庭用 滑りにくい 高品質 PET樹脂 ガラスファイバー 強化耐久性 黒",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 114246.89,
-      "t30d_units": 101.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1109066554602,
+      "merchant_name": "イロドリプラス",
+      "asin": "B0FMFY9S39",
+      "item_name": "風呂釜洗浄剤 お風呂 洗浄 プロ仕様 追い焚き 配管 一つ穴用 業務用クラス 掃除 カビンヌ ドバピカ",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 690118.79,
+      "t30d_units": 276.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

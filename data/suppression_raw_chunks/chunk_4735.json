@@ -1,508 +1,157 @@
 {
-  "11048631022": [
+  "11055384022": [
     {
-      "asin": "B0DW3QS6TN",
-      "item_name": "キャラクター ランチ巾着 ランチバッグ 巾着袋 お弁当袋 日本製 DIJ-901 HAHAHA",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 11055384022,
+      "merchant_name": "ヒカリカストア",
+      "asin": "B0CSJZ295M",
+      "item_name": "タッチライト マグネットライト センサー ルームランプ LED 車 車内 増設 車内灯 充電式 マグネット ルームライト トランク",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 11999.8,
+      "t30d_units": 16.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0C3H1S4NQ",
-      "item_name": "[オパビニア] モズ moz 多機能 フラット ポーチ ガジェットポーチ ガジェットケース ペンケース 筆箱 小物入れ アイボリー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 4900.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0GL7JDLKB",
-      "item_name": "キャラクター スヌーピー ポーチ スクエアポーチ ティッシュケース コスメポーチ 小物入れ レトロ チェック ティッシュポーチ マチあり 小さめ ミニ ES467C ブルー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CF1F69JR",
-      "item_name": "シャボン SYABON ポーチ 小物入れ 化粧ポーチ トラベルポーチ 大容量 2段 ORNAMENT オーナメント",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 1650.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0D93C2FHZ",
-      "item_name": "キャラクター フラットポーチ DC レトロ アートコレクション 1990 ペンケース ポーチ 小物入れ 筆箱 S2322390 アリス",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GFD6HNNF",
-      "item_name": "[オパビニア] リール付き 二つ折り パスケース 定期入れ キャラクター シナモン 伸びる リール 可愛い カードケース カード入れ カードホルダー 通勤 通学 レディース CNM-113 ブルー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DW8Y5MC6",
-      "item_name": "[オパビニア] スヌーピー キャラクター ミニトートトートバッグ ミニ トートバッグ カバン 124719 スヌーピー/ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 1859.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GL7VHVY9",
-      "item_name": "ペンケース 筆箱 スリム スリムペンケース スヌーピー レトロ チェック キャラクター ふでばこ ペンポーチ 文房具入れ ペン入れ ES465A イエロー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 3300.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F794ZFFJ",
-      "item_name": "[オパビニア] SYABON シャボン デイリーショルダー ショルダーバッグ 斜め掛けバッグ マチあり 軽量 洗える DOTS(9)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F1T487BH",
-      "item_name": "オパビニア スヌーピー キャラクター ミニ巾着ポーチ コスメポーチ 小物ポーチ コップ袋 給食袋 ES478A イエロー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 7540.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0DW3XR7XW",
-      "item_name": "スヌーピー キャラクター ランチ巾着 ランチバッグ 巾着袋 お弁当袋 日本製 SLK-900 BROTHERS",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 11055384022,
+      "merchant_name": "ヒカリカストア",
+      "asin": "B0D2XBGS7H",
+      "item_name": "タッチライト マグネットライト センサー ルームランプ LED 車 車内 増設 車内灯 充電式 マグネット ルームライト トランク",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 14248.99,
+      "t30d_units": 19.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F485P4L9",
-      "item_name": "スヌーピー キャラクター ランチクロス 給食ナフキン お弁当クロス 日本製 SLL-701 BE HAPPY",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 979.0,
-      "t30d_units": 1.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 11055384022,
+      "merchant_name": "ヒカリカストア",
+      "asin": "B0FRZPP62C",
+      "item_name": "タッチライト マグネット センサー ルームランプ LED 車 車内 ライト 増設 車内灯 充電式 マグネット ルームライト トランク (ブルー4個セット)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 5475.55,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CF1DDBB9",
-      "item_name": "シャボン SYABON ポーチ 小物入れ 化粧ポーチ トラベルポーチ 大容量 2段LACE BIRD レースバード",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F8NC9M3K",
-      "item_name": "[オパビニア] 電車 トレイン ショルダーバッグ 通園バッグ 斜め掛けバッグ 子供 キッズ 男の子 新幹線 乗り物 K-788 オレンジ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 3160.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GL88FSMH",
-      "item_name": "キャラクター スヌーピー ポーチ スクエアポーチ ティッシュケース コスメポーチ 小物入れ レトロ チェック ティッシュポーチ マチあり 小さめ ミニ ES467A イエロー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0F597V868",
-      "item_name": "スヌーピー キャラクター がま口ポーチ がまぐち コスメポーチ メイクポーチ 化粧ポーチ 小物ポーチ 小物入れ トラベルポーチ S1427520 スヌーピ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C3GSS6LZ",
-      "item_name": "[オパビニア] モズ moz フラット ペンケース 筆箱 ポーチ 小物入れ スリム アイボリー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C3H2GT24",
-      "item_name": "[オパビニア] モズ moz 多機能 フラット ポーチ ガジェットポーチ ガジェットケース ペンケース 筆箱 小物入れ グレー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 4400.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DTYTCPR7",
-      "item_name": "OUTDOOR アウトドア 2ルーム ペンケース 筆箱 ペンポーチ イラスト コラボ S1423916 ヒツジを数えているなか時々よぎる綿菓子",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0F5917GTS",
-      "item_name": "コジコジ キャラクター ポーチ コスメポーチ メイクポーチ 化粧ポーチ 小物ポーチ 小物入れ トラベルポーチ レピア織 S2331357 ブルー/B柄",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F8N6KS4F",
-      "item_name": "[オパビニア] 電車 トレイン ショルダーバッグ 通園バッグ 斜め掛けバッグ 子供 キッズ 男の子 新幹線 乗り物 K-788 レッド",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 3160.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FPQJ1HXR",
-      "item_name": "舟形ペンポーチ 森永のれん乳 コスメポーチ ミニポーチ 小物入れ チャーム付き持ち運び マチ 43817901 いちご",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 2160.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DW8MP5XS",
-      "item_name": "[オパビニア] スヌーピー キャラクター ミニトートトートバッグ ミニ ミニトートバッグ カバン 124720 ウッドストック/ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 3822.5,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DW3XCW2N",
-      "item_name": "キャラクター ランチ巾着 ランチバッグ 巾着袋 お弁当袋 日本製 DIJ-900 BIGHERO6",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 11055384022,
+      "merchant_name": "ヒカリカストア",
+      "asin": "B0FRZRQ4L1",
+      "item_name": "タッチライト マグネット センサー ルームランプ LED 車 車内 ライト 増設 車内灯 充電式 マグネット ルームライト トランク (ライトブルー4個セット)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 3378.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0C3H4Y4F1",
-      "item_name": "[オパビニア] モズ moz メッシュ フラット ポーチ ペンケース 筆箱 小物入れ 透明 スリム A5 ネイビー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 2800.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DW8P31S9",
-      "item_name": "[オパビニア] スヌーピー キャラクター キャンバストートトートバッグ バッグ カバン エコバッグ 124718 ウッドストック/ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GL7FZT18",
-      "item_name": "キャラクター ランチ巾着 ランチバッグ 巾着袋 お弁当袋 日本製 綿100 コラボ DIL-901 MICKEY&FRIENDS",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 990.0,
-      "t30d_units": 1.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 11055384022,
+      "merchant_name": "ヒカリカストア",
+      "asin": "B0CSJP86N2",
+      "item_name": "ルームランプ LED 車 タッチライト センサー 増設 車内灯 充電式 マグネット ルームライト トランク 天井 イルミネーション 室内灯 車内照明 車内ライト (ホワイト)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 154425.1,
+      "t30d_units": 205.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0D93MQVJ8",
-      "item_name": "[オパビニア] はらぺこあおむし がま口ポーチ ポーチ 小物入れ がま口 56137 フルーツ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 7200.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0D93C32GW",
-      "item_name": "キャラクター フラットポーチ DC レトロ アートコレクション 1990 ペンケース ポーチ 小物入れ 筆箱 S2322374 ピノキオ",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1000.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GL79339G",
-      "item_name": "キャラクター スヌーピー ポーチ スクエアポーチ ティッシュケース コスメポーチ 小物入れ レトロ チェック ティッシュポーチ マチあり 小さめ ミニ ES467B ブラウン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0GL73346N",
-      "item_name": "ペンケース 筆箱 スリム スリムペンケース ミッフィ レトロ チェック キャラクター ふでばこ ペンポーチ 文房具入れ ペン入れ EB328C ブルー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0FDW1TFVC",
-      "item_name": "スヌーピー ランチバッグ 保冷バッグ キャラクター ランチトート トートバッグ 保冷 保温 小さめ コンパクト 保冷トート Sサイズ PQ-2001 ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 11055384022,
+      "merchant_name": "ヒカリカストア",
+      "asin": "B0CSJV6RMG",
+      "item_name": "ルームランプ LED 車 タッチライト センサー 増設 車内灯 充電式 マグネット ルームライト トランク 天井 寝室 室内灯 クローゼット 廊下 (カラフル)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 20949.36,
+      "t30d_units": 27.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GL7R69QY",
-      "item_name": "キャラクター ランチクロス 給食ナフキン お弁当クロス 日本製 BPK-700 バーバパパ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 770.0,
-      "t30d_units": 1.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 11055384022,
+      "merchant_name": "ヒカリカストア",
+      "asin": "B0FRZQ5SLL",
+      "item_name": "タッチライト マグネット センサー ルームランプ LED 車 車内 ライト 増設 車内灯 充電式 マグネット ルームライト トランク (カラフル4個セット)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 6338.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FGHZLZN9",
-      "item_name": "スヌーピー キャラクター ボトルカバー ドリンクカバー 水筒カバー 保冷 保温 ショルダー ベルト PL-2210 ピンク",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 4200.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0F1STQKQ8",
-      "item_name": "スヌーピー 巾着袋 キャラクター ミニ巾着 ミニポーチ コスメポーチ 小物ポーチ 小物入れ コップ袋 ES438A クリーム",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 1680.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0F1SLZQTQ",
-      "item_name": "スヌーピー 巾着袋 キャラクター ミニ巾着 コスメポーチ 小物ポーチ 小物入れ コップ袋 ES398A-600 レッド",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 4880.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0GFD3DWKQ",
-      "item_name": "[オパビニア] リール付き 二つ折り パスケース 定期入れ キャラクター シナモン 伸びる リール 可愛い カードケース カード入れ カードホルダー 通勤 通学 レディース CNM-114 ベージュ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C3GSVF1P",
-      "item_name": "[オパビニア] モズ moz フラット ペンケース 筆箱 ポーチ 小物入れ スリム ベージュ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1320.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F1SWH6BY",
-      "item_name": "スヌーピー 巾着袋 キャラクター ミニ巾着 ミニ巾着ポーチ ミニポーチ ポーチ コスメポーチ 小物ポーチ 小物入れ コップ袋 ES438B ホワイト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 11580.0,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0FPFG9H17",
-      "item_name": "キャラクター ランチ巾着 ランチバッグ 巾着袋 お弁当袋 日本製 綿100 DIK-902 MUSIC",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 990.0,
-      "t30d_units": 1.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 11055384022,
+      "merchant_name": "ヒカリカストア",
+      "asin": "B0CSJZC3RM",
+      "item_name": "タッチライト マグネットライト センサー ルームランプ LED 車 車内 増設 車内灯 充電式 マグネット ルームライト トランク",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 6764.11,
+      "t30d_units": 11.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F483LY3G",
-      "item_name": "スヌーピー キャラクター ランチ巾着 ランチバッグ 巾着袋 お弁当袋 紐付き 取っ手付き 日本製 綿100％ SLL-1002 SLEEP",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 11000.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0DW8YJVPH",
-      "item_name": "[オパビニア] スヌーピー キャラクター キャンバストートトートバッグ グ カバン エコバッグ 124717 スヌーピー/ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 2530.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CF1DRW5Y",
-      "item_name": "シャボン SYABON ポーチ 小物入れ 化粧ポーチ トラベルポーチ 大容量 2段 ISLAND アイランド",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F1SXLKML",
-      "item_name": "オパビニア スヌーピー 巾着袋 キャラクター ミニ巾着 ポーチ コスメポーチ 小物ポーチ 小物入れ コップ袋 給食袋 ES478B ブルー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 2310.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FV81GBG3",
-      "item_name": "SAWARA ペンケース 筆箱 デニム ふでばこ 文房具入れ ペン入れ ペンポーチ 小物入れ 小物ポーチ でにむ 国産 日本製 魚 さかな サワラ さわら 鰆 スリム",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BM936R1X",
-      "item_name": "モズ メッシュ クリア ペンケース 筆箱 ポーチ 小物入れ 透明 スリム ライトピンク",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FPQHRTRS",
-      "item_name": "舟形ペンポーチ 森永のれん乳 コスメポーチ ミニポーチ 小物入れ チャーム付き持ち運び マチ 43817801 ミルリン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 1080.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DW8NJ64G",
-      "item_name": "[オパビニア] スヌーピー キャラクター ミニトートトートバッグ ミニ バッグ カバン 123588 オラフ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F8N6NLX9",
-      "item_name": "[オパビニア] 電車 トレイン ショルダーバッグ 通園バッグ 斜め掛けバッグ 子供 キッズ 男の子 新幹線 乗り物 K-788 ホワイト",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 3880.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F1SXY2X2",
-      "item_name": "[オパビニア] ススーピー キャラクター パスケース 定期入れ カードケース ICカードケース ポケット付き ストラップ付き ES439A グリーン",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CF1GFS12",
-      "item_name": "シャボン SYABON ポーチ 小物入れ 化粧ポーチ トラベルポーチ 大容量 2段 BOTANICAL ボタニカル",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CF1FG2TL",
-      "item_name": "シャボン SYABON ポーチ 小物入れ 化粧ポーチ トラベルポーチ 大容量 2段 KANGA カンガ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F59K64DY",
-      "item_name": "コジコジ キャラクター ポーチ コスメポーチ メイクポーチ 化粧ポーチ 小物ポーチ 小物入れ トラベルポーチ レピア織 S2331349 オレンジ/A柄",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 2200.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F1SZPLK8",
-      "item_name": "スヌーピー キャラクター ペンケース クリア クリアペンケース ペンポーチ 筆箱 文房具入れ ペン入れ 小物入れ 小物ポーチ ポーチ ES437A グリーン",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 1760.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FDW62VTJ",
-      "item_name": "スヌーピー おにぎりバッグ おにぎりポーチ 保冷バッグ キャラクター ランチバッグ おむすび おにぎり コンパクト 保冷 夏 PQ-1301 ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 2860.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D93C597M",
-      "item_name": "ディズニー フラットポーチ DC レトロ アートコレクション 1990 ペンケース ポーチ 小物入れ 筆箱 S2322412 ピーター",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 11055384022,
+      "merchant_name": "ヒカリカストア",
+      "asin": "B0FRZPMCJ1",
+      "item_name": "タッチライト マグネット センサー ルームランプ LED 車 車内 ライト 増設 車内灯 充電式 マグネット ルームライト トランク (ホワイト4個セット)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 26639.2,
+      "t30d_units": 18.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

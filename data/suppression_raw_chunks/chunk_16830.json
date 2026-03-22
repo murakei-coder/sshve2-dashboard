@@ -1,22 +1,38 @@
 {
-  "1177607418002": [
+  "1178284592002": [
     {
-      "asin": "B0GGB8B7HL",
-      "item_name": "MEIKEE 人感センサーライト LED 5000ルーメン 50W 100V IP66防水 防犯ライト 屋外 屋内兼用 明暗センサー＆5秒/30秒調節可能 24時間・夜間モード切替 PSE認証 2年保証 玄関 駐車場 廊下 ベランダ対応 インボイス番号記載の適格請求書提供可能",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1178284592002,
+      "merchant_name": "DEULUKO-JAPAN",
+      "asin": "B0FV2KZY19",
+      "item_name": "DEULUKOP1 オフィスチェア メッシュ 人間工学 椅子 疲れない テレワーク 腰サポート 腰痛対策 パソコンチェア チェア デスクチェア S字立体背もたれ 3D連動アームレスト 可動式ランバーサポート 145°リクライニング 2Dヘッドレスト 静音PUキャスター pc ワーク 事務椅子 通気性に優れ オフィス お宅 在",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1084311.0,
+      "t30d_units": 51.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GG9PG3SF",
-      "item_name": "MEIKEE 人感センサーライト LED 3000ルーメン 30W 100V IP66防水 防犯ライト 屋外 屋内兼用 明暗センサー＆5秒/30秒調節可能 24時間・夜間モード切替 PSE認証 2年保証 玄関 駐車場 廊下 ベランダ対応 インボイス番号記載の適格請求書提供可能",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 7598.0,
-      "t30d_units": 29.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1178284592002,
+      "merchant_name": "DEULUKO-JAPAN",
+      "asin": "B0FV2HC9DH",
+      "item_name": "DEULUKOP1 オフィスチェア メッシュ 人間工学 椅子 疲れない テレワーク 腰サポート 腰痛対策 パソコンチェア チェア デスクチェア S字立体背もたれ 3D連動アームレスト 可動式ランバーサポート 145°リクライニング 2Dヘッドレスト 静音PUキャスター pc ワーク 事務椅子 通気性に優れ オフィス お宅 在",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 289886.0,
+      "t30d_units": 14.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,58 +1,38 @@
 {
-  "558205568602": [
+  "558225268202": [
     {
-      "asin": "B0FNW71CNY",
-      "item_name": "ポンダン(PONGDANG) デューイグロウ アズレン ジェルトナーパッド 70枚 鎮静ケア 毛穴ケア ゲルタイプ ふき取り 部分パック 韓国コスメ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 3600.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 558225268202,
+      "merchant_name": "SCOCCA-  JP直営店",
+      "asin": "B0G1H13RJ8",
+      "item_name": "SCOCCA投げ込みヒーター プールヒーター 1500W ポータブルバケットヒーター 浸漬 ヒーター 浸水給湯器 携帯浸漬湯沸かし器 70°自動電源オフ タイミング 温度計付属 浴槽用給湯器 インフレータブルプール 家庭 アウトドア 学校に適しています (ブラック)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 54466.0,
+      "t30d_units": 17.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GHXT3HHB",
-      "item_name": "ポンダン(PONGDANG) ラディアンス ブースト トゥルー ビタミンC 23 セラム 12ml 高濃度 ブライトニングケア くすみケア 低刺激処方 美容液 スキンケア 韓国コスメ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09Y8G5CDQ",
-      "item_name": "ポア ディープクリーン バブルクレンザー 145g",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G4L8XQQZ",
-      "item_name": "ポンダン(PONGDANG) ポア ディープクリーン クレンジングオイル 200ml ディープクレンジング 黒ずみケア メイク落とし 低刺激処方 敏感肌向け 韓国コスメ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G46M4CYQ",
-      "item_name": "ポンダン(PONGDANG) ポア ディープクリーン バブルクレンザー 145g メイク落とし オールインワン洗顔 低刺激処方 ニキビ肌ケア 敏感肌 毛穴ケア 皮脂ケア 韓国コスメ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BPXSYSYW",
-      "item_name": "ポンダン(PONGDANG) ディープクリーン ソフトピーリングジェル 120g クレンジング 黒ずみケア 毛穴・角質ケア スキンケア 韓国コスメ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 558225268202,
+      "merchant_name": "SCOCCA-  JP直営店",
+      "asin": "B0F5HGGJ3P",
+      "item_name": "ヒーター、プールヒーター、1500Wポータブルバケツヒーター、浸漬、自動電源オフ、バスタブヒーター、バケツヒーター、インフレータブルプール、ブラック",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 140971.33,
+      "t30d_units": 58.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,40 +1,38 @@
 {
-  "27594104722": [
+  "27598420322": [
     {
-      "asin": "B0C92ZS2G8",
-      "item_name": "プリペイドSIM 日本 3GB 月 SMS認証可能 最大13ヶ月 1年間有効 大容量 楽天モバイル SIMカード 日本 海外 rakuten Prepaid SIM プリペイド データ専用 4GLTE 5G対応 japan (R 3GB SMS 12M) 日本上網卡 日本網卡 日本旅遊網卡 日本電話卡 子供向け 利用期間延長可能",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1604736.65,
-      "t30d_units": 203.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 27598420322,
+      "merchant_name": "一品ストア",
+      "asin": "B0F91Q37RD",
+      "item_name": "国定農産 ハトムギ粉 100g 3袋セット 国産 ハトムギパウダー 鳩麦",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 66788.69,
+      "t30d_units": 27.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0D923T3D6",
-      "item_name": "プリペイドSIM 日本 3GB 月 SMS認証可能 最大37ヶ月 3年間有効 大容量 楽天モバイル SIMカード 日本 海外 rakuten Prepaid SIM プリペイド データ専用 4GLTE 5G対応 japan (R 3GB SMS 36M) 日本上網卡 日本網卡 日本旅遊網卡 日本電話卡 子供向け 利用期間延長可能",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 218580.0,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0CYCBQFBR",
-      "item_name": "プリペイドSIM 日本 7GB 月 SMS認証可能 最大25ヶ月 2年間有効 大容量 楽天モバイル SIMカード 日本 海外 rakuten Prepaid SIM プリペイド データ専用 4GLTE 5G対応 japan (R 7GB SMS 24M) 日本上網卡 日本網卡 日本旅遊網卡 日本電話卡 子供向け 利用期間延長可能",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 252625.5,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0CYC8ZK71",
-      "item_name": "プリペイドSIM 日本 3GB 月 SMS認証可能 最大25ヶ月 2年間有効 大容量 楽天モバイル SIMカード 日本 海外 rakuten Prepaid SIM プリペイド データ専用 4GLTE 5G対応 japan (R 3GB SMS 24M) 日本上網卡 日本網卡 日本旅遊網卡 日本電話卡 子供向け 利用期間延長可能",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 74672.99,
-      "t30d_units": 7.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 27598420322,
+      "merchant_name": "一品ストア",
+      "asin": "B0CVN4XP1D",
+      "item_name": "国定農産 ハトムギ粉 100g 国産 鳩麦 はとむぎ ハトムギパウダー ヨクイニン",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 427802.21,
+      "t30d_units": 431.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

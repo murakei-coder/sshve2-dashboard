@@ -1,13 +1,21 @@
 {
-  "67876495122": [
+  "67878197522": [
     {
-      "asin": "B09SYV84TC",
-      "item_name": "スマホスタンド ベッド デスク 両用 フレキシブルアームタイプ 360°自由調整可能 クランプ固定式（3.5-10インチ対応）iPhone iPad Android 対応 折りたたみ可能 頑丈 首振り 滑り止め設計 タブレット/スマホホルダー ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 70634.32,
-      "t30d_units": 45.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 67878197522,
+      "merchant_name": "HONGYANG INC",
+      "asin": "B09SLP1ZD5",
+      "item_name": "足サポート用枕、足枕 就寝用 足置き クッション",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 185969.41,
+      "t30d_units": 30.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

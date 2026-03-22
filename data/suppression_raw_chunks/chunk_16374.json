@@ -1,40 +1,55 @@
 {
-  "1135992967302": [
+  "1135997612302": [
     {
-      "asin": "B0FSKSBC6X",
-      "item_name": "Relattä ふくらはぎ ケア フット コードレス 空気圧 温感 着圧 3段階モード 自動オフ 足 男女兼用 (グレー, 2セット)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1135997612302,
+      "merchant_name": "KANOA カノア",
+      "asin": "B0G5N44W5C",
+      "item_name": "YOOKI 第三弾 暖かいバニーシリーズ ブラインドボックス ポリエステル製 かわいい ぬいぐるみ プレゼント (1)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 154263.0,
+      "t30d_units": 43.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G2CNTFLM",
-      "item_name": "Relattä ふくらはぎ ケア フット コードレス 空気圧 温感 着圧 3段階モード 自動オフ 足 男女兼用 (ブラック, 1セット)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1135997612302,
+      "merchant_name": "KANOA カノア",
+      "asin": "B0G3TL4KY2",
+      "item_name": "YOOKI 第三弾 暖かいバニーシリーズ ブラインドボックス 6種セット ポリエステル製 かわいい ぬいぐるみ プレゼント",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G2CNW8TH",
-      "item_name": "Relattä ふくらはぎ ケア フット コードレス 空気圧 温感 着圧 3段階モード 自動オフ 足 男女兼用 (グレー, 1セット)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G2FYCKQH",
-      "item_name": "Relattä ふくらはぎ ケア フット コードレス 空気圧 温感 着圧 3段階モード 自動オフ 足 男女兼用 (ブラック, 2セット)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1135997612302,
+      "merchant_name": "KANOA カノア",
+      "asin": "B0G5MW9LXH",
+      "item_name": "YOOKI 第三弾 暖かいバニーシリーズ ブラインドボックス ポリエステル製 かわいい ぬいぐるみ プレゼント (2)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

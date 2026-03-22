@@ -1,13 +1,38 @@
 {
-  "955971997402": [
+  "955972013402": [
     {
-      "asin": "B0F294W24Y",
-      "item_name": "yes!fluffy ペット用ラバーブラシ グルーミング マッサージ [日本企画] 犬猫用 長毛短毛 TPE素材 グリーン",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 33553.32,
-      "t30d_units": 24.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 955972013402,
+      "merchant_name": "ZIPMAN-PCSHOP(コンディション欄をご確認の上ご購入お願いします)",
+      "asin": "B09QCMX4Z4",
+      "item_name": "【整備済み品】 Dell ディスプレイ モニター P1914S 19インチ/SXGA/TN非光沢/8ms/VGA,DVI,DP/USBハブ",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 92566.0,
+      "t30d_units": 12.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 955972013402,
+      "merchant_name": "ZIPMAN-PCSHOP(コンディション欄をご確認の上ご購入お願いします)",
+      "asin": "B0GL1SMYBM",
+      "item_name": "【整備済み品】軽量 小型 レッツノート SV8 12.1型 第8世代 Core i5-8365U / メモリ16GB / M.2 SSD 256GB / Wi-Fi5 / Bluetooth/USB Type-C/Webカメラ / Windows11 Pro/MS office 2019 搭載 ノートパソコン Let's note (整備済み品)",
+      "cleaned_suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 2409225.0,
+      "t30d_units": 64.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

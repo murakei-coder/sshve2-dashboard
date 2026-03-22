@@ -1,22 +1,55 @@
 {
-  "639620557302": [
+  "639908898502": [
     {
-      "asin": "B0F4XSJLK5",
-      "item_name": "MZMSBAO エアフライヤー用紙 100枚セット16cm 四角形 ノンフライヤー 使い捨て紙 天ぷら敷紙 油紙 クッキングシート シリコーンオイル紙 耐熱/耐油/耐水性",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 180169.32,
-      "t30d_units": 165.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 639908898502,
+      "merchant_name": "ALIBELL-JP",
+      "asin": "B0CC5MV61N",
+      "item_name": "介護呼び出しベル ナースコール 家庭用 介護 ワイヤレス家庭用呼び出し介護ベル 緊急コールセット 無線コール 高齢者用/介護用/家庭用 発信機1台と受信機1台",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 11495.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FJXGNFWX",
-      "item_name": "MZMSBAO エアフライヤー用紙 130枚セット16cm 四角形 ノンフライヤー 使い捨て紙 天ぷら敷紙 油紙 クッキングシート シリコーンオイル紙 耐熱性 耐油紙 耐水性 使い捨て 230℃耐熱",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 13075.0,
-      "t30d_units": 10.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 639908898502,
+      "merchant_name": "ALIBELL-JP",
+      "asin": "B0CC5Q16B2",
+      "item_name": "介護呼び出しベル ナースコール 家庭用 介護 ワイヤレス家庭用呼び出し介護ベル 緊急コールセット 無線コール 高齢者用/介護用/家庭用 発信機2台と受信機1台",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 5798.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 639908898502,
+      "merchant_name": "ALIBELL-JP",
+      "asin": "B0DHWPPRDR",
+      "item_name": "ALIBELL 呼び出しベル 飲食店 呼び鈴 ワイヤレス オーダーコール ワイヤレス チャイム 介護呼び出しベル コードレス 業務 用 呼び出し ベル ワイヤレスチャイム チャイム 飲食店 居酒屋 焼肉屋 介護施設 病院",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

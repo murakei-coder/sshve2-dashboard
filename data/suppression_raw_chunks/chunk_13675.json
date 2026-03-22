@@ -1,22 +1,38 @@
 {
-  "898559996902": [
+  "898624925102": [
     {
-      "asin": "B0924ZKT5W",
-      "item_name": "MECHMAX 68本組ラチェットドライバービット&ソケットセット、磁気ビット、収納ケース付き、自宅、オフィス、アパート、車、バイク、家具、電子機器プロジェクト、ギフトなどに",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 157218.66,
-      "t30d_units": 61.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 898624925102,
+      "merchant_name": "小熊家電公式ストア",
+      "asin": "B0DHGVTB2M",
+      "item_name": "Bear 加湿器 5L 大容量 超音波式 最大35時間連続稼働 静音 28dB アロマ対応 360°回転吹出口 空焚き防止 省エネ 上から給水 おしゃれ 乾燥対策 寝室/リビング/オフィス PSE認証済み ホワイト",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 246394.65,
+      "t30d_units": 74.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0925G9FFH",
-      "item_name": "MECHMAX 51本組磁気精密ドライバービットセット、Apple iPhone、Macbook 用ペンタローブビット、Switch、Wii、PS5、Xbox、スマートフォン、ノートPC、タブレット、電子機器、眼鏡、リングドアベル用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 116236.81,
-      "t30d_units": 74.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 898624925102,
+      "merchant_name": "小熊家電公式ストア",
+      "asin": "B0FD9BR72H",
+      "item_name": "Bear 哺乳瓶除菌乾燥機 スチーム除菌 哺乳瓶消毒器 大容量 保管ケース48時間保温 空焚き防止機能つき PSE取得 グレー",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 444753.88,
+      "t30d_units": 61.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,40 +1,38 @@
 {
-  "7454915855": [
+  "7455295555": [
     {
-      "asin": "B0FL7WLJS5",
-      "item_name": "【集合住宅専用設計】置き配 置袋 置き配ボックス マンション 宅配受取りバック 掛け型宅配ボックス 折り畳み 大容量 ドア掛け 小さい ポスト受け 吊り下げ式 簡易 玄関前 賃貸 壁掛け式宅配バック 布製 box 置き配用袋 不在時置き配 箱 小型 個人宅 戸建て エコバッグ (黒)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 80639.17,
-      "t30d_units": 48.0
-    },
-    {
-      "asin": "B0CQKFSXWS",
-      "item_name": "【電池3年間使える・送信機4個】呼び出しベル 呼出ベル 介護ベル 呼び出しワイヤレス 呼び出しブザー ブザー 呼び出し ワイヤレスチャイム ワイヤレスコール SOS緊急コールセット ナースコール 家庭用 おすすめ 呼び出しボタン 介護ベル ポケットベル 無線 警呼び鈴 防犯ブザー 看護 IP68防水 緊急",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 76500.22,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0DZ72RSK3",
-      "item_name": "【受信機2個・送信機2個】呼び出しベル 呼出ベル 介護ベル 呼び出しワイヤレス 呼び出しブザー ブザー 呼び出し ワイヤレスチャイム ワイヤレスコール SOS緊急コールセット ナースコール 家庭用 呼び出しボタン 介護ベル ポケットベル 無線 警呼び鈴 防犯ブザー 看護 IP68防水 緊急ボタン 高齢者 呼",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 118140.0,
-      "t30d_units": 33.0
-    },
-    {
-      "asin": "B0CQKCZX2B",
-      "item_name": "【電池3年間使える・送信機2個】呼び出しベル 呼出ベル 介護ベル 呼び出しワイヤレス 呼び出しブザー ブザー 呼び出し ワイヤレスチャイム ワイヤレスコール SOS緊急コールセット ナースコール 家庭用 呼び出しボタン 介護ベル ポケットベル 無線 警呼び鈴 防犯ブザー 看護 IP68防水 緊急ボタン 高",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 287619.54,
-      "t30d_units": 98.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 7455295555,
+      "merchant_name": "SZ_ChengYi",
+      "asin": "B0D3P8V8N2",
+      "item_name": "hohem V3 スマホジンバル 3軸ポータブルスタビライザー AIトラッカー/LEDライト取り外し可能なリモートコントロール 内蔵自撮り棒 & 三脚 携帯性＆折りたたみ設計Android＆iPhone用ジンバル 日本語対応アプリ ブラック",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 88954.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 7455295555,
+      "merchant_name": "SZ_ChengYi",
+      "asin": "B0F8HS5118",
+      "item_name": "FeiyuTech SCORP Mini 3 PRO [コンボ] カメラジンバル 内蔵AIトラッカー 取り外し可能リモコンハンドル 2KG最大積載量 オールインワン3軸スタビライザー Bluetoothシャッター制御 縦撮りモード",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 77113.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

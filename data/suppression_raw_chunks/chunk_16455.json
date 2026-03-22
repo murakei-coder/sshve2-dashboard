@@ -1,13 +1,55 @@
 {
-  "1139087710002": [
+  "1139387150802": [
     {
-      "asin": "B0G29J32DJ",
-      "item_name": "[BUKKUUE] リュック メンズ 軽量 大容量 防水 15.6インチノートPC収納 背面メッシュ散热設計 撥水加工 通勤通学 ビジネス 旅行 アウトドア 防災 多機能バックパック 灰色",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 8997.0,
-      "t30d_units": 3.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1139387150802,
+      "merchant_name": "百福堂【公式】fuuzオンラインストア",
+      "asin": "B0GFD5ZNBS",
+      "item_name": "鮭 ハラス 肉厚 骨取り 500g 切り身 サーモン 海鮮 魚 冷凍 冷凍鮭 鮭ハラス 業務用 朝食 おかず お弁当",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": -2428.0,
+      "t30d_units": -1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1139387150802,
+      "merchant_name": "百福堂【公式】fuuzオンラインストア",
+      "asin": "B0G6JTZVN6",
+      "item_name": "鮭 冷凍 切り身 1㎏ 厚切り 鮭の切り身 冷凍鮭 銀鮭 塩鮭 魚 おかず 業務用 お弁当 朝食 さけ 有塩",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 279730.0,
+      "t30d_units": 58.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1139387150802,
+      "merchant_name": "百福堂【公式】fuuzオンラインストア",
+      "asin": "B0GFD2TRL6",
+      "item_name": "ハラス 肉厚 骨取り 1kg 鮭 切り身 サーモン 海鮮 魚 冷凍 冷凍鮭 鮭ハラス 業務用 朝食 おかず お弁当",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": -9001.0,
+      "t30d_units": -2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

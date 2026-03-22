@@ -1,22 +1,55 @@
 {
-  "65986673322": [
+  "65989422122": [
     {
-      "asin": "B08FT6YCQZ",
-      "item_name": "Lanpard リレーアタック防止用キーケース 電波遮断キーケース 電波遮断ポーチ スマートキーケース収納 リレーアタック防止用スマートキーケース 車 盗難防止グッズ リレーアタック対策 ２枚セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 202702.2,
-      "t30d_units": 253.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65989422122,
+      "merchant_name": "Deestop JP",
+      "asin": "B0D4L8TD51",
+      "item_name": "【弾力性アーム実用性特許】Deestop 背中リリースガン 筋膜リリースガン ハンディガン 5段階強力振動 超軽量 全身リフレッシュ Type-C急速充電 静音 4個ヘッド付属 クリスマスプレゼント 日本語取扱説明書付き",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F6YCLDR3",
-      "item_name": "lanpard リレーアタック防止用キーケース 電波遮断キーケース スマートキー 電波遮断 リレーアタック防止用スマートキーケース リレーアタック防止 リレーアタック防止車キーボックス 車盗難防止グッズ スマートキー収納 車 セキュリティ おしゃれ 耐久",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 128496.54,
-      "t30d_units": 69.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65989422122,
+      "merchant_name": "Deestop JP",
+      "asin": "B0D1FZXD4F",
+      "item_name": "【0-90度角度調整可能】Deestopハンディガン 2WAY仕様 筋膜リリースガン 背中リリースガン 5段階強力振動 Type-C 静音 4ヘッド付属 プレゼント",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 25266.0,
+      "t30d_units": 7.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65989422122,
+      "merchant_name": "Deestop JP",
+      "asin": "B0CKXGYS6C",
+      "item_name": "Deestop 背中 筋膜リリースガン ハンディガン 肩甲骨 電動ガン きんまくリリース 5段階強力振動 超軽量 全身リフレッシュ Type-C急速充電 静音 4個ヘッド付属 クリスマスプレゼント 日本語取扱説明書付き",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 718292.41,
+      "t30d_units": 110.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

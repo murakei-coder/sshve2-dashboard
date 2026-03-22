@@ -1,40 +1,21 @@
 {
-  "574346872102": [
+  "575065338502": [
     {
-      "asin": "B0FNLFKNXD",
-      "item_name": "【これで割れなかったら諦めてください】 ナットブレーカー 16-22mm対応 [超破壊力 × 用途ナット対応]【ゴリラパワーグリップ】",
-      "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
-      "suppression_category": "5.Others",
-      "pf": "L&L",
-      "t30d_ops": 203440.39,
-      "t30d_units": 107.0
-    },
-    {
-      "asin": "B0C2TQX939",
-      "item_name": "【これで抜けなかったら諦めてください】スタッドボルトリムーバー 6-12mm対応 [折れ] × [錆び] × [固着] × [舐め] 【ゴリラパワーグリップ】",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 514589.18,
-      "t30d_units": 197.0
-    },
-    {
-      "asin": "B0FQ342K2G",
-      "item_name": "【これで割れなかったら諦めてください】 ナットブレーカー 12-16mm対応 [超破壊力 × 用途ナット対応]【ゴリラパワーグリップ】",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 214946.94,
-      "t30d_units": 120.0
-    },
-    {
-      "asin": "B0G5ZCSSX1",
-      "item_name": "【これで抜けなかったら諦めてください】スタッドボルトリムーバー 6-12mm対応 [折れ] × [錆び] × [固着] × [舐め] 【ゴリラパワーグリップ】",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 286884.05,
-      "t30d_units": 111.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 575065338502,
+      "merchant_name": "鶴見製紙オンラインショップ",
+      "asin": "B0BNZQFFNF",
+      "item_name": "トイレットペーパー ダブル 1.5倍巻き ミックスベリー 香りつき カラーロール 8ロール×8パック 芳香タイプ 45m 再生紙 100% 1.5倍 長持ち 日用品 やわらか ふんわり 日本製 国産 鶴見製紙ケース ミシン目あり 芯あり まとめ買い 防災 備蓄 家庭用 業務用【フルーツカラー】",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 427079.5,
+      "t30d_units": 99.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,13 +1,21 @@
 {
-  "7208246622": [
+  "7210108722": [
     {
-      "asin": "B09CL79J9F",
-      "item_name": "Srhythm NiceComfort 95 ハイブリッドノイズキャンセリングヘッドホン ワイヤレス Bluetoothヘッドセット 透過モード搭載 ENC HDサウンド スペースシルバー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 749596.0,
-      "t30d_units": 63.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 7210108722,
+      "merchant_name": "AOFAR 直営店",
+      "asin": "B0FH79J543",
+      "item_name": "AOFAR GX6 ゴルフ レーザー距離計 1000yd ±0.5yd高精度 0.02秒高速測定 スロープON/OFF ピンロック機能 充電式 距離測定器 小型軽量 マグネット吸着 7倍望遠 防水 競技対応",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 1115156.79,
+      "t30d_units": 123.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,13 +1,21 @@
 {
   "790964455": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 790964455,
+      "merchant_name": "e-神  商販部",
       "asin": "B082PWKR69",
       "item_name": "ゆの美 鹿肉 もも肉 ジビエ 北海道日高産 えぞ しか肉 無添加 冷凍1.0kg エゾシカ モモ 肉",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 383033.66,
-      "t30d_units": 127.0
+      "t30d_units": 127.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

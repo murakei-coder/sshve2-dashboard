@@ -1,13 +1,38 @@
 {
-  "710900753202": [
+  "710904764502": [
     {
-      "asin": "B0DPWK8L1M",
-      "item_name": "OMNIELEC 真空パック機 フードシーラー 専用袋20枚付き家庭用 90kPa強力脱気 軽量設計 高耐久性 食材鮮度保持 長期保存 シーラー 真空パック機",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 1722047.42,
-      "t30d_units": 417.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 710904764502,
+      "merchant_name": "SMILE REACH 公式ショップ",
+      "asin": "B0FLDLHVST",
+      "item_name": "SMILEREACH フュージョン マフラー　パーツ　純正タイプ　ガスケット付 ホンダ互換品 復刻　初期型タイプ　mf02 fusion　HELIX　cn250　ノーマルタイプ　湯たんぽ　usdm へリックス　当時物タイプ",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 44994.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 710904764502,
+      "merchant_name": "SMILE REACH 公式ショップ",
+      "asin": "B0FL26J1YJ",
+      "item_name": "SMILEREACH フュージョン リアキャリア パーツ ホンダ MF02 へリックス CN250 復刻 純正タイプ 当時物 キャリア FUSION HELIX リアBOX ブラック USDM",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 63992.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

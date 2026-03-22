@@ -1,40 +1,72 @@
 {
   "6081253022": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 6081253022,
+      "merchant_name": "Always Japan",
       "asin": "B0FNR6T9YD",
       "item_name": "Temilar LED 投光器 ワークライト クリップ型 2段階調光 屋外 充電式 作業ライト クリップライト 省エネ IP65防水 IK07防衝撃 360°回転 夜釣り アウトドア キャンプ用 停電対策 防災",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 40480.0,
-      "t30d_units": 11.0
+      "t30d_units": 11.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 6081253022,
+      "merchant_name": "Always Japan",
       "asin": "B0FH6J7N7Q",
       "item_name": "taruna 電動バリカン 吸引式 ヘアーカッター USB充電式 45min使用時間 水洗い対応 着脱式刃先 急速充電可 ショートヘア用 散髪用 子供用バリカン アタッチメント付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 46338.5,
-      "t30d_units": 14.0
+      "t30d_units": 14.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 6081253022,
+      "merchant_name": "Always Japan",
       "asin": "B0G4VRDMBT",
       "item_name": "TARUNA LED投光器 バッテリーはMakitaと互換性のある 適用18Vマキタバッテリー バッテリー別売り 折り畳み可能 COBライト 本体電池なし 災害グッズ 停電対策 アウトドア",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 6081253022,
+      "merchant_name": "Always Japan",
       "asin": "B0G7XDMZF6",
       "item_name": "Temilar LED投光器 充電式ワークライト 【強力クリップ型】 50W 2段階調光 屋外 作業ライト クリップライト 省エネ 360°回転 IP65 夜釣り アウトドア キャンプ用 停電対策 防災",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
       "t30d_ops": 8742.0,
-      "t30d_units": 2.0
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,121 +1,38 @@
 {
-  "1069605657202": [
+  "1069636268602": [
     {
-      "asin": "B0F6C9S1XH",
-      "item_name": "KINGMAX 電動ドライバー 小型 ドライバー 電動 ペン型 軽量 3段階切替モード 手動兼用 USB Type C充電式 電動ドリル 操作簡単 女性/初心者対応 ビット13本付 家具の組み立て メンテナンス作業 日本国内保証付 KCD36",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 136363.04,
-      "t30d_units": 64.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1069636268602,
+      "merchant_name": "【公式】ReturnerJapan",
+      "asin": "B0G23TRV4X",
+      "item_name": "【新しいカクテル体験！紅茶リキュール 】RETURNER（リターナー） アールグレイ 700ml スリランカ産最高級茶葉使用 芳醇な紅茶の香り カクテル・ミルク割り・ロックで楽しむ贅沢リキュール [ギフトBOX入り]",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 58694.0,
+      "t30d_units": 14.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F9Z2PNT4",
-      "item_name": "KINGMAX ベルトサンダー 電動 マキタ 18v 互換 工具 充電式 作業に応じてベルト角度の調整 無段階スピード調整 日本国内保証付 高出力ブラシレスモーター 13mm/9mmベルト兼用 木工 農機具研磨に KBS18 (本体のみ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 181544.0,
-      "t30d_units": 24.0
-    },
-    {
-      "asin": "B0F9W1YYBD",
-      "item_name": "KINGMAX 充電器 マキタ 18v 互換 3重保護機能 14.4v充電不可 入力容量80W 3A高速充電 PSE認証済 国内サポートで長期安心 KBC183",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 12495.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0G478NLGZ",
-      "item_name": "KINGMAX インパクトドライバー マキタ 互換 工具 18v充電式 インパクト 最大トルク250N・ｍ 日本国内保証付 4段階切替モード 高出力ブラシレスモーター LED残照機能付き バッテリー・充電器別売 KID18BK (限定ブラック本体のみ)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 439317.02,
-      "t30d_units": 67.0
-    },
-    {
-      "asin": "B0F9W8L6SS",
-      "item_name": "KINGMAX インパクトレンチ マキタ 互換 電動工具 タイヤ交換 インパクト 18v充電式 最大緩めトルク550N・m 4段階切替モード 日本国内保証付 高出力ブラシレスモーター LED残照機能付 KIW18B (4.0Ahバッテリー・充電器・ケース付)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 336135.33,
-      "t30d_units": 28.0
-    },
-    {
-      "asin": "B0FWZTQ1JM",
-      "item_name": "KINGMAX マキタ互換バッテリー 18v 6.0Ah実容量 純正 bl1860b 5重保護機能 10C高性能の電池採用 日本メーカー保証1年間 5億円製造物責任保険付 国内サポートで長期安心 急速充電可能 保管や携帯に便利なカバー付き KBP1860F (4個セット)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 207300.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0FWZRYRFC",
-      "item_name": "KINGMAX 6.0Ah実容量 マキタ 18v バッテリー 純正 bl1860b 互換 5重保護機能 10C高性能の電池採用 日本メーカー保証1年間 5億円製造物責任保険付 国内サポートで長期安心 急速充電可能 保管や携帯に便利なカバー付き KBP1860 (単品)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 210342.0,
-      "t30d_units": 38.0
-    },
-    {
-      "asin": "B0GCG8LFV8",
-      "item_name": "KINGMAX 丸鋸 マキタ 丸ノコ 充電式 18v 互換 工具 140mm マルノコ 最大切込み深さ52mm 高出力ブラシレスモーター LED残照機能付き KCS140 (本体のみ、バッテリ・充電器別売)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 38541.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0F9W8PWVV",
-      "item_name": "KINGMAX インパクトドライバー マキタ 18v 互換 工具 充電式 インパクト 最大トルク250N・ｍ 日本国内保証付 4段階切替モード 高出力ブラシレスモーター LED残照機能付き KID18B (バッテリー・充電器・ケース付)",
-      "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
-      "suppression_category": "5.Others",
-      "pf": "L&L",
-      "t30d_ops": 274693.0,
-      "t30d_units": 25.0
-    },
-    {
-      "asin": "B0G479DQF5",
-      "item_name": "KINGMAX インパクトレンチ マキタ 18v 互換 工具 電動インパクト 充電式 タイヤ交換 インパクト 最大緩めトルク550N・m 日本国内保証付 4段階切替モード 高出力ブラシレスモーター LED残照機能付き バッテリー・充電器別売 KIW18BK (限定ブラック本体のみ)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 382731.16,
-      "t30d_units": 59.0
-    },
-    {
-      "asin": "B0GCFMCVSV",
-      "item_name": "KINGMAX 電動ドリル マキタ 電動ドライバー 18v 互換工具 ドリルドライバー 全長147ｍｍ 最大トルク70N・m 高出力ブラシレスモーター LED残照機能付き KDF18 (本体のみ、バッテリ・充電器別売)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 36301.0,
-      "t30d_units": 34.0
-    },
-    {
-      "asin": "B0FWZT9XVL",
-      "item_name": "KINGMAX マキタ 18v バッテリー 6.0Ah実容量 純正 bl1860b 互換 5重保護機能 10C高性能の電池採用 日本メーカー保証1年間 5億円製造物責任保険付 国内サポートで長期安心 急速充電可能 保管や携帯に便利なカバー付き KBP1860D (2個セット)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 127272.17,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0F9YJNQHH",
-      "item_name": "KINGMAX ハンディチェーンソー マキタ 互換 工具 電動のこぎり 18v充電式 ミニ軽量コードレス 電動チェーンソー 日本国内保証付 ガイドバー150mm 家庭用 伐採 剪定 木材切断 KHS18B (バッテリー・充電器付)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 131855.2,
-      "t30d_units": 22.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1069636268602,
+      "merchant_name": "【公式】ReturnerJapan",
+      "asin": "B0F73X7GZC",
+      "item_name": "【究極の紅茶リキュール】RETURNER（リターナー） アールグレイ 700ml スリランカ産最高級茶葉使用 芳醇な紅茶の香り カクテル・ミルク割り・ロックで楽しむ贅沢リキュール",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 780955.68,
+      "t30d_units": 210.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

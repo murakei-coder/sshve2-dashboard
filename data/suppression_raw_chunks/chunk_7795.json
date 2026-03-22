@@ -1,13 +1,55 @@
 {
-  "54542491522": [
+  "54551836822": [
     {
-      "asin": "B0BWJGTBRR",
-      "item_name": "BIEn 電気鍋 電気調理鍋 グリル鍋 ラーメン うどん 目玉焼き お手伝い 受験 夜食 夏場に火を使わない 多機能フライパン 片手鍋 温度調節 食品グレード認証PP素材 旅行 車泊 (1.5L)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 2277820.25,
-      "t30d_units": 423.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 54551836822,
+      "merchant_name": "DL-JP",
+      "asin": "B0BMV13C3F",
+      "item_name": "Izeril 浄水ポットカートリッジ ブリタ 浄水器 ボトル型 カラフェ型 対応互換品 ブリタ マイクロディスク 4個セット",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 105485.04,
+      "t30d_units": 78.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 54551836822,
+      "merchant_name": "DL-JP",
+      "asin": "B0BMV5QP95",
+      "item_name": "Izeril 浄水ポットカートリッジ 対応互換品 カラフェ型 交換用 浄水器用 カートリッジ マイクロディスク 6個",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 48221.91,
+      "t30d_units": 26.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 54551836822,
+      "merchant_name": "DL-JP",
+      "asin": "B0CD1RS7KP",
+      "item_name": "Izeril 浄水ポットカートリッジ 浄水器 ボトル型 カラフェ型 対応互換品 マイクロディスク 8個セット",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 78557.57,
+      "t30d_units": 41.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

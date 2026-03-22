@@ -1,67 +1,21 @@
 {
-  "806030718702": [
+  "806211900402": [
     {
-      "asin": "B0DSVVVSMF",
-      "item_name": "Tawatinat キーボックス ダイヤル式 4桁 防犯 鍵共有非対面受け渡し 壁掛け吊り下げ対応 アルミ合金 屋外対応 民泊賃貸用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 412090.9,
-      "t30d_units": 224.0
-    },
-    {
-      "asin": "B0FNN8RRK5",
-      "item_name": "Tawatinat キーボックス ダイヤル式 4桁 防犯 鍵共有非対面受け渡し 壁掛け吊り下げ対応 アルミ合金 屋外対応 民泊賃貸用",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 4598.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DSVX8VNR",
-      "item_name": "Tawatinat キーボックス ダイヤル式 4桁 防犯 鍵共有非対面受け渡し 壁掛け吊り下げ対応 アルミ合金 屋外対応 民泊賃貸用",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 67017.41,
-      "t30d_units": 37.0
-    },
-    {
-      "asin": "B0DKFCQ61C",
-      "item_name": "Tawatinat キーボックス ダイヤル式 4桁 防犯 鍵共有非対面受け渡し 壁掛け吊り下げ対応 アルミ合金 屋外対応 民泊賃貸用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 730184.33,
-      "t30d_units": 398.0
-    },
-    {
-      "asin": "B0F918Z3DW",
-      "item_name": "Tawatinat キーボックス ダイヤル式 4桁 防犯 鍵共有非対面受け渡し 壁掛け吊り下げ対応 アルミ合金 屋外対応 民泊賃貸用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 87857.83,
-      "t30d_units": 40.0
-    },
-    {
-      "asin": "B0F91FLGHZ",
-      "item_name": "Tawatinat キーボックス ダイヤル式 4桁 防犯 鍵共有非対面受け渡し 壁掛け吊り下げ対応 アルミ合金 屋外対応 民泊賃貸用",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 37827.8,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0FPXTK33M",
-      "item_name": "Tawatinat セキュリティキーボックス 鍵収納 ダイヤル式 4桁パスワード 防犯 盗難防止 屋外防水 耐候性 リセット可能 5つのキー容量 オフィス 倉庫 車 玄関 別荘 アパート用 (樹脂大容量U型, 黒)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 106890.37,
-      "t30d_units": 56.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 806211900402,
+      "merchant_name": "Cueyou Japan Store",
+      "asin": "B0F29HBM8R",
+      "item_name": "Cueyou ふくらはぎケア【新進化・温熱ケア】 レッグケア ふくらはぎリラックス 空気圧 温熱 3モード 3段階強度 3段階温度 フットケア 太もも 足ケア 操作簡単 サイズ幅調整可 コードレスUSB充電式 家庭用 男女兼用 誕生日 クリスマス プレゼント 敬老の日 ギフト 母の日 父の日 日本語取扱説明書付き(",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 821845.83,
+      "t30d_units": 124.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,22 +1,38 @@
 {
   "3337721622": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 3337721622,
+      "merchant_name": "VANBLE-JP",
       "asin": "B0GC5VWZ2W",
       "item_name": "HAUSPROFI レジャーシート 厚手 大判 防水 ピクニックシート200x200cm アルミ断熱裏面 洗濯機洗い可 コンパクト収納 テント インナーシート ピクニックマット キャンプ アウトドア お花見 ペグ付き チェック",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
       "t30d_ops": 80680.0,
-      "t30d_units": 23.0
+      "t30d_units": 23.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 3337721622,
+      "merchant_name": "VANBLE-JP",
       "asin": "B0GC65BZWF",
       "item_name": "HAUSPROFI レジャーシート 厚手 大判 防水 ピクニックシート200x200cm アルミ断熱裏面 洗濯機洗い可 コンパクト収納 テント インナーシート ピクニックマット キャンプ アウトドア お花見 ペグ付き ボヘミアン柄",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
       "t30d_ops": 511746.38,
-      "t30d_units": 170.0
+      "t30d_units": 170.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

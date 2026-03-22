@@ -1,13 +1,55 @@
 {
-  "950873473502": [
+  "950903916202": [
     {
-      "asin": "B0DTHG2G6P",
-      "item_name": "【服飾デザイナー監修&解説！ 裾上げテープ クリップ4本付き】すそ上げ テープ 裾直し アイロン ズボン カーテン DIY スカート 強力 2.5cm 5m 説明書 動画解説 マチ針不要 洗濯OK 布 Toogee トーギー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 1010150.86,
-      "t30d_units": 720.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 950903916202,
+      "merchant_name": "SUPER LINER Global",
+      "asin": "B07T9LJV8Z",
+      "item_name": "SUPER LINER Tesla 新型モデルY（2025/2026年式）フロアマット | 車種専用設計・全天候型 4点セット TPE素材 | フロアマット・カーゴマット・トランク・車内アクセサリー",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 214883.0,
+      "t30d_units": 13.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 950903916202,
+      "merchant_name": "SUPER LINER Global",
+      "asin": "B0C1GF38MK",
+      "item_name": "SUPER LINER Tesla 新型モデルY（2025/2026年式）フロアマット | 車種専用設計・全天候型 6点セット TPE素材 | フロアマット・カーゴマット・トランク・車内アクセサリー",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 1685165.0,
+      "t30d_units": 64.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 950903916202,
+      "merchant_name": "SUPER LINER Global",
+      "asin": "B07YPTK2M4",
+      "item_name": "SUPER LINER 2024 2025年式 テスラモデル3 ハイランド(Model 3 Highland)専用 フロアマット カスタムフィット 全天候型カーゴライナー リアカーゴトレイ トランクフロアマット 内装アクセサリー",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 315108.0,
+      "t30d_units": 15.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

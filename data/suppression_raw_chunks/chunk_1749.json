@@ -1,22 +1,38 @@
 {
   "5699202422": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 5699202422,
+      "merchant_name": "Bio Breeze",
       "asin": "B0CK5Z2DR8",
       "item_name": "100% アルロース 1kg 粉末【日本語表記】ゼロカロリー 希少糖 砂糖の代わり 天然甘味料 | Greeneed（グリニド） [並行輸入品]",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 3427871.41,
-      "t30d_units": 1309.0
+      "t30d_units": 1309.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 5699202422,
+      "merchant_name": "Bio Breeze",
       "asin": "B0FQMW3HBP",
       "item_name": "100% アルロース 400g 粉末【日本語表記】ゼロカロリー 希少糖 砂糖の代わり 天然甘味料 | Greeneed（グリニド）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 655345.95,
-      "t30d_units": 388.0
+      "t30d_units": 388.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

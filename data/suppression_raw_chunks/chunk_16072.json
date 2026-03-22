@@ -1,40 +1,21 @@
 {
-  "1122004527102": [
+  "1122022397902": [
     {
-      "asin": "B0FPB9MS1B",
-      "item_name": "MOLADE せいろ蒸し器 手作り竹せいろ 天然竹せいろセット 中華せいろ 専用竹紙50枚付き 業務用せいろ(竹せいろ直径約21cm) 中華せいろ本体2個・蓋1個セット (竹セイロ直径約21cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 60260.0,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B0FPBBF6BN",
-      "item_name": "MOLADE せいろ蒸し器 手作り竹せいろ 天然竹せいろセット 中華せいろ 専用竹紙50枚付き 業務用せいろ(竹せいろ直径約26cm) 中華せいろ本体2個・蓋1個セット (竹セイロ直径約26cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 113045.33,
-      "t30d_units": 44.0
-    },
-    {
-      "asin": "B0FPBBNJLT",
-      "item_name": "MOLADE せいろ蒸し器 手作り竹せいろ 天然竹せいろセット 中華せいろ 専用竹紙50枚付き 業務用せいろ(竹せいろ直径約24cm) 中華せいろ本体2個・蓋1個セット (竹セイロ直径約24cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 111492.65,
-      "t30d_units": 42.0
-    },
-    {
-      "asin": "B0FNCDHGML",
-      "item_name": "MOLADE 簡単トイレ携帯トイレ 強力消臭 簡易トイレ 15年保存 救急トイレ災害用 非常用防災トイレ 防災グッズ 凝固剤×60 手袋 防臭袋 日本語取扱説明書（60回） [並行輸入品]",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 50337.0,
-      "t30d_units": 23.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1122022397902,
+      "merchant_name": "iCell 公式ストア",
+      "asin": "B0FXXF2RY3",
+      "item_name": "【氷川きよしさん愛用】iCell コアドロップセラム ハイグレードエクソソーム高配合 美容液 30ml 高保湿 乾燥肌 うるおい ハリ ツヤ 次世代型レチノール 美容皮膚科医監修 アイセル",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 405990.36,
+      "t30d_units": 34.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

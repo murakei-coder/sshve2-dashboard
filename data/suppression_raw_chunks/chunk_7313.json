@@ -1,76 +1,55 @@
 {
-  "48804845122": [
+  "48807922522": [
     {
-      "asin": "B0F4BTZWQL",
-      "item_name": "【節電対策-5年保証】OCIOC LED人感センサー シーリングライト 2160lm 4畳 18w 超薄デザイン 洗面所 トイレ キッチン 廊下 玄関 小型 天井照明 工事不要 リモコンなし メーカー5年保証 黒枠 昼光色 2個入り",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 77181.0,
-      "t30d_units": 19.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 48807922522,
+      "merchant_name": "AOOSTAR直営店",
+      "asin": "B0DBPTGSD2",
+      "item_name": "AOOSTAR ミニPC GEM10 Ryzen7 7840HS+780M搭載 ゲーミングノー遅延pc 32G 6400MT/S RAM 1TB PCIE4.0 SSD(3基スロット) 省エネmini pc OCuLink +USB4.0 安定高速 アルミ合金製 3画面出力 最大8K@60Hz、2x2.5GLAN WIFI6 BT5.2 オフィス/ビジネス/ゲーム",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DGV25VVN",
-      "item_name": "【節電対策-5年保証】OCIOC 省エネ LEDシーリングライト 4畳 6畳 18w 超薄デザイン 洗面所 台所 トイレ キッチン 廊下 玄関 小型 天井照明 工事不要 リモコンなし メーカー5年保証 (人感センサー, 4畳 白枠 2160lm 2個入り（昼光色）)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 111573.0,
-      "t30d_units": 27.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 48807922522,
+      "merchant_name": "AOOSTAR直営店",
+      "asin": "B0F2HKX6PP",
+      "item_name": "AOOSTAR GEM10 ミニpc ryzen7 7840HS 780M 16G LPDDR5 6400MT/s 512G PCIE4.0 SSD（3つ拡張可）OcuLink+USB4.0 egpu接続安定 3画面 8k@60hz 二つファン ほぼ無音 省エネ mini pc 2.5GLANx2/ WiFi6/BT5.2 省スペースパソコン",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DXJXLWW2",
-      "item_name": "【節電対策-5年保証】OCIOC 省エネ LEDシーリングライト 4畳 6畳 18w 超薄デザイン 洗面所 台所 トイレ キッチン 廊下 玄関 小型 天井照明 工事不要 リモコンなし メーカー5年保証 (人感センサー, 4畳 白枠 2160lm 2個入り（昼白色）)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 220147.52,
-      "t30d_units": 54.0
-    },
-    {
-      "asin": "B0D1R3FZXC",
-      "item_name": "【節電対策-5年保証】OCIOC LED人感センサー シーリングライト 1620lm 4畳 12w 超薄デザイン 洗面所 トイレ キッチン 廊下 玄関 小型 天井照明 工事不要 リモコンなし メーカー5年保証 白枠 昼白色",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 396433.63,
-      "t30d_units": 203.0
-    },
-    {
-      "asin": "B0DGV2KFYJ",
-      "item_name": "【節電対策-5年保証】OCIOC 省エネ LEDシーリングライト 4畳 12w 超薄デザイン 洗面所 台所 トイレ キッチン 廊下 玄関 小型 天井照明 工事不要 リモコンなし メーカー5年保証 (人感センサー, 4畳 白枠 1620lm 2個入り（昼白色）)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 135563.66,
-      "t30d_units": 36.0
-    },
-    {
-      "asin": "B0BZYPVQP8",
-      "item_name": "【節電対策-5年保証】OCIOC 省エネ LED人感センサー シーリングライト 2160lm 4畳 18w 超薄デザイン 洗面所 トイレ キッチン 廊下 玄関 小型 天井照明 工事不要 リモコンなし メーカー5年保証 白枠 昼白色",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 534002.9,
-      "t30d_units": 242.0
-    },
-    {
-      "asin": "B096X199NT",
-      "item_name": "【Alexa認定-5年保証】OCIOC スマート LEDシーリングライト RGB間接光-調光可能 6畳~8畳 省エネ バックライト 導光板 フラット薄型 調光 調色 常夜灯 北欧風 工事不要 簡単取付 防振ワイヤーロープ メーカー5年保証 400MM 白枠",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 438905.0,
-      "t30d_units": 68.0
-    },
-    {
-      "asin": "B0F48CDZSK",
-      "item_name": "【節電対策-5年保証】OCIOC 省エネ LEDシーリングライト 4畳 6畳 2160lm 18w 超薄デザイン 洗面所 台所 トイレ キッチン 廊下 玄関 小型 天井照明 工事不要 リモコンなし メーカー5年保証 昼光色 2個入り",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 77180.99,
-      "t30d_units": 19.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 48807922522,
+      "merchant_name": "AOOSTAR直営店",
+      "asin": "B0DBPVY7DZ",
+      "item_name": "AOOSTAR ミニpc GEM10 Ryzen 7 7840HS 最大5.1Ghz mini pc 32G/512G 6400MT/S 4TB*3 NVME SSD拡張可 OCuLink(USB4 PD給電 8K@60Hz)2x2.5GLAN WIFI6 BT5.2 HDMI2.1 DP1.4 2個ファン 静音 小型 パソコン オフィス/ビジネス",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

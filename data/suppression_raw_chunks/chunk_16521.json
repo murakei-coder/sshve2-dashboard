@@ -1,13 +1,21 @@
 {
-  "1143949418502": [
+  "1143984351102": [
     {
-      "asin": "B0FX3WWCPH",
-      "item_name": "JPILST ボイスレコーダー 小型 ICレコーダー【32G大容量&80時間連続録音&1536kbps音質】録音機 液晶画面 ワンボタン録音 レコーダー HDノイズリダクション VOR音声検知 自動保存 コンパクト 分割録音 タイマー録音 OTG対応 Type-C充電式 多機能 簡単操作 携帯便利 Android/iOS/Windows/Mac対応 日本語取扱説明書付き",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 2570038.45,
-      "t30d_units": 841.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1143984351102,
+      "merchant_name": "VIVID SUISSE",
+      "asin": "B0FXKCGCD4",
+      "item_name": "【Vivid Suisse】 育毛剤 ロールオン 医薬部外品 高濃度8%配合 (ローズマリー/ノコギリヤシ/エンドウ芽) スカルプケア 頭皮マッサージ ハリ コシ ボリュームアップ ベタつかない 男女兼用 25ml",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 85510.81,
+      "t30d_units": 52.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,22 +1,38 @@
 {
   "6350819822": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 6350819822,
+      "merchant_name": "セカロー",
       "asin": "B07KY8TSPM",
       "item_name": "小島通商 自由にくねくね 変幻自在 ソフトワイヤー 超ロング 用途いろいろ スタンド 結束バンド フック くねローゼ【超ロング86cm】２本入",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
       "t30d_ops": 79927.6,
-      "t30d_units": 67.0
+      "t30d_units": 67.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 6350819822,
+      "merchant_name": "セカロー",
       "asin": "B0CK4DVNZT",
       "item_name": "小島通商 自由にくねくね 変幻自在 ソフトワイヤー 用途いろいろ タブレットスタンド ハンガー 結束バンド フックとして「くねローゼ【ロング43cm】4本入セット」",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
       "t30d_ops": 90288.62,
-      "t30d_units": 82.0
+      "t30d_units": 82.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

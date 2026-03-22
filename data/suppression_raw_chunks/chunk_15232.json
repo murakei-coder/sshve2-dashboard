@@ -1,13 +1,55 @@
 {
-  "1079281673702": [
+  "1079285060702": [
     {
-      "asin": "B0CG9RYRZC",
-      "item_name": "【1台3役】HAGOOGI 充電式カイロ 急速発熱 ハンドウォーマー モバイルバッテリー 懐中電灯 電子カイロ 3階段温度調節 5000mAh大容量 急速充電 エコ 小型 超軽量 持ち運びやすい 寒さ対策 アウトドア 通勤通学 クリスマスプレゼント キャンプ用 (グリーン)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 31432.15,
-      "t30d_units": 24.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1079285060702,
+      "merchant_name": "SNEAKER BARBER",
+      "asin": "B0F8HHT96Y",
+      "item_name": "【オカポンが企画開発したスニーカークリーナー】 スニーカーバーバー 靴クリーナー Supreme Foam One 水洗い不要 レザー スウェード ヌバック 靴磨き 万能",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 238371.66,
+      "t30d_units": 96.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1079285060702,
+      "merchant_name": "SNEAKER BARBER",
+      "asin": "B0F8Q512TM",
+      "item_name": "[SNEAKER BARBER] 靴用強力粉クリーナー Supreme Powder Two ブラシセット オカポン 頑固汚れ 水洗い 上履き スニーカー",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 49600.08,
+      "t30d_units": 20.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1079285060702,
+      "merchant_name": "SNEAKER BARBER",
+      "asin": "B0F8Q89HPZ",
+      "item_name": "[SNEAKER BARBER] 【Amazon.co.jp 限定】【オカポンが開発したスニーカークリーナー】 スニーカーバーバー 靴クリーナー Supreme Foam One 限定セット（本体＋ブラシ＋タオル）水洗い不要 レザー スウェード ヌバック 靴磨き 万能",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 384480.16,
+      "t30d_units": 120.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

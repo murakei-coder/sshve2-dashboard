@@ -1,13 +1,21 @@
 {
-  "1171241262302": [
+  "1171265454102": [
     {
-      "asin": "B0GJ92MPR8",
-      "item_name": "ドライブレコーダー ミラー型 4K【2026革新&13インチIPS大画面&64GB SDカード】Carplay & Android Auto ドライブレコーダー 前後カメラ ミラー型ドラレコ スマホ連動 上下+左右画像逆転可 バック連動 24時間駐車監視 デジタルインナーミラー12-24V対応 日本語説明書 M CARKUMI P14",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 15635.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1171265454102,
+      "merchant_name": "OTG Camping Gear",
+      "asin": "B0GH6B278K",
+      "item_name": "ONETIGRIS AERODREAM エアーマット インフレータブルマット 軽量 登山 快適 静音 持ち運び便利 コンパクト収納 183 x 58 x 3.5cm 3シーズン用 キャンプ バイクキャンプ 来客用",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 51942.0,
+      "t30d_units": 15.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

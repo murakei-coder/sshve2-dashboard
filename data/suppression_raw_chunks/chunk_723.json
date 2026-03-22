@@ -1,22 +1,38 @@
 {
   "812633915": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 812633915,
+      "merchant_name": "ブノワ株式会社",
       "asin": "B0DVBYNC3H",
       "item_name": "【薬剤師が開発】omu(オーエムユー) フェイスローション 120ml 浸透力が違う 超純水(不純物がほぼゼロの水)化粧水 保湿 しっとり ローション 敏感肌 乾燥肌 馬プラセンタ ハーブ コラーゲンペプチド パッケージリニューアル(ブノワ株式会社)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 131430.0,
-      "t30d_units": 47.0
+      "t30d_units": 47.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 812633915,
+      "merchant_name": "ブノワ株式会社",
       "asin": "B0DNVZD77W",
       "item_name": "omu(オーエムユー) ハンドクリーム 32g 高保湿 べたつきにくい 手肌用 乾燥肌 敏感肌向け 日本製 ハーブの香り ハンドケア ギフト ハンドケアに悩む美容師のために開発したハンドクリーム スキンケア(ブノワ株式会社)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 62497.0,
-      "t30d_units": 30.0
+      "t30d_units": 30.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

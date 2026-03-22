@@ -1,49 +1,38 @@
 {
-  "600955736402": [
+  "601141120002": [
     {
-      "asin": "B0D1SYB1JB",
-      "item_name": "キテン リポソームビタミンC サプリメント 2000mg 特許成分配合 マルチビタミン 超吸収 医師監修 日本製 KITEN 120粒 30日分",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 30399026.38,
-      "t30d_units": 11125.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 601141120002,
+      "merchant_name": "Asogoon（アソグーン）",
+      "asin": "B0F3PH1SCT",
+      "item_name": "Asogoon 外遊び おもちゃ グッズ 子供 公園遊び バトミントン フリスビー キャッチボール 【おしゃれ収納バッグ付き】ラケット セット",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 312178.65,
+      "t30d_units": 94.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0BWX49MSL",
-      "item_name": "キテン レチノール リポソーム 純粋レチノール 0.1 シカ クリーム ナイアシンアミド セラミド アイクリーム ハリ ツヤ 高濃度 保湿 無添加 日本製 20g",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 45870410.21,
-      "t30d_units": 19168.0
-    },
-    {
-      "asin": "B0BWX5MFLK",
-      "item_name": "キテン ホワイトピュア プラセンタ グリチルリチン酸２k 敏感肌 乾燥肌 乾燥 保湿 ハリ ボディバター 無添加 医薬部外品 100ml",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 972063.99,
-      "t30d_units": 331.0
-    },
-    {
-      "asin": "B0BWX4TCY7",
-      "item_name": "キテン ハイドロキノン クリーム 6.0% レチノール フラーレン セラミド シカ フラーレン 無添加 保湿 日本製 20g",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 37452837.53,
-      "t30d_units": 15054.0
-    },
-    {
-      "asin": "B0CX3RNMSC",
-      "item_name": "キテン NMN サプリメント 24000mg ナイアシン 高純度 99.9% 60 カプセル 二酸化チタン不使用 リジン 日本製",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 616218.32,
-      "t30d_units": 144.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 601141120002,
+      "merchant_name": "Asogoon（アソグーン）",
+      "asin": "B0G15NCJLH",
+      "item_name": "ボードゲーム OK!GAME®｜OKゲーム 五目並べ｜日本語説明書付き｜小学生〜大人まで遊べるファミリー・パーティーゲーム｜旅する持ち運び型マルチゲーム",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 542427.18,
+      "t30d_units": 273.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

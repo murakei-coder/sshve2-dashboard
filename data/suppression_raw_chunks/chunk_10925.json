@@ -1,49 +1,55 @@
 {
-  "595390895202": [
+  "595815843202": [
     {
-      "asin": "B0FBWYF2H7",
-      "item_name": "[ひあめ] 晴れ雨兼用 折りたたみ傘 スマホサイズ UPF50+ 紫外線99%カット 軽量210g カプセル型ケース付 レディース メンズ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DTKFVZYB",
-      "item_name": "【毛髪診断士推薦】hadient トリートメント 洗い流す しっとり オーガニック ヒートプロテクト ダメージケアオイル 180g (３本セット)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 595815843202,
+      "merchant_name": "BEEF NUTRITION",
+      "asin": "B0CNSX31S8",
+      "item_name": "ビーフニュートリション ライジングコア ビーフ佐々木監修 ノンカフェイン プレワークアウト カロペプタイド シトルリン マカ ビーツ エゾウコギ 80カプセル 日本製",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 106604.0,
+      "t30d_units": 31.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DTKGNP2X",
-      "item_name": "【毛髪診断士推薦】hadient トリートメント 洗い流す しっとり オーガニック ヒートプロテクト ダメージケアオイル 180g (２本セット)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 595815843202,
+      "merchant_name": "BEEF NUTRITION",
+      "asin": "B0C5MC6M6F",
+      "item_name": "BEEF NUTRITION ビーフニュートリション パワーリカバリー ビーフ佐々木監修 ビタミン&抗酸化物質 ビタミンB群 ミネラル リコピン アスタキサンチン アルファリポ酸 150カプセル 食事＆休息サポート",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 149195.0,
+      "t30d_units": 43.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0BV6GPMBX",
-      "item_name": "【毛髪診断士推薦】hadient トリートメント 洗い流す 酸熱トリートメント オーガニック ヒートプロテクト ダメージケアオイル 180g (１本)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 38166.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0FBZMKXKP",
-      "item_name": "[ひあめ] 晴れ雨兼用 折りたたみ傘 スマホサイズ UPF50+ 紫外線99%カット 軽量210g カプセル型ケース付 レディース メンズ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 1680.0,
-      "t30d_units": 1.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 595815843202,
+      "merchant_name": "BEEF NUTRITION",
+      "asin": "B0DNM8GWBN",
+      "item_name": "BEEF NUTRITION ビーフニュートリション 【REBOUND CONTROL】 リバウンドコントロール ビーフ佐々木監修 240カプセル 減量 ダイエット HCA アルファリポ酸 HMB クロミウム",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 64332.0,
+      "t30d_units": 16.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

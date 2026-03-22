@@ -37,19 +37,8 @@ def process_sourcing_to_chunks(max_chunk_size_mb=90):
         mcid_str = str(int(mcid)) if pd.notna(mcid) else 'unknown'
         mcid_count += 1
         
-        # Build records for this MCID
-        records = []
-        for _, row in group.iterrows():
-            records.append({
-                'asin': str(row.get('asin.1', '')),
-                'item_name': str(row.get('item_name', '')),
-                'adopted_flag': str(row.get('SSHVE2_Adopted Flag', '')),
-                'sourced_flag': str(row.get('SSHVE2_SourcedFlag', '')),
-                'pf': str(row.get('pf', '')),
-                'gl': str(row.get('gl', '')),
-                'total_gms': float(row.get('total_t30d_gms_BAU', 0)) if pd.notna(row.get('total_t30d_gms_BAU')) else 0,
-                'priority': str(row.get('priority', '')),
-            })
+        # Build records for this MCID - preserve ALL columns from original file
+        records = group.to_dict('records')
         
         # Check if this single MCID is too large
         single_mcid_json = json.dumps({mcid_str: records}, ensure_ascii=False, indent=2)
@@ -136,18 +125,8 @@ def process_suppression_to_chunks(max_chunk_size_mb=90):
         mcid_str = str(int(mcid)) if pd.notna(mcid) else 'unknown'
         mcid_count += 1
         
-        # Build records for this MCID
-        records = []
-        for _, row in group.iterrows():
-            records.append({
-                'asin': str(row.get('asin', '')),
-                'item_name': str(row.get('item_name', '')),
-                'suppression_reason': str(row.get('cleaned_suppression_reason', '')),
-                'suppression_category': str(row.get('suppression_category_large', '')),
-                'pf': str(row.get('pf', '')),
-                't30d_ops': float(row.get('t30d_ops', 0)) if pd.notna(row.get('t30d_ops')) else 0,
-                't30d_units': float(row.get('t30d_units', 0)) if pd.notna(row.get('t30d_units')) else 0,
-            })
+        # Build records for this MCID - preserve ALL columns from original file
+        records = group.to_dict('records')
         
         # Check if this single MCID is too large
         single_mcid_json = json.dumps({mcid_str: records}, ensure_ascii=False, indent=2)

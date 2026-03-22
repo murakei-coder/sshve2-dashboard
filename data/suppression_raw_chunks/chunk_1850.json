@@ -1,13 +1,21 @@
 {
   "6159625022": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 6159625022,
+      "merchant_name": "Yuede",
       "asin": "B0FF99LXSL",
       "item_name": "Yuede サイドテーブル 丸型 収納バスケット付き 3段 ナイトテーブル ベッドテーブル ソファ ミニテーブル コーヒーテーブル 省スペース リビング ベッドルーム ガーデン コーナー 幅30cm 高さ61cm おしゃれ",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
       "t30d_ops": 201847.46,
-      "t30d_units": 48.0
+      "t30d_units": 48.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

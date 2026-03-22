@@ -1,40 +1,21 @@
 {
-  "7158887522": [
+  "7159255855": [
     {
-      "asin": "B0G3WDJQR7",
-      "item_name": "TESmart KVMスイッチ HDMI 4入力1出力 USB3.0 PC切替器 パソコン4台モニター1台切り替え 4ポート 4K@60Hz 4:4:4 HDCP2.2 HDR10/Dolby対応 ヘッドセット EDID機能 ホットキー切り替え IRリモコン付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 382649.44,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0D5CKC9C1",
-      "item_name": "TESmart 8K@60Hz 4入力1出力 HDMI KVMスイッチ 1モニター4パソコン用 USB3.0 KVM切替器 4K@120Hz/144Hz HDR10/Dolby Vision EDID機能 L/Rオーディオポート ホットキー切替 VRR/FVA/ALLM対応 HDCP2.3 充電機能 リモコン、入力ケーブル付属",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 51744.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F8NYP82L",
-      "item_name": "TESmart KVMスイッチ 4入力2出力 (USB-C HDMI+DP) MST対応 デュアルモニター KVM切替器 4K@60Hz USB3.0 4台PC2ディスプレイ用 KVM切り替え器 60W PD充電 ギガビットLANポート L/Rオーディオポート EDID機能 ホットキー 入力ケーブル、リモコン、ラックイヤ付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08D7L1SZT",
-      "item_name": "TESmart HDMI 切り替え器 8入力1出力 切替器 8ポート 4K@60Hz 8x1 セレクター HDMI スイッチ 音声分離器 EDID機能 HDCP2.2 RS232、LANポート 自動スキャン機能 自動検出機能 ケーブル、リモコン、ラックイヤー付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 32880.0,
-      "t30d_units": 1.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 7159255855,
+      "merchant_name": "SLODAパワー",
+      "asin": "B07QWT2WS2",
+      "item_name": "SLODA 交換用バッテリー MacBook Air 11 inch A1495 A1406(A1370,A1465)に適用ノートPCバッテリー[リチウムポリマー,7.4V,5200mAh]",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

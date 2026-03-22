@@ -1,211 +1,55 @@
 {
-  "730886899102": [
+  "730906309202": [
     {
-      "asin": "B0F58ZWK2P",
-      "item_name": "歓送迎会 お花見 大分 神々 (じんじん) オリジナルボックスセット 麦焼酎 銀25度 芋焼酎 白20度 720ml ×2本 シリカ 128mg/L 含有 温泉水 飲みくらべ 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 6400.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 730906309202,
+      "merchant_name": "dancemoon Direct JP",
+      "asin": "B0F24MXWMT",
+      "item_name": "dancemoon JustHang 水切りワイパー 風呂 一体成型シリコン・ビルトインフックでスマート収納・サッと水切り 25cm ホワイト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 620467.97,
+      "t30d_units": 208.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0D336HDCL",
-      "item_name": "歓送迎会 お花見 純米大吟醸酒 大分 神々 (じんじん) 15度 720ml シリカ 128mg/L 含有 温泉水で作った日本酒 贈り物 お祝い",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 730906309202,
+      "merchant_name": "dancemoon Direct JP",
+      "asin": "B0F24MHHFD",
+      "item_name": "dancemoon JustHang 水切りワイパー 風呂 一体成型シリコン・ビルトインフックでスマート収納・サッと水切り 25cm ブラック",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 186742.67,
+      "t30d_units": 63.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B085L2JBNW",
-      "item_name": "歓送迎会 お花見 麦焼酎 大分 神々 (じんじん) 青 22度 温泉水で作った焼酎 720ml 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 29706.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0862975C4",
-      "item_name": "歓送迎会 お花見 麦焼酎 大分 神々 (じんじん) オリジナルBOX 温泉水で作った焼酎 720ml ×2本 ギフトセット 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 177608.0,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0BNM2C1FK",
-      "item_name": "歓送迎会 お花見 芋焼酎 大分 神々 (じんじん) 感謝 ボックスセット 温泉水で作った焼酎 720ml ×2本 ギフトセット 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 126729.0,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0F595JWBG",
-      "item_name": "歓送迎会 お花見 大分 神々 (じんじん) 感謝ボックスセット 麦焼酎 銀25度 芋焼酎 白20度 720ml ×2本 シリカ 128mg/L 含有 温泉水 飲みくらべ 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 65665.33,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0BZCGZ1FL",
-      "item_name": "歓送迎会 お花見 芋焼酎 大分 神々 (じんじん) 白 20度 温泉水で作った焼酎 720ml 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 47124.0,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0BZCFHV2F",
-      "item_name": "歓送迎会 お花見 芋焼酎 大分 神々 (じんじん) 黒 25度 温泉水で作った焼酎 720ml 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 51422.0,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B086256L99",
-      "item_name": "歓送迎会 お花見 麦焼酎 大分 神々 (じんじん) 金 30度 温泉水で作った焼酎 720ml 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 174729.0,
-      "t30d_units": 30.0
-    },
-    {
-      "asin": "B0F58Y9VQM",
-      "item_name": "歓送迎会 お花見 大分 神々 (じんじん) 感謝ボックスセット 麦焼酎 金30度 芋焼酎 白20度 720ml ×2本 シリカ 128mg/L 含有 温泉水 飲みくらべ 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 8700.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F599WCQS",
-      "item_name": "歓送迎会 お花見 大分 神々 (じんじん) 感謝ボックスセット 麦焼酎 銀25度 芋焼酎 黒25度 720ml ×2本 シリカ 128mg/L 含有 温泉水 飲みくらべ 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 29522.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0F599HFY6",
-      "item_name": "歓送迎会 お花見 大分 神々 (じんじん) オリジナルボックスセット 麦焼酎 銀25度 芋焼酎 黒25度 720ml ×2本 シリカ 128mg/L 含有 温泉水 飲みくらべ 贈り物 お祝い",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F483KYLK",
-      "item_name": "歓送迎会 お花見 麦焼酎 大分 神々 (じんじん) 桜 パッケージ 赤 18度 720ml シリカ 128mg/L 含有 温泉水で作った焼酎 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 13332.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B08P5VDBSZ",
-      "item_name": "歓送迎会 お花見 麦焼酎 大分 神々 (じんじん) 感謝 ボトル 18度 温泉水で作った焼酎 720ml 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 891132.49,
-      "t30d_units": 158.0
-    },
-    {
-      "asin": "B0F484QP9J",
-      "item_name": "歓送迎会 お花見 芋焼酎 大分 神々 (じんじん) 桜 パッケージ 黒 25度 720ml シリカ 128mg/L 含有 温泉水で作った焼酎 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 11900.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0BNM5JTS6",
-      "item_name": "歓送迎会 お花見 芋焼酎 大分 神々 (じんじん) オリジナルボックスセット 温泉水で作った焼酎 720ml ×2本 ギフトセット 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 7300.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F484FNTK",
-      "item_name": "歓送迎会 お花見 麦焼酎 大分 神々 (じんじん) 桜 パッケージ 青 22度 720ml シリカ 128mg/L 含有 温泉水で作った焼酎 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 3100.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F483RWJ5",
-      "item_name": "歓送迎会 お花見 芋焼酎 大分 神々 (じんじん) 桜 パッケージ 白 20度 720ml シリカ 128mg/L 含有 温泉水で作った焼酎 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 12865.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0F594R278",
-      "item_name": "歓送迎会 お花見 大分 神々 (じんじん) 感謝ボックスセット 麦焼酎 金30度 芋焼酎 黒25度 720ml ×2本 シリカ 128mg/L 含有 温泉水 飲みくらべ 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 28000.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B07Q2PPZV4",
-      "item_name": "歓送迎会 お花見 麦焼酎 大分 神々 (じんじん) 赤 18度 温泉水で作った焼酎 720ml 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 38316.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B09RQRBKJY",
-      "item_name": "歓送迎会 お花見 麦焼酎 大分 神々 (じんじん) 感謝 BOX 温泉水で作った焼酎 720ml ×2本 ギフトセット 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 341794.0,
-      "t30d_units": 38.0
-    },
-    {
-      "asin": "B08627LQ1K",
-      "item_name": "歓送迎会 お花見 麦焼酎 大分 神々 (じんじん) 銀 25度 温泉水で作った焼酎 720ml 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 575761.32,
-      "t30d_units": 146.0
-    },
-    {
-      "asin": "B0F59BM8KL",
-      "item_name": "歓送迎会 お花見 大分 神々 (じんじん) オリジナルボックスセット 麦焼酎 金30度 芋焼酎 黒25度 720ml ×2本 シリカ 128mg/L 含有 温泉水 飲みくらべ 贈り物 お祝い",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 18000.0,
-      "t30d_units": 2.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 730906309202,
+      "merchant_name": "dancemoon Direct JP",
+      "asin": "B0F24QBT4D",
+      "item_name": "dancemoon JustHang 水切りワイパー 風呂 一体成型シリコン・ビルトインフックでスマート収納・サッと水切り 25cm グレー",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 237856.66,
+      "t30d_units": 80.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

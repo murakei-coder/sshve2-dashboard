@@ -1,22 +1,72 @@
 {
-  "6861834222": [
+  "6861853945": [
     {
-      "asin": "B0FN6FTHDK",
-      "item_name": "【マラソンランナー提案】 指 足指 広げる トレーニング サポーター 靴 ストレッチ 男女兼用 1セット(2個) PLEASINGSAN プリージングサン (親指用タイプ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 372230.66,
-      "t30d_units": 393.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 6861853945,
+      "merchant_name": "株式会社IKOU",
+      "asin": "B0DCZ8ZTD5",
+      "item_name": "IKOU ペット用酸素濃度計 ペット用酸素ケージ適用 高精度 酸素濃度測定器 酸素室 O2測定濃度範囲 0-100%",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 1144242.0,
+      "t30d_units": 63.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B07GN9W26T",
-      "item_name": "【市民ランナーが開発】 足指 指 広げる トレーニング サポーター グッズ シリコン 靴 男女兼用 PLEASINGSAN プリージングサン (全指用タイプ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 949135.25,
-      "t30d_units": 992.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 6861853945,
+      "merchant_name": "株式会社IKOU",
+      "asin": "B0DB2GL4BK",
+      "item_name": "IKOU ペット用酸素発生器 大型5L酸素発生器 濃度90％ 大型ペット用 犬 猫 動物 5Lタイプ (東日本50Hz)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 6861853945,
+      "merchant_name": "株式会社IKOU",
+      "asin": "B0D8FKT2RL",
+      "item_name": "IKOU 大型 ペット用酸素発生器 高濃度酸素発生器 濃度90％ 大型ペット用 犬 猫 動物 5Lタイプ (西日本60Hz)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 209182.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 6861853945,
+      "merchant_name": "株式会社IKOU",
+      "asin": "B0DCYWYXS6",
+      "item_name": "IKOU ペット酸素発生器 日本語パネル 安定供給 酸素吸入器 軽量 コンパクト リモコン付き 犬 猫 ペット用",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 4007414.0,
+      "t30d_units": 152.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

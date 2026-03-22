@@ -1,22 +1,55 @@
 {
-  "858705365102": [
+  "858791542102": [
     {
-      "asin": "B0G1R5KMBW",
-      "item_name": "Secret of The Night CLEAR 女性用 プラセンタ30mg配合 無味無臭 国内産 飲むタイプ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 2962548.08,
-      "t30d_units": 719.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 858791542102,
+      "merchant_name": "Rythflo Direct Store",
+      "asin": "B0F62NH76B",
+      "item_name": "Rythflo Bluetooth イヤホン ネックバンド型 ノイズキャンセリング ANC搭載 ENC通話 60時間再生 マグネット式ネックバンド IPX6防水 V5.3 ワイヤレスイヤホン Type-C急速充電 通勤・在宅・オフィスに最適",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 2866920.47,
+      "t30d_units": 401.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F13CL75G",
-      "item_name": "Secret of The Night PREMIUM プラセンタ30mg配合 国内産 飲むタイプ 液体 透明",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 719939.91,
-      "t30d_units": 181.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 858791542102,
+      "merchant_name": "Rythflo Direct Store",
+      "asin": "B0DK4ZZQ47",
+      "item_name": "Rythflo Bluetoothイヤホン ネックバンド型 150時間連続再生 ワイヤレスBluetoothイヤホン マイク付き 首掛け イヤフォン ブルートゥースイヤホン 防水IPX7 重低音仕様 Type-C急速充電 家庭用、旅行、アウトドア 出張に最適",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 623655.31,
+      "t30d_units": 106.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 858791542102,
+      "merchant_name": "Rythflo Direct Store",
+      "asin": "B0DK56YXHL",
+      "item_name": "Rythflo Bluetoothヘッドホン ワイヤレスBluetoothイヤフォン ネックバンド マイク付き ネットネックバンドイヤホン 30時間再生 IPX7防水",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 190110.46,
+      "t30d_units": 31.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

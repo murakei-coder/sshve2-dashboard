@@ -1,22 +1,38 @@
 {
   "2982736622": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 2982736622,
+      "merchant_name": "HYPOWELL",
       "asin": "B0BW4L9XSK",
       "item_name": "HYPOWELL デスクライト LED電気スタンド アームライト 卓上 クリップライト 読書灯 目に優しい無段階調光 3段階調色 平面発光 360度回転アーム ブラック 省エネ 学習机 台灯 勉強 机 ライト 明るい ライトすたんど ブックライト (Black)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 44643.0,
-      "t30d_units": 12.0
+      "t30d_units": 12.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 2982736622,
+      "merchant_name": "HYPOWELL",
       "asin": "B0BW4QQ3DC",
       "item_name": "デスクライト 卓上/クリップ/クランプライト LED電気スタンド アームライト 読書灯 目に優しい HYPOWELL 無段階調光 3段階調色 平面発光 360度回転アーム ブラック 省エネ 学習机 台灯 勉強 机 明るい ライトすたんど(White)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 43514.0,
-      "t30d_units": 12.0
+      "t30d_units": 12.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

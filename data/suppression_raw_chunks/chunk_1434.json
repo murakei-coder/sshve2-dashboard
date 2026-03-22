@@ -1,13 +1,21 @@
 {
   "4151013722": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 4151013722,
+      "merchant_name": "JP-Anita",
       "asin": "B0CH9J1P9C",
       "item_name": "miaoyu フェイススチーマー 濃密ナノミスト 温冷 スチーマー 美容 顔保湿 補水 潤い 乾燥対策 毛穴の清潔 水道水OK たっぷりタンク 毛穴ケア 美顔器 家庭用SPA スキンケア用品補助 美容家電 白",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 965460.82,
-      "t30d_units": 196.0
+      "t30d_units": 196.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

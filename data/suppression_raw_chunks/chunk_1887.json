@@ -1,13 +1,21 @@
 {
   "6321186655": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 6321186655,
+      "merchant_name": "株式会社篠原化学",
       "asin": "B07NHZPZ7Y",
       "item_name": "篠原化学 エコラテ エリート 厚さ10cm 三つ折り マットレス 硬め150N (シングル)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 181909.0,
-      "t30d_units": 9.0
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

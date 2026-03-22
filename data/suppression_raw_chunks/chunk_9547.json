@@ -1,202 +1,106 @@
 {
-  "78133784722": [
+  "78135321722": [
     {
-      "asin": "B0CJ4J2MFM",
-      "item_name": "【公式ストア限定】 S・HEART・S(エス・ハート・エス) ペット用ブラシ パルムアニモ Palm Animaux 犬 猫 ブラッシング シャンプー エス・ハート・エス 公式 ブック付き (ピンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 30647.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0FSJGJ6X8",
-      "item_name": "【公式ストア限定】 エスハートエス ワールドプレミアムロング スカルプブラシ シャンプーブラシ ヘアブラシ リフトケア ヘアケア 頭皮マッサージ 頭皮ケア 美容師推奨 ギフト エス・ハート・エス S HEART S (レッド)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 162722.0,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B0C2CC5VX1",
-      "item_name": "【公式ストア限定】 S・HEART・S(エス・ハート・エス) スカルプブラシ ストレートヘア 男女両用 クロム 静電気防止 ビューティーブック付き",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 432491.98,
-      "t30d_units": 42.0
-    },
-    {
-      "asin": "B0BQ1TQYN7",
-      "item_name": "【公式ストア限定】 エスハートエス スカルプブラシ ワールドプレミアムショート ゴールド シャンプーブラシ ヘアブラシ リフトケア ヘアケア 頭皮マッサージ 頭皮ケア 美容師推奨 ギフト プレゼント エス・ハート・エス S HEART S 公式 ビューティーブック付き",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 1373526.03,
-      "t30d_units": 211.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 78135321722,
+      "merchant_name": "vamjir",
+      "asin": "B0BFQLB3HN",
+      "item_name": "Desobry ポータブルCDプレーヤーコンパクトスピーカー内蔵 FMトランスミッター付き 2000mAh充電式バッテリー搭載 +10スキップ機能 5EQエフェクト A-Bリピート/プログラム再生 32GBTFカード･CD･MP3等対応 ASP防振で音飛び防止 AUX出力端子 ダブルイヤホン端子 日本語取扱説明書付き",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 224479.33,
+      "t30d_units": 41.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FX7SFS85",
-      "item_name": "【公式ストア限定】 エスハートエス ワールドプレミアムロング スカルプブラシ シャンプーブラシ ヘアブラシ リフトケア ヘアケア 頭皮マッサージ 頭皮ケア 美容師推奨 ギフト エス・ハート・エス S HEART S 公式",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 147329.0,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0CDGS52M6",
-      "item_name": "【公式ストア限定】 エスハートエス スカルプブラシ com ハード グレー シャンプーブラシ 頭皮ケア スカルプケア ヘアケア やや硬め エス・ハート・エス S HEART S 公式 ビューティーブック付き",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 292302.11,
-      "t30d_units": 64.0
-    },
-    {
-      "asin": "B0FX9QVFMZ",
-      "item_name": "【公式ストア限定】 エスハートエス スカルプブラシ ワールドモデル ピンクゴールド ロング シャンプーブラシ ヘアブラシ ヘアケア 頭皮ケア リフトケア ギフト プレゼント エス・ハート・エス S HEART S 公式 (ピンクゴールド(ギフトバッグ、ヘアターバン付き), ロング)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BQ1XQ6LL",
-      "item_name": "【公式ストア限定】エスハートエス スカルプブラシ ワールドモデルショート ピンクゴールド シャンプーブラシ ヘアブラシ リフトケア 頭皮マッサージ 頭皮ケア 美容師推奨 ギフト プレゼント エス・ハート・エス S HEART S 公式 ビューティーブック付き",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 1692154.22,
-      "t30d_units": 273.0
-    },
-    {
-      "asin": "B0C65CZ24F",
-      "item_name": "【公式ストア限定】 S・HEART・S(エス・ハート・エス) Sasso プロケアトリートメント 400mL エス・ハート・エス公式 ビューティーブック付き",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 50835.66,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0C65DG95M",
-      "item_name": "【公式ストア限定】 S・HEART・S(エス・ハート・エス) スカルプ カッサブラシ 頭皮マッサージブラシ エス・ハート・エス公式 ビューティーブック付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 15960.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0FSJQ454J",
-      "item_name": "【公式ストア限定】 エスハートエス スカルプブラシ パフェ parfaite シャンプーブラシ ヘアブラシ リフトケア ヘアケア 頭皮マッサージ 頭皮ケア 美容師推奨 ギフト プレゼント エス・ハート・エス S HEART S 公式 (イエロー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 38850.0,
-      "t30d_units": 11.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 78135321722,
+      "merchant_name": "vamjir",
+      "asin": "B0D1X849SG",
+      "item_name": "Miuscall-C サウンドバー テレビ用 Bluetooth5.0対応 スピーカー テレビ スピーカー DSP搭載 USB対応 音楽/ゲーム/映画3つEQモード 同軸デジタル/光デジタル/AUX接続/HDMI入力対応(80CM)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 9580.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0BQ1YGXRX",
-      "item_name": "【公式ストア限定】 エスハートエス ワールドプレミアムロング スカルプブラシ シャンプーブラシ ヘアブラシ リフトケア ヘアケア 頭皮マッサージ 頭皮ケア 美容師推奨 ギフト エス・ハート・エス S HEART S 公式 ビューティーブック付き (パープル)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 493736.76,
-      "t30d_units": 66.0
-    },
-    {
-      "asin": "B0FSJQB599",
-      "item_name": "【公式ストア限定】 エスハートエス スカルプブラシ パフェ parfaite シャンプーブラシ ヘアブラシ リフトケア ヘアケア 頭皮マッサージ 頭皮ケア 美容師推奨 ギフト プレゼント エス・ハート・エス S HEART S 公式 (パープル)",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 48650.0,
-      "t30d_units": 13.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 78135321722,
+      "merchant_name": "vamjir",
+      "asin": "B0FKMPC4DZ",
+      "item_name": "CDプレーヤー Bluetooth CDラジカセ 壁掛け＆卓上式 スピーカー内蔵 A-Bリピート再生 2000mah充電池内蔵 USB/TFカード対応 AUX接続可能 音楽再生/語学学習/胎児教育 防塵カバー搭載 リモコン付き",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 62678.0,
+      "t30d_units": 11.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CJ4J528H",
-      "item_name": "【公式ストア限定】 S・HEART・S(エス・ハート・エス) ペット用ブラシ パルムアニモ Palm Animaux 犬 猫 ブラッシング シャンプー エス・ハート・エス 公式 ブック付き (グリーン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 22399.32,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0FSJMQM51",
-      "item_name": "【公式ストア限定】 エスハートエス スカルプブラシ パフェ parfaite シャンプーブラシ ヘアブラシ リフトケア ヘアケア 頭皮マッサージ 頭皮ケア 美容師推奨 ギフト プレゼント エス・ハート・エス S HEART S 公式 (グリーン)",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 17850.0,
-      "t30d_units": 5.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 78135321722,
+      "merchant_name": "vamjir",
+      "asin": "B0FX25N1HR",
+      "item_name": "ミニDVDプレーヤー 1080P HDMI/AV出力対応 タッチボタン式 DVD/CD再生 リージョンフリー CPRM対応 USB/TFカード再生 テレビ/プロジェクター接続可能 リモコン付き（Blue-ray非対応）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 335154.98,
+      "t30d_units": 70.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0C65DYYL1",
-      "item_name": "【公式ストア限定】 S・HEART・S(エス・ハート・エス) 頭皮すこやかブラシ ヘアブラシ エス・ハート・エス公式 ビューティーブック付き",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 29359.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0CJM47L6R",
-      "item_name": "【公式ストア限定】 エスハートエス トリートメントブラシ キュア ブラック プロ仕様 トリートメント専用 ヘアブラシ ヘアケア エス・ハート・エス S HEART S 公式 ビューティーブック付き",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 126934.0,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0CDGQQY2F",
-      "item_name": "【公式ストア限定】 S・HEART・S(エス・ハート・エス) スカルプブラシ com レギュラー ホワイト シャンプーブラシ 男女両用 ビューティーブック付き",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 187345.82,
-      "t30d_units": 46.0
-    },
-    {
-      "asin": "B0BQ21CQ4Q",
-      "item_name": "【公式ストア限定】 エスハートエス ワールドプレミアムロング スカルプブラシ シャンプーブラシ ヘアブラシ リフトケア ヘアケア 頭皮マッサージ 頭皮ケア 美容師推奨 ギフト エス・ハート・エス S HEART S 公式 ビューティーブック付き (ゴールド)",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 2347102.86,
-      "t30d_units": 325.0
-    },
-    {
-      "asin": "B0BQ1WS1FM",
-      "item_name": "【公式ストア限定】 エスハートエス スカルプブラシ ワールドモデルロング ピンクゴールド シャンプーブラシ ヘアブラシ ヘアケア 頭皮ケア リフトケア ギフト プレゼント エス・ハート・エス S HEART S 公式 ビューティーブック付き",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 312208.32,
-      "t30d_units": 45.0
-    },
-    {
-      "asin": "B0FSJPZ75D",
-      "item_name": "【公式ストア限定】 エスハートエス スカルプブラシ パフェ parfaite シャンプーブラシ ヘアブラシ リフトケア ヘアケア 頭皮マッサージ 頭皮ケア 美容師推奨 ギフト プレゼント エス・ハート・エス S HEART S 公式 (レッド)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 28700.0,
-      "t30d_units": 8.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 78135321722,
+      "merchant_name": "vamjir",
+      "asin": "B0F9JZSX29",
+      "item_name": "Bluetoothスピーカー 小型 ポータブル ワイヤレススピーカー TWS Desobry 約18時間連続再生可能 USB/Type-C充電 Android/IOS対応",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 16378.0,
+      "t30d_units": 7.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0C65F8RSJ",
-      "item_name": "【公式ストア限定】 S・HEART・S(エス・ハート・エス) Sasso プロケアシャンプー 400mL エス・ハート・エス公式 ビューティーブック付き",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 98886.0,
-      "t30d_units": 27.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 78135321722,
+      "merchant_name": "vamjir",
+      "asin": "B0FKGHVXG4",
+      "item_name": "Desobry CDプレーヤー 壁掛け ディスクプレーヤーBluetooth送受信・スピーカー内蔵/Bluetooth/FMラジオ/USBモード対応 +10スキップ・A-Bリピート再生 AUX機能 5EQエフェクト 音楽鑑賞/語学学習/胎児教育 PSE認証済み 日本語説明書付き",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

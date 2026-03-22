@@ -1,40 +1,72 @@
 {
   "6492068922": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 6492068922,
+      "merchant_name": "eume　イウミー",
       "asin": "B0BLVM4ZZJ",
       "item_name": "[eume] イウミー めぐりソックス 光電子 むくみ 快眠 フリーサイズ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
       "t30d_ops": 94942.0,
-      "t30d_units": 19.0
+      "t30d_units": 19.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 6492068922,
+      "merchant_name": "eume　イウミー",
       "asin": "B0DYJ6W9RG",
       "item_name": "eume イウミー プロテイン ホエイ ヘンプ フィッシュコラーゲン ほうじ茶 マッチャイ MATCHAI HOJICHA PROTEIN 国内製造 (240g, HOJICHA)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 406504.97,
-      "t30d_units": 119.0
+      "t30d_units": 119.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 6492068922,
+      "merchant_name": "eume　イウミー",
       "asin": "B0G2Y4THLB",
       "item_name": "eume otomo green 青汁 おともグリーン 桑の葉 腸活 国産 無添加 ダイエット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 513437.12,
-      "t30d_units": 178.0
+      "t30d_units": 178.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 6492068922,
+      "merchant_name": "eume　イウミー",
       "asin": "B0DYJLL1Y8",
       "item_name": "eume イウミー プロテイン ホエイ ヘンプ フィッシュコラーゲン ほうじ茶 マッチャイ MATCHAI HOJICHA PROTEIN 国内製造 (240g, MATCHAI HEMP)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 229979.6,
-      "t30d_units": 68.0
+      "t30d_units": 68.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

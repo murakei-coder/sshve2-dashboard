@@ -1,580 +1,140 @@
 {
-  "33535669822": [
+  "33564984522": [
     {
-      "asin": "B0CYCHF4DD",
-      "item_name": "折りたたみ傘 Zruier【超大サイズ・12本骨】 折り畳み傘 軽量 メンズ レディース 大きい 頑丈12本骨 高強度グラスファイバー 耐風撥水 手動開閉 おりたたみ傘 台風対応 豪雨対応 メンズ傘 梅雨対策 傘 男女兼用 (グレ一)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 33564984522,
+      "merchant_name": "ケー・エイチ・ケー【適格請求書発行事業者】",
+      "asin": "B0F4DSGFP6",
+      "item_name": "【業界最高水準 大容量60g】しらがかくし女性用 セット(ダークブラウン)[交換用パフ3個＋詰替え60g] 白髪かくし ポンポン ヘアファンデーション 女性 地肌 増毛パウダー ヘアリドゥ",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CZHTMBZN",
-      "item_name": "【風の強さに特化傘】Zruier 傘 メンズ 長傘 雨傘 230T高強度グラスファイバー伞 12本骨 頑丈 超撥水 大判 130cm 耐風傘 ジャンプ傘 ワンタッチ 紳士傘 台風対応 晴雨兼用傘 収納ポーチ付き (グレ一)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 85898.66,
-      "t30d_units": 26.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 33564984522,
+      "merchant_name": "ケー・エイチ・ケー【適格請求書発行事業者】",
+      "asin": "B0G51RPV2M",
+      "item_name": "【業界最高水準 大容量60g】ポンポンパフ 白髪隠し セット パフ容器 ＋ 交換用パフ2個 ＋ 詰め替えパック60g ヘアファンデーション 女性 地肌 ヘアリドゥ 増毛パウダー(ダークブラウン）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 11405.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FH4Q6TMW",
-      "item_name": "【完全遮光日傘2025登場】Zruier 日傘 メンズ 完全遮光 長傘 超軽量 レディース 晴雨兼用 UVカット 100% 遮熱効果 熱中症対策 傘 ワイド 58cm スポーツ観戦 グラスファイバー 耐風 撥水 ワンタッチ ジャンプ傘 (ホワイト+あんずいろ, 58cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 33564984522,
+      "merchant_name": "ケー・エイチ・ケー【適格請求書発行事業者】",
+      "asin": "B0F4DVTMH2",
+      "item_name": "【業界最高水準 大容量60g】しらがかくし女性用 詰替えパック60g(ブラック)[パフ型ヘアファンデ専用] 白髪かくし ポンポン ヘアファンデーション 女性 地肌 増毛パウダー ヘアリドゥ",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 6248.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 33564984522,
+      "merchant_name": "ケー・エイチ・ケー【適格請求書発行事業者】",
+      "asin": "B0F4DTMZ4M",
+      "item_name": "【業界最高水準 大容量60g】しらがかくし女性用 セット(ブラック)[交換用パフ3個＋詰替え60g] 白髪かくし ポンポン ヘアファンデーション 女性 地肌 増毛パウダー ヘアリドゥ",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 33564984522,
+      "merchant_name": "ケー・エイチ・ケー【適格請求書発行事業者】",
+      "asin": "B0DWMRJPTC",
+      "item_name": "【業界最高水準 大容量60g】しらがかくし女性用 セット(ブラック)[パフ容器＋交換用パフ2個＋詰替え60g] 白髪かくし ポンポン ヘアファンデーション 女性 地肌 増毛パウダー ヘアリドゥ",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 5960.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 33564984522,
+      "merchant_name": "ケー・エイチ・ケー【適格請求書発行事業者】",
+      "asin": "B0F4DSPXSB",
+      "item_name": "【業界最高水準 大容量60g】しらがかくし女性用 セット(ダークブラウン)[ヘアラインコーム＋パフ容器＋交換用パフ2個＋詰替え60g] 白髪かくし ポンポン ヘアファンデーション 女性 地肌 増毛パウダー ヘアリドゥ",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 3480.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 33564984522,
+      "merchant_name": "ケー・エイチ・ケー【適格請求書発行事業者】",
+      "asin": "B0DWMP89PP",
+      "item_name": "【業界最高水準 大容量60g】しらがかくし女性用 セット(ダークブラウン)[パフ容器＋交換用パフ2個＋詰替え60g] 白髪かくし ポンポン ヘアファンデーション 女性 地肌 増毛パウダー ヘアリドゥ",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 8805.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 33564984522,
+      "merchant_name": "ケー・エイチ・ケー【適格請求書発行事業者】",
+      "asin": "B0G51RM5YD",
+      "item_name": "【業界圧倒コスパNo,1の60g】ポンポンパフ 白髪隠し セット パフ容器 ＋ 交換用パフ2個 ＋ 詰め替えパック60g ヘアファンデーション 女性 地肌 ヘアリドゥ 増毛パウダー (ブラック)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0F1XYJZ2N",
-      "item_name": "Zruier シューズバッグ 防水防塵防臭 超軽量 シューズケース 半透明 小物入れ 靴入れ袋 スポーツ ゴルフ 収納袋 男女兼用 旅行 出張 スポーツ シューズ入れ 靴収納ケース スニーカー 携帯便利 (ブラック&紺色, M)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 6216.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0F5W63ZDD",
-      "item_name": "Zruier シューズバッグ 防水防塵防臭 超軽量 シューズケース 半透明 小物入れ 靴入れ袋 スポーツ ゴルフ 収納袋 男女兼用 旅行 出張 スポーツ シューズ入れ 靴収納ケース スニーカー 携帯便利 (グレー, S)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5388.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0GGZ4S8ZB",
-      "item_name": "Zruier 傘 メンズ 長傘 【2026昇級版超軽量482g・耐風・豪雨対応】直径112cm ジャンプ傘 大きい 230T超撥水 雨傘 丈夫なグラスファイバー 耐風傘 ワンタッチ メンズ レディース 台風対策 梅雨対策 収納ポーチ付き (インクグリーン)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 55001.33,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0GGXYT4ZF",
-      "item_name": "Zruier 傘 メンズ 長傘 【2026昇級版超軽量482g・耐風・豪雨対応】直径112cm ジャンプ傘 大きい 230T超撥水 雨傘 丈夫なグラスファイバー 耐風傘 ワンタッチ メンズ レディース 台風対策 梅雨対策 収納ポーチ付き (ネイビー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 135027.75,
-      "t30d_units": 45.0
-    },
-    {
-      "asin": "B0DCJ5HBG5",
-      "item_name": "[Zruier] シューズストレッチャー シューキーパー 靴 サイズ調整 靴擦れ 靴ズレ 靴伸ばし フィッター プラスチック 靴広げる道具 2個セット ダボ付 左右兼用 男女兼用 (ダークグレー, M (24.5~26.5cm))",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 15585.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0F5VQG8DS",
-      "item_name": "Zruier シューズバッグ 防水防塵防臭 超軽量 シューズケース 半透明 小物入れ 靴入れ袋 スポーツ ゴルフ 収納袋 男女兼用 旅行 出張 スポーツ シューズ入れ 靴収納ケース スニーカー 携帯便利 (ブラック, S)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 13092.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0F1Y23VMY",
-      "item_name": "Zruier シューズバッグ 防水防塵防臭 超軽量 シューズケース 半透明 小物入れ 靴入れ袋 スポーツ ゴルフ 収納袋 男女兼用 旅行 出張 スポーツ シューズ入れ 靴収納ケース スニーカー 携帯便利 (ブラック&ブラック, M)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DZ21WC81",
-      "item_name": "【風の強さに特化傘】Zruier 傘 メンズ 長傘 雨傘 230T高強度グラスファイバー伞 12本骨 頑丈 超撥水 大判 130cm 耐風傘 ジャンプ傘 ワンタッチ 紳士傘 台風対応 晴雨兼用傘 収納ポーチ付き (インクグリーン)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 110341.41,
-      "t30d_units": 33.0
-    },
-    {
-      "asin": "B0CZHRGC6Y",
-      "item_name": "【風の強さに特化傘】Zruier 傘 メンズ 長傘 雨傘 230T高強度グラスファイバー伞 12本骨 頑丈 超撥水 大判 130cm 耐風傘 ジャンプ傘 ワンタッチ 紳士傘 台風対応 晴雨兼用傘 収納ポーチ付き (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 133944.8,
-      "t30d_units": 38.0
-    },
-    {
-      "asin": "B0DT44SYTM",
-      "item_name": "Zruier 傘 メンズ レディース 長傘【超軽量●豪雨台風対応】超撥水 耐風 230T高強度グラスファイバー Teflon加工 丈夫 日傘 大きい 直径110cm 紳士長傘 晴雨兼用 収納ポーチ付き(カーキ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 107238.33,
-      "t30d_units": 41.0
-    },
-    {
-      "asin": "B0DL9Q557D",
-      "item_name": "Zruier シューズバッグ 防水防塵防臭 超軽量 シューズケース 半透明 小物入れ 靴入れ袋 スポーツ ゴルフ 収納袋 男女兼用 旅行 出張 スポーツ シューズ入れ 靴収納ケース スニーカー 携帯便利 (グレー, L)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 3507.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FJDM3X86",
-      "item_name": "【完全遮光日傘2025登場】Zruier 日傘 メンズ 完全遮光 長傘 超軽量 レディース 晴雨兼用 UVカット 100% 遮熱効果 熱中症対策 銀パラソル傘 ワイド 58cm スポーツ観戦 グラスファイバー 耐風 撥水 ワンタッチ ジャンプ傘 (チタン銀, 58cm)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 28410.78,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0GGZ8CHT1",
-      "item_name": "Zruier 傘 メンズ 長傘 【2026昇級版超軽量482g・耐風・豪雨対応】直径112cm ジャンプ傘 大きい 230T超撥水 雨傘 丈夫なグラスファイバー 耐風傘 ワンタッチ メンズ レディース 台風対策 梅雨対策 収納ポーチ付き (ぞうげいろ(象牙色))",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 64187.33,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B0F47SHFMW",
-      "item_name": "【完全遮光日傘2025登場】Zruier 日傘 メンズ 完全遮光 長傘 超軽量 レディース 晴雨兼用 UVカット 100% 遮熱効果 熱中症対策 傘 ワイド 58cm スポーツ観戦 グラスファイバー 耐風 撥水 ワンタッチ ジャンプ傘 (ブラック, 58cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 21470.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0F47XT3CN",
-      "item_name": "【完全遮光日傘2025登場】Zruier 日傘 メンズ 完全遮光 長傘 超軽量 レディース 晴雨兼用 UVカット 100% 遮熱効果 熱中症対策 傘 ワイド 58cm スポーツ観戦 グラスファイバー 耐風 撥水 ワンタッチ ジャンプ傘 (ネイビー, 58cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 19779.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0F47JTMKR",
-      "item_name": "【完全遮光日傘2025登場】Zruier 日傘 メンズ 完全遮光 長傘 超軽量 レディース 晴雨兼用 UVカット 100% 遮熱効果 熱中症対策 傘 ワイド 58cm スポーツ観戦 グラスファイバー 耐風 撥水 ワンタッチ ジャンプ傘 (あんずいろ, 58cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 166106.98,
-      "t30d_units": 51.0
-    },
-    {
-      "asin": "B0DL9PHF9V",
-      "item_name": "Zruier シューズバッグ 防水防塵防臭 超軽量 シューズケース 半透明 小物入れ 靴入れ袋 スポーツ ゴルフ 収納袋 男女兼用 旅行 出張 スポーツ シューズ入れ 靴収納ケース スニーカー 携帯便利 (ブラック, L)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 17820.0,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0CYCHLW1M",
-      "item_name": "折りたたみ傘 Zruier【超大サイズ・12本骨】 折り畳み傘 軽量 メンズ レディース 大きい 頑丈12本骨 高強度グラスファイバー 耐風撥水 手動開閉 おりたたみ傘 台風対応 豪雨対応 メンズ傘 梅雨対策 男女兼用 (ブルー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 11154.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0DT457JD8",
-      "item_name": "Zruier 傘 メンズ レディース 長傘【超軽量●豪雨台風対応】超撥水 耐風 230T高強度グラスファイバー Teflon加工 丈夫 日傘 大きい 直径110cm 紳士長傘 晴雨兼用 収納ポーチ付き(ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 168655.35,
-      "t30d_units": 65.0
-    },
-    {
-      "asin": "B0GGZCST5P",
-      "item_name": "Zruier 傘 メンズ 長傘 【2026昇級版超軽量482g・耐風・豪雨対応】直径112cm ジャンプ傘 大きい 230T超撥水 雨傘 丈夫なグラスファイバー 耐風傘 ワンタッチ メンズ レディース 台風対策 梅雨対策 収納ポーチ付き (カーキ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 60975.33,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B0DT45JDXL",
-      "item_name": "Zruier 傘 メンズ レディース 長傘【超軽量●豪雨台風対応】超撥水 耐風 230T高強度グラスファイバー Teflon加工 丈夫 日傘 大きい 直径110cm 紳士長傘 晴雨兼用 収納ポーチ付き(インクグリーン)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 64803.66,
-      "t30d_units": 24.0
-    },
-    {
-      "asin": "B0CYCKHY7P",
-      "item_name": "折りたたみ傘 Zruier【超大サイズ・12本骨】 折り畳み傘 軽量 メンズ レディース 大きい 頑丈12本骨 高強度グラスファイバー 耐風撥水 手動開閉 おりたたみ傘 台風対応 豪雨対応 メンズ傘 梅雨対策 傘 男女兼用 (カ一キ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 3200.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FH61RR1F",
-      "item_name": "【完全遮光日傘2025登場】Zruier 日傘 メンズ 完全遮光 長傘 超軽量 レディース 晴雨兼用 UVカット 100% 遮熱効果 熱中症対策 傘 ワイド 58cm スポーツ観戦 グラスファイバー 耐風 撥水 ワンタッチ ジャンプ傘 (ホワイト+ホワイト, 58cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F47D2353",
-      "item_name": "【完全遮光日傘2025登場】Zruier 日傘 メンズ 完全遮光 長傘 超軽量 レディース 晴雨兼用 UVカット 100% 遮熱効果 熱中症対策 傘 ワイド 58cm スポーツ観戦 グラスファイバー 耐風 撥水 ワンタッチ ジャンプ傘 (グレー, 58cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 7054.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DL9BF7H5",
-      "item_name": "Zruier シューズバッグ 防水防塵防臭 超軽量 シューズケース 半透明 小物入れ 靴入れ袋 スポーツ ゴルフ 収納袋 男女兼用 旅行 出張 スポーツ シューズ入れ 靴収納ケース スニーカー 携帯便利 (ブラック, M)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F37TYWR9",
-      "item_name": "Zruier 傘 メンズ レディース 長傘【超軽量●豪雨台風対応】超撥水 耐風 230T高強度グラスファイバー Teflon加工 丈夫 日傘 大きい 直径110cm 紳士長傘 晴雨兼用 収納ポーチ付き (ネイビー+ブラック, 2) 直径110cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DL9Q3YSC",
-      "item_name": "Zruier シューズバッグ 防水防塵防臭 超軽量 シューズケース 半透明 小物入れ 靴入れ袋 スポーツ ゴルフ 収納袋 男女兼用 旅行 出張 スポーツ シューズ入れ 靴収納ケース スニーカー 携帯便利 (グレー, M)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DYCWD7RT",
-      "item_name": "[Zruier] シューズストレッチャー シューキーパー 靴 サイズ調整 靴擦れ 靴ズレ 靴伸ばし フィッター プラスチック 靴広げる道具 2個セット ダボ付 左右兼用 男女兼用 (灰青(はいあお, L (25.0~29.0cm))",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 181818.06,
-      "t30d_units": 106.0
-    },
-    {
-      "asin": "B0DZ21FSBK",
-      "item_name": "【風の強さに特化傘】Zruier 傘 メンズ 長傘 雨傘 230T高強度グラスファイバー伞 12本骨 頑丈 超撥水 大判 130cm 耐風傘 ジャンプ傘 ワンタッチ 紳士傘 台風対応 晴雨兼用傘 収納ポーチ付き (ブラウン)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": -498933.0,
-      "t30d_units": -139.0
-    },
-    {
-      "asin": "B0DCJ3QCN4",
-      "item_name": "[Zruier] シューズストレッチャー シューキーパー 靴 サイズ調整 靴擦れ 靴ズレ 靴伸ばし フィッター プラスチック 靴広げる道具 2個セット ダボ付 左右兼用 男女兼用 (ダークグレー, S (22.5~25.5cm))",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1869.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F47GTGDN",
-      "item_name": "【完全遮光日傘2025登場】Zruier 日傘 メンズ 完全遮光 長傘 超軽量 レディース 晴雨兼用 UVカット 100% 遮熱効果 熱中症対策 傘 ワイド 58cm スポーツ観戦 グラスファイバー 耐風 撥水 ワンタッチ ジャンプ傘 (ホワイト, 58cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 126057.8,
-      "t30d_units": 39.0
-    },
-    {
-      "asin": "B0DL9R6N6W",
-      "item_name": "Zruier シューズバッグ 防水防塵防臭 超軽量 シューズケース 半透明 小物入れ 靴入れ袋 スポーツ ゴルフ 収納袋 男女兼用 旅行 出張 スポーツ シューズ入れ 靴収納ケース スニーカー 携帯便利 (紺色, M)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CYCC9KKF",
-      "item_name": "【大きな荷物も濡れない大判長傘】Zruier 傘 メンズ レディース 長傘 日傘 大きい 直径120cm 超撥水 230T高強度グラスファイバー Teflon加工 軽量 豪雨台風対応 丈夫 紳士長傘 晴雨兼用 収納ポーチ付き (ネイビー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 28720.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0DYD2DHFH",
-      "item_name": "[Zruier] シューズストレッチャー シューキーパー 靴 サイズ調整 靴擦れ 靴ズレ 靴伸ばし フィッター プラスチック 靴広げる道具 2個セット ダボ付 左右兼用 男女兼用 (灰青(はいあお, S (22.5~25.5cm))",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 118081.75,
-      "t30d_units": 69.0
-    },
-    {
-      "asin": "B0CYCF1JBS",
-      "item_name": "【大きな荷物も濡れない大判長傘】Zruier 傘 メンズ レディース 長傘 日傘 大きい 直径120cm 超撥水 230T高強度グラスファイバー Teflon加工 軽量 豪雨台風対応 丈夫 紳士長傘 晴雨兼用 収納ポーチ付き (ダークグレー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 41345.0,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0CYCH15LJ",
-      "item_name": "折りたたみ傘 Zruier【超大サイズ・12本骨】 折り畳み傘 軽量 メンズ レディース 大きい 頑丈12本骨 高強度グラスファイバー 耐風撥水 手動開閉 おりたたみ傘 台風対応 豪雨対応 メンズ傘 梅雨対策 男女兼用(ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DCJC1385",
-      "item_name": "[Zruier] シューズストレッチャー シューキーパー 靴 サイズ調整 靴擦れ 靴ズレ 靴伸ばし フィッター プラスチック 靴広げる道具 2個セット ダボ付 左右兼用 男女兼用 (きいろ, L (25.0~29.0cm))",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 125710.33,
-      "t30d_units": 71.0
-    },
-    {
-      "asin": "B0DT43TJL2",
-      "item_name": "Zruier 傘 メンズ レディース 長傘【超軽量●豪雨台風対応】超撥水 耐風 230T高強度グラスファイバー Teflon加工 丈夫 日傘 大きい 直径110cm 紳士長傘 晴雨兼用 収納ポーチ付き(ちゃいろ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 20872.66,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0DCHSSL2V",
-      "item_name": "[Zruier] シューズストレッチャー シューキーパー 靴 サイズ調整 靴擦れ 靴ズレ 靴伸ばし フィッター プラスチック 靴広げる道具 2個セット ダボ付 左右兼用 男女兼用 (ブラック, S (22.5~25.5cm))",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 56286.32,
-      "t30d_units": 33.0
-    },
-    {
-      "asin": "B0F5W12SQZ",
-      "item_name": "Zruier シューズバッグ 防水防塵防臭 超軽量 シューズケース 半透明 小物入れ 靴入れ袋 スポーツ ゴルフ 収納袋 男女兼用 旅行 出張 スポーツ シューズ入れ 靴収納ケース スニーカー 携帯便利 (紺色, S)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F47J5S18",
-      "item_name": "【完全遮光日傘2025登場】Zruier 日傘 メンズ 完全遮光 長傘 超軽量 レディース 晴雨兼用 UVカット 100% 遮熱効果 熱中症対策 傘 ワイド 58cm スポーツ観戦 グラスファイバー 耐風 撥水 ワンタッチ ジャンプ傘 (インクグリーン, 58cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 6380.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CYCKC36R",
-      "item_name": "折りたたみ傘 Zruier【超大サイズ・12本骨】 折り畳み傘 軽量 メンズ レディース 大きい 頑丈12本骨 高強度グラスファイバー 耐風撥水 手動開閉 おりたたみ傘 台風対応 豪雨対応 メンズ傘 梅雨対策 傘 男女兼用 (グリ一ン)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 1119.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DCHS9QMR",
-      "item_name": "[Zruier] シューズストレッチャー シューキーパー 靴 サイズ調整 靴擦れ 靴ズレ 靴伸ばし フィッター プラスチック 靴広げる道具 2個セット ダボ付 左右兼用 男女兼用 (ブラック, M (24.5~26.5cm))",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 77970.03,
-      "t30d_units": 45.0
-    },
-    {
-      "asin": "B0DCJ5T4B2",
-      "item_name": "[Zruier] シューズストレッチャー シューキーパー 靴 サイズ調整 靴擦れ 靴ズレ 靴伸ばし フィッター プラスチック 靴広げる道具 2個セット ダボ付 左右兼用 男女兼用 (ブラック, L (25.0~29.0cm))",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 87624.55,
-      "t30d_units": 49.0
-    },
-    {
-      "asin": "B0F1XXYY4H",
-      "item_name": "Zruier シューズバッグ 防水防塵防臭 超軽量 シューズケース 半透明 小物入れ 靴入れ袋 スポーツ ゴルフ 収納袋 男女兼用 旅行 出張 スポーツ シューズ入れ 靴収納ケース スニーカー 携帯便利 (紺色&紺色, M)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 1439.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CYCJ5VZS",
-      "item_name": "【大きな荷物も濡れない大判長傘】Zruier 傘 メンズ レディース 長傘 日傘 大きい 直径120cm 超撥水 230T高強度グラスファイバー Teflon加工 軽量 豪雨台風対応 丈夫 紳士長傘 晴雨兼用 収納ポーチ付き (インクグリーン)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 10980.33,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DL9PFKHR",
-      "item_name": "Zruier シューズバッグ 防水防塵防臭 超軽量 シューズケース 半透明 小物入れ 靴入れ袋 スポーツ ゴルフ 収納袋 男女兼用 旅行 出張 スポーツ シューズ入れ 靴収納ケース スニーカー 携帯便利 (紺色, L)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 1039.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DCJ43ZQR",
-      "item_name": "[Zruier] シューズストレッチャー シューキーパー 靴 サイズ調整 靴擦れ 靴ズレ 靴伸ばし フィッター プラスチック 靴広げる道具 2個セット ダボ付 左右兼用 男女兼用 (きいろ, S (22.5~25.5cm))",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 119461.74,
-      "t30d_units": 68.0
-    },
-    {
-      "asin": "B0DZ1ZDFXJ",
-      "item_name": "【風の強さに特化傘】Zruier 傘 メンズ 長傘 雨傘 230T高強度グラスファイバー伞 12本骨 頑丈 超撥水 大判 130cm 耐風傘 ジャンプ傘 ワンタッチ 紳士傘 台風対応 晴雨兼用傘 収納ポーチ付き (カーキ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 33773.9,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0DYD5P626",
-      "item_name": "[Zruier] シューズストレッチャー シューキーパー 靴 サイズ調整 靴擦れ 靴ズレ 靴伸ばし フィッター プラスチック 靴広げる道具 2個セット ダボ付 左右兼用 男女兼用 (灰青(はいあお, M (24.5~26.5cm))",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 105628.41,
-      "t30d_units": 62.0
-    },
-    {
-      "asin": "B0CYCCF7S5",
-      "item_name": "【大きな荷物も濡れない大判長傘】Zruier 傘 メンズ レディース 長傘 日傘 大きい 直径120cm 超撥水 230T高強度グラスファイバー Teflon加工 軽量 豪雨台風対応 丈夫 紳士長傘 晴雨兼用 収納ポーチ付き (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 46024.0,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0GGXG53G7",
-      "item_name": "Zruier 傘 メンズ 長傘 【2026昇級版超軽量482g・耐風・豪雨対応】直径115cm ジャンプ傘 大きい 230T超撥水 雨傘 丈夫なグラスファイバー 耐風傘 ワンタッチ メンズ レディース 台風対策 梅雨対策 収納ポーチ付き (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 81757.33,
-      "t30d_units": 27.0
-    },
-    {
-      "asin": "B0CZHTZ5NP",
-      "item_name": "【風の強さに特化傘】Zruier 傘 メンズ 長傘 雨傘 230T高強度グラスファイバー伞 12本骨 頑丈 超撥水 大判 130cm 耐風傘 ジャンプ傘 ワンタッチ 紳士傘 台風対応 晴雨兼用傘 収納ポーチ付き (ネイビー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 133393.66,
-      "t30d_units": 43.0
-    },
-    {
-      "asin": "B0DCHJQPYR",
-      "item_name": "[Zruier] シューズストレッチャー シューキーパー 靴 サイズ調整 靴擦れ 靴ズレ 靴伸ばし フィッター プラスチック 靴広げる道具 2個セット ダボ付 左右兼用 男女兼用 (ダークグレー, L (25.0~29.0cm))",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 21603.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0DT45RN49",
-      "item_name": "Zruier 傘 メンズ レディース 長傘【超軽量●豪雨台風対応】超撥水 耐風 230T高強度グラスファイバー Teflon加工 丈夫 日傘 大きい 直径110cm 紳士長傘 晴雨兼用 収納ポーチ付き(ダークグレー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 79888.33,
-      "t30d_units": 30.0
-    },
-    {
-      "asin": "B0CYCGKGVP",
-      "item_name": "【大きな荷物も濡れない大判長傘】Zruier 傘 メンズ レディース 長傘 日傘 大きい 直径120cm 超撥水 230T高強度グラスファイバー Teflon加工 軽量 豪雨台風対応 丈夫 紳士長傘 晴雨兼用 収納ポーチ付き (カーキ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 11202.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DT45RM7T",
-      "item_name": "Zruier 傘 メンズ レディース 長傘【超軽量●豪雨台風対応】超撥水 耐風 230T高強度グラスファイバー Teflon加工 丈夫 日傘 大きい 直径110cm 紳士長傘 晴雨兼用 収納ポーチ付き(ネイビー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 255121.99,
-      "t30d_units": 98.0
-    },
-    {
-      "asin": "B0CYCHD5XF",
-      "item_name": "【大きな荷物も濡れない大判長傘】Zruier 傘 メンズ レディース 長傘 日傘 大きい 直径120cm 超撥水 230T高強度グラスファイバー Teflon加工 軽量 豪雨台風対応 丈夫 紳士長傘 晴雨兼用 収納ポーチ付き (ちゃいろ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 2745.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DT453YS6",
-      "item_name": "Zruier 傘 メンズ レディース 長傘【超軽量●豪雨台風対応】超撥水 耐風 230T高強度グラスファイバー Teflon加工 丈夫 日傘 大きい 直径110cm 紳士長傘 晴雨兼用 収納ポーチ付き(ブラウン)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 31522.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0DCHZ9RZB",
-      "item_name": "[Zruier] シューズストレッチャー シューキーパー 靴 サイズ調整 靴擦れ 靴ズレ 靴伸ばし フィッター プラスチック 靴広げる道具 2個セット ダボ付 左右兼用 男女兼用 (きいろ, M (24.5~26.5cm))",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 92192.0,
-      "t30d_units": 53.0
-    },
-    {
-      "asin": "B0D8J95SN4",
-      "item_name": "【大きな荷物も濡れない大判長傘】Zruier 傘 メンズ レディース 長傘 日傘 大きい 直径120cm 超撥水 230T高強度グラスファイバー Teflon加工 軽量 豪雨台風対応 丈夫 紳士長傘 晴雨兼用 収納ポーチ付き (ブラウン)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 12481.0,
-      "t30d_units": 4.0
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

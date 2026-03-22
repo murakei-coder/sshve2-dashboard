@@ -1,49 +1,38 @@
 {
-  "1003839028902": [
+  "1003849817602": [
     {
-      "asin": "B0F1CYN6D7",
-      "item_name": "フロアタイル 大理石 3畳分 54枚入り接着剤不要 フローリングマット 貼るだけ フロアシート 初心者OK 賃貸ok 防水 玄関 洗面所 DIY 床材 クッションフロア",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 148775.0,
-      "t30d_units": 25.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1003849817602,
+      "merchant_name": "Yumecamp JP",
+      "asin": "B0DSZ9W25J",
+      "item_name": "マグネット スマホスタンド 両面マグネット 折り畳み式 スマホスタンド 超强磁力 アルミ合金 簡単着脱 iPhone16 15 14 13 12シリーズ対応 MagSafeケース対応 メタルリング4個付 Androidも対応 ブラック",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 7974.71,
+      "t30d_units": 6.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F1CZR466",
-      "item_name": "フロアタイル 大理石 3畳分 54枚入り接着剤不要 フローリングマット 貼るだけ フロアシート 初心者OK 賃貸ok 防水 玄関 洗面所 DIY 床材 クッションフロア",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 47992.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0FJXY8VZR",
-      "item_name": "フロアタイル 大理石 3畳分 54枚入り接着剤不要 フローリングマット 貼るだけ フロアシート 初心者OK 賃貸 防水 玄関 洗面所 DIY 床材 クッションフロア",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 11998.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F18Z9HRX",
-      "item_name": "フロアタイル 木目 6畳 72枚入り 木目 PVC床材 クッションフロア 床 フロア シート 賃貸 フロリング リメイクシート 防水 はがせる diy 床材",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F19332N3",
-      "item_name": "フロアタイル 木目 6畳 72枚入り 木目 PVC床材 クッションフロア 床 フロア シート 賃貸 フロリング リメイクシート 防水 はがせる diy 床材",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1003849817602,
+      "merchant_name": "Yumecamp JP",
+      "asin": "B0DNSSL8ZQ",
+      "item_name": "マグネット スマホスタンド 両面マグネット 折り畳み式 スマホスタンド 超强磁力 アルミ合金 簡単着脱 iPhone16 15 14 13 12シリーズ対応 MagSafeケース対応 メタルリング4個付 Androidも対応 シルバー",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 2558.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

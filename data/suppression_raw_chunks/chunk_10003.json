@@ -1,13 +1,72 @@
 {
-  "86327552722": [
+  "86330085422": [
     {
-      "asin": "B0CRB51PSN",
-      "item_name": "BLAIS マイクスタンド 【ブーム/ストレート】 2wayタイプ 伸縮アーム 360°&高さ調節可能 【収納バッグ付き】 持ち運び可能 マイクホルダー付き 直立 三脚スタンド 折り畳み 軽量 カラオケ用 ライブ配信用 スピーチ用 レコーディング用(ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 483485.64,
-      "t30d_units": 189.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 86330085422,
+      "merchant_name": "ためのぶストア・プラス（+）【適格請求書発行事業者】",
+      "asin": "B0B6J3SJVM",
+      "item_name": "BUONAGIORNATA（ブオナジョルナータ） 青森県産黒にんにく バラ粒500グラム入り",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 32740.0,
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 86330085422,
+      "merchant_name": "ためのぶストア・プラス（+）【適格請求書発行事業者】",
+      "asin": "B00I0233C2",
+      "item_name": "ためのぶの黒 青森県産 黒にんにく 訳あり バラ粒タイプ 1kg （約4ヶ月分）",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 254838.0,
+      "t30d_units": 31.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 86330085422,
+      "merchant_name": "ためのぶストア・プラス（+）【適格請求書発行事業者】",
+      "asin": "B07QDGG125",
+      "item_name": "黒にんにく ためのぶの黒 青森県産 まちまち黒にんにく バラパック500g入り （約2ヶ月分）",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 59218.0,
+      "t30d_units": 17.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 86330085422,
+      "merchant_name": "ためのぶストア・プラス（+）【適格請求書発行事業者】",
+      "asin": "B00776DZXY",
+      "item_name": "特産地鶏 青森シャモロック 正肉１羽（約1.0kg）とシャモロックスープセット",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 8380.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

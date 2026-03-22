@@ -1,13 +1,38 @@
 {
-  "1019600856102": [
+  "1019613094802": [
     {
-      "asin": "B0F6YBHR2T",
-      "item_name": "QKQ 空気入れ 【2025年新登場仕様】 エアーポンプ 電動空気入れ 仏/英/米式バルブ対応 4つモード＆4つ単位切替 自動停止 超小型 コードレス Type-c急速充電 LED画面 自動車／自転車／バイク／浮き輪／ボール 日本語説明書付き",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 17035.66,
-      "t30d_units": 9.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1019613094802,
+      "merchant_name": "QGRHO家電量販店",
+      "asin": "B0D78VFWSB",
+      "item_name": "iPhone hdmi変換ケーブル MFi認証品【2025新登場・給電不要・2年保証】ミラーリング iPhone/iPad | スマホ を tv に 映す| ライトニング hdmi 変換 | 1080P遅延なし| 音声同期出力 TV大画面 | 自動接続 | Lightning hdm i日本語取説付き（iOS13~iOS18対応）",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1114939.06,
+      "t30d_units": 680.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1019613094802,
+      "merchant_name": "QGRHO家電量販店",
+      "asin": "B0GF7S4575",
+      "item_name": "iphone usb 変換アダプタ【2026新登場・Apple MFi正規認証品・24ヶ月保証】lightning - USB3.0 カメラアダプタ 2-in-1 OTGアダプタ +ライトニング PD急速充電 変換 高速データ転送 設定不要 写真/動画/音楽/USB周辺機器接続 iOS/macOSをサポート",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 1339958.97,
+      "t30d_units": 931.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

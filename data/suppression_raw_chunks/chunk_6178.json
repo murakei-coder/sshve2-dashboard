@@ -1,112 +1,38 @@
 {
-  "27873040822": [
+  "27873319722": [
     {
-      "asin": "B0DC6ZDW9D",
-      "item_name": "【Colohunter】HP用リサイクルインク HP 62 62XL ブラック 増量*2個セット残量表示機能付【対応機種】Envy 5660 5540 5640 5549 7640 7645 OfficeJet 200 250 5740 8040",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 158751.0,
-      "t30d_units": 31.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 27873319722,
+      "merchant_name": "La Gacela",
+      "asin": "B08GWSB225",
+      "item_name": "La Gacela スライム キット 25個粘土 超軽量ねんど 24ボトル スパンコール 金魚鉢ビーズ 果物切片 フォームビーズ 手作りツール ストレス解消 DIY 子供 おもちゃ 小学生 男の子 女の子誕生日 クリスマス プレゼント Slime kit",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 50576.25,
+      "t30d_units": 19.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F4L3J8LG",
-      "item_name": "【Colohunter】HP用リサイクルインク HP 62 62XL （ブラック 増量+カラー 増量）2個セット残量表示機能付【対応機種】Envy 5660 5540 5640 5549 7640 7645 OfficeJet 200 250 5740 8040",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 211419.33,
-      "t30d_units": 39.0
-    },
-    {
-      "asin": "B08B8V38NR",
-      "item_name": "【Colohunter】Canon(キャノン)用BC-345XLブラック 345XL *2個 大容量 残量表示付 再生インクカートリッジ【対応機種】PIXUS TS3330 TS3130S TS3130 TS203 TR4530 TS303 TS3300 TS3100 TS200",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 100105.0,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0CPVDKH7R",
-      "item_name": "【Colohunter】HP用リサイクルインク HP 63 63XL ブラック 増量*2個セット残量表示機能付【対応機種】ENVY 4520 OfficeJet 4650 5220 等",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 44243.99,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B09HWY1PJR",
-      "item_name": "【Colohunter】HP用リサイクルインクカートリッジ HP 67XL/ XXL (ブラック 増量 + カラー 増量） 2個セット 残量検知【対応機種】Envy 6020 Envy Pro 6420",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 224740.2,
-      "t30d_units": 51.0
-    },
-    {
-      "asin": "B09QD153YT",
-      "item_name": "【Colohunter】HP用リサイクルインクカートリッジ HP 67 XL/XXL 黒 ブラック 増量 2個セット 残量検知 3YM59AA【対応機種】Envy 6020 6000 Envy Pro 6420 6400",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 143510.0,
-      "t30d_units": 32.0
-    },
-    {
-      "asin": "B0BQ7CN1V2",
-      "item_name": "[Colohunter] Canon(キャノン)用BC-365XL+BC-366XL（ブラック+カラー) 2個セット 365+366 大容量 残量表示付【対応機種】PIXUS TS3530",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 178141.0,
-      "t30d_units": 33.0
-    },
-    {
-      "asin": "B0BFBPSKN4",
-      "item_name": "【Colohunter】Canon(キャノン)用BC-365XLブラック 365XL *2個 大容量 残量表示付 再生インクカートリッジ【対応機種】PIXUS TS3530",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 75456.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0DTG5MQJN",
-      "item_name": "【Colohunter】HP用 再生インクHP 61 XL (ブラック 増量 + カラー 増量） 2個セット【対応機種】ENVY 5530 4500 4504 Officejet 4630",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 18470.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B09WTJTRM1",
-      "item_name": "【Colohunter】Canon(キャノン)用BC-360XL+BC-361XL（ブラック+カラー）2個セット360 361 大容量 再生インク残量表示付【対応機種】PIXUS TS5330 TS5430",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 12388.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CPVBJ3FV",
-      "item_name": "【Colohunter】HP用リサイクルインクカートリッジ HP 63 XL (ブラック 増量 + カラー 増量）残量表示機能付 2個セット【対応機種】ENVY 4520 OfficeJet 4650 5220 等",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 140127.0,
-      "t30d_units": 38.0
-    },
-    {
-      "asin": "B08B6DD7C6",
-      "item_name": "【Colohunter】Canon(キャノン)用BC-345XL+BC-346XL（ブラック+カラー) 2個セット 345+346 大容量 残量表示付 再生インク【対応機種】 TS3330/ 3130S /3130 / 203 / 303 /3300 /3100 /200 TR4530",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 182479.2,
-      "t30d_units": 37.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 27873319722,
+      "merchant_name": "La Gacela",
+      "asin": "B08GWZHNDC",
+      "item_name": "La Gacela 室内砂場セット室内遊び 砂遊び 型 砂粘土3.0 KG 海洋動物 恐竜 城などの金型 付き収納ボックス 折りたたみプール 建設車両 おもちゃセット 砂遊び おもちゃ",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 50708.33,
+      "t30d_units": 14.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

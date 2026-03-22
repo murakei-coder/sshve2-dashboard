@@ -1,13 +1,55 @@
 {
-  "1095588972802": [
+  "1095629667402": [
     {
-      "asin": "B0FKL9WPVT",
-      "item_name": "ヒビケアプリベント 【医薬部外品】 薬用ハンドクリーム ひび あかぎれ 手荒れ 予防 対策 高保湿 無香料 べたつかない ナリス化粧品共同開発 PV処方 60g",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 1131024.98,
-      "t30d_units": 708.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1095629667402,
+      "merchant_name": "Outisan JP",
+      "asin": "B0FDWH7PSH",
+      "item_name": "Outisan 電動キャリーワゴン キャリーカート 大容量300L 耐荷重150kg 折りたたみ式 バッテリー付 防水 大型タイヤ 大容量 135Wh 長距離航続 スマート変速 軽量 キャンプ 防災 引っ越し 機材運搬 アウトドア BBQ 運動会 海釣り 家庭用 非常用 PSE認証 アウトドアワゴン e-Wagon Air ブラック",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 591283.0,
+      "t30d_units": 7.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1095629667402,
+      "merchant_name": "Outisan JP",
+      "asin": "B0FDW9S789",
+      "item_name": "Outisan 電動キャリーワゴン キャリーカート 大容量300L 耐荷重150kg 折りたたみ式 バッテリー付 防水 大型タイヤ 大容量 135Wh 長距離航続 スマート変速 軽量 キャンプ 防災 引っ越し 機材運搬 アウトドア BBQ 運動会 海釣り 家庭用 非常用 PSE認証 アウトドアワゴン e-Wagon Air イエロー",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 298136.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1095629667402,
+      "merchant_name": "Outisan JP",
+      "asin": "B0FDWH4TT5",
+      "item_name": "Outisan 電動キャリーワゴン キャリーカート 大容量300L 耐荷重150kg 折りたたみ式 バッテリー付 防水 大型タイヤ 大容量 135Wh 長距離航続 スマート変速 軽量 キャンプ 防災 引っ越し 機材運搬 アウトドア BBQ 運動会 海釣り 家庭用 非常用 PSE認証 アウトドアワゴン e-Wagon Air グレー",
+      "cleaned_suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 463858.0,
+      "t30d_units": 6.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

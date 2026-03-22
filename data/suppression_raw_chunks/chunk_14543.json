@@ -1,22 +1,55 @@
 {
-  "1003099393302": [
+  "1003797813102": [
     {
-      "asin": "B0FD6X94HY",
-      "item_name": "【国産エキナセア100％使用】 エキナセア茶 エキナセア ハーブティー 【いま大注目のエキナセア茶ｘノンカフェイン1.5g✕30袋ティーバッグ】 E＆G Market",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 211339.86,
-      "t30d_units": 119.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1003797813102,
+      "merchant_name": "エジソンブレインオンラインショップ",
+      "asin": "B0GF1VRTVY",
+      "item_name": "[Ｅｄｉｓｏｎ　Ｂｒａｉｎ] 【ワンアクション】スライド式 クレジットカードケース【手ぶら派】スリム RFID対応 スキミング防止 軽量 キャッシュレス 薄型 財布 カード5枚収納 ブラック",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 80264.0,
+      "t30d_units": 70.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F1V1D6N4",
-      "item_name": "【国産野菜8種類】 ぎゅっと野菜ブイヨン 野菜だし 野菜ブイヨン コンソメ 保存料・甘味料・ 着色料不使用 6g×30パック 【自然の美味しさをぎゅっと凝縮 】 E＆G Market",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 81640.0,
-      "t30d_units": 39.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1003797813102,
+      "merchant_name": "エジソンブレインオンラインショップ",
+      "asin": "B0DQTS7BQN",
+      "item_name": "【鼻を傷つけない！】プレミアム鼻毛カッター 【現役美容外科医監修】 ピンセットタイプ メンズ 鼻毛トリマー ハサミ 持ち運びに便利 携帯バッグ付属 枝毛の手入れにも",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 153327.91,
+      "t30d_units": 129.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1003797813102,
+      "merchant_name": "エジソンブレインオンラインショップ",
+      "asin": "B0GFCKV5T8",
+      "item_name": "【EdisonBrain】ハンドルテーブル 角度調整可能 拡張機能付き ステアリング サイドテーブル 運転席 机 食台 カー用品 トレイ PC 多機能 簡単取付け (ブラック)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 132104.0,
+      "t30d_units": 37.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

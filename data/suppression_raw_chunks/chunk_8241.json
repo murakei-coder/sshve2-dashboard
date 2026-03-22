@@ -1,1246 +1,378 @@
 {
-  "59866760722": [
+  "59867726122": [
     {
-      "asin": "B0BW5GV3Q7",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0DFWLBMZC",
+      "item_name": "UMAMY 比内地鶏 の旨みを味わう スープ スープの素 150g (3袋) 誕生日プレゼント 女性 人気 ギフト おしゃれ 人気商品 冬ギフト 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 15175.8,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0DBZ6W8CV",
+      "item_name": "UMAMY 比内地鶏 の旨みを味わう スープ スープの素 150g (1袋) 誕生日プレゼント 女性 人気 ギフト おしゃれ 人気商品 新生活 新生活ギフト 秋田",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 173833.52,
+      "t30d_units": 175.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0D95QVGDV",
+      "item_name": "UMAMY 比内地鶏コンソメスープの素2個セット うま味調味料無添加 塩分控えめ パウダー 瓶入り 父 誕生日プレゼント 女性 人気 ギフト おしゃれ プレゼント 人気商品 春ギフト 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 52460.75,
+      "t30d_units": 27.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0DTXV4P5R",
+      "item_name": "UMAMY 比内地鶏ガラスープの素 化学調味料不使用 無添加 塩分控えめ パウダー 1袋40g (5袋, 家庭用) 誕生日プレゼント 女性 人気 ギフト おしゃれ 人気商品 冬ギフト 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 35916.57,
+      "t30d_units": 18.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0FT7WNJX8",
+      "item_name": "秋田県産お米食べ比べぼだっこギフト（1合×2袋×4銘柄、ぼだっこ瓶詰2本） 窒素充填パック お歳暮 内祝い お返し 大潟村産 ブランド米 秋田県産 冬ギフト 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 27822.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0F66RFRNF",
+      "item_name": "UMAMY 比内地鶏丸鶏ガラ＆コンソメスープの素6個セット うま味調味料無添加 塩分控えめ パウダー 瓶入り 父 誕生日プレゼント 女性 人気 ギフト おしゃれ プレゼント 人気商品 春ギフト 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 4980.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0F1MFK154",
+      "item_name": "話題沸騰 UMAMY 秋田 しょっぱーい ぼだっこ 30g×3個セット ぼだっこ 秋田 塩鮭 紅鮭 鮭ほぐし 鮭フレーク ご飯のお供 塩辛 おかず 父 誕生日プレゼント 女性 プレゼント 人気 人気商品 ご飯のお供 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 1028828.21,
+      "t30d_units": 268.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0DWXLNJ43",
+      "item_name": "UMAMY 名店の一杯 ラーメン 12食セット 東北六県 ご当地ラーメン インスタント ラーメン 袋麺 インスタント麺 詰め合せ ラーメン 父 誕生日プレゼント 女性 プレゼント 人気 人気商品 冬ギフト 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 42182.0,
+      "t30d_units": 7.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0DHCQXKVP",
+      "item_name": "比内地鶏 旨みだし 8g×8包 和風だし 秋田 比内地鶏 北海道産 昆布 だしパック ティーバッグ (2袋) 誕生日プレゼント 女性 人気 ギフト おしゃれ 人気商品 鹿児島枕崎 コラボ商品 冬ギフト 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 10472.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0CB3T6KHJ",
+      "item_name": "UMAMY 比内地鶏ガラスープの素 40g×3袋セット 化学調味料不使用 無添加 塩分控えめ パウダー チャック付き袋 誕生日プレゼント 女性 人気 ギフト おしゃれ プレゼント 人気商品 冬ギフト 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 145926.38,
+      "t30d_units": 115.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0D93RCKHF",
+      "item_name": "【北野エーススタッフが選ぶドレッシング大賞受賞】UMAMY 燻りがっこドレッシング いぶりがっこ 200g (3本セット) ドレッシング ボトル 父 誕生日プレゼント 女性 人気 人気商品 ドレッシング大賞 冬ギフト 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 2700.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0D95S2TVY",
+      "item_name": "UMAMY 比内地鶏丸鶏ガラスープの素2個セット 化学調味料不使用 無添加 塩分控えめ パウダー 瓶入り父 誕生日プレゼント 女性 人気 ギフト おしゃれ ランキング 冬ギフト 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 52272.25,
+      "t30d_units": 27.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0FGXSYJVN",
+      "item_name": "【北野エーススタッフが選ぶドレッシング大賞受賞】UMAMY 燻りがっこドレッシング＆いぶりがっこマヨドレッシングセット ボトル 父 誕生日プレゼント 女性 人気 人気商品 ドレッシング大賞 冬ギフト 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 4150.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0DTY7LCM9",
+      "item_name": "UMAMY 比内地鶏ガラスープの素 化学調味料不使用 無添加 塩分控えめ パウダー 1袋40g (10袋, 家庭用) 誕生日プレゼント 女性 人気 人気商品 ランキング 冬ギフト 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": -2812.0,
+      "t30d_units": -1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0DWXMRXLX",
+      "item_name": "UMAMY 極飯 ご飯のおともセット 5種 各1個 秋田 お土産 ご当地 ぼだっこ 父 誕生日プレゼント 女性 プレゼント 人気 人気商品 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 78740.43,
+      "t30d_units": 13.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0F66GQ9PS",
+      "item_name": "UMAMY 比内地鶏丸鶏ガラスープの素6個セット 化学調味料不使用 無添加 塩分控えめ パウダー 瓶入り 父 誕生日プレゼント 女性 人気 ギフト おしゃれ 人気商品 冬ギフト 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
       "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CMGRCSZT",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGM6WDT",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5614.33,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0CMGNNR2F",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 1999.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CMGP5XV9",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 8735.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B09GLXY97Q",
-      "item_name": "HEYOZURY Apple Watch バンド 樹脂 45mm 44mm 40mm 41mm 38mm 42mm、ステンレス鋼バックル付き 軽量樹脂 互換性 交換バンド iWatch バンド Series 11、10/9/8/7/6/5/4/3/2/1/SE",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 2099.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CGHTS29S",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGQZNNB",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BW5GLY2L",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGR7VXL",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 8355.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B09GLYRQ34",
-      "item_name": "HEYOZURY Apple Watch バンド 樹脂 45mm 44mm 40mm 41mm 38mm 42mm、ステンレス鋼バックル付き 軽量樹脂 互換性 交換バンド iWatch バンド Series 11、10/9/8/7/6/5/4/3/2/1/SE",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 2099.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F12K8R38",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 3998.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0BCPNK8LZ",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 6396.33,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0CMGRCT16",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BW5H8QY8",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5279.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B09GLWZ5BR",
-      "item_name": "HEYOZURY Apple Watch バンド 樹脂 45mm 44mm 40mm 41mm 38mm 42mm、ステンレス鋼バックル付き 軽量樹脂 互換性 交換バンド iWatch バンド Series 11、10/9/8/7/6/5/4/3/2/1/SE",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 7555.66,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0BF54JC7R",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 3198.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0BCPMFPH7",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 46850.55,
-      "t30d_units": 28.0
-    },
-    {
-      "asin": "B0CGHXTGMF",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 1999.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BCPNGR41",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 21610.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0CMG7Y82S",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BW5H2BVZ",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CGHTRQM9",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CGHY5Q17",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 9595.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0BW5DPGQ7",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C7GH4QKN",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 9195.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0G479P16C",
-      "item_name": "HEYOZURY Apple Watch バンド 樹脂 45mm 44mm 40mm 41mm 38mm 42mm、ステンレス鋼バックル付き 軽量樹脂 互換性 交換バンド iWatch バンド Series 11、10/9/8/7/6/5/4/3/2/1/SE",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 4796.33,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0D8DDJHQG",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1999.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CNL7G5GN",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGJTN49",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D8696ZZF",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1999.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B09JLYX52G",
-      "item_name": "HEYOZURY Apple Watch バンド 樹脂 45mm 44mm 40mm 41mm 38mm 42mm、ステンレス鋼バックル付き 軽量樹脂 互換性 交換バンド iWatch バンド Series 11、10/9/8/7/6/5/4/3/2/1/SE",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BW5DT8BQ",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D869G38H",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGTRHLQ",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D86B38X1",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B09GLXLZW2",
-      "item_name": "HEYOZURY Apple Watch バンド 樹脂 45mm 44mm 40mm 41mm 38mm 42mm、ステンレス鋼バックル付き 軽量樹脂 互換性 交換バンド iWatch バンド Series 11、10/9/8/7/6/5/4/3/2/1/SE",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGS726H",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 1519.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CMGS8QRK",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 7975.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0D8DBZG7T",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 1519.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C9PV84T8",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 3589.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CY2T9STR",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BCPLD91D",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BCPM42RZ",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 1519.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CGHS132L",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1599.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BCPP8L73",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5597.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0BW5FR7F2",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CY2S5RKL",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0BW5G6154",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGBKQ89",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1599.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F12R6YG6",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09GLZ3TTB",
-      "item_name": "HEYOZURY Apple Watch バンド 樹脂 45mm 44mm 40mm 41mm 38mm 42mm、ステンレス鋼バックル付き 軽量樹脂 互換性 交換バンド iWatch バンド Series 11、10/9/8/7/6/5/4/3/2/1/SE",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 8581.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0BF512HTZ",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 25578.33,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0CMG9CZ5R",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGMRLGX",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 1999.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C9PS4V4M",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGT4N9Q",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CGHSLVW9",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGNJC42",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 1599.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BW5J6LSS",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CGHWYX3T",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5197.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0BCPMLHD3",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGXBHCQ",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 12153.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B09GLWPBQN",
-      "item_name": "HEYOZURY Apple Watch バンド 樹脂 45mm 44mm 40mm 41mm 38mm 42mm、ステンレス鋼バックル付き 軽量樹脂 互換性 交換バンド iWatch バンド Series 11、10/9/8/7/6/5/4/3/2/1/SE",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 5877.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B09JLYCPXM",
-      "item_name": "HEYOZURY Apple Watch バンド 樹脂 45mm 44mm 40mm 41mm 38mm 42mm、ステンレス鋼バックル付き 軽量樹脂 互換性 交換バンド iWatch バンド Series 11、10/9/8/7/6/5/4/3/2/1/SE",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F1D34JH2",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGH3JWW",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 3198.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CGHQ6M2W",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 7794.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0CMGRCFMB",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 3598.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CGHYD61K",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1999.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F131NMD6",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 1999.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CMGX2PFD",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BCPLWSXC",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BCPM37YV",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 34180.0,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0CMGLGXDG",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 3198.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0BCPNK29W",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CMGW4BV7",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1999.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CMGBKQ9F",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CY2WYD8K",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C7GFT3DB",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGLTSDW",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 8990.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B09GLW6NBL",
-      "item_name": "HEYOZURY Apple Watch バンド 樹脂 45mm 44mm 40mm 41mm 38mm 42mm、ステンレス鋼バックル付き 軽量樹脂 互換性 交換バンド iWatch バンド Series 11、10/9/8/7/6/5/4/3/2/1/SE",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGVYF96",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 3598.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CMGMFK6Z",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGXKMPN",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CGHZ2478",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 1779.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BCPMKJXR",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 3798.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CWRQW31W",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 3902.75,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F12K7TWN",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 1779.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BCPNNT9P",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5197.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B09JM3DNH4",
-      "item_name": "HEYOZURY Apple Watch バンド 樹脂 45mm 44mm 40mm 41mm 38mm 42mm、ステンレス鋼バックル付き 軽量樹脂 互換性 交換バンド iWatch バンド Series 11、10/9/8/7/6/5/4/3/2/1/SE",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 3778.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CMGVNZHB",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09GLY34MY",
-      "item_name": "HEYOZURY Apple Watch バンド 樹脂 45mm 44mm 40mm 41mm 38mm 42mm、ステンレス鋼バックル付き 軽量樹脂 互換性 交換バンド iWatch バンド Series 11、10/9/8/7/6/5/4/3/2/1/SE",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 11334.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0BF4YYL3W",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09GLYKDMB",
-      "item_name": "HEYOZURY Apple Watch バンド 樹脂 45mm 44mm 40mm 41mm 38mm 42mm、ステンレス鋼バックル付き 軽量樹脂 互換性 交換バンド iWatch バンド Series 11、10/9/8/7/6/5/4/3/2/1/SE",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CN6968KF",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 3198.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0C7GFKW4V",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 17052.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0CNL8NNPX",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 3378.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0BW5HG6BZ",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 1999.33,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CMGKZQSC",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5487.8,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0CGHWX4K4",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09JLYYMFV",
-      "item_name": "HEYOZURY Apple Watch バンド 樹脂 45mm 44mm 40mm 41mm 38mm 42mm、ステンレス鋼バックル付き 軽量樹脂 互換性 交換バンド iWatch バンド Series 11、10/9/8/7/6/5/4/3/2/1/SE",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 3358.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0BW5FN6PH",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 3798.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CMGNM9GV",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D8DGBMPC",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G46MDB5W",
-      "item_name": "HEYOZURY Apple Watch バンド 樹脂 45mm 44mm 40mm 41mm 38mm 42mm、ステンレス鋼バックル付き 軽量樹脂 互換性 交換バンド iWatch バンド Series 11、10/9/8/7/6/5/4/3/2/1/SE",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BW5HFLKR",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 7596.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0D8DJW1FT",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 3198.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0BW5GL4J4",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 1999.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CMGJ12N5",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CMGRYN1Y",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5197.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0F1D2K3BW",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BCPLV9DR",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1998.3,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0D8D9MZ53",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1690.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BW5G526V",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 3998.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CN699XQS",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5596.75,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0CWRPZB5J",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 3778.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B09GLY8576",
-      "item_name": "HEYOZURY Apple Watch バンド 樹脂 45mm 44mm 40mm 41mm 38mm 42mm、ステンレス鋼バックル付き 軽量樹脂 互換性 交換バンド iWatch バンド Series 11、10/9/8/7/6/5/4/3/2/1/SE",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CWRRTCJ2",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGKS3F1",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGRCSZY",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CMGTQW1P",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1899.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CMGJT1JQ",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CGHXT7FJ",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CWRNT56P",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGHGZGP",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGGBFHX",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5197.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0D8DLGV54",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CWRP19HP",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CGHRN8PD",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 1999.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CGJ15PH3",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1999.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CMGS1XZJ",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 3998.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D8683JML",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1599.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BCPM3JDQ",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 4797.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0CMGT4N7X",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CMGLTHL9",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1599.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CMGRBJTN",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルベルト 12mm 14mm 16mm 18mm 19mm 20mm 21mm 22mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト メンズ女性用腕時計ストラップ ゴールド ブラック シルバー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BCPP1BVB",
-      "item_name": "[HEYOZURY] 時計バンド ステンレス鋼 メタルバンド メタルベルト 18mm 19mm 20mm 21mm 22mm 24mm ベンドと垂直の2つのインタフェース ソリッドスチール 腕時計ベルト 交換ベルト 工具付き ゴールド ブラック シルバー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 3198.0,
-      "t30d_units": 2.0
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0CB6DH7H3",
+      "item_name": "UMAMY 白神にんにくオリーブオイル135g×2個セット 無添加 ウマミー 父 誕生日プレゼント 女性 人気 ギフト おしゃれ 人気商品 新生活 新生活ギフト 冬ギフト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 63395.74,
+      "t30d_units": 19.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0CR19QQ1N",
+      "item_name": "比内地鶏 旨みだし 8g×8包 和風だし 秋田 比内地鶏 北海道産 昆布 だしパック ティーバッグ (３袋) 誕生日プレゼント 女性 人気 ギフト おしゃれ 人気商品 鹿児島枕崎 コラボ商品 冬ギフト 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 7382.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0CB497MP7",
+      "item_name": "UMAMY 末廣ラーメン本舗 ヤキメシの素22g 5袋×3セット 万能 調味料 濃口醤油味 ヤキメシ たれ 昭和13年創業 秋田名産 父 誕生日プレゼント 女性 人気 ギフト おしゃれ 人気 冬ギフト 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 23077.0,
+      "t30d_units": 10.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0D93R4X9H",
+      "item_name": "【北野エーススタッフが選ぶドレッシング大賞受賞】UMAMY 燻りがっこドレッシング いぶりがっこ 200g (2本セット) ドレッシング ボトル 父 誕生日プレゼント 女性 人気 人気商品 ドレッシング大賞 冬ギフト 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 5850.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0D95W1HXJ",
+      "item_name": "UMAMY 比内地鶏丸鶏ガラ＆コンソメスープの素2個セット うま味調味料無添加 塩分控えめ パウダー 瓶入り 父 誕生日プレゼント 女性 人気 ギフト おしゃれ プレゼント 人気商品 春ギフト 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 78642.54,
+      "t30d_units": 41.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 59867726122,
+      "merchant_name": "ノリット・ジャポン",
+      "asin": "B0CST1MQDB",
+      "item_name": "UMAMY名店の一杯 末廣ラーメン本舗 120g×8食セット お取り寄せ 袋麺 ノンフライ 中華そば ラーメン インスタントラーメン 秋田 プレゼント 父 誕生日プレゼント 女性 人気 ギフト おしゃれ 人気商品 冬ギフト 新生活 新生活ギフト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 17446.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

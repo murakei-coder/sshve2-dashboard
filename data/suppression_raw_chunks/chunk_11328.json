@@ -1,22 +1,55 @@
 {
-  "651775224302": [
+  "651797760502": [
     {
-      "asin": "B0D1PCK19B",
-      "item_name": "YIYIMUKI 家計管理 ポーチ お金管理 ファイル 家計簿 袋分け 家計簿ファイル PU A6 6穴 バインダー 透明 大容量手帳（オレンジ）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 47692.99,
-      "t30d_units": 26.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 651797760502,
+      "merchant_name": "Hoovic-jp",
+      "asin": "B0F8R6GF4K",
+      "item_name": "Hoovic ジレット 替刃 電動 プログライド フュージョン 5枚刃 ひげそり 髭剃り 互換品 ュージョン カミソリ 替刃 (8個セット)",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 130476.56,
+      "t30d_units": 99.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DL3K2VNV",
-      "item_name": "YIYIMUKI 家計管理 ポーチ お金管理 ファイル 家計簿 袋分け 家計簿ファイル PU A6 6穴 バインダー 透明 大容量手帳（赤）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 5497.0,
-      "t30d_units": 3.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 651797760502,
+      "merchant_name": "Hoovic-jp",
+      "asin": "B0FR34HL2N",
+      "item_name": "Hoovic シリーズ5 シリーズ6 シリーズ7替刃 53b 互換品 F/C53B F/C64B-b 73S F/C73S Series5 Series6 Series7 替刃 髭剃り メンズ 電気シェーバー シェーバーヘッド カミソリ ブラック",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 736118.62,
+      "t30d_units": 326.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 651797760502,
+      "merchant_name": "Hoovic-jp",
+      "asin": "B0FFBLQV3J",
+      "item_name": "Hoovic ジレット 替刃 プログライド フュージョン カミソ 5枚刃 電動 プログライド ひげそり 髭剃り 互換品 カミソリ 替刃 (8個セット)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 24246.33,
+      "t30d_units": 17.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

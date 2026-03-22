@@ -1,49 +1,21 @@
 {
-  "699876463402": [
+  "699886244602": [
     {
-      "asin": "B0FX2GLXXZ",
-      "item_name": "ナイキ ジョーダン ダッフルバッグ VELOCITY DUFFLE (023 ブラック, Sサイズ(46L))",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 151255.0,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B0DBBF57K8",
-      "item_name": "ナイキ ジョーダン クロスボディバッグ (2L) CORDURA FRANCHISE CROSS BODY BAG MA0901-023",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 118894.0,
-      "t30d_units": 29.0
-    },
-    {
-      "asin": "B0DV3KGGLY",
-      "item_name": "[ナイキ] ジョーダン ボディバッグ (3.3L) HBR CROSSBODY BAG (Sサイズ) SM9031-023",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 51418.66,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0G519W141",
-      "item_name": "ナイキ ジョーダン ダッフルバッグ VELOCITY DUFFLE (023 ブラック, Lサイズ(81L))",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 193310.0,
-      "t30d_units": 28.0
-    },
-    {
-      "asin": "B0FX2GDDPC",
-      "item_name": "ナイキ ジョーダン ダッフルバッグ VELOCITY DUFFLE (023 ブラック, Mサイズ(62.5L))",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 313712.0,
-      "t30d_units": 48.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 699886244602,
+      "merchant_name": "知育堂",
+      "asin": "B0FMFKLPZJ",
+      "item_name": "OUTACT 顕微鏡 小学生 デジタル顕微鏡 4.3インチ 1080p 50-1000Xマイクロスコープ IPS液晶ディスプレイ PCシステム対応 撮影 録画 USB-C 充電 8Gメモリーカード同梱 8個LEDライト 4段階調光 生物観察 自由研究 小学生 男の子 女の子 誕生日プレゼント 日本語取扱説明書付き",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 567658.33,
+      "t30d_units": 83.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

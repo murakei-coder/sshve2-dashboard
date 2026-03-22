@@ -1,616 +1,106 @@
 {
-  "1076998960202": [
-    {
-      "asin": "B0GJDMRJ77",
-      "item_name": "[ChicBlend] ハンドバッグ レディース トートバッグ 小さめ 【雨の日も安心・撥水】 軽量 450g 自立 3way ショルダーバッグ 斜めがけ 仕切り 大容量 ファスナー マグネット 可愛い おしゃれ 通勤 ビジネス ミニバッグ (ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 46168.0,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0GQFR6V5C",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, L, ベージュ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 2880.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GQFMMGT3",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, M, ベージュ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0GJKCC6GX",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, 2XL, カーキ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 11320.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0GQGVWZB4",
-      "item_name": "ボストンバッグ レディース 旅行バッグ 【見た目よりも大容量・魔法の9ポケット】 ナイロン 軽量 撥水 機内持ち込み可 キャリーオンバッグ 乾湿分離 4WAY キルティング かわいい トラベルバッグ 出張 1泊2泊 旅行 修学旅行",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G6Y3TT4N",
-      "item_name": "ボストンバッグ レディース 旅行バッグ 大容量 軽量 防水 キャリーオン 2way トラベルバッグ 乾湿分離 多収納 機内持ち込み 1泊2日 スポーツ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 1780.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GJJ6Z5M3",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, L, カーキ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GLGKPW4G",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 綿100％ 【型崩れしにくい・1枚で主役級】 オーバーサイズ 重ね着 インナー 無地 長袖tシャツ カットソー かわいい 着回しやすい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0GQFS3JP8",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, XL, ネイビー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 2880.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GQGRQ4NG",
-      "item_name": "ボストンバッグ レディース 旅行バッグ 【見た目よりも大容量・魔法の9ポケット】 ナイロン 軽量 撥水 機内持ち込み可 キャリーオンバッグ 乾湿分離 4WAY キルティング かわいい トラベルバッグ 出張 1泊2泊 旅行 修学旅行",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GJJV1LZP",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 【綿100％・ラウンドヘム・サイドスリット】 ゆったり 重ね着 無地 薄手 長袖Tシャツ カットソー インナー 柔らかい かわいい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0GJJVGFQK",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 【綿100％・ラウンドヘム・サイドスリット】 ゆったり 重ね着 無地 薄手 長袖Tシャツ カットソー インナー 柔らかい かわいい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GJJQLB65",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 【綿100％・ラウンドヘム・サイドスリット】 ゆったり 重ね着 無地 薄手 長袖Tシャツ カットソー インナー 柔らかい かわいい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 13860.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0GJJ41PMX",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 【綿100％・ラウンドヘム・サイドスリット】 ゆったり 重ね着 無地 薄手 長袖Tシャツ カットソー インナー 柔らかい かわいい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GJHXHM72",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 【綿100％・ラウンドヘム・サイドスリット】 ゆったり 重ね着 無地 薄手 長袖Tシャツ カットソー インナー 柔らかい かわいい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 1980.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0G6KDPLKF",
-      "item_name": "[ChicBlend] ハンドバッグ レディース トートバッグ 小さめ 【雨の日も安心・撥水】 軽量 450g 自立 3way ショルダーバッグ 斜めがけ 仕切り 大容量 ファスナー マグネット 可愛い おしゃれ 通勤 ビジネス ミニバッグ (ホワイト)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 24400.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0G8Z6V32H",
-      "item_name": "[ChicBlend] 三つ折り財布 レディース ミニ財布 メンズ 本革 小さい財布 スキミング防止 小銭入れ付き みつおり 牛革 軽量 コンパクト RFID (グレー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GQGMW73F",
-      "item_name": "[ChicBlend] ワイドパンツ レディース デニム 【驚きの柔らかさ・接触冷感】 通気性 ゆったり ドレープ感 着瘦せ ロングパンツ 薄手 ウエストゴム ポケット付き オフィスカジュアル 快適 ズボン 春 夏 服",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G6DS7V3P",
-      "item_name": "[ChicBlend] ハンドバッグ レディース トートバッグ 小さめ 【雨の日も安心・撥水】 軽量 450g 自立 3way ショルダーバッグ 斜めがけ 仕切り 大容量 ファスナー マグネット 可愛い おしゃれ 通勤 ビジネス ミニバッグ (グレー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 61548.0,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0GQGF373R",
-      "item_name": "[ChicBlend] ワイドパンツ レディース デニム 【驚きの柔らかさ・接触冷感】 通気性 ゆったり ドレープ感 着瘦せ ロングパンツ 薄手 ウエストゴム ポケット付き オフィスカジュアル 快適 ズボン 春 夏 服",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GQGW5FLL",
-      "item_name": "[ChicBlend] ワイドパンツ レディース デニム 【驚きの柔らかさ・接触冷感】 通気性 ゆったり ドレープ感 着瘦せ ロングパンツ 薄手 ウエストゴム ポケット付き オフィスカジュアル 快適 ズボン 春 夏 服",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GJJZS8YR",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 【綿100％・ラウンドヘム・サイドスリット】 ゆったり 重ね着 無地 薄手 長袖Tシャツ カットソー インナー 柔らかい かわいい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GQGQFYWW",
-      "item_name": "ボストンバッグ レディース 旅行バッグ 【見た目よりも大容量・魔法の9ポケット】 ナイロン 軽量 撥水 機内持ち込み可 キャリーオンバッグ 乾湿分離 4WAY キルティング かわいい トラベルバッグ 出張 1泊2泊 旅行 修学旅行",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GJKV67BW",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, XL, グレージュ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 8040.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0GQGLYSYB",
-      "item_name": "[ChicBlend] ワイドパンツ レディース デニム 【驚きの柔らかさ・接触冷感】 通気性 ゆったり ドレープ感 着瘦せ ロングパンツ 薄手 ウエストゴム ポケット付き オフィスカジュアル 快適 ズボン 春 夏 服",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 2879.66,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GQGN4ZYS",
-      "item_name": "[ChicBlend] ワイドパンツ レディース デニム 【驚きの柔らかさ・接触冷感】 通気性 ゆったり ドレープ感 着瘦せ ロングパンツ 薄手 ウエストゴム ポケット付き オフィスカジュアル 快適 ズボン 春 夏 服",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GQGXXG83",
-      "item_name": "ボストンバッグ レディース 旅行バッグ 【見た目よりも大容量・魔法の9ポケット】 ナイロン 軽量 撥水 機内持ち込み可 キャリーオンバッグ 乾湿分離 4WAY キルティング かわいい トラベルバッグ 出張 1泊2泊 旅行 修学旅行",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GQGN8MDB",
-      "item_name": "[ChicBlend] ワイドパンツ レディース デニム 【驚きの柔らかさ・接触冷感】 通気性 ゆったり ドレープ感 着瘦せ ロングパンツ 薄手 ウエストゴム ポケット付き オフィスカジュアル 快適 ズボン 春 夏 服",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 5760.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GJKFKXYS",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, L, グレージュ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 5360.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GJK4WQ27",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 【綿100％・ラウンドヘム・サイドスリット】 ゆったり 重ね着 無地 薄手 長袖Tシャツ カットソー インナー 柔らかい かわいい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 3960.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GJJ42QX1",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, M, ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 8040.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0GJJZ3GXC",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, L, ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 16680.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0GQF8YHVG",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, XL, ベージュ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GJJ9C4LT",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, 2XL, グレージュ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 5560.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FX2DYGXG",
-      "item_name": "[ChicBlend] トートバッグ レディース 大容量 a4 軽量 通勤 ビジネス 防水 ファスナー付き 人気 シンプル 大人 おしゃれ 肩掛け レザー (ブラウン)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 2980.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GJHRZTFZ",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 【綿100％・ラウンドヘム・サイドスリット】 ゆったり 重ね着 無地 薄手 長袖Tシャツ カットソー インナー 柔らかい かわいい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GJDZHXZZ",
-      "item_name": "[ChicBlend] ハンドバッグ レディース トートバッグ 小さめ 【雨の日も安心・撥水】 軽量 450g 自立 3way ショルダーバッグ 斜めがけ 仕切り 大容量 ファスナー マグネット 可愛い おしゃれ 通勤 ビジネス ミニバッグ (レッドブラウン)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 6100.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GQGYGPHW",
-      "item_name": "[ChicBlend] ワイドパンツ レディース デニム 【驚きの柔らかさ・接触冷感】 通気性 ゆったり ドレープ感 着瘦せ ロングパンツ 薄手 ウエストゴム ポケット付き オフィスカジュアル 快適 ズボン 春 夏 服",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GLG7JZ5R",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 綿100％ 【型崩れしにくい・1枚で主役級】 オーバーサイズ 重ね着 インナー 無地 長袖tシャツ カットソー かわいい 着回しやすい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0GLGJMVBM",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 綿100％ 【型崩れしにくい・1枚で主役級】 オーバーサイズ 重ね着 インナー 無地 長袖tシャツ カットソー かわいい 着回しやすい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 3760.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GQFFX5Q8",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, L, ネイビー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 2880.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GQGK3CHB",
-      "item_name": "[ChicBlend] ワイドパンツ レディース デニム 【驚きの柔らかさ・接触冷感】 通気性 ゆったり ドレープ感 着瘦せ ロングパンツ 薄手 ウエストゴム ポケット付き オフィスカジュアル 快適 ズボン 春 夏 服",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GQFG1CB6",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, M, ネイビー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 2880.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GQGJNNL8",
-      "item_name": "[ChicBlend] ワイドパンツ レディース デニム 【驚きの柔らかさ・接触冷感】 通気性 ゆったり ドレープ感 着瘦せ ロングパンツ 薄手 ウエストゴム ポケット付き オフィスカジュアル 快適 ズボン 春 夏 服",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GQF83VNX",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, 2XL, ネイビー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0GQH32JM8",
-      "item_name": "ボストンバッグ レディース 旅行バッグ 【見た目よりも大容量・魔法の9ポケット】 ナイロン 軽量 撥水 機内持ち込み可 キャリーオンバッグ 乾湿分離 4WAY キルティング かわいい トラベルバッグ 出張 1泊2泊 旅行 修学旅行",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FV8K5YCN",
-      "item_name": "ボストンバッグ レディース メンズ 旅行バッグ 折り畳み 拡張可能 靴入れ 乾湿分離 キャリーオン 軽量 大容量 一泊二泊 修学旅行 旅行カバン トラベル 出張 スポーツ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 5960.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GJHX3DHX",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, XL, ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 10920.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0GJJGRPNQ",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 【綿100％・ラウンドヘム・サイドスリット】 ゆったり 重ね着 無地 薄手 長袖Tシャツ カットソー インナー 柔らかい かわいい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 1980.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GJHSHJH7",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 【綿100％・ラウンドヘム・サイドスリット】 ゆったり 重ね着 無地 薄手 長袖Tシャツ カットソー インナー 柔らかい かわいい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 13860.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0GJJG8Z5F",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, M, カーキ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 2680.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GQGW2MYV",
-      "item_name": "[ChicBlend] ワイドパンツ レディース デニム 【驚きの柔らかさ・接触冷感】 通気性 ゆったり ドレープ感 着瘦せ ロングパンツ 薄手 ウエストゴム ポケット付き オフィスカジュアル 快適 ズボン 春 夏 服",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 2879.66,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GQGFR5TD",
-      "item_name": "[ChicBlend] ワイドパンツ レディース デニム 【驚きの柔らかさ・接触冷感】 通気性 ゆったり ドレープ感 着瘦せ ロングパンツ 薄手 ウエストゴム ポケット付き オフィスカジュアル 快適 ズボン 春 夏 服",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GJJZDSMH",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 【綿100％・ラウンドヘム・サイドスリット】 ゆったり 重ね着 無地 薄手 長袖Tシャツ カットソー インナー 柔らかい かわいい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GQGK5BYQ",
-      "item_name": "[ChicBlend] ワイドパンツ レディース デニム 【驚きの柔らかさ・接触冷感】 通気性 ゆったり ドレープ感 着瘦せ ロングパンツ 薄手 ウエストゴム ポケット付き オフィスカジュアル 快適 ズボン 春 夏 服",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GJJJ8FWY",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, 2XL, ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 17080.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0GJK15LMB",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, XL, カーキ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 5760.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GJDGZ1DH",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 【綿100％・ラウンドヘム・サイドスリット】 ゆったり 重ね着 無地 薄手 長袖Tシャツ カットソー インナー 柔らかい かわいい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 3960.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0G6YX473J",
-      "item_name": "[ChicBlend] トートバッグ レディース 【9ポケット / A4対応 / 自立】 軽量 大容量 ファスナー付き マザーズバッグ ナイロン 撥水加工 2way 斜めがけ 通勤バッグ 通学 旅行 ショルダーバッグ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 17135.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0FX2BMCFT",
-      "item_name": "[ChicBlend] トートバッグ レディース 大容量 a4 軽量 通勤 ビジネス 防水 ファスナー付き 人気 シンプル 大人 おしゃれ 肩掛け レザー (オフホワイト)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 4960.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GJHS8GTF",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 【綿100％・ラウンドヘム・サイドスリット】 ゆったり 重ね着 無地 薄手 長袖Tシャツ カットソー インナー 柔らかい かわいい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 5940.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0GQGRJB8X",
-      "item_name": "ボストンバッグ レディース 旅行バッグ 【見た目よりも大容量・魔法の9ポケット】 ナイロン 軽量 撥水 機内持ち込み可 キャリーオンバッグ 乾湿分離 4WAY キルティング かわいい トラベルバッグ 出張 1泊2泊 旅行 修学旅行",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GLG22G8G",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 綿100％ 【型崩れしにくい・1枚で主役級】 オーバーサイズ 重ね着 インナー 無地 長袖tシャツ カットソー かわいい 着回しやすい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 3760.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GQFB3C9J",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, 2XL, ベージュ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0GQGRKMPP",
-      "item_name": "ボストンバッグ レディース 旅行バッグ 【見た目よりも大容量・魔法の9ポケット】 ナイロン 軽量 撥水 機内持ち込み可 キャリーオンバッグ 乾湿分離 4WAY キルティング かわいい トラベルバッグ 出張 1泊2泊 旅行 修学旅行",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GJKCF9XH",
-      "item_name": "[ChicBlend] ワイドパンツ レディース 【美脚効果・着るだけでこなれ感UP】 ゆったり ストレート ドレープ感 ポケット付き ロングパンツ 薄手 通勤 オフィス カジュアル 大人可愛い ズボン 春 夏 秋 服 (JP, アルファベット, M, グレージュ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 14000.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0GJJV68X4",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 【綿100％・ラウンドヘム・サイドスリット】 ゆったり 重ね着 無地 薄手 長袖Tシャツ カットソー インナー 柔らかい かわいい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GJJ6QWTS",
-      "item_name": "[ChicBlend] ロングtシャツ レディース 【綿100％・ラウンドヘム・サイドスリット】 ゆったり 重ね着 無地 薄手 長袖Tシャツ カットソー インナー 柔らかい かわいい カジュアル トップス 春 秋 冬 服",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 3960.33,
-      "t30d_units": 2.0
+  "1077019623502": [
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1077019623502,
+      "merchant_name": "viangs-JP【30日の無料交換・1年間メーカー保証】",
+      "asin": "B0G1XSZFBK",
+      "item_name": "【業界初！3D 立体滑り止め加工×金属補強リング搭載】トレーニングベルト 腹圧サポート 【Viangs 全面アップグレード】 パワーベルト 筋トレ 腰保護 リフティングベルト 怪我防止 スクワット・デッドリフト・ベンチプレス・ローイング・プレス対応 初心者~上級者 男女兼用 高耐久レザー製 プロ仕",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 374696.49,
+      "t30d_units": 120.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1077019623502,
+      "merchant_name": "viangs-JP【30日の無料交換・1年間メーカー保証】",
+      "asin": "B0FSZYBX8Y",
+      "item_name": "【理学療法士】監修 内転筋トレーニング 【業界初！組み立て不要＆360°回転パネル】 骨盤底筋 トレーニング Viangs 筋トレ 張力23kgアップ 【画期的な収納技術】 ヒップトレーナー ダイエット器具 足痩せ レジスタンスバンドセット うちもも筋トレ ヒップアップ 痩せ ピラティス用 尿漏れ 産後 初心",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 144095.66,
+      "t30d_units": 52.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1077019623502,
+      "merchant_name": "viangs-JP【30日の無料交換・1年間メーカー保証】",
+      "asin": "B0G34P1DDX",
+      "item_name": "【業界初！3D 立体滑り止め加工×金属補強リング搭載】トレーニングベルト 腹圧サポート 【Viangs 全面アップグレード】 パワーベルト 筋トレ 腰保護 リフティングベルト 怪我防止 スクワット・デッドリフト・ベンチプレス・ローイング・プレス対応 初心者~上級者 男女兼用 高耐久レザー製 プロ仕",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 156910.78,
+      "t30d_units": 49.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1077019623502,
+      "merchant_name": "viangs-JP【30日の無料交換・1年間メーカー保証】",
+      "asin": "B0FKS38YXL",
+      "item_name": "【理学療法士】監修 内転筋トレーニング 【業界初！組み立て不要＆360°回転パネル】 骨盤底筋 トレーニング Viangs 筋トレ 張力23kgアップ 【画期的な収納技術】 ヒップトレーナー ダイエット器具 足痩せ レジスタンスバンドセット うちもも筋トレ ヒップアップ 痩せ ピラティス用 尿漏れ 産後 初心",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 82091.8,
+      "t30d_units": 29.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1077019623502,
+      "merchant_name": "viangs-JP【30日の無料交換・1年間メーカー保証】",
+      "asin": "B0F5BNT7ZQ",
+      "item_name": "【理学療法士】監修 内転筋トレーニング 【業界初！組み立て不要＆360°回転パネル】 骨盤底筋 トレーニング Viangs 筋トレ 張力23kgアップ 【画期的な収納技術】 ヒップトレーナー ダイエット器具 足痩せ レジスタンスバンドセット うちもも筋トレ ヒップアップ 痩せ ピラティス用 尿漏れ 産後 初心",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 83256.0,
+      "t30d_units": 29.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1077019623502,
+      "merchant_name": "viangs-JP【30日の無料交換・1年間メーカー保証】",
+      "asin": "B0F5BSRT8X",
+      "item_name": "【理学療法士】監修 内転筋トレーニング 【業界初！組み立て不要＆360°回転パネル】 骨盤底筋 トレーニング Viangs 筋トレ 張力23kgアップ 【画期的な収納技術】 ヒップトレーナー ダイエット器具 足痩せ レジスタンスバンドセット うちもも筋トレ ヒップアップ 痩せ ピラティス用 尿漏れ 産後 初心",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 983342.06,
+      "t30d_units": 383.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

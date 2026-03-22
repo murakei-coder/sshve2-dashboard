@@ -1,13 +1,72 @@
 {
-  "1161469740502": [
+  "1161474320302": [
     {
-      "asin": "B09XGVQS17",
-      "item_name": "4kトレイルカメラ Wosports トレイルカメラ 不可視 防犯カメラ 屋外48MP 赤外線カメラ 電池式 トレイルカメラ 野生動物 カメラ 最大256GB カード対応 4800万画素 IP66級防水防塵 不可視赤外線 32GBメモリーカード付き 0.2秒超高速トリガースピード 120°超広検知範囲 内蔵マイク 人感センサーカメラ 動体検知",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1161474320302,
+      "merchant_name": "然物社",
+      "asin": "B0GJDHDS67",
+      "item_name": "【2026新発】 鼻毛カッター 手動 回転式 メンズ レディース コンパクト 静音 水洗い 充電不要 36g軽量 先端ステンレス製 使用簡単 痛みなし HNK201 (ブラック)",
+      "cleaned_suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": "Other",
+      "asin_count": 1,
+      "t30d_ops": 6756.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1161474320302,
+      "merchant_name": "然物社",
+      "asin": "B0G6YWZ3ZZ",
+      "item_name": "林印 ダンボールカッター マグネット セラミック刃 八角形 グレー DK1127-1",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 146415.34,
+      "t30d_units": 157.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 243790.33,
-      "t30d_units": 32.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1161474320302,
+      "merchant_name": "然物社",
+      "asin": "B0GJDB4DV6",
+      "item_name": "【5ミリ薄型】脱毛器 擦るだけ『2026新発売！痛くない次世代モデル』 ナノガラス 無痛脱毛 物理脱毛 コンパクト メンズ レディース 角質取り 脱毛 除毛 体毛処理 1128 (ホワイト)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 1280.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1161474320302,
+      "merchant_name": "然物社",
+      "asin": "B0G6Z48V3H",
+      "item_name": "林印 ダンボールカッター マグネット セラミック刃 八角形 グレー DK1127 2点セット",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 36813.66,
+      "t30d_units": 26.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

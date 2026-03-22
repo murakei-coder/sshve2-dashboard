@@ -1,13 +1,55 @@
 {
-  "1001412696102": [
+  "1001433669602": [
     {
-      "asin": "B0DSJ8KXFZ",
-      "item_name": "Gadeel 低反発 椅子 クッション 人間工学 座布団 腰痛対策/改善 蒸れない通気性 四季通用 お尻クッション 骨盤サポートお尻が痛くならない カバー洗える 使用場所 オフィス/車中/自宅/プレゼント用（グレー）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 7251.0,
-      "t30d_units": 3.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1001433669602,
+      "merchant_name": "イチョウライフ(echlife)【直営店】",
+      "asin": "B0DL5X35DB",
+      "item_name": "Earaku(イアラク) Bluetoothヘッドセット 通話用イヤホン 両耳 耳掛け 空気伝導 ヘッドセット マイク付き Bluetooth5.3 AAC対応 ミュート機能 ENCノイズキャンセリング 耳を塞がない 軽量32g 10時間連続再生 ハンズフリー通話 在宅勤務/運転/オンライン会議/テレワーク用 IPX5防水 装着感快適 iOS/Android/PC/Windows対",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 1784425.99,
+      "t30d_units": 404.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1001433669602,
+      "merchant_name": "イチョウライフ(echlife)【直営店】",
+      "asin": "B0F66RCJ3W",
+      "item_name": "Earaku(イアラク) オープンイヤーイヤホン【DSPアンプ搭載・従来の音質を突破したオープン型】ワイヤレスイヤホン Bluetooth 5.4 超軽量 16g ながら聴き 耳を塞がない 快適なフィット感 骨伝導イヤホン を超える 空気伝導イヤホン AELCアルゴリズム 24bit 14.2mmドライバー 自動ペアリング ハンズフリー通話",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 531705.66,
+      "t30d_units": 118.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1001433669602,
+      "merchant_name": "イチョウライフ(echlife)【直営店】",
+      "asin": "B0F6Y8SK6Y",
+      "item_name": "【聴く・触れる・感じる ハイグレードサウンド × 多機能タッチスクリーン】Earaku(イアラク) AirCuff オープンイヤー イヤホンイヤーカフ イヤホン オープンイヤー ワイヤレス クリップ式イヤホン 快適なフィット感 マイク内蔵 ながら聴き 自動ペアリング Bluetooth 耳掛け型/耳を塞がない/スマートデ",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 416432.5,
+      "t30d_units": 104.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

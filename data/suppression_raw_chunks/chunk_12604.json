@@ -1,22 +1,55 @@
 {
-  "779886359302": [
+  "779891517602": [
     {
-      "asin": "B0BRKKHT61",
-      "item_name": "Syslux ヒートガン 無段階調温 ホットガン 2段階風量 ヒートがん AC110V 1400Ｗ 50℃～650度 多用途ホットガン 熱工具ヒートガン スクレーパー1本付き ノズル5種類 工業用ドライヤー QR85-A2 二重絶縁",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 7635624.77,
-      "t30d_units": 2600.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 779891517602,
+      "merchant_name": "JPDODOJP",
+      "asin": "B0FDB6JPNS",
+      "item_name": "JPDODOJP ローテーブル センターテーブル テーブル 机 リビングテーブル 折りたたみテーブル （卓上サイズ：50x90cm）コンパクト 収納 省スペース 組み立て簡単 大容量 多機能 リビングルーム/オフィス/ベッドルームに最適（オフホワイト）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 29900.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FPQ6QCW4",
-      "item_name": "Syslux 毛玉取り 電動 けだまとり 毛玉クリーナー 3段階調整 強力6枚刃 毛玉カッター Type-C充電式 安全装置 持ちやすい 軽量 旅行 自宅用 家庭用 替え刃1枚付属 毛玉取り器 どんな衣類でも 靴下 寝具 カーペット プレゼントに最適",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 39600.0,
-      "t30d_units": 20.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 779891517602,
+      "merchant_name": "JPDODOJP",
+      "asin": "B0FDB6LF8H",
+      "item_name": "JPDODOJP ローテーブル センターテーブル テーブル 机 リビングテーブル 折りたたみテーブル （卓上サイズ：45x90cm）コンパクト 収納 省スペース 組み立て簡単 大容量 多機能 リビングルーム/オフィス/ベッドルームに最適（木の色）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 20940.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 779891517602,
+      "merchant_name": "JPDODOJP",
+      "asin": "B0FDB5KFN9",
+      "item_name": "JPDODOJP ベッドサイドテーブル 昇降式 家用昇降式テーブル サイドテーブル キャスター付き 高さ調節可能 2段（デスクトップサイズ：60x40cm、高さ60cm~90cm） 組み立て簡単 多機能 小型家具 家庭、オフィス、または教室用の小型座位スタンドデスク ブラック",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 21480.0,
+      "t30d_units": 6.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

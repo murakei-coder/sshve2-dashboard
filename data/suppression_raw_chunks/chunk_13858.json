@@ -1,13 +1,21 @@
 {
-  "921753566902": [
+  "921818977002": [
     {
-      "asin": "B0F1MD9BGG",
-      "item_name": "【テレビで紹介されました】アニマルデンティスト 犬 歯磨きジェル 30g/1本 [無添加の安全処方] 天然成分100%配合 舐めるだけ おやつ 安心 国内製造 オーラルケア",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 330717.87,
-      "t30d_units": 74.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 921818977002,
+      "merchant_name": "ALI di FENICE.",
+      "asin": "B0GCHYKX2S",
+      "item_name": "ALI di FENICE. (アーリ ディ フェニーチェ) まつ毛コーティング 6g オールインワン まつ毛美容液 まつ毛コーティング剤 クリアマスカラ 束感 マスカラ下地 まつ毛ケア サロン専売品",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 93374.84,
+      "t30d_units": 31.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

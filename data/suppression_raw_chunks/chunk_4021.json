@@ -1,58 +1,72 @@
 {
-  "8515955922": [
+  "8519262655": [
     {
-      "asin": "B0GCZWM3Z3",
-      "item_name": "ペット用バリカン 犬用 バリカン 猫用 静音 低振動 電動バリカンセット 4段階刈り高さコードレス USB充電式 1500mAh大容量バッテリー IPX7防水 LEDディスプレイ 足裏 顔 背中 お腹 全身カット 自宅トリミング 小型犬から大型犬まで対応 初心者向け 日本語説明書付き (gray)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8519262655,
+      "merchant_name": "エレクニード",
+      "asin": "B0BHPMCVSD",
+      "item_name": "[skyna] ネックレス メンズ アクセサリー 三連リング ステンレス 男女兼用 プレゼント ペア (ブルー)",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": 33954.8,
+      "t30d_units": 20.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GG9ZW5NB",
-      "item_name": "【Amazon.co.jp限定】ひげそり 電動シェーバー 小型 深剃り 2モード調整 電気シェーバーメンズ 顔 往復式 シェーバー メンズ コンパクト IPX7防水 お風呂剃り対応 乾湿両用 髭剃り 電動 日本製3枚刃 18000RPM 高速回転 LED残量表示 電気カミソリ 充電式 Type-C急速充電 150分連続駆動 髭剃り 水洗い可 取り外し",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1783745.5,
-      "t30d_units": 480.0
-    },
-    {
-      "asin": "B0GGY74YC7",
-      "item_name": "【Amazon.co.jp限定】ひげそり 電動シェーバー 小型 深剃り 2モード調整 日本製3枚刃 18000RPM 高速回転 電気シェーバーメンズ 顔 往復式 シェーバー メンズ コンパクト IPX7防水 お風呂剃り対応 乾湿両用 髭剃り 電動 LED残量表示 電気カミソリ 充電式 Type-C急速充電 150分連続駆動 髭剃り 水洗い可 取り外し",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GGY7QHBQ",
-      "item_name": "【Amazon.co.jp限定】ひげそり 電動シェーバー 小型 深剃り 2モード調整 日本製3枚刃 18000RPM 高速回転 電気シェーバーメンズ 顔 往復式 シェーバー メンズ コンパクト IPX7防水 お風呂剃り対応 乾湿両用 髭剃り 電動 LED残量表示 電気カミソリ 充電式 Type-C急速充電 150分連続駆動 髭剃り 水洗い可 取り外し",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GBV3YT9B",
-      "item_name": "ひげそり 電動シェーバー 小型 【2026新登場 5枚刃】 シェーバー メンズ 深剃り IPX7防水 乾湿両用 電気シェーバー 顔 往復式 髭剃り 電動 メンズシェーバー 5枚刃 コンパクト 軽量 ひげ剃り シェーバー 電気カミソリ 低騒音 20000PRM高速モータ ロック機能 LED残量表示 Type-C急速充電 長持ちバッテリー 180",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 2407250.81,
-      "t30d_units": 578.0
-    },
-    {
-      "asin": "B0GD11SVXZ",
-      "item_name": "猫 自動給水器 ステンレス ペット自動給水器 犬 猫水飲み器 大容量 2.6L 透明 水量目視可能 自動水やり器 みずのみ器自動 自動給水機 循環式 静音 節電 鳥用 蛇口式設計 多頭飼い/お留守番対応 フィルター付き 水洗い可能 ペット用品 フィルターを1個贈ります WF130",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 17996.0,
-      "t30d_units": 4.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8519262655,
+      "merchant_name": "エレクニード",
+      "asin": "B0GDY27TSK",
+      "item_name": "シキナ 包丁ケース 布巻 刃先カバー不要 6本収納 帆布 アウトドア BBQ 持ち運び",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": 484139.22,
+      "t30d_units": 188.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8519262655,
+      "merchant_name": "エレクニード",
+      "asin": "B0BHPM1LVS",
+      "item_name": "[skyna] [（シキナ） ネックレス メンズ アクセサリー 三連リング ステンレス 男女兼用 プレゼント ペア (ゴールド)",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": 7990.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8519262655,
+      "merchant_name": "エレクニード",
+      "asin": "B0BHPNTLPP",
+      "item_name": "[skyna] ネックレス メンズ アクセサリー 三連リング ステンレス 男女兼用 プレゼント ペア (ブラック)",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": 35880.0,
+      "t30d_units": 21.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

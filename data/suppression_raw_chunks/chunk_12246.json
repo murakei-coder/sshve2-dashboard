@@ -1,22 +1,21 @@
 {
-  "742430099902": [
+  "742432244202": [
     {
-      "asin": "B0D9P7KJPH",
-      "item_name": "FaceSec(ﾌｪｲｽｾｯｸ) タイムレコーダー AI顔認証 高速 高精度 2万人登録 勤怠管理システム内蔵 自動集計 シフト管理 ペーパーレス 簡単操作 8インチ据え置き型（FAD-D80）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 239990.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0D9P9FPYH",
-      "item_name": "FaceSec(ﾌｪｲｽｾｯｸ) タイムレコーダー AI顔認証 高速 高精度 2万人登録 勤怠管理システム内蔵 自動集計 シフト管理 ペーパーレス 簡単操作 5.5インチ据え置き型（FAD-D55）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 818153.66,
-      "t30d_units": 12.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 742432244202,
+      "merchant_name": "qingzhijia JP",
+      "asin": "B0GHMZW75Q",
+      "item_name": "スマートウォッチ【2026最新デザイン 軍用規格】Bluetooth通話 Line/メッセージ通知 1.53インチ大画面 懐中電灯 アプリのGPS連動可能 100+運動モード IP68防塵防水 長持ちバッテリー 300+文字盤 スポーツウォッチ カメラ制御 音楽制御 音声アシスタント 歩数計 腕時計 目覚まし時計 天気予報 iPhone/アンドロ",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 180019.8,
+      "t30d_units": 39.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

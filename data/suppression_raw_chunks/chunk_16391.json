@@ -1,13 +1,55 @@
 {
-  "1136423907402": [
+  "1136436424502": [
     {
-      "asin": "B0FSDTTKX9",
-      "item_name": "ACアダプター型 小型カメラ 隠しカメラ 防犯カメラ 小型監視カメラ USB充電器カメラ 1080P コンセント 長時間録画 日本語説明書付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 82379.75,
-      "t30d_units": 20.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1136436424502,
+      "merchant_name": "ガイアカメラジャパン",
+      "asin": "B004MKNE52",
+      "item_name": "Canon デジタル一眼レフカメラ EOS Kiss X5 レンズキット EF-S18-55mm F3.5-5.6 IS II付属 KISSX5-1855IS2LK",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 466650.0,
+      "t30d_units": 15.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1136436424502,
+      "merchant_name": "ガイアカメラジャパン",
+      "asin": "B00410CI7I",
+      "item_name": "Canon デジタル一眼レフカメラ EOS 60D レンズキット EF-S18-135mm F3.5-5.6 IS STM付属 EOS60D18135ISLK",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 225310.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1136436424502,
+      "merchant_name": "ガイアカメラジャパン",
+      "asin": "B09LHCQT5Q",
+      "item_name": "パナソニック 4K ビデオカメラ 64GB 光学20倍ズーム ピュアホワイト HC-VX992MS-W",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 338960.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

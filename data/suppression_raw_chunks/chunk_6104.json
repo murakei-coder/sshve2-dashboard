@@ -1,130 +1,38 @@
 {
-  "27479063022": [
+  "27480873222": [
     {
-      "asin": "B0FF9BZS2W",
-      "item_name": "SANAAAレジン液 UV-LED対応 レジン液 ハードタイプ 大容量300g HEMAフリー ツルツルしている 硬化が速いレジン液 クリア DIY 手芸用品 レジンアート",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 13233.8,
-      "t30d_units": 7.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 27480873222,
+      "merchant_name": "神奈川県Online-store",
+      "asin": "B0D1Y4X613",
+      "item_name": "joy all 家庭用 EV充電器「第 2 世代の新しいアップグレード」110V-240V SAE J1772 EV充電ケーブル ４つ電流モード切替可能 8A/10A/13A/15A 電気自動車充電ケーブル 100V/200V変換アダプターと5-15P変換アダプター付き",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 492014.0,
+      "t30d_units": 29.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G9157PK3",
-      "item_name": "SANAAA 型取り用シリコン 硬度25A モールドシリコン 手作り DIY 型取り レジン型 【型取り材】（550+550g）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 106828.24,
-      "t30d_units": 29.0
-    },
-    {
-      "asin": "B0G8ZX6Z3D",
-      "item_name": "SANAAA 型取り用シリコン 硬度25A モールドシリコン 手作り DIY 型取り レジン型 【型取り材】（320+320g）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 49704.33,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0FPFNN4P9",
-      "item_name": "SANAAA ポリウレタン樹脂、640g の 二液性レジン液 、10 分以内に急速に硬化、超低粘度、低臭、試作やその他の樹脂工芸に適しています",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 100754.5,
-      "t30d_units": 38.0
-    },
-    {
-      "asin": "B0DBHF1WDD",
-      "item_name": "SANAAA アロマオイル 6種セット エッセンシャルオイル 精油 天然100% 桜/ジャスミン/ローゼ/スイートオレンジ/ラベンダー/レモングラス 10ml × 6本",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G2BGZ8G8",
-      "item_name": "SANAAA ポリウレタン樹脂、1100g の 二液性レジン液 、10 分以内に急速に硬化、超低粘度、低臭、試作やその他の樹脂工芸に適しています",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 23218.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0G6KHW3XP",
-      "item_name": "SANAAA エポキシ樹脂 二液性レジン液 超透明 高光沢 黄変防止1000g、透明で気泡なし、ジュエリー・木材コーティング・鋳造樹脂に適用、混合比率 1:1",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 51778.66,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0FF8SJ68K",
-      "item_name": "SANAAAレジン液 UV-LED対応 レジン液 ハードタイプ 容量100g HEMAフリー ツルツルしている 硬化が速いレジン液 クリア DIY 手芸用品 レジンアート",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 25588.66,
-      "t30d_units": 25.0
-    },
-    {
-      "asin": "B0FDQFMHG7",
-      "item_name": "SANAAA シリコン液は型作成用ですシリコン、手作りのDIY型作成、樹脂型、ピンク色（550g+550g）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 60428.77,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0FC28NS52",
-      "item_name": "SANAAA ジェルネイルセット 6色 HEMAフリー カラージェル グラデーション ペインティング ジェルネイル スポンジブロックと グラブペン UV・LED対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 193472.55,
-      "t30d_units": 83.0
-    },
-    {
-      "asin": "B0FDQJDHPF",
-      "item_name": "SANAAA 型取り用シリコン モールドシリコン 手作り DIY 型取り レジン型 ピンク（320+320g）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 63798.0,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B0G6KM34DC",
-      "item_name": "SANAAA エポキシ樹脂 二液性レジン液 超透明 高光沢 黄変防止500g、透明で気泡なし、ジュエリー・木材コーティング・鋳造樹脂に適用、混合比率 1:1",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 11754.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0FF8ZF4LN",
-      "item_name": "SANAAAレジン液 UV-LED対応 レジン液 ハードタイプ 大容量200g HEMAフリー ツルツルしている 硬化が速いレジン液 クリア DIY 手芸用品 レジンアート",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 4206.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DRTWQ2T4",
-      "item_name": "SANAAA アロマオイル 8種セット エッセンシャルオイル 精油 天然100% イランイラン/ティーツリー/ユーカリ/サンダルウッド/ペパーミント/カモミール/ローズマリー/ キンモクセイ10ml × 8本",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 31554.03,
-      "t30d_units": 13.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 27480873222,
+      "merchant_name": "神奈川県Online-store",
+      "asin": "B0D1Y4QXZT",
+      "item_name": "joy all「2025新上場 EV充電 器 家庭 用」４つ電流モード切替可能 （15A-13A-10A-8A/110V-240V）SAE J1772 EV 充電ケーブル 電気自動車 充電ケーブル長7.6メートル 100V/200V変換アダプターと5-15P変換アダプター付き",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 292715.99,
+      "t30d_units": 16.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

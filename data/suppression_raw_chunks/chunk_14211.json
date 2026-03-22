@@ -1,616 +1,140 @@
 {
-  "964417719502": [
+  "964442211602": [
     {
-      "asin": "B0F53HYGH7",
-      "item_name": "FamGift シンク ゴミ受け 排水溝 キッチンシンク ゴミ受け 浅型 シンク 洗面台 ごみ受け ステンレス製 排水口フィルタ パンチング 適用サイズ：7.5-11cｍ",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 7287.66,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0FG7JS19H",
-      "item_name": "FamGift タブレットスタンド iPad 折りたたみ式 デスクトップ 携帯電話 スタンド 調整可能 タブレット兼用 コンパクト収納（ホワイト）",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 3695.75,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0F88675Q3",
-      "item_name": "FamGift 車用シートフック ヘッドレストフック 2個 シートフック 耐荷重20kg 荷物を掛ける 車用収納 アクセサリー 便利グッズ インストールが簡単 取り外し不要(ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 37256.24,
-      "t30d_units": 57.0
-    },
-    {
-      "asin": "B0FXR6BV3C",
-      "item_name": "FamGift 磁気ミシン 押さえ 多機能定規 じききゅうしゅう 厚さ調整可能 家庭用ミシンアクセサリー 裁縫用定規 服を縫い合わせる DIYクラフト シームガイド ミシン マグネット 裁縫用品アクセサリー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 12184.8,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0FGCVJ41Z",
-      "item_name": "FamGift 保温袋おにぎり型 弁当箱 だんねつアルミニウムばん 保温断熱バッグ保冷 軽量三角弁当袋 大容量防水 ファスナー付着 朝食/昼食/仕事/学校/出張/ピクニック/旅行する 男女兼用（ブラック）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 41973.8,
-      "t30d_units": 69.0
-    },
-    {
-      "asin": "B0F7Q28B11",
-      "item_name": "FamGift 保温袋おにぎり型 弁当箱 だんねつアルミニウムばん 保温断熱バッグ保冷 軽量三角弁当袋 大容量防水 ファスナー付着 朝食/昼食/仕事/学校/出張/ピクニック/旅行する 男女兼用（グレー）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 36174.32,
-      "t30d_units": 60.0
-    },
-    {
-      "asin": "B0FXRDXKC5",
-      "item_name": "FamGift チャコペン 手芸 4色 20本セット 加熱式消去ペン 刺繍 裁縫用 家庭用 DIYクラフト 業務用 印付けツール 男女兼用 白 黒 赤 青各5本+替芯 軸4枚付き",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 3051.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0F1XJ2J9M",
-      "item_name": "FamGift 猫背ベルト 矯正 薄型 軽量 脱着簡単 ダブルベルト 男女兼用 調整可能 つけ心地良い ピンク(M)",
-      "suppression_reason": "[ITEM_RATING_LESS_THAN_THRESHOLD[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "5.Others",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 2839.33,
-      "t30d_units": 5.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 964442211602,
+      "merchant_name": "zzzgoo.inc",
+      "asin": "B0DPVCFZV9",
+      "item_name": "zzzgoo 香水 scene B1 オードパルファム 雨宿りの香り メンズ レディース 50ml オードパルファン アップル オレンジ ヒヤシンス トロピカルフルーツ 会員証無し",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 23618.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F5GS3WRJ",
-      "item_name": "FamGift 洗濯ロープ 物干しロープ 1個入り 防風 落下防止 ハンガー掛け スリット付き 旅行物干しロープ ホームホテル キャンプ 室内外用 携帯便利 伸縮物干し竿 洗濯ロープ 物干しロープ 5m（ブルー）",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 7758.2,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0F249VWH7",
-      "item_name": "FamGift ベッドサイドランプタッチ誘導ランプ三色ランプ夜間目に優しい色温度輝度調節可能USB充電式読書ランプ学習ベッド、テーブル、化粧鏡、車内強磁性直接吸着（0.6 W）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 36090.38,
-      "t30d_units": 56.0
-    },
-    {
-      "asin": "B0FT8F9VYP",
-      "item_name": "[FamGift] 遮光ゴーグル 調節可能 サロンアイパッチ 家庭 エステサロン 眉保護眼鏡 アイプロテクター 光美容器用 脱毛 メガネ アイガード 多用途(ブラック)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 4339.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0FKM4YV4B",
-      "item_name": "FamGift ウエストポーチ 多機能 小物入れ バッグ 多収納ポケット 大容量ヒップバッグ 軽量 携帯 仕事用 登山 探検 アウトドア ハイキング キャンプ フィッシング アウトドア用 ウエストポーチ (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 10024.33,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0F135GJ2R",
-      "item_name": "FamGift 5個 多機能 ステンレス 洗濯ばさみ 大開口 クリップ 防錆ニップ 跡なし 強力ニップ 乾燥ニップ 防風 ハンガー 固定 丈夫で 耐久性 がある",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 566.37,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FF9MB1RP",
-      "item_name": "[FamGift] 介護ミトン 介護用 グローブ メッシュ素材 通気性良好 放熱性がよい すべりファスナー 取り外しが容易 洗いやすい 左右兼用 拘束バンド付き 抜管防止 自傷行為防止 介護手袋（ブルー）",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FG2F388X",
-      "item_name": "FamGift ゴルフグローブハンガー 型崩れ防止 ゴルフ用 乾燥 ホルダー キーホルダー付き シワ対策用 男女兼用 2個セット（ブラック）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 2991.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0DZBXGGPZ",
-      "item_name": "FamGift USB Type Cケーブル ナイロン編 み耐久性 急速充電 と高速データ転送同期 480 Mbps対応同期速度 リモート在宅勤務 対応/iPad Pro/MacBook（エレガントホワイト1 m）",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F373K978",
-      "item_name": "FamGift 11本 極細 ブラシ ダケカンバ質ペン棒 画材塗装用 極細 スタイラスペン アクリルペン 水彩水墨画（11本セット）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 4084.33,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0FH69NSR4",
-      "item_name": "FamGift つま先 インソール 4枚 靴擦れ防止 ゆるい 前ズレ防止 靴脱げ防止 弾力性 調整 衝撃吸収 圧力分散 滑り止め ジェル クッション性 ハイヒールインソール (肌色)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 3907.0,
-      "t30d_units": 7.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 964442211602,
+      "merchant_name": "zzzgoo.inc",
+      "asin": "B0DPVB7VL1",
+      "item_name": "zzzgoo 香水 scene E1 オードパルファム 春募りの香り メンズ レディース 50ml オードパルファン アルデヒド ペアー カシス 会員証無し",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 12618.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FCX8YW6G",
-      "item_name": "FamGift アイスクリーム デザート ステンレス製 アイスクリームと果物のシャベル 大球形 アイスクリームを掘る フルーツ 夏の涼しさ 暑気払い デザートを作る フードスプーン キッチン レストラン用品（サイズ5.7*19 cm）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 42404.65,
-      "t30d_units": 64.0
-    },
-    {
-      "asin": "B0DZTBV39B",
-      "item_name": "FamGift 3.5 mm 4極 3極 変換ケーブル 4極（メス）-3極（オス*2）イヤホン マイク オーディオ 変換ケーブル HI-FI ナイロンタイト編み デスクトップ/ノートパソコン（0.5 m）対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 2521.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0FFMWJKYL",
-      "item_name": "FamGift 枕干しネット 2個セット 物干しネット 吊り下げ式 を干し ネット ぬいぐるみ 枕 座布団など物干し 梅雨時期最適（白）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 6408.71,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0FZK598KW",
-      "item_name": "FamGift レモン絞り器 ステンレス鋼製 果汁絞り器 レモンしぼり しゅどうしぼり 小型 ジューサー 安全衛生 家庭 キッチン用 カクテルスプーン 食器洗い機使用可能",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 20516.66,
-      "t30d_units": 29.0
-    },
-    {
-      "asin": "B0DZ65THBH",
-      "item_name": "FamGift USB Cヘッドフォンジャック 変換アダプタ USB C 3.5mm 4極 ヘッドフォン 変換アダプタ DACは、24 bit/96 Hz対応 HIFI-音質 TRRS/4 ファブリック 音量調節/通話/音楽対応iPad Pro/Android/Type Cなどを搭載",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 1037.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FMDP2GDB",
-      "item_name": "FamGift アイロンビーズ プレート 14*14cm 四角形 透明 5mmサイズ対応 専用プレート 子供 DIY クラフト ペグボード",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 14913.6,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B0FZ8LQQN7",
-      "item_name": "FamGift カーブペン 水性ペン 6種類 6色蛍光ペン ローラースタンプ 両頭 速乾 筆記用具 日記 DIY 手帳 お絵かき オフィス用品 メモ取り用 蛍光ペン 花柄/ハート/点線/波線",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 5979.71,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0F62G3RNV",
-      "item_name": "FamGift 毛抜き ピンセット ステンレス製 精密 眉毛抜き 先斜め 眉を整える道具 ヒゲ とげぬき 鼻毛 男女兼用 小型 持ち運び便利 収納ケース 先斜めで ピンセット 3個入り ブラック",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1551.71,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0F439WTX4",
-      "item_name": "FamGift ステンレス鋼 ミキサー キッチンツール 15.8cm ミニ 手動 ミキサー 卵を割る器 きほうき たいねつ 食洗機対応 キッチンツール 手作り カステラクリーム 菓子づくり",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 2239.66,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0DZXKCMWS",
-      "item_name": "[FamGift] UVファッションマスク 日焼け止め 紫外線対策 UPF50+ 接触冷感 通気性がよい 呼吸がしやすい 繰り返し使える 冷感マスク 紐調整可能 立体 速乾 男女兼用（グレー）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 4820.0,
-      "t30d_units": 9.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 964442211602,
+      "merchant_name": "zzzgoo.inc",
+      "asin": "B0DPVCQPS9",
+      "item_name": "zzzgoo ボディクリーム scene C1 153g シャボンとライチのほどよく甘いフローラルな香り 保湿 乳液 ボディミルク スキンケア",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 15636.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FG733V6X",
-      "item_name": "FamGift 食卓カバー 虫よけ 折り畳み式 細密網糸 通気性 收納便利 小さめ 傘型 卓上フードカバー 家庭用 キッチン用品 ピクニック キャンプに適している 32cm*32cm",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 15933.66,
-      "t30d_units": 29.0
-    },
-    {
-      "asin": "B0F53X56MF",
-      "item_name": "FamGift 指サポーター 固定 サポーター 固定用金属プレート 指のプロテクター 人差し指 中指 薬指 対応 バレー バスケ 指サポーター 大人男女兼用 11*8 cm（ブラック 6個）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 3746.0,
-      "t30d_units": 5.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 964442211602,
+      "merchant_name": "zzzgoo.inc",
+      "asin": "B0DPV9XTSL",
+      "item_name": "zzzgoo 香水 scene G1 オードパルファム 月夜のお茶会 メンズ レディース 50ml オードパルファン ベルガモット マンダリン アップル ピーチ ペッパー クローブ 会員証無し",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 106281.0,
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F8VFH2S9",
-      "item_name": "FamGift バンドクリップ ワークバッジクリップ 移動ポケット用クリップ バンドクリップボタン 名札クリップ 名札ケース 事務用品 5個入（笑顔クリップ 青）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FGJHG5Q5",
-      "item_name": "FamGift ショルダースト ラップ バッグ用 調節可能 斜め掛け 鞄 ショルダーバッグ ひも 幅2 cm 交換用 ショルダーベルト（ブラック 肩ひも+ゴールド バックル）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 5964.9,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0FH4J3FPB",
-      "item_name": "FamGift イヤーパッド イヤホン 交換用 イヤホンカバー 高弾性 耐久性 軽くて 柔らかい スポンジ製 直径18mm（ブラック 10枚入り）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 2292.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0F4R5HNNP",
-      "item_name": "FamGift アイスクリーム デザート ステンレス製 アイスクリームと果物のシャベル 大球形 アイスクリームを掘る フルーツ 夏の涼しさ 暑気払い デザートを作る フードスプーン キッチン レストラン用品（トランペット4.8*17.8 cm）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 36290.66,
-      "t30d_units": 63.0
-    },
-    {
-      "asin": "B0FCXPSLC2",
-      "item_name": "FamGift 洗車スポンジ ソフトブラシ 多機能 洗車ブラシ 3個 塗り込み用スポンジ 二層構造 吸水 速乾 メンテナンス 洗車用品 快適 無傷車 あてはまる クリーンカー オートバイ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1433.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FD3Q39YX",
-      "item_name": "FamGift フロントサンシェード 車用 シェード しがいせんぼうし 折りたたみ カーサンシェード コンパクト 軽量 強力断熱 抗菌 消臭 遮光率99% UVカット コンパクト 収納袋付き(145×80cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 47855.45,
-      "t30d_units": 71.0
-    },
-    {
-      "asin": "B0FGTWS3S5",
-      "item_name": "FamGift エアコン室外機カバー 日除け 遮熱パネル 防塵 雪除け 防雨 汚れ防止 室外機の故障予防 室外機用遮熱シート 取り付け簡単 ベルト式（80×40cm）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 39821.26,
-      "t30d_units": 59.0
-    },
-    {
-      "asin": "B0F5W9JMCT",
-      "item_name": "FamGift 風呂 排水溝 髪づまり防止ネット 細かなゴミ ごみ受け ィルタ ごみ受け 直径 7.8cm 排水口対応",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F5MBF2C3",
-      "item_name": "FamGift ヘルメット用 ライナー ライナーエアーヘッド 髪型 崩れない 圧発防止 蒸れ防止 通気性 ライナー バイク用 自転車 ヘルメット 軽量 取り付け簡単 シリカゲル インナーパッド 男女兼用（ブルー 2個）",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 3381.33,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0F6T175PX",
-      "item_name": "FamGift 折り畳み式カチューシャ 男女兼用 伸縮収納 洗顔/パック/食事/アウトドア/スタイリング ポータブル すべりどめせっけい カチューシャ頭飾りを折り畳む（黒2個）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 9741.3,
-      "t30d_units": 19.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 964442211602,
+      "merchant_name": "zzzgoo.inc",
+      "asin": "B0DPVBRRH1",
+      "item_name": "zzzgoo 香水 scene E2 オードパルファム 春0番の香り メンズ レディース 50ml オードパルファン アルデヒド ピーチ カシス 期間限定 会員証無し",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 23618.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F7LC8Y2L",
-      "item_name": "FamGift 衣類収納袋 防水 プール 半透明 携帯に便利 EVA防水 密閉収納バッグ 大開口設計 24.5x27x11.5cm 入浴/水泳/サウナ用ハンドバッグ 男女兼用（クリアグレー）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 9499.23,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0G4RF1J3G",
-      "item_name": "FamGift ネックレス 留め具 マグネット クラスプ 4個セット 磁気クラスプ 延長用金具 クラフト作り ジュエリー用 DIY用 アクセサリー 簡単装着（ゴールド シルバー）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 14454.0,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B0G1T1GZ5S",
-      "item_name": "[FamGift] 防寒マスク フェイスカバー 防風 防寒 通気 マジックテープ 調節可能 防塵 目隠しカバー 保温防風 息苦しくない 通勤 自転車 登山 旅行 ランニング スキー 男女兼用(ピンク)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 964442211602,
+      "merchant_name": "zzzgoo.inc",
+      "asin": "B0DPVCKQ32",
+      "item_name": "zzzgoo 香水 scene F1 オードパルファム 木陰浴（こかげよく） メンズ レディース 50ml オードパルファン ベルガモット カルダモン ピンクペッパー 会員証無し",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 23618.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FGNRKG94",
-      "item_name": "FamGift ヘッドバンド 汗止めヘアバンド 伸縮性あり 通気性 薄型 軽量 汗止め 吸汗 肌触り 柔らかい 滑り止めデザイン スポーツ サッカー バスケットボール ヨガ アウトドア 男女兼用 無地 スポーツヘッドバンド（ブラック）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 3559.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0F1XZHW6P",
-      "item_name": "FamGift 伸縮除塵はたき高所清掃最長245 cm大掃除家庭用キャビネット上部除塵隙間清掃神器長調節可能取り外し可能天井/車/家/ルーバー/エアコン適用（オフホワイト）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 44481.24,
-      "t30d_units": 50.0
-    },
-    {
-      "asin": "B0FD38VJFY",
-      "item_name": "FamGift ゲートラッチ 引き戸鍵 ステンレス製 2個入り ネジ8個付き ドアと窓のフック スライド式 錠前 フックロック 簡単取り付け 家具 引き戸 窓 寝室に最適です シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 15630.0,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B0F8429CNH",
-      "item_name": "FamGift つり上げ収納 吊り下げ小物入れ 折り畳み式 化粧ブラシ乾燥スタンド 洗濯小物 化粧パフ/スポンジパフ/化粧ブラシ 乾燥工具 室内干し 乾燥ネット 物干しラック （グレー）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 18834.66,
-      "t30d_units": 35.0
-    },
-    {
-      "asin": "B0FHWFSVK1",
-      "item_name": "FamGift 車用 滑り止めマット （27㎝×15㎝） 超強力滑り止めマット 携帯電話 高粘度シリコーンシート 車載アクセサリー ダッシュボード すべり止めシート 洗える 繰り返し使える 超強力粘着",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 19425.73,
-      "t30d_units": 34.0
-    },
-    {
-      "asin": "B0F21W86R3",
-      "item_name": "FamGift ネイル照灯一文字型軽量ハンドヘルド充電式速乾タイマーTYPE-C急速充電インターフェースDIYセルフネイル用急速硬化手足両用（スクリーン一文字ランプ-白）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1644.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FBWLDH85",
-      "item_name": "FamGift ベビーカー フック 荷物掛け 多機能 360度回転 共通 電気自動車フック 部品 マジックテープ滑り止め 強力荷重 耐荷重20 kg 堅牢で耐久性がある 使い勝手がよい 万能 ベビーカー（2個 ブラック）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 53111.96,
-      "t30d_units": 101.0
-    },
-    {
-      "asin": "B0F48HCWP9",
-      "item_name": "FamGift ヘアコーム 折りたたみ 2個入り 双頭 静電気防止 ダブルヘアブラシ 軽量 携帯用 折りたたみ櫛 ピンク",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 14001.08,
-      "t30d_units": 23.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 964442211602,
+      "merchant_name": "zzzgoo.inc",
+      "asin": "B0DPVC5YMN",
+      "item_name": "zzzgoo 香水 scene C1 オードトワレ 追憶の初恋の香り メンズ レディース 50ml 石鹸系 ユーカリ ライチ マンダリン 会員証無し",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 271607.0,
+      "t30d_units": 23.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DZNWQFZK",
-      "item_name": "FamGift USB 回転 3.5 mm イヤホンジャック 変換アダプタ DAC 高性能 TRRS イヤホン パソコンの音響、イヤホン など 3.5 mm インタフェースデバイス プラグアンドプレイ に広く 互換性 がある",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 9030.66,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0F2YYP6H3",
-      "item_name": "FamGift シリカゲル 感覚石 感覚刺激グッズ 子供 大人用 触覚刺激 仕事 勉強 ストレス解消 不安解消 自閉症 発達障害向け 知育玩具 携帯に便利 おもちゃ（6個セット）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 10235.66,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0F47BRBYR",
-      "item_name": "FamGift ワインオープナー 軽量携帯便利 多機能 ソムリエナイフ 栓抜き コルク抜き ステンレス鋼 おしゃれ バーテンダー向け 栓抜き（ブラック-2個入）",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FB94P8ZN",
-      "item_name": "FamGift 木製手振りベル 七色 おもちゃ 一ワード ベルを鳴らす 赤ちゃんの聴覚発育を促進する 知育 おもちゃ て手を動かす能力を鍛える",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 2691.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0F43Y5KQZ",
-      "item_name": "FamGift ヘアピン 約100本 髪束ね 前髪 強力アレンジピン 髪飾り に化粧 しゃしん 儀式用 ヘアピン 扱いやすい",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 2957.66,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0FCY54BM5",
-      "item_name": "FamGift 毛染めキャップ メッシュ染め シリコン素材 部分染め 染め専用 かぎ針付き ハイライトキャップ 男女兼用 再利用可能 シリコン製 毛染めキャップ 自宅でヘアカラー 美容室 専用（白 不透明）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 29429.33,
-      "t30d_units": 47.0
-    },
-    {
-      "asin": "B0DZTDQBX7",
-      "item_name": "FamGift ズボン スカート ハンガークリップ 家庭用 シリカゲル 粗滑り防止 耐久性 痕跡を残さない 乾湿両用 スーツ コート用 伸縮調節可能 黒ソフトビーズ 10個入",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 76642.66,
-      "t30d_units": 101.0
-    },
-    {
-      "asin": "B0F3HJS4FC",
-      "item_name": "FamGift 荷物 旅行はかり LCC用 携帯式 計量器 100 g ~ 50 kg 秤量精密 旅行 アウトドア ホームに最適の秤 便利 軽量 風袋引き機能付（黒フック＋リボン電池タイプ）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1498.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FGCW3V1B",
-      "item_name": "FamGift 保温袋おにぎり型 弁当箱 だんねつアルミニウムばん 保温断熱バッグ保冷 軽量三角弁当袋 大容量防水 ファスナー付着 朝食/昼食/仕事/学校/出張/ピクニック/旅行する 男女兼用（ブルー）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 44383.57,
-      "t30d_units": 73.0
-    },
-    {
-      "asin": "B0FSZKMRJH",
-      "item_name": "FamGift 持ち手カバー 2個セット スーツケース ハンドルカバー 軽量 負担軽減 滑り止め 保護 クッション 快適クッション効果 着脱簡単 ハンドルラップ グリップカバー 便利（ブラック）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1116.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F4JH2VWL",
-      "item_name": "FamGift 指サック ゲーム用 親指 コアサック 柔らかい手触り 極薄 手汗対策 滑り止め 超高感度 操作性アップ 誤触減少 各種スマホゲームに対応 12個入り",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F59D6D95",
-      "item_name": "FamGift 折り畳める鋏 小型 ポータブル ステンレス鋼 家庭用 旅行用 アウトドアキャンプ ミニはさみ 裁断用具 刺繍切り紙 はさみセット 4個",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": -639.0,
-      "t30d_units": -1.0
-    },
-    {
-      "asin": "B0DZC84PY2",
-      "item_name": "FamGift USB延長ケーブル USB 3.0 延長パッケージ 5 Gbps高速 安定伝送 延長線 AオスA刃先 USBナイロン編み サポート ノートパソコン/スキャナー/プリンター/キーボード/マウスなど（2 m）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 5604.4,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0FGPSRCGS",
-      "item_name": "FamGift 洗濯ばさみ 強力 防風タイプ 滑り止め 開口部 最大4.5ｃｍ 洗濯物干し 跡がつかない 布団固定器 シリカゲル滑り止め 耐久性 室外干し 3個セット（ブルー）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1615.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0F9W3FPY7",
-      "item_name": "FamGift 卓上計算機 12桁 検算機能 バッテリ式 大画面 学生用 家庭 オフィス 工場 ビジネス用 計算機（ピンク）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 8319.6,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0F1D8QMWN",
-      "item_name": "FamGift 長柄 シリカゲル丸首洗浄ブラシ 長さ31 cm 一体式 食品級シリカゲル材質 耐高温設計 洗浄水瓶/花瓶/ほおんびん 焼きケトル 運動瓶 などのガラス製品（緑色）",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F8Z7XYJJ",
-      "item_name": "FamGift 90度直角 ドアロック ステンレス鋼 ドアロックボルトロック 90° 盗難防止安全ドアロック 引き戸用鍵 室内スライドドアロック あんぜんほご プライバシー保護 ドアロックボタン（1ペア シルバー 4.4*1.9cm）",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 568.0,
-      "t30d_units": 1.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 964442211602,
+      "merchant_name": "zzzgoo.inc",
+      "asin": "B0DPVC9RYC",
+      "item_name": "zzzgoo 香水 scene A1 オードパルファム 自分に恋する香り メンズ レディース 50ml オードパルファン カシスリキュール 会員証無し",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 59045.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

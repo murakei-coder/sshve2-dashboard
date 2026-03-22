@@ -1,22 +1,38 @@
 {
   "797287705": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 797287705,
+      "merchant_name": "mensproud",
       "asin": "B083JR87M2",
       "item_name": "リジンサプリメント L-リジン 1日2000mg ビタミン5種 亜鉛 贅沢リジン 240粒 30〜60日 国産",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 1149557.11,
-      "t30d_units": 895.0
+      "t30d_units": 895.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 797287705,
+      "merchant_name": "mensproud",
       "asin": "B07W5KGLG8",
       "item_name": "mensproud 牡蠣gold 亜鉛サプリ 18mg 高配合 亜鉛 サプリメント 国産 広島産 牡蠣 60粒 30日分",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 1732478.57,
-      "t30d_units": 892.0
+      "t30d_units": 892.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

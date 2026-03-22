@@ -1,22 +1,21 @@
 {
-  "1141631143902": [
+  "1141835139002": [
     {
-      "asin": "B0GDGB6HZ3",
-      "item_name": "KIQIA【業界初】4 in 1 車載ミラーリング ワイヤレスCarPlay＆Android Autoアダプター 完全ワイヤレス化を実現 スマホ画面を車載ディスプレイに表示 AirPlay/Miracast/Samsung DeX 対応 高速接続、低遅延 純正有線CarPlay＆AA搭載車に対応 iPhone 6以降、iOS 10+/Android 11+対応【技適認証済み】",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 1067720.66,
-      "t30d_units": 134.0
-    },
-    {
-      "asin": "B0G1WYCND4",
-      "item_name": "KIQIA【業界初】スマート車載ベビーモニター ワイヤレスCarPlay＆Android Auto対応 | 車載ディスプレイのリアルタイム監視画面 | 音楽やナビゲーションなどの機能と同時使用可能 | AHD 1080P、120°広角、夜間視機能 技適認証取得済み",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 39273.0,
-      "t30d_units": 4.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Media",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1141835139002,
+      "merchant_name": "森川美穂オフィシャルアマゾンショップ",
+      "asin": "B0FYF2333Y",
+      "item_name": "森川美穂　40周年記念アルバム「Legendary」（レジェンダリー / 12曲収録）",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 39599.56,
+      "t30d_units": 12.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

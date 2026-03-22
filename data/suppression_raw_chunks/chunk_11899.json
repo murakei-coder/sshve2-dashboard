@@ -1,31 +1,21 @@
 {
-  "715518649902": [
+  "715829988402": [
     {
-      "asin": "B0FMHP8JT3",
-      "item_name": "KANBLL豆乳メーカー スープメーカー 1.0L大容量 攪拌出力150W 加熱出力600W 8種類のプリセット調理モード＆予約機能付き 加熱保温機能搭載 甘酒・保温発酵対応 電動ブレンダー ジューサー スープメーカー スムージーミキサー 離乳食用 自宅で手軽 全自動 お手入れ簡単 乾燥豆OK 濾過不要 栄養補充 野菜",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 67311.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0F4QRZCKH",
-      "item_name": "KANBLL 加熱式ミキサー 豆乳メーカー 正規品 豆乳機 豆乳マシーン 1.0L大容量 14種類のプリセット調理モード＆予約機能付き 加熱保温機能搭載 甘酒・保温発酵対応 電動ブレンダー ジューサー スープメーカー スムージーミキサー 離乳食用 自宅で手軽 全自動 お手入れ簡単 乾燥豆OK 濾過不要 栄養補充",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1069382.0,
-      "t30d_units": 95.0
-    },
-    {
-      "asin": "B0F9NZVKJN",
-      "item_name": "KANBLL 豆乳メーカー スープメーカー 豆乳機 豆乳マシーン 微圧豆乳 850mL大容量 刃は取り外し可能です 8種類のプリセット調理モード＆予約機能付き 加熱保温機能搭載 電動ブレンダー 自動調理ポット ジューサースムージーミキサー 甘酒 離乳食用 自宅で手軽 全自動 お手入れ簡単 乾燥豆OK 濾過不要",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 2438217.9,
-      "t30d_units": 262.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 715829988402,
+      "merchant_name": "YOLO LAB  アマゾン",
+      "asin": "B0DZX1TM8H",
+      "item_name": "【大容量】 メッシュバッグ スパバッグ プールバッグ 銭湯 黒 YOLOLAB",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 154248.54,
+      "t30d_units": 117.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

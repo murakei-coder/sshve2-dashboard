@@ -1,22 +1,55 @@
 {
-  "783326751802": [
+  "783489521502": [
     {
-      "asin": "B0BRX5HJCV",
-      "item_name": "植物育成ライト LED 60W パネル【放熱効率UP/ IP65防水】温白色 256LED フルスペクトル UV/IR 長寿命 量子ランプ 室内栽培ランプ 多肉植物育成 水耕栽培ランプ 家庭菜園 室内園芸 水草栽培 野菜工場 観葉植物 省電力",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1185235.07,
-      "t30d_units": 397.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 783489521502,
+      "merchant_name": "chengmmoo-jp",
+      "asin": "B0DK3CY1CR",
+      "item_name": "グリップヒーター バイク用 巻き付け式 USBグリップヒーター 3段階温度調整 スイッチ付き 滑り止め 防寒ホットグリップ バイク グリップ ホットカバー 取り付け簡単 自転車 バイク ハンドル ホットグリップ バイクスロットル 防水 防寒グッズ",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DGLGC5N2",
-      "item_name": "植物育成ライト LED 60W パネル【放熱効率UP/ IP65防水】温白色 256LED フルスペクトル UV/IR 長寿命 量子ランプ 室内栽培ランプ 多肉植物育成 水耕栽培ランプ 家庭菜園 室内園芸 水草栽培 野菜工場 観葉植物 省エネ 静音 安定",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 1273927.84,
-      "t30d_units": 424.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 783489521502,
+      "merchant_name": "chengmmoo-jp",
+      "asin": "B0DJ6ZFC4J",
+      "item_name": "電熱グローブ バイク用 電熱手袋 7.4V/3000mAh DC充電式 3段階温度調節 速暖 ヒートグローブ スマホ操作可能 防寒手袋 バイク用手袋 PSE認証取得済み 撥水 防風 サイクリング 通勤 通学 アウトドア スキー (L)",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 39040.0,
+      "t30d_units": 8.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 783489521502,
+      "merchant_name": "chengmmoo-jp",
+      "asin": "B0FSJJBFQX",
+      "item_name": "電熱グローブ バイク用 電熱手袋 7.4V/3000mAh DC充電式 3段階温度調節 速暖 ヒートグローブ スマホ操作可能 防寒手袋 バイク用手袋 PSE認証取得済み 撥水 防風 サイクリング 通勤 通学 アウトドア スキー (XL)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 23300.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

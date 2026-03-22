@@ -1,22 +1,38 @@
 {
-  "1125995785902": [
+  "1125997116302": [
     {
-      "asin": "B0GD7BPK6Q",
-      "item_name": "ハンディクリーナー コンパクト コードレス【はんでいくりーなー&4WAY多機能】 長時間稼働 軽量タイプ USB充電式 省エネ キーボード/家具/車内の細かいホコリ取りに最適",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1125997116302,
+      "merchant_name": "xunwuxianyijingshejizhuangshigongchengyouxiangongsi",
+      "asin": "B0G7YWD27L",
+      "item_name": "スマホスタンド 1個セット 折り畳み 高さ調整 滑り止め コンパクト 安定 軽量",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GD7C4JRC",
-      "item_name": "ハンディクリーナー【2025進化モデル&プロ仕様&4WAY多機能&コードレス】吸引/吹き飛ぶ/空気入れ/空気抜き 4in1 USB充電式 省エネ 家庭用/車用/オフィス用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1125997116302,
+      "merchant_name": "xunwuxianyijingshejizhuangshigongchengyouxiangongsi",
+      "asin": "B0G7YV7F2Q",
+      "item_name": "おりたたみ【一個入り】 高度調整 すまほ",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

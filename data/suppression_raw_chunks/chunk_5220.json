@@ -1,13 +1,55 @@
 {
-  "14521766422": [
+  "14523241622": [
     {
-      "asin": "B08F37NR2T",
-      "item_name": "[CQQDOQ] スリッパ 使い捨て スリッパ セット 綿麻 軽量 防菌防臭 滑り止め 高級 携帯便利 個別包装 室内用 来客用 避難用 旅行用 業務用 ホテル用 洗濯可 男女兼用 10足セット (薄底)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 655551.65,
-      "t30d_units": 401.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 14523241622,
+      "merchant_name": "SHUIII（メーカ直営店）",
+      "asin": "B0DPPYQC41",
+      "item_name": "【スライスや水洗い、水切りなど1台12役】 サラダスピナー 野菜 水切り 水洗い スライサー 6枚刃 千切り 野菜水切り器 サラダボウル 果汁絞り器 エッグセパレーター おろし器 セット 調理器具 キッチンツール コンパクト 指ガード＆水切り穴付き 小さめ 3L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 105136.32,
+      "t30d_units": 38.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 14523241622,
+      "merchant_name": "SHUIII（メーカ直営店）",
+      "asin": "B0FDWM6V9L",
+      "item_name": "【デュアルレンズ&270万画素】 ファイバースコープ 7.8mm極細レンズ 防水 内視鏡カメラ 9LED付き スマホ スコープカメラ USB フルHD 家庭用 機械点検 自由研究 マイクロスコープ iPhone/android/iPad対応 (Type-C/Micro/Lightning)硬性ケーブル2M 12ヶ月保証&当日対応",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 270890.85,
+      "t30d_units": 94.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 14523241622,
+      "merchant_name": "SHUIII（メーカ直営店）",
+      "asin": "B0CX4ZXC8R",
+      "item_name": "【デュアルレンズ&270万画素】 ファイバースコープ デュアルレンズ 7.8mm極細レンズ 防水工業用内視鏡カメラ 9LED付き スマホ スコープカメラ USB フルHD マイクロスコープ iPhone/android/iPad対応 (Type-C/Micro/Lightning)硬性ケーブル5M",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 74983.66,
+      "t30d_units": 23.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

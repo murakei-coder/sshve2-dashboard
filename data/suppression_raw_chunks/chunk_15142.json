@@ -1,22 +1,72 @@
 {
-  "1073953942002": [
+  "1073983451502": [
     {
-      "asin": "B0F9P99JTR",
-      "item_name": "髪のMINAMOTO プロテイン グラスフェッド ホエイ プロテイン ケラチン アミノ酸スコア100 ヘアケア インナーケア 無添加 男性 女性 子供 妊活 産後 シニア向け 30日分 750g ヨーグルト味",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 159671.0,
-      "t30d_units": 18.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1073983451502,
+      "merchant_name": "Brighter Pale",
+      "asin": "B0FSKLNSJK",
+      "item_name": "Bright Pale 電動アシスト自転車 20インチ 24V 7.8Ahバッテリー 前輪250Wモーター トルクセンサー搭載 シマノ6段変速ギア IPX6防水 通勤・通学に最適 BRT-206-EB (マットホワイト)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 2134021.0,
+      "t30d_units": 35.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FRN3XNXZ",
-      "item_name": "カラダのMINAMOTO プロテイン グラスフェッド ホエイ プロテイン 無添加 アミノ酸スコア100 インナーケア 無添加 男性 女性 子供 妊活 産後 シニア向け 30日分 750g ヨーグルト味",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 8640.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1073983451502,
+      "merchant_name": "Brighter Pale",
+      "asin": "B0FSKJ8F1W",
+      "item_name": "Bright Pale 電動アシスト自転車 20インチ 24V 7.8Ahバッテリー 前輪250Wモーター トルクセンサー搭載 シマノ6段変速ギア IPX6防水 通勤・通学に最適 BRT-206-EB (マットブラック)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1353374.0,
+      "t30d_units": 22.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1073983451502,
+      "merchant_name": "Brighter Pale",
+      "asin": "B0FSKJW9FS",
+      "item_name": "Bright Pale 電動アシスト自転車 20インチ 24V 7.8Ahバッテリー 前輪250Wモーター トルクセンサー搭載 シマノ6段変速ギア IPX6防水 通勤・通学に最適 BRT-206-EB (マットグリーン)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 613232.0,
+      "t30d_units": 10.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1073983451502,
+      "merchant_name": "Brighter Pale",
+      "asin": "B0FSKPLRW1",
+      "item_name": "Bright Pale 電動アシスト自転車 20インチ 24V 7.8Ahバッテリー 前輪250Wモーター トルクセンサー搭載 シマノ6段変速ギア IPX6防水 通勤・通学に最適 BRT-206-EB (ブルーグレイ)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 906316.0,
+      "t30d_units": 15.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

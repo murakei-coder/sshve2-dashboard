@@ -1,58 +1,21 @@
 {
-  "1142303283902": [
+  "1142592081902": [
     {
-      "asin": "B0G57DGPS2",
-      "item_name": "【＠cosme＋】 アットコスメプラス 天然由来 セラミド サプリ 「The Basic Supplement (1日1本水なし) 」 美容 ビタミン 7種 マルチビタミン ナイアシン (水に溶かして 美容ドリンク に) ヒアルロン酸 美容サプリ アットコスメ (10包, フレッシュピーチ味)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 121619.23,
-      "t30d_units": 106.0
-    },
-    {
-      "asin": "B0G57GX1VR",
-      "item_name": "【＠cosme＋】 アットコスメプラス 天然由来 セラミド サプリ 「The Basic Supplement (1日1本水なし) 」 美容 ビタミン 7種 マルチビタミン ナイアシン (水に溶かして 美容ドリンク に) ヒアルロン酸 美容サプリ アットコスメ (30包, ピュアセラミド味)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 54209.66,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0G57KYZ11",
-      "item_name": "【＠cosme＋】 アットコスメプラス 天然由来 セラミド サプリ 「The Basic Supplement (1日1本水なし) 」 美容 ビタミン 7種 マルチビタミン ナイアシン (水に溶かして 美容ドリンク に) ヒアルロン酸 美容サプリ アットコスメ (10包, ピュアセラミド味)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 36604.45,
-      "t30d_units": 32.0
-    },
-    {
-      "asin": "B0G57DH5CD",
-      "item_name": "【＠cosme＋】 アットコスメプラス 天然由来 セラミド サプリ 「The Basic Supplement (1日1本水なし) 」 美容 ビタミン 7種 マルチビタミン ナイアシン (水に溶かして 美容ドリンク に) ヒアルロン酸 美容サプリ アットコスメ (10包, ビターオレンジ味)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 55511.65,
-      "t30d_units": 48.0
-    },
-    {
-      "asin": "B0G574YRP9",
-      "item_name": "【＠cosme＋】 アットコスメプラス 天然由来 セラミド サプリ 「The Basic Supplement (1日1本水なし) 」 美容 ビタミン 7種 マルチビタミン ナイアシン (水に溶かして 美容ドリンク に) ヒアルロン酸 美容サプリ アットコスメ (30包, ビターオレンジ味)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 104512.13,
-      "t30d_units": 33.0
-    },
-    {
-      "asin": "B0G574YKD3",
-      "item_name": "【＠cosme＋】 アットコスメプラス 天然由来 セラミド サプリ 「The Basic Supplement (1日1本水なし) 」 美容 ビタミン 7種 マルチビタミン ナイアシン (水に溶かして 美容ドリンク に) ヒアルロン酸 美容サプリ アットコスメ (30包, フレッシュピーチ味)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 208040.71,
-      "t30d_units": 65.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1142592081902,
+      "merchant_name": "LATOPIA Official",
+      "asin": "B0G2MHRD36",
+      "item_name": "LATOPIA ラトピア 洗顔フォーム レチノール 毛穴 ヒアルロン酸 ナイアシンアミド グルタチオン ビタミンC 配合 黒ずみ いちご鼻 角質ケア 敏感肌 乾燥肌 洗顔 ピーリング 120g",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 1261745.41,
+      "t30d_units": 516.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

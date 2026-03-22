@@ -1,22 +1,38 @@
 {
   "6112606922": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 6112606922,
+      "merchant_name": "讃岐うどんの小松屋麺BOX",
       "asin": "B07FDPPFNG",
       "item_name": "【小松屋 麺BOX】 金福 純生讃岐うどん 250g×10袋 2.5kg 20人前",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 7980.0,
-      "t30d_units": 2.0
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 6112606922,
+      "merchant_name": "讃岐うどんの小松屋麺BOX",
       "asin": "B07F28JG5Y",
       "item_name": "【小松屋 麺BOX】 純生讃岐うどん 300g×3袋 900g 9人前",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 143616.0,
-      "t30d_units": 192.0
+      "t30d_units": 192.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

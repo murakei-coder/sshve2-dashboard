@@ -1,40 +1,21 @@
 {
-  "1140334825202": [
+  "1140383903202": [
     {
-      "asin": "B0G2VQLBYV",
-      "item_name": "脱毛器 擦るだけ 手のひらサイズ 初心者向け 操作簡単 軽量 家庭用 自宅 出張 旅行 男女兼用",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G2W1GPKP",
-      "item_name": "ジェットウォッシャー 小型軽量 コンパクト お手入れ簡単 レディース メンズ 出張&旅行用 男女兼用",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FZ8CKMWR",
-      "item_name": "スマホスタンド 小型 折り畳み コンパクト 角度 高さ調整 多機種対応 スマートフォン white",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FZ8H8J18",
-      "item_name": "スマホスタンド スマホ 高さ調整 スマートフォンスタンド 安定性小型 多機種対応 折り畳み ホワイト",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1140383903202,
+      "merchant_name": "qcae3254",
+      "asin": "B0FXL5Y26N",
+      "item_name": "1個セット 軽量 コンパクト",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

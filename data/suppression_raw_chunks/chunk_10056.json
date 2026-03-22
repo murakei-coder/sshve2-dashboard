@@ -1,22 +1,55 @@
 {
-  "86814191622": [
+  "86814678522": [
     {
-      "asin": "B0G7WLJSRR",
-      "item_name": "犬 リード 伸縮 ロングリード LED ライト付き 光る 長さ5m 自動巻き ストラップ付き リフレクター 光反射 夜散歩 小・中型犬用 [長さ:5m 適応体重30kg] (ホワイト（2）)",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 111844.1,
-      "t30d_units": 46.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 86814678522,
+      "merchant_name": "ANNTLENT-JP",
+      "asin": "B0FPFNFG5F",
+      "item_name": "携帯電話家庭用信号増強器｜全てのキャリア対応｜全方向性アンテナによる全方向信号受信｜簡単設置",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 880377.0,
+      "t30d_units": 23.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F52T824H",
-      "item_name": "犬 リード 伸縮 ロングリード LED ライト付き 光る 長さ5m 自動巻き ストラップ付き リフレクター 光反射 夜散歩 小・中型犬用 [長さ:5m 適応体重30kg]",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 228080.23,
-      "t30d_units": 83.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 86814678522,
+      "merchant_name": "ANNTLENT-JP",
+      "asin": "B0F3BXSB5T",
+      "item_name": "家庭用携帯電話信号アンプ | すべての日本の携帯電話キャリアに対応 -KDDI & NTT & Softbank | 拡張帯域Band 1,6,18,19,26信号",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 359979.25,
+      "t30d_units": 21.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 86814678522,
+      "merchant_name": "ANNTLENT-JP",
+      "asin": "B0C3G815RC",
+      "item_name": "家庭用携帯電話シグナルブースター｜KDDI au、NTTドコモ、ソフトバンクの全キャリアに対応｜高利得指向性外部アンテナ｜バンド1、3、6、8、9、18、19、26、28の信号をブーストします",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 238330.0,
+      "t30d_units": 7.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

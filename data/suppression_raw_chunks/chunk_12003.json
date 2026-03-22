@@ -1,58 +1,55 @@
 {
-  "721369121102": [
+  "721373712102": [
     {
-      "asin": "B0FC65MKZQ",
-      "item_name": "【トイレの失敗も安心】 Conocobi 犬トイレ 犬用トイレ シリコントイレマット 「ピタッと、トイレ」 犬 ペット 防水 （Mサイズと ワイド なLサイズ） おしっこトレー おしっこマット ペットマット （クラシックブラウン/M）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 23840.0,
-      "t30d_units": 8.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 721373712102,
+      "merchant_name": "Jimmy-JP",
+      "asin": "B0DGTSD16T",
+      "item_name": "Jimmy 布団クリーナー 布団用掃除機 ダニ取り掃除機 ベット掃除機 ダニちりセンサー 軽量 ふとんたたき UV除菌 15Kpa 420w超高速たたき 超吸引 55度温風機能 花粉 ダニ対策 ダニ駆除 ハウスダスト カーペット ベット 梅雨（WB63）",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 147768.0,
+      "t30d_units": 13.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FC67CSK6",
-      "item_name": "【トイレの失敗も安心】 Conocobi 犬トイレ 犬用トイレ シリコントイレマット 「ピタッと、トイレ 」 犬 ペット 防水 （Mサイズと ワイド なLサイズ） おしっこトレー おしっこマット スーパーワイド （ミッドナイトブラック/L）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 83200.0,
-      "t30d_units": 20.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 721373712102,
+      "merchant_name": "Jimmy-JP",
+      "asin": "B0DGTN1LGP",
+      "item_name": "Jimmy 布団クリーナー 布団用掃除機 ダニ取り掃除機 ベット掃除機 ダニちりセンサー ふとんたたき UV除菌 15Kpa 500w超高速たたき 超吸引 65度温風機能 花粉 ダニ対策 ダニ駆除 ハウスダスト カーペット ベット 梅雨（WB81）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 536334.33,
+      "t30d_units": 30.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FC66NJZN",
-      "item_name": "【トイレの失敗も安心】 Conocobi 犬トイレ 犬用トイレ シリコントイレマット 「ピタッと、トイレ 」 犬 ペット 防水 （Mサイズと ワイド なLサイズ） おしっこトレー おしっこマット スーパーワイド （ミスティグレー/L）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 221772.0,
-      "t30d_units": 53.0
-    },
-    {
-      "asin": "B0FC656T7C",
-      "item_name": "【トイレの失敗も安心】 Conocobi 犬トイレ 犬用トイレ シリコントイレマット 「ピタッと、トイレ 」 犬 ペット 防水 （Mサイズと ワイド なLサイズ） おしっこトレー おしっこマット スーパーワイド （クラシックブラウン/L）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 83600.0,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0FC66P934",
-      "item_name": "【トイレの失敗も安心】 Conocobi 犬トイレ 犬用トイレ シリコントイレマット 「ピタッと、トイレ」 犬 ペット 防水 （Mサイズと ワイド なLサイズ） おしっこトレー おしっこマット ペットマット （ミスティグレー/M）",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 68540.0,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B0FC674VJX",
-      "item_name": "【トイレの失敗も安心】 Conocobi 犬トイレ 犬用トイレ シリコントイレマット 「ピタッと、トイレ」 犬 ペット 防水 （Mサイズと ワイド なLサイズ） おしっこトレー おしっこマット ペットマット （ミッドナイトブラック/M）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 110623.99,
-      "t30d_units": 37.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 721373712102,
+      "merchant_name": "Jimmy-JP",
+      "asin": "B0CRYZV8CQ",
+      "item_name": "Jimmy 布団クリーナー 布団用掃除機 ダニ取り掃除機 ベット掃除機 ダニちりセンサー ふとんたたき UV除菌 16Kpa 480w超高速たたき 超吸引 60度温風機能 花粉 ダニ対策 ダニ駆除 ハウスダスト カーペット ベット 梅雨 (BX7 Pro)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 958194.0,
+      "t30d_units": 42.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

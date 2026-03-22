@@ -1,22 +1,55 @@
 {
-  "1086695027602": [
+  "1086716792902": [
     {
-      "asin": "B0GH7M3PH8",
-      "item_name": "折り畳み コンパクト すまほ/スマホ/スマートフォン対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1086716792902,
+      "merchant_name": "Bigcago 専門店",
+      "asin": "B0GGH927XJ",
+      "item_name": "【初心者でも1分で完成】2026改良型 超軽量 マグネットつけまつ毛 一体型 磁気 つけまつげグルー不要 マグネット アイラッシュ 自宅でプロの目元 敏感肌OK 持ち運び便利 (WTB-07)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[ITEM_RATING_LESS_THAN_THRESHOLD[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": "Not Actionable",
+      "asin_count": 1,
+      "t30d_ops": 622724.78,
+      "t30d_units": 206.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GH7TML34",
-      "item_name": "スマホスタンド【2026新携帯ホルダー・おりたたみ・高度調整可能】一個入り ホルダー 卓上 スタンド コンパクト 立て 置き 台 机 つくえ デスク 縦 横 滑り止め すまほ/スマホ多機種対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1086716792902,
+      "merchant_name": "Bigcago 専門店",
+      "asin": "B0GGGR65PM",
+      "item_name": "【初心者でも1分で完成】2026改良型 超軽量 マグネットつけまつ毛 一体型 磁気 つけまつげグルー不要 マグネット アイラッシュ 自宅でプロの目元 敏感肌OK 持ち運び便利 (WTB-04)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 329534.44,
+      "t30d_units": 107.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1086716792902,
+      "merchant_name": "Bigcago 専門店",
+      "asin": "B0GQ8X6LBQ",
+      "item_name": "【初心者でも1分で完成】2026改良型 超軽量 マグネットつけまつ毛 一体型 磁気 つけまつげグルー不要 マグネット アイラッシュ 自宅でプロの目元 敏感肌OK 持ち運び便利",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

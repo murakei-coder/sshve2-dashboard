@@ -1,13 +1,38 @@
 {
-  "803358993602": [
+  "803399207402": [
     {
-      "asin": "B0F42JKJJS",
-      "item_name": "TIGERUNIT（タイガーユニット） 【取手付き】六角レンチセット 9本組 ボールポイント25°| 1.5-10mm | 防錆・高耐久・高精度 DIY・クロスバイク・ロードバイク・修理・機械整備・家具組立 6角レンチ ミリねじ用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 140062.57,
-      "t30d_units": 118.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 803399207402,
+      "merchant_name": "balibali-us",
+      "asin": "B0F3CPKHML",
+      "item_name": "【Amazon限定ブランド】KOOLYFUL モバイルモニター 4k 16インチ モバイルディスプレイ 3840x2400 黄金比16:10 色深度10bit 400cd/㎡ 高輝度 IPSパネル 100%sRGB広色域 ポータブルモニター 超軽量 スピーカー内蔵",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 544350.58,
+      "t30d_units": 34.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 803399207402,
+      "merchant_name": "balibali-us",
+      "asin": "B0F6MR1BRF",
+      "item_name": "【Amazon限定ブランド】KOOLYFUL 4K モバイルモニター 16インチ 1200nit 高輝度 モバイルディスプレイ UHD 3840×2400 黄金比16:10 非光沢 IPSパネル ポータブルモニター 100%sRGB広色域 HDR VESA対応 壁掛け可能 超軽量 スピーカー内蔵 ノングレア Type-C/mini HDMI搭載 ゲーム/PC/Macなど対応",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 246906.0,
+      "t30d_units": 13.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

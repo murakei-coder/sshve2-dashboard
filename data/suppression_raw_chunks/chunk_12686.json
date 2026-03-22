@@ -1,13 +1,38 @@
 {
-  "791565297902": [
+  "791569414602": [
     {
-      "asin": "B0GFX9HCY5",
-      "item_name": "【時代を開く 業界最新傑作】HEYINCAR+ H-MAX CarPlay AI Box Android 13アダプター 8GB + 128GBの大容量メモリ｜nano SIM/Micro SD対応｜ワイヤレスCarPlay・Android Auto｜98%以上の車種適用｜技適認証取得済｜日本語説明書付き（ブラック）",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 602052.66,
-      "t30d_units": 22.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 791569414602,
+      "merchant_name": "VOAPET",
+      "asin": "B0DHSPHS8M",
+      "item_name": "無駄吠え防止首輪 吠え防止グッズ リモコン しつけ首輪 振動 電気とビープ音3種類 充電式 小型犬 中型犬 大型犬用 むだぼえ防止 犬訓練 トレーニング用 近所迷惑防止 (ブラック)自動訓練 近所迷惑防止 安眠妨害解決 愛犬むだぼえ防止グッズ",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 108564.0,
+      "t30d_units": 23.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 791569414602,
+      "merchant_name": "VOAPET",
+      "asin": "B0DP3H1ZL2",
+      "item_name": "無駄吠え防止首輪 吠え防止グッズ リモコン しつけ首輪 振動 電気とビープ音3種類 充電式 小型犬 中型犬 大型犬用 むだぼえ防止 犬訓練 トレーニング用 近所迷惑防止 自動訓練 近所迷惑防止 安眠妨害解決 愛犬むだぼえ防止グッズ (ピンク)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 94121.66,
+      "t30d_units": 20.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

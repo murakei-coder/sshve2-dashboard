@@ -1,22 +1,21 @@
 {
-  "1038732351102": [
+  "1038751443102": [
     {
-      "asin": "B0DYD1GMM2",
-      "item_name": "【 365日、素肌を慈しむ贅沢 】 rondo ロンド レッドクレイウォッシュプレミアム 洗顔フォーム 濃密弾力 90g ｜ フランス産レッドクレイ配合 エステ級洗顔 毛穴 潤い 素肌 泡立てネット付",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 3200.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DYZD243G",
-      "item_name": "【 贅沢美容液マスク エイジングケア 】 rondo バイタル素肌セラム 25ml×1枚 ｜ 乾燥 たるみ 小じわ 対策 潤い ハリ 弾力 キメ 透明感 肌荒れ 集中ケア カルノシン バイカリン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 155.0,
-      "t30d_units": 0.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1038751443102,
+      "merchant_name": "MOCHIYU公式",
+      "asin": "B0DYV6YWZX",
+      "item_name": "【次世代の温泉美容】MOCHIYU 導入美容液 温泉水 エクソソーム グルタチオン EGF ビタミンC誘導体 肌荒れ 毛穴 ハリ ツヤ 高保湿 乾燥 敏感肌 60ml モチユ",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 104388.66,
+      "t30d_units": 32.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

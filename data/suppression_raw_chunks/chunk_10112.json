@@ -1,22 +1,55 @@
 {
-  "87274489522": [
+  "87279466022": [
     {
-      "asin": "B09P2Y9CCN",
-      "item_name": "MIXBEL ミキサー 大容量 業務用ミキサー 業務用ブレンダー 2Lタイマー機能付き 2200W ジューサーミキサー 48000RPM高速回転 多機能 洗える ワンボタン洗浄、野菜​​、果物、砕氷、スムージー、ミルミキサー、フードプロセッサー 9ギア調整可能 過熱保護 家庭用 業務用 ミキサー「PSE認証、日本語マニ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 456773.0,
-      "t30d_units": 30.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 87279466022,
+      "merchant_name": "Kozyc Technology Limited",
+      "asin": "B0CGDCGN6Z",
+      "item_name": "USB C to Dual HDMI Adapter 4K@30Hz, KOZYC USB C Hub Multiport Adapter with 2xHDMI, USB 3.0, 100W PD, Support HDMI Splitter Extended Display",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 54550.4,
+      "t30d_units": 18.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DRFTXPS6",
-      "item_name": "MIXBEL 業務用ミキサー 大容量 2L ブレンダー 業務用 9段階調節 48000RPM高速回転 多機能 洗える ワンボタン洗浄 2200W ミキサー ジューサー 氷粉砕、スムージー、製粉、離乳食対応、洗浄、野菜​​、果物、スムージー、ミル、フードプロセッサー 過熱保護 家庭用 飲食店「PSE認証、日本語マニュアル」",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 489525.55,
-      "t30d_units": 29.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 87279466022,
+      "merchant_name": "Kozyc Technology Limited",
+      "asin": "B0DKFSLLZL",
+      "item_name": "KOZYC USB C ドッキングステーション デュアルモニター 8-in-1 USBCハブ HDMIポート2つ付き USB-C 3.0 2xUSB-A 3.0 SD/TF 100W PD HP/Dell対応",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 14763.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 87279466022,
+      "merchant_name": "Kozyc Technology Limited",
+      "asin": "B0CG5W614X",
+      "item_name": "KOZYC USB C to デュアルHDMIアダプター 4K@60hz, Type C to HDMI ディスペンサー拡張モニター,MacBook/MacBook Pro Air Dell XPS13/15,Samsung Galaxy S9/S9+ に対応",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 401662.47,
+      "t30d_units": 157.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

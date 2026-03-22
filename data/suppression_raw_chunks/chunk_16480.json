@@ -1,31 +1,21 @@
 {
-  "1140543493602": [
+  "1140584713702": [
     {
-      "asin": "B0FX9R4KCK",
-      "item_name": "ハンディクリーナー「2025年新型・4WAY多機能」コードレス 高速充電対応 USB充電式 軽量設計 フロア/カーペット/車内清掃",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FX9KFRJJ",
-      "item_name": "ハンディクリーナー「省エネ・軽量」コードレス 設計 USB充電式 長時間連続稼働 多機能ノズル 本棚/カーテン/細かい隙間の掃除に最適",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FX9MW12W",
-      "item_name": "ハンディクリーナー「4in1多機能ノズル・パワフル」コードレス USB充電式 軽量コンパクト 車内/キーボード/ソファ掃除",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1140584713702,
+      "merchant_name": "eue shop-WH",
+      "asin": "B0FJDPSL53",
+      "item_name": "スチームアイロン【2026革新版 超軽量 大容量タンク パワフル連続スチーム】衣類スチーマー 小型 ハンディアイロン iron シワ伸ばし 一台三役 10秒立ち上が 180℃高温 脱臭 除菌 操作簡単 携帯アイロン 家庭・出張・旅行用",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 2640151.57,
+      "t30d_units": 1094.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

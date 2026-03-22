@@ -1,13 +1,21 @@
 {
-  "1087170539002": [
+  "1087179097602": [
     {
-      "asin": "B0FRFFJJRN",
-      "item_name": "チャプトナイン ポアクリアセラム クレンジング 美容液 ピーリング 毛穴 角栓 黒ずみ いちご鼻 保湿 毛穴専用クレンジング クレンジングウォーター 30ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 12718044.98,
-      "t30d_units": 3735.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1087179097602,
+      "merchant_name": "BirdiePulse JP",
+      "asin": "B0FXWV4SR1",
+      "item_name": "スロープ機能付ゴルフレーザー距離計、測定距離 1000 ヤード ゴルフ用レンジファインダー、6 倍拡大、フラグロック振動機能、充電式レンジファインダー",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 651098.41,
+      "t30d_units": 98.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

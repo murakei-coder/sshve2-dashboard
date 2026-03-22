@@ -1,13 +1,72 @@
 {
-  "645005989702": [
+  "645046171402": [
     {
-      "asin": "B08WSNN36L",
-      "item_name": "Capilano カピラーノアクティブマヌカハニーMG300+ 250g、100％オーストラリア産",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 385508.24,
-      "t30d_units": 117.0
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 645046171402,
+      "merchant_name": "MOTHER MADE JP OFFICIAL",
+      "asin": "B07VK4FSLX",
+      "item_name": "MOTHER MADE (マザーメイド) LHA グリーンティー ピーリング アクアジェル 100ml ゴマージュ ピーリング 角質ケア 毛穴汚れケア 敏感肌 乾燥肌向け 低刺激 フェイシャルピーリング 韓国コスメ",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 11500.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 645046171402,
+      "merchant_name": "MOTHER MADE JP OFFICIAL",
+      "asin": "B0C8SNJ2H5",
+      "item_name": "MOTHER MADE (マザーメイド) アクアライト ハイドレーティング CCクリーム SPF50+ PA+++ 40mL, ベージュ UVメイク下地 コラーゲン ビタミンC ビタミンE 敏感肌対応 低刺激処方 ライトテクスチャー 韓国コスメ",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 11960.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 645046171402,
+      "merchant_name": "MOTHER MADE JP OFFICIAL",
+      "asin": "B0CJTVGB7P",
+      "item_name": "MOTHER MADE (マザーメイド) レチナール バクチオール 1% アクティベーティング ナイトアイクリーム 30mL ペプチド ヒアルロン酸 スクワラン ビタミンE＆C配合 ハリとツヤのある印象へ 敏感肌 年齢肌向け 皮膚科テスト済み 韓国コスメ スキンケア",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 645046171402,
+      "merchant_name": "MOTHER MADE JP OFFICIAL",
+      "asin": "B08Q86WR7F",
+      "item_name": "MOTHER MADE (マザーメイド) スーパープランピング ビタミンE 3%ビーガン リップケアマスク 13g リップクリーム リップマスク リップバーム オーバーナイト保湿リップパック レチノール コラーゲン 9種のペプチド オーガニックシアバター配合 皮膚科医テスト済み 韓国式スキンケア",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 4200.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

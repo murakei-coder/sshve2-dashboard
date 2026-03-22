@@ -1,13 +1,38 @@
 {
-  "983443571902": [
+  "983977962002": [
     {
-      "asin": "B0FG14GV4K",
-      "item_name": "防犯カメラ WiFi 小型カメラ 隠しカメラ 4K画質 スマホ連動 遠隔監視 録音録画 動体検知 暗視機能 赤外線撮影 150°広角 長時間録画 室内防犯カメラ 監視カメラ IOS/Android対応 操作簡単 日本語取扱説明書付",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 257907.33,
-      "t30d_units": 57.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 983977962002,
+      "merchant_name": "MUGEN FOODS",
+      "asin": "B0FJY531Z9",
+      "item_name": "【冷蔵】牛肉 イチボ ランプキャップ ブロック 1kg 希少部位 柔らかい赤身 ヘルシー ステーキ 焼肉 ローストビーフ BBQ オーストラリア産 – Chilled Rump Cap Block Beef",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 98700.0,
+      "t30d_units": 15.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 983977962002,
+      "merchant_name": "MUGEN FOODS",
+      "asin": "B0FCYL8QCX",
+      "item_name": "【冷蔵】ランプ ブロック 1kg やわらか 赤身の旨み溢れる 牛肉 ステーキ 焼肉 BBQ ローストビーフ オーストラリア産 穀物飼育牛 グレインフェッド – Rump Block Beef Chilled Grain Fed",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 177540.0,
+      "t30d_units": 33.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,13 +1,21 @@
 {
   "6344229955": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 6344229955,
+      "merchant_name": "CHRYVILLA",
       "asin": "B0DVQ5VNN8",
       "item_name": "【医師監修】 ヒハツ サプリ ヒハツ末21000mg配合 700mg/日 15種類のポカポカめぐり成分配合 GMP国内工場製造 30～90日分 ピペリン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 464866.17,
-      "t30d_units": 242.0
+      "t30d_units": 242.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

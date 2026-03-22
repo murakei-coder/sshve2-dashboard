@@ -1,166 +1,38 @@
 {
-  "1177539580202": [
+  "1177607418002": [
     {
-      "asin": "B0DT6CQYMT",
-      "item_name": "[楽ｼﾞｬｰ RAKU JOURNEY] スーツケース キャリケース 機内持ち込み かわいい レディース キャリーバッグ USBポート付き ファスナー式 ダイヤルロッグ 小型 超軽量 静音 ダブルキャスター カップホルダー付き 隠しフック 修学 旅行 帰省 出張",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 246474.03,
-      "t30d_units": 44.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1177607418002,
+      "merchant_name": "Lumascape Lighting",
+      "asin": "B0GGB8B7HL",
+      "item_name": "MEIKEE 人感センサーライト LED 5000ルーメン 50W 100V IP66防水 防犯ライト 屋外 屋内兼用 明暗センサー＆5秒/30秒調節可能 24時間・夜間モード切替 PSE認証 2年保証 玄関 駐車場 廊下 ベランダ対応 インボイス番号記載の適格請求書提供可能",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DT6J1WWN",
-      "item_name": "[楽ｼﾞｬｰ RAKU JOURNEY] スーツケース キャリケース 機内持ち込み かわいい レディース キャリーバッグ USBポート付き ファスナー式 ダイヤルロッグ 小型 超軽量 静音 ダブルキャスター カップホルダー付き 隠しフック 修学 旅行 帰省 出張",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 194702.51,
-      "t30d_units": 41.0
-    },
-    {
-      "asin": "B0DT6F9FFG",
-      "item_name": "[楽ｼﾞｬｰ RAKU JOURNEY] スーツケース キャリケース 機内持ち込み かわいい レディース キャリーバッグ USBポート付き ファスナー式 ダイヤルロッグ 小型 超軽量 静音 ダブルキャスター カップホルダー付き 隠しフック 修学 旅行 帰省 出張",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 751910.67,
-      "t30d_units": 161.0
-    },
-    {
-      "asin": "B0DT6WKRPD",
-      "item_name": "[楽ｼﾞｬｰ RAKU JOURNEY] スーツケース キャリケース 機内持ち込み かわいい レディース キャリーバッグ USBポート付き ファスナー式 ダイヤルロッグ 小型 超軽量 静音 ダブルキャスター カップホルダー付き 隠しフック 修学 旅行 帰省 出張",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 94528.4,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0GKDZ4NFP",
-      "item_name": "[楽ｼﾞｬｰ RAKU JOURNEY] スーツケース キャリケース 機内持ち込み かわいい レディース キャリーバッグ USBポート付き ファスナー式 ダイヤルロッグ 小型 超軽量 静音 ダブルキャスター カップホルダー付き 隠しフック 修学 旅行 帰省 出張",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GKF7KL9H",
-      "item_name": "[楽ｼﾞｬｰ RAKU JOURNEY] スーツケース キャリケース 機内持ち込み かわいい レディース キャリーバッグ USBポート付き ファスナー式 ダイヤルロッグ 小型 超軽量 静音 ダブルキャスター カップホルダー付き 隠しフック 修学 旅行 帰省 出張",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GKDL354P",
-      "item_name": "[楽ｼﾞｬｰ RAKU JOURNEY] スーツケース キャリケース 機内持ち込み かわいい レディース キャリーバッグ USBポート付き ファスナー式 ダイヤルロッグ 小型 超軽量 静音 ダブルキャスター カップホルダー付き 隠しフック 修学 旅行 帰省 出張",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GKF5Q72M",
-      "item_name": "[楽ｼﾞｬｰ RAKU JOURNEY] スーツケース キャリケース 機内持ち込み かわいい レディース キャリーバッグ USBポート付き ファスナー式 ダイヤルロッグ 小型 超軽量 静音 ダブルキャスター カップホルダー付き 隠しフック 修学 旅行 帰省 出張",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DT6JGJ2P",
-      "item_name": "[楽ｼﾞｬｰ RAKU JOURNEY] スーツケース キャリケース 機内持ち込み かわいい レディース キャリーバッグ USBポート付き ファスナー式 ダイヤルロッグ 小型 超軽量 静音 ダブルキャスター カップホルダー付き 隠しフック 修学 旅行 帰省 出張",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 571528.07,
-      "t30d_units": 121.0
-    },
-    {
-      "asin": "B0GKF6M7W3",
-      "item_name": "[楽ｼﾞｬｰ RAKU JOURNEY] スーツケース キャリケース 機内持ち込み かわいい レディース キャリーバッグ USBポート付き ファスナー式 ダイヤルロッグ 小型 超軽量 静音 ダブルキャスター カップホルダー付き 隠しフック 修学 旅行 帰省 出張",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DT6MRQW9",
-      "item_name": "[楽ｼﾞｬｰ RAKU JOURNEY] スーツケース キャリケース 機内持ち込み かわいい レディース キャリーバッグ USBポート付き ファスナー式 ダイヤルロッグ 小型 超軽量 静音 ダブルキャスター カップホルダー付き 隠しフック 修学 旅行 帰省 出張",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 175912.0,
-      "t30d_units": 32.0
-    },
-    {
-      "asin": "B0DT6KYGRD",
-      "item_name": "[楽ｼﾞｬｰ RAKU JOURNEY] スーツケース キャリケース 機内持ち込み かわいい レディース キャリーバッグ USBポート付き ファスナー式 ダイヤルロッグ 小型 超軽量 静音 ダブルキャスター カップホルダー付き 隠しフック 修学 旅行 帰省 出張",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 91572.6,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0GKDKFP4X",
-      "item_name": "[楽ｼﾞｬｰ RAKU JOURNEY] スーツケース キャリケース 機内持ち込み かわいい レディース キャリーバッグ USBポート付き ファスナー式 ダイヤルロッグ 小型 超軽量 静音 ダブルキャスター カップホルダー付き 隠しフック 修学 旅行 帰省 出張",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GKDZQZFB",
-      "item_name": "[楽ｼﾞｬｰ RAKU JOURNEY] スーツケース キャリケース 機内持ち込み かわいい レディース キャリーバッグ USBポート付き ファスナー式 ダイヤルロッグ 小型 超軽量 静音 ダブルキャスター カップホルダー付き 隠しフック 修学 旅行 帰省 出張",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DT6H6LB6",
-      "item_name": "[楽ｼﾞｬｰ RAKU JOURNEY] スーツケース キャリケース 機内持ち込み かわいい レディース キャリーバッグ USBポート付き ファスナー式 ダイヤルロッグ 小型 超軽量 静音 ダブルキャスター カップホルダー付き 隠しフック 修学 旅行 帰省 出張",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 273998.94,
-      "t30d_units": 59.0
-    },
-    {
-      "asin": "B0F329NZ94",
-      "item_name": "[楽ｼﾞｬｰ RAKU JOURNEY] スーツケース キャリケース 機内持ち込み かわいい レディース キャリーバッグ USBポート付き ファスナー式 ダイヤルロッグ 小型 超軽量 静音 ダブルキャスター カップホルダー付き 隠しフック 修学 旅行 帰省 出張",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 108615.1,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0F32FPQMQ",
-      "item_name": "[楽ｼﾞｬｰ RAKU JOURNEY] スーツケース キャリケース 機内持ち込み かわいい レディース キャリーバッグ USBポート付き ファスナー式 ダイヤルロッグ 小型 超軽量 静音 ダブルキャスター カップホルダー付き 隠しフック 修学 旅行 帰省 出張",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 193785.8,
-      "t30d_units": 41.0
-    },
-    {
-      "asin": "B0GKDZS743",
-      "item_name": "[楽ｼﾞｬｰ RAKU JOURNEY] スーツケース キャリケース 機内持ち込み かわいい レディース キャリーバッグ USBポート付き ファスナー式 ダイヤルロッグ 小型 超軽量 静音 ダブルキャスター カップホルダー付き 隠しフック 修学 旅行 帰省 出張",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1177607418002,
+      "merchant_name": "Lumascape Lighting",
+      "asin": "B0GG9PG3SF",
+      "item_name": "MEIKEE 人感センサーライト LED 3000ルーメン 30W 100V IP66防水 防犯ライト 屋外 屋内兼用 明暗センサー＆5秒/30秒調節可能 24時間・夜間モード切替 PSE認証 2年保証 玄関 駐車場 廊下 ベランダ対応 インボイス番号記載の適格請求書提供可能",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 7598.0,
+      "t30d_units": 29.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

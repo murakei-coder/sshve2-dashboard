@@ -1,49 +1,21 @@
 {
-  "1118810319202": [
+  "1118831941302": [
     {
-      "asin": "B0FV91QYTR",
-      "item_name": "GOOBOX 観葉植物 フェイクグリーン 人工観葉植物 卓上 ミニ アロカシア 造花 陶器鉢 インテリア 雑貨 屋内 リビング オフィス 鉢植え リアル おしゃれ 高さ35㎝ ライトグリーン",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 2451.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FV94JLLM",
-      "item_name": "GOOBOX 観葉植物 フェイクグリーン 人工観葉植物 卓上 ミニ モンステラ 造花 陶器鉢 インテリア 雑貨 屋内 リビング オフィス 鉢植え リアル おしゃれ 高さ23㎝ ディープグリーン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 5040.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FV925S8S",
-      "item_name": "GOOBOX 観葉植物 フェイクグリーン 人工観葉植物 卓上 ミニ モンステラ 造花 陶器鉢 インテリア 雑貨 屋内 リビング オフィス 鉢植え リアル おしゃれ 高さ23㎝ ライトグリーン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0FV94CSCK",
-      "item_name": "GOOBOX 観葉植物 フェイクグリーン 人工観葉植物 卓上 ミニ アロカシア 造花 陶器鉢 インテリア 雑貨 屋内 リビング オフィス 鉢植え リアル おしゃれ 高さ35㎝ ディープグリーン",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 18532.66,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0FV927J28",
-      "item_name": "GOOBOX 観葉植物 フェイクグリーン 人工観葉植物 卓上 ミニ モンステラ 造花 陶器鉢 インテリア 雑貨 屋内 リビング オフィス 鉢植え リアル おしゃれ 高さ23㎝ 2個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 16684.0,
-      "t30d_units": 6.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1118831941302,
+      "merchant_name": "ZELANE-JP 専門店",
+      "asin": "B0FT27M4R4",
+      "item_name": "加湿器 大容量 5L【2025年新モデル・3重除菌】ハイブリッド式「超音波式 & 加熱式」上から給水 最大65時間連続稼働 静音 アロマ対応 卓上 かしつき スチーム式 小型 リモコン付き 12時間切タイマー 睡眠モード 三段階噴霧量 空焚き防止 お手入れ簡単 省エネ 32畳 LEDライト オフィス/寝室/子供部屋/花",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 2904406.03,
+      "t30d_units": 750.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

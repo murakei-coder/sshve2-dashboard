@@ -1,31 +1,21 @@
 {
-  "1130199758802": [
+  "1130221903402": [
     {
-      "asin": "B0GK7MN552",
-      "item_name": "骨伝導イヤホン bluetooth、Kemeskin 水泳 防水イヤホン IP68完全防水 32GBメモリ内蔵 最大8000曲 こつでんどうイヤホン bluetooth 5.4、8時間連続再生/通話 急速充電 マルチポイント接続 自動ペアリング 耳を塞がない オープンイヤーヘッドホン 超軽量 マイク内蔵 水中/ランニング/スポーツ/サイクリング/通勤",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 309841.33,
-      "t30d_units": 51.0
-    },
-    {
-      "asin": "B0FN7GM7YN",
-      "item_name": "骨伝導イヤホン bluetooth 5.4 水泳 IP68完全防水 こつでんどう イヤホン bluetooth 32GBメモリ内蔵 最大8000曲 急速充電 耳を塞がない オープンイヤーヘッドホン 超軽量 マイク内蔵 スポーツ/サイクリング ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 1919371.87,
-      "t30d_units": 370.0
-    },
-    {
-      "asin": "B0GK73CLX9",
-      "item_name": "骨伝導イヤホン マイク付き、Kemeskin ヘッドセットBluetooth 6.0、ENC DSP高精度ノイズキャンセリングマイク付きこつでんどう イヤホン、最大15時間超クリアな通話 IP55防水 急速充電 技適認証済み 耳を塞がない 耳掛け式 オープンイヤーヘッドホン、 オンライン会議/倉庫作業/トラック運転 ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 328867.35,
-      "t30d_units": 74.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1130221903402,
+      "merchant_name": "MHSMYStore",
+      "asin": "B0FMN82PF5",
+      "item_name": "電気カーペット 1畳 180×80cm ダニ退治機能 電気毛布 敷き シングル 6段階温度調節&タイマー機能付き 丸洗い可 ホットカーペット兼用可 頭寒足熱配線 PSE認証済み",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1547229.38,
+      "t30d_units": 485.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

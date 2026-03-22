@@ -1,40 +1,55 @@
 {
-  "84589955422": [
+  "84591866022": [
     {
-      "asin": "B0DLN817J8",
-      "item_name": "アーモンド小魚 500ｇ 瀬戸内産いりこ使用 [ アーモンドフィッシュ カルシウム DHA EPA 美容 健康 おやつ おつまみ 大容量 ]",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 2367008.02,
-      "t30d_units": 1532.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 84591866022,
+      "merchant_name": "AMOS US",
+      "asin": "B0BSKSVZ4J",
+      "item_name": "AMOS 音楽棒付きキャンディ｜歌うロリポップで楽しめる｜天然風味、低糖、グルテンフリーぺろぺろキャンディー｜ストロベリー風味棒付き飴｜個包装ロリポップ、バレンタイン・クリスマスギフト、カップルに最適 (1× イチゴ味)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 280877.56,
+      "t30d_units": 225.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CL5WJNWD",
-      "item_name": "KOSEI 光生 素焼き カシューナッツ 無添加 無油 直火焙煎 素焼きナッツ 大容量 おつまみ 健康 おやつ 無塩 1kg",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 1901881.39,
-      "t30d_units": 753.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 84591866022,
+      "merchant_name": "AMOS US",
+      "asin": "B0FVXGY91G",
+      "item_name": "AMOS フィンガーグミ 55g×8袋｜リアルな指型グミ 3種カラー（レッド＋グリーン／レッド＋イエロー／レッド＋ブルー）｜アップル味｜密封袋入り・イージーオープンボックス｜ハロウィン お菓子",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DJVKSPNB",
-      "item_name": "素焼き アーモンド 1kg 無塩 無添加",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 2698878.81,
-      "t30d_units": 1140.0
-    },
-    {
-      "asin": "B0D2JYRKKH",
-      "item_name": "×KOSEI 難消化性デキストリン2kg 水溶性食物繊維 イージーファイバー パウダー 食物繊維",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Consumables",
-      "t30d_ops": 1202551.43,
-      "t30d_units": 413.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 84591866022,
+      "merchant_name": "AMOS US",
+      "asin": "B0FT2QJ9SC",
+      "item_name": "Amos 音楽ロリポップ キャンディ｜骨伝導で音楽が聴ける｜シュガーフリー・グルテンフリー｜ストロベリー・ブラックベリー・スイカ味｜個包装3本セット｜ギフト・パーティー向け (3×ミックスフレーバー)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 52983.0,
+      "t30d_units": 17.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

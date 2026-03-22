@@ -1,103 +1,72 @@
 {
-  "89598963122": [
+  "89620690022": [
     {
-      "asin": "B0DPMBHJ1T",
-      "item_name": "GOLDENMATE 12.8V 12Ah LiFePO4バッテリー リン酸鉄リチウムイオンバッテリー IP67防水 153.6Wh BMS内蔵 5000以上のサイクル 小型&軽量 高性能 電動車椅子 車中泊 サブ電源 非常用電源 ソーラー発電システム CRIUS12",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 288236.66,
-      "t30d_units": 43.0
-    },
-    {
-      "asin": "B0D7HKNCCY",
-      "item_name": "GOLDENMATE 無停電電源装置 UPS 1000VA Pro/600W リン酸鉄リチウムイオン電池採用 153Wh 常時商用給電 正弦波 ネットワーク機器 通信システム ホームオフィス 家庭用の高効率バックアップ電源 8ポート ダークグレー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 400412.0,
-      "t30d_units": 16.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 89620690022,
+      "merchant_name": "*YUNTUO*",
+      "asin": "B0F65GRWBC",
+      "item_name": "4インチ MP3プレーヤー 144GB Android 13 mp3プレーヤー Bluetooth WiFi搭載 2000mAhバッテリー APPダウンロード可能 動画再生 録音 FMラジオ 車載Bluetooth対応 ブラック",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 90290.66,
+      "t30d_units": 10.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DPMCHVNY",
-      "item_name": "GOLDENMATE 12.8V 100Ah LiFePO4バッテリー リン酸鉄リチウムイオンバッテリー IP67防水 1280Wh BMS内蔵 スマホと接続可能 5000以上のサイクル 小型&軽量 高性能 電動車椅子 車中泊 非常用電源 ソーラー発電システム CRIUS100B",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 92178.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DPMC49VW",
-      "item_name": "GOLDENMATE 12.8V 50Ah LiFePO4バッテリー リン酸鉄リチウムイオンバッテリー IP67防水 640Wh BMS内蔵 5000以上のサイクル 小型&軽量 高性能 電動車椅子 車中泊 サブ電源 非常用電源 ソーラー発電システム CRIUS50",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 282163.33,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0DPMCBQL6",
-      "item_name": "GOLDENMATE 12.8V 7Ah LiFePO4バッテリー リン酸鉄リチウムイオンバッテリー IP67防水 89.6Wh BMS内蔵 5000以上のサイクル 小型&軽量 高性能 電動車椅子 車中泊 サブ電源 非常用電源 ソーラー発電システム CRIUS7",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 85439.0,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0DPMB4P5D",
-      "item_name": "GOLDENMATE 12.8V 30Ah LiFePO4バッテリー リン酸鉄リチウムイオンバッテリー IP67防水 384Wh BMS内蔵 5000以上のサイクル 小型&軽量 高性能 電動車椅子 車中泊 サブ電源 非常用電源 ソーラー発電システム CRIUS30",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 102857.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0DPMC3SWS",
-      "item_name": "GOLDENMATE 12.8V 10Ah LiFePO4バッテリー リン酸鉄リチウムイオンバッテリー IP67防水 128Wh BMS内蔵 5000以上のサイクル 小型&軽量 高性能 電動車椅子 車中泊 非常用電源 ソーラー発電システム CRIUS10",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 229050.5,
-      "t30d_units": 44.0
-    },
-    {
-      "asin": "B0DPMDD21Z",
-      "item_name": "GOLDENMATE 12.8V 20Ah LiFePO4バッテリー リン酸鉄リチウムイオンバッテリー IP67防水 256Wh BMS内蔵 5000以上のサイクル 小型&軽量 高性能 電動車椅子 車中泊 サブ電源 非常用電源 ソーラー発電システム CRIUS20",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 349309.33,
-      "t30d_units": 38.0
-    },
-    {
-      "asin": "B0D78W6ZYV",
-      "item_name": "GOLDENMATE 無停電電源装置 UPS 1000VA Pro/800W リン酸鉄リチウムイオン電池採用 230Wh 常時商用給電 正弦波 ネットワーク機器 通信システム ホームオフィス 家庭用の高効率バックアップ電源 8ポート ダークグレー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 1626917.01,
-      "t30d_units": 56.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 89620690022,
+      "merchant_name": "*YUNTUO*",
+      "asin": "B0DRK32VKX",
+      "item_name": "Fanvace 96GB Android 13 MP3プレーヤー Bluetooth 5.0 WiFi搭載 音楽プレーヤー 8コア 2500mAhバッテリー内蔵 5インチタッチスクリーン 1080P HD動画再生 スピーカー内蔵 ブラック",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 7990.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0D7HK31TS",
-      "item_name": "GOLDENMATE 無停電電源装置 UPS 1000VA Pro/800W リン酸鉄リチウムイオン電池搭載 230Wh 常時商用給電 正弦波 ネットワーク機器 通信システム ホームオフィス 家庭用の高効率バックアップ電源 8ポート ホワイト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 812559.32,
-      "t30d_units": 28.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 89620690022,
+      "merchant_name": "*YUNTUO*",
+      "asin": "B0D9414P37",
+      "item_name": "80GB Android 9.0 MP3プレーヤー 5インチ 音楽プレーヤー WIFI Bluetooth対応 多機能MP4プレーヤー 1080P HD 2500mAhバッテリー アプリインストール可能 音楽検索可能 録音・FMラジオ対応 ブラック",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0D78YH13N",
-      "item_name": "GOLDENMATE 無停電電源装置 UPS 1000VA Pro/600W リン酸鉄リチウムイオン電池採用 153Wh 常時商用給電 正弦波 サーバー ネットワーク機器 通信システム ホームオフィス 家庭用の高効率バックアップ電源 8ポート ホワイト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 335833.8,
-      "t30d_units": 13.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 89620690022,
+      "merchant_name": "*YUNTUO*",
+      "asin": "B0F65G7H9H",
+      "item_name": "4インチ MP3プレーヤー 144GB Android 13 mp3プレーヤー Bluetooth WiFi搭載 2000mAhバッテリー APPダウンロード可能 動画再生 録音 FMラジオ 車載Bluetooth対応 ピンク",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 45459.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

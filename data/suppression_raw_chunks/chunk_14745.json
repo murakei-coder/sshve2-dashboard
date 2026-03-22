@@ -1,67 +1,21 @@
 {
-  "1034120359702": [
+  "1034703418802": [
     {
-      "asin": "B0FGXVQ6QW",
-      "item_name": "馬王 熊本 馬刺し 5種 食べ比べセット 5人前 250g 赤身 霜降り ユッケ 国産 馬肉 小分け",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 105547.0,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0FGXXLMZ7",
-      "item_name": "馬王 熊本 馬刺し 6種 食べ比べセット 6人前 300g 赤身 霜降り 大トロ 国産 馬肉 小分け 馬刺たれ付",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 236051.0,
-      "t30d_units": 29.0
-    },
-    {
-      "asin": "B0F3X4RCLX",
-      "item_name": "馬王 熊本 馬刺し 特選 赤身 セット 6人前 300g 国産 馬肉 おつまみ 小分け 真空パック 大容量 馬刺たれ付",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 436767.0,
-      "t30d_units": 74.0
-    },
-    {
-      "asin": "B0FNCM8ZP5",
-      "item_name": "馬王 熊本 馬刺し お試しセット 3人前 150g 赤身 霜降り ロース 国産 馬肉 小分け 馬刺たれ付",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 24900.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0FGXW6NWP",
-      "item_name": "馬王 熊本 馬刺し 6種 食べ比べセット 6人前 300g 赤身 霜降り 大トロ 国産 馬肉 小分け",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 237667.0,
-      "t30d_units": 30.0
-    },
-    {
-      "asin": "B0F3WZNKNG",
-      "item_name": "馬王 熊本 馬刺し 4種 食べ比べセット 5人前 250g 赤身 霜降り ロース ふたえご 醤油付 国産 馬肉 小分け",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 17700.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FGXXHXFW",
-      "item_name": "馬王 熊本 馬刺し 5種 食べ比べセット 5人前 250g 赤身 霜降り ユッケ 国産 馬肉 小分け 馬刺たれ付",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 99698.0,
-      "t30d_units": 16.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1034703418802,
+      "merchant_name": "Hope light",
+      "asin": "B0F1F9ZZMW",
+      "item_name": "ポータブル多機能ライト、長寿命LEDキャンプライト、便利なUSB充電機能付き。防水アウトドアライト（IP54防水防塵規格）、おしゃれなマット加工仕上げ。アウトドア・キャンプ・テント・庭園用はもちろん、車の整備作業や緊急時用照明としても最適です（カーキ色）",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 10567.0,
+      "t30d_units": 6.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

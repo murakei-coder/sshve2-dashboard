@@ -1,193 +1,38 @@
 {
-  "56676733322": [
+  "56677988722": [
     {
-      "asin": "B09HKDC92W",
-      "item_name": "美味茶寮 ほうじ茶 ティーバッグ 2.5g×100個入 静岡県産 深炒り焙煎 焙じ茶 ティーパック",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 278152.16,
-      "t30d_units": 227.0
-    },
-    {
-      "asin": "B0BDYSHSB2",
-      "item_name": "NAKANE TEA INC. オーガニック ほうじ茶 ティーバッグ（2.5g×50包）有機 国産原料 焙じ茶 ティーパック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CF4XGLW3",
-      "item_name": "NAKANE TEA INC. オーガニック 和紅茶 ティーバッグ（2.5g×40包）有機 国産原料 紅茶 ティーパック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 56677988722,
+      "merchant_name": "C’ｓUP Ltd",
+      "asin": "B0B66KNZRB",
+      "item_name": "尿中尿酸センサー AcidEye1 アシッドアイワン 台湾のベンチャーが開発 台湾製 【日本正規代理店】",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B09X9D96KQ",
-      "item_name": "美味茶寮 国産 よもぎ茶 ティーバッグ 3g×40個入 健康茶",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 8019.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B09HKDN11J",
-      "item_name": "美味茶寮 抹茶入 緑茶 ティーバッグ 2.5g×100個入 静岡県産 深蒸し茶 ティーパック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 209036.37,
-      "t30d_units": 169.0
-    },
-    {
-      "asin": "B0BDZFH664",
-      "item_name": "NAKANE TEA INC. オーガニック 抹茶 パウダー （115g） 国産 有機抹茶",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BZXWRJSQ",
-      "item_name": "美味茶寮 国産 びわ茶 ティーバッグ 3g×30個入 ノンカフェイン 健康茶 びわの葉茶",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 4007.33,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0BXSB7698",
-      "item_name": "美味茶寮 国産 菊芋茶 ティーバッグ 3g×30個入 ノンカフェイン キクイモ茶 健康茶",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CBT1Z9KH",
-      "item_name": "NAKANE TEA INC. オーガニック 緑茶ティーバッグ 抹茶ブレンド（2.5g×50包）静岡県産 有機栽培",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09HMPXRS6",
-      "item_name": "美味茶寮 抹茶入 玄米茶 ティーバッグ 2.5g×100個入 静岡県産",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 229568.24,
-      "t30d_units": 185.0
-    },
-    {
-      "asin": "B0FW2N9RMN",
-      "item_name": "NAKANE TEA INC. オーガニック ほうじ茶 ティーバッグ 100個入(2.0g×100包) 静岡県産 有機焙じ茶 ティーパック お茶 有機栽培 JAS認証",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 8580.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0BXRJB2N8",
-      "item_name": "美味茶寮 国産 あずき茶 ティーバッグ 4g×40個入 北海道産 ノンカフェイン 健康茶 小豆茶",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 1700.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B09FSSHCTT",
-      "item_name": "美味茶寮 抹茶入り 緑茶 ティーバッグ 2.5g×100個入 静岡県産",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 135398.39,
-      "t30d_units": 109.0
-    },
-    {
-      "asin": "B0C1HZ6MX1",
-      "item_name": "美味茶寮 国産 柿の葉茶 ティーバッグ 3g×30個入 ノンカフェイン 健康茶",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CB5MTCF7",
-      "item_name": "美味茶寮 はちみつ紅茶 ティーバッグ 2g×25包入 国産蜂蜜使用 蜂蜜紅茶 ティーパック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 1700.75,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BDZ3KWD7",
-      "item_name": "NAKANE TEA INC. オーガニック カモミールほうじ茶 ティーバッグ（2.5g×40包）有機 ハーブ ブレンドティー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BCW1M6RN",
-      "item_name": "NAKANE TEA INC. オーガニック 抹茶入り 緑茶 ティーバッグ 100個入(2.0g×100包) 静岡県産 有機煎茶 ティーパック お茶 有機栽培 JAS認証",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 221245.71,
-      "t30d_units": 101.0
-    },
-    {
-      "asin": "B09X51C43L",
-      "item_name": "美味茶寮 国産 どくだみ茶 ティーバッグ 3g×40個入 健康茶",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 1620.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BXS5BL2J",
-      "item_name": "美味茶寮 国産 桑の葉茶 ティーバッグ 3g×30個入 ノンカフェイン 桑茶 健康茶",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FXM57VBH",
-      "item_name": "NAKANE TEA INC. オーガニック 抹茶入り玄米茶 ティーバッグ 100個入 (2.5g×100包) 有機緑茶 お茶 ティーパック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 65560.33,
-      "t30d_units": 30.0
-    },
-    {
-      "asin": "B0BDZ4VT78",
-      "item_name": "NAKANE TEA INC. オーガニック 柚子緑茶 ティーバッグ（2.5g×40包）有機 ブレンドティー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 56677988722,
+      "merchant_name": "C’ｓUP Ltd",
+      "asin": "B09D38YCYH",
+      "item_name": "家庭用 残留農薬センサー PestiEye1｜野菜・果物・玄米を簡単検査 光学式センサー 食品安全・簡単検査・高精度で家族を守る ネオニコチノイド系農薬も測れます。試薬不要でランニングコストゼロ メーカー保証１年付【日本正規代理店】",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 24980.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

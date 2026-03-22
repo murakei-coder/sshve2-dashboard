@@ -1,13 +1,72 @@
 {
-  "1171265454102": [
+  "1171279777702": [
     {
-      "asin": "B0GH6B278K",
-      "item_name": "ONETIGRIS AERODREAM エアーマット インフレータブルマット 軽量 登山 快適 静音 持ち運び便利 コンパクト収納 183 x 58 x 3.5cm 3シーズン用 キャンプ バイクキャンプ 来客用",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 51942.0,
-      "t30d_units": 15.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1171279777702,
+      "merchant_name": "Clyrox Select",
+      "asin": "B0GD1FLMMB",
+      "item_name": "枕 首が痛くならない 低反発枕 軽量 ABS素材 取付簡単 (シルバー)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1171279777702,
+      "merchant_name": "Clyrox Select",
+      "asin": "B0FYCLYFGP",
+      "item_name": "枕 首が痛くならない 低反発枕 高低差設計 肩圧分散 まくら 高め 低め 横向き寝 仰向け寝 快眠 通気性 カバー洗濯可 母の日 父の日 プレゼントに最適 50x30x6/10cm",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 256695.0,
+      "t30d_units": 66.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1171279777702,
+      "merchant_name": "Clyrox Select",
+      "asin": "B0GDX79ZSK",
+      "item_name": "シャワーヘッド 9段階モード 節水 塩素除去 フィルター付き 手元止水 高水圧 マイクロノズル 多機能シャワー 軽量 ABS素材 取付簡単 (シルバー) 003",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1171279777702,
+      "merchant_name": "Clyrox Select",
+      "asin": "B0GD59PSZJ",
+      "item_name": "[Clyrox] サングラス メンズ 偏光レンズ ウェリントン UV400 取付簡単 (シルバー) 001",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 8994.0,
+      "t30d_units": 6.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

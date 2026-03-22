@@ -1,13 +1,38 @@
 {
-  "487805197502": [
+  "488070804502": [
     {
-      "asin": "B098XM4C8M",
-      "item_name": "【女性のためのサプリメント】 LADYELL 美をサポートする3大成分贅沢配合 日本製 30日分 イソフラボン エラスチン ワイルドヤム アグアへエキス 国内GMP認定工場",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 132143.25,
-      "t30d_units": 56.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 488070804502,
+      "merchant_name": "Store-N",
+      "asin": "B0F5WCZ5X4",
+      "item_name": "Sleepia 寝落ちまくら 医療機器メーカー&トップアスリート共同開発 睡眠の質にこだわった枕 オリジナルカバー付き 睡眠の質を高める",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 2131084.63,
+      "t30d_units": 149.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 488070804502,
+      "merchant_name": "Store-N",
+      "asin": "B0F4PF9C3M",
+      "item_name": "NEOLAB正規品 ニードルマット＆まくら 医療機器メーカー開発『トップアスリートも愛用』ととのう新習慣 鍼マット 針まくら 健康 自律神経を整える シャクティマット ヨガマット",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 4138624.77,
+      "t30d_units": 393.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

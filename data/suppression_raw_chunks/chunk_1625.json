@@ -1,13 +1,21 @@
 {
   "5210107222": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 5210107222,
+      "merchant_name": "OATSBASF 直営店",
       "asin": "B0C3LSD5SH",
       "item_name": "OATSBASF タブレット アームスタンド ipad スタンド アーム タブレット スタ-ンド 高さ調整 (42cm~168cm) 床置き スマホスタンド 360度回転 アルミニウム 厚肉ベース太径金属杆 転倒防止クレードルマウントドック 4.7~12.9インチ画面 iPhone Samsung iPad Kindle 電子書籍リーダー用 (ホワイト)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 173334.15,
-      "t30d_units": 41.0
+      "t30d_units": 41.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

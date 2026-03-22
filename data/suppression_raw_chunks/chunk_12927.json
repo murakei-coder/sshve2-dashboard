@@ -1,22 +1,38 @@
 {
-  "813875274302": [
+  "813886920602": [
     {
-      "asin": "B0FC61VPQP",
-      "item_name": "空気清浄機 小型【花粉対策＆省エネ設計】24～40畳対応 xCREAS 革新版H13 HEPAフィルター 360°強力循環浄化 Matter対応＆ECOモード搭載 AI風速自動調整 23dB 静音 ペット 消臭 集じん PM2.5 ウイルス アレルギー対策 アロマ対応 卓上 寝室 玄関 PSE＆METI認証 日本語説明書",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 199629.33,
-      "t30d_units": 32.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 813886920602,
+      "merchant_name": "Beinfinity",
+      "asin": "B0FQN72PRF",
+      "item_name": "BeBAYU 馬油 乳頭保護クリーム 20ml｜授乳期・マタニティの乾燥・ひび割れ・痛み対策に｜無添加・敏感肌ベビーにも使える国産馬油 ニップルクリーム 授乳ケア 乳首ケア 産後ケア",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 4980.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FSKMC98W",
-      "item_name": "【花粉対策特化モデル】空気清浄機 24畳【東レToraymicron™原装フィルター搭載】H13 HEPA フィルター ウイルス 脱臭 ペット 特定タンパク質低減 省エネ ECOモード&AI風速調整 Matter対応 静音 20dB アロマ対応 卓上 寝室 玄関用 PSE/METI認証 日本語説明書付 簡単お手入れ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 67440.0,
-      "t30d_units": 7.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 813886920602,
+      "merchant_name": "Beinfinity",
+      "asin": "B0DB1JM4LS",
+      "item_name": "ハクビノ 薬用リンクルクリーム【医薬部外品】シワ改善 シミ対策 ナイアシンアミド配合 メラニンの生成を抑える ハリ不足ケア 美白※ 年齢に応じたスキンケア 敏感肌対応 日本製 30g HakuBino",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 122274.0,
+      "t30d_units": 18.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

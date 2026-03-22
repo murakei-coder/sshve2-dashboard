@@ -1,13 +1,38 @@
 {
-  "750683337902": [
+  "750687084502": [
     {
-      "asin": "B0D5QVZTF1",
-      "item_name": "For Docomo dtab d-51C 10.1インチ ケース タブレット 三つ折りスタンド 高級PU レザー 耐衝撃 傷つけ防止 For Docomo dtab d-51C 10.1インチ 2022年発売 対応 タブレット ケース (レッド)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 750687084502,
+      "merchant_name": "FCY-JP",
+      "asin": "B09RB1PYVG",
+      "item_name": "ポータブル電源 大容量 500W GRECELL 140400mAh/519wh ポータブルバッテリー 純正弦波 MPPT制御方式採用 家庭用蓄電池 PSE認証済 ワイヤレス充電搭載 10台デバイス同時充電 PD60W急速充電USB-C/USB-A 合計四ポート出力 AC(瞬間最大1000W)/DC出力 車中泊 キャンプ アウトドア 地震停電対策 防災グッズ LED/SOSライト付き",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 777691.66,
+      "t30d_units": 26.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 15566.0,
-      "t30d_units": 12.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 750687084502,
+      "merchant_name": "FCY-JP",
+      "asin": "B0B42CD8Y8",
+      "item_name": "ソーラーパネル100W GRECELL 折りたたみソーラーチャージャー(20V 5A) 23.5%高転換率 単結晶 小型軽量 ポータブル電源充電器 急速充電 車用携帯型太陽光パネル 省エネたいようこうパネル 太陽光発電 大容量ポータブル電源チャージ用 車中泊 アウトドア 地震 災害 緊急停電対策 防災グッズ",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 255307.66,
+      "t30d_units": 17.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,22 +1,21 @@
 {
-  "87892727922": [
+  "87896101422": [
     {
-      "asin": "B0936LTZS2",
-      "item_name": "Medi Grade クールアイマスク - 目元用リバーシブルジェルマスク＆クーリングアイパッドセット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 429084.0,
-      "t30d_units": 332.0
-    },
-    {
-      "asin": "B086JDVKBJ",
-      "item_name": "Medi Grade冷感フェイスマスクセット - パフィーアイ用アイスマスク＆保冷バッグ付き - 顔パックとしてむくみやクマに最適なフルフェイスマスク",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 155087.73,
-      "t30d_units": 77.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 87896101422,
+      "merchant_name": "Sukai Elec",
+      "asin": "B0G4JKW7CB",
+      "item_name": "【裏起毛&防水防寒】バイク用ハンドルカバー 極厚 防風対策 ハンドルウォーマー PUレザー素材 反射テープ付き 色褪せない ミラー開口部調節可 防撥水 簡単取り付け フリーサイズ オートバイ/スクーター/原付/pcxなど対応",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 1999.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

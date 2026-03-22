@@ -1,22 +1,55 @@
 {
-  "1186158104702": [
+  "1186289168802": [
     {
-      "asin": "B0GPJX2ZX6",
-      "item_name": "美顔器 リフトかっさ 電動カッサプレート EMS 振動 温感 7色LED光 多機能 全身適用 1台両用 フェイスケア ボディケア Type-C充電式 超軽量 男女兼用 家庭/自宅/出張/旅行 母の日 誕生日 プレゼント 日本語取扱説明書 ホワイト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 51834.0,
-      "t30d_units": 15.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1186289168802,
+      "merchant_name": "XUNJIE直营店",
+      "asin": "B0GLPG31K3",
+      "item_name": "掃除機 コードレス SV20",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GPHMM7TX",
-      "item_name": "美顔器 リフトかっさ 電動カッサプレート EMS 振動 温感 7色LED光 多機能 全身適用 1台両用 フェイスケア ボディケア Type-C充電式 超軽量 男女兼用 家庭/自宅/出張/旅行 母の日 誕生日 プレゼント 日本語取扱説明書 シャンパン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 212037.33,
-      "t30d_units": 60.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1186289168802,
+      "merchant_name": "XUNJIE直营店",
+      "asin": "B0GGYZHVQB",
+      "item_name": "掃除機 コード式 【布団ノズル付&50kpa強力吸引&超軽量】コード式掃除機 Ozuria 2WAY仕様 ハンディ スティッククリーナー 遠心分離サイクロン式 多種類ノズル 多層濾過 紙パック不要 大容量ダストカップ 5M電源コード ハードフロア/カーペット/カーテンに適用 家庭用 一人暮らし プレゼント PSE認証済",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 814635.77,
+      "t30d_units": 164.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1186289168802,
+      "merchant_name": "XUNJIE直营店",
+      "asin": "B0GFLVJN45",
+      "item_name": "自転車 空気入れ 電動空気入れ 超小型 バイク タイヤ 車 仏/英/米式バルブ対応 高速充填 自動停止 低騒音 大容量バッテリー 電動ポンプ 5モード切替 空気圧指定 コードレス エアコンプレッサー コンパクト 自転車/バイク/車/ボール対応 USB-C 急速充電 LED懐中ライト＆収納袋付 18ヶ月保証付き 日本語",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 852178.16,
+      "t30d_units": 157.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

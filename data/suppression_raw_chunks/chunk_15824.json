@@ -1,22 +1,21 @@
 {
-  "1110725174102": [
+  "1110740218902": [
     {
-      "asin": "B0FQBT28N8",
-      "item_name": "YOIIYO ホットアイマスク 充電式 3段階温度調整 一年中活躍 20min自動OFF シルク コードレス",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FXWHJWVC",
-      "item_name": "YOIIYO 布団乾燥機 小型 高風圧モデル 【2025新登場・強力風量・速暖】 パワフル 超コンパクト設計 スッキリ収納 1秒引き出しホース ダニ退治 一台多役 布団あたため 衣類乾燥 靴乾燥 操作簡単 持ち運び易い 湿気対策 梅雨対策 ニオイ対策",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 902632.08,
-      "t30d_units": 90.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1110740218902,
+      "merchant_name": "LiLun Tech",
+      "asin": "B0GFCPDT7B",
+      "item_name": "ヘッドセット bluetooth イヤホンマイク 【2026雑音のない通話を】 片耳イヤホン bluetooth V6.0搭載 98時間連続再生 安定接続 CVC8.0＋ENC二重降噪 クリア通話 高感度マイク 片耳ワイヤレスヘッドセット 左右耳対応 調整式イヤーフック LEDバッテリー表示 誤操作防止ボタン ミュート機能 Siri対応 出張/運転/",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 5455006.72,
+      "t30d_units": 2423.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,13 +1,21 @@
 {
-  "1181289313502": [
+  "1181313485102": [
     {
-      "asin": "B0GN1V1RKR",
-      "item_name": "【さばの取扱量 九州No.1】 国産 天然 無塩 さば フィーレ 1kg 無添加 大容量 脂のりあっさり 個別凍結 チャック袋 鯖 サバ 魚 冷凍サバ 冷凍鯖 おかず ご家庭用 焼き魚",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1181313485102,
+      "merchant_name": "Fochai JP公式店--HKXW",
+      "asin": "B0GDXX5GD4",
+      "item_name": "掃除機 コードレス 28000Pa 強力吸引 【猫砂・抜け毛も逃さない】 35分間稼働 0.5kg超軽量 スティッククリーナー ハンディ 2way Type-C充電式 LEDライト付 お手入れ簡単・水洗い可能 専用スタンド付 側面排気 静音低騒音 多重濾過 車/家庭/フローリング/畳/カーペット適用 一人暮らし 敬老の日 プレゼント",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 842754.33,
+      "t30d_units": 123.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

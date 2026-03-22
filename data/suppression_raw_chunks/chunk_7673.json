@@ -1,940 +1,208 @@
 {
-  "52082673622": [
+  "52093650222": [
     {
-      "asin": "B0FQ4M4KC1",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ カーディガン (JP, アルファベット, L, ホワイト)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DJQ6XL6W",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ 大判ストール マフラー (200×60cm) (ブラウンチェック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FXJV8VTD",
-      "item_name": "名入れ タンブラー ステンレス 真空断熱 350ml 誕生日 プレゼント メンズ 男性 保冷 保温 ビール ハイボール おしゃれ ギフト 父の日 SaintGraal セイントグレイル 【名入れ対応/ラッピング対応/メッセージカード対応】 [THE WOW（ザワウ）] (ホワイト)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 4180.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FPJM8RH3",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ 大判ストール マフラー (200×60cm) (グレーチェック)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DPFGPC1R",
-      "item_name": "象印 ステンレスマグボトル 480ml シームレス栓 [THE WOW]【ラッピング対応/メッセージカード対応】 (エアリーブルー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D1DM6Y5J",
-      "item_name": "THE WOW 真空断熱ケータイマグ 750ml【名入れ対応/ラッピング対応/メッセージカード対応】 (ベージュ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DJQ798GH",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ 大判ストール マフラー (200×60cm) (アイボリーチェック)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FXJKDQJZ",
-      "item_name": "名入れ タンブラー ステンレス 真空断熱 350ml 誕生日 プレゼント メンズ 男性 保冷 保温 ビール ハイボール おしゃれ ギフト 父の日 SaintGraal セイントグレイル 【名入れ対応/ラッピング対応/メッセージカード対応】 [THE WOW（ザワウ）] (モスグリーン)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CQKVXMRF",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ100% キッズ 手袋 【ラッピング対応/メッセージカード対応】 (ネイビー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DPFH3YPK",
-      "item_name": "象印 ステンレスマグボトル 480ml シームレス栓 [THE WOW]【ラッピング対応/メッセージカード対応】 (ソフトブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G1QY52T6",
-      "item_name": "クリスマスリース 30cm 大きめ 玄関 インテリア 装飾 ディスプレイ ドア 壁掛け ギフト プレゼント 【ラッピング対応】［COLORFUL Flowers］ (リーガルレッド)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 52093650222,
+      "merchant_name": "HASONA (JP)",
+      "asin": "B09HMP2GSL",
+      "item_name": "HASONA ウォールシェルフ 壁掛け棚 (防水 防カビ 壁 棚 ラック 幅58cm×奥行18cm) 防虫 滑らか 2個セット おしゃれ 木製 玄関/キッチン/洗面所/寝室 取り付け簡単 吊り穴 日本語取扱説明書付き 大理石柄",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 62883.0,
+      "t30d_units": 17.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0BB7G8D9K",
-      "item_name": "THE WOW ボールペン カランダッシュ 849【名入れ対応/ラッピング対応/メッセージカード対応】クラシックライン (ホワイト/専用箱・包装紙)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BC125WBX",
-      "item_name": "THE WOW USBメモリ USB3.0 【名入れ対応/ラッピング対応/メッセージカード対応】 32GB cover ギフト 誕生日 就職祝い 昇進祝い ビジネス オーバリッド 革製 【ギフト3点セット付】3.オレンジ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 10920.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0CQWNGYD2",
-      "item_name": "THE WOW プリザーブドフラワー フレーム入り【ラッピング対応/メッセージカード対応】 (ピンク) 薔薇 バラ ばら お花 プリザーブドフラワー 枯れない 花 開店祝い 結婚祝い 退職祝い 母の日 誕生日 還暦祝い 新築祝い 結婚式 記念日 上司 両親 妻 母 祖母 プレゼント ギフト",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 52093650222,
+      "merchant_name": "HASONA (JP)",
+      "asin": "B0DSBZQNSX",
+      "item_name": "HASONA ウォールシェルフ 壁掛け棚 2個セット 壁 棚 ラック 防水 防カビ 幅42cm×奥行15cm おしゃれ 木製 キッチン/トイレ/ランドリールーム/寝室 取り付け簡単 吊り穴 取扱説明書付き ホワイト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 35837.75,
+      "t30d_units": 12.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G1QN7J42",
-      "item_name": "クリスマスリース 30cm 大きめ 玄関 インテリア 装飾 ディスプレイ ドア 壁掛け ギフト プレゼント 【ラッピング対応】［COLORFUL Flowers］ (ワインレッドリーフ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 52093650222,
+      "merchant_name": "HASONA (JP)",
+      "asin": "B0CLSBQBTG",
+      "item_name": "HASONA ウォールシェルフ 壁掛け棚 (防水 防カビ 壁 棚 ラック 幅58cm×奥行18cm) 防虫 滑らか 2個セット おしゃれ 木製 玄関/キッチン/洗面所/寝室 取り付け簡単 吊り穴 日本語取扱説明書付き ブラウン",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 195215.0,
+      "t30d_units": 53.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G11VNP3R",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ 100％ メンズ 前開き Vネック ベスト (JP, アルファベット, L, ブラック)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G1PPGZFD",
-      "item_name": "クリスマスツリー クリスマスツリー ミニツリー モミの木 北欧風 卓上ツリー 壁掛け オーナメント付き おしゃれ インテリア プレゼント 贈り物 記念日 2025 セット 【ラッピング付き】［COLORFUL Flowers］ (ロイヤル)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 52093650222,
+      "merchant_name": "HASONA (JP)",
+      "asin": "B0BV8XR6Z7",
+      "item_name": "HASONA ウォールシェルフ 壁掛け棚 (防水 防カビ 壁 棚 ラック 幅42cm×奥行15cm) 防虫 滑らか 2個セット おしゃれ 木製 玄関/キッチン/洗面所/寝室 取り付け簡単 吊り穴 日本語取扱説明書付き 赤茶",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 26991.0,
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0BC129KW8",
-      "item_name": "THE WOW USBメモリ USB3.1 Gen1（ USB3.0 ） 【名入れ対応/ラッピング対応/メッセージカード対応】 32GB cover ギフト 誕生日 就職祝い 昇進祝い ビジネス ピュールウッド 木製 【ギフト3点セット付】メープル",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CQKYL92P",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ100% レディース おやすみソックス 【ラッピング対応/メッセージカード対応】 (ネイビー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C1Y6YGB2",
-      "item_name": "THE WOW フラワークロック 置時計 キャンドルホルダー 【名入れ対応/ラッピング対応/メッセージカード対応】 (アナベル)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 52093650222,
+      "merchant_name": "HASONA (JP)",
+      "asin": "B0DSBXMLSF",
+      "item_name": "HASONA ウォールシェルフ 壁掛け棚 2個セット 壁 棚 ラック 防水 防カビ 幅58cm×奥行18cm おしゃれ 木製 キッチン/トイレ/ランドリールーム/寝室 取り付け簡単 吊り穴 取扱説明書付き ホワイト(白いブラケット)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 96173.75,
+      "t30d_units": 26.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FQ7WPSV6",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ クルーネックセーター 【ラッピング対応/メッセージカード対応】 （ザワウ） 秋冬 レディース 女性 20代 30代 40代 50代 60代 長袖 プレゼント ギフト (JP, アルファベット, S, グレー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B099DLSXXL",
-      "item_name": "THE WOW ザワウ 名入れ対応 ざらっと 蓋つき タンブラー 350ml ブラック 名前入れ 名前刻印 保温 保冷 ステンレス 耐熱 持ち運び コンパクト 誕生日 記念日 入学祝い 職場 オフィス 学校 部活 ギフト 贈り物 プレゼント【ラッピング対応/メッセージカード対応】",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CKP3Y7J4",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ100% メンズ 無地マフラー 【ラッピング対応/メッセージカード対応】 (ブルー×チャコール)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 18480.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CL5VLWDL",
-      "item_name": "Shefar（シーファー）eau de parfum 5ml (Pipiel（ピピエル）) THE WOW",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 52093650222,
+      "merchant_name": "HASONA (JP)",
+      "asin": "B0CSCZQYN6",
+      "item_name": "HASONA フライパンスタンド 8段 フライパンラック フック4個付き 鍋 フライパン 収納 スタンド 3インストール方法 鍋蓋 縦置 横置 高さ調整可能 省スペース 防錆 耐熱 (ホワイト)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 84305.99,
+      "t30d_units": 34.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CQKTVFXF",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ100% キッズ セーター 【ラッピング対応/メッセージカード対応】… (130, ネイビー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FQ8BCY19",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ クルーネックセーター 【ラッピング対応/メッセージカード対応】 （ザワウ） 秋冬 レディース 女性 20代 30代 40代 50代 60代 長袖 プレゼント ギフト (JP, アルファベット, L, ネイビー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FVJ462Z5",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ 大判ストール マフラー (200×60cm) (グレージュ)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09J18CMR3",
-      "item_name": "THE WOW ザワウ 名入れ 箸のハコ めで鯛 結婚 お箸セット いい夫婦の日 結婚祝い ウエディングギフト カップル 夫婦 新婚 両親 御祝い 記念日 箸置き 箸 一膳 木箱 名前入り 贈り物 ギフト プレゼント 【ラッピング対応/メッセージカード対応】",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CQKTT1TM",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ100% キッズ セーター 【ラッピング対応/メッセージカード対応】… (140, ネイビー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 11000.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FQ8666R1",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ クルーネックセーター 【ラッピング対応/メッセージカード対応】 （ザワウ） 秋冬 レディース 女性 20代 30代 40代 50代 60代 長袖 プレゼント ギフト (JP, アルファベット, L, グレー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DJNN6996",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100% ネックウォーマー メンズ (ベージュ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DJQ7QBDB",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ 大判ストール マフラー (200×60cm) (アンバーブラウン)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CQL1H26H",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ100% レディース おやすみソックス 【ラッピング対応/メッセージカード対応】 (ベージュ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C5ZJ6VXM",
-      "item_name": "THE WOW スリムサーモ ステンレスボトル 300ml 【名入れ対応/ラッピング対応/メッセージカード対応】 (ネイビー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G1QB8BK8",
-      "item_name": "クリスマスリース 30cm 大きめ 玄関 インテリア 装飾 ディスプレイ ドア 壁掛け ギフト プレゼント 【ラッピング対応】［COLORFUL Flowers］ (ブリリアントゴールド)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 52093650222,
+      "merchant_name": "HASONA (JP)",
+      "asin": "B09HMNHC5C",
+      "item_name": "HASONA ウォールシェルフ 壁掛け棚 (防水 防カビ 壁 棚 ラック 幅58cm×奥行18cm) 防虫 滑らか 2個セット おしゃれ 木製 玄関/キッチン/洗面所/寝室 取り付け簡単 吊り穴 日本語取扱説明書付き 赤茶",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 40589.0,
+      "t30d_units": 11.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DJQ7V183",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ 大判ストール マフラー (200×60cm) (アッシュグレー)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G11WWSWX",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ 100％ メンズ 前開き Vネック ベスト (JP, アルファベット, LL, グレー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FQ8M838G",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ クルーネックセーター 【ラッピング対応/メッセージカード対応】 （ザワウ） 秋冬 レディース 女性 20代 30代 40代 50代 60代 長袖 プレゼント ギフト (JP, アルファベット, S, ホワイト)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B087465ZNM",
-      "item_name": "[ アラビア ] Arabia ブラック パラティッシ ブラパラ カップ & ソーサー セット 180mL Paratiisi (1005401 / 1005402) Cup Saucer マグ 皿 食器 フィンランド 北欧 [並行輸入品]",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 52093650222,
+      "merchant_name": "HASONA (JP)",
+      "asin": "B09BTG7WBJ",
+      "item_name": "HASONA ウォールシェルフ 壁掛け棚 (防水 防カビ 壁 棚 ラック 幅58cm×奥行18cm) 防虫 滑らか 2個セット おしゃれ 木製 玄関/キッチン/洗面所/寝室 取り付け簡単 吊り穴 日本語取扱説明書付き ホワイト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 40689.0,
+      "t30d_units": 11.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CZ62V8Z8",
-      "item_name": "THE WOW カヴェコ シャープペンシル【ペンケース付き】 【名入れ対応/ラッピング対応/メッセージカード対応】 ペンシルスペシャル ギフト Kaweco (ブラック, 2.0mm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": -5005.0,
-      "t30d_units": -1.0
-    },
-    {
-      "asin": "B0CQKV8CDG",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ100% キッズ セーター 【ラッピング対応/メッセージカード対応】… (120, ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CR3F8NFX",
-      "item_name": "THE WOW ロゴ・名入れ レザーマウスパッド（スクエア）【名入れ対応/ラッピング対応/メッセージカード対応】 (ネイビー × 5個セット)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G1Q97WJF",
-      "item_name": "クリスマスツリー クリスマスツリー ミニツリー モミの木 北欧風 卓上ツリー 壁掛け オーナメント付き おしゃれ インテリア プレゼント 贈り物 記念日 2025 セット 【ラッピング付き】［COLORFUL Flowers］ (フォレストレッド)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 52093650222,
+      "merchant_name": "HASONA (JP)",
+      "asin": "B09J465J28",
+      "item_name": "HASONA フライパンスタンド 8段 フライパンラック フック4個付き 鍋 フライパン 収納 スタンド 3インストール方法 鍋蓋 縦置 横置 高さ調整可能 省スペース 防錆 耐熱 (ブロンズ)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 64581.84,
+      "t30d_units": 26.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CKP42F6T",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ100% メンズ 無地マフラー 【ラッピング対応/メッセージカード対応】 (キャメル×ネイビー)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 24360.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DPFHPCP6",
-      "item_name": "象印 ステンレスマグボトル 480ml シームレス栓 [THE WOW]【ラッピング対応/メッセージカード対応】 (アクアグリーン)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FQ7YZS7K",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ クルーネックセーター 【ラッピング対応/メッセージカード対応】 （ザワウ） 秋冬 レディース 女性 20代 30代 40代 50代 60代 長袖 プレゼント ギフト (JP, アルファベット, L, ホワイト)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DJNPMBPF",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100% ネックウォーマー キッズ (ブラック)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CR3349PF",
-      "item_name": "THE WOW 名入れ ポケットモバイルチャージャー5個セット【名入れ対応/ラッピング対応/メッセージカード対応】 (ホワイト5個セット)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D7GFX73S",
-      "item_name": "THE WOW アトラス ボトルインボトル[男性向けデザイン] 【名入れ対応/ラッピング対応/メッセージカード対応】 (アイボリー, ハンドルタイプ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DJQ847D3",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ 大判ストール マフラー (200×60cm) (キャメルブラウンチェック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DJQ949Z1",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ 大判ストール マフラー (200×60cm) (レッドタータンチェック)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DJNNJ637",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100% ネックウォーマー レディース (ベージュ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CKP2XCB8",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ100% メンズ 無地マフラー 【ラッピング対応/メッセージカード対応】 (チャコール×ブラック)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F8R2Z9YY",
-      "item_name": "名入れ チタン二重タンブラー窯創りプレミアム 270ml 桐箱 入り HORIE ホリエ【名入れ対応/ラッピング対応/メッセージカード対応】 [THE WOW（ザワウ）] 保冷 保温 退職祝い 男性 高級 父の日 敬老の日 ギフト 燕三条 誕生日 プレゼント 還暦祝い (金)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 13200.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DJNPWWQJ",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100% ネックウォーマー キッズ (ネイビー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 3960.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F8QHLSSF",
-      "item_name": "名入れ 木製キャッシュトレー 【名入れ対応/ラッピング対応/メッセージカード対応】 [THE WOW（ザワウ）] 開店祝い キャッシュトレイ 名前入り ジュエリートレー ノベルティ オリジナル 名入れ プレゼント 開業祝い 記念品 お祝い サロン 美容室 周年祝い (イエロー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 52093650222,
+      "merchant_name": "HASONA (JP)",
+      "asin": "B0CLSBHXGC",
+      "item_name": "HASONA ウォールシェルフ 壁掛け棚 (防水 防カビ 壁 棚 ラック 幅42cm×奥行15cm) 防虫 滑らか 2個セット おしゃれ 木製 玄関/キッチン/洗面所/寝室 取り付け簡単 吊り穴 日本語取扱説明書付き ブラウン",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 20033.0,
+      "t30d_units": 7.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0BC143QWH",
-      "item_name": "THE WOW USBメモリ USB3.0 【名入れ対応/ラッピング対応/メッセージカード対応】 32GB cover ギフト 誕生日 就職祝い 昇進祝い ビジネス オーバリッド 革製 【ギフト3点セット付】10.レッド",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 3180.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CQKV7C4X",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ100% キッズ セーター 【ラッピング対応/メッセージカード対応】… (140, ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CSS24KFD",
-      "item_name": "THE WOW プリザーブドフラワー 陶器のポット入り【ラッピング対応/メッセージカード対応】 (ロレイン ブルー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 52093650222,
+      "merchant_name": "HASONA (JP)",
+      "asin": "B0BCKZMNXD",
+      "item_name": "HASONA ウォールシェルフ 壁掛け棚 (防水 防カビ 壁 棚 ラック 幅42cm×奥行15cm) 防虫 滑らか 2個セット おしゃれ 木製 玄関/キッチン/洗面所/寝室 取り付け簡単 吊り穴 日本語取扱説明書付き 大理石柄",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 71700.25,
+      "t30d_units": 24.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F8QZX7NB",
-      "item_name": "名入れ チタン二重タンブラー窯創りプレミアム 350ml 桐箱 入り HORIE ホリエ【名入れ対応/ラッピング対応/メッセージカード対応】 [THE WOW（ザワウ）] 保冷 保温 退職祝い 男性 高級 父の日 敬老の日 ギフト 燕三条 誕生日 プレゼント 還暦祝い (グラデーションG19)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DJQ75LB5",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ 大判ストール マフラー (200×60cm) (ピンクベージュ)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CQKX5R6Y",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ100% キッズ 手袋 【ラッピング対応/メッセージカード対応】 (ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0987N71GF",
-      "item_name": "ステッチアンドソー StitchandSew 三つ折り財布 コルク ラッピング無料 メッセージカード無料 coco イタリアンスムースレザー 財布 三つ折り コンパクト 小銭入れ レディース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BSGZNGZX",
-      "item_name": "[THE WOW] アルカディアルカ カシミヤ100％ レッグウォーマー レディース フリーサイズ ブラック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DJNPL8TF",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100% ネックウォーマー キッズ (グレー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0G1279HSZ",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ 100％ メンズ 前開き Vネック ベスト (JP, アルファベット, M, ネイビー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DJQ6RL4J",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ 大判ストール マフラー (200×60cm) (セピアカーキ)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CPNY36Q2",
-      "item_name": "[THE WOW] 名入れ 本革キーホルダー【名入れ対応/ラッピング対応/メッセージカード対応】 (［名入れ］単品, ピンク)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CR2ZZHX9",
-      "item_name": "THE WOW ロゴ・名入れ スクエアコンパクトミラー 5個セット【名入れ対応/ラッピング対応/メッセージカード対応】 (ホワイト × 5個セット)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F41R1YGX",
-      "item_name": "名入れ ワンタッチ サーモステンレスボトル350ml【名入れ対応/ラッピング対応/メッセージカード対応】 [THE WOW（ザワウ）] 水筒 保温 保冷 真空二層構造 直飲み 滑りにくい プレゼント (カーキ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FQ4LN8ZY",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ カーディガン (JP, アルファベット, M, ホワイト)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FPJ9RMW1",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ 大判ストール マフラー (200×60cm) (ピンクベージュチェック)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FQ849NTL",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ クルーネックセーター 【ラッピング対応/メッセージカード対応】 （ザワウ） 秋冬 レディース 女性 20代 30代 40代 50代 60代 長袖 プレゼント ギフト (JP, アルファベット, M, ネイビー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FT723BNB",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ100% メンズ 無地マフラー 【ラッピング対応/メッセージカード対応】 (ネイビー×ブラウン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 9240.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CQKYGNYD",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ100% レディース おやすみソックス 【ラッピング対応/メッセージカード対応】 (チャコールグレー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CJHY8VL3",
-      "item_name": "Shefar Pipiel hand cream 50g シーファー ピピエル ハンドクリーム THE WOW",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FQ7QDW96",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ クルーネックセーター 【ラッピング対応/メッセージカード対応】 （ザワウ） 秋冬 レディース 女性 20代 30代 40代 50代 60代 長袖 プレゼント ギフト (JP, アルファベット, M, グレー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FQ4LZ31F",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ カーディガン (JP, アルファベット, S, ブラック)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G11PQD1C",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ 100％ メンズ 前開き Vネック ベスト (JP, アルファベット, L, ブラウン)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FQ7ZN4Y2",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ クルーネックセーター 【ラッピング対応/メッセージカード対応】 （ザワウ） 秋冬 レディース 女性 20代 30代 40代 50代 60代 長袖 プレゼント ギフト (JP, アルファベット, S, ネイビー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F8QXPTVV",
-      "item_name": "名入れ チタン二重タンブラー窯創りプレミアム 270ml 桐箱 入り HORIE ホリエ【名入れ対応/ラッピング対応/メッセージカード対応】 [THE WOW（ザワウ）] 保冷 保温 退職祝い 男性 高級 父の日 敬老の日 ギフト 燕三条 誕生日 プレゼント 還暦祝い (グラデーションG19)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D7FXR9X7",
-      "item_name": "THE WOW アトラス ボトルインボトル[ネーム・イニシャルデザイン] 【名入れ対応/ラッピング対応/メッセージカード対応】 (アイボリー, ハンドルタイプ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FQ7Z2Z82",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ クルーネックセーター 【ラッピング対応/メッセージカード対応】 （ザワウ） 秋冬 レディース 女性 20代 30代 40代 50代 60代 長袖 プレゼント ギフト (JP, アルファベット, L, ブラック)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G1QGFSKS",
-      "item_name": "クリスマスリース 30cm 大きめ 玄関 インテリア 装飾 ディスプレイ ドア 壁掛け ギフト プレゼント 【ラッピング対応】［COLORFUL Flowers］ (レッドキラキラ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FXJPJV8F",
-      "item_name": "名入れ タンブラー ステンレス 真空断熱 350ml 誕生日 プレゼント メンズ 男性 保冷 保温 ビール ハイボール おしゃれ ギフト 父の日 SaintGraal セイントグレイル 【名入れ対応/ラッピング対応/メッセージカード対応】 [THE WOW（ザワウ）] (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 20900.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0CQKWQTJS",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ100% キッズ 手袋 【ラッピング対応/メッセージカード対応】 (グレー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B09743F2HJ",
-      "item_name": "THE WOW ティントリップ ジジックス ZZYZX 正規販売 名入れ ドライフラワー 口紅 ギフト 贈り物 母の日 記念日 誕生日 ブルー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 3580.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FQ8FSN2L",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ クルーネックセーター 【ラッピング対応/メッセージカード対応】 （ザワウ） 秋冬 レディース 女性 20代 30代 40代 50代 60代 長袖 プレゼント ギフト (JP, アルファベット, S, ブラック)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09QS6G2BG",
-      "item_name": "[イルビゾンテ] 二つ折りラウンド―ファスナー財布 折財布 ラウンドファスナー 二つ折り財布 SMW067 PV0005 C0960 RE160B フリー [並行輸入品]",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CR41RW18",
-      "item_name": "THE WOW ロゴ・名入れ レザーマウスパッド（スクエア）【名入れ対応/ラッピング対応/メッセージカード対応】 (ミルキーホワイト × 5個セット)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CQKV142J",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ100% キッズ セーター 【ラッピング対応/メッセージカード対応】… (130, ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G125SWQV",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ 100％ 靴下 メンズ フリーサイズ：25cm～27cm程度］ (ブラック)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BS95SC7Q",
-      "item_name": "THE WOW プリザーブドフラワーBOX 【ラッピング対応/メッセージカード対応】",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C5ZNWG76",
-      "item_name": "THE WOW スリムサーモ ステンレスボトル 300ml 【名入れ対応/ラッピング対応/メッセージカード対応】 (ホワイト)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G11WXQML",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ 100％ メンズ 前開き Vネック ベスト (JP, アルファベット, M, ブラウン)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B099DQCM7M",
-      "item_name": "ショッププレス 名入れ無料 ざらっと 蓋つき タンブラー 350ml グレー ラッピング無料 メッセージカード無料 プレゼント 名前入れ ギフト 保温 保冷 ステンレス 耐熱 おしゃれ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G1QB67V2",
-      "item_name": "クリスマスリース 30cm 大きめ 玄関 インテリア 装飾 ディスプレイ ドア 壁掛け ギフト プレゼント 【ラッピング対応】［COLORFUL Flowers］ (レッドスター)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BC15K59Z",
-      "item_name": "THE WOW USBメモリ USB3.0 【名入れ対応/ラッピング対応/メッセージカード対応】 32GB cover ギフト 誕生日 就職祝い 昇進祝い ビジネス オーバリッド 革製 【ギフト3点セット付】9.ネイビー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DJQ7D7MX",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ 大判ストール マフラー (200×60cm) (ブラック)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BC14J5FH",
-      "item_name": "THE WOW USBメモリ USB3.0 【名入れ対応/ラッピング対応/メッセージカード対応】 32GB cover ギフト 誕生日 就職祝い 昇進祝い ビジネス オーバリッド 革製 【ギフト3点セット付】5.ベージュ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0FPJ91L4F",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ 大判ストール マフラー (200×60cm) (イエローブルーチェック)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CQKV42C2",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ100% キッズ セーター 【ラッピング対応/メッセージカード対応】… (150, ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FQ81DYN4",
-      "item_name": "[THE WOW] arcadiarca アルカディアルカ カシミヤ100％ クルーネックセーター 【ラッピング対応/メッセージカード対応】 （ザワウ） 秋冬 レディース 女性 20代 30代 40代 50代 60代 長袖 プレゼント ギフト (JP, アルファベット, M, ブラック)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FT721Y8D",
-      "item_name": "[THE WOW] アルカディアルカ arcadiarca カシミヤ100% メンズ 無地マフラー 【ラッピング対応/メッセージカード対応】 (モスグリーン×ブラウン)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 52093650222,
+      "merchant_name": "HASONA (JP)",
+      "asin": "B099FH6CQL",
+      "item_name": "HASONA フライパンスタンド 8段 フライパンラック フック4個付き 鍋 フライパン 収納 スタンド 3インストール方法 鍋蓋 縦置 横置 高さ調整可能 省スペース 防錆 耐熱 (ブラック)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 33737.0,
+      "t30d_units": 14.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

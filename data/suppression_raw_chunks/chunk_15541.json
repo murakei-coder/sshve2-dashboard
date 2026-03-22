@@ -1,22 +1,21 @@
 {
-  "1096748366102": [
+  "1096755220402": [
     {
-      "asin": "B0FDWX9N4X",
-      "item_name": "Water Sonic ウォーターソニック 【歯科大学共同研究 歯垢除去率130%】ジェット水流 ソニック歯ブラシ 合体型 ジェットウォッシャー 一体型 電動歯ブラシ 口腔洗浄器 水流音波歯ブラシ 毎分38,000回の音波振動 高圧水流 スタンド充電対応 防水性能 IPX7 (White)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 510940.0,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B0FDWY59TT",
-      "item_name": "Water Sonic ウォーターソニック 【歯科大学共同研究 歯垢除去率130%】ジェット水流 ソニック歯ブラシ 合体型 ジェットウォッシャー 一体型 電動歯ブラシ 口腔洗浄器 水流音波歯ブラシ 毎分38,000回の音波振動 高圧水流 スタンド充電対応 防水性能 IPX7 (Black)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 694999.33,
-      "t30d_units": 35.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1096755220402,
+      "merchant_name": "CHENHUABAO",
+      "asin": "B0G64P12DF",
+      "item_name": "ピンマイク ワイヤレス 「2人同時使用」 超軽量 ワイヤレスマイク 瞬時接続 360°集音 音画同期 48時間使用 収音録音/リバーブ/ノイズキャンセリング スマホマイク 充電ケース付 カメラ/iPhone/iPad/Android/PC用ワイヤレスピンマイク Vlog撮影/動画配信/生放送/ASMR/TikTok",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 264565.65,
+      "t30d_units": 93.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

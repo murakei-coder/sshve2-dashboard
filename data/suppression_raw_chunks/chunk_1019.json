@@ -1,31 +1,55 @@
 {
   "925879594": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 925879594,
+      "merchant_name": "織田明堂",
       "asin": "B0GC3C7VQX",
       "item_name": "旬彩乾 乾燥野菜 キャベツ 国産 ブドウ糖不使用 無添加 低温乾燥 1袋 60g",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
       "t30d_ops": 174685.35,
-      "t30d_units": 122.0
+      "t30d_units": 122.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 925879594,
+      "merchant_name": "織田明堂",
       "asin": "B0G2WZPJVD",
       "item_name": "旬彩乾 乾燥野菜 ミックス ３種類 九条ねぎ キャベツ にんじん 国産 京都府産 ブドウ糖不使用 無添加 低温乾燥 1袋 60g",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 615866.53,
-      "t30d_units": 407.0
+      "t30d_units": 407.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 925879594,
+      "merchant_name": "織田明堂",
       "asin": "B0FXK1F2YR",
       "item_name": "旬彩乾 乾燥野菜 九条ねぎ 国産 京都府産 ブドウ糖不使用 無添加 低温乾燥 1袋 15g",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 109014.0,
-      "t30d_units": 85.0
+      "t30d_units": 85.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

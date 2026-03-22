@@ -1,31 +1,55 @@
 {
-  "595815843202": [
+  "595861283502": [
     {
-      "asin": "B0CNSX31S8",
-      "item_name": "ビーフニュートリション ライジングコア ビーフ佐々木監修 ノンカフェイン プレワークアウト カロペプタイド シトルリン マカ ビーツ エゾウコギ 80カプセル 日本製",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 106604.0,
-      "t30d_units": 31.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 595861283502,
+      "merchant_name": "パティスリー BOIS",
+      "asin": "B0BTVQ8LDQ",
+      "item_name": "Pâtisserie BOIS パティスリーボワ フルーツプリンムースケーキ オレンジ 苺 キウイ ムース 約１２cm 4号 チョコスポンジ 冷凍３か月 冷蔵３日 賞味期限",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 139839.0,
+      "t30d_units": 51.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0C5MC6M6F",
-      "item_name": "BEEF NUTRITION ビーフニュートリション パワーリカバリー ビーフ佐々木監修 ビタミン&抗酸化物質 ビタミンB群 ミネラル リコピン アスタキサンチン アルファリポ酸 150カプセル 食事＆休息サポート",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 149195.0,
-      "t30d_units": 43.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 595861283502,
+      "merchant_name": "パティスリー BOIS",
+      "asin": "B0DMVKKHMQ",
+      "item_name": "Pâtisserie BOIS パティスリーボワ フルーツプリンムースケーキ オレンジ 苺 キウイ ムース 約１２cm 4号 チョコスポンジ 冷凍３か月 冷蔵３日 賞味期限 (4号, イチゴ)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 35760.0,
+      "t30d_units": 12.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DNM8GWBN",
-      "item_name": "BEEF NUTRITION ビーフニュートリション 【REBOUND CONTROL】 リバウンドコントロール ビーフ佐々木監修 240カプセル 減量 ダイエット HCA アルファリポ酸 HMB クロミウム",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 64332.0,
-      "t30d_units": 16.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 595861283502,
+      "merchant_name": "パティスリー BOIS",
+      "asin": "B0DVLHJ8H7",
+      "item_name": "Pâtisserie BOIS (パティスリーボワ) クッキークリーム ケーキ クッキー＆クリーム 4号 12cm 2~4名 アイスケーキ お取り寄せスイーツ ギフト 誕生日",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 45560.0,
+      "t30d_units": 17.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

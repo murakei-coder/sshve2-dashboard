@@ -1,31 +1,21 @@
 {
-  "58195322422": [
+  "58197542922": [
     {
-      "asin": "B09MHDR8K6",
-      "item_name": "Great Home JP 湯たんぽ ゆたんぽ 充電式【大きめサイズ&保温ポケット型デザイン】エコ湯タンポ 5~15H長時間保温 充電器 電気湯たんぽ 過熱防止機能 柔らかく温かいなカバー付き 洗濯OK 暖房器具 省エネ お腹周り/背中/指先/足元 あったかグッズ 防寒グッズ 冷え対策 安全PSE認証 ギフト用として人気 祝",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1393942.76,
-      "t30d_units": 532.0
-    },
-    {
-      "asin": "B0DLWC4WV4",
-      "item_name": "電気毛布 敷き 掛け兼用 省エネ 55W AI過熱保護機能 節電 速暖 切り忘れ防止タイマー付き 4段階タイマー 電気敷き毛布 140×80cm 5段階温度調整 洗える 電気ブランケット 防寒対策 肩掛け 膝掛け シングル 暖房器具 毛玉なし ギフト 丸洗い可 頭寒足熱 ダニ退治（ライトブラウン）",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 46422.93,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B09MHGP8Z3",
-      "item_name": "Great Home JP 湯たんぽ ゆたんぽ 充電式【大きめサイズ&保温ポケット型デザイン】エコ湯タンポ 5~15H長時間保温 充電器 電気湯たんぽ 過熱防止機能 柔らかく温かいなカバー付き 洗濯OK 暖房器具 省エネ お腹周り/背中/指先/足元 あったかグッズ 防寒グッズ 冷え対策 安全PSE認証 ギフト用として人気 祝",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 853438.38,
-      "t30d_units": 330.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 58197542922,
+      "merchant_name": "AOSHIDA Audio-JP",
+      "asin": "B0CCVBZS9R",
+      "item_name": "SMSL AO200 MKII デジタルパワーアンプ MA5332MSアンプチップ 160W x 160W ブルートゥース5.0/USB/RCA/XLR入力 2.1 チャンネル サブウーファー/パッシブ スピーカー HiFiデスクトップホームオーディオアンプ",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 139996.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

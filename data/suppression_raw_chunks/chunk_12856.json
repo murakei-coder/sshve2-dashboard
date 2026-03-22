@@ -1,22 +1,21 @@
 {
-  "806520374102": [
+  "806570847002": [
     {
-      "asin": "B0G39ZY28S",
-      "item_name": "【2026 新設計人気 ANCノイズキャンセリング】ヘッドホン bluetooth ワイヤレスヘッドホン Bluetooth5.4 有線 無線 両用 最大35時間再生 マイク内蔵 ハンズフリー通話 マルチポイント対応 快適装着 軽量 オーバーイヤーヘッドホン 音漏れ防止 3種EQモード 折り畳み可能 SBC/AAC対応 3.5mmケーブル付き 黒茶色",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 59970.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FJ285HT1",
-      "item_name": "【Amazon.co.jp限定】 業界初Bluetooth5.4 ヘッドホン bluetooth ワイヤレスヘッドホン ANCノイズキャンセリング 有線 無線 両用 最大35時間再生 マイク内蔵 ハンズフリー通話 マルチポイント対応 快適装着 軽量 オーバーイヤーヘッドホン 音漏れ防止 3種EQモード 折り畳み可能 SBC/AAC対応 3.5mmケーブル付き ブ",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 10229488.81,
-      "t30d_units": 3820.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 806570847002,
+      "merchant_name": "lengshuijiangshiqingluodianzi",
+      "asin": "B0FZR82YH1",
+      "item_name": "スキーゴーグル 【2025年冬新登場 &写真映えするデザイン &防風マスクを付属】透過率5～15％スノボ ゴーグル 210°広視界&OTG設計 曇り止め スノーゴーグル/防風/防雪/UVカット/紫外線防止 全天候対応 UV400保護 スノーボード 滑り止めベルト 大視界 ベンチレーション 軽量 耐衝撃 ジュニア メガネ対応",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 359360.98,
+      "t30d_units": 144.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

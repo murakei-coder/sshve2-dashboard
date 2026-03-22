@@ -1,22 +1,55 @@
 {
-  "955714065402": [
+  "955750357802": [
     {
-      "asin": "B0DNCKXSDR",
-      "item_name": "【ネットで洗濯.com】 ぬいぐるみクリーニング.com ぬいぐるみクリーナー 200ml [シミ除去・除菌・抗菌・防ダニ] 自宅で簡単メンテナンス",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 569375.25,
-      "t30d_units": 283.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 955750357802,
+      "merchant_name": "ここがウワサのあきにゃい屋",
+      "asin": "B0FR9K4YBM",
+      "item_name": "【猫ま心】猫砂 固まる ネコ砂 鉱物 ベントナイト cat litter 脱臭 大容量 9kg x 1箱 今の猫砂に混ぜてOK [これがウワサのお部屋の大地/トルコで採れた砂編] 真空パック 無香料 低粉じん 消臭",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 11324.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DRT6ZVDF",
-      "item_name": "【ネットで洗濯.com】ぬいぐるみクリーニング.com ぬいぐるみクリーナー 500ml [シミ除去・除菌・抗菌・防ダニ] 自宅で簡単メンテナンス",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 113163.2,
-      "t30d_units": 30.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 955750357802,
+      "merchant_name": "ここがウワサのあきにゃい屋",
+      "asin": "B0FG1ZPTN1",
+      "item_name": "【猫ま心】猫砂 固まる ネコ砂 鉱物 ベントナイト cat litter 脱臭 大容量 9kg x 2箱 今の猫砂に混ぜてOK [これがウワサのお部屋の大地/中国で採れた砂編] 真空パック 無香料 低粉じん 消臭",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 11940.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 955750357802,
+      "merchant_name": "ここがウワサのあきにゃい屋",
+      "asin": "B0DSRPDL9W",
+      "item_name": "【猫ま心】猫砂 固まる ネコ砂 鉱物 ベントナイト cat litter 脱臭 大容量 9kg x 1箱 今の猫砂に混ぜてOK [これがウワサのお部屋の大地/アメリカで採れた砂編] 真空パック 無香料 低粉じん 消臭",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 162092.0,
+      "t30d_units": 47.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

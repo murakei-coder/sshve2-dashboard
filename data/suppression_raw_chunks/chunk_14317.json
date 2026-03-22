@@ -1,49 +1,38 @@
 {
-  "976377648202": [
+  "976380912402": [
     {
-      "asin": "B0FF9L9WMB",
-      "item_name": "【美容成分99%生美容液】my's 超浸透型 ビタミンC カプセル 美容液 美白 シミ シワ くすみ 毛穴 敏感肌 10粒入 マイズ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 30188.8,
-      "t30d_units": 12.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 976380912402,
+      "merchant_name": "BMAX DIRECT【インボイス対応店】",
+      "asin": "B0D3HNJJ6K",
+      "item_name": "【タブレット 10インチ以上2024新登場】Bmax 11インチ Android 14 タブレット、 20GB+256GB+1TB TF拡張、2000*1200 2K IPS画面、Helio G99 2.2GHz 8コアCPU、8000mAh+18W Type-C急速充電、4G通話対応/5G WiFi/BT5.2/GPS/GMS/OTG/無線投影、軽量 フルメタルボディI11 Power",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 173991.33,
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F37L2ZLM",
-      "item_name": "【美容成分99%生美容液】my's カプセル 美容液 3箱セット レチノール ビタミンC誘導体 ビタミンE誘導体 10粒×3箱 マイズ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 415777.66,
-      "t30d_units": 72.0
-    },
-    {
-      "asin": "B0FF9KVSDQ",
-      "item_name": "【美容成分99%生美容液】my's レチノール カプセル 美容液 毛穴 くすみ ハリ キメ ニキビ 敏感肌 高浸透 10粒入 マイズ",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 7101.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FQHJXZZ6",
-      "item_name": "【シミ・シワ改善】my's 薬用 リキッドファンデーション 医薬部外品 ウォータープルーフ SPF28 PA++ 美白成分配合 シミ シワ ナチュラルベージュ（健康的な肌色）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 428774.41,
-      "t30d_units": 123.0
-    },
-    {
-      "asin": "B0FF9LLNDC",
-      "item_name": "【美容成分99%生美容液】my's ビタミンE誘導体 カプセル 美容液 目元 くすみ トーンアップ たるみ リフトアップ 高浸透 10粒入 マイズ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 104715.33,
-      "t30d_units": 42.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 976380912402,
+      "merchant_name": "BMAX DIRECT【インボイス対応店】",
+      "asin": "B0DCB8N557",
+      "item_name": "【タブレット 10インチ以上2024新登場】Bmax 11インチ Android 13 タブレット、 I11 Power 16GB+256GB+1TB TF拡張、2000*1200 2K IPS画面、Helio G99 2.2GHz 8コアCPU、8000mAh+18W Type-C急速充電、4G通話対応/5G WiFi/BT5.2/GPS/GMS/OTG/無線投影、軽量 フルメタルボディ",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

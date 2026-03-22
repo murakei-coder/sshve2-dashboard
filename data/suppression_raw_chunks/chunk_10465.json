@@ -1,22 +1,38 @@
 {
-  "445228278802": [
+  "445451959402": [
     {
-      "asin": "B09ZL4LF2K",
-      "item_name": "RUICC 12V-24V車用 S25 LED ダブル ホワイト 爆光 バックランプ (1157 BAY15D P21/5W LED バルブ ピン角180°段違い) テールランプ 無極性 車検対応 2個入り",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 52669.76,
-      "t30d_units": 23.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 445451959402,
+      "merchant_name": "kah shop",
+      "asin": "B0BMFTZJCD",
+      "item_name": "kah 干し芋 訳あり 茨城 紅はるか 国産 シロタ 800g 平干し 無添加 乾燥芋 ほしいも kah",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 620880.0,
+      "t30d_units": 324.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B09ZL6YBJK",
-      "item_name": "RUICC 12V-24V車用 S25 LED シングル ホワイト 爆光 (1156 P21W BA15S G18 LED バルブ ピン角度180 平行) バックランプ ナンバー灯 フォグランプ 高耐久性 無極性 車検対応 2個入り",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 128249.41,
-      "t30d_units": 49.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 445451959402,
+      "merchant_name": "kah shop",
+      "asin": "B0BN5V6NZ2",
+      "item_name": "kah 干し芋 訳あり 茨城 丸干し 紅はるか 国産 400g B品 干しいも 無添加 乾燥芋 スイーツ ほしいも kah",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 155035.0,
+      "t30d_units": 83.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

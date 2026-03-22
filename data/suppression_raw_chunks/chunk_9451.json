@@ -1,13 +1,21 @@
 {
-  "76342233722": [
+  "76345933322": [
     {
-      "asin": "B0GD7GBRDP",
-      "item_name": "【家電批評ベストバイ受賞】Gekwaii ハンディークリーナー 車用掃除機 4in1多機能 コードレス ハンディ掃除機 3段階モード ディスプレイ残量表示 電動エアーダスター/空気入れ・抜き機能つき パワフル最大40000PA Type-C充電 6000mAH長時間運転 豊富なノズル LEDライト ポータブル 小型 強力 低騒音 車内 家",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 1385147.47,
-      "t30d_units": 255.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 76345933322,
+      "merchant_name": "WRYVCT",
+      "asin": "B0D53SS8Y5",
+      "item_name": "交互圧力パッド 電動ポンプ付き 長期的寝床のユーザーに最適 家庭に適用 通気性 体圧分散式エアマット 介護用品 3モードサイクル 扱いやすい 寝具 日本説明書付き マットレス 父母",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 449104.0,
+      "t30d_units": 46.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

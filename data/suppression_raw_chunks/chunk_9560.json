@@ -1,40 +1,38 @@
 {
-  "78252799122": [
+  "78262413722": [
     {
-      "asin": "B0G1SKXRJX",
-      "item_name": "[TKcraft] シルバー925 喜平チェーン ネックレス 2mm／3mm 45cm／50cm／55cm 純銀 メンズ レディース ペンダント用 ギフトBOX付き 成分分析済み (3㎜, 55, センチメートル)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Softlines",
-      "t30d_ops": 7480.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 78262413722,
+      "merchant_name": "KEEBI",
+      "asin": "B0G1FQL2GV",
+      "item_name": "PAIFIEVD 犬 車 シート ドライブボックス 飛び出し防止リード付き 折り畳み可能 ペット 車用ベッド 滑り止め 防水 洗える 助手席 後部座席 小型犬用(Gray)",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 91979.0,
+      "t30d_units": 21.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G1SM96FS",
-      "item_name": "[TKcraft] シルバー925 喜平チェーン ネックレス 2mm／3mm 45cm／50cm／55cm 純銀 メンズ レディース ペンダント用 ギフトBOX付き 成分分析済み (3㎜, 50, センチメートル)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Softlines",
-      "t30d_ops": 49360.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0G1SH3XT2",
-      "item_name": "[TKcraft] シルバー925 喜平チェーン ネックレス 2mm／3mm 45cm／50cm／55cm 純銀 メンズ レディース ペンダント用 ギフトBOX付き 成分分析済み (2㎜, 50, センチメートル)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Softlines",
-      "t30d_ops": 129810.0,
-      "t30d_units": 27.0
-    },
-    {
-      "asin": "B0G1SLLLMN",
-      "item_name": "[TKcraft] シルバー925 喜平チェーン ネックレス 2mm／3mm 45cm／50cm／55cm 純銀 メンズ レディース ペンダント用 ギフトBOX付き 成分分析済み (2㎜, 45, センチメートル)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Softlines",
-      "t30d_ops": 53573.33,
-      "t30d_units": 12.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 78262413722,
+      "merchant_name": "KEEBI",
+      "asin": "B0G1GT622J",
+      "item_name": "PAIFIEVD 犬 車 シート ドライブボックス 飛び出し防止リード付き 折り畳み可能 ペット 車用ベッド 滑り止め 防水 洗える 助手席 後部座席 小型犬用(Khaki)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 17196.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

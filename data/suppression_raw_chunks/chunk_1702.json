@@ -1,22 +1,38 @@
 {
   "5556543822": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 5556543822,
+      "merchant_name": "Nitin-JP",
       "asin": "B0832J969S",
       "item_name": "Nitin 大型モダンウォールミラー 長方形 壁掛けミラー 水平または垂直に吊り下げ 寝室 浴室用 (91 x 61 cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 111622.0,
-      "t30d_units": 11.0
+      "t30d_units": 11.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 5556543822,
+      "merchant_name": "Nitin-JP",
       "asin": "B08GC68B37",
       "item_name": "Nitin 大型モダンウォールミラー、76CM x 56CM長方形の壁掛けミラー、寝室のバスルームに水平または垂直に吊るす",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 190980.0,
-      "t30d_units": 22.0
+      "t30d_units": 22.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

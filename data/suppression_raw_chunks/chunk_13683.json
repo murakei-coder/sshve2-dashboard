@@ -1,22 +1,72 @@
 {
-  "899336050702": [
+  "899382910002": [
     {
-      "asin": "B0DG2JF2KM",
-      "item_name": "[AuthenMirror] サングラス メンズ レディース 偏光サングラス 【偏光レンズ99.9％×国内正規店】",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 20295.0,
-      "t30d_units": 11.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 899382910002,
+      "merchant_name": "【公式】わたしの酵活",
+      "asin": "B0DPH4ZYBW",
+      "item_name": "[ わたしの酵活 ] 無添加 フェムケア 酵素 ザクロ サプリ デリケートなお悩みに【30〜40代のための発酵サプリ】いちじく 乳酸菌 6600億個 クリスパタス菌配合 ラクトバチルス （5g×30包入×2箱）",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 29309.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DG2LNBNP",
-      "item_name": "[AuthenMirror] サングラス メンズ レディース 偏光サングラス 【調光偏光レンズ99.9％×国内正規店】",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 77680.95,
-      "t30d_units": 42.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 899382910002,
+      "merchant_name": "【公式】わたしの酵活",
+      "asin": "B0DHVFD7VN",
+      "item_name": "[ わたしの酵活 ] 無添加 フェムケア 酵素 ザクロ サプリ デリケートなお悩みに【30〜40代のための発酵サプリ】いちじく 乳酸菌 6600億個 クリスパタス菌配合 ラクトバチルス（30日分 5g×30包入）",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 176464.02,
+      "t30d_units": 23.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 899382910002,
+      "merchant_name": "【公式】わたしの酵活",
+      "asin": "B0DPH4ZGQ6",
+      "item_name": "[ わたしの酵活 ] 無添加 フェムケア 酵素 サプリ デリケートなお悩みに【30〜40代のための発酵サプリ】ラクトバチルス 属 乳酸菌 6600億個 クリスパタス菌配合 いちじく ザクロ （5g×30包入×3箱）",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 46800.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 899382910002,
+      "merchant_name": "【公式】わたしの酵活",
+      "asin": "B0DPH4LR27",
+      "item_name": "[ わたしの酵活 ] 無添加 フェムケア 酵素 ザクロ サプリ デリケートなお悩みに【30〜40代のための発酵サプリ】いちじく 乳酸菌 6600億個 クリスパタス菌配合 ラクトバチルス (1袋（10包入）)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 15430.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

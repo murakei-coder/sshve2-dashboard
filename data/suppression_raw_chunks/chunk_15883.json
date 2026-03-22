@@ -1,31 +1,21 @@
 {
-  "1113133419102": [
+  "1113134839702": [
     {
-      "asin": "B0FMNK45FQ",
-      "item_name": "2026新登場 Google公式認証 Androidエアタグ スマートトラッカータグ 紛失防止タグ 置き忘れ防止タグ 位置追跡 Google Find Hub対応 100db大音量 電池交換可能 鍵/財布/貴重品の追跡 日本語説明書付き ブラック4個",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 702872.88,
-      "t30d_units": 214.0
-    },
-    {
-      "asin": "B0FMNJ6DRV",
-      "item_name": "2026最新Google公式認証 エアタグ スマートトラッカータグ 紛失防止タグ 置き忘れ防止タグ 位置追跡 Google検索ハブ対応 100db大音量 電池交換可能 鍵/財布/貴重品の追跡 日本語説明書付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 63273.75,
-      "t30d_units": 47.0
-    },
-    {
-      "asin": "B0FK4MGMHD",
-      "item_name": "2026最新 Google公式認証 スマートタグ エアタグ GPSトラッカー 紛失防止タグ 置き忘れ防止タグ 位置追跡 Google Find Hub対応 100db大音量 電池交換可能 鍵/財布/貴重品の追跡 2個セット",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 64635.66,
-      "t30d_units": 26.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1113134839702,
+      "merchant_name": "JUNOOT",
+      "asin": "B0G36J6WCN",
+      "item_name": "JUNOOT 電動昇降デスク 5年保証 4月30日まで返品可 耐荷重120kg 高さ62-127 幅99−160 スタンディングデスク ゲーミングデスク パソコンデスク 人間工学 天板なし 脚のみ",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 475300.0,
+      "t30d_units": 15.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

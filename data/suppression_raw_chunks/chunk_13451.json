@@ -1,166 +1,55 @@
 {
-  "864154881702": [
+  "864163257202": [
     {
-      "asin": "B0DFPHVSMJ",
-      "item_name": "コスモ食品 ビーフシチュー レトルト 直火焼き 牛肉 デミグラスソース 赤ワイン 簡易包装 箱なし アミノ酸等調味料不使用 長期保存 ストック食材 (10個, ビーフシチュー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 71312.76,
-      "t30d_units": 17.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 864163257202,
+      "merchant_name": "かがやきスマイル",
+      "asin": "B0F5NXFRG4",
+      "item_name": "エミル 美容液 エッセンシャルセラム ナイアシンアミド レチノール ヒアルロン酸 睡眠不足 ハリ ツヤ 毛穴",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 15534.66,
+      "t30d_units": 7.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0D8B2542D",
-      "item_name": "コスモ食品 ビーフカレー レトルト 直火焼き 飴色玉ねぎ 簡易包装 箱なし アミノ酸等調味料不使用 長期保存 ストック食材 (10個)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 4653.0,
-      "t30d_units": 1.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 864163257202,
+      "merchant_name": "かがやきスマイル",
+      "asin": "B0GFC17WTD",
+      "item_name": "エミル(emiru) クレンジングバーム モイスト 保湿 敏感肌 メイク落とし Ｗ洗顔不要 マツエクOK 時短 CICA ヒアルロン酸 毛穴 黒ずみ 80g",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 51547.58,
+      "t30d_units": 29.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0D93VXT91",
-      "item_name": "コスモ食品 バターチキンカレー レトルト 直火焼き 南部どり 北海道バター 簡易包装 箱なし アミノ酸等調味料不使用 長期保存 ストック食材 (10個)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 16574.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DJCVRY8G",
-      "item_name": "コスモ食品 罪なきチキンカレー レトルト 低糖質 高たんぱく グルテンフリー ロカボ 直火焼き 南部どり 簡易包装 箱なし アミノ酸等調味料不使用 長期保存 ストック食材 (3個)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 32331.75,
-      "t30d_units": 22.0
-    },
-    {
-      "asin": "B0DJCR73P7",
-      "item_name": "コスモ食品 りんごカレー ソース仕立て レトルト 直火焼き 果実 野菜 簡易包装 箱なし アミノ酸等調味料不使用 長期保存 ストック食材 (4個)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 3750.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DFP9PYLY",
-      "item_name": "コスモ食品 りんごカレー ソース仕立て レトルト 直火焼き 果実 野菜 簡易包装 箱なし アミノ酸等調味料不使用 長期保存 ストック食材 (10個)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": -2736.0,
-      "t30d_units": -1.0
-    },
-    {
-      "asin": "B0DFPMGSWB",
-      "item_name": "コスモ食品 ビーフシチュー レトルト 直火焼き 牛肉 デミグラスソース 赤ワイン 簡易包装 箱なし アミノ酸等調味料不使用 長期保存 ストック食材 (3個, ビーフシチュー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 63977.14,
-      "t30d_units": 44.0
-    },
-    {
-      "asin": "B0D89MQL8K",
-      "item_name": "コスモ食品 ビーフカレー レトルト 直火焼き 飴色玉ねぎ 簡易包装 箱なし アミノ酸等調味料不使用 長期保存 ストック食材 (3個)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 17440.41,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0D93V6BBR",
-      "item_name": "コスモ食品 バターチキンカレー レトルト 直火焼き 南部どり 北海道バター 簡易包装 箱なし アミノ酸等調味料不使用 長期保存 ストック食材 (3個)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 14527.37,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0DJCTN8HM",
-      "item_name": "コスモ食品 牡蠣クリームシチュー レトルト 銀のクリームシチュー・ルー使用 直火焼き 広島県産かき 北海道産生クリーム 簡易包装 箱なし アミノ酸等調味料不使用 長期保存 ストック食材 (3個, 牡蠣クリームシチュー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 15987.53,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0DJCW25FY",
-      "item_name": "コスモ食品 罪なきチキンカレー レトルト 低糖質 高たんぱく グルテンフリー ロカボ 直火焼き 南部どり 簡易包装 箱なし アミノ酸等調味料不使用 長期保存 ストック食材 (10個)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 35018.25,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0DJCSHZFK",
-      "item_name": "コスモ食品 牡蠣クリームシチュー レトルト 銀のクリームシチュー・ルー使用 直火焼き 広島県産かき 北海道産生クリーム 簡易包装 箱なし アミノ酸等調味料不使用 長期保存 ストック食材 (10個, 牡蠣クリームシチュー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 21207.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0DFP99KTR",
-      "item_name": "コスモ食品 ごろっとチキンの クリームシチュー レトルト 直火焼き 南部どり 北海道産生クリーム 簡易包装 箱なし アミノ酸等調味料不使用 長期保存 ストック食材 (3個, クリームシチュー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 89370.91,
-      "t30d_units": 61.0
-    },
-    {
-      "asin": "B0DFPXNQTG",
-      "item_name": "コスモ食品 ごろっとチキンの クリームシチュー レトルト 直火焼き 南部どり 北海道産生クリーム 簡易包装 箱なし アミノ酸等調味料不使用 長期保存 ストック食材 (10個, クリームシチュー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 45898.43,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0DBZP8T9B",
-      "item_name": "コスモ食品 グリーンカレー レトルト 直火焼き エスニック 南部どり 激辛 簡易包装 箱なし 保存料不使用 長期保存 ストック食材 (3個)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0DBZSYFHM",
-      "item_name": "コスモ食品 トマトカレー レトルト 直火焼き 南部どり 簡易包装 箱なし アミノ酸等調味料不使用 長期保存 ストック食材 (3個)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 1460.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DBZR4L49",
-      "item_name": "コスモ食品 トマトカレー レトルト 直火焼き 南部どり 簡易包装 箱なし アミノ酸等調味料不使用 長期保存 ストック食材 (10個)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 4866.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DBZS44LG",
-      "item_name": "コスモ食品 グリーンカレー レトルト 直火焼き エスニック 南部どり 激辛 簡易包装 箱なし 保存料不使用 長期保存 ストック食材 (10個)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 864163257202,
+      "merchant_name": "かがやきスマイル",
+      "asin": "B0DBPXCGQN",
+      "item_name": "エミル(emiru) クレンジングバーム N 保湿 敏感肌 メイク落とし Ｗ洗顔不要 マツエクOK 毛穴 黒ずみ レチノール CICA 無添加 80g",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 80187.33,
+      "t30d_units": 37.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,13 +1,55 @@
 {
-  "56858917322": [
+  "56861639122": [
     {
-      "asin": "B07GH9H1CY",
-      "item_name": "E EGOWAY Surface Pro 充電器 65W Microsoft Surface 5V 4A AC電源アダプター 充電器 充電ケーブル 互換性 Surface Pro X 7 6 5 4 3 Surface Laptop 3 2 1 Surface Book Surface Go に対応 ウォールプラグと1.8m(6フィート)の電源コードが付属 PSE認証 (65W)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 655581.84,
-      "t30d_units": 219.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 56861639122,
+      "merchant_name": "AOLEM-JP",
+      "asin": "B0G6Z8Y5GV",
+      "item_name": "ふくらはぎケア【革新のEMS＆TENS・空圧式・温熱機能】片足タイプ コードレス TYPE-C充電式 ３段階強度調節 ３段階エアー調節 ３段階温度調節 太ももケア 15分自動オフ オフィス用 家庭用 男女兼用 軽量 コンパクト 持ち運び便利 プレゼント クリスマス 誕生日 敬老日 母の日 父の日 日本語取扱説明",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 280677.2,
+      "t30d_units": 71.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 56861639122,
+      "merchant_name": "AOLEM-JP",
+      "asin": "B0GHY7MMN3",
+      "item_name": "首 リラクゼーション 首・肩・腰・背中・太もも・ふくらはぎ 6つのもみ玉 広範囲 2種類モード 3段階強度調節 2段階温熱機能 10分自動オフ 長さ調節可能 コードレス Type-C充電式 洗える布カバー 静音 コンパクト 操作簡単 男女兼用 家庭用 職場用 プレゼント 母の日 父の日 記念日 誕生日 クリスマス",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 114287.0,
+      "t30d_units": 13.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 56861639122,
+      "merchant_name": "AOLEM-JP",
+      "asin": "B0GJZZK9VH",
+      "item_name": "アイウォーマー 【空気圧2階段・中温/高温・ 振動・音楽】6つのモード ホットアイマスク 目元エステ エアバッグ グラフェン加熱 折り畳み式 メモリー機能 軽量 USB充電式 Bluetooth音楽 自動オフタイマー サイズ調節可能 男女兼用 自動オフタイマー 静音設定可 簡単操作 安眠 快眠 記念日 母の日 父の",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

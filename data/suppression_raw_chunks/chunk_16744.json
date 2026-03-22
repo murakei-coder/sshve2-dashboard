@@ -1,22 +1,21 @@
 {
-  "1165703383402": [
+  "1165739314602": [
     {
-      "asin": "B0GL2QYR1Y",
-      "item_name": "Gueray MP3プレーヤー Bluetooth5.0 32GB mp3プレイヤー スピーカー内蔵 1.8インチ デジタルオーディオプレーヤー 操作簡単 OTG機能 FMラジオ/写真/録音/電子ブック/アラーム 通勤通学/スポーツ/ランニング/ヨガ/言語学習などに適用 取扱説明書付き ブラック",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 19200.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0GFDT2L44",
-      "item_name": "Gueray MP3プレーヤー Bluetooth5.0 64GB mp3プレイヤー スピーカー内蔵 デジタルオーディオプレーヤー 1.8インチ 操作簡単 OTG機能 FMラジオ/写真/録音/電子ブック/アラーム 通勤通学/スポーツ/ランニング/ヨガ/言語学習などに適用 取扱説明書付き ホワイト",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 55881.0,
-      "t30d_units": 19.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1165739314602,
+      "merchant_name": "JAX株式会社",
+      "asin": "B0GGB6KNGY",
+      "item_name": "[PUPOFA] ゲーミングチェア オットマン付き PUレザー&ベロア生地 ファブリック 135°リクライニング ランバーサポート 在宅ワーク オフィス デスクチェア (黒)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 230511.0,
+      "t30d_units": 19.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

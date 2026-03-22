@@ -1,391 +1,72 @@
 {
-  "1037114005802": [
+  "1037117129102": [
     {
-      "asin": "B0FHGY6CTG",
-      "item_name": "【公式】BLACKDOG キャリーワゴン 専用天板付き容量100L・使用荷重120kg ワンタッチ収束型 自立式 アウトドアワゴン キャンプ カート 山亘",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 202070.33,
-      "t30d_units": 29.0
-    },
-    {
-      "asin": "B0FMR6TW3F",
-      "item_name": "【公式】BLACKDOG ワンタッチテント 影裏2.0 ポップアップテント サンシェードテント 3-4人用 ビーチ 運動会 公園 キャンプ用品 アウトドア UVカット 設営簡単 防水 メッシュ窓付き 通気性に優れ お花見 防災用 耐水圧2000mm (拡張タープ(単体使用可能))",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 32700.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0G7S5XG1C",
-      "item_name": "BLACKDOG エアーテント 閑居air 3-5人用 240×240×170cmアウトドアキャンプ 設営簡単 UVカット 自立式 メッシュ+遮光2重層 防風 防水 通気性に優れ お花見 初心者向け",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 141833.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0FGH2HJRJ",
-      "item_name": "【公式】BLACKDOG 着替テント ポップアップテント サンシェード UVカット 非常用トイレ シャワールーム 更衣室 キャンプ 釣り 防災 収納袋付き",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F29H252K",
-      "item_name": "BLACKDOG レジャーシート 200×200cm 表面防撥水 裏面防水 200g綿充填 厚手 テントマット インナーシート 一体型で携帯便利 オリジナルデザイン (夢紡ぎ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 58200.0,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0FH4BK31L",
-      "item_name": "【公式】BLACKDOG ワンタッチテント 閑居2.4-TB BU素材 アウトドアキャンプ 設営簡単 uvカット 自立式 2重層 耐水圧3000mm UVカット 設営簡単 防風 防水 防虫対策 メッシュ窓付き 通気性に優れ お花見 防災用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 27960.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FS1GGJ95",
-      "item_name": "【公式】BLACKDOG エアーベッド 200×150×25/40cm 電動ポンプ内蔵 ワンタッチで自動膨張/空気抜け エアーマット キャンプ用品 収納袋付き 日本語取扱書 来客/車中泊/引越し/防災/アウトドア (カーキ, 190*100*25cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 258461.55,
-      "t30d_units": 53.0
-    },
-    {
-      "asin": "B0DY7RR8FL",
-      "item_name": "【公式】BLACKDOG テント ワンタッチ 幽居 3～4人用 BU素材 アウトドアキャンプ 設営簡単 uvカット 自立式 2重層 耐水圧 3000mm UVカット 防風 防水 防虫対策 メッシュ窓付き 通気性に優れ お花見 防災用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 44940.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FPFFJ8RX",
-      "item_name": "【公式】BLACKDOG 封筒型寝袋 (1.0KG)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 20860.33,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0F29KYR3N",
-      "item_name": "BLACKDOG レジャーシート 200×200cm 表面防撥水 裏面防水 200g綿充填 厚手 テントマット インナーシート 一体型で携帯便利 オリジナルデザイン (夜の庭)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 27159.66,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0FBV9RCS2",
-      "item_name": "【公式】BLACKDOG ワンタッチテント 影裏2.0 ポップアップテント サンシェードテント 3-4人用 ビーチ 運動会 公園 キャンプ用品 アウトドア UVカット 設営簡単 防水 メッシュ窓付き 通気性に優れ お花見 防災用 耐水圧2000mm",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 11980.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FFT213WH",
-      "item_name": "【公式】BLACKDOG キャリーワゴン 容量160L・使用荷重100kg ワンタッチ収束型 自立式 アウトドアワゴン キャンプ カート 陸鯨 おしゃれ (お花)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 31920.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0F4CB9K3Q",
-      "item_name": "【公式】BLACKDOG テント ワンタッチ 3～4人用 閑居2.1 BU素材 アウトドアキャンプ 設営簡単 uvカット 自立式 2重層 耐水圧3000mm UVカット 設営簡単 防風 防水 防虫対策 メッシュ窓付き 通気性に優れ お花見 防災用",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 46899.33,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0FN3QVCGQ",
-      "item_name": "【公式】BLACKDOG エアーベッド 200×150×25/40cm 電動ポンプ内蔵 ワンタッチで自動膨張/空気抜け エアーマット キャンプ用品 収納袋付き 日本語取扱書 来客/車中泊/引越し/防災/アウトドア (シャンパン, 200*150*25cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 58820.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0F6CJK32H",
-      "item_name": "【公式】BLACKDOG 百式 IGT キャンプテーブル 折り畳み 4.5ユニット igt規格パネル天板 高さ41～62cm調節可能 アルミ材質 収納袋付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 276450.33,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0FH6JM5DH",
-      "item_name": "【公式】BLACKDOG 封筒型寝袋 (2.3KG)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 21120.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0FXLWLP6F",
-      "item_name": "【公式】BLACKDOG ランタン LED充電式 3600mAh IPX4防水 2色切替 無段階調光 キャンプ アウトドア 停電 防災",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 12400.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0F29J31KS",
-      "item_name": "BLACKDOG レジャーシート 200×200cm 表面防撥水 裏面防水 200g綿充填 厚手 テントマット インナーシート 一体型で携帯便利 オリジナルデザイン (花結び)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 50087.37,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0FXLQF96H",
-      "item_name": "【公式】BLACKDOG ランタン キャンプライト 多機能 LED ソーラー‌太陽光発電/USB-C充電 2色切替 懐中電灯機能付き 小型伸縮式 アウトドア/室内用 登山 夜釣り 防災 停電 緊急 非常用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 62938.79,
-      "t30d_units": 37.0
-    },
-    {
-      "asin": "B0FN3LN8G8",
-      "item_name": "【公式】BLACKDOG エアーベッド 200×150×25/40cm 電動ポンプ内蔵 ワンタッチで自動膨張/空気抜け エアーマット キャンプ用品 収納袋付き 日本語取扱書 来客/車中泊/引越し/防災/アウトドア (シャンパン, 200*150*40cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 83027.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0FZGTFTG1",
-      "item_name": "BLACKDOG 焚き火台 折りたたみ式 薪グリル 収納袋付き キャンプ アウトドア 薪台 鉄製 組み立てやすい 手入れ簡単 大型",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 182885.0,
-      "t30d_units": 24.0
-    },
-    {
-      "asin": "B0F29HFS9G",
-      "item_name": "BLACKDOG レジャーシート 200×200cm 表面防撥水 裏面防水 200g綿充填 厚手 テントマット インナーシート 一体型で携帯便利 オリジナルデザイン (宝蓮華)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 15520.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0F29HRPP8",
-      "item_name": "BLACKDOG レジャーシート 200×200cm 表面防撥水 裏面防水 200g綿充填 厚手 テントマット インナーシート 一体型で携帯便利 オリジナルデザイン (共振)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 22380.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0F28WFTGJ",
-      "item_name": "【公式】BLACKDOG アウトドア チェア キャンプ 椅子 耐荷重100kg 折りたたみ コンパクト 収納袋付き ハイキング お釣り 登山",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": -4940.0,
-      "t30d_units": -3.0
-    },
-    {
-      "asin": "B0F7PSYFSC",
-      "item_name": "BLACKDOG レジャーシート 防水 ピクニックマット 145×200cm 3～6人用 折りたたみ 防湿 コンパクト収納 携帯便利 オシャレ お花見 運動会 ビーチ アウトドア (ブラウン)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0F7PMFVYN",
-      "item_name": "BLACKDOG レジャーシート 防水 ピクニックマット 145×200cm 3～6人用 折りたたみ 防湿 コンパクト収納 携帯便利 オシャレ お花見 運動会 ビーチ アウトドア (カーキ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 5340.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FS6J42N9",
-      "item_name": "BLACKDOG 折り畳み椅子 アウトドアチェア コンパクト 持ち運び便利 アルミ合金 キャンプ ハイキング 行列用 （ブラック）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 10680.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0FH6H3C11",
-      "item_name": "【公式】BLACKDOG 封筒型寝袋 (1.8KG)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 25680.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0FJFX5XZQ",
-      "item_name": "【公式】BLACKDOG 収納バッグ 30L ギアボックス アウトドア キャンプ ピクニック 大容量 折りたたみ式 工具バッグ メッシュポケット付き 持運び便利",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 54695.66,
-      "t30d_units": 14.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1037117129102,
+      "merchant_name": "fluche -フルーフェ-",
+      "asin": "B0F3PDPMJJ",
+      "item_name": "[fluche] スマホストラップ 携帯ストラップ スマホショルダー ストラップ スマホ 首掛け 肩掛け 斜めがけ 長さ調節可能 85～135cm ショルダー ネック 首かけ 肩かけ 紛失・落下・盗難防止 ロング 便利 iPhone Android 1本+タグパッチ1枚入り (ホワイトベージュ)",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": 3638.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FFT4MDWK",
-      "item_name": "【公式】BLACKDOG キャリーワゴン 容量160L・使用荷重100kg ワンタッチ収束型 自立式 アウトドアワゴン キャンプ カート 陸鯨 おしゃれ (クラシックライン)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 86180.0,
-      "t30d_units": 11.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1037117129102,
+      "merchant_name": "fluche -フルーフェ-",
+      "asin": "B0F3PDVMXL",
+      "item_name": "[fluche] スマホストラップ 携帯ストラップ スマホショルダー ストラップ スマホ 首掛け 肩掛け 斜めがけ 長さ調節可能 85～135cm ショルダー ネック 首かけ 肩かけ 紛失・落下・盗難防止 ロング 便利 iPhone Android 1本+タグパッチ1枚入り (ダークグレー)",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": 1380.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F29JQNSQ",
-      "item_name": "BLACKDOG レジャーシート 200×200cm 表面防撥水 裏面防水 200g綿充填 厚手 テントマット インナーシート 一体型で携帯便利 オリジナルデザイン (日の庭)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 3880.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1037117129102,
+      "merchant_name": "fluche -フルーフェ-",
+      "asin": "B0F3PDN398",
+      "item_name": "[fluche] スマホストラップ 携帯ストラップ スマホショルダー ストラップ スマホ 首掛け 肩掛け 斜めがけ 長さ調節可能 85～135cm ショルダー ネック 首かけ 肩かけ 紛失・落下・盗難防止 ロング 便利 iPhone Android 1本+タグパッチ1枚入り (スモッグブルー)",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": 1129.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FS1HBGKG",
-      "item_name": "【公式】BLACKDOG エアーベッド 200×150×25/40cm 電動ポンプ内蔵 ワンタッチで自動膨張/空気抜け エアーマット キャンプ用品 収納袋付き 日本語取扱書 来客/車中泊/引越し/防災/アウトドア (ブラック, 190*100*25cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 1607582.95,
-      "t30d_units": 350.0
-    },
-    {
-      "asin": "B0DYMH3VQJ",
-      "item_name": "【公式】BLACKDOG テント ワンタッチ 4～5人用 閑居2.4 BU素材 アウトドアキャンプ 設営簡単 uvカット 自立式 2重層 耐水圧 3000mm UVカット 設営簡単 防風 防水 防虫対策 メッシュ窓付き 通気性に優れ お花見 防災用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 64900.33,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0F4R2B4VJ",
-      "item_name": "【公式】 BLACKDOG 折りたたみ椅子＆デスク 2点セット 2025 意匠権獲得 一体型 キャンプ アウトドア用品 コンパクト 携帯しやすい 高さ調節",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 29960.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0DYDRSVT7",
-      "item_name": "【公式】BLACKDOG キャリーワゴン 岳影Pro ワンタッチ収束型 150L 耐荷重180kg ブレーキ付 10CM大型タイヤ コンパクト アウトドアキャンプカート 釣り 運動会 荷物運び",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 69860.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0FDBKGLCF",
-      "item_name": "【公式】IGTテーブル 折り畳み式 3ユニット卓板 組立不要 軽量アルミ製 高さ46～64cm調節可能 耐荷重120kg igt対応 キャンプテーブル アウトドアテーブル",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 228371.8,
-      "t30d_units": 33.0
-    },
-    {
-      "asin": "B0GJCY5FSQ",
-      "item_name": "【公式】BLACKDOG ワンタッチ テント 2ルーム 星追い13 大型 2～8人用 UPF50+ キャンプ 設営簡単 uvカット 自立式 耐水圧PU3000 4つの前室 初心者向け 前室ポール付き キャンピング アウトドア ファミリー お花見 収納袋付き",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 39980.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F7PJJG2Y",
-      "item_name": "BLACKDOG レジャーシート 防水 ピクニックマット 145×200cm 3～6人用 折りたたみ 防湿 コンパクト収納 携帯便利 オシャレ お花見 運動会 ビーチ アウトドア (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 1780.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FP5D55CR",
-      "item_name": "【公式】BLACKDOG エアーベッド 200×150×25/40cm 電動ポンプ内蔵 ワンタッチで自動膨張/空気抜け エアーマット キャンプ用品 収納袋付き 日本語取扱書 来客/車中泊/引越し/防災/アウトドア (ブラック, 200*150*25cm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 678851.28,
-      "t30d_units": 108.0
-    },
-    {
-      "asin": "B0FG77W7PG",
-      "item_name": "【公式】BLACKDOG エアーベッド 200×150×25/40cm 電動ポンプ内蔵 ワンタッチで自動膨張/空気抜け エアーマット キャンプ用品 収納袋付き 日本語取扱書 来客/車中泊/引越し/防災/アウトドア (カーキ, 200*150*25cm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 125599.5,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0DYDD3S5R",
-      "item_name": "【公式】BLACKDOG ロッジ型テント 峯宛6.8 4-6人用 耐水圧5000mm 防風 遮光 UVカット UPF50+ 大型 設営簡単 前室ポール付き小屋型 キャンピング アウトドア ファミリー お花見 収納袋付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 151862.33,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0GF6BNNFQ",
-      "item_name": "BLACKDOG アイロンストーブ 焚き火 オイルランタン ステンレス鋼+真鍮製 キャンプ アウトドア バーナー 暖房 調理 照明 多用途（ハンドル付きバージョン）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 62600.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DYDW7CWG",
-      "item_name": "BLACKDOG タープ 天幕 弦月 アウトドアキャンプ用 防撥水 日除け/遮光/遮熱/軽量 UPF50+ 紫外線カット99% 150Dオックスフォード 黒ゴムコーテイング",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 6980.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1037117129102,
+      "merchant_name": "fluche -フルーフェ-",
+      "asin": "B0F3PD54TQ",
+      "item_name": "[fluche] スマホストラップ 携帯ストラップ スマホショルダー ストラップ スマホ 首掛け 肩掛け 斜めがけ 長さ調節可能 85～135cm ショルダー ネック 首かけ 肩かけ 紛失・落下・盗難防止 ロング 便利 iPhone Android 1本+タグパッチ1枚入り (ブラック)",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": 5255.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

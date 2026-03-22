@@ -1,31 +1,55 @@
 {
-  "1112436952302": [
+  "1112438897602": [
     {
-      "asin": "B0G2XR2DT8",
-      "item_name": "高圧洗浄機",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0GGB75N21",
-      "item_name": "加湿器 小型 卓上 【2026新モデル】 超音波式 上から給水 USB給電 超微細ミスト 260ML大容量 省エネ 空焚き防止 水漏れ防止 静音 7色LEDライト 乾燥/花粉対策 オフィス/寝室/車載/旅行用 プレゼント",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 106897.43,
-      "t30d_units": 66.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1112438897602,
+      "merchant_name": "フジ産業オンラインショップ",
+      "asin": "B0CM4VDNQS",
+      "item_name": "【公式】GAGGIA | ベサーナ Besana 全自動コーヒーエスプレッソマシン [メーカー保証1年] HD8651",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 287760.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FVFVTZYV",
-      "item_name": "[BOTISONE] 電熱ベスト【26箇所発熱・4区独立制御】ヒーターベスト DC/USB給電 3段階温度調整 急速発熱 防寒対策 男女兼用 軽量 省エネ 丸洗い可能 日本製繊維ヒーター 通勤通学/作業/釣り/ゴルフ用 （L）",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1112438897602,
+      "merchant_name": "フジ産業オンラインショップ",
+      "asin": "B0FRFZ1GRH",
+      "item_name": "【公式】WPM｜[ZP-1-BK] シングルドースグラインダー 電動コーヒーミル 無段階挽き目調整 (ブラック)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1112438897602,
+      "merchant_name": "フジ産業オンラインショップ",
+      "asin": "B0FRFSXBJM",
+      "item_name": "【公式】WPM｜[ZP-1-SL] シングルドースグラインダー 電動コーヒーミル 無段階挽き目調整 (シルバー)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,13 +1,72 @@
 {
-  "1140383903202": [
+  "1140479721902": [
     {
-      "asin": "B0FXL5Y26N",
-      "item_name": "1個セット 軽量 コンパクト",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1140479721902,
+      "merchant_name": "LongFlight-JP",
+      "asin": "B0FVXVWLR2",
+      "item_name": "LongFlight 携帯枕 ネックピロー 首枕 U型 空気枕 持ち運び便利 旅行枕 収納ポーチ付き 洗えるカバー 飛行機 コンパクト 車 夜行深夜バス 新幹線 ソファ 旅行用最適 (グレー)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 2018797.96,
+      "t30d_units": 1056.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1140479721902,
+      "merchant_name": "LongFlight-JP",
+      "asin": "B0FVXKP5LD",
+      "item_name": "LongFlight エアー 座布団 ポケット尻クッション レジャーシート 厚手 一人用 折りたたみマット 収納袋付き 携帯 お尻クッション 飛行機 夜行バス 山登り 観戦 花見 釣り 運動会 オフィス キャンプに最適 ダークグレー",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 281353.93,
+      "t30d_units": 156.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1140479721902,
+      "merchant_name": "LongFlight-JP",
+      "asin": "B0FVXKVFD9",
+      "item_name": "LongFlight 腰枕 腰痛 クッション 飛行機 エアー腰まくら 持ち運び便利 軽量 海外旅行 夜行バス 新幹線 快適グッズ 旅行 長距離移動 オフィス 背もたれ",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 242856.1,
+      "t30d_units": 147.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1140479721902,
+      "merchant_name": "LongFlight-JP",
+      "asin": "B0GDXRHRRP",
+      "item_name": "LongFlight 携帯枕 ネックピロー 首枕 U型 空気枕 持ち運び便利 旅行枕 収納ポーチ付き 洗えるカバー 飛行機 コンパクト 車 夜行深夜バス 新幹線 ソファ 旅行用最適 (ブラック)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 76415.91,
+      "t30d_units": 38.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

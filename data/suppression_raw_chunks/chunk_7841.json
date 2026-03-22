@@ -1,13 +1,55 @@
 {
-  "56553845322": [
+  "56576344122": [
     {
-      "asin": "B07ZLSH5F1",
-      "item_name": "シャンパンストッパー KLOVEO 特許取得済シール イタリア製 プログレード WAF シャンパンボトルストッパー プロセッコ カヴァ スパークリングワインストッパー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 777511.26,
-      "t30d_units": 226.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 56576344122,
+      "merchant_name": "Zanuo-JP",
+      "asin": "B0CZDRFN1H",
+      "item_name": "【2026年MFi認証品】iPhone hdmi変換ケーブル 1.5M ライトニング 接続ケーブル HDMI変換アダブタ TV/AV大画面 設定不要 1080P遅延なし 携帯の画面をテレビに映す 音声同期出力 1080P ライトニング ゲーム遅延なし日本語説明書",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 56435.0,
+      "t30d_units": 35.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 56576344122,
+      "merchant_name": "Zanuo-JP",
+      "asin": "B0C6QSYM57",
+      "item_name": "【2026新版 MFI認証】iPhone 充電ケーブル 純正 1M 4本セット 急速充電 高速データ転送 断線防止 アイホン 充電ケーブル Phone ケーブル 高耐久 for iPhone 14/ 13/ 12/ 11/ XS/XR/ 8/ 7/ 6s/ 6/ iPad Mini/Air 対応",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 312110.47,
+      "t30d_units": 377.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 56576344122,
+      "merchant_name": "Zanuo-JP",
+      "asin": "B09P4XRXXX",
+      "item_name": "iPhone 充電ケーブル 純正 2M 3本セット 急速充電 高速データ転送 断線防止 アイホン 充電ケーブル iPhone ケーブル 高耐久 Phone 13/ 13 Pro/ 13 Pro Max/ 12/ 11/ XS/XR/ 8/ 7/ 6s/ 6/ SE 2020 iPad Mini/Air 対応",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 220338.39,
+      "t30d_units": 268.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

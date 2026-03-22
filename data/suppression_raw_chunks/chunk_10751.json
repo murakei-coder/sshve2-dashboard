@@ -1,13 +1,72 @@
 {
-  "539887528002": [
+  "539897849002": [
     {
-      "asin": "B0BHSPLCBG",
-      "item_name": "国産 コンブチャ スターターキット ［伊勢志摩 KOMBUCHA SCOBY（コンブチャ スコビー 国産）］ （日本製 菌株スコビー・原液付/170g)〈日本語説明書付き〉",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 393373.82,
-      "t30d_units": 150.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 539897849002,
+      "merchant_name": "日用品専科（運営店：Seki's Shop）商標登録：第6912602号",
+      "asin": "B0GDBHF6CS",
+      "item_name": "【日本製・食品衛生法適合】おにぎりメーカー おにぎり押型 2ヶ取 小型 三角おにぎり型 おむすびメーカー 簡単 弁当 朝食 時短 調理器具 オフホワイト 日用品専科(3)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 8010.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 539897849002,
+      "merchant_name": "日用品専科（運営店：Seki's Shop）商標登録：第6912602号",
+      "asin": "B0G3K2WCFB",
+      "item_name": "【日本製・食品衛生法適合】おにぎりメーカー おにぎり押型 2ヶ取 小型 三角おにぎり型 おむすびメーカー 簡単 弁当 朝食 時短 調理器具 オフホワイト 日用品専科",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 116750.61,
+      "t30d_units": 91.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 539897849002,
+      "merchant_name": "日用品専科（運営店：Seki's Shop）商標登録：第6912602号",
+      "asin": "B0GDB4DN7Q",
+      "item_name": "【日本製・食品衛生法適合】おにぎりメーカー おにぎり押型 2ヶ取 小型 三角おにぎり型 おむすびメーカー 簡単 弁当 朝食 時短 調理器具 オフホワイト 日用品専科 (2)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 29700.0,
+      "t30d_units": 15.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 539897849002,
+      "merchant_name": "日用品専科（運営店：Seki's Shop）商標登録：第6912602号",
+      "asin": "B0GQJPTJ2J",
+      "item_name": "【SIAA抗菌・BPAフリー】しゃもじ くっつかない ごはんしゃもじ 炊飯器用 備長炭入り エンボス加工 ご飯がつきにくい 日本製 抗菌 日用品専科",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 7703.0,
+      "t30d_units": 11.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

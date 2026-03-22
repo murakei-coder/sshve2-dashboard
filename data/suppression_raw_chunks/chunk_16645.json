@@ -1,238 +1,38 @@
 {
-  "1154503677102": [
+  "1154609239602": [
     {
-      "asin": "B0G29RLN4Q",
-      "item_name": "KROCA シーリングライト LED 調光調色 リモコン おしゃれ アッパーライト 6畳 8畳 12畳 led 間接照明 ナイトライト 電気 常夜灯 北欧 明るい シーリングランプ 照明 LED 天井照明 ライト 木目調 リビング 子供部屋 寝室 玄関 廊下 和室 洋室 (ブラック, 8-12畳対応)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 3980.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1154609239602,
+      "merchant_name": "FUSSOP 本店",
+      "asin": "B0G8JSRC4L",
+      "item_name": "【盗難防止】テレビドアホン カメラ付き インターホン ドアベル 工事不要&Wi-Fi不要 2.4GHz無線 双方向音声会話 180°超広角 4.3インチIPSスクリーン ビデオインターホン 暗視機能 自動録画 USB充電式 800mAhバッテリー イン 超長時間スタンバイ 128GB microSDカード付属 家庭/オフィス/一人暮らし/高齢者宅に",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 104700.0,
+      "t30d_units": 15.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G359KFXG",
-      "item_name": "KROCA 布団カバー シングル 3点セット ストライプ 掛け布団カバー ボックスシーツ 枕カバー 吸湿速乾 しわになりにくい 北欧 おしゃれ ベッドシーツセット (ブルー, シングル)",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 45209.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0G35C7VHG",
-      "item_name": "KROCA 布団カバー シングル 4点セット ストライプ 掛け布団カバー ボックスシーツ 枕カバー 吸湿速乾 しわになりにくい 北欧 おしゃれ ベッドシーツセット (ブルー, ダブル)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 5613.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GH2FBSW3",
-      "item_name": "Kroca ペンダントライト おしゃれ 天井照明 吊り下げライト ダイニング 1灯 インテリア照明 北欧 ガラス LED照明器具 高さ調節可能 ダクトレール・引掛けシーリング対応 pendant light （電球別売り） (アンバー, ダクトプラグ-コード50cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 235.0,
-      "t30d_units": 47.0
-    },
-    {
-      "asin": "B0GH257ZV3",
-      "item_name": "Kroca ペンダントライト おしゃれ ダクトレール 照明 ダイニング 吊り下げライト 和室 トイレ 北欧 レトロ ガラス LED照明器具 ダクトレール ライト 高さ調節可能 取付簡単 pendant light （電球別売り） (クリア, ダクトプラグ-コード50cm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G358PWH4",
-      "item_name": "KROCA 布団カバー シングル 4点セット ストライプ 掛け布団カバー ボックスシーツ 枕カバー 吸湿速乾 しわになりにくい 北欧 おしゃれ ベッドシーツセット (ブラウン, セミダブル)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 36240.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0G22DLPYR",
-      "item_name": "クロカ(KROCA) 寝具カバーセット ダブル 4点セット 布団カバーセット 布団カバー シーツ 洋式ベッド・和式布団兼用 掛け布団カバー 枕カバー 洗い替え速乾タイプ ピーチスキン加工 ストライプ柄 オールシーズン",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 11297.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0G29SJJLD",
-      "item_name": "KROCA シーリングライト LED 調光調色 リモコン おしゃれ アッパーライト 6畳 8畳 12畳 間接照明 ナイトライト 電気 常夜灯 北欧 明るい シーリングランプ 照明 LED 天井照明 ライト 木目調 リビング 子供部屋 寝室 玄関 廊下 和室 洋室 (ホワイト, 8-12畳対応)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 23900.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0GH1SCWZW",
-      "item_name": "Kroca ペンダントライト おしゃれ ダクトレール 照明 ダイニング 吊り下げライト 和室 トイレ 北欧 レトロ ガラス LED照明器具 ダクトレール ライト 高さ調節可能 取付簡単 pendant light （電球別売り） (アンバー, ダクトプラグ-コード100cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G35DLN24",
-      "item_name": "KROCA 布団カバー シングル 4点セット ストライプ 掛け布団カバー ボックスシーツ 枕カバー 吸湿速乾 しわになりにくい 北欧 おしゃれ ベッドシーツセット (グリーン, セミダブル)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 9960.33,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0G4PC8X4Z",
-      "item_name": "歯ブラシスタンド 2個セット ステンレス製 歯ブラシホルダー 卓上型 水切り 清潔 省スペース 洗面所 バスルーム ペン立て メイクブラシ収納 KROCA トゥースブラシスタンド (Ｓ－2個)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G23Q7QHC",
-      "item_name": "布団カバー 3点セット シングル 布団カバーセット 和洋兼用 ベッド・敷布団対応 さらっと快適 洗濯可 掛け布団カバー 枕カバー 洗い替え速乾タイプ ピーチスキン加工 寝具カバーセット 新生活 ストライプ柄 オールシーズン",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 39029.66,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0G35BN4SG",
-      "item_name": "KROCA 布団カバー シングル 3点セット ボックスシーツ 掛け布団カバー ストライプ 枕カバー 吸湿速乾 しわになりにくい 北欧 おしゃれ ベッドシーツセット (ブラウン, シングル)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 61763.0,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0GH1WBWMX",
-      "item_name": "Kroca ペンダントライト おしゃれ 天井照明 吊り下げライト ダイニング 1灯 インテリア照明 北欧 ガラス LED照明器具 高さ調節可能 ダクトレール・引掛けシーリング対応 pendant light （電球別売り） (アンバー, 引掛けシーリング-コード50cm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 5307.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0G3589V82",
-      "item_name": "KROCA 布団カバー シングル 4点セット ストライプ 掛け布団カバー ボックスシーツ 枕カバー 吸湿速乾 しわになりにくい 北欧 おしゃれ ベッドシーツセット (グリーン, ダブル)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0GH1ZYGMR",
-      "item_name": "Kroca ペンダントライト おしゃれ 天井照明 吊り下げライト ダイニング 1灯 インテリア照明 北欧 ガラス LED照明器具 高さ調節可能 ダクトレール・引掛けシーリング対応 pendant light （電球別売り） (グレー, ダクトプラグ-コード50cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 50819.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0G359YK56",
-      "item_name": "KROCA 布団カバー シングル 4点セット ストライプ 掛け布団カバー ボックスシーツ 枕カバー 吸湿速乾 しわになりにくい 北欧 おしゃれ ベッドシーツセット (ブラウン, ダブル)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 11476.0,
-      "t30d_units": 52.0
-    },
-    {
-      "asin": "B0GH23MDG3",
-      "item_name": "Kroca ペンダントライト おしゃれ 天井照明 吊り下げライト ダイニング 1灯 インテリア照明 北欧 ガラス LED照明器具 高さ調節可能 ダクトレール・引掛けシーリング対応 pendant light （電球別売り） (クリア, ダクトプラグ-コード100cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GH1W2X59",
-      "item_name": "Kroca ペンダントライト おしゃれ シーリング対応 ダイニング 吊り下げ照明 ガラス 吊り下げライト 1灯 トイレ 玄関 北欧 モダン レトロ 和室 LED照明器具 高さ調節可能 pendant light （電球別売り） (アンバー, 引掛けシーリング-コード100cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 9693.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GH1PF25S",
-      "item_name": "Kroca ペンダントライト おしゃれ 天井照明 吊り下げライト ダイニング 1灯 インテリア照明 北欧 ガラス LED照明器具 高さ調節可能 ダクトレール・引掛けシーリング対応 pendant light （電球別売り） (クリア, 引掛けシーリング-コード100cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 22320.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0GH1ZJNS9",
-      "item_name": "Kroca ペンダントライト おしゃれ 天井照明 吊り下げライト ダイニング 1灯 インテリア照明 北欧 ガラス LED照明器具 高さ調節可能 ダクトレール・引掛けシーリング対応 pendant light （電球別売り） (クリア, 引掛けシーリング-コード50cm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 10888.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GH1ZLRWZ",
-      "item_name": "Kroca ペンダントライト おしゃれ シーリング対応 ダイニング 吊り下げ照明 ガラス 吊り下げライト 1灯 トイレ 玄関 北欧 モダン レトロ 和室 LED照明器具 高さ調節可能 pendant light （電球別売り） (グレー, 引掛けシーリング-コード100cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 21253.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0G358GG7T",
-      "item_name": "KROCA 布団カバー シングル 3点セット ストライプ 掛け布団カバー ボックスシーツ 枕カバー 吸湿速乾 しわになりにくい 北欧 おしゃれ ベッドシーツセット (グリーン, シングル)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 35457.75,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0G358PWH3",
-      "item_name": "KROCA 布団カバー シングル 4点セット ストライプ 掛け布団カバー ボックスシーツ 枕カバー 吸湿速乾 しわになりにくい 北欧 おしゃれ ベッドシーツセット (ブルー, セミダブル)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 25807.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0GH1YNMLG",
-      "item_name": "Kroca ペンダントライト おしゃれ ダクトレール 照明 ダイニング 吊り下げライト 和室 トイレ 北欧 レトロ ガラス LED照明器具 ダクトレール ライト 高さ調節可能 取付簡単 pendant light （電球別売り） (グレー, ダクトプラグ-コード100cm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 32973.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0GH1T4LSV",
-      "item_name": "Kroca ペンダントライト おしゃれ 天井照明 吊り下げライト ダイニング 1灯 インテリア照明 北欧 ガラス LED照明器具 高さ調節可能 ダクトレール・引掛けシーリング対応 pendant light （電球別売り） (グレー, 引掛けシーリング-コード50cm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 5307.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1154609239602,
+      "merchant_name": "FUSSOP 本店",
+      "asin": "B0GFHNSF8Z",
+      "item_name": "テレビドアホン カメラ付き インターホン 工事不要【全身確認可能・180°超広角】スマートドアホン ビデオドアベル 双方向音声会話 自動録画 長距離無線ドアホン 2.4GHz無線 WI-FI不要 暗視機能 玄関チャイム 屋外/室内 大容量バッテリー 充電式 長時間連続使用128GB microSDカード付属 防犯カメラ 家庭/",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 222450.22,
+      "t30d_units": 32.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

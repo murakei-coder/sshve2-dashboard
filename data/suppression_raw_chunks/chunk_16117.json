@@ -1,121 +1,38 @@
 {
-  "1124345453302": [
+  "1124359372502": [
     {
-      "asin": "B0FFH5YWDM",
-      "item_name": "FOSMET スマートウォッチ R1【2026新モデル・AMOLED常時表示】1.32インチサファイアガラス Bluetooth通話・メッセージ通知 最大14日連続使用 IP68防水 睡眠管理 100種スポーツモード カスタマイズ文字盤 GPS連携 4PDセンサー ベルド2本 iPhone&Android対応 TELEC認証済 シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1360035.78,
-      "t30d_units": 146.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1124359372502,
+      "merchant_name": "mcfacesun-jp",
+      "asin": "B0GFG66T4B",
+      "item_name": "街灯 ソーラー 屋外 24000LM ソーラーライト 防水 6500K IP66 外灯 ソーラー センサーライト モーションセンサー付き 夕暮れから夜明けまで LED 街路灯 取り付け簡単 1 個パック",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FT2RGRYZ",
-      "item_name": "FOSMET スマートウォッチ P1【2026新モデル·バッテリー最強】30日間連続使用 待機時間100日 Bluetooth通話機能 メッセージ通知 1.85インチHD大画面 IP68防水 1500nit高輝度 smart watch カスタマイズ文字盤 120種類の運動モード 軽量28g カスタマイズ文字盤 天気予報 スマートウォッチ iPhoneとアンドロイド対応 TELEC",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 149372.21,
-      "t30d_units": 25.0
-    },
-    {
-      "asin": "B0FX2WF1ZM",
-      "item_name": "FOSMET G2 スマートウォッチ レディース【2026年おしゃれな時計】AMOLEDディスプレイ Bluetooth通話 常時表示 1.19インチ 最大7日間連続使用 着信通知 カスタマイズ文字盤 iOS/Android対応 音楽・カメラ制御 110種類運動モード 日本語対応 ベルト2本付き TELEC認証済み ゴールド",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 2178059.43,
-      "t30d_units": 359.0
-    },
-    {
-      "asin": "B0FB84XGWL",
-      "item_name": "FOSMET P1 スマートウォッチ【2025新型·バッテリー最強】100日間スタンバイ 30日間連続使用 Bluetooth通話機能 1.85インチHD大画面 IP68防水 1500nit高輝度 明るさ調整 メッセージ通知 睡眠管理 120種類の運動モード 音楽再生 軽量28g 多種類文字盤 天気予報 スマートウォッチ iPhoneとアンドロイド対応 TELEC認証",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 32390.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0FWCDJV1H",
-      "item_name": "FOSMET スマートウォッチ P1【2026新モデル·バッテリー最強】30日間連続使用 待機時間100日 Bluetooth通話機能 メッセージ通知 1.85インチHD大画面 IP68防水 1500nit高輝度 smart watch カスタマイズ文字盤 120種類の運動モード 軽量28g カスタマイズ文字盤 天気予報 スマートウォッチ iPhoneとアンドロイド対応 TELEC",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 912048.79,
-      "t30d_units": 155.0
-    },
-    {
-      "asin": "B0FWQPD5TD",
-      "item_name": "FOSMET AIボイスレコーダー Rec10 自動文字起こし/要約/マインドマップ GPT-4.0/GPT-4.1/O3-mini三つのAIモデル搭載 35時間連続使用 30種以上のテンプレート ワンタッチ録音 118言語対応 64GB大容量 発言者識別 Bluetooth接続 通常・通話録音モード スマホとPC対応 会議/授業/インタービューなどに適用",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 188519.0,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0FWC6LVGY",
-      "item_name": "FOSMET スマートウォッチ P1【2026新モデル·バッテリー最強】30日間連続使用 待機時間100日 Bluetooth通話機能 メッセージ通知 1.85インチHD大画面 IP68防水 1500nit高輝度 smart watch カスタマイズ文字盤 120種類の運動モード 軽量28g カスタマイズ文字盤 天気予報 スマートウォッチ iPhoneとアンドロイド対応 TELEC",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1069419.42,
-      "t30d_units": 181.0
-    },
-    {
-      "asin": "B0F9YPBHL5",
-      "item_name": "FOSMET P1 スマートウォッチ【2025新モデル·バッテリー最強】100日間スタンバイ 30日間連続使用 Bluetooth通話機能 1.85インチHD大画面 IP68防水 1500nit高輝度 明るさ調整 メッセージ通知 睡眠管理 120種類の運動モード 音楽再生 軽量28g 多種類文字盤 天気予報 スマートウォッチ iPhoneとアンドロイド対応 TELEC",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 17110.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FFH5T8CF",
-      "item_name": "FOSMET スマートウォッチ R1【2026新モデル・AMOLED常時表示】1.32インチサファイアガラス Bluetooth通話・メッセージ通知 最大14日連続使用 IP68防水 睡眠管理 100種スポーツモード カスタマイズ文字盤 GPS連携 4PDセンサー ベルド2本 iPhone&Android対応 TELEC認証済 ブラック",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1979861.76,
-      "t30d_units": 209.0
-    },
-    {
-      "asin": "B0FH9SZQ1N",
-      "item_name": "FOSMET G1スマートウォッチ レディース 1.27インチ 丸型 iphone対応 アンドロイド対応 IP68防水 Bluetooth5.3 音楽 カメラ制御 着信通知 睡眠管理 通話機能付き 文字盤自由設定 110種類以上の運動モード 付属ベルト2本 日本語説明書付き TELEC認証取得済 シルバー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 108044.0,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0FT2SNCFJ",
-      "item_name": "FOSMET スマートウォッチ P1【2026新モデル·バッテリー最強】30日間連続使用 待機時間100日 Bluetooth通話機能 メッセージ通知 1.85インチHD大画面 IP68防水 1500nit高輝度 smart watch カスタマイズ文字盤 120種類の運動モード 軽量28g カスタマイズ文字盤 天気予報 スマートウォッチ iPhoneとアンドロイド対応 TELEC",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 192425.83,
-      "t30d_units": 31.0
-    },
-    {
-      "asin": "B0FT2RFMRG",
-      "item_name": "FOSMET スマートウォッチ P1【2026新モデル·バッテリー最強】30日間連続使用 待機時間100日 Bluetooth通話機能 メッセージ通知 1.85インチHD大画面 IP68防水 1500nit高輝度 smart watch カスタマイズ文字盤 120種類の運動モード 軽量28g カスタマイズ文字盤 天気予報 スマートウォッチ iPhoneとアンドロイド対応 TELEC",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 171976.0,
-      "t30d_units": 28.0
-    },
-    {
-      "asin": "B0FX2VSRQ1",
-      "item_name": "FOSMET G2 スマートウォッチ レディース【2026年おしゃれな時計】AMOLEDディスプレイ Bluetooth通話 常時表示 1.19インチ 最大7日間連続使用 着信通知 カスタマイズ文字盤 iOS/Android対応 音楽・カメラ制御 110種類運動モード 日本語対応 ベルト2本付き TELEC認証済み シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1070092.99,
-      "t30d_units": 178.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1124359372502,
+      "merchant_name": "mcfacesun-jp",
+      "asin": "B0GFFVH9ZY",
+      "item_name": "街灯 ソーラー 屋外 5000LM ソーラーライト 防水 6500K IP66 外灯 ソーラー モーションセンサー付き 夕暮れから夜明けまで LED 街路灯 屋外ライト 取り付け簡単 2 個パック",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 19998.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

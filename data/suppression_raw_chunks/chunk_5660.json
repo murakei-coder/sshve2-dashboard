@@ -1,22 +1,38 @@
 {
-  "19413117522": [
+  "19428635622": [
     {
-      "asin": "B0DR2FRPGZ",
-      "item_name": "ヘアアイロン ２WAY カール／ストレートアイロン やけど防止 24mmプレート プロ仕様 160℃~210℃ 3段階温度調節 50秒立ち上がり 持ち運び便利 男女兼用 家庭/旅行/出張/通勤用/贈り物 (ホワイト)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 159513.32,
-      "t30d_units": 58.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 19428635622,
+      "merchant_name": "FAG KK",
+      "asin": "B07TZQ72SP",
+      "item_name": "Unitree (ユニツリー) PUMP Pro パンプ プロ スマート ポケットジム 【日本規格認証済み 正規品】 アプリ連携 牽引力設定可能 自宅 電動 ダンベル 筋トレグッズ 運動器具 トレーニングマシン ダイエット (Pro/20kgまで/ネイビー)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 995080.33,
+      "t30d_units": 32.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DR29SMBK",
-      "item_name": "ヘアアイロン ２WAY カール／ストレートアイロン やけど防止 24mmプレート プロ仕様 160℃~210℃ 3段階温度調節 50秒立ち上がり 持ち運び便利 男女兼用 家庭/旅行/出張/通勤用/贈り物 (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 118442.0,
-      "t30d_units": 42.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 19428635622,
+      "merchant_name": "FAG KK",
+      "asin": "B0DLNWZXXK",
+      "item_name": "UNITREE PUMP PRO ホワイト 限定色 20kgまで 電動 ポケットジム 【日本規格認証済み 正規品】 アプリ連携 牽引力設定可能 トレーニング器具 自宅 電動 ダンベル 筋トレグッズ 運動器具 トレーニングマシン ダイエット器具",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

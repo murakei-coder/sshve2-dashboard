@@ -1,139 +1,38 @@
 {
-  "1178363459602": [
+  "1178414527802": [
     {
-      "asin": "B0FYFNKVGZ",
-      "item_name": "【公式】フリー(FULLY) マスクパック 【パック PDRN ヒアルロン酸 毛穴 保湿 スキンケア 韓国コスメ 】 (ハトムギナイアシンアミドパック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1178414527802,
+      "merchant_name": "【公式】XINS ペットショップ",
+      "asin": "B0G5QVVLDH",
+      "item_name": "ペットアンドミー Pet&me ペットシーツ 超吸収 消臭【厚型 プレミアム仕様】レギュラー 33×45cm 3回吸収タイプ 60枚入",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 483404.05,
+      "t30d_units": 542.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FNN22S24",
-      "item_name": "【公式】フリー(FULLY) クレイマスククレンザー 120ml【洗顔 毛穴ケア 保湿 ビタミン クレンジング 韓国コスメ】 (米PDRN)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 232421.15,
-      "t30d_units": 102.0
-    },
-    {
-      "asin": "B0G1BM8VTT",
-      "item_name": "FULLY (フリー) 米セラミドウォーターサンクリーム",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 13860.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0FNMW5L3V",
-      "item_name": "【公式】フリー(FULLY) クレイマスククレンザー 120ml【洗顔 毛穴ケア 保湿 ビタミン クレンジング 韓国コスメ】 (レッドトマト)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 31920.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0FGH5Y72X",
-      "item_name": "FULLY (フリー) グリーントマトクレンジングオイル",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CPDBW579",
-      "item_name": "【公式】フリー(FULLY) クレイマスククレンザー 120ml【洗顔 毛穴ケア 保湿 ビタミン クレンジング 韓国コスメ】(グリーントマト)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 983858.31,
-      "t30d_units": 438.0
-    },
-    {
-      "asin": "B0DKF9WJSB",
-      "item_name": "【公式】フリー(FULLY) マスクパック 【パック PDRN ヒアルロン酸 毛穴 保湿 スキンケア 韓国コスメ 】 (米モデリングマスク)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 5940.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0GGNFJLCZ",
-      "item_name": "【公式】フリー(FULLY) 米セラミドハイドロゲルマスク 【パック PDRN ヒアルロン酸 毛穴 保湿 スキンケア 韓国コスメ 】31g 4個",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 2280.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CPDC2RTV",
-      "item_name": "[FULLY] グリーントマトクリーム 90ml [フリィー] 韓国コスメ Green tomato cream",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 89589.15,
-      "t30d_units": 34.0
-    },
-    {
-      "asin": "B0FPMKMH1X",
-      "item_name": "【公式】フリー(FULLY) レモンビタバブルセラム【美容液 ビタミンc ナイアシンアミド 毛穴 リポソーム スキンケア 韓国コスメ 】",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 4430.83,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GGB6SG1D",
-      "item_name": "【公式】フリー(FULLY) グリーントマトジェラートパッククレンザー【クレンジング 米粉 毛穴 パック 毛穴ケア 韓国コスメ 】",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 2280.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CPLQPK34",
-      "item_name": "【公式】フリー(FULLY) トナー【化粧水 毛穴 保湿 毛穴ケア スキンケア 韓国コスメ 】 (グリーントマト)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 37533.82,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0CPDD17BB",
-      "item_name": "[FULLY] グリーントマト セラム 30ml [フリー] 韓国コスメ Green tomato serum",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 32719.16,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0F6BSXWHQ",
-      "item_name": "[FULLY] クリーム 90ml [フリィー] (米セラミドカプセル)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 50460.99,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B0F6CBVQN6",
-      "item_name": "【公式】フリー(FULLY) 米セラミドエッセンストナー【化粧水 ヒアルロン酸 毛穴 保湿 毛穴ケア スキンケア 韓国コスメ 】",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 217286.89,
-      "t30d_units": 95.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1178414527802,
+      "merchant_name": "【公式】XINS ペットショップ",
+      "asin": "B0G5QQ2N8T",
+      "item_name": "ペットアンドミー Pet&me ペットシーツ 超吸収 消臭【厚型 プレミアム仕様】 ワイドサイズ 45×60cm 3回吸収タイプ 30枚入",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 546338.57,
+      "t30d_units": 634.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

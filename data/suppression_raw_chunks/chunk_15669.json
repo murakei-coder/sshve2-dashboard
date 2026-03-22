@@ -1,22 +1,21 @@
 {
-  "1104609965002": [
+  "1104699903202": [
     {
-      "asin": "B0GCZBXXVB",
-      "item_name": "ハンディクリーナー 車用掃除機 RapAir VC28 20000paの吸引力/コードレス/充電式/軽量設計/大容量バッテリー/急速充電/簡単ゴミ捨て/最大40分連続使用/3段階モード4-IN-1多機能 強力ハンディ掃除機 【コンパクトサイズ/チャージャー/ブラシノズル/ホースノズル付属】正規品12か月品質保証 車、家、オフィ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FPLYL7RX",
-      "item_name": "ハンディクリーナー 車用掃除機 RapAir VC28 20000paの吸引力/コードレス/充電式/軽量設計/大容量バッテリー/急速充電/簡単ゴミ捨て/最大40分連続使用/3段階モード4-IN-1多機能 強力ハンディ掃除機 【コンパクトサイズ/チャージャー/ブラシノズル/ホースノズル付属】正規品12か月品質保証 車、家、オフィ",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 418880.47,
-      "t30d_units": 51.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1104699903202,
+      "merchant_name": "Junhang2025",
+      "asin": "B0GH1PPRDD",
+      "item_name": "IOFVSSIドライヤー大風量 ドライヤー 速乾 高濃度マイナスイオン搭載 3段階温度調節 冷風/熱風 65dB低騒音 過熱保護機能 ノズル付き ツヤ髪 美髪 静電気除去 PSE認証済み（ローズレッド）",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 663427.9,
+      "t30d_units": 44.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

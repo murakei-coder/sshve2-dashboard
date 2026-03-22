@@ -1,85 +1,38 @@
 {
-  "47788959522": [
+  "47806548422": [
     {
-      "asin": "B0919DR8JJ",
-      "item_name": "TUNG（タング） タンブラシ ナチュラルミニジェル付き4本 (正規輸入品) 舌磨き専用ブラシ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 7480.0,
-      "t30d_units": 2.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 47806548422,
+      "merchant_name": "product(ザ・プロダクト）",
+      "asin": "B0DZMP6115",
+      "item_name": "product(ザ・プロダクト) ヘアワックス ウッディローズ 42g / サロン 美容室 ヘアバーム オーガニック ワックス スタイリング剤 ヘアオイル 保湿 濡れ髪",
+      "cleaned_suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 664385.26,
+      "t30d_units": 267.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0919KDWJZ",
-      "item_name": "TUNG（タング） タンジェルナチュラル (正規輸入品) 舌専用ジェル (4本セット)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B091BD5P25",
-      "item_name": "TUNG(タング)タンジェル(正規輸入品)舌専用ジェル (タンブラシ ×1本 ＋ タンジェル ×1本)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 75182.66,
-      "t30d_units": 37.0
-    },
-    {
-      "asin": "B0919HXV8V",
-      "item_name": "TUNG（タング） タンジェルナチュラル (正規輸入品) 舌専用ジェル (2本セット)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 15059.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0919K78N8",
-      "item_name": "TUNG（タング） タンジェルナチュラル (正規輸入品) 舌専用ジェル (ジェル＋ブラシセット)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 38899.0,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0919P2VTR",
-      "item_name": "TUNG(タング) 舌磨き ジェル 正規輸入品 85g×2本 舌クリーナー タンジェル 舌苔 除去 舌ケア 口臭ケア 亜鉛配合 キシリトール ミント 舌専用",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 256164.06,
-      "t30d_units": 117.0
-    },
-    {
-      "asin": "B0919JR3M9",
-      "item_name": "TUNG（タング） タンブラシ ミニジェル付き4本セット (正規輸入品) 舌磨き専用ブラシ",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 7480.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0C9TC7P3H",
-      "item_name": "TUNG（タング） タンジェル キッズ スターターセット(正規輸入品) お子さま用舌専用ジェル＋ブラシ）",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 4070.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0919J8Z7R",
-      "item_name": "TUNG（タング） タンブラシ キャップ付き4本 (正規輸入品) 舌磨き専用ブラシ",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 18700.0,
-      "t30d_units": 5.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 47806548422,
+      "merchant_name": "product(ザ・プロダクト）",
+      "asin": "B0DWMMWQPP",
+      "item_name": "product(ザ・プロダクト) ヘアワックス ラベンダー/サロン 美容室 ヘアバーム オーガニック ワックス スタイリング剤 ヘアオイル 保湿 濡れ髪",
+      "cleaned_suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 589992.4,
+      "t30d_units": 241.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

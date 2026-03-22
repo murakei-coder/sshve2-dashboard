@@ -1,22 +1,21 @@
 {
-  "1082277001802": [
+  "1082300808502": [
     {
-      "asin": "B0FBW685LZ",
-      "item_name": "TONOU トノウ メンズコスメ オールインワンパウダーローション 120ml 新日本製薬 毛穴 レチノール ビタミンC グルタチオン CICA スキンケア 保湿 男性用 メンズ 男性化粧品 脂性肌 乾燥肌 テカリ べたつき 皮脂 プレゼント ギフト バレンタイン 父の日 (1か月分)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 768810.77,
-      "t30d_units": 287.0
-    },
-    {
-      "asin": "B0FG2WXY6K",
-      "item_name": "TONOU トノウ メンズコスメ オールインワンパウダーローション 120ml 新日本製薬 毛穴 レチノール ビタミンC グルタチオン CICA スキンケア 保湿 男性用 メンズ 男性化粧品 脂性肌 乾燥肌 テカリ べたつき 皮脂 プレゼント ギフト バレンタイン 父の日 (2か月分)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 55835.99,
-      "t30d_units": 10.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1082300808502,
+      "merchant_name": "DYKL 体組成計 専門店-24時間対応",
+      "asin": "B0G152WVQ1",
+      "item_name": "DYKL AI×8電極 体重計 体組成計 スマホ連動 データ自動転送【体脂肪率/BMI/心拍数/筋肉量/基礎代謝量/水分量/体脂肪量/骨量/内臓脂肪/タンパク質/骨格筋量/皮下脂肪/3Dモデル】など56項目測定可能 カラダスキャン 自動ON/OFF ルスメーター Bluetooth ヘルスメーター 高精度 強化ガラス iOS/Android対応 日本語",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 3217242.33,
+      "t30d_units": 223.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

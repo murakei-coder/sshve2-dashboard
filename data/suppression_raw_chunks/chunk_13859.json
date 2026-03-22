@@ -1,13 +1,72 @@
 {
-  "921818977002": [
+  "922118143402": [
     {
-      "asin": "B0GCHYKX2S",
-      "item_name": "ALI di FENICE. (アーリ ディ フェニーチェ) まつ毛コーティング 6g オールインワン まつ毛美容液 まつ毛コーティング剤 クリアマスカラ 束感 マスカラ下地 まつ毛ケア サロン専売品",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 93374.84,
-      "t30d_units": 31.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 922118143402,
+      "merchant_name": "TOPZEE公式ストア（登録6356976）",
+      "asin": "B0FP2J9JWP",
+      "item_name": "湯たんぽ 充電式 TOPZEE 蓄熱式 ゆたんぽ 節電 【TV・SNSで話題沸騰】 2025冬新登場 4~12H長時間保温 ゆたんぽ お湯 省エネ 暖房器具 電気湯たんぽ 防爆充電器 過熱防止 急速充電 ゆたんぽ 繰り返し使えてエコ ぽかぽか 冷房対策 新年 クリスマス プレゼント (ライトカーキ)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 187446.5,
+      "t30d_units": 78.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 922118143402,
+      "merchant_name": "TOPZEE公式ストア（登録6356976）",
+      "asin": "B0FNRNTTGL",
+      "item_name": "TOPZEE 電気毛布 掛け敷き兼用 188×130cm ダニ退治 10段階温度調整 1-9Hタイマー ふわふわ 暖房器具 省エネ 自動電源オフ 過熱保護 丸洗い可能 毛玉なし 防寒対策 電気掛け 電気敷き 肩掛け 膝掛け PSE認証済み（グリン）",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 12400.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 922118143402,
+      "merchant_name": "TOPZEE公式ストア（登録6356976）",
+      "asin": "B0FP2H5VW8",
+      "item_name": "湯たんぽ 充電式 TOPZEE 蓄熱式 ゆたんぽ 節電 【TV・SNSで話題沸騰】2025冬 新登場 4~12H長時間保温 ゆたんぽ お湯 省エネ 暖房器具 電気湯たんぽ 防爆充電器 過熱防止 急速充電 ゆたんぽ 繰り返し使えてエコ ぽかぽか 冷房対策 新年 クリスマス プレゼント (カーキ)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 162456.5,
+      "t30d_units": 67.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 922118143402,
+      "merchant_name": "TOPZEE公式ストア（登録6356976）",
+      "asin": "B0FLJLFMB7",
+      "item_name": "電気毛布 TOPZEE 電気かけしき毛布 敷き 洗える 188*130CM 10段階温度調節 1-9時間タイマー フランネル 厚手生地 毛玉なし 省エネ 丸洗い可 ダニ退治 防寒対策 暖房器具 (ホワイト)",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

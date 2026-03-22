@@ -1,238 +1,55 @@
 {
-  "8547808445": [
+  "8548167355": [
     {
-      "asin": "B0BYMR8MCC",
-      "item_name": "[ケーエルユー] 猫 指輪 肉球 跡が残る フリーサイズ リング 調節可能 ファッションリング 人気",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 40002.07,
-      "t30d_units": 43.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 8548167355,
+      "merchant_name": "SIWENGDEストア",
+      "asin": "B0DF2CY539",
+      "item_name": "SIWENGDE 電気毛布 掛け敷き兼用 170*130cm 電気ひざ掛け 電気ブランケット ふかふか ソファ ブランケット 6段階温度調整 5つタイマー機能 敷きかけ兼用 3分速暖 ふわふわ 肩掛け 膝掛け ヒーターブランケット シングル コントローラ付きダニ退治 過熱保護 抗菌 防臭 冷え予防 防寒対策 冷房対策 暖房器",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 403923.07,
+      "t30d_units": 129.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0841SR8T7",
-      "item_name": "[ケーエルユー] ショルダーバッグ 女の子 かわいい ミニバッグ 斜めがけ ハンドバッグ 2way 幼稚園 小学生 (ブルー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 7119.91,
-      "t30d_units": 4.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 8548167355,
+      "merchant_name": "SIWENGDEストア",
+      "asin": "B0FJKTFJ5G",
+      "item_name": "SIWENGDE 電気毛布 掛け敷き兼用 190*130cm 電気ブランケットふかふか ソファ フランネル素 6段階温度調整 5つタイマー機能 ふわふわ 肩掛け 膝掛け ヒーター シングル コントローラ付きダニ退治 過熱保護 抗菌 防臭 冷え予防 防寒/冷房対策 暖房器具 PSE認証済み",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 268453.72,
+      "t30d_units": 78.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B07CV1JXP5",
-      "item_name": "KLU スポーツバッグ 大容量 ショルダー 肩掛け シューズ収納 ジム カジュアル ダッフル バック 手持ち 2way (グリーン)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 8455.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B09PFGF373",
-      "item_name": "[ケーエルユー] リュックサック レディース バックパック ボディバッグ 斜めがけ 軽量 ナイロン 防水 (ネイビー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 43724.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B07J227JC3",
-      "item_name": "2wayスポーツバッグ シューズ収納 (ピンク)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 2000.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BNP3SM3W",
-      "item_name": "[ケーエルユー] スマホポーチ スマートフォンポーチ レディース 携帯ポーチ 持ち運び便利 軽量 オシャレ (ライトグレー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 58421.0,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B07F5YK8S5",
-      "item_name": "KLU スポーツバッグ 大容量 ショルダー 肩掛け シューズ収納 ジム カジュアル ダッフル バック 手持ち 2way (青)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 17915.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0841SG21V",
-      "item_name": "[ケーエルユー] ショルダーバッグ 女の子 かわいい ミニバッグ 斜めがけ ハンドバッグ 2way 幼稚園 小学生 (ホワイト)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 11097.03,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B07CTY3SKV",
-      "item_name": "KLU スポーツバッグ 大容量 ショルダー 肩掛け シューズ収納 ジム カジュアル ダッフル バック 手持ち 2way (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 46491.0,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B09MV7X8PZ",
-      "item_name": "[ケーエルユー] ショルダーバッグ メンズ 男性 メッセンジャーバッグ 防水 斜めがけ 軽量 大容量 (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 157407.66,
-      "t30d_units": 61.0
-    },
-    {
-      "asin": "B074FSS3CW",
-      "item_name": "[ケーエルユー] ペア キーホルダー カップル お揃い キーリング 鍵 かわいい 動物 ブラック ピンクゴールド 2個セット (クジラ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 14396.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0BNP5V97Z",
-      "item_name": "[ケーエルユー] スマホポーチ スマートフォンポーチ レディース 携帯ポーチ 持ち運び便利 軽量 オシャレ (ライトピンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 27734.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B09MV8KDLV",
-      "item_name": "[ケーエルユー] ショルダーバッグ メンズ 男性 メッセンジャーバッグ 防水 斜めがけ 軽量 大容量 (ネイビー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 28398.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B09D3X9WQM",
-      "item_name": "[ケーエルユー] リュックサック レディース バックパック ボディバッグ 斜めがけ 軽量 ナイロン 防水 (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 221269.7,
-      "t30d_units": 61.0
-    },
-    {
-      "asin": "B0BNP3D49H",
-      "item_name": "[ケーエルユー] スマホポーチ スマートフォンポーチ レディース 携帯ポーチ 持ち運び便利 軽量 オシャレ (モスグリーン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 17815.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0841SVW4X",
-      "item_name": "[ケーエルユー] ショルダーバッグ 女の子 かわいい ミニバッグ 斜めがけ ハンドバッグ 2way 幼稚園 小学生 (ブラック)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0841SRF1X",
-      "item_name": "[ケーエルユー] ショルダーバッグ 女の子 かわいい ミニバッグ 斜めがけ ハンドバッグ 2way 幼稚園 小学生 (ピンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 44378.77,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B0B64J31ZS",
-      "item_name": "[ケーエルユー] リュックサック レディース バックパック ボディバッグ 斜めがけ 軽量 ナイロン 防水 (オールブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 93590.33,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B07CTZHQNY",
-      "item_name": "KLU スポーツバッグ 大容量 ショルダー 肩掛け シューズ収納 ジム カジュアル ダッフル バック 手持ち 2way (レッド)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 2000.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BNP4Z3BF",
-      "item_name": "[ケーエルユー] スマホポーチ スマートフォンポーチ レディース 携帯ポーチ 持ち運び便利 軽量 オシャレ (ローズパープル)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 31093.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0BNP38WX2",
-      "item_name": "[ケーエルユー] スマホポーチ スマートフォンポーチ レディース 携帯ポーチ 持ち運び便利 軽量 オシャレ (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 33255.49,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0BYMHJRPQ",
-      "item_name": "[ケーエルユー] 猫 指輪 肉球 跡が残る フリーサイズ リング 調節可能 ファッションリング 人気",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 36660.5,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B09D3XT9DG",
-      "item_name": "[ケーエルユー] リュックサック レディース バックパック ボディバッグ 斜めがけ 軽量 ナイロン 防水 (ブラック無地)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 103147.66,
-      "t30d_units": 29.0
-    },
-    {
-      "asin": "B074FSMNYX",
-      "item_name": "[ケーエルユー] ペア キーホルダー カップル お揃い キーリング 鍵 かわいい 動物 ブラック ピンクゴールド 2個セット (ゾウ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 9561.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0BNP5PTGC",
-      "item_name": "[ケーエルユー] スマホポーチ スマートフォンポーチ レディース 携帯ポーチ 持ち運び便利 軽量 オシャレ iphone (ライトブルー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 42887.0,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B074FS56JX",
-      "item_name": "[ケーエルユー] ペア キーホルダー カップル お揃い キーリング 鍵 かわいい 動物 ブラック ピンクゴールド 2個セット (子豚)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 19777.0,
-      "t30d_units": 18.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 8548167355,
+      "merchant_name": "SIWENGDEストア",
+      "asin": "B0CCXG4VYL",
+      "item_name": "SIWENGDE 電気毛布 掛け敷き兼用 160*80cm 電気ブランケットふかふか ソファ フランネル素 6段階温度調整 5つタイマー機能 ふわふわ 肩掛け 膝掛け ヒーター シングル コントローラ付きダニ退治 過熱保護 抗菌 防臭 冷え予防 防寒/冷房対策 暖房器具 PSE認証済み",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 421450.68,
+      "t30d_units": 163.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

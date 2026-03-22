@@ -1,13 +1,38 @@
 {
-  "1141527346602": [
+  "1141529312102": [
     {
-      "asin": "B0B8GTG8RP",
-      "item_name": "【2026年改良モデル 室内アンテナ】 テレビアンテナ室内 最強 地デジアンテナ 4K HD 無料視聴 530KM受信範囲 車載 高感度 USB式 簡単接続 磁力 固定 高性能 UHF VHF対応 信号ブースター内蔵5m 日本語取扱説明書",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 2334289.7,
-      "t30d_units": 1459.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 1141529312102,
+      "merchant_name": "LIMOE JAPAN OFFICIAL",
+      "asin": "B0GFW4LGW7",
+      "item_name": "【 LIMOE 公式 】【 リモエ韓国酵素 】 梅酵素",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 4620.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 1141529312102,
+      "merchant_name": "LIMOE JAPAN OFFICIAL",
+      "asin": "B0GFW7XJ49",
+      "item_name": "【 LIMOE 公式 】【 リモエ韓国酵素 】 酵素 (ラズベリーレモン)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 56549.83,
+      "t30d_units": 12.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

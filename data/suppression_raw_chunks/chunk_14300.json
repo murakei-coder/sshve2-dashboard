@@ -1,49 +1,21 @@
 {
-  "974746714302": [
+  "974780156102": [
     {
-      "asin": "B0G64Y16WQ",
-      "item_name": "【Amazon.co.jp限定】Ainova ハンディクリーナー コードレス 掃除機 ハンディ 車用掃除機 軽量 長時間稼働 静音 充電スタンド付き パワフル 吸引力強化 コンパクト 人気 カーチャージャー付属/ブラシノズル/ホースノズル付属 K16（ホワイト）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 97488.5,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0FKLSHGF7",
-      "item_name": "Ainova ハンディクリーナー コードレス ハンディ掃除機 ハイパワー ハンディ 軽量 充電スタンド付き コンパクト 車用掃除機 便利 軽量/業務用/キーボード掃除/車内清掃/家具/家庭用 K12",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FDKNBV9M",
-      "item_name": "【Amazon.co.jp限定】Ainova ハンディクリーナー コードレス 掃除機 ハンディ 車用掃除機 軽量 長時間稼働 静音 充電スタンド付き パワフル 吸引力強化 コンパクト 人気 カーチャージャー付属/ブラシノズル/ホースノズル付属 K16（グレー）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 243973.0,
-      "t30d_units": 27.0
-    },
-    {
-      "asin": "B0F1FB5P52",
-      "item_name": "Ainova ハンディクリーナー コードレス ハンディ掃除機 ハイパワー ハンディ 軽量 充電スタンド付き コンパクト 車用掃除機 便利 軽量/業務用/キーボード掃除/車内清掃/家具/家庭用",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 33996.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0F8V8BDY3",
-      "item_name": "Ainova 布団乾燥機 ふとん乾燥機 ハイパワー1000W ふとんドライヤー マット不要 ダブル送風ホース 速乾 【靴・ふとん2組同時乾燥対応】衣類乾燥 梅雨 ダニ対策 湿気 除湿 消臭 コンパクト マイナスイオン機能搭載 持ち運び 収納袋付き",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 335406.0,
-      "t30d_units": 39.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 974780156102,
+      "merchant_name": "KZM INC",
+      "asin": "B0DQ5CP315",
+      "item_name": "Kasamizu 除湿機 小型 1800ml大容量水タンク 省エネ ペルチェ式 狭向け じょしつき 除湿器 静音 強力 96時間切タイマー 10色LEDライト コンパクト 満水自動停止 結露&カビ防止 一人暮らし 衣類乾燥 梅雨&花粉対策 部屋 トイレ 洗面台 脱衣所 クローゼット AC電源 PSE認証済 日本語取扱説明書付き",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": -3599.0,
+      "t30d_units": -1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

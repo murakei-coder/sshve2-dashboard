@@ -1,193 +1,38 @@
 {
-  "7702287755": [
+  "7704631045": [
     {
-      "asin": "B09B948F26",
-      "item_name": "N1us(ニウス) デオドラントソープ （さっぱり）150ml 硝酸ミコナゾール配合 抗カビ作用 防臭 柑橘の香り 医薬部外品",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 32334.0,
-      "t30d_units": 16.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 7704631045,
+      "merchant_name": "米処　味いちばん館",
+      "asin": "B00RGEUIPK",
+      "item_name": "令和７年産 地域厳選こしひかり【茨城県・栃木県未検査 １等格】10kg",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 134106.0,
+      "t30d_units": 17.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FD44GZTR",
-      "item_name": "脇汗の量を減らす！10周年記念ボトル(黒)N1usオドレミスト50ml ミストポンプ付き本体",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 145637.91,
-      "t30d_units": 56.0
-    },
-    {
-      "asin": "B0D8SF8XGX",
-      "item_name": "顔のサラサラをキープ！テカリを抑えメイク崩れを防ぐ【N1us パウダーミスト50ml 】/医薬部外品/化粧崩れ/皮脂予防/メイクキープ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 39826.81,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B00FKXFT80",
-      "item_name": "N1us(ニウス) 汗ニモマケズ 皮脂ニモマケズ (皮脂 テカリ防止 UV 化粧下地) 30ml tone-up ＆ N1us デオドラント パウダー ミスト50ml(顔用) セット BBpd(TU)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B00FKXE1NE",
-      "item_name": "N1us(ニウス) オドレミスト詰め替え用(ミストポンプなし)53ml&ニウスアルムミスト50ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 8644.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B074341W5W",
-      "item_name": "オドレミスト ロールオン 40ml 日本製 制汗剤 塩化アルミニウム13% od_ro",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 733618.35,
-      "t30d_units": 274.0
-    },
-    {
-      "asin": "B07YDJFFGY",
-      "item_name": "【脇のにおい対策】 N1us(ニウス) アルムミスト 50ml ミョウバン高配合 オドレミスト姉妹品 防臭 抗菌 無香料 無着色 国産",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 110655.08,
-      "t30d_units": 56.0
-    },
-    {
-      "asin": "B07VMS5B98",
-      "item_name": "脇汗対策 N1us(ﾆｳｽ) オドレミストミストポンプ付き本体＆オドレミスト詰め替え用セット 塩化アルミニウム13%配合デオドラント 制汗スプレー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 452218.7,
-      "t30d_units": 92.0
-    },
-    {
-      "asin": "B0FSR6GF1Z",
-      "item_name": "10周年特別価格のオドレミスト 2本セット(本体/緑1＋黒1） ※中身は同じ液体です※ 定番のグリーンボトルと10周年記念のブラックボトル 塩化アルミニウム制汗剤 脇汗対策 汗ジミ対策 OD_GBK",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 110314.0,
-      "t30d_units": 28.0
-    },
-    {
-      "asin": "B00FKXE9CC",
-      "item_name": "3点セット N1us(ニウス) オドレミスト53ml ＆ アルムミスト50ml ＆ デオドラントソープ150ml（しっとり） 制汗 防カビ 殺菌 石鹸 (ゼラニウムヴァーベナの香, ODRMDS(白))",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B00FKXDTDW",
-      "item_name": "脇のにおい対策 N1us(ニウス) アルムミスト 50ml ミョウバン高配合 防臭ミスト 抗菌 無香料 無着色 国産 ２本セット オドレミスト姉妹品",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 101515.73,
-      "t30d_units": 28.0
-    },
-    {
-      "asin": "B00FKXEAZ8",
-      "item_name": "N1us(ニウス) デオドラントソープ （さっぱり）150mlポンプ×2本組 グレープフルーツの香",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FSSCV8DR",
-      "item_name": "10周年特別価格のオドレミスト の2本セット(本体/緑1＋茶1） ※中身は同じ液体です※ 定番のグリーンボトルと10周年記念のブラウンボトル 塩化アルミニウム制汗剤 脇汗対策 汗ジミ対策 OD_GBR",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 19995.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0824GJT2H",
-      "item_name": "【脇汗対策＆防臭】 N1us(ニウス) オドレミスト50ml＆アルムミスト50ml各1本セット 塩化アルミニウム13%配合+ミョウバン高配合 制汗剤スプレーセット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 70485.0,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0D8VP61XK",
-      "item_name": "N1us(ニウス) デオドラントソープ（しっとり） 450ml 硝酸ミコナゾール配合 抗カビ作用 防臭 ゼラニウムヴァーベナの香り 医薬部外品 替DS (450ml詰替え用)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 32669.8,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0FD43P8SS",
-      "item_name": "脇汗の量を減らす！10周年記念ボトル(茶)N1usオドレミスト50ml ミストポンプ付き本体",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 567379.38,
-      "t30d_units": 224.0
-    },
-    {
-      "asin": "B07QHHHJPL",
-      "item_name": "【脇汗対策】N1us(ニウス) オドレミスト 50ml 制汗剤 スプレー 塩化アルミニウム 13％配合 無香料 脇汗 足汗 手汗 メンズ レディース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 1552438.6,
-      "t30d_units": 539.0
-    },
-    {
-      "asin": "B09YCVRLTS",
-      "item_name": "N1us(ニウス) デオドラントソープ（さっぱり） 450ml 硝酸ミコナゾール配合 抗カビ作用 防臭 柑橘の香り 医薬部外品 替DS グレープフルーツの香",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 47488.5,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B00FKXFO6W",
-      "item_name": "脇汗をブロックする【オドレミスト53ml】＆顔のテカリを抑える【N1usデオドラントパウダーミスト】の2点セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07VQZVNN7",
-      "item_name": "初めての人でも 詰替え用_ N1us(ニウス) オドレミスト（詰替え用・ミストポンプなし） 塩化アルミニウム 13%配合 デオドラント スプレー OD-NP",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 544917.69,
-      "t30d_units": 208.0
-    },
-    {
-      "asin": "B0BQYV4K6W",
-      "item_name": "2袋セット オメガスリー含有グミ Oh!かしこ組 DHA・EPA配合 今なら10粒増量中 (◆ω2)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 11880.0,
-      "t30d_units": 4.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 7704631045,
+      "merchant_name": "米処　味いちばん館",
+      "asin": "B00OOIGO7W",
+      "item_name": "令和７年産 こしひかり10％ ブレンド米 国内産100% 10kg",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 199548.0,
+      "t30d_units": 24.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

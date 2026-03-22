@@ -1,13 +1,38 @@
 {
-  "721384074302": [
+  "721557362902": [
     {
-      "asin": "B0FC2GHC8S",
-      "item_name": "電動歯ブラシ 回転電動歯ブラシ 充電式 ダブルボタン 4つのクリーニングモード 5つのブラシヘッド（3種類）収納ケース付き 本体ディスプレイ搭載 防水 携帯旅行用 K3",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": -5454.0,
-      "t30d_units": -1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 721557362902,
+      "merchant_name": "EcoStash Direct",
+      "asin": "B0GGHJTYGY",
+      "item_name": "EcoStash ドキュメントスタンド A4 アコーディオン式 12ポケット 【最大3200枚収納】伸縮 自立式 大容量 持ち運び フタ付き ファイルケース インデックス付き 書類 収納 ケース 麦わら素材 リサイクル可能(ブルー)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 63111.35,
+      "t30d_units": 30.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 721557362902,
+      "merchant_name": "EcoStash Direct",
+      "asin": "B0GGHYM1J9",
+      "item_name": "EcoStash ドキュメントスタンド A4 アコーディオン式 12ポケット 【最大3200枚収納】伸縮 自立式 大容量 持ち運び フタ付き ファイルケース インデックス付き 書類 収納 ケース 麦わら素材 リサイクル可能(ピンク)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 91955.91,
+      "t30d_units": 44.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

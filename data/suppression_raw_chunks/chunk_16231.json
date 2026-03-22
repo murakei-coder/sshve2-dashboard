@@ -1,31 +1,38 @@
 {
-  "1129212290702": [
+  "1129212734502": [
     {
-      "asin": "B0FWJSFM5L",
-      "item_name": "ALIVELAB センテラ ドレッシング パウダー 8ml｜肌を整えるフェイスパウダー・敏感肌向け・韓国コスメ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1129212734502,
+      "merchant_name": "LeaSeek Store",
+      "asin": "B09XJZBKXH",
+      "item_name": "[LeaSeek] 耐熱グローブ 本革 牛革 防火手袋 溶接/BBQ/ストーブ/焚き火台/薪ストーブ対応 アウトドア用 作業革手袋 高耐久 男女兼用 ブラック",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 5270.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B07NPFQNB3",
-      "item_name": "ALIVELAB コットンキャンディ サリチル酸 パッドボール 50ml｜角質ケア・毛穴ケア・ニキビ予防・敏感肌対応・低刺激トナーパッド・韓国コスメ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CS69TSRP",
-      "item_name": "ALIVELAB オーツースカルプウォーターシャンプー 350ml｜敏感頭皮用・かゆみ防止・フケ対策・ノンシリコン・ディープクレンジング・スッキリ清潔",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 8454.0,
-      "t30d_units": 3.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1129212734502,
+      "merchant_name": "LeaSeek Store",
+      "asin": "B07651HF7Q",
+      "item_name": "[LeaSeek] 耐熱グローブ 本革 牛革 防火手袋 溶接/BBQ/ストーブ/焚き火台/薪ストーブ対応 アウトドア用 作業革手袋 高耐久 男女兼用 ブラック",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 5398.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

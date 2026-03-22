@@ -1,94 +1,21 @@
 {
-  "1046396562402": [
+  "1046405848702": [
     {
-      "asin": "B0FC5KTDF6",
-      "item_name": "Rerum (リラム) 歯ブラシ ワインレッド 超極細毛 口腔ケア Toothbrush 日本製 平形ブラシ 極細毛 歯科医院専売品 歯医者用 スリムヘッド 手磨き 歯茎ケア",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 22471.73,
-      "t30d_units": 30.0
-    },
-    {
-      "asin": "B0FTYZHPDT",
-      "item_name": "TEAL (ティール) ギフトボックス (深蒸し茶・グリーンアールグレイ・玄米茶) ティーバッグ 3g×20P 静岡県牧之原産 プレゼント ギフト 日本茶 静岡茶 ティー フレーバーティー お歳暮 お中元 手土産 母の日 敬老の日",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 521201.33,
-      "t30d_units": 110.0
-    },
-    {
-      "asin": "B0FC143ST3",
-      "item_name": "TEAL (ティール) 緑茶 深蒸し茶 ティーバッグ 3g×20P入 静岡県牧之原産 ホット 水出し 両方可 プレゼント ギフト 贈答 手土産 静岡茶 日本茶 ティー お茶 Green Tea",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 918278.41,
-      "t30d_units": 561.0
-    },
-    {
-      "asin": "B0FC1VV3Z5",
-      "item_name": "TEAL (ティール) 玄米茶 ティーバッグ 3g×20P 静岡県牧之原産 ホット 水出し 両方可 プレゼント ギフト 贈答 手土産 静岡茶 日本茶 ティー お茶 Green Tea",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 132753.82,
-      "t30d_units": 86.0
-    },
-    {
-      "asin": "B0FC21W16Z",
-      "item_name": "TEAL (ティール)【緑茶×アップルミント】アップルハーブグリーンティー ティーバッグ 3g×20P 緑茶 静岡県牧之原産 ホット 水出し 両方可 プレゼント ギフト 贈答 お歳暮 手土産 静岡茶 日本茶 ティー お茶 Green Tea",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 69727.02,
-      "t30d_units": 41.0
-    },
-    {
-      "asin": "B0FC63Y5GX",
-      "item_name": "Rerum (リラム) 歯ブラシ グレーネイビー 超極細毛 口腔ケア Toothbrush 日本製 平形ブラシ 極細毛 歯科医院専売品 歯医者用 スリムヘッド 手磨き 歯茎ケア",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 161816.61,
-      "t30d_units": 211.0
-    },
-    {
-      "asin": "B0FC1FMZMS",
-      "item_name": "TEAL (ティール) 【緑茶×ベルガモット】グリーンアールグレイ ティーバッグ 3g×20P 緑茶 深蒸し茶 静岡県牧之原産 ホット 水出し 両方可 プレゼント ギフト 贈答 お歳暮 手土産 お中元 静岡茶 日本茶 ティー Green Tea",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 520401.46,
-      "t30d_units": 303.0
-    },
-    {
-      "asin": "B0FTYXG5JX",
-      "item_name": "TEAL (ティール) 【 緑茶 × ジンジャー 】グリーンジンジャーチャイティー (生姜 など6種の スパイス 使用) ティーバッグ 2g×20P 静岡県牧之原産 チャイティー マサラ (カルダモン コリアンダー レモンマートル シナモン スターアニス)",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 108170.0,
-      "t30d_units": 68.0
-    },
-    {
-      "asin": "B0FC61VP69",
-      "item_name": "Rerum (リラム) 歯ブラシ ダークグリーン 超極細毛 口腔ケア Toothbrush 日本製 平形ブラシ 極細毛 歯科医院専売品 歯医者用 スリムヘッド 手磨き 歯茎ケア",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 24122.41,
-      "t30d_units": 32.0
-    },
-    {
-      "asin": "B0FC5RNK9T",
-      "item_name": "Rerum (リラム) 歯ブラシ キャメル 超極細毛 口腔ケア Toothbrush 日本製 平形ブラシ 極細毛 歯科医院専売品 歯医者用 スリムヘッド 手磨き 歯茎ケア",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 18072.25,
-      "t30d_units": 24.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1046405848702,
+      "merchant_name": "MINO公式オンラインストア",
+      "asin": "B0FQPSPH2D",
+      "item_name": "mino 自動給餌器 猫 犬用 首振りカメラ付き 下向き50°調整可能 2K 6L大容量 赤外線残量センサー 暗視機能 SDカード録画 停電対策 2WAY給電 詰まり防止 自動餌やり機 APP遠隔操作",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 602395.0,
+      "t30d_units": 32.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

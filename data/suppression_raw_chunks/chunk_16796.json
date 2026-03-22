@@ -1,67 +1,55 @@
 {
-  "1170665624402": [
+  "1170724949602": [
     {
-      "asin": "B0G56PWFZT",
-      "item_name": "TONY はぐくむPS 子供 サプリ 勉強 落ち着き 集中 ホスファチジルセリン イチョウ葉 GABA 人工甘味料不使用 30日分 3歳以上対象",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 116148.37,
-      "t30d_units": 91.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1170724949602,
+      "merchant_name": "IBIS STORE",
+      "asin": "B0DT9J7DVS",
+      "item_name": "mino 一体型スマート給餌給水器 2Kカメラ搭載 犬猫用 音声録音 5Lフード・4L水タンク 2WAY給電 APP制御 5G/2.4Gデュアルモード接続 自動餌やり器 操作簡単 1日6食 ホワイト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 475723.0,
+      "t30d_units": 27.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G69T9YYG",
-      "item_name": "TONY すくすくこどもこんぽた コーンポタージュ コーンスープ 鉄分 葉酸 ビタミンⅮ 野菜 ビタミンＢカルシウム 食物繊維 おいしく栄養補給 70g",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 502123.4,
-      "t30d_units": 510.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1170724949602,
+      "merchant_name": "IBIS STORE",
+      "asin": "B0DT9G33SX",
+      "item_name": "スマートペットおやつマシン 自動給餌器 猫 犬 餌やり エサ おやつ フードディスペンサー 知育 トレーニング 音声録音機能 早食い防止 お留守番 しつけ ご褒美 リモート Bluetooth&アプリ対応",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 6472.0,
+      "t30d_units": 8.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G6BX1TTD",
-      "item_name": "親子で飲める鉄分 サプリ 子供 鉄 亜鉛 ビタミンC ビタミンB₁₂ ビタミンB₆ キシリトール 簡単栄養補給 水なしで噛んで食べられる グレープ風味 チュアブル 30日分 対象年齢２歳以上",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 531879.17,
-      "t30d_units": 584.0
-    },
-    {
-      "asin": "B0G5N2DGD2",
-      "item_name": "TONY すくすくこどもきなこ きなこ味 子供 鉄分 パウダー 無添加 亜鉛 ビタミンⅮ ビタミン 子供栄養補給 成長サポート 40g 40回分 対象年齢2歳以上",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 253969.72,
-      "t30d_units": 305.0
-    },
-    {
-      "asin": "B0G56W7MP4",
-      "item_name": "TONY 指キュア 子供の爪噛み・指しゃぶり防止 速乾タイプ 誤飲防止 爪かみ防止マニュキュア 植物由来成分 安息香酸デナトニウム 日本製 8.5ml",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 181196.44,
-      "t30d_units": 133.0
-    },
-    {
-      "asin": "B0G561VX3V",
-      "item_name": "TONY はぐくむ亜鉛 子供 サプリ 亜鉛 鉄 カルシウム マグネシウム おいしいヨーグルト味 栄養サポート 人工甘味料不使用 30～60日分",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 382141.94,
-      "t30d_units": 465.0
-    },
-    {
-      "asin": "B0G5MPTVR6",
-      "item_name": "TONY すくすくこども麦茶 鉄分 ビタミンC 子供 栄養 幼児食 国産 おいしく栄養補給 粉末 パウダー 40回分 2歳以上推奨",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 915320.11,
-      "t30d_units": 949.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1170724949602,
+      "merchant_name": "IBIS STORE",
+      "asin": "B0DYJQ1861",
+      "item_name": "【2025年グッドデザイン賞受賞】mino ペットドライヤー 小型・コンパクト 軽量なスティックタイプ 猫用 犬用ドライヤー ブラシノズル 時短・速乾 温度風量調節可能 2種ノズル付き 家庭用および旅行用 温度センサーを搭載＆自動温度ロック マイナスイオン 高速低騒音モーター",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 634902.66,
+      "t30d_units": 38.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

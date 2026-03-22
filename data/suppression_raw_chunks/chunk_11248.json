@@ -1,31 +1,21 @@
 {
-  "644975221702": [
+  "645005989702": [
     {
-      "asin": "B0FMXCJC7L",
-      "item_name": "【ミヤリサン製薬公式】強ミヤリサン(錠)1200錠 [指定医薬部外品] 酪酸菌(宮入菌®)配合 [腸活/腸内フローラを整える] 善玉菌の増殖 悪玉菌の発育を抑制 大腸を元気に",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 8470.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DXBQSNWW",
-      "item_name": "【ミヤリサン製薬公式】強ミヤリサン(錠)1000錠×2個セット [指定医薬部外品] 酪酸菌(宮入菌®)配合 [腸活/腸内フローラを整える] 善玉菌の増殖 悪玉菌の発育を抑制 大腸を元気に",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 577590.75,
-      "t30d_units": 55.0
-    },
-    {
-      "asin": "B0D5XQJ1N2",
-      "item_name": "【ミヤリサン製薬公式】強ミヤリサン(錠)1000錠 [指定医薬部外品] 酪酸菌(宮入菌®)配合 [腸活/腸内フローラを整える] 善玉菌の増殖 悪玉菌の発育を抑制 大腸を元気に",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 5364270.05,
-      "t30d_units": 856.0
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 645005989702,
+      "merchant_name": "【公式】カピラーノハニー | Capilano Honey",
+      "asin": "B08WSNN36L",
+      "item_name": "Capilano カピラーノアクティブマヌカハニーMG300+ 250g、100％オーストラリア産",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 385508.24,
+      "t30d_units": 117.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

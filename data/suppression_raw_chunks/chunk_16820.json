@@ -1,31 +1,38 @@
 {
-  "1174823145102": [
+  "1175786445502": [
     {
-      "asin": "B0GD14KY34",
-      "item_name": "HiFiGo AFUL Performer 8S イヤモニ モニターイヤホン 有線 イヤホン1DD +6BA +1Passive Radiator +1Micro Planar HiFi音質 2pin着脱式 (Performer 8S-4.4mm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 599720.75,
-      "t30d_units": 10.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1175786445502,
+      "merchant_name": "Xiamen Zhixi Rongbin Trading Co., Ltd",
+      "asin": "B0GGRF4XD1",
+      "item_name": "小型カメラ 隠しカメラ スパイカメラ 監視カメラ小型 防犯カメラ小型 キーレス型 1080P画質 暗視 単独録音 動体検知【16GSDカード付属】128GB対応 超小型カメラ 上書き録画 長時間録画 証拠撮影 屋外/屋内用 携帯便利",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 136519.0,
+      "t30d_units": 20.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GLGGFZMQ",
-      "item_name": "HiFiGo DUNU Titan X イヤモニ ゲーミングイヤホン イヤホン 有線 タイプc 1DD デュアル磁気回路 DSP内蔵 マイク付きイヤホン 重低音 HIFI音質 4N銀メッキ単結晶銅ケーブル 交換可能ケーブル カナル型 耳掛け式 音楽/ゲーミング/通話/web会議用",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 256961.66,
-      "t30d_units": 56.0
-    },
-    {
-      "asin": "B0GLG5M7XB",
-      "item_name": "HiFiGo DUNU Titan X イヤモニ ゲーミングイヤホン イヤホン 有線 1DD デュアル磁気回路 重低音 HIFI音質 4N銀メッキ単結晶銅ケーブル 交換可能ケーブル 3.5mmプラグ カナル型 耳掛け式 スポ一ツ/音楽/ゲーミング/通勤/通学用",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 1866546.98,
-      "t30d_units": 399.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1175786445502,
+      "merchant_name": "Xiamen Zhixi Rongbin Trading Co., Ltd",
+      "asin": "B0GGR1P1Q6",
+      "item_name": "小型ビデオカメラ アクションカメラ小型 ウェアラブルカメラ 小型カメラ モニター搭載 1080P画質 120度広角 2H稼働 自動暗視機能【32Gカード付属】256GB対応 27g軽量 上書き録画 Vlog/旅行/アウトドア/スポーツ 記録用 携帯便利/バイク 自転車に取り付け可能 豊富なアクセサリー",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 136310.66,
+      "t30d_units": 18.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

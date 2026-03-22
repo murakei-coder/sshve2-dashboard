@@ -1,22 +1,38 @@
 {
-  "869175358402": [
+  "869234570502": [
     {
-      "asin": "B0F2MR2S66",
-      "item_name": "USB有線ヘッドセット ノイズキャンセリングマイク付き｜通話応答ボタン搭載｜Microsoft Teams・IP電話対応｜軽量設計・長時間快適なメモリーフォームイヤークッション",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 869234570502,
+      "merchant_name": "Soocas LLC",
+      "asin": "B0DC6BQ5GQ",
+      "item_name": "Soocas NEOS II 電動歯ブラシ ジェットウォッシャー 一体型【1台2役】 音波歯ブラシ 口腔洗浄器 歯間洗浄 0.6mm極細水流 124PSI高圧 歯垢除去 携帯型 コードレス 30日間持続 IPX8防水 旅行 出張 ダークパープル",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 214140.0,
+      "t30d_units": 10.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F2MSMDZ7",
-      "item_name": "Rownfusny R06 ヘッドセット マイク付き ノイズキャンセリングマイク、USB 3.5mm接続 、軽量デザイン メモリーイヤークッション フォームクッションで一日中快適、MSチーム Web会議用 Skype、在宅勤務、業務用、リモートワーク、PCコールセンターに適用される(ブラック) (両耳)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 608671.39,
-      "t30d_units": 189.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 869234570502,
+      "merchant_name": "Soocas LLC",
+      "asin": "B0DB23PT3H",
+      "item_name": "Soocas NEOS II 電動歯ブラシ ジェットウォッシャー 一体型【1台2役】 音波歯ブラシ 口腔洗浄器 歯間洗浄 0.6mm極細水流 124PSI高圧 歯垢除去 携帯型 コードレス 30日間持続 IPX8防水 旅行 出張 ホワイト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 219442.0,
+      "t30d_units": 10.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

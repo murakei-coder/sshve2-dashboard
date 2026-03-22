@@ -1,22 +1,21 @@
 {
-  "1025311504102": [
+  "1025390374602": [
     {
-      "asin": "B0DX2BLVHL",
-      "item_name": "愛媛県産 甘夏みかん 5kg 甘い みかん 酸っぱいみかん 訳あり 蜜柑 甘夏 紅甘夏 柑橘 産地直送 愛媛みかん 夏みかん 家庭用 箱買い",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 74980.0,
-      "t30d_units": 30.0
-    },
-    {
-      "asin": "B0F1DZD248",
-      "item_name": "愛媛県産 甘夏みかん 10kg 甘い みかん 酸っぱいみかん 訳あり 蜜柑 甘夏 紅甘夏 柑橘 産地直送 愛媛みかん 夏みかん 家庭用 箱買い",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 41475.0,
-      "t30d_units": 11.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1025390374602,
+      "merchant_name": "bosephii Mall",
+      "asin": "B0FGNVC8JV",
+      "item_name": "ネックケア 首 リラクゼーション器 加温・振動機能 新登場 首・肩・腰・背中・太ももネックリラックス コードレス type-c充電式 2種類のモード 3段階の強度調整 首元ケア 首元リフレッシュ 静音 簡単操作 リラックスグッズ 父の日 母の日 記念日 誕生日プレゼント 男女兼用 家庭用 職場用 日本語説",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 1771283.95,
+      "t30d_units": 317.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

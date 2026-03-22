@@ -1,661 +1,208 @@
 {
-  "625734549002": [
-    {
-      "asin": "B0DS4ZCNWN",
-      "item_name": "うなぎ 鰻 蒲焼き 国産 鰻の蒲焼 うなぎ蒲焼 宮崎県産 大サイズ 165g前後×10尾 山椒付き鰻蒲焼のタレ×10袋 宮崎 ギフト 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FY2QK8N9",
-      "item_name": "数の子 味付け 味付き 味付 【1本羽】1kg（500g×2袋） 本チャン 本ちゃん かずのこ ギフト 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DQGNGCMR",
-      "item_name": "松前漬け 数の子 数の子松前漬 帆立松前漬 つぶ貝松前漬 3種セット 600g 200g×3個 松前漬 かずのこ ギフト 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 4499.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0D5LXCNYW",
-      "item_name": "羽二重餅 はぶたえ 餅 もち 小包装 お土産 (15個入り)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 98791.0,
-      "t30d_units": 57.0
-    },
-    {
-      "asin": "B0G1QZQ6T9",
-      "item_name": "鯖 骨取り 骨取りサバ 骨取り鯖 骨取りさば 【生/無塩】7枚前後（約1kg）×1袋 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 3199.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FBM5X21N",
-      "item_name": "羽二重餅 はぶたえ 餅 もち くるみ 胡桃 16個入り 福井 お土産 ギフト スイーツ お菓子",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G38S7839",
-      "item_name": "サバカツ 鯖カツ さばカツ 20枚入り 魚フライ たれ漬け カツ かつ 鯖 骨取り 骨取りサバ 骨取り鯖 骨取りさば 骨取り魚 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FY2KH118",
-      "item_name": "数の子 味付け 味付き 味付 【折れ品】1kg（500g×2袋） 訳あり 本チャン 本ちゃん かずのこ ギフト 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G57GXGT7",
-      "item_name": "甘エビ 甘えび 中 子持ち 刺身 500g 約35尾 冷凍 越前甘エビ 福井県 ギフト 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 11997.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FF35KR2V",
-      "item_name": "胡麻豆腐のすいーつ スイーツ 胡麻豆腐 70g×3個 黒みつ＆きな粉付き 米又 よねまた 福井 お土産 ギフト",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07GDTBC98",
-      "item_name": "米又 越前そば 袋 2食入り",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 3837.75,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0CH4VNV6P",
-      "item_name": "ホタテ ほたて 貝柱 1kg ホタテ貝柱 帆立 お取り寄せ 刺身用 冷凍 訳あり 北海道 訳あり食品 割れ欠け多め フレーク 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08416VQXC",
-      "item_name": "サロンドロワイヤル　和風ぴーかんなっつちょこ 128グラム (x 2)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 41986.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0FY2LMKYY",
-      "item_name": "数の子 味付け 味付き 味付 【1本羽】500g×1袋 本チャン 本ちゃん かずのこ ギフト 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D5LW4QQS",
-      "item_name": "羽二重餅 はぶたえ 餅 もち 小包装 お土産 (10個入り)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 20401.66,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0D5LV9C4W",
-      "item_name": "羽二重餅 はぶたえ 餅 もち 小包装 お土産 (8個入り)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 33263.0,
-      "t30d_units": 27.0
-    },
-    {
-      "asin": "B0FTX614NZ",
-      "item_name": "かに カニ 蟹 ポーション むき身 かにしゃぶ カニ鍋 刺身 生食 カット 600g 総重量800g 蟹しゃぶ カニ爪 蟹刺身 蟹爪 蟹むき身 ズワイガニ ギフト 冷凍食品 (2個)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G5NT81ND",
-      "item_name": "たこわさび たこわさ タコわさび 500g×2袋 北海道産たこ たこ タコ 蛸 惣菜 おつまみ ギフト 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CFTVTC3F",
-      "item_name": "胡麻豆腐 ごま豆腐 永平寺 団助 團助 濃厚 ごまどうふ 4個入り（濃厚白ごま豆腐90g×2個 濃厚黒ごま豆腐×2個90g、みそたれ12g×4個） 福井 お土産 ギフト 永平寺御用達",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 21466.66,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0DYDGW6DB",
-      "item_name": "カニカマ かにかま 業務用 特大 60g×10本 600g 冷凍食品 カニ風味かまぼこ かにかまぼこ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 10693.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0G1R94CJM",
-      "item_name": "鯖 骨取り 骨取りサバ 骨取り鯖 骨取りさば 【焼き/有塩】5枚（約450g）×1袋 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DS53LNSP",
-      "item_name": "松前漬け つぶ貝松前漬け 500g ギフト 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DDGD4MSX",
-      "item_name": "いかそうめん イカそうめん 業務用 8冊 約450g イカソーメン いかソーメン するめいか スルメイカ生 スルメイカ 刺身 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G6RZ2H6N",
-      "item_name": "つぶ貝 わさび つぶ貝わさび 1kg 500g×2袋 冷凍 おつまみ 珍味 ギフト",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FJ73WVCY",
-      "item_name": "もちもちあんサンド 10個入り 永平寺 福井 お土産 銘菓 ギフト お菓子",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 2560.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CFL5TX6C",
-      "item_name": "胡麻豆腐 ごま豆腐 永平寺 団助 團助 ごまどうふ 10個入り（白ごま豆腐90g×6個 黒ごま豆腐90g×4個、みそたれ12g×10個） 福井 お土産 ギフト 永平寺御用達",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 17600.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0FC2924HK",
-      "item_name": "羽二重餅 はぶたえ 餅 もち 黒胡麻きなこ 黒胡麻きな粉 10個入り 羽二重風呂敷 福井 お土産 ギフト スイーツ お菓子",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07GDTB6RL",
-      "item_name": "米又 米又の水ようかん 190g",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 32209.0,
-      "t30d_units": 29.0
-    },
-    {
-      "asin": "B0FN41XMPH",
-      "item_name": "さば へしこ 鯖のへしこ へしこ鯖 焼きほぐし 骨抜き 65g 瓶詰め 珍味 福井 鯖へしこ ギフト",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FNHWC54H",
-      "item_name": "にしん親子漬け 鰊親子漬け 500g×1袋 鰊 親子漬け おつまみ おかず 酒の肴",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FHKBL5LG",
-      "item_name": "たこ タコ 照焼き 照り焼き 2本足×24個 蛸 惣菜 おつまみ ギフト 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 10097.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FL1MJY2X",
-      "item_name": "いか イカ サラダ 1kg 烏賊 いかくんサラダ 海鮮サラダ 業務用 お徳用 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FF9QXWRF",
-      "item_name": "胡麻豆腐 ごま豆腐 永平寺 米又 ごまどうふ 4種類10個入り（白×4/黒×2/金流×2/雲流×2/みそだれ×10） お土産 ギフト",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G1RQ2847",
-      "item_name": "鯖 骨取り 骨取りサバ 骨取り鯖 骨取りさば 【生/無塩】7枚前後×2袋（約2kg） 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DWMJS4VN",
-      "item_name": "さきいか キムチ 1kg さきイカ サキイカ 裂きイカ いか イカ 業務用 お徳用 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 5499.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FNM2FHP1",
-      "item_name": "禅みそ 300g（50g×6袋） 味噌 永平寺御用達 精進みそ 禅味噌 お土産 ギフト",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FTX2VS1G",
-      "item_name": "かに カニ 蟹 ポーション むき身 かにしゃぶ カニ鍋 刺身 生食 カット 600g 総重量800g 蟹しゃぶ カニ爪 蟹刺身 蟹爪 蟹むき身 ズワイガニ ギフト 冷凍食品 (1個)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FJFGWD8Z",
-      "item_name": "クッキー 永平寺えい坊くんお芋のワッフルクッキー 12個入り 永平寺 福井 お土産 銘菓 ギフト お菓子",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G6SJY624",
-      "item_name": "つぶ貝 わさび つぶ貝わさび 500g 冷凍 おつまみ 珍味 ギフト 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FCBX5GXK",
-      "item_name": "羽二重餅 はぶたえ 餅 もち 10個入り×3種セット ひとくち 黒蜜きなこ あん入り 北陸 お土産 ギフト スイーツ お菓子",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 1990.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CFL8JJHQ",
-      "item_name": "胡麻豆腐 ごま豆腐 永平寺 団助 團助 濃厚 ごまどうふ 2個入り（濃厚白ごま豆腐90g×2個、みそたれ12g×2個） 福井 お土産 永平寺御用達",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 2900.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FY2MYQLN",
-      "item_name": "数の子 味付け 味付き 味付 【折れ品】500g×1袋 訳あり 本チャン 本ちゃん かずのこ ギフト 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FL7BM3C7",
-      "item_name": "いか イカ 軟骨 いかマヨ 1kg 烏賊 サラダ 海鮮サラダ 業務用 お徳用 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FGMTGG2S",
-      "item_name": "胡麻豆腐 ごま豆腐 永平寺 米又 ごまどうふ 白 100g×4個 みそだれ12g×4個 お土産 ギフト",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D6QJF781",
-      "item_name": "水かんてん えがわの水かんてん 福井 江川 水寒天 200g×1箱 黄金の梅 生菓子 ギフト 冷蔵食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 1799.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FFRKL7YJ",
-      "item_name": "胡麻豆腐 ごま豆腐 永平寺 米又 ごまどうふ 金流 100g×4個 みそだれ12g×4個 お土産 ギフト",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CFTWTDJ1",
-      "item_name": "胡麻豆腐 ごま豆腐 永平寺 団助 團助 濃厚 ごまどうふ 2個入り（濃厚白ごま豆腐90g×1個 濃厚黒ごま豆腐90g×1個、みそたれ12g×2個） 福井 お土産 永平寺御用達",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 7600.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0FBM951W3",
-      "item_name": "羽二重餅 はぶたえ 餅 もち きなこ きな粉 10個入り 羽二重風呂敷 福井 お土産 ギフト スイーツ お菓子",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CFJDVCT8",
-      "item_name": "胡麻豆腐 ごま豆腐 永平寺 団助 團助 ごまどうふ 2個入り（金ごま豆腐90g×2個、みそたれ12g×2個） 福井 お土産 永平寺御用達",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 42513.32,
-      "t30d_units": 41.0
-    },
-    {
-      "asin": "B0CF4SWD5B",
-      "item_name": "松前漬け 数の子 数の子松前漬け 内容量選択 1kg （500g×2袋） かずのこ ギフト 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 179764.0,
-      "t30d_units": 36.0
-    },
-    {
-      "asin": "B00KWQEKPS",
-      "item_name": "米又 越前そば 井桁 4食入り",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 11445.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0CFTXTRQ9",
-      "item_name": "胡麻豆腐 ごま豆腐 永平寺 団助 團助 濃厚 ごまどうふ 10個入り（濃厚白ごま豆腐90g×6個 濃厚黒ごま豆腐90g×4個、みそたれ12g×10個） 福井 お土産 ギフト 永平寺御用達",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0FQM5HCW2",
-      "item_name": "梅水晶 500g お徳用 梅肉 軟骨 おつまみ 惣菜 珍味 冷凍食品",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CF59X5XC",
-      "item_name": "数の子松前漬け 松前漬け 数の子 500g 一本物 一本羽 かずのこ ギフト 冷凍食品",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G5NMMRJ4",
-      "item_name": "たこわさび たこわさ タコわさび 500g×1袋 北海道産たこ たこ タコ 蛸 惣菜 おつまみ ギフト 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CFTVCBRT",
-      "item_name": "胡麻豆腐 ごま豆腐 永平寺 団助 團助 濃厚 ごまどうふ 8個入り（濃厚白ごま豆腐90g×4個 濃厚黒ごま豆腐90g×4個、みそたれ12g×8個） 福井 お土産 ギフト 永平寺御用達",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 3780.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CFL1ZTWT",
-      "item_name": "胡麻豆腐 ごま豆腐 永平寺 団助 團助 ごまどうふ 2個入り（黒ごま豆腐90g×2個、みそたれ12g×2個） 福井 お土産 永平寺御用達",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 2016.66,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DQNPQPSG",
-      "item_name": "松前漬け 松前漬 1kg イカ刺し いか刺し いか イカ 業務用 お徳用 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 52602.0,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0CFL21Q86",
-      "item_name": "胡麻豆腐 ごま豆腐 永平寺 団助 團助 ごまどうふ 8個入り（白ごま豆腐90g×4個 黒ごま豆腐90g×4個、みそたれ12g×8個） 福井 お土産 ギフト 永平寺御用達",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 7450.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FDQHB3MV",
-      "item_name": "エビフリッター えびフリッター 海老フリッター 500g エビ えび 海老 フリッター 揚げ物 惣菜 冷凍食品 完全油ちょう",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DS4VW81B",
-      "item_name": "うなぎ 鰻 蒲焼き 国産 鰻の蒲焼 うなぎ蒲焼 宮崎県産 大サイズ 165g前後×5尾 山椒付き鰻蒲焼のタレ×5袋 宮崎 ギフト 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CFH5GSCY",
-      "item_name": "胡麻豆腐 ごま豆腐 永平寺 団助 團助 ごまどうふ 2個入り（白ごま豆腐90g×2個、みそたれ12g×2個）福井 お土産 永平寺御用達",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 4708.32,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0CMYX25YZ",
-      "item_name": "米又 米又の水ようかん 190g×3",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 8510.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0FNHQTNJX",
-      "item_name": "にしん親子漬け 鰊親子漬け 1kg（500g×2袋） 鰊 親子漬け おつまみ おかず 酒の肴",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G574Z84C",
-      "item_name": "甘エビ 甘えび 中 子持ち 刺身 500g×2箱 約70尾 冷凍 越前甘エビ 福井県 ギフト 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FRFPGFCP",
-      "item_name": "とびっこ とびっ子 とびこ とび子 500g お徳用",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 60471.0,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0GCW516PW",
-      "item_name": "エビフライ 特大 冷凍 5尾 310g（5本入り×1個） えび エビ 海老 フライ ブラックタイガー 業務用 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DQJ3SJ31",
-      "item_name": "いか黄金 黄金いか 1kg 黄金 イカ いか イカ黄金 黄金イカ イカ刺し いか刺し いかさし 業務用 冷凍食品 お徳用 ギフト",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 29393.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0G1RTM8YP",
-      "item_name": "鯖 骨取り 骨取りサバ 骨取り鯖 骨取りさば 【焼き/有塩】5枚×2袋（約900g） 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D5LXF7RH",
-      "item_name": "羽二重餅 はぶたえ 餅 もち 絹のしらべ 小包装 福井こしひかり羽二重折餅 福井県産コシヒカリ米粉使用 (10個入り)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 97893.66,
-      "t30d_units": 73.0
-    },
-    {
-      "asin": "B0D5LS1S16",
-      "item_name": "羽二重餅 はぶたえ 餅 もち 絹のしらべ 小包装 福井こしひかり羽二重折餅 福井県産コシヒカリ米粉使用 (15個入り)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 53110.0,
-      "t30d_units": 28.0
-    },
-    {
-      "asin": "B0DN534Z5Q",
-      "item_name": "松前漬け 数の子 数の子松前漬け 500g かずのこ ギフト 冷凍食品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 115571.0,
-      "t30d_units": 39.0
-    },
-    {
-      "asin": "B0FTX4124N",
-      "item_name": "かに カニ 蟹 ポーション むき身 かにしゃぶ カニ鍋 刺身 生食 カット 600g 総重量800g 蟹しゃぶ カニ爪 蟹刺身 蟹爪 蟹むき身 ズワイガニ ギフト 冷凍食品 (3個)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+  "625809889102": [
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 625809889102,
+      "merchant_name": "LIDASA",
+      "asin": "B0GCCLLVGM",
+      "item_name": "NWYRJO AirPods Pro 3 専用 交換用 イヤーピース シリコーンと低反発形状記憶スポンジ AirPods Pro 3 イヤーチップ 快適 遮音性/フィット感/脱落防止/柔らかく ノイズ低減穴と内蔵防塵スクリーンを備えており 充電ケースに完全互換 携帯用収納ケース 3ペア (ホワイトとグレー, Lサイズ3ペア)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 19618.66,
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 625809889102,
+      "merchant_name": "LIDASA",
+      "asin": "B0GCCDPCDT",
+      "item_name": "NWYRJO AirPods Pro 3 専用 交換用 イヤーピース シリコーンと低反発形状記憶スポンジ AirPods Pro 3 イヤーチップ 快適 遮音性/フィット感/脱落防止/柔らかく ノイズ低減穴と内蔵防塵スクリーンを備えており 充電ケースに完全互換 携帯用収納ケース 3ペア (ホワイトとオレンジ, Lサイズ3ペア)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 4446.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 625809889102,
+      "merchant_name": "LIDASA",
+      "asin": "B0GCCYL1W4",
+      "item_name": "NWYRJO AirPods Pro 3 専用 交換用 イヤーピース シリコーンと低反発形状記憶スポンジ AirPods Pro 3 イヤーチップ 快適 遮音性/フィット感/脱落防止/柔らかく ノイズ低減穴と内蔵防塵スクリーンを備えており 充電ケースに完全互換 携帯用収納ケース 3ペア (ブラックとオレンジ, S/M/Lサイズ各1ペア)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 24602.86,
+      "t30d_units": 11.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 625809889102,
+      "merchant_name": "LIDASA",
+      "asin": "B0GCCQ78TW",
+      "item_name": "NWYRJO AirPods Pro 3 専用 交換用 イヤーピース シリコーンと低反発形状記憶スポンジ AirPods Pro 3 イヤーチップ 快適 遮音性/フィット感/脱落防止/柔らかく ノイズ低減穴と内蔵防塵スクリーンを備えており 充電ケースに完全互換 携帯用収納ケース 3ペア (ブラックとオレンジ, Sサイズ3ペア)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 6916.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 625809889102,
+      "merchant_name": "LIDASA",
+      "asin": "B0GCD9GS5M",
+      "item_name": "NWYRJO AirPods Pro 3 専用 交換用 イヤーピース シリコーンと低反発形状記憶スポンジ AirPods Pro 3 イヤーチップ 快適 遮音性/フィット感/脱落防止/柔らかく ノイズ低減穴と内蔵防塵スクリーンを備えており 充電ケースに完全互換 携帯用収納ケース 3ペア (ホワイトとグレー, Sサイズ3ペア)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 13533.0,
+      "t30d_units": 6.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 625809889102,
+      "merchant_name": "LIDASA",
+      "asin": "B0GCF4BFDQ",
+      "item_name": "NWYRJO AirPods Pro 3 専用 交換用 イヤーピース シリコーンと低反発形状記憶スポンジ AirPods Pro 3 イヤーチップ 快適 遮音性/フィット感/脱落防止/柔らかく ノイズ低減穴と内蔵防塵スクリーンを備えており 充電ケースに完全互換 携帯用収納ケース 3ペア (ホワイトとグレー, Mサイズ3ペア)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 13614.0,
+      "t30d_units": 6.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 625809889102,
+      "merchant_name": "LIDASA",
+      "asin": "B0GCCDT3Z3",
+      "item_name": "NWYRJO AirPods Pro 3 専用 交換用 イヤーピース シリコーンと低反発形状記憶スポンジ AirPods Pro 3 イヤーチップ 快適 遮音性/フィット感/脱落防止/柔らかく ノイズ低減穴と内蔵防塵スクリーンを備えており 充電ケースに完全互換 携帯用収納ケース 3ペア (ホワイトとオレンジ, S/M/Lサイズ各1ペア)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 24765.56,
+      "t30d_units": 11.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 625809889102,
+      "merchant_name": "LIDASA",
+      "asin": "B0GCCYP9JH",
+      "item_name": "NWYRJO AirPods Pro 3 専用 交換用 イヤーピース シリコーンと低反発形状記憶スポンジ AirPods Pro 3 イヤーチップ 快適 遮音性/フィット感/脱落防止/柔らかく ノイズ低減穴と内蔵防塵スクリーンを備えており 充電ケースに完全互換 携帯用収納ケース 3ペア (ホワイトとオレンジ, Sサイズ3ペア)",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 6734.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 625809889102,
+      "merchant_name": "LIDASA",
+      "asin": "B0GCCPVMJC",
+      "item_name": "NWYRJO AirPods Pro 3 専用 交換用 イヤーピース シリコーンと低反発形状記憶スポンジ AirPods Pro 3 イヤーチップ 快適 遮音性/フィット感/脱落防止/柔らかく ノイズ低減穴と内蔵防塵スクリーンを備えており 充電ケースに完全互換 携帯用収納ケース 3ペア (ブラックとオレンジ, Lサイズ3ペア)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1996.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 625809889102,
+      "merchant_name": "LIDASA",
+      "asin": "B0GCCZ1J4M",
+      "item_name": "NWYRJO AirPods Pro 3 専用 交換用 イヤーピース シリコーンと低反発形状記憶スポンジ AirPods Pro 3 イヤーチップ 快適 遮音性/フィット感/脱落防止/柔らかく ノイズ低減穴と内蔵防塵スクリーンを備えており 充電ケースに完全互換 携帯用収納ケース 3ペア (ホワイトとグレー, S/M/Lサイズ各1ペア)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 24083.33,
+      "t30d_units": 11.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 625809889102,
+      "merchant_name": "LIDASA",
+      "asin": "B0GCCYLPY5",
+      "item_name": "NWYRJO AirPods Pro 3 専用 交換用 イヤーピース シリコーンと低反発形状記憶スポンジ AirPods Pro 3 イヤーチップ 快適 遮音性/フィット感/脱落防止/柔らかく ノイズ低減穴と内蔵防塵スクリーンを備えており 充電ケースに完全互換 携帯用収納ケース 3ペア (ブラックとオレンジ, Mサイズ3ペア)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 9138.66,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 625809889102,
+      "merchant_name": "LIDASA",
+      "asin": "B0GCCPWMSN",
+      "item_name": "NWYRJO AirPods Pro 3 専用 交換用 イヤーピース シリコーンと低反発形状記憶スポンジ AirPods Pro 3 イヤーチップ 快適 遮音性/フィット感/脱落防止/柔らかく ノイズ低減穴と内蔵防塵スクリーンを備えており 充電ケースに完全互換 携帯用収納ケース 3ペア (ホワイトとオレンジ, Mサイズ3ペア)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 13111.0,
+      "t30d_units": 6.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

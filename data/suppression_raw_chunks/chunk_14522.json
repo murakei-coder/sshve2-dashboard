@@ -1,112 +1,21 @@
 {
-  "1001401853102": [
+  "1001412696102": [
     {
-      "asin": "B0DYH87SBV",
-      "item_name": "[ClutterFree] チェスト タンス 収納チェスト リビング 収納 洋服収納 大容量 4段10杯 100*30*98cm 箪笥 衣類収納 引き出し付き おしゃれ 収納ケース 木製天板 組立簡単 AG-CTG02 (4段10杯 白+白)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 1177870.99,
-      "t30d_units": 143.0
-    },
-    {
-      "asin": "B0DYHRC76W",
-      "item_name": "[ClutterFree] チェスト タンス 収納チェスト リビング 収納 洋服収納 大容量 4段10杯 100*30*98cm 箪笥 衣類収納 引き出し付き おしゃれ 収納ケース 木製天板 組立簡単 AG-CTG02 (4段10杯 ブラック+ブラック)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1525481.5,
-      "t30d_units": 179.0
-    },
-    {
-      "asin": "B0FKM4QHCV",
-      "item_name": "[ClutterFree] オフィスチェア 椅子 テレワーク 疲れない デスクチェア コンパクト ワークチェア コンパクト 高反発座面 座面昇降 360度回転 人気 おしゃれ 勉強/テレワーク/家庭用/事務所用 (ボア, 白枠+白足)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F6N5TFSB",
-      "item_name": "[ClutterFree] チェスト タンス 2段棚 布製チェスト 引き出し 洋服タンス 大容量 リビング収納 衣類収納 整理タンス 箪笥 木製天板付き 簡単組立 多機能 転倒防止 AG-CTG04 (4段8杯 黑色)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F6N66644",
-      "item_name": "[ClutterFree] チェスト タンス 2段棚 布製チェスト 引き出し 洋服タンス 大容量 リビング収納 衣類収納 整理タンス 箪笥 木製天板付き 簡単組立 多機能 転倒防止 AG-CTG04 (4段8杯 米色)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 10605.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F6N4D56H",
-      "item_name": "[ClutterFree] チェスト タンス 収納チェスト 2段棚 布製チェスト 引き出し 洋服タンス 側面 収納 大容量 リビング収納 衣類収納 箪笥 木製天板付き 簡単組立 多機能 転倒防止 AG-CTG05 (4段8杯 黑色)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 27920.66,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DYHTLD8Q",
-      "item_name": "ClutterFree タンス 収納 チェスト 布製 引き出し 洋服収納 リビング収納 大容量 衣類収納 洋服タンス 衣装棚 箪笥 木製天板付き 簡単組立 多機能 転倒防止 AG-CTG01 (4段9杯 白＋ベージュ)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 155395.0,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0DYGV6TPS",
-      "item_name": "[ClutterFree] タンス 収納 チェスト 布製 引き出し 洋服収納 リビング収納 大容量 衣類収納 洋服タンス 衣装棚 箪笥 木製天板付き 簡単組立 多機能 転倒防止 AG-CTG01 (4段9杯 ブラック+ブラック）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 31184.85,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0FKLXXWTL",
-      "item_name": "[ClutterFree] オフィスチェア 椅子 テレワーク 疲れない デスクチェア コンパクト ワークチェア コンパクト 高反発座面 座面昇降 360度回転 人気 おしゃれ 勉強/テレワーク/家庭用/事務所用 (フェイクレザー, 米白枠+白足)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FKM7HPN6",
-      "item_name": "[ClutterFree] オフィスチェア 椅子 テレワーク 疲れない デスクチェア コンパクト ワークチェア コンパクト 高反発座面 座面昇降 360度回転 人気 おしゃれ 勉強/テレワーク/家庭用/事務所用 (フェイクレザー, 棕枠+白足)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F6N5566T",
-      "item_name": "[ClutterFree] チェスト タンス 収納チェスト 2段棚 布製チェスト 引き出し 洋服タンス 側面 収納 大容量 リビング収納 衣類収納 箪笥 木製天板付き 簡単組立 多機能 転倒防止 AG-CTG05 (4段8杯 米色)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 83760.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0FXDX21RD",
-      "item_name": "[ClutterFree] チェスト タンス 収納チェスト リビング 収納 洋服収納 大容量 4段10杯 100*30*98cm 箪笥 衣類収納 引き出し付き おしゃれ 収納ケース 木製天板 組立簡単 AG-CTG02 (3段7杯 米色)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 102046.0,
-      "t30d_units": 15.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1001412696102,
+      "merchant_name": "ComfortLiving-JP",
+      "asin": "B0DSJ8KXFZ",
+      "item_name": "Gadeel 低反発 椅子 クッション 人間工学 座布団 腰痛対策/改善 蒸れない通気性 四季通用 お尻クッション 骨盤サポートお尻が痛くならない カバー洗える 使用場所 オフィス/車中/自宅/プレゼント用（グレー）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 7251.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

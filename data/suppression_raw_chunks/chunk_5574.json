@@ -1,22 +1,38 @@
 {
-  "18725239822": [
+  "18725741022": [
     {
-      "asin": "B0B143YJJ9",
-      "item_name": "FSYAO/GZBKS レシプロソー 木材や金属を切断するコードレスチェーンソー、レシプロソー（マキタ18Vシリーズバッテリー対応）（バッテリー/ブレードは含まず）",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 89834.93,
-      "t30d_units": 25.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 18725741022,
+      "merchant_name": "LAVA Guitar JP",
+      "asin": "B0D45G3TYK",
+      "item_name": "LAVA ME AIR ポータブル カーボンファイバー エレクトリック アコースティック ギター。オンボード エフェクトとマグネティック ピックアップを搭載した初心者向けトラベル ギター。ブラック",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 56000.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B08TQWQ837",
-      "item_name": "FSYAO 18V 充電式 コードレスグラインダー 100ミリディスクグラインダー BL21AG 2段階変速型 ディスクグラインダ 切断(本体のみ、バッテリー・充電器別売り)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 33520.0,
-      "t30d_units": 8.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 18725741022,
+      "merchant_name": "LAVA Guitar JP",
+      "asin": "B0D45JYKPR",
+      "item_name": "LAVA ME AIR ポータブル カーボンファイバー エレクトリック アコースティック ギター。オンボード エフェクトとマグネティック ピックアップを搭載した初心者向けトラベル ギター。シルバー",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 112000.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

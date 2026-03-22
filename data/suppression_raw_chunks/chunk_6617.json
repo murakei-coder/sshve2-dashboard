@@ -1,13 +1,38 @@
 {
-  "41496284722": [
+  "41499193422": [
     {
-      "asin": "B08JTSG5YJ",
-      "item_name": "5つ星ホテルで使用【オーガニックジョセフィン 500mlモイスト シャンプー＆トリートメントセット】 高級ホテル仕様 ノンシリコン・無添加 ダメージケア ボタニカル成分配合 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 332585.15,
-      "t30d_units": 67.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 41499193422,
+      "merchant_name": "MARIÉLAN Official",
+      "asin": "B0GHPX9YKB",
+      "item_name": "MARIÉLAN ふきとり化粧水 兼用 ピーリング AHA BHA PHA toner 毎日使えるph4.5低刺激な毛穴ケア 角質ケア 無添加 敏感肌 乾燥肌 皮脂 保湿 インナードライ デイリースキンブライトトナー 150ml マリエラン",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 41664.22,
+      "t30d_units": 17.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 41499193422,
+      "merchant_name": "MARIÉLAN Official",
+      "asin": "B0GLYBHTXF",
+      "item_name": "MARIÉLAN バリアクリーム 保湿クリーム 顔 ナイアシンアミド 5種類のセラミド パンテノール アミノ酸 ph5.5 乾燥肌 敏感肌 低刺激 無添加 インナードライ スキンケア ハリ ツヤ肌 くすみ ゆらぎ肌 透明感 しっとり バリアモイスチャークリーム 50g マリエラン",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 14001.0,
+      "t30d_units": 31.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

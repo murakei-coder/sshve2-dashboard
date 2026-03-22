@@ -1,112 +1,21 @@
 {
-  "803334616002": [
+  "803358993602": [
     {
-      "asin": "B086VKZZZY",
-      "item_name": "[BOJ] Glow Serum : Propolis + Niacinamide [Beauty of Joseon] 光彩プロポリスセラム 30ml",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 324983.57,
-      "t30d_units": 135.0
-    },
-    {
-      "asin": "B09DLFCB69",
-      "item_name": "[BOJ] Glow Deep Serum : Rice + Alpha arbutin [Beauty of Joseon] 米ぬか水セラム 30ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 345523.43,
-      "t30d_units": 143.0
-    },
-    {
-      "asin": "B0BQVTM1BJ",
-      "item_name": "[BOJ] Matte Sun Stick : Mugwort + Camelia [Beauty of Joseon] ヨモギサンスティック 18g SPF50+ PA++++",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 269581.51,
-      "t30d_units": 123.0
-    },
-    {
-      "asin": "B0B3R1R2DG",
-      "item_name": "[BOJ] Revive Serum : Ginseng + Snail Mucin [Beauty of Joseon] 高麗人参スネイルセラム 30ml",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 126949.59,
-      "t30d_units": 53.0
-    },
-    {
-      "asin": "B0BJPKX14D",
-      "item_name": "[BOJ] Red Bean Refreshing Pore Mask [Beauty of Joseon] 赤小豆毛穴浄化マスク 140ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 2384180.39,
-      "t30d_units": 955.0
-    },
-    {
-      "asin": "B08WJQ3XJD",
-      "item_name": "[BOJ] Dynasty Cream [Beauty of Joseon] 王朝クリーム 50ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 656055.04,
-      "t30d_units": 248.0
-    },
-    {
-      "asin": "B0DFMGBZ9Z",
-      "item_name": "[BOJ] Relief Sun : Rice + Probiotics [Beauty of Joseon] 米サンクリーム 50ml SPF50+ PA++++ (米アクアフレッシュ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 1881884.26,
-      "t30d_units": 852.0
-    },
-    {
-      "asin": "B0B45LL4DD",
-      "item_name": "[BOJ] Revive Eye Serum : Ginseng + Retinal [Beauty of Joseon] 高麗人参アイクリーム 30ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 920935.35,
-      "t30d_units": 418.0
-    },
-    {
-      "asin": "B0BJPJGG13",
-      "item_name": "[BOJ] Red Bean Water Gel [Beauty of Joseon] 赤小豆水分ウォータージェル 100ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 138286.04,
-      "t30d_units": 66.0
-    },
-    {
-      "asin": "B09JVNZVH3",
-      "item_name": "[BOJ] Relief Sun : Rice + Probiotics [Beauty of Joseon] 米サンクリーム 50ml SPF50+ PA++++ (米サンクーリム)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 4012165.38,
-      "t30d_units": 1826.0
-    },
-    {
-      "asin": "B0D44T7RW9",
-      "item_name": "[BOJ] Glow Replenishing Rice milk [Beauty of Joseon] 米トナー 150ml * 米スキンケア・トナー・化粧水",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 66127.77,
-      "t30d_units": 27.0
-    },
-    {
-      "asin": "B08RLZ28QK",
-      "item_name": "[BOJ] Ginseng Essence Water [Beauty of Joseon] 高麗人参エッセンスウォーター 150ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 250326.06,
-      "t30d_units": 115.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 803358993602,
+      "merchant_name": "TIGERUNIT",
+      "asin": "B0F42JKJJS",
+      "item_name": "TIGERUNIT（タイガーユニット） 【取手付き】六角レンチセット 9本組 ボールポイント25°| 1.5-10mm | 防錆・高耐久・高精度 DIY・クロスバイク・ロードバイク・修理・機械整備・家具組立 6角レンチ ミリねじ用",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 140062.57,
+      "t30d_units": 118.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,31 +1,55 @@
 {
-  "1036492415002": [
+  "1036594856602": [
     {
-      "asin": "B0F2FBR2NS",
-      "item_name": "Setpower RF25 車載冷蔵庫 2室【内蔵製氷皿 50時間持続保冷】25L ポータブル冷蔵庫 15分急速冷凍 -20℃～20 ℃ アプリ遠隔操作 省エネ 低電圧保護 ポータブル冷凍庫 DC 12V/24V AC 100V 車載家庭両用 持ち運び 冷凍庫 小型【車中泊/キャンプ/旅行/釣り/停電対策/トラック/買い物 で活躍】 （グレー）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 12876.0,
-      "t30d_units": 1.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1036594856602,
+      "merchant_name": "【公式】Shuwan",
+      "asin": "B0FSKDQTSH",
+      "item_name": "SHUWAN 酒器 おちょこ ぐい呑み 日本酒グラス 270ml 磁器 日本製 酒杯 お猪口 盃 グラス ギフト プレゼント (桐箱入り（2個セット）)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F2HLG93Y",
-      "item_name": "Setpower RF20 車載冷蔵庫 2室【内蔵製氷皿 50時間持続保冷】20L ポータブル冷凍庫 15mins 急速冷凍 -20℃～20 ℃ アプリ遠隔操作 省エネ 低電圧保護 ポータブル冷蔵庫 DC 12V/24V AC 100V 車載家庭両用 持ち運び 冷凍庫 小型【車中泊/キャンプ/旅行/釣り/停電対策/トラック/買い物/防災 で活躍】 (ブラック）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 218579.33,
-      "t30d_units": 12.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1036594856602,
+      "merchant_name": "【公式】Shuwan",
+      "asin": "B0DYD2DRKL",
+      "item_name": "SHUWAN 酒器 おちょこ ぐい呑み 日本酒グラス 270ml 磁器 日本製 酒杯 お猪口 盃 グラス ギフト プレゼント",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 189205.0,
+      "t30d_units": 38.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F1TNJSPR",
-      "item_name": "Setpower RF25 車載冷蔵庫 25L【内蔵製氷皿 50時間持続保冷】ポータブル冷蔵庫 28W省エネ 15分急速冷凍 -20℃～20 ℃ アプリ遠隔操作 低騒音 DC12V/24V AC100V 車載家庭両用 ポータブル冷凍庫 小型 持ち運び【車中泊/キャンプ/旅行/釣り/停電対策/トラック で活躍】 (ブラック）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 190970.0,
-      "t30d_units": 10.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1036594856602,
+      "merchant_name": "【公式】Shuwan",
+      "asin": "B0FSQB2G21",
+      "item_name": "SHUWAN 酒器 おちょこ ぐい呑み 日本酒グラス 270ml 磁器 日本製 酒杯 お猪口 盃 グラス ギフト プレゼント (桐箱入り)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 77115.66,
+      "t30d_units": 13.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

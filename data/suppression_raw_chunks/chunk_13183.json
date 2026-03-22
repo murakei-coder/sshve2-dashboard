@@ -1,40 +1,21 @@
 {
-  "836995018302": [
+  "837011391302": [
     {
-      "asin": "B0DQ74Z2BC",
-      "item_name": "【北海道産 黒毛和牛 100％使用】ノースプラス 北海道産 黒毛和牛100％ ハンバーグ 国産 冷凍 高級 冷凍食品 ギフト 贈り物 個包装 130g×6個 780g",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 1197424.0,
-      "t30d_units": 295.0
-    },
-    {
-      "asin": "B0DGXTK66P",
-      "item_name": "【北海道産 天然昆布100％使用】ノースプラス 北海道 スパイス 国産 無農薬 3袋 天然素材 スパイス キャンプ 調味料 アウトドアBBQ 肉 魚 料理 300g",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DGXWWGMC",
-      "item_name": "【北海道産 天然昆布100％使用】ノースプラス 北海道 スパイス 国産 無農薬 2袋 天然素材 スパイス キャンプ 調味料 アウトドアBBQ 肉 魚 料理 200g",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DGXTHLX8",
-      "item_name": "【北海道産 天然昆布100％使用】ノースプラス 北海道 スパイス 国産 無農薬 天然素材 スパイス キャンプ 調味料 アウトドアBBQ 肉 魚 料理 100g",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 139138.5,
-      "t30d_units": 124.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 837011391302,
+      "merchant_name": "ケンクラーベ",
+      "asin": "B0D419WLT4",
+      "item_name": "ケンクラーベ 知ってそうで知らなかったで盛り上がる！知識・推測・戦略を使う遊んで学べる県比べ カードゲーム ボードゲーム",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 395437.5,
+      "t30d_units": 134.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

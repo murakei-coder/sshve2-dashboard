@@ -1,688 +1,225 @@
 {
-  "34041907722": [
+  "34048382222": [
     {
-      "asin": "B0F2HRXNC2",
-      "item_name": "TOURI&TORI バイク用 リフレクター 角度45° アルミ製 スリムリフレクターキット 反射板 汎用 (クリアー,126cc以上用)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 12688.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0D2NYP6D9",
-      "item_name": "バイク用 ナンバープレートホルダー 21年新基準対応 軽量型 スタビライザー リフレクター付き (クリアー, 125cc以下(角型))",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F2HQK15P",
-      "item_name": "TOURI&TORI バイク用 リフレクター 角度45° アルミ製 スリムリフレクターキット 反射板 汎用 (ブラック,126cc以上用)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 26961.41,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0FGHLRCN2",
-      "item_name": "TOURI&TORI バイク エンブレム バイク フロントフォーク エンブレム ロゴ バイクパーツ 装着簡単 防水防錆 グロメット付き (ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 35985.25,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0DNF3SPJ5",
-      "item_name": "TOURI&TORI GB350S サイドバックサポート バイク サイドバックサポートGB350S（21-23） 右側専用 サドルバッグサポート 防水防錆 GB350S カスタムパーツ 日本語説明書附属 ブラック",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 9870.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0GKM5PK8N",
-      "item_name": "猫ハウス 屋外 防水・高撥水設計 雨対策 野外猫ハウス 防風仕様 外猫ハウス 通気性あり 組立簡単 四タイプあり TypeB ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 5080.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F2MTTW89",
-      "item_name": "TOURI&TORI フロントフォークエンブレム レブル250/500/CL250/500適応 エンブレム バイク カスタムパーツ 装着簡単 グロメット付き エンブレムステー セット（ブラック）",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DT145SDG",
-      "item_name": "TOURI&TORI レブル250 パーツ エンブレムステー レブル250/500/CL250/500適応 エンブレムステー ブラック バイク カスタムパーツ 装着簡単 説明書附属",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FD9F16XT",
-      "item_name": "バイク マルチパーパスバー クロスカブ110(JA60) マウントバー Crosscub110 グラブバー カスタムパーツ マルチパーパスバー スマホホルダー対応 カスタム 一体感 ブラック",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 14144.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0D2NXPSQK",
-      "item_name": "バイク用 ナンバープレートホルダー 21年新基準対応 軽量型 スタビライザー リフレクター付き (ブラック, 125cc以下(角型))",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 15885.71,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B08MX6JRD3",
-      "item_name": "カラス除け 鳥よけシート 鳩避け とげマット 害獣よけ猫よけ 蛇よけ 鼠よけ 鳩よけ カラスよけ 両面テープ付き 鳥害対策 動物撃退器 庭 ガーデニング 園芸 菜園 天丼 屋根 (20枚セット)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 50910.66,
-      "t30d_units": 24.0
-    },
-    {
-      "asin": "B0G7F72M52",
-      "item_name": "TOURI&TORI バイク エンブレム バイク フロントフォーク エンブレム ロゴ バイクパーツ 装着簡単 防水防錆 グロメット付き (レッド)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 2399.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0B51V7T7T",
-      "item_name": "バイク用 ヘルメットロック ステー REBEL250 REBEL500 2017年~ HONDA レブル250 レブル500 ホンダ ヘルメットホルダー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 10356.57,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0C8J1H7P8",
-      "item_name": "[ＴＯＵＲＩ＼＆＼ＴＯＲＩ] バイク用 ゲルパンツ 二重構造 ハニカムゲル お尻の痛み軽減 ブラック ライディング楽々 四節通用 男女適用 Mサイズ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 54817.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0DPQGM7T7",
-      "item_name": "TOURI&TORI バイク サイドバックサポート レブル1100/DCT(21-23)左右セット サドルバッグサポート 高強度 REBEL1100 カスタムパーツ 防水防錆 日本語説明書附属 ブラック",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 19368.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D2NYSTG9",
-      "item_name": "バイク用 ナンバープレートホルダー 21年新基準対応 軽量型 スタビライザー リフレクター付き (ブラック, 125cc以下(山型))",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 19630.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0FVXQMXD8",
-      "item_name": "ホンダ スーパーカブ 50 110 PRO クロスカブ 弁当キャリア JA45/JA44/JA42/AA09/AA07/JA60/JA61用ベトナムキャリア センターキャリア スチール製 荷台 外装 ブラック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 46484.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0C8HYZ41C",
-      "item_name": "[ＴＯＵＲＩ＼＆＼ＴＯＲＩ] バイク用 ゲルパンツ 二重構造 ハニカムゲル お尻の痛み軽減 ブラック ライディング楽々 四節通用 男女適用 Lサイズ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 132976.65,
-      "t30d_units": 34.0
-    },
-    {
-      "asin": "B0C8J2K7FG",
-      "item_name": "[ＴＯＵＲＩ＼＆＼ＴＯＲＩ] バイク用 ゲルパンツ 二重構造 ハニカムゲル お尻の痛み軽減 ブラック ライディング楽々 四節通用 男女適用 Sサイズ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 46340.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0CNCKJCHX",
-      "item_name": "バイク サイドバッグサポート '18~ クロスカブ 50/110 スーパーカブ 50/110 サドルバッグサポート (左側専用( シルバー))",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 14811.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0C73WL1HL",
-      "item_name": "バイク用 サイドバッグサポート レブル250/500(17-22) サドルバッグサポート (左右セット)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 71174.91,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0B51QPL71",
-      "item_name": "バイク用 サイドバッグサポート レブル250/500(17-22) サドルバッグサポート (左側専用)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 24735.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0CSDFZV12",
-      "item_name": "バイク用 ヘルメットロック ステー NINJA250 NINJA400 2018年~ KAWASAKI 忍者250 忍者400 川崎 ヘルメットホルダー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DNF6Q11T",
-      "item_name": "TOURI&TORI GB350 サイドバックサポート バイク サイドバックサポートGB350（21-24） 左右セット ヘルメットホルダー附属 サドルバッグサポート 防水防錆 GB350 カスタムパーツ 日本語説明書附属 ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 39460.66,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0G7YDGLDW",
-      "item_name": "猫ハウス 屋外 防水・高撥水設計 雨対策 野外猫ハウス 防風仕様 外猫ハウス 通気性あり 組立簡単 四タイプあり (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 71480.0,
-      "t30d_units": 42.0
-    },
-    {
-      "asin": "B0G125KR4L",
-      "item_name": "バイク用 キャリア リアキャリア レブル250/500(17-23)専用 グラブバーキャリア取付キット (サドルバッグサポート取付キット)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 9730.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0CLKLNV3G",
-      "item_name": "バイク バイクパーツ サイドスタンドゴム (猫足型) 交換用ボルト・カラーセット スーパーカブ | クロスカブ 等 HONDA 五色選択可能 (グリーン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 2048.75,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0C6YGSPXF",
-      "item_name": "バイク キャリア スーパーカブ JA44 JA10 AA09 AA04 クロスカブ JA45 JA60 JA10 AA60用 アップフラットキャリア リアキャリア トップケースキャリア フック付け(ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 190173.33,
-      "t30d_units": 25.0
-    },
-    {
-      "asin": "B0CLKPG6WL",
-      "item_name": "ホンダ スーパーカブ 50 110 PRO クロスカブ 弁当キャリア JA45/JA44/JA42/AA09/AA07/JA60/JA61用ベトナムキャリア センターキャリア ステンレス製 荷台 外装 (シルバー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DB4Y8SHZ",
-      "item_name": "バイク用 サイドバッグサポート エリミネーター/SE(24) サドルバッグサポート カワサキ サイドバックサポート Kawasaki ELIMINATOR/SE専用 高強度 ブラック (左側)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 67790.6,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0GKLZ57JR",
-      "item_name": "猫ハウス 屋外 防水・高撥水設計 雨対策 野外猫ハウス 防風仕様 外猫ハウス 通気性あり 組立簡単 四タイプあり Lサイズ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DNF3DM37",
-      "item_name": "TOURI&TORI GB350 サイドバックサポート バイク サイドバックサポートGB350（21-24） 右側専用 サドルバッグサポート 防水防錆 GB350 カスタムパーツ 日本語説明書附属 ブラック",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 4980.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FHP1DKZN",
-      "item_name": "バイク リアキャリア rebel250 リアキャリア レブル250/500(17-23)専用 レブル250/500 アップフラットキャリア グラブバーキャリア 荷台",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 64446.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0F2HQFMD4",
-      "item_name": "TOURI&TORI バイク用 リフレクター 角度45° アルミ製 スリムリフレクターキット 反射板 汎用 (クリアー,125cc以下用)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 9702.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0D2Q63HS7",
-      "item_name": "[ＴＯＵＲＩ＼＆＼ＴＯＲＩ] バイク用 ゲルパンツ 二重構造 ハニカムゲル お尻の痛み軽減 ブラック ライディング楽々 四節通用 男女適用 XXLサイズ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 38295.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0CF1XD12C",
-      "item_name": "バイク サイドバッグサポート '18~ クロスカブ 50/110 スーパーカブ 50/110 サドルバッグサポート (右側専用(ブラック))",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 9874.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DPQFYSXN",
-      "item_name": "TOURI&TORI バイク サイドバックサポート レブル1100/DCT(21-23)右側専用 サドルバッグサポート 高強度 REBEL1100 カスタムパーツ 防水防錆 日本語説明書附属 ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 5740.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CLNTH9Z2",
-      "item_name": "バイク バイクパーツ サイドスタンドゴム (猫足型) 交換用ボルト・カラーセット スーパーカブ | クロスカブ 等 HONDA 五色選択可能 (グレー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CCLBS5BG",
-      "item_name": "クロスカブ50 110 JA60 JA45 AA06 スーパーカブ50 110 JA59 JA44 AA07など シート固定ステー ストッパー ズレ防止 固定金具 五色あり (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 42483.01,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B0C8HXPFJD",
-      "item_name": "[ＴＯＵＲＩ＼＆＼ＴＯＲＩ] バイク用 ゲルパンツ 二重構造 ハニカムゲル お尻の痛み軽減 ブラック ライディング楽々 四節通用 男女適用 XLサイズ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 54472.0,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0C6YH6BFW",
-      "item_name": "バイク サイドバッグサポート '18~ クロスカブ 50/110 スーパーカブ 50/110 サドルバッグサポート (左右セット, ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 165871.2,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B08MX5WF36",
-      "item_name": "【2023デザイン】カラスよけ ゴミネット 折りたたみ ボックス 烏よけネット ボックス ファスナータイプ 台風対策 カラス除け カラス対策 カラス除け網 ゴミ収納庫 ねこ 猫 ゴミストッカー 135L(ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 1385.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CNCJVF3K",
-      "item_name": "バイク サイドバッグサポート '18~ クロスカブ 50/110 スーパーカブ 50/110 サドルバッグサポート (右側専用( シルバー))",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 18595.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0DQK9KYTY",
-      "item_name": "バイク用 キャリア リアキャリア レブル250/500(17-23)専用 グラブバーキャリア (サドルバッグサポート取付キット 左右セット)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 4779.8,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CLKMK8P6",
-      "item_name": "バイク バイクパーツ サイドスタンドゴム (猫足型) 交換用ボルト・カラーセット スーパーカブ | クロスカブ 等 HONDA 五色選択可能 (ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CF1VZVQS",
-      "item_name": "バイク サイドバッグサポート '18~ クロスカブ 50/110 スーパーカブ 50/110 サドルバッグサポート (左側専用, ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 54307.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0G8J731BJ",
-      "item_name": "バイク リアキャリア PCXキャリア 高剛性 強化モデル PCX125 PCX150 PCX160 e:HEV (JK05/JK06/KF47/JF81/JF56/JF28) 適合 リアキャリア 荷台 グラブバーキャリア ブラック 電着塗装 GIVI/SHADトップケース対応 カスタムパーツ 取付ボルト付属 (2010~2025年 全モデル対応)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 126208.08,
-      "t30d_units": 32.0
-    },
-    {
-      "asin": "B0DNF5Y9QP",
-      "item_name": "TOURI&TORI GB350S サイドバックサポート バイク サイドバックサポートGB350S（21-23） 左側専用 ヘルメットホルダー附属 サドルバッグサポート 防水防錆 GB350S カスタムパーツ 日本語説明書附属 ブラック",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 24900.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0F2HPG13R",
-      "item_name": "TOURI&TORI バイク用 リフレクター 21年新基準対応 角度30° アルミ製 スリムリフレクターキット 反射板 汎用 (クリアー,125cc以下用)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CSDHL6M8",
-      "item_name": "バイク用 ヘルメットロック ステー ELIMINATOR 400 SE(24)専用 エリミネーター/SE(24)専用 ヘルメットホルダー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 43880.66,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0CNCFNQSV",
-      "item_name": "バイク サイドバッグサポート '18~ クロスカブ 50/110 スーパーカブ 50/110 サドルバッグサポート (左右セット( シルバー))",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 54258.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0F2HQM9LT",
-      "item_name": "TOURI&TORI バイク用 リフレクター 21年新基準対応 角度30° アルミ製 スリムリフレクターキット 反射板 汎用 (クリアー,126cc以上用)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 6344.5,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0D2NZK67H",
-      "item_name": "バイク用 ナンバープレートホルダー 21年新基準対応 軽量型 スタビライザー リフレクター付き (クリアー, 126cc以上用)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F2MTH9QB",
-      "item_name": "TOURI&TORI フロントフォークエンブレム レブル250/500/CL250/500適応 エンブレム バイク カスタムパーツ 装着簡単 グロメット付き エンブレムステー セット (レット)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 30320.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0CNQZ1JVT",
-      "item_name": "ヘッドライトバイザー スーパーカブC125(JA48)、クロスカブ110(JA45)、スーパーカブPRO110(JA42)等 クロームメッキ (42mmロング)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 43965.25,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B0FD9DSC91",
-      "item_name": "バイク フロントキャリア クロスカブ50 110 ヘッドライトキャリア スチール製 クロスカブ50/110 AA06/JA45/JA60 適用 カスタム 一体感 荷台 外装 ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 60054.46,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0DNF3F5DH",
-      "item_name": "TOURI&TORI GB350 サイドバックサポート バイク サイドバックサポートGB350（21-24） 左右セット サドルバッグサポート 防水防錆 GB350 カスタムパーツ 日本語説明書附属 ブラック",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 8790.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DNF3N648",
-      "item_name": "TOURI&TORI GB350S サイドバックサポート バイク サイドバックサポートGB350S（21-23） 左右セットヘルメットホルダー附属 サドルバッグサポート 防水防錆 GB350S カスタムパーツ 日本語説明書附属 ブラック",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 15780.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GKNSHB1N",
-      "item_name": "猫ハウス 屋外 防水・高撥水設計 雨対策 野外猫ハウス 防風仕様 外猫ハウス 通気性あり 組立簡単 四タイプあり グレー Mサイズ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 9360.05,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DNF62853",
-      "item_name": "TOURI&TORI GB350S サイドバックサポート バイク サイドバックサポートGB350S（21-23） 左側専用 サドルバッグサポート 防水防錆 GB350S カスタムパーツ 日本語説明書附属 ブラック",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 9870.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0CCL8L21R",
-      "item_name": "クロスカブ50 110 JA60 JA45 AA06 スーパーカブ50 110 JA59 JA44 AA07など シート固定ステー ストッパー ズレ防止 固定金具 五色あり(イエロー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 13020.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0D2NWW4CN",
-      "item_name": "バイク用 ナンバープレートホルダー 21年新基準対応 軽量型 スタビライザー リフレクター付き (クリアー, 125cc以下(山型))",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DB4QPPL7",
-      "item_name": "バイク用 サイドバッグサポート エリミネーター/SE(24) サドルバッグサポート カワサキ サイドバックサポート Kawasaki ELIMINATOR/SE専用 高強度 ブラック (左右両側)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 92964.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0DNF5VHCL",
-      "item_name": "TOURI&TORI GB350 サイドバックサポート バイク サイドバックサポートGB350（21-24） 左側専用 サドルバッグサポート 防水防錆 GB350 カスタムパーツ 日本語説明書附属 ブラック",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 4980.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0B51R7YNJ",
-      "item_name": "バイク用 サイドバッグサポート レブル250/500(17-22) サドルバッグサポート (右側専用)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 9894.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DNF4D7T4",
-      "item_name": "TOURI&TORI GB350 サイドバックサポート バイク サイドバックサポートGB350（21-24） 左側専用 ヘルメットホルダー附属 サドルバッグサポート 防水防錆 GB350 カスタムパーツ 日本語説明書附属 ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 23920.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DB4S77QM",
-      "item_name": "バイク用 サイドバッグサポート エリミネーター/SE(24) サドルバッグサポート カワサキ サイドバックサポート Kawasaki ELIMINATOR/SE専用 高強度 ブラック (右側)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 6679.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F2HR51BK",
-      "item_name": "TOURI&TORI バイク用 リフレクター 角度45° アルミ製 スリムリフレクターキット 反射板 汎用 (ブラック,125cc以下用)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D2NXCYY6",
-      "item_name": "バイク用 ナンバープレートホルダー 21年新基準対応 軽量型 スタビライザー リフレクター付き (ブラック, 126cc以上用)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 21511.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0F2S9ZM4N",
-      "item_name": "バイク用 トップケース フィッティング GIVI(ジビ)モノロック専用 スーパーカブ50/100(12-22) クロスカブ50/110(13-22)適合 スペシャルキャリア",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09Z9K1MDB",
-      "item_name": "[トウリトリ]IHクッキングヒーターマット 2枚セット カトラリーブラック カバー 焼け 焦げ 防止 マット IHコンロのコゲつき汚れ、キズつきを防ぐ (直径22㎝‐灰花-2枚)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F2HQMKG6",
-      "item_name": "TOURI&TORI バイク用 リフレクター 21年新基準対応 角度30° アルミ製 スリムリフレクターキット 反射板 汎用 (ブラック,126cc以上用)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 8017.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DQKYF7JM",
-      "item_name": "バイク用 ヘルメットホルダー NINJA250 NINJA400 2018年~ KAWASAKI 忍者250 忍者400 川崎 ヘルメットロックステー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DNF4XW6V",
-      "item_name": "TOURI&TORI GB350S サイドバックサポート バイク サイドバックサポートGB350S（21-23） 左右セット サドルバッグサポート 防水防錆 GB350S カスタムパーツ 日本語説明書附属 ブラック",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 31400.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0CCLC53HN",
-      "item_name": "クロスカブ50 110 JA60 JA45 AA06 スーパーカブ50 110 JA59 JA44 AA07など シート固定ステー ストッパー ズレ防止 固定金具 五色あり (レッド)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 13019.33,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0F2HTVK3B",
-      "item_name": "TOURI&TORI バイク用 リフレクター 21年新基準対応 角度30° アルミ製 スリムリフレクターキット 反射板 汎用 (ブラック,125cc以下用)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 34048382222,
+      "merchant_name": "HugenJP",
+      "asin": "B09MVVV3L6",
+      "item_name": "MOTONOYA ベビースケール 赤ちゃんの電子体重計 新生児用 大人と子供兼用 最大荷重120kg 風袋引き機能 単位変換 電池付き 受け皿付き ワンタッチゼロ 表示固定 高精度 0-20kg d=5g、20-120kg d=20g 軽量薄型 凹面デザイン ペット体重計 出産祝い 授乳 母乳 育児 新生児/大人/犬/猫/秋田犬/柴犬/うさぎ",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 36548.0,
+      "t30d_units": 8.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 34048382222,
+      "merchant_name": "HugenJP",
+      "asin": "B08HX8N3YK",
+      "item_name": "軽トラック 荷台シート 防水仕樣 580ｇ/㎡厚手 PVC帆布 ゴムロープ付属 トラックシート 日焼け防止 耐凍性 耐候性 四角加固 (2.1ｘ1.9m, ブルー)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 154346.66,
+      "t30d_units": 33.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 34048382222,
+      "merchant_name": "HugenJP",
+      "asin": "B08R972PHR",
+      "item_name": "軽トラック 荷台シート 2.1ｍ×1.9ｍ 防水仕樣 580ｇ/㎡厚手 PVC帆布 ゴムロープ付属 トラックシート 日焼け防止 耐凍性 耐候性 四隅加固 レッド",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 150862.0,
+      "t30d_units": 32.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 34048382222,
+      "merchant_name": "HugenJP",
+      "asin": "B08H5NLF47",
+      "item_name": "軽トラック 荷台シート 防水仕樣 580ｇ/㎡厚手 PVC帆布 ゴムロープ付属 トラックシート 日焼け防止 耐凍性 耐候性 四角加固 (2.1ｘ1.9m, シルバー)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 127958.65,
+      "t30d_units": 27.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 34048382222,
+      "merchant_name": "HugenJP",
+      "asin": "B08H5MXRNF",
+      "item_name": "軽トラック 荷台シート 2.1ｍ×1.9ｍ 防水仕樣 580ｇ/㎡厚手 PVC帆布 ゴムロープ付属 トラックシート 日焼け防止 耐凍性 耐候性 四隅加固 グリーン",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 9958.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 34048382222,
+      "merchant_name": "HugenJP",
+      "asin": "B08R975SRN",
+      "item_name": "トラック 荷台シート 3.6ｍ×2.4ｍ 1t 1.5t 2t対応 580ｇ/㎡厚手 防水仕樣 PVC帆布 ゴムロープ付属 トラックシート 日焼け防止 耐凍性 耐候性 四角加固 レッド",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 193492.2,
+      "t30d_units": 29.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 34048382222,
+      "merchant_name": "HugenJP",
+      "asin": "B08R96XNZ5",
+      "item_name": "軽トラック 荷台シート 2.1ｍ×1.9ｍ 防水仕樣 580ｇ/㎡厚手 PVC帆布 ゴムロープ付属 トラックシート 日焼け防止 耐凍性 耐候性 真鍮ハトメ 四隅加固 茶褐色",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": -498.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 34048382222,
+      "merchant_name": "HugenJP",
+      "asin": "B08H5N54NZ",
+      "item_name": "軽トラック 荷台シート 防水仕樣 580ｇ/㎡厚手 PVC帆布 ゴムロープ付属 トラックシート 日焼け防止 耐凍性 耐候性 四角加固 (3.6 × 2.4m, シルバー)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 125980.33,
+      "t30d_units": 19.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 34048382222,
+      "merchant_name": "HugenJP",
+      "asin": "B08HWMMNXD",
+      "item_name": "トラック 荷台シート 3.6ｍ×2.4ｍ 1t 1.5t 2t対応 580ｇ/㎡厚手 防水仕樣 PVC帆布 ゴムロープ付属 トラックシート 日焼け防止 耐凍性 耐候性 四角加固 グリーン",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 95964.0,
+      "t30d_units": 14.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 34048382222,
+      "merchant_name": "HugenJP",
+      "asin": "B08R9746S4",
+      "item_name": "トラック 荷台シート 3.6ｍ×2.4ｍ 1t 1.5t 2t対応 580ｇ/㎡厚手 防水仕樣 PVC帆布 ゴムロープ付属 トラックシート 日焼け防止 耐凍性 耐候性 四角加固 茶褐色",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 60891.0,
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 34048382222,
+      "merchant_name": "HugenJP",
+      "asin": "B08R95GRDD",
+      "item_name": "トラック 荷台シート 3.6ｍ×2.4ｍ 1t 1.5t 2t対応 580ｇ/㎡厚手 防水仕樣 PVC帆布 ゴムロープ付属 トラックシート 日焼け防止 耐凍性 耐候性 四角加固 ブラック",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 219887.0,
+      "t30d_units": 34.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 34048382222,
+      "merchant_name": "HugenJP",
+      "asin": "B08HWM7L6P",
+      "item_name": "軽トラック 荷台シート 防水仕樣 580ｇ/㎡厚手 PVC帆布 ゴムロープ付属 トラックシート 日焼け防止 耐凍性 耐候性 四角加固 (3.6 × 2.4m, ブルー)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 184772.0,
+      "t30d_units": 28.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 34048382222,
+      "merchant_name": "HugenJP",
+      "asin": "B08R96T59P",
+      "item_name": "軽トラック 荷台シート 2.1ｍ×1.9ｍ 防水仕樣 580ｇ/㎡厚手 PVC帆布 ゴムロープ付属 トラックシート 日焼け防止 耐凍性 耐候性 四隅加固 ブラック",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 63315.33,
+      "t30d_units": 13.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

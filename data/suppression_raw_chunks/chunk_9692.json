@@ -1,13 +1,55 @@
 {
-  "81190512722": [
+  "81208717522": [
     {
-      "asin": "B0BS1TMYY6",
-      "item_name": "電源付き USB ハブ 10Gbps 17 ポート 96W USB 3.2 ハブ（USB-A 3.2×10 + QC 24W 急速充電 ×3 + USB-C 3.2×2 + SD/TF カードリーダー）12V/8A 電源アダプター付き ノート PC/デスクトップ PC/HDD/フラッシュドライブ対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 220302.41,
-      "t30d_units": 20.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 81208717522,
+      "merchant_name": "NARVIK【メーカー直営店】",
+      "asin": "B0BPM474FS",
+      "item_name": "NARVIK チェーンソー 充電式 ブラシレスモーター 21V 強力 電動チェーンソ 1kg軽量 片手操作 左右の手に適用 小型 ハンディ チェーンソー 木工切断 枝切り 薪作り 剪定ばさみ 庭木の手入れに使っ 1.5Ah充電式バッテリLEDライト2本付き (マキタ バッテリーに対応) ・替刃・収納ケース・日本語取扱説明書",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 81208717522,
+      "merchant_name": "NARVIK【メーカー直営店】",
+      "asin": "B0BPHLP33X",
+      "item_name": "NARVIK チェーンソー 充電式 21V 3.0Ah大容量バッテリー2個搭載(マキタ バッテリー対応)電動チェーンソー 給油システム 小型チェーンソー LEDバッテリー残量表示 強力 軽量 片手 木工切断、薪作り、園芸設備、枝切り、庭木の剪定、竹の伐採等 充電式チェーンソー 電動のこぎり 日本語取扱説明書付き H",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 975197.16,
+      "t30d_units": 83.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 81208717522,
+      "merchant_name": "NARVIK【メーカー直営店】",
+      "asin": "B0BPHPK4G5",
+      "item_name": "チェーンソー 充電式 21V 3.0Ah大容量バッテリー2個搭載(マキタ バッテリー対応)電動チェーンソー 給油システム 小型チェーンソー LEDバッテリー残量表示 強力 軽量 片手 木工切断、薪作り、園芸設備、枝切り、庭木の剪定、竹の伐採等 充電式チェーンソー 電動のこぎり 日本語取扱説明書付き HQYYDS00",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 595007.99,
+      "t30d_units": 45.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

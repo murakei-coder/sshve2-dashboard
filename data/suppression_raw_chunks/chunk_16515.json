@@ -1,13 +1,38 @@
 {
-  "1143588571902": [
+  "1143630686602": [
     {
-      "asin": "B0FX2VQW4K",
-      "item_name": "ブロワー 充電式 ブロアー 【1台2役 24V 3000mAhバッテリ一2個搭載】 強力 電動ブロワー コードレス 1台2役 大風量 吹き飛ばし・集塵機能 風量調整 無断変速 大風量 回転速度:0-20000 r/min 軽量 コンパクト 落ち葉 車の水滴 庭掃除 急速充電器付き 日本語取扱説明書付き (blue)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 220334.33,
-      "t30d_units": 35.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1143630686602,
+      "merchant_name": "Ninja Grease Japan",
+      "asin": "B0GCF3JMMY",
+      "item_name": "NINJA GREASE【Ninja 060】熱伝導グリス ノンシリコーン 高熱伝導 低熱抵抗 耐銅性 CPU・GPU用 日本製 (5g)",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 13440.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1143630686602,
+      "merchant_name": "Ninja Grease Japan",
+      "asin": "B0FZTBNPVD",
+      "item_name": "NINJA GREASE 【Ninja 060】 熱伝導グリス ノンシリコーン 高熱伝導 低熱抵抗 耐銅性 CPU・GPU用 日本製 (1.5g)",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 15302.0,
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,22 +1,21 @@
 {
-  "1005034694002": [
+  "1005066665702": [
     {
-      "asin": "B0FP2JZDYR",
-      "item_name": "BASATTO バサット まつ毛美容液 ヒト幹細胞培養液10%配合 自まつ毛のハリ・コシ・ボリュームUP 色素沈着成分フリー 5mL 2か月分",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 677464.24,
-      "t30d_units": 123.0
-    },
-    {
-      "asin": "B0FND8NHZZ",
-      "item_name": "【サロン専売品】レディマプレミアム トリートメント カラーケア ハイダメージケア 頭皮にやさしい しっとり 保湿 フローラルの香り (ボトル 300ml)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 194645.24,
-      "t30d_units": 63.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1005066665702,
+      "merchant_name": "camplux",
+      "asin": "B0FN443ZKR",
+      "item_name": "CAMPLUX Nano 3 Pro ポータブル給湯器・シャワーシステム｜バッテリー内蔵コンパクト設計｜アウトドア瞬間お湯シャワー｜多機能安全保護付き｜OD缶対応｜キャンプ・登山・釣り",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 300996.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

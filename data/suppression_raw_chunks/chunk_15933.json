@@ -1,103 +1,38 @@
 {
-  "1116119036002": [
+  "1116119665002": [
     {
-      "asin": "B0FPLTNLVC",
-      "item_name": "木春堂 感謝の気持ち 七彩おかき（7種ミックス） 300g 退職 お礼 差し入れ 名水百選使用 個包装 大容量 お菓子 詰め合わせ おかき せんべい 煎餅 あられ お供え ギフト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 332639.64,
-      "t30d_units": 145.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1116119665002,
+      "merchant_name": "Boweer Direct",
+      "asin": "B0FS1K84DF",
+      "item_name": "充電式カイロ 360°全面発熱 速熱 4階段調温 最大14時間連続発熱 モバイルバッテリー機能 10000mAh 大容量 懐中電灯機能 電気カイロ マグネット分離式 小型 軽量 おしゃれ 5V/2A急速充電 防災 ギフト プレゼント用 冬の贈り物(ブラック)",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 91884.53,
+      "t30d_units": 39.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GJM4594G",
-      "item_name": "木春堂 海苔巻きあられ もち米100% 醤油 海苔 品川巻 せんべい 煎餅 おかき 海苔巻き あられ おせんべい お煎餅 米菓",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 151413.34,
-      "t30d_units": 198.0
-    },
-    {
-      "asin": "B0G2BF7LFW",
-      "item_name": "木春堂 感謝の気持ち 彩りあられ(ざらめ × 塩) 300g 退職 お礼 差し入れ 名水百選使用 個包装 大容量 お菓子 詰め合わせ おかき せんべい 煎餅 あられ お供え ギフト ひなあられ ひな祭り",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 491793.48,
-      "t30d_units": 215.0
-    },
-    {
-      "asin": "B0G2GMXTCS",
-      "item_name": "木春堂 おかき日和 4種類 90個 海老 甘辛 青のり カレー 個包装 大容量 お菓子 業務用 詰め合わせ おかき せんべい おせんべい 煎餅 あられ ギフト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 973508.42,
-      "t30d_units": 496.0
-    },
-    {
-      "asin": "B0FPFMNLGC",
-      "item_name": "木春堂 七彩おかき 七種ミックス 300g 名水百選使用 個包装 大容量 お菓子 業務用 詰め合わせ おかき せんべい おせんべい 煎餅 あられ ギフト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 271116.11,
-      "t30d_units": 117.0
-    },
-    {
-      "asin": "B0GN29HPXW",
-      "item_name": "木春堂 炙り たたみいわし 板海苔醬油 大判 1枚(小判4枚分) 国産 駿河湾産 無添加 添加物不使用 常温 畳いわし 珍味 おつまみ カルシウム しらす イワシ ちりめん",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 16488.66,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0G3V646Q2",
-      "item_name": "木春堂 炙り たたみいわし 大判 1枚(小判4枚分) 国産 駿河湾産 無添加 添加物不使用 常温 畳いわし 珍味 おつまみ カルシウム しらす イワシ ちりめん",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 85218.25,
-      "t30d_units": 57.0
-    },
-    {
-      "asin": "B0GMZYYMG5",
-      "item_name": "木春堂 炙り たたみいわし 桜えび入り 大判 1枚(小判4枚分) 国産 駿河湾産 無添加 添加物不使用 常温 畳いわし 珍味 おつまみ カルシウム しらす イワシ ちりめん",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 5996.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0G2B75J4G",
-      "item_name": "木春堂 彩りあられ 300g 名水百選使用 個包装 大容量 ひな祭り ひなあられ お菓子 業務用 詰め合わせ おかき せんべい おせんべい 煎餅 あられ ギフト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 349395.73,
-      "t30d_units": 154.0
-    },
-    {
-      "asin": "B0GQ2SK7F4",
-      "item_name": "木春堂 おかき日和 4種類 258個 海老 甘辛 青のり カレー 個包装 大容量 お菓子 業務用 詰め合わせ おかき せんべい おせんべい 煎餅 あられ ギフト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 68610.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0G2H6HRTQ",
-      "item_name": "木春堂 おかき日和 4種類 114個 チーズ スイートコーン わさび 青のり 個包装 大容量 お菓子 業務用 詰め合わせ おかき せんべい おせんべい 煎餅 あられ ギフト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 623544.55,
-      "t30d_units": 317.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1116119665002,
+      "merchant_name": "Boweer Direct",
+      "asin": "B0FS1LGMX6",
+      "item_name": "充電式カイロ 360°全面発熱 速熱 4階段調温 最大14時間連続発熱 モバイルバッテリー機能 10000mAh 大容量 懐中電灯機能 電気カイロ マグネット分離式 小型 軽量 おしゃれ 5V/2A急速充電 防災 ギフト プレゼント用 冬の贈り物(グリーン)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 28271.99,
+      "t30d_units": 12.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

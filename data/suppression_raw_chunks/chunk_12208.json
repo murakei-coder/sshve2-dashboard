@@ -1,49 +1,21 @@
 {
-  "738343787302": [
+  "738405026202": [
     {
-      "asin": "B0DGP1G615",
-      "item_name": "The Mount 車載スマホホルダー 充電器 Qi2認定 マグセーフ対応 スマホスタンド ワイヤレス充電 シルバー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 12487.33,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DBVMG9Y6",
-      "item_name": "AAWireless 2 ワイヤレス アダプター トングル - アンドロイドオート有線をワイヤレスに変換 - 多機能ボタン - 簡単なプラグアンド プレイ セットアップ - Bluetooth 経由でスムーズに接続ーAndroid Auto",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 1571255.99,
-      "t30d_units": 145.0
-    },
-    {
-      "asin": "B0DGP5QWC5",
-      "item_name": "The Mount 車載スマホホルダー 充電器 Qi2認定 マグセーフ対応 スマホスタンド ワイヤレス充電 グレー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 48194.33,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0GD6W2C6M",
-      "item_name": "CARPLE DUO ワイヤレス 2in1 CarPlay & Android Auto アダプター iPhone＆Androidスマホ用 純正有線アンドロイドオート & カープレイ搭載車適合 ナビ 音楽 メッセージ受送信 ハンズフリー通話対応 カーアクセサリー 接続簡単 【技適取得済み品】",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 606088.99,
-      "t30d_units": 164.0
-    },
-    {
-      "asin": "B0GKNFR1Z7",
-      "item_name": "【2026新型登場】CARPLE LinkPro ミラーリング 車【スマホを大画面に映す】双方向制御 カーアダプター 双方向操作 スマホ画面をカーナビに映す iPhone Android YouTube Netflix 車で見る ワイヤレスCarPlay カーナビ ミラータッチ 接続簡単 低遅延 専用ウェブアプリ提供【技適取得済み品】",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 472110.66,
-      "t30d_units": 55.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 738405026202,
+      "merchant_name": "Bouboumise (日本企業)",
+      "asin": "B0CY2HDZNG",
+      "item_name": "ESLUVE 自転車 ライト USB充電式 大容量2000mAh 電池残量表示 1000ルーメン LEDヘッドライト 4つ調光モード 停電対応 地震対策 登山 夜釣り 自転車ヘッドライト 高輝度IPX5防水 防振 PSE認証済 懐中電灯兼用",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 1013436.77,
+      "t30d_units": 932.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

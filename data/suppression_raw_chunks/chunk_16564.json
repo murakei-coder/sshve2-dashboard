@@ -1,31 +1,21 @@
 {
-  "1146518593202": [
+  "1146519158102": [
     {
-      "asin": "B0GDF65PC9",
-      "item_name": "Snapgear M2 ワイヤレスマイク for iPhone/カメラ/Android、超軽量9.5g ワイヤレスラベリアマイク、300m伝送距離、48kHz/24bit ノイズキャンセリング、録画・配信用30時間駆動",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GC5HL172",
-      "item_name": "Snapgear MicPro ワイヤレスマイク 48kHz/32bit CD品質（トランスミッター×2 + レシーバー×1 + 充電ケース） オールインワン型ワイヤレスマイク スマートノイズキャンセリング 、AIノイズキャンセリング 伝送距離250m iPhone/Android/カメラ/PC、1年間の保証",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FYFNB163",
-      "item_name": "SnapGear MicMiniワイヤレスマイクは、iPhone 16/iPad/Androidに対応しています。2026新型ピンマイク、超軽量5gのラベリア設計、30時間のバッテリー駆動時間、360°全方向集音、48kHzの ノイズ低減機能を備え、vlog、ライブストリーミング、ASMR、TikTok (Mini)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 232728.99,
-      "t30d_units": 40.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1146519158102,
+      "merchant_name": "Huayanストア (Huayan Store)",
+      "asin": "B0G3QGH2SB",
+      "item_name": "ホットマット ホットカーペット【2025新登場 極上のぬくもり 兎毛調】 電気ホットマット 一人用 4段階タイマー 9段階温度調整 ミニ電気毛布 ミニ電気ホットマット ミニホットカーペット 速暖 丸洗い可能 過熱防止 ダニ退治 プレミアムラビット調素材 電気敷き毛布 肩当て 腹/膝/肩/背中 暖房器具",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 75689.22,
+      "t30d_units": 55.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

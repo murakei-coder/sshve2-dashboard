@@ -1,13 +1,72 @@
 {
-  "778152020002": [
+  "778154452302": [
     {
-      "asin": "B0DJ8BBS71",
-      "item_name": "Biorium IoT搭載 スマート水槽 オールインワン 45cm 保証1年付き クリアガラス 自動給餌機 オートフィーダー フィルター 濾過槽 ポンプ 20L 初心者 簡単 Smart Aquarium",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 430464.0,
-      "t30d_units": 18.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 778154452302,
+      "merchant_name": "Felistasオンラインショップ",
+      "asin": "B08LCS9WWK",
+      "item_name": "フェリスタス スパークリングワイン ギフト 金箔入り 750ml 【24カラット金箔】 ホワイトデー 就職祝い バレンタイン 結婚祝い 誕生日 プレゼント 辛口 (ゴールドBOX/ブラック包装)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 922193.36,
+      "t30d_units": 253.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 778154452302,
+      "merchant_name": "Felistasオンラインショップ",
+      "asin": "B09V55JSLZ",
+      "item_name": "フェリスタス ロゼ スパークリングワイン ギフト 金箔入り 750ml 【24カラット金箔】 バレンタイン ホワイトデー 母の日 女性 誕生日 プレゼント 辛口 (ピンクBOX/ブラック包装)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 111440.33,
+      "t30d_units": 28.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 778154452302,
+      "merchant_name": "Felistasオンラインショップ",
+      "asin": "B0G1VX6X7M",
+      "item_name": "フェリスタス ロゼ スパークリングワイン ギフト 金粉入り 750ml 【24カラット金粉】ホワイトデー バレンタイン 就職祝い 母の日 女性 誕生日 プレゼント 辛口（ピンクBOX/ブラック包装）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 457751.98,
+      "t30d_units": 119.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 778154452302,
+      "merchant_name": "Felistasオンラインショップ",
+      "asin": "B0CM5TCGD5",
+      "item_name": "フェリスタス ルミナスLED スパークリングワイン ギフト 金箔入り 750ml 【24カラット金箔】 バレンタイン 結婚祝い 誕生日 プレゼント 辛口 (ゴールドBOX/ブラック包装)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 270430.33,
+      "t30d_units": 71.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

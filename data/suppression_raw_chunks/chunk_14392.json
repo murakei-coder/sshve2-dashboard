@@ -1,121 +1,38 @@
 {
-  "984699489202": [
+  "984850027602": [
     {
-      "asin": "B0FXW6Z19V",
-      "item_name": "RETURE リチュレ マイルドケアソープ （ 敏感肌 洗顔石鹸 / 50g×2箱セット ）固形 石鹸 濃密泡 マイクロバブル ベビーソープ（ 無添加/無香料/低刺激/摩擦レス/つっぱらない ） レディース メンズ 女性 男性 日本製 国内製造",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 984850027602,
+      "merchant_name": "BeaverBot",
+      "asin": "B0DTYHSPR8",
+      "item_name": "BeaverBot 子ども専用ダンボールカッター 安全DIY段ボール工作キット 教育クラフトおもちゃ 3歳以上 男の子・女の子向け 創造力を育む3Dモデル制作",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 335987.0,
+      "t30d_units": 13.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F3N7DS8R",
-      "item_name": "sai-sai バブルエッセンスVC200 （ 泡 ビタミンC 美容液 / 45ml ） ビタミンC 誘導体 高濃度 高浸透 高保湿 ハリ ツヤ 毛穴 透明感 スキンケア レディース メンズ 女性 男性 日本製 国内製造",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FXW63BPW",
-      "item_name": "RETURE リチュレ スキンケアセット （ マイルドケアミルク 子供 保湿 ミルクローション / 80ml ） （ マイルドケアソープ 敏感肌 洗顔石鹸 / 50g ） 日本製 国内製造",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 13760.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F3N7QD37",
-      "item_name": "しろかね 65g （ 薬用 美白 パック/大容量 ）医薬部外品 洗い流すパック シミ そばかす くすみ 毛穴 （ プラセンタ アラントイン ） 無添加 敏感肌 レディース メンズ 女性 男性 日本製 国内製造",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 84731.66,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0FX87F3C6",
-      "item_name": "RETURE リチュレ マイルドケアミルク （ 子供 保湿 ミルクローション / 80ml×2本セット ）高保湿 ベビーローション （ べたつかない/のびがいい/無添加/無香料/低刺激 ） 天然由来成分 ドクターズコスメ 新生児 赤ちゃん ベビー キッズ 顔 全身 敏感肌 乾燥肌 日本製 国内製造 【 リニューアル 】",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 85504.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0DQNPRF3L",
-      "item_name": "RETURE リチュレ マイルドケアソープ （ 敏感肌 洗顔石鹸 / 50g ）固形 石鹸 濃密泡 マイクロバブル ベビーソープ（ 無添加/無香料/低刺激/摩擦レス/つっぱらない ） レディース メンズ 女性 男性 日本製 国内製造 (1個)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 41523.46,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0FHPQ1Y2Z",
-      "item_name": "しろかね 薬用 美白 オールインワンジェル (60g) 医薬部外品 オールインワン （ プラセンタ/グリチルリチン酸ジカリウム/ヒアルロン酸/セラミド ） 保湿 乾燥小じわ ローズゼラニウムの香り レディース メンズ 女性 男性 日本製 国内製造 ジェル 60g",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 278224.1,
-      "t30d_units": 67.0
-    },
-    {
-      "asin": "B0FTYKNKFM",
-      "item_name": "しろかね （ 薬用 美白 パック / 30g×2個セット ）医薬部外品 洗い流すパック シミ そばかす くすみ 毛穴 （ プラセンタ アラントイン ） 無添加 敏感肌 レディース メンズ 女性 男性 日本製 国内製造 (2個セット)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 5600.33,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FHPQK2TY",
-      "item_name": "しろかね 薬用 美白 リンクルホワイトローション （ 50ml ） 医薬部外品 化粧水 ナイアシンアミド グリチルリチン酸ジカリウム ヒアルロン酸 アロエエキス アセロラエキス コラーゲン（ シワ改善 美白 うるおい 肌荒れ防止 ） レディース メンズ 女性 男性 日本製 国内製造 リンクルローション50ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 12026.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DQNRF846",
-      "item_name": "RETURE リチュレ マイルドケアミルク （ 子供 保湿 ミルクローション / 80ml ）高保湿 ベビーローション （ べたつかない/のびがいい/無添加/無香料/低刺激 ） 天然由来成分 ドクターズコスメ 新生児 赤ちゃん ベビー キッズ 顔 全身 敏感肌 乾燥肌 日本製 国内製造 【 リニューアル 】 (1本)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 173561.66,
-      "t30d_units": 40.0
-    },
-    {
-      "asin": "B0F9Y8NGDY",
-      "item_name": "しろかね 薬用 美白 パック マイルド (30g) 医薬部外品 シミ そばかす くすみ 毛穴 （ トラネキサム酸 グリチルリチン酸ジカリウム ） 無添加 敏感肌 レディース メンズ 女性 男性 日本製 国内製造 アルバローズの香り マイルド 30g",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 57140.0,
-      "t30d_units": 24.0
-    },
-    {
-      "asin": "B0DQGHBB8Q",
-      "item_name": "しろかね (薬用 美白 パック) 医薬部外品 洗い流すパック シミ そばかす くすみ 毛穴 (プラセンタ アラントイン) 無添加 敏感肌 レディース メンズ 女性 男性 日本製 国内製造 ジャータイプ 30g",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 394344.71,
-      "t30d_units": 180.0
-    },
-    {
-      "asin": "B0FHPBLT36",
-      "item_name": "しろかね 乳酸菌 どろ洗顔 75g （ 泡 洗顔フォーム ） ミネラルクレイ 泡洗顔 （ 角栓/毛穴/いちご鼻/黒ずみ ）ローズゼラニウムの香り レディース メンズ 女性 男性 日本製 国内製造 泥洗顔 75g",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 30394.99,
-      "t30d_units": 11.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 984850027602,
+      "merchant_name": "BeaverBot",
+      "asin": "B0DSJ28R6B",
+      "item_name": "Beaverbot 子ども専用ダンボールカッター 安全DIY工作キット 3歳以上向け 教育クラフトおもちゃ 段ボールを安全にスパッと切れる創造力・3Dモデル制作に最適",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": -29999.0,
+      "t30d_units": -1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

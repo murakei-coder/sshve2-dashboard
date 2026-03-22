@@ -1,76 +1,55 @@
 {
-  "743446289302": [
+  "743467794502": [
     {
-      "asin": "B0FYWN4FRJ",
-      "item_name": "87saku ハナサク パドルブラシ ヘアブラシ 頭皮マッサージ 美髪 クッションブラシ 頭皮ケア ヘッドスパ 髪ツヤ 髪まとまる 静電気防止",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 20252.94,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0G6S84ML9",
-      "item_name": "87saku ハナサク シルキーリペア トリートメント",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 2420.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0G6S3SPPD",
-      "item_name": "87saku ハナサク シルキーリペア ヘアオイル",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 2420.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FYWNV39R",
-      "item_name": "87saku ハナサク デタングリングブラシ デタングルブラシ ヘアブラシ 絡まない 髪とかす 濡れ髪用 静電気防止 トリートメント用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 7920.25,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0G6SW1Z3R",
-      "item_name": "87saku ハナサク シルキーリペア シャンプー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 4840.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F98X647Q",
-      "item_name": "87saku ハナサク シルク枕カバー 5つ星ホテル仕様 封筒式 19匁 両面 シルク ピローケース 6Aランク OEKO-TEX認証 42X63cm 50X70cm ベージュ (42X63cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 19960.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DVST3K59",
-      "item_name": "87saku ハナサク ドライヤー ヘアドライヤー 速乾 軽量 美髪 大風量 美容室 プラズマイオン 343g 超軽量",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 1044461.0,
-      "t30d_units": 42.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 743467794502,
+      "merchant_name": "みみみず",
+      "asin": "B0F3C9B5QB",
+      "item_name": "スマートウォッチ【2025年業界最新傑作】iPhone対応 アンドロイド対応 最新Bluetooth5.4通話機能 音楽再生 1.96インチ大画面 活動量計 腕時計 運動モード スポーツウォッチ IP67防水 SMS/Twitter/Line通知 機能 iPhone/アンドロイド対応 メンズ レディース プレゼントに最適 (ゴールド)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 209571.46,
+      "t30d_units": 79.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F997CKZ6",
-      "item_name": "87saku ハナサク 速乾ブラシ ヘアブラシ ドライヤーブラシ 濡れ髪 ブロードライ 美髪 風が通る",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 133233.01,
-      "t30d_units": 67.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 743467794502,
+      "merchant_name": "みみみず",
+      "asin": "B0D5L1HCBD",
+      "item_name": "スマートウォッチ 通話機能 メッセージ通知 スマート ウォッチ 円形 丸形 AMOLED HDディスプレイ 1.43インチ 歩数計 Smart watch Bluetooth5.3接続 常時表示 100+種類運動モード 腕時計 DIY文字盤 カレンダー付き 天気予報 目覚まし時計 スポーツウォッチ 誕生日 プレゼント",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 52093.33,
+      "t30d_units": 12.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 743467794502,
+      "merchant_name": "みみみず",
+      "asin": "B0F3C5LQFM",
+      "item_name": "スマートウォッチ【2025年業界最新傑作】iPhone対応 アンドロイド対応 最新Bluetooth5.4通話機能 音楽再生 1.96インチ大画面 活動量計 腕時計 運動モード スポーツウォッチ IP67防水 SMS/Twitter/Line通知 機能 iPhone/アンドロイド対応 メンズ レディース プレゼントに最適 (ブラック)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 122330.04,
+      "t30d_units": 42.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

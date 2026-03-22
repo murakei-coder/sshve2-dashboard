@@ -1,103 +1,38 @@
 {
-  "7439085645": [
+  "7439503955": [
     {
-      "asin": "B0CS654YBZ",
-      "item_name": "CloudGPS 荷物・車両追跡用2Wayタイプ ミニGPS発信機【BD30-MHY】proLite版 365日使い放題",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 73398.0,
-      "t30d_units": 2.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 7439503955,
+      "merchant_name": "大東専門店",
+      "asin": "B07D6KD3TL",
+      "item_name": "LOFEE 散髪 ヘアカット すきばさみ セット ハサミ シザー 左右 プロ 初心者 美容師 理容師 セルフカット カットはさみ ケース付 くし付き カットケープ付 ブランド登録済み",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 855968.27,
+      "t30d_units": 397.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B088RJKH6R",
-      "item_name": "CloudGPS 車両追跡用 小型GPS発信機【plan-MH1】proLite版 30日使い放題",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 1648054.0,
-      "t30d_units": 115.0
-    },
-    {
-      "asin": "B088TBJH9D",
-      "item_name": "CloudGPS 車両追跡用 小型GPS発信機【plan-MHY】proLite版 365日使い放題",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 510720.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B088ST1HCN",
-      "item_name": "CloudGPS 車両追跡用 大容量GPS発信器 【plan-LH1】ProLite版 30日使い放題",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 282900.0,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B088TGQ5FN",
-      "item_name": "CloudGPS 車両追跡用 大容量GPS発信機 【plan-LH3】proLite版 90日使い放題",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 218381.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0CS67HKY6",
-      "item_name": "CloudGPS 荷物・車両追跡用2Wayタイプ ミニGPS発信機【BD30-MH6】proLite版 180日使い放題",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 26699.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CS5Z7PF4",
-      "item_name": "CloudGPS 荷物・車両追跡用2Wayタイプ ミニGPS発信機【BD30-MH1】proLite版 30日使い放題",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 223212.0,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0CS69GVJW",
-      "item_name": "CloudGPS 荷物・車両追跡用2Wayタイプ ミニGPS発信機【BD30-MH3】proLite版 90日使い放題",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 21199.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B088T2JM4F",
-      "item_name": "CloudGPS 車両追跡用 大容量GPS発信機 【plan-LH6】proLite版 180日使い放題",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 97800.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B088T3PY7K",
-      "item_name": "CloudGPS 車両追跡用 小型GPS発信機【plan-MH3】proLite版 90日使い放題",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 422900.0,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B088T7FHVN",
-      "item_name": "CloudGPS 車両追跡用 小型GPS発信機【plan-MH6】proLite版 180日使い放題",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 296780.0,
-      "t30d_units": 11.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 7439503955,
+      "merchant_name": "大東専門店",
+      "asin": "B0FJXTBKDW",
+      "item_name": "【1台4役・防災対策】 センサーライト 懐中電灯 ナイトライト 充電式 人感センサー 分離式 マグネット付き テーブルランプ 間接照明 停電時に自動点灯 廊下 階段 寝室 玄関 授乳ライト 常夜灯",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 210819.86,
+      "t30d_units": 72.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

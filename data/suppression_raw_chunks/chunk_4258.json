@@ -1,94 +1,72 @@
 {
-  "8821877155": [
+  "8822513345": [
     {
-      "asin": "B0DWSJFRHR",
-      "item_name": "Rachel【レイチェル】ナロータイ スリムネクタイ 日本製 洗濯可能 細身 光沢感 ストライプ (A柄)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 1520.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8822513345,
+      "merchant_name": "GLAMOURDISE(グラモウディーズ)",
+      "asin": "B0FGXPKP42",
+      "item_name": "グラモウディーズ (訳あり/自宅用)ベーシックマカロン18個(冷凍) マカロン ギフト お中元 プレゼント 神戸 人気 洋菓子 お菓子 詰め合わせ 内祝い 手土産 スイーツ 誕生日 おしゃれ クリーム 女性",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 178964.0,
+      "t30d_units": 50.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DWSM5MTS",
-      "item_name": "Rachel【レイチェル】ナロータイ スリムネクタイ 日本製 洗濯可能 細身 光沢感 ストライプ (E柄)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8822513345,
+      "merchant_name": "GLAMOURDISE(グラモウディーズ)",
+      "asin": "B01B916HAA",
+      "item_name": "ホワイトデー お返し グラモウディーズ ベーシックマカロン6個 （冷凍） マカロン ギフト お中元 プレゼント 神戸 人気 洋菓子 お菓子 詰め合わせ 内祝い 手土産 スイーツ 誕生日 おしゃれ クリーム 女性",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 526550.0,
+      "t30d_units": 183.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DWSRCL8M",
-      "item_name": "Rachel【レイチェル】ナロータイ スリムネクタイ 日本製 洗濯可能 細身 光沢感 ストライプ (D柄)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 1900.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8822513345,
+      "merchant_name": "GLAMOURDISE(グラモウディーズ)",
+      "asin": "B01B916I7W",
+      "item_name": "ホワイトデー お返し グラモウディーズ ベーシックマカロン12個 （冷凍）マカロン ギフト お中元 プレゼント 神戸 人気 洋菓子 お菓子 詰め合わせ 内祝い 手土産 スイーツ 誕生日 おしゃれ クリーム 女性",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 876810.0,
+      "t30d_units": 205.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DWSJYGB5",
-      "item_name": "Rachel【レイチェル】ナロータイ スリムネクタイ 日本製 洗濯可能 細身 光沢感 ストライプ (I柄)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DWSTL8ZN",
-      "item_name": "Rachel【レイチェル】ナロータイ スリムネクタイ 日本製 洗濯可能 細身 光沢感 ストライプ (B柄)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 1520.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DWSDRSG3",
-      "item_name": "Rachel【レイチェル】ナロータイ スリムネクタイ 日本製 洗濯可能 細身 光沢感 ストライプ (C柄)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0DWSNYFWC",
-      "item_name": "Rachel【レイチェル】ナロータイ スリムネクタイ 日本製 洗濯可能 細身 光沢感 ストライプ (F柄)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DWS9GWXY",
-      "item_name": "Rachel【レイチェル】ナロータイ スリムネクタイ 日本製 洗濯可能 細身 光沢感 ストライプ (G柄)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 1520.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DWSRDLL3",
-      "item_name": "Rachel【レイチェル】ナロータイ スリムネクタイ 日本製 洗濯可能 細身 光沢感 ストライプ (J柄)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 11853.75,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0DWSF8J72",
-      "item_name": "Rachel【レイチェル】ナロータイ スリムネクタイ 日本製 洗濯可能 細身 光沢感 ストライプ (H柄)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 4560.0,
-      "t30d_units": 3.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8822513345,
+      "merchant_name": "GLAMOURDISE(グラモウディーズ)",
+      "asin": "B01B916K7K",
+      "item_name": "グラモウディーズ ベーシックマカロン24個 （冷凍） マカロン ギフト プレゼント 神戸 人気 洋菓子 お菓子 詰め合せ 内祝い 手土産 スイーツ 誕生日 おしゃれ",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 87666.0,
+      "t30d_units": 12.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,13 +1,38 @@
 {
-  "58060092422": [
+  "58062777022": [
     {
-      "asin": "B0DJ33QLXN",
-      "item_name": "【2025年進級版】Purivortex 空気清浄機 小型 20畳 集じん 強力 消臭 ペット 空気清浄器 ほこり 花粉 異臭 PM2.5 卓上 2重除菌 ミニ脱臭機 くうきせいじょう 除菌 ウイルス除去 ハウスダスト カビ取り AC400 HEPA & 活性炭 一体型 静音 コンパクト 軽量 省エネ ホワイト PSE認証済み",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 670583.57,
-      "t30d_units": 139.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 58062777022,
+      "merchant_name": "Allbe Store",
+      "asin": "B0D6MS6L28",
+      "item_name": "【吸着型で汚れが見える！】Rêve Organic Mouthwash マウスウォッシュ 8ml×30包 [医薬部外品] クリアミント ホワイトニング 天然由来成分 低刺激 口腔ケア 携帯用 スティック",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 25514.0,
+      "t30d_units": 7.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 58062777022,
+      "merchant_name": "Allbe Store",
+      "asin": "B0DT36BQV8",
+      "item_name": "【Poco’ce ビューティーアワード受賞】VITAFLAVIN サプリメント 60粒 1日2錠 (30日分) 5-デアザフラビン (TND1128) NMN NAD ミトコンドリアサプリ 日本製 高純度99.9％【医師監修】",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 38500.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,13 +1,38 @@
 {
-  "1135546592002": [
+  "1135756844402": [
     {
-      "asin": "B0F331H6JR",
-      "item_name": "口腔洗浄器 ジェットウォッシャー 歯垢除去率99.9% 4種類ノズル付き 360°回転設計 舌クリーナー搭載 4種類の水流モード 20-150PSI水圧調整 310ml大容量タンク IPX7防水 USB充電式 こうくう洗浄機 コンパクト設計 家庭用・旅行用に最適 ギフト プレゼント (ホワイト)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 20452287.13,
-      "t30d_units": 6551.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1135756844402,
+      "merchant_name": "JoyLeaf+ 公式ストア",
+      "asin": "B0FZGB2STR",
+      "item_name": "JoyLeaf+【人間工学腰痛サポート】椅子 クッション 低反発 腰痛 クッション 長時間座れる 快適な座り心地 圧力分散 お尻が痛くならない 蒸れない通気性 裏面滑り止め カバー洗える 取っ手付き オフィスチェア/自宅/車用 家族/友人/同僚へのギフトに最適 (ブラック)",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1135756844402,
+      "merchant_name": "JoyLeaf+ 公式ストア",
+      "asin": "B0GFMYXD1C",
+      "item_name": "[JoyLeaf+] トートバッグ レディース 帆布 A4 対応 大容量 暗闩付き 自立 おしゃれ 花柄 可愛い カジュアルハンドバッグ 通学・通勤・旅行用 無料財布付き（青）",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 11731.0,
+      "t30d_units": 7.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

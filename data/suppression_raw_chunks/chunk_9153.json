@@ -1,40 +1,72 @@
 {
-  "71652257422": [
+  "71660101322": [
     {
-      "asin": "B0FLWG4S6P",
-      "item_name": "VISKS 自動カールアイロン 36mm 大波浪ウェーブ | オートカールアイロン | 防火傷設計・負イオン・多段階温度調整・初心者簡単操作・PTC速熱・自動電源オフ (ブラック, パイプ径:36(mm))",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 325770.64,
-      "t30d_units": 55.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 71660101322,
+      "merchant_name": "iSinbox公式ストア",
+      "asin": "B0FHWPH29Y",
+      "item_name": "【1.1:1短焦点・Netflix公式ライセンス】iSinbox プロジェクター 家庭用 小型 1200Ansi 4K対応 プロジェクター 天井吊り TOFオートフォーカス Dolbyサウンド搭載 WiFi 6＆Bluetooth5.3双方向通信 大画面 ぷろじえくたー 家庭用 自動台形補正 公式アプリ内蔵 ゲーム用 軽量 ぷろじえくたー グレー",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 678759.0,
+      "t30d_units": 36.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0C5H8DDDM",
-      "item_name": "VISKS ヘアアイロン、アンチタングル オートカールアイロン、簡単操作の28mmアイロン、デュアルボルテージ回転式ヘアアイロン2way、ヘアスタイリング用オートシャットオフ機能付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 71660101322,
+      "merchant_name": "iSinbox公式ストア",
+      "asin": "B0DW44KG3J",
+      "item_name": "【スタンドのみ】iSinbox卓上タイプ プロジェクタースタンド 180度回転 高さ調節 天井投影 1/4インチネジ プロジェクター台 耐荷重2kg 折り畳み コンパクト 収納便利 オフィス ホームシアター 寝室用 軽量295g",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 42418.66,
+      "t30d_units": 16.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 345660.57,
-      "t30d_units": 61.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 71660101322,
+      "merchant_name": "iSinbox公式ストア",
+      "asin": "B0CSYS7JT7",
+      "item_name": "プロジェクター スタンド 三脚 耐荷重2kg 360度回転 60-170cm伸縮型 高さ調節 プロジェクター台 折り畳み 収納便利 軽量 持ち運び1/4ネジ搭載 カメラ、スマートフォン、GoProなど対応可能 オフィス ホームシアター 寝室用",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 3399.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CMXHQLR3",
-      "item_name": "VISKS 犬用おもちゃ｜TPR素材で耐久性に 楽しく遊べるトウモロコシ型ドッグトイ",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 6995.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0D475VVV2",
-      "item_name": "VISKS 犬 フリスビー 犬 おもちゃ ペット用品 柔らかいぬいぐるみ生地 運動不足解消 知能訓練 カラフルな噛みおもちゃ 小型犬/中型犬/大型犬に適応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 8394.0,
-      "t30d_units": 6.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 71660101322,
+      "merchant_name": "iSinbox公式ストア",
+      "asin": "B0DK38CRSL",
+      "item_name": "プロジェクター 家庭用 iSinbox プロジェクター 小型 天井投影 800ASNI 高輝度 電動フォーカス 1080P 4K対応 自動台形補正 Wi-Fi6瞬間接続 Bluetooth 5.3双方向通信 ホームプロジェクター 200インチ 大画面 ホームシアター Netflix対応 ゲーム用 Projector IOS/Android/パソコン/DVD/PS機/HDMI接続可 プレゼントに最適",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 193553.33,
+      "t30d_units": 12.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

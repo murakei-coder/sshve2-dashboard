@@ -1,22 +1,55 @@
 {
-  "1174701125302": [
+  "1174823145102": [
     {
-      "asin": "B0G9MFN9RT",
-      "item_name": "投光器 LED 作業灯 200W 21000LM 2灯式 三脚スタンド付き ワークライト 屋外 防水 IP65 5mコード 昼光色 5000K 広配光120° 超高輝度 角度調節可能 PSE認証済 建築現場 工事現場 倉庫 駐車場 集魚灯 看板灯 100V対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 186134.2,
-      "t30d_units": 13.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1174823145102,
+      "merchant_name": "Hiresgo",
+      "asin": "B0GD14KY34",
+      "item_name": "HiFiGo AFUL Performer 8S イヤモニ モニターイヤホン 有線 イヤホン1DD +6BA +1Passive Radiator +1Micro Planar HiFi音質 2pin着脱式 (Performer 8S-4.4mm)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 599720.75,
+      "t30d_units": 10.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G9LQ11C5",
-      "item_name": "LED投光器 作業灯 100W 18000LM 超高輝度 ワークライト 三脚スタンド付き 昼白色 5000K 5Mコード付き 独立スイッチ IP67防水防塵 屋外 工事現場 夜間作業 建築 駐車場 倉庫照明 PSE認証済",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 112124.33,
-      "t30d_units": 12.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1174823145102,
+      "merchant_name": "Hiresgo",
+      "asin": "B0GLGGFZMQ",
+      "item_name": "HiFiGo DUNU Titan X イヤモニ ゲーミングイヤホン イヤホン 有線 タイプc 1DD デュアル磁気回路 DSP内蔵 マイク付きイヤホン 重低音 HIFI音質 4N銀メッキ単結晶銅ケーブル 交換可能ケーブル カナル型 耳掛け式 音楽/ゲーミング/通話/web会議用",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 256961.66,
+      "t30d_units": 56.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1174823145102,
+      "merchant_name": "Hiresgo",
+      "asin": "B0GLG5M7XB",
+      "item_name": "HiFiGo DUNU Titan X イヤモニ ゲーミングイヤホン イヤホン 有線 1DD デュアル磁気回路 重低音 HIFI音質 4N銀メッキ単結晶銅ケーブル 交換可能ケーブル 3.5mmプラグ カナル型 耳掛け式 スポ一ツ/音楽/ゲーミング/通勤/通学用",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 1866546.98,
+      "t30d_units": 399.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

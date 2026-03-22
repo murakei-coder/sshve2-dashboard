@@ -1,13 +1,21 @@
 {
   "3915783122": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 3915783122,
+      "merchant_name": "設計や製造",
       "asin": "B09PR8GH53",
       "item_name": "iOCHOW ラミネーター パウチラミネーター ラミネート パウチ:最大A3対応 5秒間ウォームアップ 高速起動 気泡なし 波打ち防止 75-150μmフィルム対応 温度調節機能付き 詰まり防止 60分連続作業可能 家庭用 業務用 オフィス用 A4/B5/ハガキ/名刺",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
       "t30d_ops": 450803.0,
-      "t30d_units": 33.0
+      "t30d_units": 33.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

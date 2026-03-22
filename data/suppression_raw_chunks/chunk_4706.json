@@ -1,1723 +1,293 @@
 {
-  "10738045222": [
+  "10743157622": [
     {
-      "asin": "B09CTK531X",
-      "item_name": "[パラス・デザイン] ショルダーバッグ ボディバッグ ポーチ ネイビー 男女兼用 アウトドア 貴重品入れ 8259 (ネイビー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 1780.0,
-      "t30d_units": 1.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10743157622,
+      "merchant_name": "Geer",
+      "asin": "B0F295JX9R",
+      "item_name": "[CigaMaTe] リレーアタック防止用キーケース スマートキー 電波遮断 車 盗難防止グッズ リレーアタック対策 電波遮断キーケース スマートキーポーチ 父親 誕生日プレゼント 全車種対応 （ブルー）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 50278.0,
+      "t30d_units": 22.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GRTXY9TD",
-      "item_name": "ボストンバッグ 3WAY 撥水 48リットル 修学旅行 出張 遠征 男女兼用 林間学校 リュックサック ショルダーバッグ (ブラック/ブラック)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10743157622,
+      "merchant_name": "Geer",
+      "asin": "B0F296V7GX",
+      "item_name": "車 キーケース トヨタ専用 本革 キーカバー レザー×メタルフレーム 亜鉛合金 傷防止 故障防止 防水 汚れ防止 電波を妨げず 衝撃防止 キーホルダー ギフトボックス （ブラック）",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 61689.91,
+      "t30d_units": 31.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B089CNMLXN",
-      "item_name": "カンパン ビスケット クラッカー 6個セット お菓子 防災 非常用 保存食 防災グッズ 防災用品 避難グッズ 災害対策 避難用品 地震対策",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10743157622,
+      "merchant_name": "Geer",
+      "asin": "B0FRXN3B7F",
+      "item_name": "[CigaMaTe] 本革 車用キーホルダー キーリング キーチェーン ダブルリング カラビナ 車 バイク 自転車 リング 取り外し 防錆 亜鉛合金 ストラップ 手触りいい 紛失防止 シンプルデザイン おしゃれ （ブラック）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 19107.0,
+      "t30d_units": 11.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10743157622,
+      "merchant_name": "Geer",
+      "asin": "B0F2H77BFT",
+      "item_name": "[CigaMaTe] リレーアタック防止用キーケース スマートキー 電波遮断 車 盗難防止グッズ リレーアタック対策 電波遮断キーケース スマートキーポーチ 父親 誕生日プレゼント 全車種対応 （ピンク）",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 56534.99,
+      "t30d_units": 26.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 3180.0,
-      "t30d_units": 1.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10743157622,
+      "merchant_name": "Geer",
+      "asin": "B07ZPV46J1",
+      "item_name": "【Lサイズ】リレーアタック防止用スマートキーケース スマートキー 電波遮断 電波遮断ケース リレーアタック対策 車 盗難防止 車盗難防止 カー セキュリティ スキミング防止 圏外ケース クラシック調",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 78775.66,
+      "t30d_units": 29.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0C1YV3MZJ",
-      "item_name": "[Lieben chama] 2025年モデル リュックサック 防災リュック 林間学校 サブリュック ボストンバッグ サブバッグ 自然学校 修学旅行 非常用持出袋 防災バッグ 男女兼用 大容量 71-06 07106(ネイビー×グリーン)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10743157622,
+      "merchant_name": "Geer",
+      "asin": "B0FRXNPZ9H",
+      "item_name": "[CigaMaTe] 本革 車用キーホルダー キーリング キーチェーン ダブルリング カラビナ 車 バイク 自転車 リング 取り外し 防錆 亜鉛合金 ストラップ 手触りいい 紛失防止 シンプルデザイン おしゃれ （ブルー）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 10080.66,
+      "t30d_units": 6.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B07TBK9C6G",
-      "item_name": "コスメボックス トレンチケース ガーリースカイ sサイズ 鏡付き (12/ガーリースカイ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 8900.0,
-      "t30d_units": 1.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10743157622,
+      "merchant_name": "Geer",
+      "asin": "B08YYXZLSZ",
+      "item_name": "[CigaMaTe] リレーアタック防止用キーケース スマートキー 電波遮断 車 盗難防止グッズ リレーアタック対策 電波遮断キーケース スマートキーポーチ 父親 誕生日プレゼント 全車種対応 【ダークブラウン】",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 47189.0,
+      "t30d_units": 21.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B07QTPLYY6",
-      "item_name": "[トランスポーター] スーツケース キャリーケース DJ16 キャリーバッグ 機内持ち込み可 超軽量 旅行かばん 16インチ ssサイズ 旅行バック 2～3泊 (ホワイト)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 33820.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0GSDXD7F4",
-      "item_name": "[Lieben chama] ショッピングキャリー 2way 保冷 保温 軽量 大容量 35L トートバッグ 男女兼用 (ブラウン/花柄)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B082M53XZS",
-      "item_name": "[タニカツ] エコバッグ レジカゴバッグ y89 ブラック 撥水加工 折りたたみ コンパクト 大容量 トートバッグ レジかごバッグ (クロ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CDKFB6VZ",
-      "item_name": "ボストンキャリー 01253 キャプテンスタッグ CAPTAIN SATG 林間学校 バッグ キャリーケース 3way ボストン キャリー 大容量 61L ボストンバッグ (ネイビー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1350.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B00E9PTBUC",
-      "item_name": "ボストンバッグ ボストン メンズ 大容量 62cm 9962 ネイビー 自然学校 修学旅行 CREST PORT (ネイビー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 2180.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B07T8D5J7J",
-      "item_name": "コスメボックス トレンチケース ネイビー sサイズ 鏡付き (01/ネイビー)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 8900.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B01N9VY5WA",
-      "item_name": "撥水加工 ３Way リュックボストン リーベン ボストンバッグ 【lieben】大容量 防災用 男女兼用 3WAY 多機能 ビッグボストン リュック CR-309 (オレンジ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 13731.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B07CRXFSY7",
-      "item_name": "(パラスデザイン) Pallas Design ミニショルダーバッグ サコッシュ グレー 9155",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 2240.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B08CXJVY73",
-      "item_name": "防災セット 子供用 地震対策 防災グッズ 防災用品 災害対策 14点セット 大容量 避難グッズ 避難用品 (ネイビー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10743157622,
+      "merchant_name": "Geer",
+      "asin": "B08KZVFQ4J",
+      "item_name": "電波遮断 キーケース リレーアタック防止 ボックス リレーアタック防止用 スマートキーケース",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 54200.36,
+      "t30d_units": 20.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B08N62XHLP",
-      "item_name": "[Lieben chama] トートバッグ ミニトート cheer-j-01 ショルダー付き レディース ミニバッグ コンパクト (ピンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10743157622,
+      "merchant_name": "Geer",
+      "asin": "B0FRXNQY1M",
+      "item_name": "[CigaMaTe] 本革 車用キーホルダー キーリング キーチェーン ダブルリング カラビナ 車 バイク 自転車 リング 取り外し 防錆 亜鉛合金 ストラップ 手触りいい 紛失防止 シンプルデザイン おしゃれ （ブラウン）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 5040.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B09P1YY667",
-      "item_name": "[トランスポーター] 機内持ち込み可 スーツケース tk17 超軽量 16インチ ssサイズ キャリーケース 2泊3日キャリーバッグ コンパクト ダイヤルロック (ホワイト)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10743157622,
+      "merchant_name": "Geer",
+      "asin": "B0F294Y3FC",
+      "item_name": "[CigaMaTe] リレーアタック防止用キーケース スマートキー 電波遮断 車 盗難防止グッズ リレーアタック対策 電波遮断キーケース スマートキーポーチ 父親 誕生日プレゼント 全車種対応 （グレー）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 76220.08,
+      "t30d_units": 34.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B08N5ZN8GF",
-      "item_name": "[Lieben chama] トートバッグ ミニトート cheer-j-01 ショルダー付き レディース ミニバッグ コンパクト (ミント)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10743157622,
+      "merchant_name": "Geer",
+      "asin": "B09G65LMHW",
+      "item_name": "[CigaMaTe] スマートキーポーチ 電波遮断可能",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 57360.33,
+      "t30d_units": 27.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B09P22WT6Q",
-      "item_name": "[トランスポーター] 機内持ち込み可 スーツケース tk17 超軽量 16インチ ssサイズ キャリーケース 2泊3日キャリーバッグ コンパクト ダイヤルロック (ピーチピンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10743157622,
+      "merchant_name": "Geer",
+      "asin": "B0FRXT659J",
+      "item_name": "[CigaMaTe] 本革 車用キーホルダー キーリング キーチェーン ダブルリング カラビナ 車 バイク 自転車 リング 取り外し 防錆 亜鉛合金 ストラップ 手触りいい 紛失防止 シンプルデザイン おしゃれ （グレー）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 6720.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B08SJ1SV16",
-      "item_name": "[優美社産業株式会社] リュック 浮くリュック 防災リュック 3r70 リュックサック 浮かぶ 非常用持出し袋 防災頭巾 ホイッスル (オレンジ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10743157622,
+      "merchant_name": "Geer",
+      "asin": "B0FRXQTYZY",
+      "item_name": "[CigaMaTe] 本革 車用キーホルダー キーリング キーチェーン ダブルリング カラビナ 車 バイク 自転車 リング 取り外し 防錆 亜鉛合金 ストラップ 手触りいい 紛失防止 シンプルデザイン おしゃれ （ダークブラウン）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 8400.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B08CXDM26Q",
-      "item_name": "防災セット 子供用 地震対策 防災グッズ 防災用品 災害対策 14点セット 大容量 避難グッズ 避難用品 (ブルー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10743157622,
+      "merchant_name": "Geer",
+      "asin": "B0F297XFRQ",
+      "item_name": "車 キーケース トヨタ専用 本革 キーカバー レザー×メタルフレーム 亜鉛合金 傷防止 故障防止 防水 汚れ防止 電波を妨げず 衝撃防止 キーホルダー ギフトボックス （ブラウン）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 10418.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10743157622,
+      "merchant_name": "Geer",
+      "asin": "B093K9TY99",
+      "item_name": "[CigaMaTe] リレーアタック防止用キーケース スマートキー 電波遮断 車 盗難防止グッズ リレーアタック対策 電波遮断キーケース スマートキーポーチ 父親 誕生日プレゼント 全車種対応 【ラインブラック】",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 389515.2,
+      "t30d_units": 173.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10743157622,
+      "merchant_name": "Geer",
+      "asin": "B0G4M357GP",
+      "item_name": "[CigaMaTe] 電波遮断キーケース リレーアタック防止用キーケース スマートキー 電波遮断 車 盗難防止グッズ リレーアタック対策 スマートキーポーチ 父親 誕生日プレゼント 全車種対応 ブラック",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 42075.61,
+      "t30d_units": 18.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08N63B84X",
-      "item_name": "[Lieben chama] トートバッグ ミニトート cheer-j-01 ショルダー付き レディース ミニバッグ コンパクト (スカイブルー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C1YRY3K4",
-      "item_name": "[Lieben chama] コンバース サブリュック リュックサック キッズ 林間学校 キャンプ 修学旅行 林間学校リュック 宿泊学習 防災 男女兼用 (ブラック×ミント)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 9900.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FXLTWD4W",
-      "item_name": "【防災士監修】 防災セット 32点 1人用 防災グッズ 非常用持出袋 軽量 リュック 9289 (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07T9KT3JB",
-      "item_name": "コスメボックス トレンチケース mサイズ デニム 鏡付き (07/デニム)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 38000.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B08N63YW3X",
-      "item_name": "[Lieben chama] トートバッグ ミニトート cheer-j-01 ショルダー付き レディース ミニバッグ コンパクト (ラベンダー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09P1YCNMX",
-      "item_name": "Transporter 機内持ち込み可 スーツケース tk17 超軽量 16インチ ssサイズ キャリーケース 2泊3日キャリーバッグ コンパクト ダイヤルロック (ライトグリーン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08KG1D9PR",
-      "item_name": "防災 ごはん おにぎり パン お菓子 ジューズ 給水バッグ 非常食 7日分 備蓄用 防災グッズ 災害対策 地震対策 防災用品 58点セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 313949.85,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0GSFDN4JX",
-      "item_name": "ショッピングキャリー 保冷 保温 軽量 大容量 35L 男女兼用 買い物 買い出し キャリー 4輪 (ブラック/猫)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07TDPLMV2",
-      "item_name": "コスメボックス トレンチケース mサイズ レッド鏡付き (06/レッド)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 28500.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B08VGX1LRC",
-      "item_name": "[ヴィアッジョ] 大容量 デイパック 8213 防災 リュック 多機能 デイパック 30L リュックサック カジュアル メンズ レディース 男女兼用 男の子 女の子 防災グッズ 防災リュック 防災袋 非常用持ちだし袋 防災用品 (レッド)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 2750.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B08N62YKZ6",
-      "item_name": "[Lieben chama] トートバッグ ミニトート cheer-j-01 ショルダー付き レディース ミニバッグ コンパクト (カーキ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 3200.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CK1VSYSG",
-      "item_name": "リュックサック デイパック 大容量 30L ロゴス LOGOS ロゴスパーク ブラック ヘリンボン 78-03 (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 32384.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B082M6C3FC",
-      "item_name": "[タニカツ] エコバッグ レジカゴバッグ y89 チャ 撥水加工 折りたたみ コンパクト 大容量 トートバッグ レジかごバッグ (チャ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07TYW2V16",
-      "item_name": "撥水加工 ３Way リュックボストン リーベン ボストンバッグ 【lieben】大容量 防災用 男女兼用 3WAY 多機能 ビッグボストン リュック CR-309 (グレーカモフラージュ)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5800.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0D2H9N845",
-      "item_name": "リュックサック THRASHER スラッシャー 30リットル 軽量 多機能 PCポケット リュック バックパック デイパック (ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 56760.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B07PZKZTRY",
-      "item_name": "[VIAGGIO] 米ぬか非常用トイレ付き 防災 リュックサック デイバッグ カジュアルリュック 防災リュック 防災用品 災害対策 避難 7077 (レッド)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 35928.0,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B086L6MLDT",
-      "item_name": "[HANAism] ミニトランク ボックス キャリーケース レディース ダイヤルロック トランクボックス (11/ブラウン×ベージュ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 25500.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B08N61YJC9",
-      "item_name": "[Lieben chama] トートバッグ ミニトート cheer-j-01 ショルダー付き レディース ミニバッグ コンパクト (ネイビー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07T8DKPN9",
-      "item_name": "コスメボックス トレンチケース mサイズ クロコブラウン 鏡付き (11/クロコブラウン)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CDKF55T6",
-      "item_name": "ボストンキャリー 01253 キャプテンスタッグ CAPTAIN SATG 林間学校 バッグ キャリーケース 3way ボストン キャリー 大容量 61L ボストンバッグ (グレー)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 12100.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B07TBJNWXN",
-      "item_name": "コスメボックス トレンチケース sサイズ ベージュホワイト 鏡付き (09/ベージュホワイト)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07NK4N4TM",
-      "item_name": "[VIAGGIO] 米ぬか非常用トイレ付き 防災 リュックサック デイバッグ カジュアルリュック 防災リュック 防災用品 災害対策 避難 7077 (カーキ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 46165.0,
-      "t30d_units": 22.0
-    },
-    {
-      "asin": "B0BDD892NR",
-      "item_name": "Transporter キャリーケース Sサイズ ２～３泊用 機内持込 tk20 スーツケース 男女兼用 旅行かばん レディース メンズ 超軽量 (ローズゴールド)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D9XW95VC",
-      "item_name": "リップストップボストンバッグ ソビア ショルダーバッグ 2WAY キャリーオン 修学旅行 林間学校 (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0844QPDXZ",
-      "item_name": "[トランスポーター] キャリーケース Sサイズ ２～３泊用 機内持込 ピンク tk20 スーツケース 男女兼用 旅行かばん レディース メンズ 超軽量 (ピンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09CTLNR8M",
-      "item_name": "[パラス・デザイン] ショルダーバッグ ボディバッグ ポーチ ワイン 男女兼用 アウトドア 貴重品入れ 8259 (ワイン)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07CRSNKHM",
-      "item_name": "(パラスデザイン) Pallas Design ミニショルダーバッグ サコッシュ ネイビー 9155",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 2240.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B07TDPF84H",
-      "item_name": "コスメボックス トレンチケース sサイズ スカイ 鏡付き (04/スカイ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C1YS852F",
-      "item_name": "[Lieben chama] コンバース サブリュック リュックサック キッズ 林間学校 キャンプ 修学旅行 林間学校リュック 宿泊学習 防災 男女兼用 (ブラック×ホワイト)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 9900.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B08N62C8XY",
-      "item_name": "[Lieben chama] トートバッグ ミニトート cheer-j-01 ショルダー付き レディース ミニバッグ コンパクト (ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0844JGT11",
-      "item_name": "[トランスポーター] キャリーケース Sサイズ ２～３泊用 機内持込 ライトブルー tk20 スーツケース 男女兼用 旅行かばん レディース メンズ 超軽量 (ライトブルー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07R12K6PW",
-      "item_name": "ウエストバッグ ウエストポーチ 2ルーム (2200) カモフラージュ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 1250.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0844PH4ZX",
-      "item_name": "[トランスポーター] キャリーケース Sサイズ ２～３泊用 機内持込 ブラック tk20 スーツケース 男女兼用 旅行かばん レディース メンズ 超軽量 (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07QNSYZSN",
-      "item_name": "[TRANSPORTER] スーツケース キャリーケース DJ16 キャリーバッグ 機内持ち込み可 超軽量 旅行かばん 16インチ ssサイズ 旅行バック 2～3泊 (シャンパン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 78360.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B08RXQ6N4M",
-      "item_name": "[EW] EVERWIN 21598 日本製 ビジネスバッグ メンズ レディース 革付属 軽量 ビジネス (Black)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 29600.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B07T9JJWRY",
-      "item_name": "コスメボックス トレンチケース mサイズ ブラウン 鏡付き (08/ブラウン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 9500.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B08CK74R5F",
-      "item_name": "ボストンバッグ 水玉 cr-323 女子 バッグ 2～3泊 林間学校用 宿泊学習 修学旅行 小学生 (レッド)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07QTPQ387",
-      "item_name": "[トランスポーター] スーツケース キャリーケース DJ16 キャリーバッグ 機内持ち込み可 超軽量 旅行かばん 16インチ ssサイズ 旅行バック 2～3泊 (ネイビー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 20940.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0827HDK2V",
-      "item_name": "コンパクトウォレット フラグメントケース 財布 コインケース ミニ財布 Ｌ字ファスナー レッド cr-320 日本製 栃木レザー キーチェーン カード収納 (ブラック×ブラック)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08RXQXMM7",
-      "item_name": "[EW] EVERWIN 21598 日本製 ビジネスバッグ メンズ レディース 革付属 軽量 ビジネス (Orange)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07BFVNQMS",
-      "item_name": "リュックサック CREST PORT クレストポート デイパック アウトドア 登山 大容量 リュック ナイロン No. 9068 ブラック（Black）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B082M4HFFX",
-      "item_name": "[タニカツ] エコバッグ レジカゴバッグ y89 ピンク 撥水加工 折りたたみ コンパクト 大容量 トートバッグ レジかごバッグ (ピンク)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1340.33,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B07T9KYBVZ",
-      "item_name": "コスメボックス トレンチケース sサイズ レッド 鏡付き (06/レッド)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07R12X4HQ",
-      "item_name": "[クリート] 2ルーム ビジネスバッグ (5213) 軽量 ベーシックタイプ A4ポケットサイズ対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 18465.5,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0GSD65G3S",
-      "item_name": "ショッピングキャリー 保冷 保温 軽量 大容量 35L 男女兼用 買い物 買い出し キャリー 4輪 (ブラウン/花柄)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B082M5W6XY",
-      "item_name": "[タニカツ] エコバッグ レジカゴバッグ y89 レッド 撥水加工 折りたたみ コンパクト 大容量 トートバッグ レジかごバッグ (アカ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0B81W2PR9",
-      "item_name": "衣類用圧縮袋付き ボストンバッグ 50L 大容量 メンズ 旅行 修学旅行 林間学校 バッグ スポーツバッグ ショルダーバッグ (レッド)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 9800.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0844YSYML",
-      "item_name": "[トランスポーター] キャリーケース Sサイズ ２～３泊用 機内持込 シルバー tk20 スーツケース 男女兼用 旅行かばん レディース メンズ 超軽量 (シルバー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08CXCYKZH",
-      "item_name": "防災セット 子供用 地震対策 防災グッズ 防災用品 災害対策 14点セット 大容量 避難グッズ 避難用品 (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BDD382X3",
-      "item_name": "[トランスポーター] キャリーケース Sサイズ ２～３泊用 機内持込 tk20 スーツケース 男女兼用 旅行かばん レディース メンズ 超軽量 (イエロー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07HRF9CZY",
-      "item_name": "バッグ サコッシュ ショルダーバッグ 9155 テラコッタ ３ルーム ミニショルダー ウエストバッグ 斜め掛け クラッチバッグ キャンバス PALLAS DESIGN (テラコッタ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 2980.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CJXV2FDY",
-      "item_name": "[Lieben chama] UNION76 スクエア型 リュックサック バックパック 76-610 リュック (ネイビーカモフラージュ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B00E9PTAVC",
-      "item_name": "(クレストポート）CREST PORT ボストンバッグ ワインレッド",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B01N9VT6ZL",
-      "item_name": "撥水加工 ３Way リュックボストン リーベン ボストンバッグ 【lieben】大容量 防災用 男女兼用 3WAY 多機能 ビッグボストン リュック CR-309 (レッド)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B086KNPDP8",
-      "item_name": "[HANAism] トランク ミニトランク ボックス キャリーケース レディース ダイヤルロック トランクボックス (1/ネイビー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 8900.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CDK9G4C3",
-      "item_name": "ボストンキャリー 01253 キャプテンスタッグ CAPTAIN SATG 林間学校 バッグ キャリーケース 3way ボストン キャリー 大容量 61L ボストンバッグ (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 41670.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B01N9VSYGU",
-      "item_name": "撥水加工 ３Way リュックボストン リーベン ボストンバッグ 【lieben】大容量 防災用 男女兼用 3WAY 多機能 ビッグボストン リュック CR-309 (ネイビー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B082M63LWM",
-      "item_name": "[タニカツ] エコバッグ レジカゴバッグ y89 オレンジ 撥水加工 折りたたみ コンパクト 大容量 トートバッグ レジかごバッグ (オレンジ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1340.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B08SHXNMTV",
-      "item_name": "[優美社産業株式会社] 浮くリュック 防災リュック 3r70 リュックサック 浮かぶ 非常用持出し袋 防災頭巾 ホイッスル (ブルー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08CXCJ52J",
-      "item_name": "防災セット 子供用 地震対策 防災グッズ 防災用品 災害対策 14点セット 大容量 避難グッズ 避難用品 (ピンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07TBJJWT7",
-      "item_name": "コスメボックス トレンチケース mサイズ パールホワイト 鏡付き (13/パールホワイト)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 38000.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B07HRDGHGM",
-      "item_name": "バッグ サコッシュ ショルダーバッグ 9155 ターコイズブルー ３ルーム ミニショルダー ウエストバッグ 斜め掛け クラッチバッグ キャンバス PALLAS DESIGN (ターコイズブルー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 6615.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B086L47H61",
-      "item_name": "[HANAism] ミニトランク ボックス キャリーケース レディース ダイヤルロック トランクボックス (10/ブラウン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 50021.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B07QS6KNMB",
-      "item_name": "[トランスポーター] スーツケース キャリーケース DJ16 キャリーバッグ 機内持ち込み可 超軽量 旅行かばん 16インチ ssサイズ 旅行バック 2～3泊 (ライトグリーン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 13960.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B06Y28Z83J",
-      "item_name": "[Lieben chama] サブリュック リュックサック キッズリュック 大容量 CR-310 ボストンバッグ 撥水 2WAY 修学旅行 男女兼用 自然学校 林間学校 リーベン (ブルーカモフラジュ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D9XBX7T7",
-      "item_name": "リップストップボストンバッグ ソビア ショルダーバッグ 2WAY キャリーオン 修学旅行 林間学校 (グレー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GSDPDRV3",
-      "item_name": "[Lieben chama] ショッピングキャリー 2way 保冷 保温 軽量 大容量 35L トートバッグ 男女兼用 (ブラック/花柄)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08N649XQ1",
-      "item_name": "[Lieben chama] トートバッグ ミニトート cheer-j-01 ショルダー付き レディース ミニバッグ コンパクト (レッド)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B07T8DKQQ7",
-      "item_name": "コスメボックス トレンチケース ブラック sサイズ 鏡付き (10/ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GSD4ZSXJ",
-      "item_name": "[Lieben chama] ショッピングキャリー 2way 保冷 保温 軽量 大容量 35L トートバッグ 男女兼用 (ブラック/猫)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CK24T5JT",
-      "item_name": "リュックサック デイパック 大容量 30L ロゴス LOGOS ロゴスパーク ブラック ヘリンボン 78-03 (ヘリンボン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 23940.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B07TCLF7GT",
-      "item_name": "コスメボックス トレンチケース mサイズ アイボリー 鏡付き (05/アイボリー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 28500.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B08SHSQMB6",
-      "item_name": "[優美社産業株式会社] 浮くリュック 防災リュック 3r70 リュックサック 浮かぶ 非常用持出し袋 防災頭巾 ホイッスル (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0F4K45KSR",
-      "item_name": "ボストンバッグ S アウトドア 35L 修学旅行 林間学校 od-1163 (カーキ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08SJ9YJYB",
-      "item_name": "[優美社産業株式会社] 浮くリュック 防災リュック 3r70 リュックサック 浮かぶ 非常用持出し袋 防災頭巾 ホイッスル (レッド)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 9500.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B07NK9XGK6",
-      "item_name": "[VIAGGIO] 米ぬか非常用トイレ付き 防災 リュックサック デイバッグ カジュアルリュック 防災リュック 防災用品 災害対策 避難 7077 (ネイビー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 63227.66,
-      "t30d_units": 30.0
-    },
-    {
-      "asin": "B0BPC356LY",
-      "item_name": "[UNITED CLASSY] ビジネスバッグ 3way リュックビジネス 6107 2220 多機能 ショルダー PC対応 B4サイズ対応 ブリーフケース",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 13000.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B07QPXLM9Z",
-      "item_name": "[トランスポーター] スーツケース キャリーケース DJ16 キャリーバッグ 機内持ち込み可 超軽量 旅行かばん 16インチ ssサイズ 旅行バック 2～3泊 (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 115920.0,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B07TCLBFH6",
-      "item_name": "コスメボックス トレンチケース mサイズ ネイビー 鏡付き (01/ネイビー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07HRFVL4H",
-      "item_name": "バッグ サコッシュ ショルダーバッグ 9155 グリーン ３ルーム ミニショルダー ウエストバッグ 斜め掛け クラッチバッグ キャンバス PALLAS DESIGN (グリーン)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 2228.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B07PXB4SPP",
-      "item_name": "[VIAGGIO] 米ぬか非常用トイレ付き 防災 リュックサック デイバッグ カジュアルリュック 防災リュック 防災用品 災害対策 避難 7077 (オレンジ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 82504.65,
-      "t30d_units": 38.0
-    },
-    {
-      "asin": "B07TDRM379",
-      "item_name": "コスメボックス トレンチケース イエロー sサイズ 鏡付き (15/イエロー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B082M5W5C2",
-      "item_name": "[タニカツ] エコバッグ レジカゴバッグ y89 カーキ 撥水加工 折りたたみ コンパクト 大容量 トートバッグ レジかごバッグ (カーキ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07QR1YP96",
-      "item_name": "[トランスポーター] スーツケース キャリーケース DJ16 キャリーバッグ 機内持ち込み可 超軽量 旅行かばん 16インチ ssサイズ 旅行バック 2～3泊 (シルバー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 51520.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0844YWTY2",
-      "item_name": "[トランスポーター] キャリーケース Sサイズ ２～３泊用 機内持込 ホワイト tk20 スーツケース 男女兼用 旅行かばん レディース メンズ 超軽量 (ホワイト)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09P1ZHJG2",
-      "item_name": "Transporter 機内持ち込み可 スーツケース tk17 超軽量 16インチ ssサイズ キャリーケース 2泊3日キャリーバッグ コンパクト ダイヤルロック (ピンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08VH1XX44",
-      "item_name": "[ヴィアッジョ] 大容量 デイパック 8213 防災 リュック 多機能 デイパック 30L リュックサック カジュアル メンズ レディース 男女兼用 男の子 女の子 防災グッズ 防災リュック 防災袋 非常用持ちだし袋 防災用品 (オレンジ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 11030.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B07TGTTXDZ",
-      "item_name": "コスメボックス トレンチケース mサイズ グリーン 鏡付き (02/グリーン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07TDPG5FB",
-      "item_name": "コスメボックス トレンチケース sサイズ パールホワイト 鏡付き (13/パールホワイト)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F4C9Q9PY",
-      "item_name": "[Lieben chama] 2025年モデル リュックサック 防災リュック 林間学校 サブリュック ボストンバッグ サブバッグ 自然学校 修学旅行 非常用持出袋 防災バッグ 男女兼用 大容量 71-06 07106 (ブラック×オレンジ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07CSK4J1Y",
-      "item_name": "(パラスデザイン) Pallas Design ミニショルダーバッグ サコッシュ ワイン 9155",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1120.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GSDFBFLW",
-      "item_name": "ショッピングキャリー 保冷 保温 軽量 大容量 35L 男女兼用 買い物 買い出し キャリー 4輪 (ブラック/花柄)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07T9GY5DK",
-      "item_name": "コスメボックス トレンチケース デニム sサイズ 鏡付き (07/デニム)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07QTP7SHF",
-      "item_name": "[トランスポーター] スーツケース キャリーケース DJ16 キャリーバッグ 機内持ち込み可 超軽量 旅行かばん 16インチ ssサイズ 旅行バック 2～3泊 (ピンク)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 6980.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B07BFVRWGR",
-      "item_name": "リュックサック CREST PORT クレストポート デイパック アウトドア 登山 大容量 リュック ナイロン No. 9068 オレンジ（Orange）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07TBK2ZZ6",
-      "item_name": "コスメボックス トレンチケース グリーン sサイズ 鏡付き (02/グリーン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07T8DJ2PH",
-      "item_name": "コスメボックス トレンチケース アイボリー sサイズ 鏡付き (05/アイボリー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 17800.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0BDDLMPTF",
-      "item_name": "Transporter キャリーケース Sサイズ ２～３泊用 機内持込 tk20 スーツケース 男女兼用 旅行かばん レディース メンズ 超軽量 (ディープグリーン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07R4RNJJ1",
-      "item_name": "ウエストバッグ ウエストポーチ 2ルーム (2200) オレンジ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0B81T8S7S",
-      "item_name": "衣類用圧縮袋付き ボストンバッグ 50L 大容量 メンズ 旅行 修学旅行 林間学校 バッグ スポーツバッグ ショルダーバッグ (ネイビー)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 14700.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B00HB0MJAQ",
-      "item_name": "（ヤマモトカンサイ　山本寛斎）KANSAI YAMAMOTO 財布レディース 二つ折り 中F札入れ MJ-4502 (クロ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 11400.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B07R28B7HW",
-      "item_name": "ウエストバッグ ウエストポーチ 2ルーム (2200) ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 3144.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B08N61KCVY",
-      "item_name": "[Lieben chama] トートバッグ ミニトート cheer-j-01 ショルダー付き レディース ミニバッグ コンパクト (ベージュ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F4K5BDV1",
-      "item_name": "ボストンバッグ S アウトドア 35L 修学旅行 林間学校 od-1163 (ネイビー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CGX42Z5S",
-      "item_name": "[Lieben chama] UNION76 リュックサック バックパック 76-600 リュック (ネイビーカモフラージュ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08N63XS6R",
-      "item_name": "[Lieben chama] トートバッグ ミニトート cheer-j-01 ショルダー付き レディース ミニバッグ コンパクト (ライトブラウン)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07TGTS2CQ",
-      "item_name": "コスメボックス トレンチケース mサイズ イエロー 鏡付き (15/イエロー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GRV2TN7Z",
-      "item_name": "ボストンバッグ 3WAY 撥水 48リットル 修学旅行 出張 遠征 男女兼用 林間学校 リュックサック ショルダーバッグ (ブラック/シルバー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09P1YTXXD",
-      "item_name": "[トランスポーター] 機内持ち込み可 スーツケース tk17 超軽量 16インチ ssサイズ キャリーケース 2泊3日キャリーバッグ コンパクト ダイヤルロック (シルバー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B08N61VN8V",
-      "item_name": "[Lieben chama] トートバッグ ミニトート cheer-j-01 ショルダー付き レディース ミニバッグ コンパクト (オレンジ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 3200.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B07T9HZCTX",
-      "item_name": "コスメボックス トレンチケース mサイズ スカイ 鏡付き (04/スカイ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 9500.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B08N625TPB",
-      "item_name": "[Lieben chama] トートバッグ ミニトート cheer-j-01 ショルダー付き レディース ミニバッグ コンパクト (イエロー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07TDPJP1N",
-      "item_name": "COSMETIC BOX トレンチケース mサイズ パールピンク 鏡付き (14/パールピンク) メイクボックス",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 8900.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0B81X2YG9",
-      "item_name": "衣類用圧縮袋付き ボストンバッグ 50L 大容量 メンズ 旅行 修学旅行 林間学校 バッグ スポーツバッグ ショルダーバッグ (ブラック)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 30900.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B082M5V3S1",
-      "item_name": "[タニカツ] エコバッグ レジカゴバッグ y89 ネイビー 撥水加工 折りたたみ コンパクト 大容量 トートバッグ レジかごバッグ (コン)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07BFVH1BR",
-      "item_name": "リュックサック CREST PORT クレストポート デイパック アウトドア 登山 大容量 リュック ナイロン No. 9068 パープル（Purple）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B00HB0P91W",
-      "item_name": "（ヤマモトカンサイ　山本寛斎）KANSAI YAMAMOTO 財布レディース 二つ折り 中F札入れ MJ-4502 (キイ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 6900.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B07CRWKKDN",
-      "item_name": "(パラスデザイン) Pallas Design ミニショルダーバッグ サコッシュ ブラック 9155",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 23352.0,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B07T8G3K56",
-      "item_name": "コスメボックス トレンチケース mサイズ ベージュホワイト 鏡付き (09/ベージュホワイト)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 9500.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B07TGTTC9S",
-      "item_name": "コスメボックス トレンチケース sサイズ ブラウン 鏡付き (08/ブラウン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09P218RCW",
-      "item_name": "Transporter 機内持ち込み可 スーツケース tk17 超軽量 16インチ ssサイズ キャリーケース 2泊3日キャリーバッグ コンパクト ダイヤルロック (ライトブルー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B01B73G4EY",
-      "item_name": "サブリュック　大型【CAPTAIN STAG】　【１２１７/ブラック色】　自然学校　修学旅行　防災用　アウトドア　男女兼用　46L-58L　サブバッグ　ボストンバッグ",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5400.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0844W1PMP",
-      "item_name": "[トランスポーター] キャリーケース Sサイズ ２～３泊用 機内持込 ピーチピンク tk20 スーツケース 男女兼用 旅行かばん レディース メンズ 超軽量 (ピーチピンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07BFVZ8RV",
-      "item_name": "リュックサック CREST PORT クレストポート デイパック アウトドア 登山 大容量 リュック ナイロン No. 9068 ネイビー（Navy）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B07QXVC4B5",
-      "item_name": "ウエストバッグ ウエストポーチ 2ルーム (2200) グリーン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 3128.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B08N62VKGP",
-      "item_name": "[Lieben chama] トートバッグ ミニトート cheer-j-01 ショルダー付き レディース ミニバッグ キャンバストート (グレー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 7960.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B01N4SAN1M",
-      "item_name": "撥水加工 ３Way リュックボストン リーベン ボストンバッグ 【lieben】大容量 防災用 男女兼用 3WAY 多機能 ビッグボストン リュック CR-309 (ブルーカモフラージュ)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 6900.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B06Y2NVYZM",
-      "item_name": "[Lieben chama] サブリュック リュックサック キッズリュック 大容量 CR-310 ボストンバッグ 撥水 2WAY 修学旅行 男女兼用 自然学校 林間学校 リーベン (ネイビー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0C1YVW648",
-      "item_name": "[Lieben chama] コンバース サブリュック リュックサック キッズ 林間学校 キャンプ 修学旅行 林間学校リュック 宿泊学習 防災 男女兼用 (ブラック×オレンジ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 9000.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B07JGRT93N",
-      "item_name": "[Lieben chama] サブリュック リュックサック キッズリュック 大容量 CR-310 ボストンバッグ 撥水 2WAY 修学旅行 男女兼用 自然学校 林間学校 リーベン (オレンジ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 7030.9,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B01N26NDU3",
-      "item_name": "撥水加工 ３Way リュックボストン リーベン ボストンバッグ 【lieben】大容量 防災用 男女兼用 3WAY 多機能 ビッグボストン リュック CR-309 (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 6900.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B07R12J124",
-      "item_name": "ウエストバッグ ウエストポーチ 2ルーム (2200) ネイビー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 4378.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B08VGZG48Q",
-      "item_name": "[ヴィアッジョ] 大容量 デイパック 8213 防災 リュック 多機能 デイパック 30L リュックサック カジュアル メンズ レディース 男女兼用 男の子 女の子 防災グッズ 防災リュック 防災袋 非常用持ちだし袋 防災用品 (カーキ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 8250.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0CGX5YNSR",
-      "item_name": "[Lieben chama] UNION76 リュックサック バックパック 76-600 リュック (ブルーカモフラージュ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F4K5KV18",
-      "item_name": "ボストンバッグ S アウトドア 35L 修学旅行 林間学校 od-1163 (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DSJ3PLKJ",
-      "item_name": "非常食 23点セット 3日分 防災 セット 中身だけ ごはん おにぎり パン お菓子 5年保存 ウェットティッシュ 詰め替え用 備蓄用 防災グッズ 保存食 災害 地震 防災用品 避難グッズ 防災セット キャンプ アウトドア",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0779S51KL",
-      "item_name": "時間割付きメモ帳セット 地球儀 26cm 26-GX 行政図タイプ 日本製 昭和カートンスタンダードモデル 三貴工業 学習用 GLOVE グローブ 教材 学習 入学祝 世界地図付き 日本地図付き クリスマス プレゼント",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 67500.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0BDD7QQQ7",
-      "item_name": "Transporter キャリーケース Sサイズ ２～３泊用 機内持込 tk20 スーツケース 男女兼用 旅行かばん レディース メンズ 超軽量 (レッド)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07T9GX822",
-      "item_name": "コスメボックス トレンチケース sサイズ パールピンク 鏡付き (14/パールピンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0844VJ4XB",
-      "item_name": "[トランスポーター] キャリーケース Sサイズ ２～３泊用 機内持込 ライトグリーン tk20 スーツケース 男女兼用 旅行かばん レディース メンズ 超軽量 (ライトグリーン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B086KYZ49B",
-      "item_name": "[HANAism] ミニトランク ボックス キャリーケース レディース ダイヤルロック トランクボックス (4/デニム)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 8300.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B09CTMKDJK",
-      "item_name": "[パラス・デザイン] ショルダーバッグ ボディバッグ ポーチ ブラック 男女兼用 アウトドア 貴重品入れ 8259 (ブラック)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07PW3Z5LW",
-      "item_name": "[VIAGGIO] 米ぬか非常用トイレ付き 防災 リュックサック デイバッグ カジュアルリュック 防災リュック 防災用品 災害対策 避難 7077 (ブルー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 74431.85,
-      "t30d_units": 35.0
-    },
-    {
-      "asin": "B07TDRF7KY",
-      "item_name": "コスメボックス トレンチケース mサイズ ガーリースカイ 鏡付き (12/ガーリースカイ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 28500.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B00D68D8FW",
-      "item_name": "VIAGGIO多機能ディバック 7077 ブラック",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 58226.0,
-      "t30d_units": 28.0
-    },
-    {
-      "asin": "B09P22YKDS",
-      "item_name": "Transporter 機内持ち込み可 スーツケース tk17 超軽量 16インチ ssサイズ キャリーケース 2泊3日キャリーバッグ コンパクト ダイヤルロック (ネイビー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07BFVK5H6",
-      "item_name": "リュックサック CREST PORT クレストポート デイパック アウトドア 登山 大容量 リュック ナイロン No. 9068 カーキ（Khaki）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B06Y2PPBMN",
-      "item_name": "[Lieben chama] サブリュック リュックサック キッズリュック 大容量 CR-310 ボストンバッグ 撥水 2WAY 修学旅行 男女兼用 自然学校 林間学校 リーベン (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 7900.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B086KVX4WR",
-      "item_name": "[HANAism] トランク ミニトランク ボックス キャリーケース レディース ダイヤルロック トランクボックス (2/グリーン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 35600.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B07PZKWJ2X",
-      "item_name": "[VIAGGIO] 米ぬか非常用トイレ付き 防災 リュックサック デイバッグ カジュアルリュック 防災リュック 防災用品 災害対策 避難 7077 (カモフラージュ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 13100.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B09P23BYVK",
-      "item_name": "[トランスポーター] 機内持ち込み可 スーツケース tk17 超軽量 16インチ ssサイズ キャリーケース 2泊3日キャリーバッグ コンパクト ダイヤルロック (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07TDPXDWG",
-      "item_name": "コスメボックス トレンチケース クロコブラウン sサイズ 鏡付き (11/クロコブラウン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07TGTJ4Q3",
-      "item_name": "コスメボックス トレンチケース mサイズ ブラック 鏡付き (10/ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 9500.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B07HRFVH6N",
-      "item_name": "バッグ サコッシュ ショルダーバッグ 9155 ベージュ ３ルーム ミニショルダー ウエストバッグ 斜め掛け クラッチバッグ キャンバス PALLAS DESIGN (ベージュ)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 4337.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B07TBHPBJ4",
-      "item_name": "コスメボックス トレンチケース mサイズ ミスティー 鏡付き (03/ミスティー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 9500.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B08VGVZVJF",
-      "item_name": "[ヴィアッジョ] 大容量 デイパック 8213 防災 リュック 多機能 デイパック 30L リュックサック カジュアル メンズ レディース 男女兼用 男の子 女の子 防災グッズ 防災リュック 防災袋 非常用持ちだし袋 防災用品 (ネイビー)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 2760.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B08N622Q21",
-      "item_name": "[Lieben chama] トートバッグ ミニトート cheer-j-01 ショルダー付き レディース ミニバッグ コンパクト (アイボリー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 2380.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B07BFV3NWT",
-      "item_name": "リュックサック CREST PORT クレストポート デイパック アウトドア 登山 大容量 リュック ナイロン No. 9068 レッド（Red）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B082M6MMJ4",
-      "item_name": "[タニカツ] エコバッグ レジカゴバッグ y89 ベージュ 撥水加工 折りたたみ コンパクト 大容量 トートバッグ レジかごバッグ (ベージュ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 2800.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B01B73OGMG",
-      "item_name": "サブリュック　大型リュック　【CAPAIN STAG】　【１２１７/レッド色】　自然学校　修学旅行　防災用　アウトドア　男女兼用　46L-58L　サブバッグ　ボストンバッグ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08RXQ745R",
-      "item_name": "[EW] EVERWIN 21598 日本製 ビジネスバッグ メンズ レディース 革付属 軽量 ビジネス (Navy)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 31300.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B07T9J38NW",
-      "item_name": "コスメボックス トレンチケース sサイズ ミスティー 鏡付き (03/ミスティー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B00G8V6ELO",
-      "item_name": "VIAGGIO多機能ディバック 7077 パープル",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 29772.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B07R26QGPM",
-      "item_name": "ウエストバッグ ウエストポーチ 2ルーム (2200) ワイン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BDCVJNTG",
-      "item_name": "[トランスポーター] キャリーケース Sサイズ ２～３泊用 機内持込 tk20 スーツケース 男女兼用 旅行かばん レディース メンズ 超軽量 (ライトパープル)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09P1XQWM8",
-      "item_name": "[トランスポーター] 機内持ち込み可 スーツケース tk17 超軽量 16インチ ssサイズ キャリーケース 2泊3日キャリーバッグ コンパクト ダイヤルロック (シャンパン)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 12880.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B08N6251XJ",
-      "item_name": "[Lieben chama] トートバッグ ミニトート cheer-j-01 ショルダー付き レディース ミニバッグ コンパクト (ブラウン)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 7960.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B07ZQ32NM5",
-      "item_name": "地球儀 ひらがな地球儀 26cm 26-hap-r3 絵入り 日本製 付録付き 学習用",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 28800.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B08VGZJ2TY",
-      "item_name": "[ヴィアッジョ] 大容量 デイパック 8213 防災 リュック 多機能 デイパック 30L リュックサック カジュアル メンズ レディース 男女兼用 男の子 女の子 防災グッズ 防災リュック 防災袋 非常用持ちだし袋 防災用品 (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 2760.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B06Y2P5QRZ",
-      "item_name": "[Lieben chama] サブリュック リュックサック キッズリュック 大容量 CR-310 ボストンバッグ 撥水 2WAY 修学旅行 男女兼用 自然学校 林間学校 リーベン (レッド)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 15800.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0844GPFC2",
-      "item_name": "[トランスポーター] キャリーケース Sサイズ ２～３泊用 機内持込 シャンパン tk20 スーツケース 男女兼用 旅行かばん レディース メンズ 超軽量 (シャンパン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10743157622,
+      "merchant_name": "Geer",
+      "asin": "B07YB2J457",
+      "item_name": "CigaMaTe リレーアタック防止ケース リレーアタック スマートキーケース 電波遮断 リレーアタック防止 ボックス 車盗難防止",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 62240.75,
+      "t30d_units": 23.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

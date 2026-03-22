@@ -1,112 +1,21 @@
 {
-  "626828498202": [
+  "627150629902": [
     {
-      "asin": "B0CPJLBK51",
-      "item_name": "【公式】ハロベビ 葉酸サプリ 妊活 ⼥性 30代 40代 モノグルタミン酸型葉酸 NMN PQQ コエンザイムQ10 妊活サポート 30⽇分",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 483497.0,
-      "t30d_units": 32.0
-    },
-    {
-      "asin": "B0CPC3FBRW",
-      "item_name": "【公式】アンジェエール 妊活・美容サプリ ベビプラ＜ざくろアップル＞ 女性向け プラセンタ 30包",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 59486.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0CQM92TT2",
-      "item_name": "【公式】アンジェエール 妊活サプリ デトクリーン 女性向け 3種類の炭配合 90粒(30日分)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 29728.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0CPC7CDMJ",
-      "item_name": "【公式】アンジェエール 妊活・美容サプリ ベビプラ＜ざくろグレープ＞ 女性向け プラセンタ 30包",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 128004.0,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0CPJHM6G1",
-      "item_name": "【公式】アンジェエール 妊活サプリ ベビグリーン 女性向け ミトコンドリア 90粒/30日分",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 58394.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0CQ7HP1FG",
-      "item_name": "【公式】アンジェエール 妊活茶 温授茶 女性向け 温活 90g(3g×30包)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 825.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CPJJLSJC",
-      "item_name": "【公式】アンジェエール 妊活サプリ ジオアップ 女性向け ジオスゲニン 120粒/30日分",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 141181.41,
-      "t30d_units": 22.0
-    },
-    {
-      "asin": "B0CPJJGYZ4",
-      "item_name": "アンジェエール 酵素ドリンク めぐみ酵素 500ml ファスティング ダイエット 60種類の国産原料 14種類の添加物不使用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 88565.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0CPC7B4T7",
-      "item_name": "【公式】アンジェエール 妊活サプリ プロケア 女性向け オメガ3脂肪酸 90粒/30日分",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 56874.75,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0CPJGJPSC",
-      "item_name": "【公式】アンジェエール 妊活サプリ ロイヤルベビー 女性向け ローヤルゼリー 90粒/30日分",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 38058.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0CP2WHFW9",
-      "item_name": "【公式】アンジェエール 妊活サプリ アグリエ 女性向け イソフラボン 120粒/30日分",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 205302.75,
-      "t30d_units": 28.0
-    },
-    {
-      "asin": "B0FB3X2L7W",
-      "item_name": "【葉酸480㎍×植物発酵エキス109種】アンジェエール 妊活・妊娠 国内製造 小粒で飲みやすい ビタミン12種 鉄 カルシウム 野菜21種 30日分",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 249869.0,
-      "t30d_units": 95.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 627150629902,
+      "merchant_name": "DSR ONLINE STORE",
+      "asin": "B0C7ZDQS19",
+      "item_name": "【敏感肌のための】高濃度セラミド美容液 モイスチャーマトリックスIS 30mL ヒト型セラミド ナイアシンアミド 毛穴 ビタミンB6 オイルフリー 脂漏性敏感肌 シェルシュール",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 526148.66,
+      "t30d_units": 92.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

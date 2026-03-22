@@ -1,22 +1,21 @@
 {
-  "960235776002": [
+  "960255651502": [
     {
-      "asin": "B0FS1M1MCM",
-      "item_name": "自転車 ライト 充電式 【大容量5600mAh・5つ調光モード】 4個強力ランプ 高輝度 自転車ヘッドライト テールライト付き IPX6防水 防振 電池残量表示 モバイルバッテリー機能 LEDヘッドライト 懐中電灯兼用 取付簡単 耐衝撃 ロードバイク クロスバイク ライト 通勤 通学 停電対策 地震対策 防災 緊急用 (",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 508434.54,
-      "t30d_units": 227.0
-    },
-    {
-      "asin": "B0FXGT6915",
-      "item_name": "布団乾燥機 ダニ退治 タイマー付き 温風 ふとん乾燥機 温度調整 ツインノズル パワフル 速乾 速暖 布団乾燥 布団あたため 靴乾燥 梅雨対策 湿気取り マット不要 ホルダー付き ふとんかんそうき 軽量 小型 持ち運び便利 収納便利",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 114147.0,
-      "t30d_units": 3.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 960255651502,
+      "merchant_name": "suiso shop",
+      "asin": "B0DRF4172X",
+      "item_name": "-600mV 水素水 530ml 強い還元力 広島県 中性pH 豊富な水素含有量 (530ml×10本)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 10280.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

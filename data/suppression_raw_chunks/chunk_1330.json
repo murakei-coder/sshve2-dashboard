@@ -1,22 +1,38 @@
 {
   "3601871322": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 3601871322,
+      "merchant_name": "Varinos株式会社",
       "asin": "B07VSFS9G7",
       "item_name": "【医療機関採用のラクトフェリン×妊活】 ［Varinos］ サプリメント 90粒 ラクトフェリン100mg配合 子宮内フローラ 妊娠準備 妊娠初期 出産 腸溶性 特許取得 日本製",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 4222393.08,
-      "t30d_units": 563.0
+      "t30d_units": 563.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 3601871322,
+      "merchant_name": "Varinos株式会社",
       "asin": "B0C7RDKM9Q",
       "item_name": "【医療機関採用のラクトフェリン×葉酸×ビタミンD】 ［Varinos］ 3in1 サプリメント 90粒 妊活 妊娠準備 妊娠初期 出産 腸溶性 高配合 産婦人科医監修 特許取得 日本製",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 1732081.16,
-      "t30d_units": 220.0
+      "t30d_units": 220.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

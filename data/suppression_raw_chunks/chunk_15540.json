@@ -1,67 +1,38 @@
 {
-  "1096744431302": [
+  "1096748366102": [
     {
-      "asin": "B0BTPP4G4D",
-      "item_name": "TENÉLE監修 ヘアリラクサー (400ml) ヘアトリートメント サロン専売品 髪質改善",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 79200.46,
-      "t30d_units": 16.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1096748366102,
+      "merchant_name": "Water Sonic",
+      "asin": "B0FDWX9N4X",
+      "item_name": "Water Sonic ウォーターソニック 【歯科大学共同研究 歯垢除去率130%】ジェット水流 ソニック歯ブラシ 合体型 ジェットウォッシャー 一体型 電動歯ブラシ 口腔洗浄器 水流音波歯ブラシ 毎分38,000回の音波振動 高圧水流 スタンド充電対応 防水性能 IPX7 (White)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 510940.0,
+      "t30d_units": 26.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FDFLGZQ2",
-      "item_name": "【頭皮と髪のクリーニング】マイスキャルプリッチスクラブ 頭皮用スクラブ 皮脂汚れ臭いすっきり 爽やかなオレンジベルガモットの香り 美容室専売品 天衣無縫監修",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 19154.91,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0BLBQ9NJW",
-      "item_name": "MY HAIR PROTEIN ヘアオイル サロン専売品 アウトバストリートメント マイヘアプロテイン (50ml)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 39810.8,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0BTPCWKNH",
-      "item_name": "アイリット ルミナスシャンプー (400ml) アミノ酸シャンプー タンパク質補給 天衣無縫監修",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 113354.12,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B0C3VPYP5T",
-      "item_name": "Hair innovation mask ヘアマスク ヘアイノベーションマスク 超集中補修 美容成分",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 34402.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0CJXNXNQ4",
-      "item_name": "TENELE SOFTENING MILK テネール ソフトニングミルク サロン専売品 髪の柔軟剤 髪の乾燥を守る",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 73299.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0BL8PTMWR",
-      "item_name": "MY HAIR PROTEIN ヘアオイル サロン専売品 アウトバストリートメント マイ ヘアプロテイン (100ml)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 184155.66,
-      "t30d_units": 37.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1096748366102,
+      "merchant_name": "Water Sonic",
+      "asin": "B0FDWY59TT",
+      "item_name": "Water Sonic ウォーターソニック 【歯科大学共同研究 歯垢除去率130%】ジェット水流 ソニック歯ブラシ 合体型 ジェットウォッシャー 一体型 電動歯ブラシ 口腔洗浄器 水流音波歯ブラシ 毎分38,000回の音波振動 高圧水流 スタンド充電対応 防水性能 IPX7 (Black)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 694999.33,
+      "t30d_units": 35.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

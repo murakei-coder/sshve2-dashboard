@@ -1,13 +1,21 @@
 {
-  "1100255868502": [
+  "1100350858502": [
     {
-      "asin": "B0GFMSZG2Z",
-      "item_name": "Mugukue AI ボイスレコーダー 文字起こし＆要約 GPT-4.1搭載 73時間連続録音 薄型4.95mm 通話録音一時停止対応 64GB大容量 Type-C接続 スマホUディスク機能 多言語対応 通話/会議/授業/インタビューに最適 マグネットリング付属 USBアダプタ付き ダークグレー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 2263751.66,
-      "t30d_units": 139.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1100350858502,
+      "merchant_name": "Spieek公式店",
+      "asin": "B0FHK2HZWC",
+      "item_name": "バスポリッシャー 電動掃除ブラシ 2000mAh大容量バッテリー 8個替えブラシ付き 防水 伸縮式ハンドル(25-140cm) 90分連続使用 2つ回転モード Type-C充電式 手持ち式 軽量 電量表示 お風呂掃除 ブラシ 浴室電動ブラシ 浴槽磨き トイレ掃除 床 窓 壁 玄関 年末掃除 ポリッシャー 床 電動クリーナー PSE認証済み",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 148161.33,
+      "t30d_units": 49.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,175 +1,21 @@
 {
-  "1089302179902": [
+  "1089305233002": [
     {
-      "asin": "B0FZR658RZ",
-      "item_name": "MAGICLULU スポンジ カーラー 10個セット 寝ながら ヘアローラー マッシュルーム型 ヒートレス ヘアカーラー 巻き髪 前髪 ソフト 痛くない 手巻き DIY スタイリング 旅行 子供 (ピンク)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FK3SF6DQ",
-      "item_name": "MAGICLULU スーツケース ジッパープル ファスナー 引き手 ジッパーヘッド 荷物用 メタルジップタブ タブ交換用 ロック穴付き 修理パーツ 4個セット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FGD9B9TG",
-      "item_name": "MAGICLULU 釣り網 10個セット 吸い込み仕掛け スプリング (バネ) 付き 魚取り網 団子釣り 投網 絡み網 針なし 鯉釣り フナ 爆釣 漁具 夜釣り 蛍光ビーズ 海釣り 川釣り 淡水 仕掛け網",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 2817.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FPDRZYD3",
-      "item_name": "MAGICLULU 目柄 ガラス製 ドール目玉ビーズ 人形の目 ラウンド ビーズ DIY クラフト用 40個セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 1782.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FZRJC6C3",
-      "item_name": "MAGICLULU 浴室用ラック コーナーラック 3点セット 強力粘着 穴あけ不要 ステンレス製 錆びない お風呂 収納 石鹸置き付き 水切り 風呂場 洗面所 収納棚",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FZR6RGF3",
-      "item_name": "MAGICLULU ポンプボトル ロッククリップ 30個入り ポンプヘッド ストッパー 漏れ防止 クリップ 防漏 留め具 シャンプー クレンジングオイル トラベル 旅行 持ち運び 誤作動防止 (ホワイト/半透明)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 839.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FQCG3SQ8",
-      "item_name": "MAGICLULU バスケットボール 壁掛けラック ボールホルダー 金属製 多目的 壁掛け ボール収納ラック 省スペース スポーツ ボール 陳列棚 家庭用 展示用 2個セット",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 2579.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FZR7TCZL",
-      "item_name": "MAGICLULU ちりとり 2個セット ダストパン 小型 ハンディ 掃除 セット 卓上 玄関 猫砂 シャベル 園芸 ベランダ 落ち葉 子供 お手伝い プラスチック 軽量 水洗い可能 収納便利",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 7937.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FZR6RYLK",
-      "item_name": "MAGICLULU フェイクフルーツ オレンジ 6個セット 食品サンプル 本物そっくり リアル 模型 撮影小物 ディスプレイ お供え 仏壇 腐らない キッチン 装飾 デッサン 果物",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FLH1178X",
-      "item_name": "MAGICLULU ブレーキワイヤー 自転車 ブレーキケーブル 前後セット 交換用 ステンレス インナーケーブル アウター 保護チューブ付き 汎用 修理 メンテナンス ママチャリ ロードバイク クロスバイク マウンテンバイク 折りたたみ自転車 パーツ 黒",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 2505.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FQM6DQ3F",
-      "item_name": "MAGICLULU チャイムベル ペンダント DIY クラフト用 小型鈴 真鍮製 アンティーク風 ジュエリー作り 飾り付け 3個入り",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FZRRFGWS",
-      "item_name": "MAGICLULU 吊り鉢 フック 10本セット 35cm 交換用 吊り具 ハンギングプランター チェーン プラスチック製 植木鉢 吊り下げ 観葉植物 多肉植物 盆栽 家庭菜園 ガーデニング 園芸 黒",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FZRGZYVY",
-      "item_name": "MAGICLULU アクリルディスプレイスタンド2個：透明3段 オーガナイザー - 卓上ショーケースと装飾品ディスプレイ用",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FZWYGM4P",
-      "item_name": "MAGICLULU 圧縮バッグ トラベルポーチ 8点セット ファスナー圧縮 衣類スペース50％節約 ポンプ不要 圧縮袋 旅行 出張 修学旅行 入院 パッキングキューブ シューズケース付き 軽量 撥水 大容量 ベージュ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FK3XKP3K",
-      "item_name": "MAGICLULU 2個 未塗装小型木製ボックス 結婚式 用頑丈で滑らかな木材製 四角形デ 塗装彫刻対応 贈答用収納ケース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 3172.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FNDNV4Q9",
-      "item_name": "MAGICLULU 反射機能付きナイロン製犬用伸縮リード 耐久性と弾力性を備え 小中型犬の散歩 トレーニング ランニングに適した な延長リードブラ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 4545.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0FZR6FVM9",
-      "item_name": "MAGICLULU アルファベット アイロンプリントシート 文字熱転写ステッカー DIY 衣類用 家庭用アイロン対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FPF3RN5X",
-      "item_name": "MAGICLULU フリンジ テープ ゴールド 15cm幅 長さ10m 大容量 タッセル ブレード 房飾り ラテンダンス 社交ダンス 衣装 ステージ コスチューム 手芸 材料 カーテン 縁飾り DIY 裁縫 装飾 金",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 1649.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FMX9KJX5",
-      "item_name": "MAGICLULU ゴルフボールホルダー ゴルフボールケース ピーナッツ型 カラビナ付き ポータブル シリコン 軽量 保護カバー ゴルフポーチ 競技練習用 2ボールケース",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 7562.8,
-      "t30d_units": 7.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1089305233002,
+      "merchant_name": "linglio",
+      "asin": "B0FS829Y69",
+      "item_name": "【2025新型・電子点火式】ガスバーナー トーチバーナー 360度逆さ使用可能/操作簡単/火力調節可能 900℃～1300℃ 耐熱/炙り調理/BBQ/炭火起こし/溶接 YanDrape バーナー (燃料別売り) [並行輸入品]",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 2353909.64,
+      "t30d_units": 2036.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

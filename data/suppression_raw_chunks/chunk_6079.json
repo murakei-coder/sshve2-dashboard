@@ -1,148 +1,89 @@
 {
-  "27326927622": [
+  "27331090022": [
     {
-      "asin": "B08KLG3MK6",
-      "item_name": "La mellow（ラ・メロウ） デロンギ用ポルタフィルター51mm （フィルター付き）EC885/EC680/EC685用 ボトムレス",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 234143.98,
-      "t30d_units": 34.0
-    },
-    {
-      "asin": "B0DJ78DGP4",
-      "item_name": "La mellow（ラ・メロウ） マグネットドージングリング 51mm 内側装着タイプ ステンレス製 コーヒー ドージングリング ドージングファンネル バリスタツール",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 133220.51,
-      "t30d_units": 52.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 27331090022,
+      "merchant_name": "ミネベアミツミ",
+      "asin": "B0B3T8JFS1",
+      "item_name": "「美術館で採用された上質な光 スマホで光の向きを操作」SALIOT ムービングスポットライト (本体黒 白色4000K)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FV8TF59P",
-      "item_name": "La mellow（ラ・メロウ）エスプレッソ ディストリビューター 51mm コーヒータンパー 高さ調整可 目盛付き ステンレス製 粉ならしツール",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 139218.29,
-      "t30d_units": 44.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 27331090022,
+      "merchant_name": "ミネベアミツミ",
+      "asin": "B0B3THF6K7",
+      "item_name": "「美術館で採用された上質な光 スマホで光の向きを操作」SALIOT ムービングスポットライト (本体白 白色4000K)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FV8XDXZ8",
-      "item_name": "La mellow（ラ・メロウ）エスプレッソ ディストリビューター 53.3mm コーヒータンパー 高さ調整可 目盛付き ステンレス製 粉ならしツール",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 27331090022,
+      "merchant_name": "ミネベアミツミ",
+      "asin": "B0BNN34RZ2",
+      "item_name": "「読書灯から間接照明まで、自由に使えるコンパクトスタンド」SALIOT pico (STAND-S 1灯, 本体黒)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 29600.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B092THYBP3",
-      "item_name": "La mellow（ラ・メロウ） ポルタフィルターバスケット 51mm 非加圧 シングル",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 34040.25,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B0DS2D8GZV",
-      "item_name": "La mellow（ラ・メロウ）ハイブリッドポルタフィルター58mm E61グループヘッド用 ボトムレス ダブルスパウト付き 取り外し可能 ブラインドフィルターバスケット付属 エスプレッソマシン用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 38583.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0G2SNH16Z",
-      "item_name": "La mellow（ラ・メロウ）エスプレッソタンパースタンド コーヒータンパーマット 収納スタンド シリコンマット ABS製 ポルタフィルター置き",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 32572.0,
-      "t30d_units": 10.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 27331090022,
+      "merchant_name": "ミネベアミツミ",
+      "asin": "B0B3T8MBQZ",
+      "item_name": "「美術館で採用された上質な光 スマホで光の向きを操作」SALIOT ムービングスポットライト (本体黒 電球色3000K)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 320146.0,
+      "t30d_units": 13.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0B1D8K19V",
-      "item_name": "La mellow（ラ・メロウ） デロンギ用ポルタフィルター 51mm (EC235/ECP3220用 非加圧) ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 57731.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0FSZZQVWW",
-      "item_name": "La mellow（ラ・メロウ）ボトムレスポルタフィルター 51mm デロンギEC885/EC680用 精密フィルターバスケット 非加圧 デディカ アルテ エスプレッソ 微粉対策 人間工学ハンドル クレマ抽出",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Total CE",
-      "t30d_ops": 116051.66,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0G34XZ4LD",
-      "item_name": "La mellow（ラ・メロウ）ボトムレスポルタフィルター 51mm デロンギEM450用 精密フィルターバスケット 非加圧 クラシック エスプレッソ 微粉対策 人間工学ハンドル クレマ抽出",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Total CE",
-      "t30d_ops": 214474.41,
-      "t30d_units": 31.0
-    },
-    {
-      "asin": "B0FCY28DZP",
-      "item_name": "La mellow（ラ・メロウ） マグネットドージングリング 54mm 外側装着タイプ ステンレス製 コーヒー ドージングリング ドージングファンネル バリスタツール",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 28800.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0GJRW8R6P",
-      "item_name": "La mellow（ラ・メロウ） デロンギ用ポルタフィルター 51mm 精密フィルターバスケット 二重構造 コーヒーフィルター 交換用 微粉対策 デロンギエスプレッソマシン 非加圧",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 61940.33,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0GMH4KRV7",
-      "item_name": "La mellow（ラ・メロウ）エスプレッソ ディストリビューター 58.35mm コーヒータンパー 高さ調整可 目盛付き ステンレス製 粉ならしツール",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0B1D8QJF8",
-      "item_name": "La mellow（ラ・メロウ） デロンギ用ポルタフィルター 51mm (EC885/EC680/EC685用 非加圧) ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 43520.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0G34WWK7B",
-      "item_name": "La mellow（ラ・メロウ）ボトムレスポルタフィルター 51mm デロンギEC235/ECP3220用 精密フィルターバスケット 非加圧 スティローザ/アクティブ エスプレッソ 微粉対策 人間工学ハンドル クレマ抽出",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Total CE",
-      "t30d_ops": 120035.33,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0DJ7B1WS4",
-      "item_name": "La mellow（ラ・メロウ） マグネットドージングリング 58mm 外側装着タイプ ステンレス製 コーヒー ドージングリング ドージングファンネル バリスタツール",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "L&L",
-      "t30d_ops": 40320.0,
-      "t30d_units": 14.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 27331090022,
+      "merchant_name": "ミネベアミツミ",
+      "asin": "B0B3T9G71D",
+      "item_name": "「美術館で採用された上質な光 スマホで光の向きを操作」SALIOT ムービングスポットライト (本体白 電球色3000K)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 121745.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,13 +1,38 @@
 {
-  "1111027130302": [
+  "1111048341002": [
     {
-      "asin": "B0FKZYCYFK",
-      "item_name": "耀花蜜 -採れたて信州産百花蜜- 300g 生蜂蜜 本物 純粋 非加熱 天然 無添加 国産 健康 美容 はちみつ Honey Prime",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 1171292.65,
-      "t30d_units": 330.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1111048341002,
+      "merchant_name": "ご当地風土",
+      "asin": "B0FP1F3HYC",
+      "item_name": "【グルテンフリー おからクッキー 300g】罪なきくまもとおからクッキー 訳あり 個包装 硬い グルテンフリー 糖質50%オフ 国産原料 使用 小麦粉不使用 白砂糖不使用 バター不使用 卵不使用 着色料不使用 保存料不使用 牛乳不使用 プレーン ココア アーモンド ダイエット 満腹感 満足感 食物繊維 おや",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 30720.0,
+      "t30d_units": 24.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1111048341002,
+      "merchant_name": "ご当地風土",
+      "asin": "B0FNBTLG8S",
+      "item_name": "【グルテンフリー】おからクッキー 900g (7種 90枚入り)大量 個包装 かたい 完全国産 グルテンフリー 糖質50%オフ 低糖質 上白糖不使用 バター不使用 卵不使用 着色料不使用 保存料不使用置き換えダイエット ダイエット おやつ ココア プレーン アーモンド 食物繊維",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 1706164.76,
+      "t30d_units": 727.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

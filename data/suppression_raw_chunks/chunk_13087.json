@@ -1,49 +1,21 @@
 {
-  "827791059302": [
+  "827796738802": [
     {
-      "asin": "B0D9JMK14M",
-      "item_name": "マヌカハニー MGO400+ 250g 国内正規品 非加熱 無添加 100％オーストラリア産 生はちみつ 肌トラブルや乾燥対策に 日々の不調サポート 蜂蜜 プレミアム品質 AUSTRALIA’S MANUKA",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 9865.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D9JMHS85",
-      "item_name": "マヌカハニー MGO550+ 250g 国内正規品 非加熱 無添加 100％オーストラリア産 生はちみつ 濃厚で上質な味わい 高MGO分析済 プレミアム品質 AUSTRALIA’S MANUKA",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 68816.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0D9JP8731",
-      "item_name": "マヌカハニー MGO250+ 250g 国内正規品 オーストラリア産 生はちみつ 非加熱 無添加 喉ケア 蜂蜜 プレミアム品質 オーストラリアズマヌカ AUSTRALIA’S MANUKA",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 90709.0,
-      "t30d_units": 27.0
-    },
-    {
-      "asin": "B0D9JPSX2S",
-      "item_name": "マヌカハニー MGO250+ 500g 国内正規品 オーストラリア産 生はちみつ 非加熱 無添加 喉ケア 蜂蜜 プレミアム品質 オーストラリアズマヌカ AUSTRALIA’S MANUKA",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 35799.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0D9JMSHWC",
-      "item_name": "マヌカハニー MGO1500+ 250g 国内正規品 非加熱 無添加 100％オーストラリア産 生はちみつ 最上級グレード 特別なケアや贈り物に 蜂蜜 プレミアム品質 AUSTRALIA’S MANUKA",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 183000.0,
-      "t30d_units": 6.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 827796738802,
+      "merchant_name": "T.Tilyオンラインショップ",
+      "asin": "B0FK3SKQZW",
+      "item_name": "【看護師自ら開発】大きめサイズ お薬カレンダー 1週間 おくすりカレンダー くすり入れ1週間 薬飲み忘れ防止 服薬カレンダー 壁掛け 薬入れ 薬管理 お薬ケース 飲み忘れ防止 持ち運びポーチ付き 薬整理袋付き Ami Soin",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 256272.71,
+      "t30d_units": 81.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

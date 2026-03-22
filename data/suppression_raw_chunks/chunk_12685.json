@@ -1,58 +1,21 @@
 {
-  "791533230502": [
+  "791565297902": [
     {
-      "asin": "B0CZCT93NZ",
-      "item_name": "[アールレザー] 名刺入れ レディース 本革 大容量 70枚収納 - バイカラー 上質シュリンクレザー | おしゃれな仕切り付きカードケース 就職祝い ギフト (ピンク×ライトグレー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 24222.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0CZD24K7L",
-      "item_name": "[アールレザー] 名刺入れ レディース 本革 大容量 70枚収納 - バイカラー 上質シュリンクレザー | おしゃれな仕切り付きカードケース 就職祝い ギフト (スカイブルー×ライトグレー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 38162.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0FZ8Q52JS",
-      "item_name": "[アールレザー] 【新色】 名刺入れ レディース 本革 大容量 70枚収納 - バイカラー 上質シュリンクレザー | おしゃれな仕切り付きカードケース 就職祝い ギフト (スカイブルー×ネイビー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 19920.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0CZCSB6MR",
-      "item_name": "[アールレザー] 名刺入れ レディース 本革 大容量 70枚収納 - バイカラー 上質シュリンクレザー | おしゃれな仕切り付きカードケース 就職祝い ギフト (ブラック×ピンク)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 4480.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CZCTLTKP",
-      "item_name": "[アールレザー] 名刺入れ レディース 本革 大容量 70枚収納 - バイカラー 上質シュリンクレザー | おしゃれな仕切り付きカードケース 就職祝い ギフト (ネイビー×スカイブルー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 43142.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0FZ8J1JJT",
-      "item_name": "[アールレザー] 【新色】 名刺入れ レディース 本革 大容量 70枚収納 - バイカラー 上質シュリンクレザー | おしゃれな仕切り付きカードケース 就職祝い ギフト (グレー×ベビーピンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 18742.0,
-      "t30d_units": 4.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 791565297902,
+      "merchant_name": "HEYINCAR+ メーカー直営店",
+      "asin": "B0GFX9HCY5",
+      "item_name": "【時代を開く 業界最新傑作】HEYINCAR+ H-MAX CarPlay AI Box Android 13アダプター 8GB + 128GBの大容量メモリ｜nano SIM/Micro SD対応｜ワイヤレスCarPlay・Android Auto｜98%以上の車種適用｜技適認証取得済｜日本語説明書付き（ブラック）",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 602052.66,
+      "t30d_units": 22.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

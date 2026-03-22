@@ -1,67 +1,21 @@
 {
-  "1122610494302": [
+  "1122647761602": [
     {
-      "asin": "B0FVXVD7BR",
-      "item_name": "スマホスタンド 一個入り 卓上 スタンド おりたたみ式 ホルダー 角度調整 携帯 Kindle/Switchに対応 コンパクト 滑り止め",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G1RRNLD7",
-      "item_name": "Bluetooth スピーカー【2026最新型】ワイヤレススピーカー 24時間連続再生 強化された低音 Bluetooth 5.3 完全ワイヤレスステレオ対応 TWS機能 Type C充電式 LEDライト付き マイク内蔵 ハンズフリー通話 IPX7防水 小型 持ち運びやすい お風呂で使用可能 日本語取扱説明書 ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 4258776.65,
-      "t30d_units": 1312.0
-    },
-    {
-      "asin": "B0FVXS1VGM",
-      "item_name": "スマホスタンド 携帯スタンド 角度調整 安定性 おりたたみ式 高度調整可能 デスク スマートフォン 多機種対応 1個セット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G395PLF5",
-      "item_name": "ハンディクリーナー 多機能 車用掃除機 コードレス 【空気入れ/空気抜き】ハンディ掃除機 パワフル 長時間稼働 USB充電式 日本語説明書 ブラック",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FVXR4G3K",
-      "item_name": "スマホスタンド「強化安定版・一個入り」おり畳み式 滑り止め コンパクト 高さ調整 無段階調整 角度調整 卓上 スマホ対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 2198.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0G47MVSX4",
-      "item_name": "口腔洗浄器 ジェットウォッシャー 5種類の水流モード 替えノズル6本 360°回転設計 パルス水流 350ML大容量タンク USB充電式 IPX7防水 コードレス 携帯型 歯間ケア 口腔ケア 家庭用&旅行用に最適 日本語説明書付き (ホワイト)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 4129236.81,
-      "t30d_units": 1313.0
-    },
-    {
-      "asin": "B0G6KF9GC9",
-      "item_name": "タブレットスタンド 一個入り 角度調整 スマホスタンド スマホホルダー 折り畳み コンパクト デスク 安定性 スマートフォン多機種対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1122647761602,
+      "merchant_name": "果林堂",
+      "asin": "B0FXWVSBP4",
+      "item_name": "【国産よもぎ100％】【香ばしい焙煎仕立て】 よもぎ茶 国産 ヨモギ茶 【ノンカフェインｘ無添加】大容量50包【医師監修の和ハーブティー】果林堂 (50包)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 282326.73,
+      "t30d_units": 168.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

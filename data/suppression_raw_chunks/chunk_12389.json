@@ -1,157 +1,89 @@
 {
-  "756229238802": [
+  "756364637502": [
     {
-      "asin": "B0CV2XFLY4",
-      "item_name": "［日進ハム］ハム ギフト 詰め合わせ プレゼント お取り寄せ ボンレスハム ソーセージ 東京麻布「日進ハム公式ショップ ホワイトハムバラエティ5種食べ比べ スライスハムソー堪能セット」母の日 父の日 御中元 御歳暮 お中元 お歳暮 誕生日プレゼント 内祝 御礼 御祝 メッセージカード 全15種以",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 756364637502,
+      "merchant_name": "EYY Official",
+      "asin": "B0DYDY7NS1",
+      "item_name": "Eyy ノートパソコン Office 2024 搭載 16.0型 インテル Core i5 16GB メモリ 512GB SSD Win 11 Pro対応 1980*1200 FHD ノートPC 薄型 軽量 英語キーボード&バックライト付き Webカメラ内蔵/WiFi5/BT5/USB3.0/イーサネット ポート オンライン授業 テレワーク向け グレー laptop",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 6055521.65,
+      "t30d_units": 103.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CTK5VFW2",
-      "item_name": "ハム ギフト 詰め合わせ クラフトビール ギフト 詰め合わせ 東京麻布 日進ハム公式ショップ「“ドイツ製法”ソーセージ4種 地ビール2種 食べ飲み比べ 日進ハム＆コエドビールセット扇」 (熨斗なし)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 756364637502,
+      "merchant_name": "EYY Official",
+      "asin": "B0FZ9V7V4H",
+      "item_name": "ノートパソコン Office2024搭載 パソコン Win 11 Pro 15.6インチ ノートPC 12GB メモリ SSD 256GB Celeron プロセッサー 最大2.6GHZ FHD1080P IPS非光沢液晶 ウェブカメラ付き 静音動作 軽量薄型 laptop 1.5kg/WIFI5/BT5.0/USB 3.0/HDポート/テンキー ラップトップ 学生向け 仕事用 学習用 シルバー",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 9665418.71,
+      "t30d_units": 278.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CT7NS6VM",
-      "item_name": "［日進ハム］ハム ギフト 詰め合わせ プレゼント お取り寄せ ボンレスハム ソーセージ 東京麻布「日進ハム公式ショップ ホワイトハムバラエティ5種食べ比べ 麻布土産セット」母の日 父の日 御中元 誕生日プレゼント 内祝 御礼 御祝 メッセージカード 全15種以上 選べる熨斗紙(熨斗なし)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 8440.0,
-      "t30d_units": 2.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 756364637502,
+      "merchant_name": "EYY Official",
+      "asin": "B0GHRSJT8Y",
+      "item_name": "【ノートパソコン Office2024搭載 Win11 Pro】15.6インチ パソコン Core m3-8100Y 最大3.4GHz 8GB メモリ 256GB SSD ノートパソコン 1.6kg 薄型 軽量 FHD 1920×1080 英語キーボード ノートpc テンキー付き/WiFi5/BT5/Webカメラ/USB3.0/HDポート 在宅勤務 テレワーク 学生向け laptop グレー",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 1015933.33,
+      "t30d_units": 23.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CTSX2M6W",
-      "item_name": "［日進ハム］ハム ギフト 詰め合わせ プレゼント お取り寄せ 埼玉 三芳町 限定 ボンレスハム ローストハム ブロックハム 東京麻布「日進ハム公式ショップ ブロックハム2種食べ比べ 埼玉三芳ラベルセット和」母の日 父の日 御中元 誕生日プレゼント 内祝 御礼 御祝 メッセージカード 全15種以上 選",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 756364637502,
+      "merchant_name": "EYY Official",
+      "asin": "B0F4783RL2",
+      "item_name": "【ノートパソコン Office2024搭載 Win11 Pro】15.6インチ パソコン Core m3-8100Y 最大3.4GHz 16GB メモリ 512GB SSD ノートパソコン 1.6kg 薄型 軽量 FHD 1920×1080 英語キーボード ノートpc テンキー付き/WiFi5/BT5/Webカメラ/USB3.0/HDポート 在宅勤務 テレワーク 学生向け laptop グレー",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 26946009.82,
+      "t30d_units": 549.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CV31SJ87",
-      "item_name": "［日進ハム］ハム ギフト 詰め合わせ プレゼント お取り寄せ ボンレスハム ソーセージ ベーコン 東京麻布「日進ハム公式ショップ ホワイトハムバラエティ7種食べ比べ 食通の麻布土産セット」母の日 父の日 御中元 誕生日プレゼント 内祝 御礼 御祝 メッセージカード 全15種以上 選べる熨斗紙 (「",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 11865.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CV2VJ24J",
-      "item_name": "［日進ハム］ハム ギフト 詰め合わせ プレゼント お取り寄せ ボンレスハム ソーセージ 東京麻布「日進ハム公式ショップ ホワイトハムバラエティ5種食べ比べ 麻布土産セット」母の日 父の日 御中元 御歳暮 お中元 お歳暮 誕生日プレゼント 内祝 御礼 御祝 メッセージカード 全15種以上 選べる熨斗",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 4320.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CTKC7826",
-      "item_name": "ビール ギフト 詰め合わせ プレゼント お取り寄せ ハム ソーセージ ベーコン コエドビール クラフトビール 東京麻布 「日進ハム公式ショップ “ドイツ製法”ハム・ソーセージ8種 地ビール2種 食べ飲み比べ 日進ハム＆コエドビールセット舞」母の日 父の日 御中元 誕生日プレゼント 内祝 御礼 御",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CTTK8S5R",
-      "item_name": "［日進ハム］ハム ギフト 詰め合わせ プレゼント お取り寄せ ボンレスハム 国産 豚肉 ソーセージ シャルキュトリー ジャンボンブラン モンドセレクション 最高金賞 東京麻布「日進ハム公式ショップ「ホワイトハム増量 スライスハム・ソーセージ計7種食べ比べ モンドセレクション最高金賞セット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CTJSDMTL",
-      "item_name": "［日進ハム］ハム ギフト 詰め合わせ プレゼント お取り寄せ ボンレスハム ソーセージ 東京麻布「日進ハム公式ショップ ホワイトハムバラエティ5種食べ比べ スライスハムソー堪能セット」母の日 父の日 御中元 誕生日プレゼント 内祝 御礼 御祝 メッセージカード 全15種以上 選べる熨斗紙(熨斗な",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 21404.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0F31VG5D5",
-      "item_name": "［日進ハム］ハム ギフト 詰め合わせ プレゼント お取り寄せ ボンレスハム ソーセージ 東京麻布「日進ハム公式ショップ ホワイトハム ブロックハム・ベーコン ソーセージ 5種 限定セット SDG-151」母の日 父の日 御中元 御歳暮 お中元 お歳暮 誕生日プレゼント 内祝 御礼 御祝",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CV39DNSL",
-      "item_name": "［日進ハム］ハム ギフト 詰め合わせ プレゼント お取り寄せ ボンレスハム ソーセージ 東京麻布「日進ハム公式ショップ ホワイトハムバラエティ5種食べ比べ 麻布土産セット」母の日 父の日 御中元 御歳暮 お中元 お歳暮 誕生日プレゼント 内祝 御礼 御祝 メッセージカード 全15種以上 選べる熨斗",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CV38MNT6",
-      "item_name": "ハム ギフト 詰め合わせ ホワイトボンレスハム 東京麻布 日進ハム公式ショップ「ホワイトハム増量 ブロック＆スライスハム計5種食べ比べ モンドセレクション最高金賞セット寿」全15種以上 選べる熨斗紙 (「御中元」熨斗)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CV34CMPR",
-      "item_name": "［日進ハム］ハム ギフト 詰め合わせ プレゼント お取り寄せ ボンレスハム ソーセージ ベーコン 東京麻布「日進ハム公式ショップ ホワイトハムバラエティ7種食べ比べ 食通の麻布土産セット」母の日 父の日 御中元 御歳暮 お中元 お歳暮 誕生日プレゼント 内祝 御礼 御祝 メッセージカード 全15種",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CTQB5FH4",
-      "item_name": "［日進ハム］ハム ギフト 詰め合わせ プレゼント お取り寄せ ボンレスハム ソーセージ ベーコン 東京麻布「日進ハム公式ショップ ホワイトハムバラエティ7種食べ比べ 食通の麻布土産セット」母の日 父の日 御中元 誕生日プレゼント 内祝 御礼 御祝 メッセージカード 全15種以上 選べる熨斗紙(熨",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 11683.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CV315LW9",
-      "item_name": "［日進ハム］ハム ギフト 詰め合わせ プレゼント お取り寄せ ボンレスハム ソーセージ 東京麻布「日進ハム公式ショップ ホワイトハムバラエティ5種食べ比べ スライスハムソー堪能セット」母の日 父の日 御中元 誕生日プレゼント 内祝 御礼 御祝 メッセージカード 全15種以上 選べる熨斗紙 (「お",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CTJZG57S",
-      "item_name": "ギフト 詰め合わせ プレゼント お取り寄せ ボンレスハム ソーセージ ベーコン 東京麻布「日進ハム公式ショップ ホワイトハム最上バラエティ8種食べ比べ 日進ハムの感謝の気持ちセット」母の日 父の日 御中元 誕生日プレゼント 内祝 御礼 御祝 メッセージカード 全15種以上 選べる熨斗紙 (熨斗な",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CV2Z5XVJ",
-      "item_name": "ハム ギフト 詰め合わせ クラフトビール ギフト 詰め合わせ 東京麻布 日進ハム公式ショップ「“ドイツ製法”ソーセージ4種 地ビール2種 食べ飲み比べ 日進ハム＆コエドビールセット扇」 (「お誕生日おめでとう」熨斗)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 756364637502,
+      "merchant_name": "EYY Official",
+      "asin": "B0G7CWJBLR",
+      "item_name": "ノートパソコン Office搭載 パソコン Win 11 Pro 15.6インチ ノートPC 16GB メモリ SSD 256GB 4425Y FHD1080P IPS非光沢液晶 ウェブカメラ付き 静音動作 軽量薄型 laptop 1.5kg/WIFI5/BT5/USB 3.0/HDポート/テンキー ラップトップ 学生向け 仕事用 学習用 シルバー",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

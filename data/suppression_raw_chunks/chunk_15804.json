@@ -1,13 +1,55 @@
 {
-  "1110357618802": [
+  "1110359367002": [
     {
-      "asin": "B0FRZCB1FN",
-      "item_name": "Rozeta 折りたたみフットバス 足湯器 保温・加熱機能付き リモコン操作 35～48℃温度調節 タイマー自動 停止（10～60分） 6つのローラー＆軽石付き 角質ケア 折りたたみ収納 敬老の日 プレゼントにも最適",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 2920971.71,
-      "t30d_units": 341.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1110359367002,
+      "merchant_name": "本桑製薬公式ストア",
+      "asin": "B0FKSZG4JM",
+      "item_name": "【医師監修・日本製】本桑製薬 美白 サプリ バラ幹細胞エキス35mg 高濃度エルゴチオネイン（EGT）配合 PQQ・グルタチオンなど6種成分 クリア感・美肌・エイジングケアをサポート 着色料/香料無添加 植物由来カプセル GMP工場製造 90粒（30日分）",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 51609.5,
+      "t30d_units": 10.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1110359367002,
+      "merchant_name": "本桑製薬公式ストア",
+      "asin": "B0FKT1FZ91",
+      "item_name": "本桑製薬 水素サプリ 【医師監修・国内製造】水素水 Hydride水素 カルシウム含有・オメガ3・環状オリゴ糖・カリウムなど4種成分の栄養配合 水素リッチ 美肌・腸活・基礎代謝をサポート 保存料・着色料不使用 植物由来カプセル GMP認定工場 60粒（30日分） ホットヨガスタジオ",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 36060.0,
+      "t30d_units": 15.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1110359367002,
+      "merchant_name": "本桑製薬公式ストア",
+      "asin": "B0FKTDTFPT",
+      "item_name": "【医師監修・純国産】本桑製薬 玉まねぎサプリメント ジヒドロケルセチン ヒハツ・ビタミンC配合 玉ねぎ外皮サプリ｜冷え性 ・温活サポート｜ エイジングケア 健康食品 美容 食生活 生活習慣 野菜不足 錠剤 60粒/30日分",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 229628.74,
+      "t30d_units": 106.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

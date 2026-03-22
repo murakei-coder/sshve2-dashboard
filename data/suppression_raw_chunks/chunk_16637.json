@@ -1,13 +1,21 @@
 {
-  "1154140255702": [
+  "1154164521702": [
     {
-      "asin": "B0GF16L7KB",
-      "item_name": "airtag エアタグ カード【Apple・Google公式認証&ワイヤレス充電対応&超薄1.6mm&全球GPS高精度測位】 gpsタグ スマートタグ 紛失防止タグカード（IOS「探す」・Android「検索ハブ」両対応）技適・MFI認証済/置き忘れ防止 盗難防止 追跡タグ 財布/荷物/鍵/車追跡 子供/高齢者/ペット 見守り IP68防水 超軽量 敬老",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 1589098.6,
-      "t30d_units": 528.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1154164521702,
+      "merchant_name": "jububugao",
+      "asin": "B0G5WVPSKG",
+      "item_name": "紙幣カウンター【日本専用・2025新紙幣対応】紙幣計数機 マネーカウンター 偽札検知機能 お札数える機械 日本紙幣 通貨機能 お金数える機械 お札カウンター 多機能 日本語説明書 簡単操作 (パンダデザイン)",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 156122.0,
+      "t30d_units": 11.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

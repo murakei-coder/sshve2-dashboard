@@ -1,13 +1,38 @@
 {
-  "1075390135102": [
+  "1075409357102": [
     {
-      "asin": "B0FFDVHRHM",
-      "item_name": "【PETLIER】 ペットカート 小型中型犬・猫用 多頭飼い 折りたたみ式 分離型バスケット搭載 ゆったりサイズ 日本国内メーカー 360度回転EVAタイヤ 高剛性フレーム 車載対応 ドリンクホルダー付 ブラック （カーキ/グレー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 111720.0,
-      "t30d_units": 14.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1075409357102,
+      "merchant_name": "PHILIPS公式認定ショップ",
+      "asin": "B0FX9R1Z28",
+      "item_name": "【国内正規品】PHILIPS ワイヤレスマウス Bluetooth&2.4GHz両対応 静音タイプ 5段階DPI調整 瞬時接続 無線マオス 7ボタン 進む/戻るボタン 省電力 Windows/Mac/iOS/Android多機種対応 軽量 ブラックSPK7547",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 420025.15,
+      "t30d_units": 116.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1075409357102,
+      "merchant_name": "PHILIPS公式認定ショップ",
+      "asin": "B0FS1WNQRB",
+      "item_name": "【国内正規品PHILIPS SPK8618】ゲーミングメカニカルキーボード3モード接続(2.4G/BT5.0/Type-C)81キー75%配列Gasket構造·5層消音·减震設計CNCアルミボディ Nanoコーティングメカニカルキーボード4000mAhPBTキーキャップRGBライトPrecision Center対応ゲーミングキーボードWin/Mac対応eスボーツ向けワイヤレスキーボード(",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 136548.0,
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

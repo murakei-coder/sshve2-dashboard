@@ -1,22 +1,38 @@
 {
   "6563315555": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 6563315555,
+      "merchant_name": "LINKA公式ショップ 株式会社アイビビッド",
       "asin": "B0GF7KWWS7",
       "item_name": "【LINKA (リンカ) イオン フェイススチーマー 保湿＆毛穴ケア】美顔スチーマー 美顔器 アロマ機能付き 毛穴ケア 角質除去 (専用ギフトボックスセット)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 93990.0,
-      "t30d_units": 13.0
+      "t30d_units": 13.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 6563315555,
+      "merchant_name": "LINKA公式ショップ 株式会社アイビビッド",
       "asin": "B0BSN124WZ",
       "item_name": "【LINKA (リンカ) イオン フェイススチーマー 保湿＆毛穴ケア】美顔スチーマー 美顔器 アロマ機能付き 毛穴ケア 角質除去 (ウォームグレー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 1116501.98,
-      "t30d_units": 182.0
+      "t30d_units": 182.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

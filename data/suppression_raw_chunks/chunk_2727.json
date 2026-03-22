@@ -1,13 +1,55 @@
 {
-  "7181259322": [
+  "7181380122": [
     {
-      "asin": "B0FDR9VVPT",
-      "item_name": "【Amazon.co.jp限定】シェーバー ひげそり 電動シェーバー メンズ 髭剃り 3枚刃 小型 電気シェーバー 電動 往復式 高速リニアモーター 低振動＆静音設計 深剃り IPX7完全防水 乾湿両用 お風呂剃り ひげ剃り 電動 スライドスイッチ Type-C 急速充電 90分連続駆動 LEDディスプレイ 軽量 コンパクト トラベル",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1340223.91,
-      "t30d_units": 361.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 7181380122,
+      "merchant_name": "Mollemii",
+      "asin": "B0FVDC6BP7",
+      "item_name": "Mollemii【頑丈＆シンプル設置】 屋外 ドッグラン フェンス20m 防錆＋PVC加工 小型犬 中型犬 (フェンス単品, 0.8×20ｍ, 単品)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 17998.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 7181380122,
+      "merchant_name": "Mollemii",
+      "asin": "B0FL7S66X7",
+      "item_name": "Mollemii【頑丈＆シンプル設置】 屋外 ドッグラン セット フェンス20m 支柱11本 防錆＋PVC加工 小型犬 中型犬 (フェンス×支柱セット, 1.2×20m, 1セット)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 920438.0,
+      "t30d_units": 40.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 7181380122,
+      "merchant_name": "Mollemii",
+      "asin": "B0FL7L2NC7",
+      "item_name": "Mollemii【頑丈＆シンプル設置】 屋外 ドッグラン セット フェンス20m 支柱11本 防錆＋PVC加工 小型犬 中型犬 (フェンス×支柱セット, 0.8×20m, 1セット)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 862253.0,
+      "t30d_units": 57.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

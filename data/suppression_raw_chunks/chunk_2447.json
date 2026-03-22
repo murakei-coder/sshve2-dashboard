@@ -1,94 +1,72 @@
 {
-  "6893120022": [
+  "6893369222": [
     {
-      "asin": "B09MLQM3BB",
-      "item_name": "Cutona(キュトナ) マウスピース 洗浄剤 デントウォッシュ リテーナー (60錠)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 14841.0,
-      "t30d_units": 8.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 6893369222,
+      "merchant_name": "HUUSK",
+      "asin": "B0F8N6T9QF",
+      "item_name": "HUUSK 鍛造肉切り包丁 プロ仕様 本格手打ち フルタング構造 牛刀 刃こぼれ防止 キッチンバーベキューキャンプ対応（皮革鞘付き）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 82902.46,
+      "t30d_units": 14.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B07Z2K4FSC",
-      "item_name": "Cutona(キュトナ) デンタル マウスピース 【歯科医師監修】 3段階でのケア 取扱説明書付き (単品) White",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 1126493.65,
-      "t30d_units": 512.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 6893369222,
+      "merchant_name": "HUUSK",
+      "asin": "B0F83YZQL4",
+      "item_name": "HUUSK キッチンバサミセット【食洗機対応】キッチンはさみ 多機能料理ばさみ オールステンレス 肉・魚の切り用",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 48813.7,
+      "t30d_units": 13.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CC17DD1Z",
-      "item_name": "Cutona(キュトナ) マウスピース 歯ぎしり 【歯科医師監修】 デンタルマウスピース 新薄型 専用ケース付き (２個) White",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 6893369222,
+      "merchant_name": "HUUSK",
+      "asin": "B0F8HKS17W",
+      "item_name": "HUUSK キッチンばさみ 多機能 - ステンレス製 肉切りばさみ 食洗機対応 鶏骨・肉も簡単カット 日本式調理ばさみ",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 162299.06,
+      "t30d_units": 80.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B09T9PHFRB",
-      "item_name": "Cutona(キュトナ) デンタル マウスピース 【歯科医師監修】 3段階でのケア 取扱説明書付き (洗浄剤セット)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BFMSWFMX",
-      "item_name": "Cutona(キュトナ) いびき防止 テープ いびき防止グッズ 乾燥 睡眠改善 30枚入り",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 113647.1,
-      "t30d_units": 123.0
-    },
-    {
-      "asin": "B0BXNCPTWJ",
-      "item_name": "Cutona(キュトナ) デンタルマウスピース 3段階でのケア 取扱説明書付き (継続用 ③のみ) White",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 268638.87,
-      "t30d_units": 294.0
-    },
-    {
-      "asin": "B0976ZC6S6",
-      "item_name": "Cutona(キュトナ) マウスピース 【歯科医師監修】 歯ぎしり 歯並び 口元ケア【 軽量型 1.6mm 専用ケース付き ２個セット 】目立たない フィット感 (1箱) White",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 276740.94,
-      "t30d_units": 115.0
-    },
-    {
-      "asin": "B0BC3S4122",
-      "item_name": "マウスウォッシュ 【医薬部外品】 口臭清涼剤 口臭ケア 500mL クリスタルオーラル Cutona(キュトナ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 583.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0B9328F8T",
-      "item_name": "Cutona(キュトナ) マウスピース 【歯科医師監修】 歯ぎしり 歯並び 口元ケア 専用トレイ付き 眠りヴィーナス (単品)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 17639.76,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B09G1BZ2XK",
-      "item_name": "Cutona(キュトナ) マウスピース洗浄剤 デントウォッシュ リテーナー 30錠 日本製 (30錠)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 6004.5,
-      "t30d_units": 6.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 6893369222,
+      "merchant_name": "HUUSK",
+      "asin": "B0DKT8DK44",
+      "item_name": "Huuskキッチンバサミセット キッチンはさみ 多機能料理ばさみ オールステンレス 肉・魚の切り用",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 4989.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

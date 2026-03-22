@@ -1,22 +1,38 @@
 {
-  "1139766603102": [
+  "1139932532202": [
     {
-      "asin": "B0G8YSM5F9",
-      "item_name": "【通年楽しめる金木犀の香り】お香 金木犀 白檀 日本製 線香 スティック｜上品に香りが続く 天然香料 高級 約40本｜アロマ リラックス サンダルウッド ギフト｜Hoaloha",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 10270.0,
-      "t30d_units": 10.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1139932532202,
+      "merchant_name": "HuiyaoStore",
+      "asin": "B0DJNZPSJ1",
+      "item_name": "モバイルバッテリー 超軽量 小型 【22000mAh大容量 4つのケーブル内蔵】モバイルバッテリー 大容量 モバイルバッテリー 軽量 小型 急速充電 携帯充電器 USB-Type C入出力ポート 4台同時充電 LCD残量数字表示 スマホ充電器 コンパクト 持ち運び便利 機内持込可能 LEDライト付き 旅行/出張/アウトドア/停電/",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 1589864.53,
+      "t30d_units": 740.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G8YGPLKB",
-      "item_name": "【心と空間を清める癒しの香り】 白檀 お香 日本製 ｜ 白檀100％ 最高級 スティック 線香 サンダルウッド｜浄化 リラックス ギフトにも｜29g（約95〜100本） Hoaloha",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 53029.49,
-      "t30d_units": 22.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1139932532202,
+      "merchant_name": "HuiyaoStore",
+      "asin": "B0DQ7XJF4Z",
+      "item_name": "モバイルバッテリー 大容量 22000mAh 【230g軽量化・4つのケーブル内蔵】モバイルバッテリー 軽量 小型 急速充電 4台同時充電 残量ディスプレイ搭載 PSE技術基準適合品 LED照明ライト マルチ安全回路保護 タイプC入力ポート&USB-A出力ポート 4種類ケーブル内蔵 携帯充電器 スマホ充電器 コンパクト&軽量",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 3011543.66,
+      "t30d_units": 1470.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

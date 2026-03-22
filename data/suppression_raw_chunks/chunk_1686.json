@@ -1,22 +1,38 @@
 {
   "5473832322": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 5473832322,
+      "merchant_name": "HUG　STYLE",
       "asin": "B0788X599T",
       "item_name": "【公式】あかちゃんのほっぺ 200ml 高保湿 化粧水 セラミド プロテオグリカン 敏感肌 乾燥肌 日本製",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 9040.0,
-      "t30d_units": 2.0
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 5473832322,
+      "merchant_name": "HUG　STYLE",
       "asin": "B0788T2J8T",
       "item_name": "【公式】あかちゃんのほっぺ 500ml 大容量 高保湿 化粧水 セラミド プロテオグリカン 敏感肌 日本製",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 38065.71,
-      "t30d_units": 5.0
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

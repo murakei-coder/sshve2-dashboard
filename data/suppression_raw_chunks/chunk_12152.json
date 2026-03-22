@@ -1,31 +1,21 @@
 {
-  "731594689902": [
+  "731612404402": [
     {
-      "asin": "B0F5WKYDLL",
-      "item_name": "SITMOD フットレスト付きゲーミングチェア、人間工学に基づいた設計、ヘッドレスト・ランバーサポート付きオフィスチェア、高さ調節可能 ファブリック素材、ピンク",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 149443.33,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0F5WM1NV9",
-      "item_name": "ゲーミングチェア、人間工学に基づいた設計、ヘッドレスト・ランバーサポート付きオフィスチェア、高さ調節可能通気性ファブリック、360度回転椅子、リクライニング機能付きpcチェア・デスクチェア オフィスチェア, グレー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 463949.0,
-      "t30d_units": 51.0
-    },
-    {
-      "asin": "B0F5WM2FGX",
-      "item_name": "ゲーミングチェア、人間工学に基づいた設計、ヘッドレスト・ランバーサポート付きオフィスチェア、高さ調節可能通気性ファブリック、360度回転椅子、リクライニング機能付きpcチェア・デスクチェア オフィスチェア, ブラック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 731612404402,
+      "merchant_name": "ぐーど専門店",
+      "asin": "B0GG94PLMZ",
+      "item_name": "【2026新登場】シェーバー メンズ 髭剃り ミニ 電気シェーバー 小型 ひげそり 携帯 軽量 IPX6防水 水洗い 乾湿両用 LEDディスプレイー Type-C充電式 6枚刃 高速回転式 低騒音 お風呂剃り可 旅行 出張 車内常備 誕生日プレゼント",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 586713.36,
+      "t30d_units": 280.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

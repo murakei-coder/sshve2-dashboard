@@ -1,22 +1,21 @@
 {
-  "1055045994102": [
+  "1055148971502": [
     {
-      "asin": "B0F12N3RQW",
-      "item_name": "【ROSAUI】猫じゃらし 2本セット 伸縮式107cm 木製ハンドル 羽根おもちゃ3種＆鳥型2個付き 交換ヘッド対応 猫用おもちゃ 運動不足解消 多頭飼い適用 コンパクト収納 ブラックゴム紐4本付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 943431.72,
-      "t30d_units": 470.0
-    },
-    {
-      "asin": "B0F9KLL4G6",
-      "item_name": "【ROSAUI】猫じゃらし交換用羽根6個セット【※本製品は単体使用不可】猫おもちゃ用アクセサリーパーツ 天然羽根＆小鳥 鈴付き 室内猫 運動不足対策 ストレス解消用",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 172051.93,
-      "t30d_units": 143.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1055148971502,
+      "merchant_name": "doum",
+      "asin": "B0F29DKVPX",
+      "item_name": "【韓国美女のような水光肌へ】doum 高濃度 美容液 レチノール エクソソーム NMN ナイアシンアミド 毛穴 黒ずみ くすみ ニキビ 乾燥 ハリ 韓国コスメ ドウム（マンダリンオレンジの香り）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 1800346.25,
+      "t30d_units": 609.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

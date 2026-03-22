@@ -1,22 +1,55 @@
 {
-  "1184906828902": [
+  "1185575339002": [
     {
-      "asin": "B0G27KY2MX",
-      "item_name": "Flydigi Vader 5 PRO ゲームパッド コントローラー 可変テンションのスティック 1000Hzポーリングレート 12ビットの分解能 4モーター共振 8カスタマイズ可能ボタン マクロループ機能",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 125991.0,
-      "t30d_units": 9.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1185575339002,
+      "merchant_name": "CANANA公式ストア",
+      "asin": "B0GDWZ8MK5",
+      "item_name": "ミキサー ジューサー コードレスミキサー 600ML 一台多役 氷も砕ける スムージー USB充電式 小型 コンパクト軽量 28000回/分高速回転 野菜 果物 離乳食用 持ち運び便利 お手入れ簡単 アウトドア 旅行 オフィス 出張 日本語取扱説明書 ホワイト",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 257799.69,
+      "t30d_units": 91.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G1CMR1F6",
-      "item_name": "Switch コントローラー 無線 PC コントローラー 背面ボタン付き 連射機能 6軸ジャイロセンサー搭載 4階段HD振動 RGBライト Switch1/2/Lite/OLED/PC/iPhone/Android対応 ゲームパット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Media",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1185575339002,
+      "merchant_name": "CANANA公式ストア",
+      "asin": "B0GD75MLQ7",
+      "item_name": "電動ドライバー 充電式 小型 強力 トルク6段階調整【プロ仕様のパワーと精度】正逆転切り替え 電動5N.m 手動15N.m 45本ビット付属 収納ケース付き 高輝度LEDライト USB-C充電式 軽量 操作簡単 合金製 ビット 家庭用 DIY用 女性/初心者でも簡単使用 日本語取扱説明書付き",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 14901.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1185575339002,
+      "merchant_name": "CANANA公式ストア",
+      "asin": "B0GDWWY1LZ",
+      "item_name": "CANANA ランタン LEDランタン キャンプランタン【業界初タッチセンサー式＆レインボーライト】 充電式 7色切替 作業灯 高輝度 無段階調光 輝度記憶 IPX65防水 マグネット内蔵 小型 キャンプ アウトドア 登山 夜釣り 防災 停電 緊急 非常用 LEDライト 日本語取扱説明書 ホワイト",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 15022.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

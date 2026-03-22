@@ -1,409 +1,106 @@
 {
-  "8515787245": [
+  "8515955922": [
     {
-      "asin": "B0B984NPR8",
-      "item_name": "XIANGUO タトゥーシール 刺青シール 入れ墨シール 30枚セット ステッカー 黒 防水 長持ち おしゃれ かわいい レディース タトゥーステッカー 腕 足 体 胸 肩 背中に簡単貼る",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 25644.0,
-      "t30d_units": 34.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 8515955922,
+      "merchant_name": "XMXMB TC",
+      "asin": "B0GCZWM3Z3",
+      "item_name": "ペット用バリカン 犬用 バリカン 猫用 静音 低振動 電動バリカンセット 4段階刈り高さコードレス USB充電式 1500mAh大容量バッテリー IPX7防水 LEDディスプレイ 足裏 顔 背中 お腹 全身カット 自宅トリミング 小型犬から大型犬まで対応 初心者向け 日本語説明書付き (gray)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F1XH6BJK",
-      "item_name": "[XIANGUO] 名刺入れ ビジネス メンズ レディース プレミアム ステンレス製 名刺入れ PUレザーカバー 25枚収納可能",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 132193.41,
-      "t30d_units": 146.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 8515955922,
+      "merchant_name": "XMXMB TC",
+      "asin": "B0GG9ZW5NB",
+      "item_name": "【Amazon.co.jp限定】ひげそり 電動シェーバー 小型 深剃り 2モード調整 電気シェーバーメンズ 顔 往復式 シェーバー メンズ コンパクト IPX7防水 お風呂剃り対応 乾湿両用 髭剃り 電動 日本製3枚刃 18000RPM 高速回転 LED残量表示 電気カミソリ 充電式 Type-C急速充電 150分連続駆動 髭剃り 水洗い可 取り外し",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1783745.5,
+      "t30d_units": 480.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B09Z6JXB2F",
-      "item_name": "XIANGUO 小銭入れ レディース コインケース メンズ 財布 本革 カードケース カード入れ 大容量 牛革 (ピンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 43077.99,
-      "t30d_units": 23.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 8515955922,
+      "merchant_name": "XMXMB TC",
+      "asin": "B0GGY74YC7",
+      "item_name": "【Amazon.co.jp限定】ひげそり 電動シェーバー 小型 深剃り 2モード調整 日本製3枚刃 18000RPM 高速回転 電気シェーバーメンズ 顔 往復式 シェーバー メンズ コンパクト IPX7防水 お風呂剃り対応 乾湿両用 髭剃り 電動 LED残量表示 電気カミソリ 充電式 Type-C急速充電 150分連続駆動 髭剃り 水洗い可 取り外し",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F8W4DT5Q",
-      "item_name": "タトゥーシール 和柄 和彫り 30枚セット ステッカー 防水 長持ち 虎 イーグル ライオン 蝶 花 蜘蛛 蛇 暗い WST-P-30",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 10033.0,
-      "t30d_units": 12.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 8515955922,
+      "merchant_name": "XMXMB TC",
+      "asin": "B0GGY7QHBQ",
+      "item_name": "【Amazon.co.jp限定】ひげそり 電動シェーバー 小型 深剃り 2モード調整 日本製3枚刃 18000RPM 高速回転 電気シェーバーメンズ 顔 往復式 シェーバー メンズ コンパクト IPX7防水 お風呂剃り対応 乾湿両用 髭剃り 電動 LED残量表示 電気カミソリ 充電式 Type-C急速充電 150分連続駆動 髭剃り 水洗い可 取り外し",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DRJ2LYW2",
-      "item_name": "XIANGUO 小銭入れ コインケース レディース メンズ カード入れ コンパクトデザイン 男女兼用 本革製 大容量 ブラック/ブルー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 33149.0,
-      "t30d_units": 17.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 8515955922,
+      "merchant_name": "XMXMB TC",
+      "asin": "B0GBV3YT9B",
+      "item_name": "ひげそり 電動シェーバー 小型 【2026新登場 5枚刃】 シェーバー メンズ 深剃り IPX7防水 乾湿両用 電気シェーバー 顔 往復式 髭剃り 電動 メンズシェーバー 5枚刃 コンパクト 軽量 ひげ剃り シェーバー 電気カミソリ 低騒音 20000PRM高速モータ ロック機能 LED残量表示 Type-C急速充電 長持ちバッテリー 180",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 2407250.81,
+      "t30d_units": 578.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0D4LWP61T",
-      "item_name": "ジャグアタトゥー シール 2週間で消えるタトゥー 10枚セット タトゥーシール 蝶 花 蜘蛛 蛇 CBHD-10枚",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 2183.2,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0F7H684PW",
-      "item_name": "MUCO セキュリティポーチ ウエストポーチ RFID スキミング防止 貴重品 旅行便利グッズ 防水 盗難対策 薄型 1ベルト グレー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 3794.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DRJ3RXZB",
-      "item_name": "XIANGUO 小銭入れ コインケース レディース メンズ カード入れ コンパクトデザイン 男女兼用 本革製 大容量 カーボンファイバー ブラック/レッド",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 34426.0,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B07Y2Z9M8L",
-      "item_name": "[XIANGUO] マネークリップ クレジットカードケース RFID スキミング防止 ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 21483.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B07Y31J77J",
-      "item_name": "[XIANGUO] マネークリップ メンズ スキミング防止 磁気防止 スリム 薄型 アルミニウム シルバー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 55782.58,
-      "t30d_units": 28.0
-    },
-    {
-      "asin": "B0D7PHYHV3",
-      "item_name": "[MUCO] 名刺入れ メンズ レディース めいしいれ 名刺が折れない スリム ネームカードホルダー PUレザー&ステンレススチール 名刺ケース マグネット開閉 スカイブルー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 25780.0,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B0B9LJHC42",
-      "item_name": "[XIANGUO] マネークリップ クレジットカードケース 磁気防止 カーボンモデル",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 20331.33,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B07Q8X9LZD",
-      "item_name": "MUCO セキュリティポーチ ウエストポーチ RFID スキミング防止 貴重品 旅行便利グッズ 防水 盗難対策 薄型 イエロー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 3794.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B09HHLXJMR",
-      "item_name": "XIANGUO 小銭入れ コインケース メンズ 財布 本革 カードケース カード入れ 大容量 牛革 (ブラック/ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 110491.8,
-      "t30d_units": 59.0
-    },
-    {
-      "asin": "B0F8D6WY8C",
-      "item_name": "タトゥーシール 刺青シール レディース メンズ 入れ墨シール 30枚セット ステッカー 防水 長持ち おしゃれ かわいい タトゥーステッカー 腕 足 体 胸 肩 背中に簡単貼る WST-HC-30",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 7852.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B07Q5TBKD9",
-      "item_name": "MUCO セキュリティポーチ ウエストポーチ RFID スキミング防止 貴重品 旅行便利グッズ 防水 盗難対策 薄型 ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 39827.45,
-      "t30d_units": 24.0
-    },
-    {
-      "asin": "B079FKYRZ4",
-      "item_name": "[MUCO] セキュリティポーチ　ウエストポーチ　RFID　スキミング防止　貴重品　旅行便利グッズ　防水　盗難対策　薄型　ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 23140.71,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0F8W6KDRV",
-      "item_name": "タトゥーシール 和柄 和彫り 30枚セット ステッカー 防水 長持ち 虎 イーグル ライオン 蝶 花 蜘蛛 蛇 暗い WST-TCK-30",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0DKXNXD64",
-      "item_name": "タトゥーシール ボディーシール 薔薇 花 レディース刺青シール 長持ち 防水 簡単貼る 可愛い おしゃれ 大きいサイズ 7*5cm フラワー 30枚セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 5297.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0BXHPT3KZ",
-      "item_name": "[XIANGUO] 名刺入れ ビジネス メンズ レディース 名刺ホルダー ステンレス鋼 名刺が折れない２５枚 薄型 PUレザー 化粧箱付き ウッド",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 12958.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B09HHMPSXD",
-      "item_name": "XIANGUO 小銭入れ コインケース メンズ 財布 本革 カードケース カード入れ 大容量 牛革 (ブラック/レッド)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 109636.27,
-      "t30d_units": 60.0
-    },
-    {
-      "asin": "B09Z6JLCRT",
-      "item_name": "XIANGUO 小銭入れ レディース コインケース メンズ 財布 本革 カードケース カード入れ 大容量 牛革 (ブルー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 63877.28,
-      "t30d_units": 34.0
-    },
-    {
-      "asin": "B0DK6W9C51",
-      "item_name": "[MUCO] 名刺入れ メンズ レディース めいしいれ 名刺が折れない スリム ネームカードホルダー PUレザー&ステンレススチール 名刺ケース マグネット開閉 ローズレッド",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 9809.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B09Z6JHV4V",
-      "item_name": "XIANGUO 小銭入れ レディース コインケース メンズ 財布 本革 カードケース カード入れ 大容量 牛革 (パープル)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 34849.66,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0D7PM7RNM",
-      "item_name": "[MUCO] 名刺入れ メンズ レディース めいしいれ 名刺が折れない スリム ネームカードホルダー PUレザー&ステンレススチール 名刺ケース マグネット開閉 ローズゴールド",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 230268.93,
-      "t30d_units": 203.0
-    },
-    {
-      "asin": "B0B988J5QW",
-      "item_name": "タトゥーシール 刺青シール 入れ墨シール 30枚セット 個性 ステッカー 防水 長持ち おしゃれ かわいい レディース タトゥーステッカー 腕 足 体 胸 肩 背中に簡単貼る",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 5727.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0DK6SWPYN",
-      "item_name": "[XIANGUO] 名刺入れ ビジネス メンズ レディース 名刺ホルダー ステンレス鋼 名刺が折れない２５枚 薄型 PUレザー 化粧箱付き ピンク",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 6179.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0BXHPRLB4",
-      "item_name": "[XIANGUO] 名刺入れ ビジネス メンズ レディース 名刺ホルダー 名刺が折れない２５枚 薄型 PUレザー 化粧箱付き サファイアブルー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 37688.16,
-      "t30d_units": 43.0
-    },
-    {
-      "asin": "B0D7PLT1N2",
-      "item_name": "[MUCO] 名刺入れ メンズ レディース めいしいれ 名刺が折れない スリム ネームカードホルダー PUレザー&ステンレススチール 名刺ケース マグネット開閉 極夜ブラック",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 48603.33,
-      "t30d_units": 42.0
-    },
-    {
-      "asin": "B0D4L41X98",
-      "item_name": "タトゥーシール 刺青シール レディース メンズ 入れ墨シール 30枚セット ステッカー 防水 長持ち おしゃれ かわいい タトゥーステッカー 腕 足 体 胸 肩 背中に簡単貼る",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 6906.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0CRRHDZ87",
-      "item_name": "XIANGUO 小銭入れ コインケース メンズ 財布 本革 カードケース カード入れ 大容量 牛革 (ブラウン/ブラウン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 121584.38,
-      "t30d_units": 63.0
-    },
-    {
-      "asin": "B0D94THSCB",
-      "item_name": "ジャグアタトゥー シール 2週間で消えるタトゥー 10枚セット タトゥーシール 蝶 花 蜘蛛 CBHDB-10枚",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 6273.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0D4LX7TPK",
-      "item_name": "ジャグアタトゥー シール 2週間で消えるタトゥー 10枚セット タトゥーシール 韓国 蝶 花 蜘蛛 CBH-10枚",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F8W5LM4M",
-      "item_name": "タトゥーシール 和柄 和彫り 30枚セット ステッカー 防水 長持ち 虎 イーグル ライオン 蝶 花 蜘蛛 蛇 暗い WST-TCi-30",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 2247.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FQV2H6B4",
-      "item_name": "[MUCO] 名刺入れ メンズ レディース めいしいれ 名刺が折れない スリム ネームカードホルダー PUレザー&ステンレススチール 名刺ケース マグネット開閉 ライトゴールデン",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 84529.9,
-      "t30d_units": 76.0
-    },
-    {
-      "asin": "B0CHY8BS4Z",
-      "item_name": "MUCO セキュリティポーチ ウエストポーチ RFID スキミング防止 貴重品 旅行便利グッズ 防水 盗難対策 薄型 グレー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 1897.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FC2CJBL3",
-      "item_name": "XIANGUO 小銭入れ コインケース レディース メンズ カード入れ コンパクトデザイン 男女兼用 本革製 大容量 カーボンファイバー/ブラウン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 45780.0,
-      "t30d_units": 22.0
-    },
-    {
-      "asin": "B0FQTYHX5S",
-      "item_name": "[MUCO] 名刺入れ メンズ レディース めいしいれ 名刺が折れない スリム ネームカードホルダー PUレザー&ステンレススチール 名刺ケース マグネット開閉 フレッシュグリーン",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 19334.0,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0F8CXS837",
-      "item_name": "タトゥーシール 刺青シール レディース メンズ 入れ墨シール 30枚セット ステッカー 防水 長持ち おしゃれ かわいい タトゥーステッカー 腕 足 体 胸 肩 背中に簡単貼る WST-AHC-30",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 4182.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0D94TL7QM",
-      "item_name": "ジャグアタトゥー シール 2週間で消えるタトゥー 10枚セット タトゥーシール 蝶 花 蜘蛛 CBHDC-10枚",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 2091.66,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DKXFJL6W",
-      "item_name": "タトゥーシール 刺青シール 入れ墨シール ステッカー 30枚セット 星 月 防水 長持ち おしゃれ かわいい レディース タトゥーステッカー 腕 足 体 胸 肩 背中に簡単貼る",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 1621.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D7PJ4GDH",
-      "item_name": "[MUCO] 名刺入れ メンズ レディース めいしいれ 名刺が折れない スリム ネームカードホルダー PUレザー&ステンレススチール 名刺ケース マグネット開閉 ラッキーレッド",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 20480.0,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0BXL7H6HH",
-      "item_name": "[XIANGUO] 名刺入れ ビジネス メンズ レディース 名刺ホルダー ステンレス鋼 名刺が折れない２５枚 薄型 PUレザー 化粧箱付き シルバーグレー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 28722.83,
-      "t30d_units": 32.0
-    },
-    {
-      "asin": "B0D7PYDV2S",
-      "item_name": "[MUCO] 名刺入れ メンズ レディース めいしいれ 名刺が折れない スリム ネームカードホルダー PUレザー&ステンレススチール 名刺ケース マグネット開閉 アイボリーホワイト",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 31040.0,
-      "t30d_units": 28.0
-    },
-    {
-      "asin": "B0CM95SRLZ",
-      "item_name": "タトゥーシール 刺青シール 入れ墨シール 30枚セット ステッカー 防水 長持ち おしゃれ かわいい レディース タトゥーステッカー 腕 足 体 胸 肩 背中に簡単貼る 蝶 HDB",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 9876.0,
-      "t30d_units": 14.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 8515955922,
+      "merchant_name": "XMXMB TC",
+      "asin": "B0GD11SVXZ",
+      "item_name": "猫 自動給水器 ステンレス ペット自動給水器 犬 猫水飲み器 大容量 2.6L 透明 水量目視可能 自動水やり器 みずのみ器自動 自動給水機 循環式 静音 節電 鳥用 蛇口式設計 多頭飼い/お留守番対応 フィルター付き 水洗い可能 ペット用品 フィルターを1個贈ります WF130",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 17996.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

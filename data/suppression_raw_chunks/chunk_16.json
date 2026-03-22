@@ -1,40 +1,72 @@
 {
   "444281085": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 444281085,
+      "merchant_name": "パネル 王国",
       "asin": "B0CJBSSL32",
       "item_name": "【お車のザラザラ(鉄粉)除去セット】特殊ゴム素材ミットと泡の滑りでボディにキズがつきにくく撫でるだけで簡単に落ちます ボディ ホイールの鉄粉や虫の死骸を落とせます カービューティラボ CBL102 (マルチミット1枚と鉄粉除去剤1本（550ml))",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 22855.0,
-      "t30d_units": 5.0
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 444281085,
+      "merchant_name": "パネル 王国",
       "asin": "B0C3HCL8TD",
       "item_name": "愛車さっとひと拭き大型マイクロファイバータオル CAR BEAUTY LAB「プリエ」700mm×900mmの大型サイズ 吸収力 マイクロファイバークロス カービューティラボ PULIRE #03 CBL03",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 25578.0,
-      "t30d_units": 14.0
+      "t30d_units": 14.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 444281085,
+      "merchant_name": "パネル 王国",
       "asin": "B0CJQX5MFN",
       "item_name": "【特殊ゴム素材で傷がつきにくい】お車の鉄粉除去,鳥のフン,虫の死骸も撫でるだけで簡単に落ちます ボディ ホイールのブレーキダストや鉄粉を落とせます カービューティラボ CBL10(マルチミット1枚)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
       "t30d_ops": 134822.38,
-      "t30d_units": 58.0
+      "t30d_units": 58.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 444281085,
+      "merchant_name": "パネル 王国",
       "asin": "B0C3H9K7BX",
       "item_name": "新感覚,泡の力で鉄粉さよなら CAR BEAUTY LAB お車の鉄粉除去剤Feヴィノ 550mL 中性 ボディ ホイールのブレーキダストや鉄粉を落とし 美しさを保ちます カービューティラボ CBL01 (鉄粉除去剤(単品))",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 33041.0,
-      "t30d_units": 15.0
+      "t30d_units": 15.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

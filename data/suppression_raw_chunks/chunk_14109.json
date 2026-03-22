@@ -1,22 +1,72 @@
 {
-  "953658578802": [
+  "953686984802": [
     {
-      "asin": "B0DY1232V9",
-      "item_name": "リン酸鉄 モバイルバッテリー 10000mAh PD20W急速充電 EVグレード電池 燃えにくい設計 長寿命・高安全 PSE認証 Type-C×1 USB-A×2 パススルー対応 機内持込可 JBRC回収対象(ホワイト)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 270716.91,
-      "t30d_units": 91.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 953686984802,
+      "merchant_name": "JINLILY",
+      "asin": "B0FGCQLN82",
+      "item_name": "YogaYonder 超微細繊維 洗車タオル 700g 車用ふき布 超吸水 車内清掃 無傷塗装 片面設計 手動で水を絞ることができます で乾かしやすい グレー Mサイズのタオル L60x40cm (中型) 2枚セット",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 37378.0,
+      "t30d_units": 22.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DY155N67",
-      "item_name": "リン酸鉄 モバイルバッテリー 10000mAh PD20W急速充電 EVグレード電池 燃えにくい設計 長寿命・高安全 PSE認証 Type-C×1 USB-A×2 パススルー対応 機内持込可 JBRC回収対象(ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 215588.74,
-      "t30d_units": 74.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 953686984802,
+      "merchant_name": "JINLILY",
+      "asin": "B0GCFWW58J",
+      "item_name": "[YogaYonder] マイクロファイバークリーニング布メガネ拭き 液晶画面 携帯画面 カメラレンズなど20×20 cm 8枚入 ライトピンク ライトイエロー ライトブルー ライトブラウン各2枚",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 953686984802,
+      "merchant_name": "JINLILY",
+      "asin": "B0FGCQDL6V",
+      "item_name": "YogaYonder 超微細繊維 洗車タオル 700g 車用ふき布 超吸水 車内清掃 無傷塗装 片面設計 手動で水を絞ることができます で乾かしやすい グレー 大判タオル L90x60cm (大型) 1枚セット",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 50126.55,
+      "t30d_units": 28.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 953686984802,
+      "merchant_name": "JINLILY",
+      "asin": "B0FGCJM32G",
+      "item_name": "YogaYonder 超微細繊維 洗車タオル 700g 車用ふき布 超吸水 車内清掃 無傷塗装 片面設計 手動で水を絞ることができます で乾かしやすい グレー クリーニング用タオル L40x40cm (小型) 3枚セット",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 3400.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

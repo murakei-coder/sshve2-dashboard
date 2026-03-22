@@ -1,13 +1,55 @@
 {
-  "1118861175502": [
+  "1119122284302": [
     {
-      "asin": "B0FQK3R9G9",
-      "item_name": "PetPivot 自動猫トイレ｜9.3L大容量・32dB静音設計｜オープントップ＆アプリ不要｜大型猫・多頭飼い対応｜専用ゴミ袋1巻＆シリコン砂取りマット付｜日本語説明書付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 355209.0,
-      "t30d_units": 10.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1119122284302,
+      "merchant_name": "エコテック「ECT」",
+      "asin": "B0G14458LP",
+      "item_name": "【整備済み品】Lenovo ThinkPad X13 Gen 2, i5-11th, メモリー16GB, SSD256GB, 14インチ, 1920x1200 WUXGA, WIFI, BLUETOOTH, カメラ, カメラシャッター付き, キーボードバックライト, 1,19kg, Windows 11 Pro, Office 2019 H&B",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 1815970.0,
+      "t30d_units": 35.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1119122284302,
+      "merchant_name": "エコテック「ECT」",
+      "asin": "B0G1C3YG3W",
+      "item_name": "【整備済み品】 Panasonic Let's Note CF-SV1, i5-1145G7, メモリー16GB, SSD256GB, 12,1インチ, 1920x1200, WIFI, BLUETOOTH, カメラ IR Windows Hello, 0,9kg, Windows 11 Pro, Office 2019 H&B",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 3506993.0,
+      "t30d_units": 67.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1119122284302,
+      "merchant_name": "エコテック「ECT」",
+      "asin": "B0G6KKW6JW",
+      "item_name": "【整備済み品】Dell Latitude 3520, i5-1145G7, メモリー16GB, SSD256GB, 15,6インチ, 1920x1080 FULL HD, WIFI, BLUETOOTH, カメラ, テンキー付き, 1,7kg, Windows 11 Pro, Office 2019 H&B (整備済み品)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1022000.0,
+      "t30d_units": 18.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,31 +1,38 @@
 {
-  "572070168502": [
+  "573246422002": [
     {
-      "asin": "B0DHKF6MFQ",
-      "item_name": "RcrCamp バーナーユニットパネル ステンレス IGT互換 ユニット 天板 ST-310 ST-340 対応 IGT フラットバーナー シングルバーナー アルミパネル ソロテーブル",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 12660.0,
-      "t30d_units": 7.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 573246422002,
+      "merchant_name": "ベジインアマゾンショップ",
+      "asin": "B0DFBVWJTJ",
+      "item_name": "【有機粉末緑茶 鹿児島産 オーガニック 濃いめ】 振って溶けやすい緑茶パウダー ホット･アイス両用 有機JAS 無農薬 個包装 スティック 自宅用 会社用 ペットボトル マイボトル お茶割り 健康茶 50包（1包0.8g） ベジイン",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 376692.01,
+      "t30d_units": 197.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0D4MJK35B",
-      "item_name": "RcrCamp バーナーユニットパネル IGT互換 ユニット 天板 ST-310 ST-340対応 IGT フラットバーナー シングルバーナー アルミパネル ソロテーブル",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 15959.58,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0D2J8Z4ZZ",
-      "item_name": "RcrCamp ハードクーラーボックス ブラック 25L ハードクーラー クーラーボックス クーラーBOX COOLERBOX ハードタイプ 保冷 高保冷 保冷力 長時間 保冷剤 ウレタン 発報 断熱 極厚 25リットル",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 111540.0,
-      "t30d_units": 16.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 573246422002,
+      "merchant_name": "ベジインアマゾンショップ",
+      "asin": "B0GFSK97J2",
+      "item_name": "【無添加 わかめスープ コラーゲンペプチド入り】高たんぱく質 粉末タイプ 個包装 50包 大容量 美容サポート 海藻スープ インスタント 即席スープ 低カロリー 長期保存 自宅用 会社用 まとめ買い ベジイン",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 158097.58,
+      "t30d_units": 76.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

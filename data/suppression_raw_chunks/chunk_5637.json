@@ -1,67 +1,21 @@
 {
-  "19268062422": [
+  "19287835322": [
     {
-      "asin": "B0DQPZNF5L",
-      "item_name": "【新登場】MetFut カラオケマイク 高性能 Bluetooth ワイヤレスマイク スピーカー内蔵 カラオ練習 一体型 3000mAh充電式 エコー調整/デュエットモード/ボーカル消去 革ハンドル TFカード/AUX再生 収納ケース付属 スマホ/タブレット対応 (ローズゴールド)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 283411.5,
-      "t30d_units": 71.0
-    },
-    {
-      "asin": "B0DMP5LX5G",
-      "item_name": "MetFut ノートパソコン冷却台 【2026新登場】 取り外し可能な熱電冷却器 ペルチェ素子冷却パッド 調節可能＆360度回転スタンド 頑丈なカーボンスチール 20Db 2段階冷却 16インチまで対応 (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 579156.27,
-      "t30d_units": 97.0
-    },
-    {
-      "asin": "B0DQQ1SK3Q",
-      "item_name": "【新登場】MetFut カラオケマイク 高性能 Bluetooth ワイヤレスマイク スピーカー内蔵 カラオ練習 一体型 3000mAh充電式 エコー調整/デュエットモード/ボーカル消去 革ハンドル TFカード/AUX再生 収納ケース付属 スマホ/タブレット対応 (ホワイト)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 220041.41,
-      "t30d_units": 53.0
-    },
-    {
-      "asin": "B0DQQ2GGTZ",
-      "item_name": "【新登場】MetFut カラオケマイク 高性能 Bluetooth ワイヤレスマイク スピーカー内蔵 カラオ練習 一体型 3000mAh充電式 エコー調整/デュエットモード/ボーカル消去 革ハンドル TFカード/AUX再生 収納ケース付属 スマホ/タブレット対応 (ブラック＆パープル)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 162885.0,
-      "t30d_units": 40.0
-    },
-    {
-      "asin": "B0DQQ1XBMZ",
-      "item_name": "【新登場】MetFut カラオケマイク 高性能 Bluetooth ワイヤレスマイク スピーカー内蔵 カラオ練習 一体型 3000mAh充電式 エコー調整/デュエットモード/ボーカル消去 革ハンドル TFカード/AUX再生 収納ケース付属 スマホ/タブレット対応 (グレー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 1128936.33,
-      "t30d_units": 283.0
-    },
-    {
-      "asin": "B0DQQ2GGV4",
-      "item_name": "【新登場】MetFut カラオケマイク 高性能 Bluetooth ワイヤレスマイク スピーカー内蔵 カラオ練習 一体型 3000mAh充電式 エコー調整/デュエットモード/ボーカル消去 革ハンドル TFカード/AUX再生 収納ケース付属 スマホ/タブレット対応 (ブラック＆レッド)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 167789.2,
-      "t30d_units": 41.0
-    },
-    {
-      "asin": "B0DMP22S9W",
-      "item_name": "MetFut ノートパソコン冷却台 【2026新登場】 取り外し可能な熱電冷却器 ペルチェ素子冷却パッド 調節可能＆360度回転スタンド 頑丈なカーボンスチール 20Db 2段階冷却 16インチまで対応 (グレー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 4318.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 19287835322,
+      "merchant_name": "すすむ屋 茶店",
+      "asin": "B0C58YZ9MK",
+      "item_name": "【Amazon.co.jp 限定】すすむ屋茶店 煎茶 ゆたかみどり 日本茶 鹿児島茶 知覧茶ブレンド (100g×１袋（合計100g）)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 1795.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

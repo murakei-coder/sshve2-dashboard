@@ -1,22 +1,21 @@
 {
-  "8209366155": [
+  "8209510145": [
     {
-      "asin": "B0GFNLHT89",
-      "item_name": "ノイズカットリップパック 15g | リップクリーム リップバーム 唇パック ナイトパック 高保湿 無添加 乾燥 荒れ 皮むけ 縦ジワ 対策 敏感肌 レディース メンズ ギフト プレゼント Mediplus メディプラス (白)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 496640.8,
-      "t30d_units": 185.0
-    },
-    {
-      "asin": "B0DQXN5FZS",
-      "item_name": "メディプラスゲル 225g 約2.5ヶ月大容量セット | セラミド オールインワン ジェル 長時間保湿 乾燥予防 無香料 乾燥肌 敏感肌 無添加 ポンプ式 美容液 乳液 化粧水 クリーム",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 1476593.97,
-      "t30d_units": 260.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8209510145,
+      "merchant_name": "SAGARAND（サガランド）",
+      "asin": "B0CZ6PCTFY",
+      "item_name": "初心者向けタロット ウェイト版 タロットカード 文字入り 78枚 カードに解説付き",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 243266.58,
+      "t30d_units": 100.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,22 +1,38 @@
 {
-  "965290376402": [
+  "965354726802": [
     {
-      "asin": "B0DT9LRR8B",
-      "item_name": "【有名雑誌掲載モデル】 Paume コードレスヘアアイロン 充電式ヘアアイロン 持ち運びアイロン 美容師お墨付きサロン級の仕上がり スピード加熱ですぐにスタイリング 超軽量モデル ホワイト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 24455.0,
-      "t30d_units": 5.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 965354726802,
+      "merchant_name": "WhalesBot",
+      "asin": "B0FLP4MLG8",
+      "item_name": "WhalesBot D1 プログラミングロボット 21-in-1 6歳以上向け 知育玩具 STEM教育 おもちゃ キット ブロック 男の子 女の子 コーディング リモコン玩具 組み立てロボット 工作キット 3Dアプリ 日本語ガイド付き 人気 誕生日プレゼント ギフト 1年メーカー保証 6/7/8/9/11/12歳向け",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 175688.0,
+      "t30d_units": 22.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DT9L1LDZ",
-      "item_name": "【有名雑誌掲載モデル】 Paume コードレスヘアアイロン 充電式ヘアアイロン 持ち運びアイロン 美容師お墨付きサロン級の仕上がり スピード加熱ですぐにスタイリング 超軽量モデル ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 39840.0,
-      "t30d_units": 8.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 965354726802,
+      "merchant_name": "WhalesBot",
+      "asin": "B0DY7H87LJ",
+      "item_name": "WhalesBot E7 Pro プログラミングロボット 12-in-1 8歳以上 アプリ制御 Scratch/Python/C言語 ブロック おもちゃ STEM教育 コーディング 知育玩具 工作キット センサー 3D組み立てガイド 日本語説明書付き 男の子 女の子 誕生日プレゼント クリスマスギフト 1年メーカー保証",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 133000.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

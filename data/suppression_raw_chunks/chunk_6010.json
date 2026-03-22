@@ -1,58 +1,21 @@
 {
-  "26597797722": [
+  "26639708722": [
     {
-      "asin": "B08SL6LLB9",
-      "item_name": "デンビー (DEMBY) プレミアム ベッドガード 日本SGマーク認証 (高さ50cm 幅140cm / シルクベージュ) ベビーベッド 赤ちゃん ベッドフェンス 柵 (転落防止 落下防止/対象年齢 18か月-5歳) 子供",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 186274.0,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B088GYXCMT",
-      "item_name": "ファミカ (FAMICA) ワンタッチ 伸縮 ステッキ (スリムネック/ブラック) SGマーク認証 おしゃれ 杖 (長さ調節可能/介護) 男性用 女性用 介護用品 折りたたみ 伸縮杖",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 534600.91,
-      "t30d_units": 51.0
-    },
-    {
-      "asin": "B088BPZ3Y1",
-      "item_name": "ファミカ (FAMICA) ワンタッチ 伸縮 ステッキ (スリムネック/ゴールド) SGマーク認証 おしゃれ 杖 (長さ調節可能/介護) 男性用 女性用 介護用品 折りたたみ 伸縮杖",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C9F278K1",
-      "item_name": "デンビー (DEMBY) プレミアム ベッドガード 日本SGマーク認証 (高さ50cm 幅140cm / グレージュ) ベビーベッド 赤ちゃん ベッドフェンス 柵 (転落防止 落下防止/対象年齢 18か月-5歳) 子供",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 147590.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B08SL9Q491",
-      "item_name": "デンビー (DEMBY) プレミアム ベッドガード 日本SGマーク認証 (高さ50cm 幅140cm / グレー) ベビーベッド 赤ちゃん ベッドフェンス 柵 (転落防止 落下防止/対象年齢 18か月-5歳) 子供",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 69300.33,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0FND9YF85",
-      "item_name": "ファミカ (FAMICA) ワンタッチ 伸縮 ステッキ (スリムネック/ピンクゴールド) SGマーク認証 おしゃれ 杖 (長さ調節可能/介護) 男性用 女性用 介護用品 折りたたみ 伸縮杖",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 146300.33,
-      "t30d_units": 14.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26639708722,
+      "merchant_name": "KGA 専門店・品質保証",
+      "asin": "B0CH9TK2L8",
+      "item_name": "モバイルモニター 15.6インチ KOGODA 自立型 1920ｘ1080FHD モバイルティスプレイ ポータブルモニター IPS液晶パネル スタンド付き 持ち運びモニター 軽量 薄型 USB C/mini HDMI PC/Switch/PS4/XBOX/Mac/スマホなど対応 サブモニター 在宅勤務 リモートワーク",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

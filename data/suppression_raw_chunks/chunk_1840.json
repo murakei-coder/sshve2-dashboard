@@ -1,13 +1,21 @@
 {
   "6122101622": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 6122101622,
+      "merchant_name": "株式会社Fanwer（ファンバー）",
       "asin": "B08CXK84QY",
       "item_name": "靴べら 携帯 靴ベラ ロング 靴べら 携帯 メンズ くつべら 伸縮 18-84cm 男性、女性、子供、高齢者用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 613027.18,
-      "t30d_units": 553.0
+      "t30d_units": 553.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

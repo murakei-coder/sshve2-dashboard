@@ -1,22 +1,38 @@
 {
   "678089355": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 678089355,
+      "merchant_name": "エクセレントメディカル.",
       "asin": "B09TKKT42P",
       "item_name": "エクオール 10mg配合 サプリメント 国内製造 大豆イソフラボン with EQUOL 約1ヶ月分 2袋セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 317471.0,
-      "t30d_units": 54.0
+      "t30d_units": 54.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 678089355,
+      "merchant_name": "エクセレントメディカル.",
       "asin": "B09T2WPWN6",
       "item_name": "エクオール 10mg 配合 サプリメント 国内製造 小粒 大豆イソフラボン with EQUOL 約1ヶ月分 62粒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 6011278.46,
-      "t30d_units": 2136.0
+      "t30d_units": 2136.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

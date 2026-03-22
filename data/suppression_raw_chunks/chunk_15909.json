@@ -1,22 +1,21 @@
 {
-  "1114827398702": [
+  "1114831566302": [
     {
-      "asin": "B0GH7HYQVB",
-      "item_name": "Joy-Con 2 充電グリップ 【プレイしながら充電可能・N55超強力磁石】安定感 switch 2 コントローラー 1.5mケーブル付属 LED充電表示 switch 2 グリップ 人間工学デザインで握りやすい 超軽量 装着簡単 携帯便利 switch 2 プロコン 5時間連続使用",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Media",
-      "t30d_ops": 707416.24,
-      "t30d_units": 388.0
-    },
-    {
-      "asin": "B0FRSQYJXN",
-      "item_name": "switch 2 保護フィルム【米軍No.1規格&最強硬度10H 】全面保護 耐衝撃 気泡ゼロ 2枚セット スイッチ2 保護フィルム ガイド枠一体式 自動吸着 貼りやすい 100%透過率 反射低減 高光沢 switch 2 フィルム 指紋防止 飛散防止 撥油性 超耐久",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 778020.58,
-      "t30d_units": 478.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1114831566302,
+      "merchant_name": "【公式】ディアオーガニック",
+      "asin": "B0FKRV1XMC",
+      "item_name": "【濃縮エキスでエラグ酸たっぷり】女王の ザクロ ザクロジュース ざくろジュース無添加 【100%オーガニック×500ml】【無農薬×有機JAS】",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 481553.33,
+      "t30d_units": 107.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

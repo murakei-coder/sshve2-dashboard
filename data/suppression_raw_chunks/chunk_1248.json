@@ -1,40 +1,72 @@
 {
   "3319486922": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 3319486922,
+      "merchant_name": "Wincan",
       "asin": "B0CRSZFBCM",
       "item_name": "自転車 チャイルドシート レインカバー 後ろ 子供乗せ 自転車カバー 600Dナイロン 厚手で耐久性アップ 広々空間 乗り降り簡単 防寒 雨よけ Convida (オリーブグレイ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 361293.38,
-      "t30d_units": 57.0
+      "t30d_units": 57.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 3319486922,
+      "merchant_name": "Wincan",
       "asin": "B0CR3D78TY",
       "item_name": "Convida 自転車 カゴカバー 前 防水 2段式 厚手 600Dナイロン 反射帯付き 撥水加工 ファスナー両開き 雨よけ 電動アシスト車対応 (11757-ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
       "t30d_ops": 368957.3,
-      "t30d_units": 115.0
+      "t30d_units": 115.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 3319486922,
+      "merchant_name": "Wincan",
       "asin": "B0CRT2WKXL",
       "item_name": "自転車 チャイルドシート レインカバー 後ろ 子供乗せ 自転車カバー 600Dナイロン 厚手で耐久性アップ 広々空間 乗り降り簡単 防寒 雨よけ Convida (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 1300667.73,
-      "t30d_units": 206.0
+      "t30d_units": 206.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 3319486922,
+      "merchant_name": "Wincan",
       "asin": "B0CR36BSGK",
       "item_name": "Convida 自転車 カゴカバー 前 防水 2段式 厚手 600Dナイロン 反射帯付き 撥水加工 ファスナー両開き 雨よけ 電動アシスト車対応 (11757-オリーブグレイ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 37828.74,
-      "t30d_units": 12.0
+      "t30d_units": 12.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

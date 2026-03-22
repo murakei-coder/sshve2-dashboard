@@ -1,67 +1,55 @@
 {
-  "7010037745": [
+  "7011157222": [
     {
-      "asin": "B09M3LDMG1",
-      "item_name": "Raffi(ラフィー) 美容室専売品 シャンプー 無添加 敏感肌用 低刺激 ノンシリコン 詰替え用 頭皮ケア ボリュームアップ 男女共用 フケ くせ毛 うねり Raffiシャンプー 300ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 18950.0,
-      "t30d_units": 8.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 7011157222,
+      "merchant_name": "SilkRdシルクロード",
+      "asin": "B0FBWM5J6Z",
+      "item_name": "Braoses ペッパーミル 2本セット【2年保証・天然木製】スパイスミル 粗さ調節可能 中身が見える容器 大容量サイズ お手入れ簡単なソルトミル 手動 ミル 岩塩、黒胡椒、花椒、山椒などに",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 336790.47,
+      "t30d_units": 126.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B09M3M1MF7",
-      "item_name": "Raffi(ラフィー) 美容室専売品 トリートメント 無添加 敏感肌 低刺激 ダメージケア 保湿 詰替え用 ヘアケア 髪質改善 しっとり さらさら 艶髪 パサつき くせ毛 うねり 髪質ケア 男女共同 天然成分 Raffiトリートメント300ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 17300.0,
-      "t30d_units": 7.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 7011157222,
+      "merchant_name": "SilkRdシルクロード",
+      "asin": "B0FFGSWDYQ",
+      "item_name": "Braoses ペッパーミル 電動 【2年保証・USB-C充電式・2本セット】 電動ミル ソルト & ペッパー Type-C充電式 粗さ調節可能 洗いやすい100ml容器 LEDライト付き 収納専用スタンド付き ソルト/胡椒などのスパイスに最適 片手でラクラク使える（上部ボタン式）",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 63582.75,
+      "t30d_units": 17.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B00D6WRBGK",
-      "item_name": "Raffi(ラフィー) 美容室専売品 シャンプー 無添加 敏感肌用 低刺激 ノンシリコン 大容量 詰替え用 頭皮ケア ボリュームアップ 男女共用 フケ くせ毛 うねり Raffiシャンプー1,000ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 132999.86,
-      "t30d_units": 35.0
-    },
-    {
-      "asin": "B09M3MRCVC",
-      "item_name": "Raffi(ラフィー) 美容室専売品 シャンプー 無添加 敏感肌用 低刺激 ノンシリコン オーガニック 大容量 詰替え用 頭皮ケア ボリュームアップ 男女共用 フケ くせ毛 うねり (シャンプー・トリートメントセット各300ml)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 18264.33,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B00DRCD8FW",
-      "item_name": "Raffi(ラフィー) シャンプー トリートメント セット 美容室専売品 無添加 詰替え コスパ 大容量 家族 頭皮ケア ボリュームアップ 男女共同 フケ くせ毛 ヘアケア 髪質改善 うねり 天然成分 Raffiシャンプー＆トリートメント 各1000ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 74001.41,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B010SEGMHW",
-      "item_name": "Raffi(ラフィー) 美容室専売品 シャンプー 無添加 敏感肌用 低刺激 ノンシリコン 大容量 詰替え用 まとめ買い 家族 頭皮ケア ボリュームアップ 男女共用 フケ くせ毛 うねり Raffiシャンプー1,000ml×2",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 51799.75,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B00DKYD8YI",
-      "item_name": "Raffi(ラフィー) 美容室専売品 トリートメント 無添加 敏感肌 低刺激 ダメージケア 保湿 詰替え用 大容量 ヘアケア 髪質改善 しっとり さらさら 艶髪 パサつき くせ毛 うねり 髪質ケア 男女共同 天然成分 Raffiトリートメント1,000ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 26600.25,
-      "t30d_units": 7.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 7011157222,
+      "merchant_name": "SilkRdシルクロード",
+      "asin": "B0F9DX5GPJ",
+      "item_name": "【2年保証・USB-C充電式・2本セット】Braoses 電動ペッパーミル ソルトミルType-C充電式 粗さ調節可能 洗いやすい100ml容器 LEDライト付き 収納専用スタンド付き ソルト/ペッパーなどのスパイスに最適 片手でラクラク使える",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 83093.07,
+      "t30d_units": 29.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

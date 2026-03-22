@@ -1,103 +1,55 @@
 {
-  "83334228122": [
+  "83336617322": [
     {
-      "asin": "B0FPQX1JYY",
-      "item_name": "無駄吠え防止 首輪 小中大型犬専用首輪 超軽量 超音波不使用 全自動AI式首輪 無駄吠え防止器具 犬しつけ IP67防水 USB充電式 8段階の感度調整+4つのモードセンサー日本語取扱説明書（ピンク色）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 43323.33,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0FPQZPCN3",
-      "item_name": "無駄吠え防止 首輪 小中大型犬専用首輪 超軽量 超音波不使用 全自動AI式首輪 無駄吠え防止器具 犬しつけ IP67防水 USB充電式 8段階の感度調整+4つのモードセンサー日本語取扱説明書（ブルー）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 106186.66,
-      "t30d_units": 22.0
-    },
-    {
-      "asin": "B0G8HTQHBJ",
-      "item_name": "【2026アップグレード】 バイクハンドルカバー 防水 防風 防寒 保温 曲線形状による空気抵抗低減設計 バイク用 三層構造 ネオプレン素材 モペット 小型/大型自転車に適用 (赤色)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 2417.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DHQTWK5B",
-      "item_name": "無駄吠え防止 首輪 小中大型犬専用首輪 超軽量 超音波不使用 全自動AI式首輪 無駄吠え防止器具 犬しつけ IP67防水 USB充電式 8段階の感度調整+4つのモードセンサー日本語取扱説明書",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 513372.8,
-      "t30d_units": 108.0
-    },
-    {
-      "asin": "B0FNWM8P37",
-      "item_name": "ストーブファン 石油ストーブファン 4枚羽根【熱駆動・電源不要】薪ストーブ用ファン エコファン 16cm大径ブレード 77cm²大接地面 ⾃動回転 日本製モーター搭載 静音 暖房効率アップ 磁気温度計付き 過熱保護",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 3980.0,
-      "t30d_units": 1.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 83336617322,
+      "merchant_name": "H0S0-H",
+      "asin": "B0DP4M9XWD",
+      "item_name": "【MFI正規認証品 2024新版】iphoneイヤホン 変換アダプタ 充電/音楽 2in1変換ケーブル lightningイヤホン 柔らかエコTPE製 急速充電 音楽再生/通話操作対応 純正品チップ iPhone13/12/Xs/Xs max/Xr/8plus/7/7plusなどのiOS13、14、15に対応",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 361512.76,
+      "t30d_units": 440.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FP9CHKDK",
-      "item_name": "ミルクウォーマー 哺乳瓶ウォーマー ボトルウォーマー 1台10役多機能調乳ポット離乳食の24時間保温や調理 LCDディスプレイ付き 温度調整機能 空焼き防止 新型 ミルクウォーマー 対応 日本語取扱説明書付",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G8J89XQ8",
-      "item_name": "【2026アップグレード】 バイクハンドルカバー 防水 防風 防寒 保温 ハンドルカバー バイク 曲線形状による空気抵抗低減設計 バイク用 三層構造 ネオプレン素材 モペット 小型/大型自転車に適用 (ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 119949.55,
-      "t30d_units": 50.0
-    },
-    {
-      "asin": "B0FNWHB7XG",
-      "item_name": "ストーブファン 石油ストーブファン 6枚羽根【熱駆動・電源不要】薪ストーブ用ファン エコファン 16cm大径ブレード 77cm²大接地面 ⾃動回転 日本製モーター搭載 静音 暖房効率アップ 磁気温度計付き 過熱保護",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 121131.0,
-      "t30d_units": 43.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 83336617322,
+      "merchant_name": "H0S0-H",
+      "asin": "B0BQ2WMZX3",
+      "item_name": "2023新版 iPhone 充電ケーブル iphone 充電器 純正品質 Lightningケーブル MFI認証 2M 2本セット アイフォン充電コード ライトニングケーブル 2.4A急速充電 高速データ同期 超高耐久 iPhone14/iPhone14ProMax/iPhone13/13Pro/12/11iPadなどに対応",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 83711.21,
+      "t30d_units": 104.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DPHD1M82",
-      "item_name": "無駄吠え防止 首輪 2個入り 小中大型犬専用首輪 超軽量 超音波不使用 全自動AI式首輪 無駄吠え防止器具 犬しつけ IP67防水 USB充電式 8段階の感度調整+4つのモードセンサー日本語取扱説明書",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 76962.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0FPQZXKQY",
-      "item_name": "無駄吠え防止 首輪 小中大型犬専用首輪 超軽量 超音波不使用 全自動AI式首輪 無駄吠え防止器具 犬しつけ IP67防水 USB充電式 8段階の感度調整+4つのモードセンサー日本語取扱説明書（シルバー）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 13634.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0G8HGSXXK",
-      "item_name": "【2026アップグレード】 バイクハンドルカバー 防水 防風 防寒 保温 曲線形状による空気抵抗低減設計 バイク用 三層構造 ネオプレン素材 モペット 小型/大型自転車に適用 (灰色)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 15992.0,
-      "t30d_units": 8.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 83336617322,
+      "merchant_name": "H0S0-H",
+      "asin": "B0BS28RQZK",
+      "item_name": "2023新版 iPhone 充電器ケーブル 純正品質 Lightning MFI認証 1.5M 2本セット アイフォン充電コード ライトニングケーブル 2.4A急速充電 高速データ同期 超高耐久 iPhone 14/ 14 Plus/ 14 Pro/ 14 Pro Max/ iPhone 13/ 13 Pro/ 13 Pro Max/ 12/ 11/ XS/XR/ 8/ 7/ 6s/ 6/ SE 2020 iPad Mini/Air 対応",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 174038.61,
+      "t30d_units": 201.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

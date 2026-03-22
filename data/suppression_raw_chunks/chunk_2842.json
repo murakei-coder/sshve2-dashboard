@@ -1,31 +1,72 @@
 {
-  "7302245055": [
+  "7303431255": [
     {
-      "asin": "B0CDRSGCYF",
-      "item_name": "日本公式 LionWell オーロラハイライト ルミナイザー ハイライトパウダー ダイヤモンドハイライター グリッター・シマーで輝きツヤ肌 4 g／02",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 29241.98,
-      "t30d_units": 25.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 7303431255,
+      "merchant_name": "農業生産法人株式会社リコペル",
+      "asin": "B01HGFWKDG",
+      "item_name": "【ギフト】トマトジュース 720ml×12本 国産 おもいろトマトのジュース 食塩無添加",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CDRTBD6K",
-      "item_name": "日本公式 LionWell オーロラハイライト ルミナイザー ハイライトパウダー ダイヤモンドハイライター グリッター・シマーで輝きツヤ肌 4 g／03",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 7303431255,
+      "merchant_name": "農業生産法人株式会社リコペル",
+      "asin": "B01C6KLBYA",
+      "item_name": "【ギフト】トマトジュース 720ml×2本 国産 おもいろトマトのジュース 食塩無添加 ボトリング",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 72835.0,
+      "t30d_units": 18.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CDRW65VX",
-      "item_name": "日本公式 LionWell オーロラハイライト ルミナイザー ハイライトパウダー ダイヤモンドハイライター グリッター・シマーで輝きツヤ肌 4 g／01",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 89410.17,
-      "t30d_units": 64.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 7303431255,
+      "merchant_name": "農業生産法人株式会社リコペル",
+      "asin": "B07KZRLSJR",
+      "item_name": "【ギフト】トマトジュース 180ml×6本 国産 おもいろトマトのジュース 食塩無添加",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 8424.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 7303431255,
+      "merchant_name": "農業生産法人株式会社リコペル",
+      "asin": "B0721VSZTM",
+      "item_name": "【ギフト】トマトジュース 720ml×1本 国産 おもいろトマトのジュース 食塩無添加 ボトリング",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 48948.66,
+      "t30d_units": 25.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

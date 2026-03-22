@@ -1,22 +1,38 @@
 {
-  "67180663622": [
+  "67180899922": [
     {
-      "asin": "B0DK1H8HY7",
-      "item_name": "IEMAI PETG フィラメント 1.75mm、50-600mm/s の高速印刷用高速 3D プリンター フィラメント、青から紫への色変化グラデーション フィラメント、半透明 PETG フィラメント 1kg/スプール",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 60359.83,
-      "t30d_units": 19.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 67180899922,
+      "merchant_name": "ATOVANKA JP",
+      "asin": "B0DZXB35F2",
+      "item_name": "7インチAHDバックカメラモニターセット 1080P 超暗視機能.常時使用可能 140度広角 DIYガイドライン 正像 鏡像切替 穴開けなく 2種類の電源供給方法 初心者にも簡単に取付可能 駐車支援システム 12V車両に対応",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 731078.97,
+      "t30d_units": 94.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DK1HD9S8",
-      "item_name": "IEMAI PETG フィラメント 1.75mm、50-600mm/s の高速印刷用高速 3D プリンター フィラメント、黄色から緑に色が変わるグラデーション フィラメント、半透明 PETG フィラメント 1kg/スプール",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 11705.26,
-      "t30d_units": 4.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 67180899922,
+      "merchant_name": "ATOVANKA JP",
+      "asin": "B0G46YCV9T",
+      "item_name": "ATOVANKA 7インチバイク スマートモニター｜完全ワイヤレスCarPlay／Android Auto対応（バイク用ナビ・carplay バイク）｜IP67防水・盗難防止設計・防眩光IPSディスプレイ｜日本語説明書付・USB／AC電源対応",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 246427.66,
+      "t30d_units": 22.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

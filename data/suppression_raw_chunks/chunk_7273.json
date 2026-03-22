@@ -1,13 +1,72 @@
 {
-  "48638749222": [
+  "48640377222": [
     {
-      "asin": "B0BFWHPGVL",
-      "item_name": "メガ盛り 阿蘇ジャージー牛乳 ドーナツ棒 ドーナツ お菓子 ギフト スイーツ おやつ 退職 お礼 手土産 お土産 お供え お取り寄せ 熊本 フジバンビ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 2064966.6,
-      "t30d_units": 913.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 48640377222,
+      "merchant_name": "ALLUTHE (アリューザ)",
+      "asin": "B097B9KKYD",
+      "item_name": "[ALLUTHE] キーケース レディース メンズ 本革 スマートキー対応 プレゼント ギフト ペア お揃い スマートキーケース 日本製 キーホルダー 記念日 車の鍵",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 33566.0,
+      "t30d_units": 15.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 48640377222,
+      "merchant_name": "ALLUTHE (アリューザ)",
+      "asin": "B0DWFJ66FQ",
+      "item_name": "[ALLUTHE] キーケース メンズ レディース スマートキー対応 革 日本製 スマートキーケース キーホルダー お揃い ペア 記念日 プレゼント (05. ピンク)",
+      "cleaned_suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": "Other",
+      "asin_count": 1,
+      "t30d_ops": 4769.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 48640377222,
+      "merchant_name": "ALLUTHE (アリューザ)",
+      "asin": "B0C8TY551C",
+      "item_name": "[ALLUTHE] キーケース メンズ レディース スマートキー対応 革 日本製 スマートキーケース キーホルダー お揃い ペア 記念日 プレゼント (04. ライトブルー)",
+      "cleaned_suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": "Other",
+      "asin_count": 1,
+      "t30d_ops": 10397.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 48640377222,
+      "merchant_name": "ALLUTHE (アリューザ)",
+      "asin": "B097BB3HZG",
+      "item_name": "[ALLUTHE] キーケース レディース メンズ 本革 スマートキー対応 プレゼント ギフト ペア お揃い スマートキーケース 日本製 キーホルダー 記念日 車の鍵",
+      "cleaned_suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": "Other",
+      "asin_count": 1,
+      "t30d_ops": 10948.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

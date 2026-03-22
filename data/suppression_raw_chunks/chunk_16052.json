@@ -1,67 +1,38 @@
 {
-  "1121612464702": [
+  "1121660412002": [
     {
-      "asin": "B0GKC9F5GM",
-      "item_name": "MP3プレーヤー 音楽プレーヤー HiFI音質 高精細動画 内蔵スピーカー 多機能 ミュージックプレイヤー 軽量 有線/無線両用 動画/写真/アラーム/音楽/録音/ビデオ/写真/電子書籍 スポーツ/ビジネス/語学勉強などに最適 (ピンク)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 43989.0,
-      "t30d_units": 11.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1121660412002,
+      "merchant_name": "deruimingdianzi",
+      "asin": "B0FMJ7NK3T",
+      "item_name": "隠しカメラ スパイカメラ 小型カメラ 1080P 防犯カメラ 64GBカード付き 監視カメラ コンセント 長時間録画 動体検知 日本語説明書付き",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 40304.0,
+      "t30d_units": 8.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G37P5DYW",
-      "item_name": "AI翻訳イヤホン【タッチスクリーン•アプリ連動•同時通訳機能】追跡機能 IPX7防水 HIFI音質 耳を塞がない LEDディスプレイ Type-C急速充電 5つのEQモード ゲームモード SDカード対応 最大40時間再生時間 iPhone/Android/Pad適用 スポーツ/通勤/通学/WEB会議",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GKDBFLQK",
-      "item_name": "MP3プレーヤー 音楽プレーヤー HiFI音質 高精細動画 内蔵スピーカー 多機能 ミュージックプレイヤー 軽量 有線/無線両用 動画/写真/アラーム/音楽/録音/ビデオ/写真/電子書籍 スポーツ/ビジネス/語学勉強などに最適 (シルバー)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 11997.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0GKFKN2QD",
-      "item_name": "【128GB大容量】ボイスレコーダー 無指向性HDマイク OTG転送対応 ICレコーダー 35時間長時間連続録音 ノイズキャンセリング 使いやすい 録音機内蔵 WAV録音 MP3音楽プレーヤー 高感度 多機能レコーダー 大容量バッテリー VOR音声起動機能 5本替え芯 イヤホン付属 会話録音/インタビュー/語学勉強/授業な",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 421094.0,
-      "t30d_units": 106.0
-    },
-    {
-      "asin": "B0G2XJFMKK",
-      "item_name": "【128GB カメラボイスレコーダー】 180°ロータリーレンズ 1080P 超小型 パソコン外付けカメラ機能 ICボイスレコーダー HDノイズリダクション 160°視野 アクションカメラ クリップ式 音声検知 ワンタッチ録音 多機能 大容量 128GBカード付き 簡単操作 会議/商談/証拠撮影/授業/いじめ／セクハラ調査に適",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 23920.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0GKD6TJB3",
-      "item_name": "【128GB 超軽量】 MP3プレーヤー 音楽プレーヤー HiFI音質 タッチスクリーン 128GBカード付き OTG機能 30時間再生 高精細動画 内蔵スピーカー 多機能 ミュージックプレイヤー 軽量 有線/無線両用 動画/写真/アラーム/音楽/録音/ビデオ/写真/電子書籍 スポーツ/ビジネス/語学勉強などに最適 イヤホン付き",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 87977.53,
-      "t30d_units": 22.0
-    },
-    {
-      "asin": "B0GL1J83CY",
-      "item_name": "128GB大容量 ボイスレコーダー 小型 ICレコーダー 長時間録音 3072kbps音質 48時間連続使用 コンパクト 録音機 ワンボタン録音 分段録音 TFTカラーディスプレイ ヴォイスレコーダー 変速再生 リピート機能付 スピーカー内蔵 ノイズキャンセリング機能 MP3プレーヤー機能 会話録音/インタビュー/会議/言",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 343960.0,
-      "t30d_units": 86.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1121660412002,
+      "merchant_name": "deruimingdianzi",
+      "asin": "B0FM88JFZV",
+      "item_name": "小型カメラ 隠しカメラ 60時間連続録画 監視カメラ 防犯カメラ モバイルバッテリー型カメラ 1080P 動体検知 10000mAh大容量 256GB対応 上書き録画 暗視機能 重力センサーを搭載 LED赤外線 長時間録画 証拠収集 会議 屋内外使用 USB充電式 設置簡単 日本語説明書付",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 197525.33,
+      "t30d_units": 33.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

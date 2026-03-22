@@ -1,391 +1,55 @@
 {
-  "82369535022": [
+  "82407504922": [
     {
-      "asin": "B0DZX6VDKR",
-      "item_name": "the kindest（ カインデスト ）子どものためのまんてんバランス＜バナナ味＞30日分 えいようのおはなし付き [ 1歳～ こども 栄養 補助 離乳食 ドリンク 鉄 カルシウム ビタミン 幼児期 ] 300g/1袋",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 230733.33,
-      "t30d_units": 50.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 82407504922,
+      "merchant_name": "PEEZ 公式店",
+      "asin": "B0D1FX5SLN",
+      "item_name": "【2026改良型】 電動アシスト自転車 折り畳み 20インチ 5段アシスト シマノ製 7段変速ギア 免許不要 公道可 サスペンション搭載 型式認定 最大走行距離80km 通勤 坂登35度 防水機能 軽量 耐震性 耐荷重150kg",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1817901.0,
+      "t30d_units": 23.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G4R3KQ1G",
-      "item_name": "the kindest （ カインデスト ）おさかなほぐほぐ（国産 鮭 まぐろ）｜フレーク 離乳食 ベビーフード 骨取り 手間なし ほぐし身 パウチ 常温保存 塩抜き・油抜き不要 (国産鮭（1種×1P）)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 22564.87,
-      "t30d_units": 31.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 82407504922,
+      "merchant_name": "PEEZ 公式店",
+      "asin": "B0CZF7375L",
+      "item_name": "PEEZ 電動アシスト自転車 折りたたみ式 20インチ 5段アシスト シマノ7段変速 免許不要 公道可 バッテリーは取り外し可能です 型式認定 最大80km走行 通勤 長距離の走行 坂登35度 防水機能 軽量 サスペンション搭載 耐荷重150kg",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 4794349.0,
+      "t30d_units": 60.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0D31D9KY6",
-      "item_name": "the kindest （ カインデスト ） 9ヶ月離乳食6袋セット [ 離乳食 9ヶ月 化学調味料 着色料 香料 保存料不使用 離乳食セット 3種類 和風 ハンバーグ 五目 豆乳 クリーム パスタ スパゲッティ ] 3種類×各2袋",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 368177.94,
-      "t30d_units": 111.0
-    },
-    {
-      "asin": "B0CSSXMTZ2",
-      "item_name": "the kindest （ カインデスト ）玄米スティック（ほのあまさつまいも）えいようのおはなし付き [7ヶ月 からずっと 9ヶ月 赤ちゃん おやつ スナック ベビーフード 離乳食 発芽玄米 野菜 鉄 ] 6g/2袋×3箱",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 240527.11,
-      "t30d_units": 143.0
-    },
-    {
-      "asin": "B0CSZ2HJRY",
-      "item_name": "the kindest （ カインデスト ）玄米スティック（ほのあまさつまいも）えいようのおはなし付き [ 7ヶ月 からずっと 9ヶ月 赤ちゃん おやつ スナック ベビーフード 離乳食 発芽玄米 野菜 鉄 ] 6g/2袋×6箱",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 108475.05,
-      "t30d_units": 41.0
-    },
-    {
-      "asin": "B0D1QTNQLP",
-      "item_name": "the kindest （ カインデスト ） 12ヶ月離乳食6袋セット [ パスタ シチュー 煮物 野菜 離乳食 12ヶ月 鉄分 カルシウム 栄養 たっぷり 離乳食セット ] 3種類×各2袋",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 342250.42,
-      "t30d_units": 101.0
-    },
-    {
-      "asin": "B0BSTPSC5R",
-      "item_name": "the kindest （ カインデスト ） 鶏レバーのピューレ 150g[ 離乳食 中期 7ヶ月 8ヶ月 ベビーフード 鳥 レバー 鉄 分 タンパク質 ビタミン ] 50g/1個（3個セット）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 29878.66,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0G4QQZYWC",
-      "item_name": "the kindest （ カインデスト ）幼児食おかず5袋セット（5種×1個）魚のまんまシリーズ（ 国産さばの味噌煮、北海道産秋鮭のきのこクリーム煮、国産ぶりの照り焼き、国産かつおのトマト煮、北海道産秋鮭のちゃんちゃん焼き）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 9918.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FXH1HJK9",
-      "item_name": "the kindest （ カインデスト ） 幼児食 おかず 6袋セット [ 1歳半頃～ 幼児 キッズフード こども レトルト おかず (カレー/ミートソース/プルコギ) 3種類×各2個",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 159732.44,
-      "t30d_units": 41.0
-    },
-    {
-      "asin": "B0DBGP13DD",
-      "item_name": "the kindest （ カインデスト ） 富山県産 有機 コシヒカリ のやわらか おかゆ [ 離乳食 中期 後期 7ヶ月 もぐもぐ期 ベビーフード おかゆ 鉄 カルシウム ] 100g/1袋（5袋セット）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 57386.07,
-      "t30d_units": 29.0
-    },
-    {
-      "asin": "B0G4R2VBJT",
-      "item_name": "the kindest （ カインデスト ）おさかなほぐほぐ（国産 鮭 まぐろ）｜フレーク 離乳食 ベビーフード 骨取り 手間なし ほぐし身 パウチ 常温保存 塩抜き・油抜き不要 (国産まぐろ（1種×1P）)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 18816.62,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B0D32RZY9M",
-      "item_name": "the kindest （ カインデスト ）7ヶ月離乳食6袋セット [ リゾット おかゆ 野菜 離乳食 7ヶ月 栄養 離乳食セット ] 3種類×各2袋",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 667447.0,
-      "t30d_units": 225.0
-    },
-    {
-      "asin": "B0BTS4KRXT",
-      "item_name": "the kindest （ カインデスト ） 肉ピューレオールセット [ 離乳食 7ヶ月 からずっと 9ヶ月 中期 鉄 レバー 豚 鶏 牛 ペースト ] 5種類×各1個",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 666961.11,
-      "t30d_units": 178.0
-    },
-    {
-      "asin": "B0BY86SYMD",
-      "item_name": "the kindest（ カインデスト ）子どものためのまんてんバランス＜ココア味＞30日分 えいようのおはなし付き [ 1歳～ こども 栄養 補助 離乳食 ドリンク 鉄 カルシウム ビタミン 幼児期 ] 300g/1袋",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 1239343.41,
-      "t30d_units": 273.0
-    },
-    {
-      "asin": "B0CQS1L3VG",
-      "item_name": "the kindest （ カインデスト ） 野菜ピューレセット 3種 [ 離乳食 初期 5ヶ月 ベビーフード ピューレ 野菜 食物繊維 にんじん かぼちゃ さつまいも ] 50g/1袋",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 125424.12,
-      "t30d_units": 44.0
-    },
-    {
-      "asin": "B0D542HPX5",
-      "item_name": "the kindest （ カインデスト ） スムージーレンジャー RED GREEN [ 子ども おやつ スムージー 1歳頃 フルーツ 野菜 食物繊維 ビタミンC もも リンゴ ] 6パウチセット (RED/YELLOW/GREEN 6パウチセット)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 306751.61,
-      "t30d_units": 125.0
-    },
-    {
-      "asin": "B0D4YXDSBQ",
-      "item_name": "the kindest （ カインデスト ） スムージーレンジャー RED GREEN [ 子ども おやつ スムージー 1歳頃 フルーツ 野菜 食物繊維 ビタミンC もも リンゴ ] 6パウチセット (GREEN 6パウチセット)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 81918.16,
-      "t30d_units": 38.0
-    },
-    {
-      "asin": "B0BTS7674X",
-      "item_name": "the kindest （ カインデスト ）野菜ピューレセット [ 味覚サポート 5ヶ月 離乳食セット 野菜 ベビーフード ペースト ジュレ ] 5種類×各1個",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 180948.53,
-      "t30d_units": 40.0
-    },
-    {
-      "asin": "B0D6N2G8QT",
-      "item_name": "the kindest （ カインデスト ）9ヶ月 離乳食セット（3種×2個）6袋セット （たっぷり野菜のミネストローネ/真鯛の炊き込みご飯/鶏つくねと5種野菜のポトフ風）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 414000.07,
-      "t30d_units": 125.0
-    },
-    {
-      "asin": "B0FL1PR1YB",
-      "item_name": "the kindest （ カインデスト ）玄米スティック（6種の野菜としらす）えいようのおはなし付き [7ヶ月 から 赤ちゃん おやつ スナック ベビーフード 幼児 発芽玄米 野菜 鉄 ] 6g/2袋×6箱",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 65635.31,
-      "t30d_units": 22.0
-    },
-    {
-      "asin": "B0G4QVTC2F",
-      "item_name": "the kindest （ カインデスト ）おさかなほぐほぐ（国産 鮭 まぐろ）｜フレーク 離乳食 ベビーフード 骨取り 手間なし ほぐし身 パウチ 常温保存 塩抜き・油抜き不要 (国産鮭（1種×3P）)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 23782.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0D4YVVQRY",
-      "item_name": "the kindest （ カインデスト ） スムージーレンジャー RED GREEN [ 子ども おやつ スムージー 1歳頃 フルーツ 野菜 食物繊維 ビタミンC もも リンゴ ] 6パウチセット (RED 6パウチセット)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 47202.66,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B0BTLK9RG8",
-      "item_name": "the kindest （ カインデスト ） 9か月 プレミアム 離乳食 6袋セット [ 離乳食 9か月 離乳食セット ベビーフード カツオ 鶏 ポタージュ ] 3種類×各2個",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 179258.45,
-      "t30d_units": 37.0
-    },
-    {
-      "asin": "B0DT99HDZF",
-      "item_name": "the kindest （ カインデスト ） ライスシリアル はじめてのおかゆ ~33食分 [国産 コシヒカリ 発芽玄米 離乳食 初期 5ヶ月 ベビーフード おかゆ 鉄分 カルシウム お湯と混ぜるだけ] 200g/1箱 えいようのおはなし付き",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 462539.01,
-      "t30d_units": 241.0
-    },
-    {
-      "asin": "B0D6MY9B88",
-      "item_name": "the kindest （ カインデスト ） 12ヶ月離乳食6袋セット (デミグラスハンバーグ、チーズカレーリゾット、親子丼)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 292381.63,
-      "t30d_units": 91.0
-    },
-    {
-      "asin": "B0CT2C19RH",
-      "item_name": "the kindest （ カインデスト ）鉄分 たっぷり 国産 鶏 レバー パウダー えいようのおはなし付き[離乳食 ベビーフード 離乳食中期 7ヶ月 鉄分 ] ×2個",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 28058.25,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0CSYBPGJL",
-      "item_name": "the kindest （ カインデスト ）魚ピューレ 3種 デビューセット [ 離乳食 ベビーフード 中期 7ヶ月 離乳食セット 白身魚 赤身魚 赤ちゃん ] 3種類×1個",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 377627.64,
-      "t30d_units": 129.0
-    },
-    {
-      "asin": "B0BTS4VQS3",
-      "item_name": "the kindest （ カインデスト ） 7か月プレミアム離乳食6袋セット [ 離乳食 7か月 国産 ベビーフード 鶏レバー アスパラ 冬瓜 かつお節 ] 3種類×各2個",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 272015.72,
-      "t30d_units": 57.0
-    },
-    {
-      "asin": "B0DQLX56D5",
-      "item_name": "the kindest （ カインデスト ）玄米スティック（6種の野菜としらす）えいようのおはなし付き [7ヶ月 から 赤ちゃん おやつ スナック ベビーフード 幼児 発芽玄米 野菜 鉄 ] 6g/2袋×3箱",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 173193.86,
-      "t30d_units": 105.0
-    },
-    {
-      "asin": "B0F2893N22",
-      "item_name": "the kindest（ カインデスト ）子どものためのまんてんバランスバー＜プレーン＞ えいようのおはなし付き [ 1歳半～ こども 栄養 補助 離乳食 ドリンク 鉄 カルシウム ビタミン 幼児期 ] /12本入り",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 244828.61,
-      "t30d_units": 66.0
-    },
-    {
-      "asin": "B0G4QWYMT1",
-      "item_name": "the kindest （ カインデスト ）おさかなほぐほぐ（国産 鮭 まぐろ）｜フレーク 離乳食 ベビーフード 骨取り 手間なし ほぐし身 パウチ 常温保存 塩抜き・油抜き不要 (アソートセット 国産まぐろ 鮭（2種×各3P）)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 74416.78,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B0D4YVSM3W",
-      "item_name": "the kindest （ カインデスト ） スムージーレンジャー RED GREEN [ 子ども おやつ スムージー 1歳頃 フルーツ 野菜 食物繊維 ビタミンC もも リンゴ ] 6パウチセット (YELLOW 6パウチセット)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 9441.32,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DZX8JL7J",
-      "item_name": "the kindest（ カインデスト ）子どものためのまんてんバランス7日分×3種類 えいようのおはなし付き [ 1歳～ こども 栄養 補助 離乳食 ドリンク 鉄 カルシウム ビタミン 幼児期 ] 70g/1種類×3袋",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 464415.8,
-      "t30d_units": 119.0
-    },
-    {
-      "asin": "B0FD9GJ24T",
-      "item_name": "the kindest（ カインデスト ）まるまるリング 3袋（お魚）えいようのおはなし付き [ 9ヶ月 から 赤ちゃん おやつ スナック ベビーフード 幼児 発芽玄米 野菜 鉄 ]",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 414697.67,
-      "t30d_units": 215.0
-    },
-    {
-      "asin": "B0FD9CZ6DT",
-      "item_name": "the kindest（ カインデスト ）まるまるリング 3袋（お野菜）えいようのおはなし付き [ 9ヶ月 から 赤ちゃん おやつ スナック ベビーフード 幼児 発芽玄米 野菜 鉄 ]",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 271171.33,
-      "t30d_units": 141.0
-    },
-    {
-      "asin": "B0FD9FK72S",
-      "item_name": "the kindest（ カインデスト ）まるまるリング 6袋（お野菜×3袋、お魚×3袋）えいようのおはなし付き [ 9ヶ月 から 赤ちゃん おやつ スナック ベビーフード 幼児 発芽玄米 野菜 鉄 ]",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 387289.86,
-      "t30d_units": 117.0
-    },
-    {
-      "asin": "B0CT2LFQN3",
-      "item_name": "the kindest （ カインデスト ）鉄分 たっぷり 国産 鶏 レバー パウダー えいようのおはなし付き[離乳食 ベビーフード 中期 7ヶ月 鉄分 ふりかけ ] ×1個",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 116725.01,
-      "t30d_units": 80.0
-    },
-    {
-      "asin": "B0BTS5Q83L",
-      "item_name": "the kindest （ カインデスト ） 12か月離乳食6袋セット (ハンバーグと野菜のとまと煮込み、ボルシチ、真鯛としらすの中華がゆ)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 222226.13,
-      "t30d_units": 46.0
-    },
-    {
-      "asin": "B0DHWGYH56",
-      "item_name": "the kindest （ カインデスト ） 離乳食スタートセット [ 離乳食 5ヶ月 初期 ベビーフード おかゆ ライスシリアル 野菜 ピューレ 肉 ] 9種類×各1個",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 522421.58,
-      "t30d_units": 66.0
-    },
-    {
-      "asin": "B0G4QVTWYV",
-      "item_name": "the kindest （ カインデスト ）おさかなほぐほぐ（国産 鮭 まぐろ）｜フレーク 離乳食 ベビーフード 骨取り 手間なし ほぐし身 パウチ 常温保存 塩抜き・油抜き不要 (国産まぐろ（1種×3P）)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 61481.47,
-      "t30d_units": 33.0
-    },
-    {
-      "asin": "B0C42YFFJ1",
-      "item_name": "the kindest （ カインデスト ） 豚ひき肉とたっぷり野菜のカレー3袋セット [ 特定原材料7品目不使用 1歳半頃～ 幼児 こども キッズフード カレー レトルト ] 100g/3袋",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 38100.2,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0DZX526KW",
-      "item_name": "the kindest（ カインデスト ）子どものためのまんてんバランス＜いちご味＞30日分 えいようのおはなし付き [ 1歳～ こども 栄養 補助 離乳食 ドリンク 鉄 カルシウム ビタミン 幼児期 ] 300g/1袋",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 188723.32,
-      "t30d_units": 41.0
-    },
-    {
-      "asin": "B0BSQ1QHHQ",
-      "item_name": "the kindest （ カインデスト ） ライスシリアル はじめてのおかゆ ~99食分 [国産 コシヒカリ 発芽玄米 離乳食 初期 5ヶ月 ベビーフード おかゆ 鉄分 カルシウム お湯と混ぜるだけ] 200g/1箱（3箱セット）",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 208203.07,
-      "t30d_units": 44.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 82407504922,
+      "merchant_name": "PEEZ 公式店",
+      "asin": "B0F9VLSLHR",
+      "item_name": "【2 in 1】Peez エアロバイク フィットネスバイク 静音 エアロバイク 家庭用 静音 【1台で2つの運動体験】 スピンバイク トレーニングバイク 省空间 マグネット式 無段階調整 組み立て簡単 （Red Ram 01）",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 127786.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

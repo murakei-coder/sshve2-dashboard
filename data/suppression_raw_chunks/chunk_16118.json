@@ -1,22 +1,21 @@
 {
-  "1124359372502": [
+  "1124361404502": [
     {
-      "asin": "B0GFG66T4B",
-      "item_name": "街灯 ソーラー 屋外 24000LM ソーラーライト 防水 6500K IP66 外灯 ソーラー センサーライト モーションセンサー付き 夕暮れから夜明けまで LED 街路灯 取り付け簡単 1 個パック",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GFFVH9ZY",
-      "item_name": "街灯 ソーラー 屋外 5000LM ソーラーライト 防水 6500K IP66 外灯 ソーラー モーションセンサー付き 夕暮れから夜明けまで LED 街路灯 屋外ライト 取り付け簡単 2 個パック",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 19998.0,
-      "t30d_units": 2.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1124361404502,
+      "merchant_name": "Avylet 車載ストア（KAI-JP）",
+      "asin": "B0CQL1744F",
+      "item_name": "【2026最新】ディスプレイオーディオ 前後ドラレコ搭載 CarPlay/Android Auto・ミラーリング・カーナビ・ドライブレコーダーの1台4役 ポータブル車載モニター 9.26インチ タッチスクリーン ワイヤレスカープレイ アンドロイドオート Siri/Google音声制御 Bluetooth/AUX/FM 4Kフロントカメラ HDリアカメラ 駐車補助",
+      "cleaned_suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 661797.65,
+      "t30d_units": 44.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

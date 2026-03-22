@@ -1,13 +1,72 @@
 {
-  "1197866140602": [
+  "1198158772002": [
     {
-      "asin": "B0GHR4KPMK",
-      "item_name": "7W タイマー調光対応 クリップ式植物育成ライト USB電源仕様 (5V以下)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1198158772002,
+      "merchant_name": "Witcipur-JP",
+      "asin": "B0GKFGYX2K",
+      "item_name": "Witcipur 厚さ 8cm マットレス ふつう ウレタン 敷きマットレストッパー 耐圧分散 シングル 通気性 コンフォート層 来客用 快眠 洗えるカバー付き ポータブル (97X195X8cm)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 8897.0,
+      "t30d_units": 7.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1198158772002,
+      "merchant_name": "Witcipur-JP",
+      "asin": "B0GKFRWBD2",
+      "item_name": "Witcipur フットレスト ウレタン マッサージデザイン 職場のデスク下用 足枕 足の疲労軽減 超硬度メモリーフォーム 取り外せるカバー 万能 足置き ホーム オフィス（ライトグレー）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 29137.0,
+      "t30d_units": 15.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1198158772002,
+      "merchant_name": "Witcipur-JP",
+      "asin": "B0GKF9MWX4",
+      "item_name": "Witcipur 低反発 旅行 枕 コンパクト 出張睡眠用 80D高密度メモリーフォーム トラベルピロー 首・肩フィット 取り外し可能な冷感カバー 携帯枕(まくら) 専用ポーチ付き 飛行機、夜行バス、新幹線、車の腰用クッション 幅51.5cm×奥行34cm",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 64638.0,
+      "t30d_units": 18.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1198158772002,
+      "merchant_name": "Witcipur-JP",
+      "asin": "B0GKF7PHJW",
+      "item_name": "Witcipur 厚さ 5cm 高反発マットレス 毛玉にくい 硬め 高密度 ウレタン 敷きマットレストッパー 耐圧分散 シングル 通気性 コンフォート層 来客用 快眠 洗えるカバー付き ポータブル 97X195X5cm",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 24727.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

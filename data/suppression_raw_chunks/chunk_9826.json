@@ -1,13 +1,38 @@
 {
-  "83367153122": [
+  "83370546822": [
     {
-      "asin": "B0DSBPVMD8",
-      "item_name": "【最新型】 ピンマイク ワイヤレス iPhone/Android/カメラ/PC対応/TRRS 2人同時使用 瞬時接続 ノイズ軽減 360°集音 クリップ式 小型マイク 撮影/動画配信/生放送/ASMR/TikTok 収納袋付き Ewin",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 83370546822,
+      "merchant_name": "Waydoo/JP",
+      "asin": "B0BHR6V971",
+      "item_name": "Waydoo subnado (ウェイドゥ サブナード) 標準パッケージ 水中スクーター",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 493680.0,
+      "t30d_units": 7.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 59060.33,
-      "t30d_units": 30.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 83370546822,
+      "merchant_name": "Waydoo/JP",
+      "asin": "B0FPW9QYV2",
+      "item_name": "Waydoo Subnado Plus (ウェイドゥ サブナード プラス) 標準パッケージ 水中スクーター 水中アクティビティ マリンスポーツ ダイビング シュノーケリング SUP 800Wモーター 3段階速度調整 最大60分連続使用 低ノイズ",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 123200.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

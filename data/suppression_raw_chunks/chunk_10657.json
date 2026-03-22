@@ -1,121 +1,72 @@
 {
-  "496071210202": [
+  "496092077402": [
     {
-      "asin": "B07D6LX9ZP",
-      "item_name": "REIDEA (レイディア) 電子キャンドルライター アーク 耐風 炎が出ない USB充電式ライター 安全ボタン付き ご家庭のキッチンに シャンパンゴールド S4",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 417298.86,
-      "t30d_units": 209.0
-    },
-    {
-      "asin": "B0FX2PXNRQ",
-      "item_name": "登喜和冷凍食品 国産 鶴羽二重こうや豆腐 高野豆腐サイコロカット 500g 専用レシピ付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 207334.16,
-      "t30d_units": 81.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 496092077402,
+      "merchant_name": "【公式】セルフメイドストア",
+      "asin": "B0F1YCF89X",
+      "item_name": "【医師監修】こども鉄&亜鉛チュアブル 子供 サプリ 亜鉛 鉄 カルシウム 乳酸菌 DHA 20種類の国産野菜 人工甘味料不使用 SELFLAB 30日分",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 1899662.78,
+      "t30d_units": 1076.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B08CV82GQD",
-      "item_name": "REIDEA (レイディア) 電子ライター キャンドルライター USB充電式 安全スイッチ付き 炎が出ない ポータブル 耐風 ご家庭での料理/バーベキュー/キャンプ用ストーブなどに",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 295345.0,
-      "t30d_units": 149.0
-    },
-    {
-      "asin": "B0F78SHPST",
-      "item_name": "熟し芋 干し芋 鹿児島県産 無添加 ほしいも（８０ｇ×８袋） 国産 紅はるか 個包装 子ども おやつ プレゼント ステッカー付ギフトボックスに梱包 ８袋セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 94343.55,
-      "t30d_units": 27.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 496092077402,
+      "merchant_name": "【公式】セルフメイドストア",
+      "asin": "B0DVKN96KL",
+      "item_name": "HANEE ホワイトニングペン 歯の ホワイトニング ジェル 歯を白く 歯磨き 2本",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 957614.6,
+      "t30d_units": 501.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FGXBR3PF",
-      "item_name": "【テレビで紹介されました！】UNATOふりかけ 無添加 犬おやつ 猫おやつ グレインフリー 無塩 鰻頭 うなぎ 魚 骨 ボーン うなとう（５０×３袋）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 3880.0,
-      "t30d_units": 1.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 496092077402,
+      "merchant_name": "【公式】セルフメイドストア",
+      "asin": "B0FVDH66C8",
+      "item_name": "【医師監修】クリルオイル 500mg サプリ 子供 純度100% オメガ3 DHA EPA コリン アスタキサンチン ニオイ戻りなし腸溶性カプセル SELFLAB 30日分 60粒",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 189635.31,
+      "t30d_units": 125.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F12GF2P4",
-      "item_name": "【テレビで紹介されました！】UNATO（うなとう）１００％無添加 犬おやつ 猫おやつ グレインフリー 無塩 ３袋セット（７０g×３袋） 鰻頭 うなぎ 魚 骨 ボーン",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 47561.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0FGXLKQKR",
-      "item_name": "【テレビで紹介されました！】UNATO（うなとう）大袋１００％無添加 犬おやつ 猫おやつ グレインフリー 無塩 鰻頭 うなぎ 魚 骨 ボーン（３５０ｇ）",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": -8531.0,
-      "t30d_units": -1.0
-    },
-    {
-      "asin": "B0FSDBFB4B",
-      "item_name": "ポンッとごはん！ 北海道産 乾燥きのこ ミックス 40g 国産 無添加 手軽に簡単 専用レシピ付き 水洗い不要 味噌汁の具 ４種 しいたけ まいたけ きくらげ なめこ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 162991.12,
-      "t30d_units": 112.0
-    },
-    {
-      "asin": "B0F789YMST",
-      "item_name": "【テレビで紹介されました！】UNATO（うなとう）無添加 犬おやつ 猫おやつ グレインフリー 無塩 鰻頭 うなぎ 魚 骨 ボーン（７０×１袋）",
-      "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
-      "suppression_category": "5.Others",
-      "pf": "Consumables",
-      "t30d_ops": 27522.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0F82SDRSP",
-      "item_name": "熟し芋 干し芋 鹿児島県産 紅はるか 無添加 ほしいも (８０ｇ×４袋)国産 個包装 子ども おやつ プレゼント ステッカー付ボックスに梱包 ４袋セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 38969.66,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0G6YS1J94",
-      "item_name": "ポンッとごはん！ 北海道産 乾燥きのこ ミックス 40ｇ×2袋 国産 無添加 手軽に簡単 専用レシピ付き 水洗い不要 味噌汁の具 ４種 しいたけ まいたけ きくらげ なめこ ボックスに梱包 ギフト (２袋【セット割】)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 61077.0,
-      "t30d_units": 22.0
-    },
-    {
-      "asin": "B0FH1KD2PS",
-      "item_name": "【テレビで紹介されました！】UNATOふりかけ 無添加 犬おやつ 猫おやつ グレインフリー 無塩 鰻頭 うなぎ 魚 骨 ボーン うなとう（５０×１袋）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 15837.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B08CRMPRCB",
-      "item_name": "REIDEA (レイディア)キャンドルライター 電子ライター キャンプ用ライター グリル用ライター USBライター プラズマアーク 安全ボタン付き キャンドル/料理/バーベキュー/花火に (ホワイト)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 248888.28,
-      "t30d_units": 126.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 496092077402,
+      "merchant_name": "【公式】セルフメイドストア",
+      "asin": "B0CJCH6XK9",
+      "item_name": "【歯科医師推薦】 ホワイトニングシート歯の黄ばみ ティースケアパック 歯磨き ハミガキテープ 14日分 28枚入り",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1287175.47,
+      "t30d_units": 680.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

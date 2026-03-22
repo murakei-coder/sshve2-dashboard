@@ -1,40 +1,72 @@
 {
   "2897391322": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 2897391322,
+      "merchant_name": "（株）健康いきいき倶楽部",
       "asin": "B01LQ2AQWC",
       "item_name": "【16種類3兆個 の 生きた乳酸菌】 乳酸菌 革命 サプリ ビフィズス菌 酪酸菌 短鎖脂肪酸 腸内フローラ 国内製造 1ヶ月分",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
       "t30d_ops": 70339.66,
-      "t30d_units": 23.0
+      "t30d_units": 23.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 2897391322,
+      "merchant_name": "（株）健康いきいき倶楽部",
       "asin": "B0D48V33LJ",
       "item_name": "【鼻の不快感を軽減】機能性表示食品 ダイエット ホコリ ハウスダスト 花粉 ケルセチン 吸収率20倍 ケルセフィット 正規品 グズピタ 10日分 臨床試験済",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
       "t30d_ops": 334229.64,
-      "t30d_units": 305.0
+      "t30d_units": 305.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 2897391322,
+      "merchant_name": "（株）健康いきいき倶楽部",
       "asin": "B0GFW5FGJ2",
       "item_name": "【30粒増量セット】鼻の不快感を軽減 グズピタ 40日分(30日+10日) 機能性表示食品 花粉 ハウスダスト ホコリ ケルセチン 臨床試験済 吸収率20倍 (120粒(30日+10日増量版))",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 854789.82,
-      "t30d_units": 300.0
+      "t30d_units": 300.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 2897391322,
+      "merchant_name": "（株）健康いきいき倶楽部",
       "asin": "B0CV4X4PGF",
       "item_name": "【鼻の不快感を軽減】機能性表示食品 ダイエット ホコリ ハウスダスト 花粉 ケルセチン 吸収率20倍 ケルセフィット 正規品 グズピタ 30日分 臨床試験済",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
       "t30d_ops": 127520.0,
-      "t30d_units": 40.0
+      "t30d_units": 40.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

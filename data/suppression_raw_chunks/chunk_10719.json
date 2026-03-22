@@ -1,22 +1,38 @@
 {
-  "510710033602": [
+  "510731090302": [
     {
-      "asin": "B0C375Z4MS",
-      "item_name": "【機能性表示食品】MELT COFFEE 糖の吸収を抑える [サラシア由来サラシノール チャコール MCT ビタミン 難消化デキストリン ] メルトコーヒー インスタント (30日分) (1袋)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 510731090302,
+      "merchant_name": "TigWiss",
+      "asin": "B0CTMKBKDB",
+      "item_name": "Tigwiss タイヤ空気圧モニター 空気圧 TPMS 振動感知 タイヤ気圧温度測定 即時空気圧監視 シガーソケット電源供給 IP67防水防塵 4盗難防止センサー 取り付け簡単 多車種対応 0.5-6.0 Bar 日本語説明書",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 303080.46,
+      "t30d_units": 69.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FMR4C8QY",
-      "item_name": "【機能性表示食品】MELT COFFEE 糖の吸収を抑える [サラシア由来サラシノール チャコール MCT ビタミン 難消化デキストリン ] メルトコーヒー インスタント (30日分) (リニューアル1袋)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 994531.99,
-      "t30d_units": 154.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 510731090302,
+      "merchant_name": "TigWiss",
+      "asin": "B0DKP7S3WY",
+      "item_name": "Tigwiss タイヤ空気圧センサー TPMS 空気圧モニター 振動感知 タイヤ気圧温度測定 即時空気圧監視 太陽エネルギー/USBダブル充電 IP67防水防塵 4盗難防止 取り付け簡単 多車種対応 0-6.0 Bar 【日本語音声アラーム】",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 151321.65,
+      "t30d_units": 50.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

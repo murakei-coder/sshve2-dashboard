@@ -1,22 +1,55 @@
 {
-  "56677988722": [
+  "56686830822": [
     {
-      "asin": "B0B66KNZRB",
-      "item_name": "尿中尿酸センサー AcidEye1 アシッドアイワン 台湾のベンチャーが開発 台湾製 【日本正規代理店】",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 56686830822,
+      "merchant_name": "ereru（エレル）",
+      "asin": "B0DW8VGF6R",
+      "item_name": "【サーモン＆植物性PDRNのW配合 】ereru エレル WPDRN グロウセラム 30mL PDRN ダブル配合 美容液 保湿 ナイアシンアミド パンテノール ヒアルロン酸 コラーゲン 日本製",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 173557.51,
+      "t30d_units": 64.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B09D38YCYH",
-      "item_name": "家庭用 残留農薬センサー PestiEye1｜野菜・果物・玄米を簡単検査 光学式センサー 食品安全・簡単検査・高精度で家族を守る ネオニコチノイド系農薬も測れます。試薬不要でランニングコストゼロ メーカー保証１年付【日本正規代理店】",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 24980.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 56686830822,
+      "merchant_name": "ereru（エレル）",
+      "asin": "B0F2MZXR8G",
+      "item_name": "ereru エレル WPDRN グロウセラム 30mL PDRN ダブル配合 美容液 保湿 ナイアシンアミド パンテノール ヒアルロン酸 コラーゲン 日本製 【3本セット】",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 158821.6,
+      "t30d_units": 21.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 56686830822,
+      "merchant_name": "ereru（エレル）",
+      "asin": "B0F2MWRDT5",
+      "item_name": "ereru エレル WPDRN グロウセラム 30mL PDRN ダブル配合 美容液 保湿 ナイアシンアミド パンテノール ヒアルロン酸 コラーゲン 日本製 【5本セット】",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

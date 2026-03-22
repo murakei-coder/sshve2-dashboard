@@ -1,13 +1,38 @@
 {
-  "1137411976002": [
+  "1137469189702": [
     {
-      "asin": "B0GJLCQW78",
-      "item_name": "イヤホン変換アダプター 【2026新設計】ライトニングデュアルライン 30W急速充電同時音 MFi認証品 通話リモコン 搭載16bit/48KHz Hi-Fi音質 同時 二股接続ケーブル イヤホン充電 音楽調節 i-Phone14/13/12/11/11/SE/Xs/Xs Max/XR/X/8/7 iOS 全機種対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1137469189702,
+      "merchant_name": "CuiYi-ストア",
+      "asin": "B0GCNCQHVR",
+      "item_name": "Glorlummi 【2026 新登場！】椅子 クッション 座布団 快適な座り心地 チェアパッド 低反発クッション 高通気性 カバー洗える 滑り止め オフィスチェア 車椅子 自動車用 自宅用 父の日 母の日 誕生日プレゼント (ブラック)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 684500.93,
+      "t30d_units": 224.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 216251.13,
-      "t30d_units": 223.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1137469189702,
+      "merchant_name": "CuiYi-ストア",
+      "asin": "B0FWKS3TH1",
+      "item_name": "Glorlummi プロジェクター 家庭用【2025アップグレード版-30000LM・Android TV搭載・4K対応・270°回転 PSE認証済み】 高輝度 1080P 天井投影 Wi-Fi6 Bluetooth5.4 HiFiスピーカー内蔵 自動台形補正 プロジェクター 小型 短距離投影 大画面 IOS/Android/パソコン/PS機接続可 プレゼント 日本語取扱説明書",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 889179.75,
+      "t30d_units": 152.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

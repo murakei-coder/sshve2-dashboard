@@ -1,22 +1,55 @@
 {
-  "882771634602": [
+  "883162644902": [
     {
-      "asin": "B0DP6GPX2T",
-      "item_name": "犬 トイレトレー スーパーワイド シリコン 大型犬 トイレ マット 特大 シリコントイレ ワイド 多頭飼い お手入れ簡単 922mm×642mm (ベージュ, XL)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 436456.0,
-      "t30d_units": 118.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 883162644902,
+      "merchant_name": "Giraffe Tools JP",
+      "asin": "B0FHY1G5B6",
+      "item_name": "Giraffe Tools 自動巻き取り ホースリール 30m任意位置ロック180度回転壁取付型 [蛇口分水器＋プロテクターカバーセット付属] 洗車ベランダ掃除庭散水 ホース リール7モードノズル付き",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 33022.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DGDXR2JB",
-      "item_name": "SUDOO 犬 トイレトレー 大型犬 トイレ 特大 スーパーワイド 1枚 ドッグトレー 1020 x 710 x 50mm 飛び跳ね防止 ペット 犬用トイレ トイレトレーニング お掃除簡単 メッシュ付 (グレー,スーパーワイド)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 587934.0,
-      "t30d_units": 72.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 883162644902,
+      "merchant_name": "Giraffe Tools JP",
+      "asin": "B0FPFPPYR4",
+      "item_name": "Giraffe Tools 自動巻き取り 散水ホースリール 25m耐荷重据置型設計 伸縮 ホース リール付き芝生・コンクリート対応 360°回転ベース7段階ノズル 園芸 花壇 ガーデニング 掃除 庭 洗車",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 112252.0,
+      "t30d_units": 7.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 883162644902,
+      "merchant_name": "Giraffe Tools JP",
+      "asin": "B0FHY8TMX1",
+      "item_name": "Giraffe Tools 高圧洗浄機 自動巻き取り 壁掛け 15MPa・545L/H強力性能 100V 50-60Hz 20m高圧ホース180°回転ブラケット搭載 フォームボトル 高圧洗浄IPX5防水 家庭用 業務用 洗車機 清掃 強力噴射 G20",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 223280.0,
+      "t30d_units": 6.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

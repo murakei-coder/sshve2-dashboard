@@ -1,31 +1,55 @@
 {
-  "1108331728302": [
+  "1108376460602": [
     {
-      "asin": "B0FKRS1YBS",
-      "item_name": "犬 おもちゃ音が鳴る 知育子犬 オモチャ 心地よい頑丈 小/中型犬向けプレゼント ストレス解消 壊れない 歯磨き 清潔 洗える 丈夫な犬 ぬいぐるみ(ホワイト)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 21743.74,
-      "t30d_units": 18.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1108376460602,
+      "merchant_name": "にこにこ味工房",
+      "asin": "B0FKTQX1B8",
+      "item_name": "にこにこ味工房 国産豚肉使用 冷凍餃子1.8キロ 大容量（１６人前/約９６個）忙しい日常にぴったり！ 6分調理でお弁当おかずに最適 手軽に美味しい！ 栄養満点",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 456800.0,
+      "t30d_units": 163.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FKRG4W9D",
-      "item_name": "犬 おもちゃ音が鳴る 知育子犬 オモチャ 心地よい頑丈 小/中型犬向けプレゼント ストレス解消 壊れない 歯磨き 清潔 洗える 丈夫な犬 ぬいぐるみ(ブラウン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 54914.93,
-      "t30d_units": 45.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1108376460602,
+      "merchant_name": "にこにこ味工房",
+      "asin": "B0FWJKT491",
+      "item_name": "にこにこ餃子 冷凍・国産豚肉使用 6分調理でお弁当おかずに最適 忙しい日常にぴったり！ 手軽に美味しい！ 栄養満点 (48, にこにこ餃子)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 29700.0,
+      "t30d_units": 15.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FKRJ5D59",
-      "item_name": "犬 おもちゃ音が鳴る 知育子犬 オモチャ 心地よい頑丈 小/中型犬向けプレゼント ストレス解消 壊れない 歯磨き 清潔 洗える 丈夫な犬 ぬいぐるみ(ピンク)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 35144.11,
-      "t30d_units": 29.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1108376460602,
+      "merchant_name": "にこにこ味工房",
+      "asin": "B0FKZRNYW4",
+      "item_name": "にこにこ味工房 国産豚肉使用 冷凍餃子2.7キロ 大容量（ ２4人前/約１４４個)）忙しい日常にぴったり！ 6分調理でお弁当おかずに最適 手軽に美味しい！ 栄養満点",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 6580.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

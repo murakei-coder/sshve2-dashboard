@@ -1,13 +1,21 @@
 {
   "785461304": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 785461304,
+      "merchant_name": "KMTワールドマーケット",
       "asin": "B0DJ5NH4WB",
       "item_name": "【新米】令和7年産 会津産コシヒカリ 玄米 5kg｜一等米・ブレンドなし100%コシヒカリ 会津ブランド米｜甘み・旨み・粘りの極上バランス｜喜多方の清流育ち 一等米選別｜精米対応/おにぎり・和食・洋食に最適｜KMTワールドマーケット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 549520.99,
-      "t30d_units": 112.0
+      "t30d_units": 112.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

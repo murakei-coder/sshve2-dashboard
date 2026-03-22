@@ -1,13 +1,72 @@
 {
-  "14407142222": [
+  "14407397622": [
     {
-      "asin": "B01MR6FH6O",
-      "item_name": "iRomic(アイロニック) 高耐久真空吸盤フック (2パック) キッチン&バスルーム&トイレの整理に特化",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 305294.4,
-      "t30d_units": 203.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 14407397622,
+      "merchant_name": "Juye Store",
+      "asin": "B0CDQMQYDX",
+      "item_name": "AIJUYE 立体パズル 木製 工作キット 大人向け 子供 電動 歯車 3D 木製立体パズル 生日プレゼント クリスマスプレゼント 接着剤不要 組み立て おもちゃ",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 53176.07,
+      "t30d_units": 20.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 14407397622,
+      "merchant_name": "Juye Store",
+      "asin": "B0FWK9WDP3",
+      "item_name": "Aijuye 3D パズル 立体パズル 木製パズル 445 パーツ 5 軌道 & 8 個スチールボール DIY 工作キット 14 歳 + 大人向け 子供 知育玩具 脳トレ 集中力 暇つぶし 誕生日クリスマスプレゼント 組立後 31×22×21cm",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 41591.0,
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 14407397622,
+      "merchant_name": "Juye Store",
+      "asin": "B0CQPMF2MK",
+      "item_name": "AIJUYE 3D オルゴール 立体パズル 木製 可動式チェロ設計 大人向け工作キット 小学生高学年男女対応 知育玩具 贈り物",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 82333.33,
+      "t30d_units": 23.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 14407397622,
+      "merchant_name": "Juye Store",
+      "asin": "B0CCB2T2JW",
+      "item_name": "AIJUYE 立体 パズル 木製パズル おもちゃ 接続剤不要 組み立て 大人用精密工作キット 手動ギア軌道 14歳以上 理系教材 北欧風インテリア兼用 3D空間認識力向上 2026年度版プレゼント",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 158337.56,
+      "t30d_units": 53.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

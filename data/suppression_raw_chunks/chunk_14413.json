@@ -1,49 +1,21 @@
 {
-  "986443518002": [
+  "986446965102": [
     {
-      "asin": "B0FNRBXS2J",
-      "item_name": "HAILESI モバイルモニター 12.3インチ 2.4K 2400x1600 Switch2ドック不要 OTG対応 モバイルディスプレイ 3:2画面比 100％sRGB広色域 HDR 380nit IPSパネル 超薄型 超軽量 自立型 内蔵デュアルスピーカー Switch2/PS5/XBOX/PC/Mac/iphoneなど対応 ゲーミング用 在宅勤務 リモートワーク 出張 (12.3インチ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 1513384.32,
-      "t30d_units": 113.0
-    },
-    {
-      "asin": "B0F47PV1MX",
-      "item_name": "HAILESI モバイルモニター 15インチ 2496*1664 3:2画面比 ポータブルモニター モバイルディスプレイ 高輝度510nits IPSパネル 100％sRGB広色域 HDR 超薄型 自立型 USB/Type-C/mini HDMI/PS5/XBOX/Switch/PC/Macなど対応 在宅勤務 リモートワーク 出張 (15インチタッチ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 744212.33,
-      "t30d_units": 51.0
-    },
-    {
-      "asin": "B0G6ZG7TNL",
-      "item_name": "HAILESI S135 モバイルモニター 13.5インチ 2K 2256×1504 Switch2ドック不要 Type-C直結 500nit高輝度 VESA対応 OTG対応 3:2比率 100％sRGB広色域 HDR IPS液晶 Type-C/HDMI接続 ポータブルモニター 軽量 超薄型 自立型 スピーカー内蔵 Switch2/PS5/XBOX/PC/Mac/iphone モバイルディスプレイ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 2471786.79,
-      "t30d_units": 185.0
-    },
-    {
-      "asin": "B0FC1SY19V",
-      "item_name": "HAILESI モバイルモニター 15インチ 4K 3240*2160 タッチパネル 3:2画面比 高輝度450nits IPSパネル 100％sRGB広色域 HDR 超薄型 自立型 モバイルディスプレイ ポータブルモニター USB/Type-C/mini HDMI/PS5/XBOX/Switch/PC/Macなど対応 在宅勤務 リモートワーク 出張 (15インチタッチ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 1291142.33,
-      "t30d_units": 66.0
-    },
-    {
-      "asin": "B0FYNN6KPX",
-      "item_name": "HAILESI S123E モバイルモニター 12.3インチ タッチパネル モバイルディスプレイ 1920x1280 フルHD 3:2比率 100％sRGB広色域 高輝度300nit HDR対応 OTG対応 ポータブルモニター 超薄型 軽量 自立型 スピーカー内蔵 IPS液晶 Type-C/HDMI接続 Switch2/PS5/XBOX/PC/Mac/iPhoneなど",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 5465075.29,
-      "t30d_units": 441.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 986446965102,
+      "merchant_name": "【公式】REFRAG MENストア",
+      "asin": "B0DQY77WWM",
+      "item_name": "【オスモフェロン配合・調香師監修】REFRAG MEN 練り香水 モテ香水 長持ち メンズ ギフト プレゼント マイルドシトラスの香り 柑橘系 フェロモン香水 オスモフェロン リフラグ メン",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 33314.66,
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,31 +1,21 @@
 {
-  "818113428702": [
+  "818123331202": [
     {
-      "asin": "B0GDFF29MD",
-      "item_name": "ベビーサークル メッシュ 大型 プレイヤード 持ち運び 長方形 ベビーゲート 赤ちゃん 子供 ベビールーム キッズスペース 吸盤付き 扉付き 組み立て簡単 保育園 幼稚園(グレー, 150×200)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 635.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GDFCPKYM",
-      "item_name": "【一目でわかる透明引出】救急箱 大容量 3段 三層式 薬収納ボックス 薬入れ ツールボックス 常備薬 分類 整理 応急箱 薬ケース 取っ手付き 持ち運び コンパクト 家庭用 会社 備蓄 防災 2026モデル",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 33626.75,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0GDFT3HBV",
-      "item_name": "子供 踏み台 折りたたみ 2段 3段 高さ調節 手すり付き 安定 A型構造 ステップ台 子ども 滑り止め 洗面所 トイレ トレーニング キッチン 耐荷重50kg プラスチック 持ち運び 軽量 コンパクト",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 52718.66,
-      "t30d_units": 10.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 818123331202,
+      "merchant_name": "foshanshihongguanredianwenhuayouxiangongsi",
+      "asin": "B0DQZT3VV3",
+      "item_name": "CarPlay ワイヤレス CarPaly AI Box Appleの有線CarPlay対応 Netflix、YouTube、TikTokストリーミングアプリを内蔵 ワイヤレスcarplayアダプター簡易版，2016 年以降に製造された車両と互換性があり、iPhone 6 または iOS 10 以降と互換性があります、 黒",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 564093.0,
+      "t30d_units": 82.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,49 +1,21 @@
 {
-  "1028227105502": [
+  "1028383635802": [
     {
-      "asin": "B0FHFNYZFN",
-      "item_name": "5本 カスタム 入れ歯 部分 取り外し可能 Dentellea 義歯 携帯便利 自然な見た目",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 546000.66,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B0F6JMXGLC",
-      "item_name": "【2個入り】部分 入れ歯 カスタム｜Dentellea 自然に見える 義歯｜目立たない＆快適な装着感｜自宅で簡単型取り｜2本欠損に最適・男女兼用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 836342.0,
-      "t30d_units": 55.0
-    },
-    {
-      "asin": "B0G7D8W441",
-      "item_name": "7本 カスタム 入れ歯 部分 取り外し可能 Dentellea 義歯 自然な見た目 印象キット付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 664000.0,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0F1TPF8SW",
-      "item_name": "1本 カスタム 入れ歯 部分 取り外し可能 Dentellea 義歯 携帯便利 自然な見た目",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 1659023.54,
-      "t30d_units": 149.0
-    },
-    {
-      "asin": "B0F1TGSMHT",
-      "item_name": "Dentellea カスタム マウスピース 2個セット 上下対応タイプ 透明 薄型 1mm・1.5mm・2mm選べる 着け心地快適 男女兼用 ケース付き",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 141420.0,
-      "t30d_units": 14.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1028383635802,
+      "merchant_name": "OKIBI JAPAN(日本公式ストア)",
+      "asin": "B0F4D6MCRX",
+      "item_name": "【跳ぶだけで全身を鍛える】絡みにくく飛びやすい 縄跳び 大人用 トレーニングモデル プロ監修 高負荷 重量調整 時短 有酸素運動",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 199397.0,
+      "t30d_units": 93.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,13 +1,38 @@
 {
-  "817931001402": [
+  "817991103802": [
     {
-      "asin": "B0D663ZGRJ",
-      "item_name": "[ マイシグナル ] マイシグナル・ライト (尿がん検査/全身の様々ながん) がんのリスクをステージ1から早期発見 (肺がん 大腸がん 乳がん 卵巣がん) がん検査 がんリスク",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 596640.0,
-      "t30d_units": 24.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 817991103802,
+      "merchant_name": "WaterJingYi",
+      "asin": "B0DZ29QVRP",
+      "item_name": "WaterJingYi 浄水フィルター WaterJingYi 互換用 for 【マクストラ BRITA MAXTRA 】互換用フィルターカートリッジ 高除去 フィルター スタイル 浄水器 (12個セット)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 143640.33,
+      "t30d_units": 45.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 817991103802,
+      "merchant_name": "WaterJingYi",
+      "asin": "B0D8J47SP8",
+      "item_name": "WaterJingYi 浄水フィルター互換用 for 【マクストラ BRITA MAXTRA 】互換用フィルターカートリッジ 高除去 フィルター スタイル 浄水器-6個セット",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 698069.83,
+      "t30d_units": 360.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

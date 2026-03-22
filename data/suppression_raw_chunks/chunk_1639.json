@@ -1,31 +1,55 @@
 {
   "5265268422": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 5265268422,
+      "merchant_name": "Hohem Japan",
       "asin": "B0D5CSLD6B",
       "item_name": "hohem V3 ジンバル 3軸スマホジンバル AI自動追跡 13時間駆動 ジェスチャー撮影 3階段調光ライト&美顔 リモコン付き 延長ロッド & 三脚内蔵 手ブレ補正 スタビライザー 折りたたみ式&軽量 Android＆iPhone用ジンバル 日本語対応アプリ ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 170084.0,
-      "t30d_units": 9.0
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 5265268422,
+      "merchant_name": "Hohem Japan",
       "asin": "B0D5CVWSGP",
       "item_name": "hohem V3 ジンバル 3軸スマホジンバル AI自動追跡 13時間駆動 ジェスチャー撮影 3階段調光ライト&美顔 リモコン付き 延長ロッド & 三脚内蔵 手ブレ補正 スタビライザー 折りたたみ式&軽量 Android＆iPhone用ジンバル 日本語対応アプリ ホワイト",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
       "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 5265268422,
+      "merchant_name": "Hohem Japan",
       "asin": "B0FF9H7S3K",
       "item_name": "hohem V3 Ultra ジンバルスタビライザー 3軸スマホジンバル (Android/iPhone)純正カメラAIトラッキング 1.22インチフルカラータッチスクリーン ライブ映像を確認 着脱式リモコン 360°のパン回転 ３階段調光ライト 205ｍｍ延長ロッド&内蔵三脚 9時間使用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 51980.0,
-      "t30d_units": 2.0
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

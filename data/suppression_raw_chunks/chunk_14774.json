@@ -1,13 +1,38 @@
 {
-  "1038719793902": [
+  "1038729669002": [
     {
-      "asin": "B0FHQ78TBK",
-      "item_name": "プロジェクタースマホ対応 小型【節電対策2026超小型投影機・電動フォーカス搭載・明るさプラス27000LM＆Wi-Fi瞬時接続＆自動台形補正＆4K】kitley M8 projector 4k 天井270度 WiFiなしでも使える＆スマホ対応＆初心者向けプロジェクター 操作簡単 300インチ大画面 スタンド一体型 パソコン/PS機 女性人気 誕",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 5486773.59,
-      "t30d_units": 773.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1038729669002,
+      "merchant_name": "WISHOLY",
+      "asin": "B0F4P3RKND",
+      "item_name": "WISHOLY プロジェクター 家庭用【電動フォーカス・Android TV搭載・270°回転】 プロジェクター 天井投影 27000LM 1080P ぷろじぇくたー 小型 Wi-Fi 自動台形補正 Bluetooth5.4 内蔵HiFiスピーカー 50％ズーム機能 静音設計 スマホ/PC/Switch/DVD等多機能接続",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 1652917.59,
+      "t30d_units": 197.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1038729669002,
+      "merchant_name": "WISHOLY",
+      "asin": "B0FGXPDF2S",
+      "item_name": "WISHOLY プロジェクター 家庭用【Android TV搭載・270°回転】 プロジェクター 小型 27000LM 1080P WiFi6 ぷろじぇくたー 天井投影 Wi-Fi 自動台形補正 Bluetooth5.4 内蔵HiFiスピーカー 50％ズーム機能 静音設計 スマホ/PC/Switch/DVD等接続可能",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1032617.54,
+      "t30d_units": 126.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

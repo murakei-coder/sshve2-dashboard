@@ -1,184 +1,21 @@
 {
-  "1139949091402": [
+  "1140025927502": [
     {
-      "asin": "B0D1YDLHKK",
-      "item_name": "足洗いソープ 足の匂い消し 足用石鹸 足臭い対策 【ズルすぎる濃密泡フットソープ×医薬部外品×足臭がスッキリ爽快】",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 5369321.53,
-      "t30d_units": 2737.0
-    },
-    {
-      "asin": "B0CDNFMJYF",
-      "item_name": "すらりフェイスボディ かっさ 【有名整骨院監修/公式】 頭蓋骨はがし 頭皮マッサージ 四角型 かっさプレート カッサ プレート 頭皮",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 1243716.71,
-      "t30d_units": 626.0
-    },
-    {
-      "asin": "B09PYL4CP3",
-      "item_name": "ズルすぎる足臭ブラシ【公式】 フットブラシ 足洗いマット 足の匂い消し 足洗いブラシ 足裏ブラシ 足ブラシ 足 靴 消臭 | Coneflake (Blue)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B09Q5NJH3D",
-      "item_name": "ズルすぎる足臭ブラシ【公式】 フットブラシ 足洗いマット 足の匂い消し 足洗いブラシ 足裏ブラシ 足ブラシ 足 靴 消臭 | Coneflake (Pink)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0B2967263",
-      "item_name": "すらりフェイスボディ かっさ 【公式】 かっさプレート カッサ テラヘルツ ハート型 ボディ用 すらりシリーズ | Coneflake",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 4892339.37,
-      "t30d_units": 2463.0
-    },
-    {
-      "asin": "B0F6NJHK1Y",
-      "item_name": "【すらりシリーズ（セット組）】 かっさ かっさプレート テラヘルツ プレート | Coneflake",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 236049.81,
-      "t30d_units": 58.0
-    },
-    {
-      "asin": "B0FCLHP5SN",
-      "item_name": "背中ブラシ ボディブラシ 背中洗い 背中ニキビ 予防【かたふわ背中ブラシ×脱ブツブツシリーズ×背中ニキビができる前の人向け】",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0DX2FYV95",
-      "item_name": "背中ニキビ 二の腕 ぶつぶつ 薬 用ボディスクラブ【薬用スクラブウォッシュ100g×脱ブツブツシリーズ×気になる箇所つるんっ】",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 152044.5,
-      "t30d_units": 55.0
-    },
-    {
-      "asin": "B0BG52YKCJ",
-      "item_name": "【120万本の極細毛】脱ブツブツシリーズ 背中ブラシ 【公式】 ボディブラシ 改良版 柔らかい 背中 ブラシ お風呂 | Coneflake",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 3950819.92,
-      "t30d_units": 1593.0
-    },
-    {
-      "asin": "B0BGMWXNMQ",
-      "item_name": "ズルすぎる足臭ブラシ【公式】 フットブラシ 足洗いマット 足の匂い消し 足洗いブラシ 足裏ブラシ 足ブラシ 足 靴 消臭 | Coneflake (Ivory)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DKF844F3",
-      "item_name": "ズルすぎる足臭ブラシ【公式】 フットブラシ 足洗いマット 足の匂い消し 足洗いブラシ 足裏ブラシ 足ブラシ 足 消臭 | Coneflake (新型Blue)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 3239650.38,
-      "t30d_units": 1306.0
-    },
-    {
-      "asin": "B0CSSL6WQR",
-      "item_name": "あかすり 垢すり タオル あかすりタオル 【初代あかポロミトン×男女使用×マイベスト堂々１位×角質を取りスベスベ肌へ】",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 4476311.67,
-      "t30d_units": 2514.0
-    },
-    {
-      "asin": "B0D6W85ZZ2",
-      "item_name": "フットブラシ 足洗いマット 足の匂い消し 足洗いブラシ 【ズルすぎる足臭ブラシ（やや固め）×男性向け×足ゴシゴシ爽快】",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 3705083.64,
-      "t30d_units": 1495.0
-    },
-    {
-      "asin": "B0GFM44S5X",
-      "item_name": "【ズルすぎるシリーズ（セット組）】 足の匂い消し 足臭い対策 フットブラシ 足洗いソープ フットブラシ（やや固め） | Coneflake",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 267922.0,
-      "t30d_units": 60.0
-    },
-    {
-      "asin": "B0F6NFTZ6T",
-      "item_name": "【ズルすぎるシリーズ（セット組）】 足の匂い消し 足臭い対策 フットブラシ 足洗いソープ | Coneflake",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 552119.88,
-      "t30d_units": 124.0
-    },
-    {
-      "asin": "B0F6NHWTKV",
-      "item_name": "【脱ブツブツシリーズ（セット組）】 背中ニキビ 背中ブラシ ボディブラシ 薬 用ボディスクラブ | Coneflake",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 83634.0,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0F6NM2DXM",
-      "item_name": "【すらりシリーズ（セット組）】 かっさ かっさプレート マッサージクリーム ボディクリーム | Coneflake",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 4960.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CDNWRFPM",
-      "item_name": "すらりフェイスボディ かっさ 【公式】 かっさプレート 筋膜リリース テラヘルツ 棒型 顔 頭皮 マッサージ | Coneflake",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 701345.34,
-      "t30d_units": 337.0
-    },
-    {
-      "asin": "B0GFM89DKT",
-      "item_name": "【すらりシリーズ（セット組）】 かっさ かっさプレート テラヘルツ プレート ハート型&四角型 | Coneflake",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 11520.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0F2HLZVN4",
-      "item_name": "マッサージクリーム すっきり引き締め ボディクリーム ボディミルク 【すらりシリーズ×レチノール配合×気になる箇所がするんっ】",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 132027.33,
-      "t30d_units": 45.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1140025927502,
+      "merchant_name": "XieqiStore",
+      "asin": "B0DGGP79PZ",
+      "item_name": "モバイルバッテリー 軽量 小型 【20000mA大容量・薄型モデル】 急速充電 3台同時充電 LED残量表示 PSE技術適合 低電流対応 Type-C入出力兼用&USB出力ポート搭載 安全設計＆多種保護 携帯充電器 iPad/iPhone/Android全種機器対応 コンパクト 持ち運び便利 機内持ち込み可能 アウトドア/旅行/出張/停電対策/緊急",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 3611914.21,
+      "t30d_units": 1866.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

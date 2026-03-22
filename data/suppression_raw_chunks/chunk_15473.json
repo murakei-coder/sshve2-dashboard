@@ -1,67 +1,38 @@
 {
-  "1093824817702": [
+  "1093902024802": [
     {
-      "asin": "B0G5WBK29B",
-      "item_name": "PULWTOP USB C ドッキングステーション Macbook Pro/Air用 縦置き Type-C スタンドとドック 一体型 拡張ドッキング 1*HDMI 4K@60Hz +1*SSDスロット付 (含まれない) + 2*USB-A 3.0+ 2*USB-C 3.2 10Gbps + SD/TFスロット+ RJ45 + PD 100W入力 Mac/Win対応 (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 57270.0,
-      "t30d_units": 5.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1093902024802,
+      "merchant_name": "YuTuoXingShop",
+      "asin": "B0DY7GRKM6",
+      "item_name": "メディケン(MEDIKEN) 非接 触温度計 1秒測定 2つ測定モード 軽量 ホワイト 日本語取扱説明書",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1044113.0,
+      "t30d_units": 317.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G2Y44QFT",
-      "item_name": "PULWTOP USB C ハブ ドッキングステーション Mac Mini M4/M4 Pro 2024 & VESAマウント対応、Mac Mini M4 ハブ (8TB NVMe SSD エンクロージャ付き)、スタンドドック (SD/TF カード付き)、USB A3.2 x 3、USB A2.0 x 2 (SSD は付属しません)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 57007.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0CT81QR9C",
-      "item_name": "PULWTOP USB C ドッキングステーション Macbook Pro/Air用 縦置き Type-C スタンドとドック 一体型 拡張ドッキング 1*HDMI 4K@60Hz +1*SSDスロット付 (含まれない) + 2*USB-A 3.0+ 2*USB-C 3.2 10Gbps + SD/TFスロット+ RJ45 + PD 100W入力 Mac/Win対応 グレー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 25453.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FQC7YCQ4",
-      "item_name": "PULWTOP MacBook Pro ドッキングステーション デュアルモニター 4K@60Hz MacBook Pro/Air M3 Pro/M4/M5対応 M.2 SSDケース付き PULWTOP USB C ドッキングステーション スタンド ノートパソコン用ドック HDMI×2、PD、イーサネット、USB A/C 10Gbps、オーディオ、SD/TF、USB 2.0搭載",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 62540.33,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0FQ5RLFDD",
-      "item_name": "PULWTOP USB C ハブ ドッキングステーション Mac Mini M4/M4 Pro 2024 & VESAマウント対応、Mac Mini M4 ハブ (8TB NVMe SSD エンクロージャ付き)、スタンドドック (SD/TF カード付き)、USB A3.2 x 3、USB A2.0 x 2 (SSD は付属しません)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 81303.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0GLY6V3VG",
-      "item_name": "PULWTOP MacBook Pro ドッキングステーション デュアルモニター 4K@60Hz MacBook Air/Pro M5/M4/M3 Pro & Max用 Macドッキングステーション デュアルモニター Macbook Proドック 2HDMI、PD、イーサネット、USB A/C 10Gbps、SD/TF、USB 2.0付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 150893.0,
-      "t30d_units": 42.0
-    },
-    {
-      "asin": "B0FDKN2BV1",
-      "item_name": "PULWTOP 9 in 1 USB C ハブ Mac Mini M4/ M4 Pro 2024用 ドッキングステーション M.2 SSDスロット付, 1 x HDMI 4K 60Hz, 2 x USB-A 2.0, 1 x 3.5mm Audio & Mic, 1 x SD/TF カードリーダー, 容量拡張 M.2 PCIe SSDスロット付 (SSD含まれない)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 85943.75,
-      "t30d_units": 10.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1093902024802,
+      "merchant_name": "YuTuoXingShop",
+      "asin": "B0FN3LW2RB",
+      "item_name": "Bluetooth ヘッドセット【どこでも安心会議・脱着式マイクでクリアな通話を実現】Bluetooth5.4 通話用イヤホン 全方向性マイク ENCノイズキャンセリング ミュート機能 取り外し可能 左右耳使用可能 耳掛け Type-C 急速充電 IPX防水 運転 web会議 在宅勤務 日本語取扱説明書",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": 655101.8,
+      "t30d_units": 85.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

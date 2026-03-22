@@ -1,22 +1,72 @@
 {
-  "8369968155": [
+  "8370062645": [
     {
-      "asin": "B08L4G6WYS",
-      "item_name": "EWEMOSI ポータブル電源 AC出力対応 モバイルバッテリー 31200mAh 大容量 急速充電対応 車中泊 緊急・災害時バックアップ用電源 MacBook/ノートパソコン (N5)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 338374.0,
-      "t30d_units": 26.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8370062645,
+      "merchant_name": "KAFUMA",
+      "asin": "B0CYTFSJ6S",
+      "item_name": "消臭 niowantai(ニオワンタイ) 下駄箱 靴の匂い 部屋のニオイ 国産 日本製【300mlお得な3本セット】",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B08P323CLR",
-      "item_name": "EWEMOSI ポータブル電源 AC出力対応 モバイルバッテリー 31200mAh 大容量 急速充電対応 車中泊 緊急・災害時バックアップ用電源 MacBook/ノートパソコン (N7)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 69995.0,
-      "t30d_units": 5.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8370062645,
+      "merchant_name": "KAFUMA",
+      "asin": "B0CTBH5YJK",
+      "item_name": "【消臭除菌】niowantai(ニオワンタイ) 無香料 日本製 ノンアルコール 消臭剤 部屋用 消臭スプレー 300ml",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 7922.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8370062645,
+      "merchant_name": "KAFUMA",
+      "asin": "B0CTBH92BS",
+      "item_name": "［niowantai(ニオワンタイ)］消臭スプレー 除菌・消臭これ1本 瞬間消臭 消臭剤 無香料 天然成分のみ ノンアルコール 部屋用 匂い消し 大容量 (425ml, 1, 本)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 95058.35,
+      "t30d_units": 49.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8370062645,
+      "merchant_name": "KAFUMA",
+      "asin": "B0CYTCP13T",
+      "item_name": "［niowantai(ニオワンタイ)］消臭スプレー 除菌・消臭お得な3本セット 瞬間消臭 消臭剤 無香料 天然成分のみ ノンアルコールv部屋用 匂い消し 大容量 (425ml, 3, 本)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 17400.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

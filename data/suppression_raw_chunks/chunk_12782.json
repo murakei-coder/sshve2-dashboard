@@ -1,22 +1,38 @@
 {
-  "800270859202": [
+  "800365718802": [
     {
-      "asin": "B0D62RMVPX",
-      "item_name": "Type-C to 3.5mm phone 2in1変換イヤホンジャック 【2026新設計】 30W急速充電同時音 通話可能音楽調節 搭載16bit/48KHz Hi-Fi音質 イヤホン充電 リモコン通話 Android/Pad/PadPro/ phone15 / 15pro /16/16pro/17/17pro windows/Type Cなど機器に適用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 1150631.24,
-      "t30d_units": 1236.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 800365718802,
+      "merchant_name": "株式会社TD",
+      "asin": "B0FP4P3BHZ",
+      "item_name": "Lamake【日本語音声放送】窓ドア用音声アラーム 6つ音声モード　電池式　チャイム 磁気センサー 開閉センサー 3段階音量調節 防犯グッズ　冷蔵庫/ドア/窓/金庫 盗難防止 (4*4*6.2CM)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 4164.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DDXBD5XJ",
-      "item_name": "TypeC to TypeC phone 2in1変換イヤホンジャック【2026新設計】 30W急速充電同時音 通話可能音楽調節 搭載16bit/48KHz Hi-Fi音質 イヤホン充電 リモコン通話 Android/Pad/PadPro / phone15 / 15pro / 16/16pro/17/17pro/windows/Type Cなど機器に適用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 1218519.32,
-      "t30d_units": 1262.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 800365718802,
+      "merchant_name": "株式会社TD",
+      "asin": "B0FP4L7FXJ",
+      "item_name": "Lamake【日本語音声放送】窓ドア用音声アラーム 6つ音声モード　電池式　チャイム 磁気センサー 開閉センサー 3段階音量調節 防犯グッズ　冷蔵庫/ドア/窓/金庫 盗難防止 1個入れ",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 20419.0,
+      "t30d_units": 19.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

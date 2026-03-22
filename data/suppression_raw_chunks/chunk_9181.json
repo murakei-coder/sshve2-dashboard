@@ -1,13 +1,38 @@
 {
-  "72392633522": [
+  "72394555622": [
     {
-      "asin": "B0BGX1FF72",
-      "item_name": "ヘッドライト 充電式,軽い 明るい 1100ルーメン 密閉型防水 LED ヘッドランプ 防水防塵 180度調整可能 集光・ 隠れ式充電ポート 伸縮可能ヘッドバンド 軽量 アウト 防災/登山 釣り用 ランニング 作業用 ヘルメット ライト",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 789613.62,
-      "t30d_units": 327.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 72394555622,
+      "merchant_name": "HQST GLOBAL",
+      "asin": "B0CGZX9FZN",
+      "item_name": "HQST 12V 100Ah LiFePO4リン酸鉄リチウムイオンバッテリー 低温 高温保護付き BMS保護 RV 船 キャンプ場 ソーラーシステム用 直列 並列 (モニターなし)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 160993.0,
+      "t30d_units": 8.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 72394555622,
+      "merchant_name": "HQST GLOBAL",
+      "asin": "B0DL8YDPRP",
+      "item_name": "HQST 12V 100Ah LiFePO4リン酸鉄リチウムイオンバッテリー 低温 高温保護付き BMS保護 リチウムバッテリー RV 船 キャンプ場 釣り ソーラー蓄電などに活用可能 直列 並列 (モニター付き) 1280Wh",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 720152.0,
+      "t30d_units": 36.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

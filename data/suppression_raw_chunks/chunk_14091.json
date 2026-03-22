@@ -1,22 +1,55 @@
 {
-  "952393203202": [
+  "952415165802": [
     {
-      "asin": "B0F5Q8K8BZ",
-      "item_name": "【Amazon限定ブランド】縄跳び エア縄跳び 縄跳び 大人用 なわとび エア縄跳び 2WAY 有酸素運動 カウント機能 縄跳び ダイエット 縄跳び トレーニング用 大人用 縄跳び 小学生 縄跳び 子供 エクササイズ トレーニング 縄跳び エア縄跳び 防滑グリップ 長さ調節可能 耐久性 折れない 絡まない ダイエッ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 408302.11,
-      "t30d_units": 266.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 952415165802,
+      "merchant_name": "ZHMZ-JP",
+      "asin": "B0FM82X9R5",
+      "item_name": "【こびりつき防止設計】 猫トイレ 自動 ZHMZ G1 猫自動トイレ 65L大容量 広い出入口 スマート 猫トイレ 多重センサー安全保護 アプリ遠隔操作 全自動猫トイレ 二重密閉消臭 自動トイレ 粘着防止 猫砂取りマット付き お手入れ簡単 自動清掃 多頭飼い対応",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 135754.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F5QCX97F",
-      "item_name": "【Amazon限定ブランド】ハンドグリップ 握力 トレーニング 握力グリップ 握力 筋トレ グリップ ハンドグリッパー 握力を鍛える道具 トレーニング 握力 5-60kg ハンドグリップ 可変式 グリッパー 握力 トレーニング 自動カウンター付き 軽量コンパクト 人間工学設計 高弾性グリップ 静音高級鋼バネ 筋",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 242935.42,
-      "t30d_units": 177.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 952415165802,
+      "merchant_name": "ZHMZ-JP",
+      "asin": "B0G3NCFNHR",
+      "item_name": "【2026新年版】 猫 自動トイレ ZHMZ E2 猫トイレ 自動清掃 体重測定 猫トイレ自動 粘着防止 多種センサー安全保護 アプリ遠隔管理 密閉消臭 全自動猫トイレ 60L大容量 お留守番 自動猫トイレ 砂取りマット付き お手入れ簡単 多頭飼い対応",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 555608.0,
+      "t30d_units": 17.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 952415165802,
+      "merchant_name": "ZHMZ-JP",
+      "asin": "B0F8BP52X9",
+      "item_name": "【こびりつき防止構造】 猫トイレ 自動 ZHMZ G1 猫自動トイレ 65L大容量 広い出入口 スマート 猫トイレ 多重センサー安全保護 アプリ遠隔操作 全自動トイレ 二重密閉消臭 自動トイレ 粘着防止 猫砂取りマット付き お手入れ簡単 自動清掃 多頭飼い対応",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 411746.0,
+      "t30d_units": 12.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

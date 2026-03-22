@@ -1,22 +1,38 @@
 {
-  "1102945610702": [
+  "1103198190502": [
     {
-      "asin": "B0GHWQHZHZ",
-      "item_name": "CLYZSTU 4K画質 アクションカメラ ウェアラブルカメラ 水中撮影 123°広角小型Vlogビデオカメラ ボディカメラ WiFi スマホ連携 充電1時間3時間稼働 1.47インチモニター搭載 循環録画 クリップ型 HDR搭載で夜間録画可能 IP65防水 軽量 Vlog 旅行 アウトドア ペット 証拠撮影 会議商談 授業 旅行スポーツカメラ",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 334404.08,
-      "t30d_units": 22.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1103198190502,
+      "merchant_name": "HARUHI Japan公式ストア",
+      "asin": "B0FHFZB536",
+      "item_name": "【公式ストア限定】ヘアアイロン ストレート【現役美容師開発・4億イオン髪質改善・AIスマート温度制御・髪が傷まない】瞬間水分蒸発しない 保湿 ヘアアイロン2way 静電気抑制5段階温度調節 150℃～230℃ 急速加熱 25mmストレート&カール ふんわり 海外対応 360度回転コード 持ち運び 軽量 ミニ 小型",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 5121003.82,
+      "t30d_units": 1680.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GCZL2TQB",
-      "item_name": "LXMIMI 2K画質 小型カメラ 隠しカメラ スパイカメラ 130°広角 自動暗視機能 不可視赤外線 循環録画 長時間録画 充電しながら24時間録画 超小型で隠れやすい 軽量で携帯便利 簡単操作 初心者 見守りカメラ ビデオカメ ラ 防犯監視 証拠撮影 ミニカメラ 携帯便利 256GBカードまで対応 日本語取扱説明書",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 96558.0,
-      "t30d_units": 13.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1103198190502,
+      "merchant_name": "HARUHI Japan公式ストア",
+      "asin": "B0G7BH8GQQ",
+      "item_name": "ヘアアイロン ストレート【現役美容師開発・4億イオン髪質改善・AIスマート温度制御・髪が傷まない】瞬間水分蒸発しない 保湿 ヘアアイロン2way 静電気抑制5段階温度調節",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

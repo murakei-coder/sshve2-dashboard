@@ -1,31 +1,21 @@
 {
-  "1151936418102": [
+  "1152203802402": [
     {
-      "asin": "B0G47T3YV2",
-      "item_name": "ナイトライト 授乳ライト ベッドサイドランプ コンセントライト 2色切替 即插即用 小型 常夜灯 足元灯 省エネ 間接照明 寝室/廊下/玄関/和室/リビング適用 やさしい光 按键操作 (粉色本体)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 59523.0,
-      "t30d_units": 40.0
-    },
-    {
-      "asin": "B0G47VG422",
-      "item_name": "ナイトライト 授乳ライト ベッドサイドランプ コンセントライト 2色切替 即插即用 小型 常夜灯 足元灯 省エネ 間接照明 寝室/廊下/玄関/和室/リビング適用 やさしい光 按键操作 (白色本体)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 127054.23,
-      "t30d_units": 85.0
-    },
-    {
-      "asin": "B0G47FXM1C",
-      "item_name": "360°やさしい光 ナイトライト コンセント式｜三色切替・無段階調光・15/30/60分タイマー｜リモコン付き・本体操作対応｜寝室用 授乳用 ベッドサイド用 省エネ 工事不要",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 115321.78,
-      "t30d_units": 48.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1152203802402,
+      "merchant_name": "YLMY JP",
+      "asin": "B0G4LP9JH8",
+      "item_name": "スマホホルダー 車 マグネット【真空ナノゲル吸盤×N55超強磁力】360°調整可能 スマホスタンド 車載スマホホルダー 多角度自由調節 カー用品 高級合金素材 片手操作 折りたたみ式 軽量コンパクト スマホ車載ホルダー 携帯スタンド iPhone&Android多機種と多車種が対応",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 249778.56,
+      "t30d_units": 161.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

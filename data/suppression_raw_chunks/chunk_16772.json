@@ -1,31 +1,38 @@
 {
-  "1167254418402": [
+  "1167276792902": [
     {
-      "asin": "B0D8HLDWLQ",
-      "item_name": "【新木製モデル 家具調ピアノ】Longeye ロンアイ 電子ピアノ 88鍵盤 MOOD スタンド一体型 10W出力 日本語表記 MIDI対応 二つヘッドホン同時使 レトロ風 10mmストローク 380種類音色 移調 DREAM音源 初心者 練習にピッタ 日本語版説明書 オークベージュ",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 810203.75,
-      "t30d_units": 32.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1167276792902,
+      "merchant_name": "Rythene リセン スポーツメッカ",
+      "asin": "B0G8GQGFQ7",
+      "item_name": "【2個セット】 Rythene 熊鈴 熊よけ鈴 消音機能 ワンタッチ [渓流の音を貫く高音] ホイッスル付き 軽量 登山 トレッキング 山菜取り 通学 ランドセル 日本語説明書付 (ブラック+イエロー)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CJTWMLGW",
-      "item_name": "【新木製モデル 家具調ピアノ】Longeye ロンアイ 電子ピアノ 88鍵盤 MOOD スタンド一体型 10W出力 日本語表記 MIDI対応 二つヘッドホン同時使 レトロ風 10mmストローク 380種類音色 移調 DREAM音源 初心者 練習にピッタリ 日本語版説明書",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 983904.0,
-      "t30d_units": 40.0
-    },
-    {
-      "asin": "B0D8HMKL4N",
-      "item_name": "【新木製モデル 家具調ピアノ】Longeye ロンアイ 電子ピアノ 88鍵盤 MOOD スタンド一体型 10W出力 日本語表記 MIDI対応 二つヘッドホン同時使 レトロ風 10mmストローク 380種類音色 移調 DREAM音源 初心者 練習にピッタリ 日本語版説明書 マホガニー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 458920.0,
-      "t30d_units": 19.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1167276792902,
+      "merchant_name": "Rythene リセン スポーツメッカ",
+      "asin": "B0G8GX2KZJ",
+      "item_name": "Rythene 熊鈴 くまよけ鈴 熊よけ鈴 2 個セット 消音機能付き 収納袋付 小型軽量 ベアベル 安全グッズ 登山 トレッキング ハイキング 山菜採り 渓流釣り ホイッスル付 日本語説明書付 マットブラック",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 880.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

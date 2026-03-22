@@ -1,40 +1,55 @@
 {
-  "850927700702": [
+  "850939993102": [
     {
-      "asin": "B0DFL2943Y",
-      "item_name": "ヨード卵・光 マヨネーズ 300g ×2本 調味料(アミノ酸等) 不使用 コク3.5倍 ヨード卵 卵黄 たっぷり",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 263157.88,
-      "t30d_units": 179.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 850939993102,
+      "merchant_name": "Leacco Store",
+      "asin": "B0DC6F2L5D",
+      "item_name": "防災ラジオ ソーラー 手回し AM/FMラジオ対応 多機能防災 3WAY充電式 LEACCO 携帯 2500mAhバッテリー TYPE-C充電 懐中電灯 SOSアラーム 防災グッズ 軽量 コンパクト 被災地 地震 台風 アウトドア 緊急対策 (ホワイト)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 177558.27,
+      "t30d_units": 67.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F9WFG6RR",
-      "item_name": "ヨード卵・光 かきたま入り お味噌汁 20食 コク3.5倍 たまご ヨード卵 みそ汁 フリーズドライ ほうれん草 ネギ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 206704.97,
-      "t30d_units": 84.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 850939993102,
+      "merchant_name": "Leacco Store",
+      "asin": "B0DC6G7Y7G",
+      "item_name": "防災ラジオ ソーラー 手回し AM/FMラジオ対応 多機能防災 3WAY充電式 LEACCO 携帯ラジオ 2500mAhバッテリー 小型ラジオ TYPE-C充電 懐中電灯 SOSアラーム 防災グッズ 軽量 コンパクト 被災地 地震 台風 アウトドア 緊急対策 (グリーン)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 42080.75,
+      "t30d_units": 16.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DG94P22V",
-      "item_name": "ヨード卵・光 かきたま入り お味噌汁 5食 ×10袋 （50食） ギフト お中元 お歳暮 フリーズドライ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 47383.66,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0G14WZY6C",
-      "item_name": "ヨード卵・光 プーパッポン カレー 180g ×4個 卵と蟹のコク",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 32746.99,
-      "t30d_units": 12.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 850939993102,
+      "merchant_name": "Leacco Store",
+      "asin": "B0DC6GC7LP",
+      "item_name": "防災ラジオ ソーラー 手回し AM/FMラジオ対応 多機能防災 3WAY充電式ラジオ LEACCO 携帯ラジオ 2500mAhバッテリー TYPE-C充電 懐中電灯 SOSアラーム 防災グッズ 軽量 コンパクト 被災地 地震 台風 アウトドア 緊急対策 (ブルー)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 39558.0,
+      "t30d_units": 15.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

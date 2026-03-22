@@ -1,40 +1,38 @@
 {
-  "669872817502": [
+  "669888211402": [
     {
-      "asin": "B0F6CK611T",
-      "item_name": "MelGeek REAL67 有線キーボード、US英語配列、RGB搭載ゲーミングキーボード、マグネティックスイッチキーボード、ラピッドトリガー、ホットスワップ対応、スナップタップ＆調整可能なアクチュエーション、オンラインHIVEカスタム（シリコングレー）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 81905.0,
-      "t30d_units": 5.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 669888211402,
+      "merchant_name": "ACTFLAME-JP（365日出荷、24時間以内に返信、全品保証サービス提供）",
+      "asin": "B0F2H48RLW",
+      "item_name": "ACTFLAME ルームランナー 電動 折りたたみ式 静音設計 ウォーキングマシン ランニングマシン 家庭用 トレッドミル 傾斜付き リモコン付き 耐荷重120kg コンパクト 仕事ながら運動 黒い MAX 6km/h",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 382135.75,
+      "t30d_units": 23.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F6C7KZ6N",
-      "item_name": "MelGeek REAL67 有線キーボード、US英語配列、RGB搭載ゲーミングキーボード、マグネティックスイッチキーボード、ラピッドトリガー、ホットスワップ対応、スナップタップ＆調整可能なアクチュエーション、オンラインHIVEカスタム（ナトリウムホワイト）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 94202.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0F6CMJ15H",
-      "item_name": "MelGeek REAL67 有線キーボード、US英語配列、RGB搭載ゲーミングキーボード、マグネティックスイッチキーボード、ラピッドトリガー、ホットスワップ対応、スナップタップ＆調整可能なアクチュエーション、オンラインHIVEカスタム（カリウム透明パープル）",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 121717.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0F6C92QHQ",
-      "item_name": "MelGeek REAL67 有線キーボード、US英語配列、RGB搭載ゲーミングキーボード、マグネティックスイッチキーボード、ラピッドトリガー、ホットスワップ対応、スナップタップ＆調整可能なアクチュエーション、オンラインHIVEカスタム（カルシウム透明グレー）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 111356.33,
-      "t30d_units": 6.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 669888211402,
+      "merchant_name": "ACTFLAME-JP（365日出荷、24時間以内に返信、全品保証サービス提供）",
+      "asin": "B0F2FPP98T",
+      "item_name": "ACTFLAME ルームランナー 電動 ランニングマシン 折りたたみ式 ウォーキングマシン 静音設計 家庭用 トレッドミル 傾斜付き リモコン付き 耐荷重120kg コンパクト 仕事ながら運動 黒い-手すりある-MAX 12kmh",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 940995.66,
+      "t30d_units": 48.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,1804 +1,361 @@
 {
-  "65847393722": [
+  "65847688022": [
     {
-      "asin": "B0C74Q7YMM",
-      "item_name": "AHAZIAHダイニングマット 透明 床保護マット チェアマット 特大サイズ 超大判 PVC クリアマット フローリング/畳/床暖房対応 傷や汚れからカンタン保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 2mm,130x180cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4JLFBRN",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 200*300cm 厚さ 1mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 9799.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C4PCRVWW",
-      "item_name": "AHAZIAH ダイニングマット 透明 140×270cm クリアマット 1.5mm厚 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4NVKGZN",
-      "item_name": "AHAZIAHダイニングマット 透明 床保護マット チェアマット 特大サイズ 超大判 PVC クリアマット フローリング/畳/床暖房対応 傷や汚れからカンタン保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 3mm,90x160cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G2GBMS84",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 50*80cm 厚さ2mm 気泡なし 矩形 テーブルカバー 防水 耐油 耐熱 耐摩耗性 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 2299.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C4PB2HKV",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,100*120cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 5998.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FMS839GT",
-      "item_name": "チェアマット エンボス加工 透明 椅子マット 75*100cm 厚さ1mmPVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G2G8M13Q",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 85*180cm 厚さ2mm テーブルカバー 気泡なし 耐油 耐熱 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4P9N9VR",
-      "item_name": "AHAZIAH ダイニングマット 透明 130×240cm クリアマット 1.5mm厚 エンボス加工 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 10679.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0C4NS7VVF",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 90*140cm 厚さ 1mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G2G7RXGW",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 80*120cm 厚さ1mm 気泡なし 矩形 テーブルカバー 防水 耐油 耐熱 耐摩耗性 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 1813.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C4PBDBGJ",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,140*190cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4NRMYBS",
-      "item_name": "AHAZIAH ダイニングマット 透明 80×100cm クリアマット 1mm厚 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 18737.33,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0FH2396XC",
-      "item_name": "AHAZIAH チェアマットマット エンボス加工 ダイニングマット 透明マット 80*120cm 厚さ1mm PVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4PC54ZY",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 100*300cm 厚さ 1.5mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 10998.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0C4NQWPYK",
-      "item_name": "AHAZIAHダイニングマット 透明 床保護マット チェアマット 特大サイズ 超大判 PVC クリアマット フローリング/畳/床暖房対応 傷や汚れからカンタン保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 1mm,120x160cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 5833.8,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0C4PC4DX3",
-      "item_name": "AHAZIAH ダイニングマット 透明 200×350cm クリア 1.5mm厚 エンボス加工 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 25587.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0BQ6SCR7Y",
-      "item_name": "AHAZIAH ダイニングマット 透明 200×240cm クリアマット 1.5mm厚 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 10999.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FMS7T9PP",
-      "item_name": "チェアマット エンボス加工 透明 椅子マット 130*130cm 厚さ1.5mmPVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FMS7V69K",
-      "item_name": "透明 チェアマット ダイニングマット エンボス加工 厚さ1.5mm 150*170cm PVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D5GZJ71D",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 2mm,100*200cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FW4L6HYS",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 90x180cm 厚さ2mm 気泡なし 矩形 テーブルカバー 防水 耐油 耐熱 耐摩耗性 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 4632.0,
-      "t30d_units": 1.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0D4V2PTXP",
+      "item_name": "30個入 画鋲 フック おしゃれ ピンフック 目立たない 石膏ボード フック 跡が残らない 釘フック 壁 傷つけない 耐荷重約1kg 透明 プラスチック 額縁/時計/絵画/クリスマス 飾り用/カレンダー/鍵/写真/自宅/オフィス/キッチン/学習室/浴室用など",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 57693.64,
+      "t30d_units": 80.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0D5GV84S4",
-      "item_name": "AHAZIAH ダイニングマット 透明 100×140cm クリアマット 2mm厚 エンボス加工 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 3531.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C74QTL49",
-      "item_name": "AHAZIAHダイニングマット 透明 床保護マット チェアマット 特大サイズ 超大判 PVC クリアマット フローリング/畳/床暖房対応 傷や汚れからカンタン保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 2mm,100x200cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C74N9J3N",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 2mm,160*200cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4PDGJP8",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 180*260cm 厚さ 1.5mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 9832.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C74QNJKC",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 200*400cm 厚さ2mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4NVM3FS",
-      "item_name": "AHAZIAHダイニングマット 透明 床保護マット チェアマット 特大サイズ 超大判 PVC クリアマット フローリング/畳/床暖房対応 傷や汚れからカンタン保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 3mm,120x160cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C74S37LH",
-      "item_name": "AHAZIAH ダイニングマット 透明 180×350cm クリアマット 2mm厚 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F4887CFV",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 2mm,160*240)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FHFG1Q5W",
-      "item_name": "ダイニングマット エンボス加工 透明 特大サイズ PVC クリア 床保護マット 厚さ2mm 200*200cm 床暖房対応 滑り止め 凹み防止 ダイニングテーブル 下に敷くマット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F4883BFX",
-      "item_name": "AHAZIAH PVC 透明 床保護マット 透明フロアマット チェアマット ダイニングマット 大型デスク足元マット 保護 椅子 マット 床傷防止 カスタマイズ可能なサイズ(厚さ 1.5mm,160*220)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BQ6RL854",
-      "item_name": "AHAZIAH チェアマット 75*120cm 透明 床保護マット クリアチェアマット 厚み1.5mm PVC素材 ズレない デスクマット フロアマット チェアシート 保護シート クリアマット 傷防止 すべり止め お手入れ簡単 フローリング 床暖房対応 床を保護 机下 椅子 畳 オフィス",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 6481.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0C4PBVHD1",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 200*260cm 厚さ 1.5mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 32767.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FMS7RHSR",
-      "item_name": "チェアマット エンボス加工 透明 椅子マット 100*150cm 厚さ1.5mmPVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FW4J91H6",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 70*110cm 厚さ1.5mm テーブルカバー 気泡なし 耐油 耐熱 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 4983.0,
-      "t30d_units": 2.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0C6LKQ3BH",
+      "item_name": "ファイルラック 6段 卓上収納 ラック 壁掛け デスク 収納 書類整理 書類トレー レタートレー 机の上収納 書類ラック 組み立て不要 新聞/雑誌/A4ファイル/フォルダー/書類入れ メッシュメタル (ブラック)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 227734.15,
+      "t30d_units": 76.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0C4NQJL5S",
-      "item_name": "AHAZIAH ダイニングマット 透明 100×140cm クリアマット 1mm厚 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0C4PB8J7S",
-      "item_name": "AHAZIAH ダイニングマット 透明 140×200cm クリアマット 1.5mm厚 エンボス加工 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F7XKMR36",
-      "item_name": "チェアマット エンボス加工 透明 椅子マット 100*140cm 厚さ1.5mm PVC クリア 床保護マット 撥水 汚れ防止 キズ防止 床傷防止 防音 お手入れ簡単 滑り止め プロテクターマット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C74S6BTZ",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 180*180cm 厚さ 2mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DZ28LSFM",
-      "item_name": "AHAZIAH PVC 透明 床保護マット 透明フロアマット チェアマット ダイニングマット 200*220 厚さ 2mm 大型デスク足元マット 保護 チェア 床傷防止 カスタマイズ可能なサイズ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C74RW8V4",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 200*300cm 厚さ2mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DKJ2P32K",
-      "item_name": "AHAZIAH PVC 透明 床保護マット 透明フロアマット チェアマット ダイニングマット 大型デスク足元マット 保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 1.5mm,120*240)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 5344.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0D5H37SQC",
-      "item_name": "AHAZIAH ダイニングマット 透明 200×350cm クリアマット 2mm厚 エンボス加工 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FMYVSXRW",
-      "item_name": "チェアマット 透明 椅子マット 75*100cm 厚さ1mmPVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FH1ZSSZC",
-      "item_name": "AHAZIAH チェアマットマット エンボス加工 ダイニングマット 透明マット 80*100cm 厚さ1mm PVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4P9JDB4",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,90*160cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 2930.6,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C4NSJ6DX",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 90*120cm 厚さ 1mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FMYPWCPQ",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 180*240cm 厚さ 1.5mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0CR8B287V",
+      "item_name": "三面鏡 セルフカット 360°角度自在調整 化粧鏡 高さ調節可能 鏡 壁掛け 折りたたみ可能 mirror 5倍拡大鏡付き 3ウェイミラー 後頭部が見える 壁掛けミラー HD鏡面 かがみ 大きい 安定して使い 飛散防止 (ホワイト)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 80211.57,
+      "t30d_units": 32.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F7WY8Y5P",
-      "item_name": "ダイニングマット エンボス加工 透明 特大サイズ PVC クリア 床保護マット 厚さ1.5mm 200*240cm 床暖房対応 滑り止め 凹み防止 ダイニングテーブル 下に敷くマット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C1GTXK3D",
-      "item_name": "AHAZIAH クリアチェアマット 床保護マット130x160cm 厚さ1.5mm PVC クリアマット 透明マット カーペットプロテクターマット おしゃれ キズ防止 テーブルマットおしゃれ 滑り止め 汚れ防止 フローリング対応 台所マット 透明タイプ お手入れ簡単.",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C74QDHXJ",
-      "item_name": "AHAZIAHダイニングマット 透明 床保護マット チェアマット 特大サイズ 超大判 PVC クリアマット フローリング/畳/床暖房対応 傷や汚れからカンタン保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 2mm,160x180cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4PDMMW9",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 150*200cm 厚さ 1.5mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C191BFYB",
-      "item_name": "AHAZIAH チェアマット 75x120cm 透明 床保護マット クリアチェアマット 厚み1.5mm PVC素材 ズレない デスクマット フロアマット チェアシート 保護シート クリアマット 傷防止 すべり止め お手入れ簡単 フローリング 床暖房対応 床を保護 机下 椅子 畳 オフィス",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 2174.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C4PBCTMJ",
-      "item_name": "AHAZIAHダイニングマット 透明 床保護マット チェアマット 特大サイズ 超大判 PVC クリアマット フローリング/畳/床暖房対応 傷や汚れからカンタン保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 1.5mm,100x180cm)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 10983.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FMS6K8Q4",
-      "item_name": "チェアマット エンボス加工 透明 椅子マット 75*100cm 厚さ1.5mmPVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FH23791K",
-      "item_name": "AHAZIAH チェアマットマット エンボス加工 ダイニングマット 透明マット 90*120cm 厚さ1mm PVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C74R9T1W",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 150*240cm 厚さ 2mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C19431V3",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 200*280cm 厚さ1.5mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4P9FX47",
-      "item_name": "AHAZIAHダイニングマット 透明 床保護マット チェアマット 特大サイズ 超大判 PVC クリアマット フローリング/畳/床暖房対応 傷や汚れからカンタン保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 1.5mm,90x160cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 2235.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CP2FH58M",
-      "item_name": "テーブルクロス 透明 エンボス加工 80x120cm PVC テーブルマット ビニール 厚さ1.5mm 無臭 長方形 PVC製 デスクマット 矩形 テーブルカバー 縮みなし 防水 汚れ防止 撥水加工 はカスタマイズ可能です",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 26963.0,
-      "t30d_units": 13.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0GC5752MV",
+      "item_name": "ぷにぷにシール 立体シール 2枚セット ステッカー ストレス解消 ごほうび ステッカー 3D かわいい おしゃれ 可愛い 約58点 sticker 貼り付け可能 デコレーション DIY 手帳 携帯電話飾り スマホケース アルバム 水筒 手芸用品 贈り物（コアラ+ウサギ）",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 2246.85,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DK568JHW",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,150*220)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 7090.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FH23NHRL",
-      "item_name": "AHAZIAH チェアマットマット エンボス加工 ダイニングマット 透明マット 120*120cm 厚さ1mm PVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DJPDQSRT",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,120*200)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 8168.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0C4P9ZGG8",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,170*220cm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 6323.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FCBMRQB3",
-      "item_name": "ダイニングマット エンボス加工 透明 特大サイズ PVC クリア 床保護マット 厚さ1.5mm 200*200cm 床暖房対応 滑り止め 凹み防止 ダイニングテーブル 下に敷くマット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 8901.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C4P9C36W",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 150*240cm 厚さ 1.5mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 7349.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0G2G8L7DN",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 75*115cm 厚さ2mm テーブルカバー 気泡なし 耐油 耐熱 汚れ防止 撥水加工",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F48BYMPN",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,100*100)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C74R71V4",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 140*160cm 厚さ 2mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4NRVFKW",
-      "item_name": "AHAZIAHダイニングマット 透明 床保護マット チェアマット 特大サイズ 超大判 PVC クリアマット フローリング/畳/床暖房対応 傷や汚れからカンタン保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 1mm,100x120cm)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DKJG27TW",
-      "item_name": "AHAZIAH PVC 透明 床保護マット 透明フロアマット チェアマット ダイニングマット 大型デスク足元マット 保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 1.5mm,130*220)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FW4L4X1V",
-      "item_name": "テーブルマット 円形 透明 エンボス加工 PVC製 テーブルクロス 直径80cm 厚さ1.5mm テーブルカバー 気泡なし 耐油 耐熱 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 2299.0,
-      "t30d_units": 1.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0D529XCCN",
+      "item_name": "ファイルラック 6段 卓上収納 ラック 壁掛け デスク 収納 書類整理 書類トレー レタートレー 机の上収納 書類ラック 組み立て不要 新聞/雑誌/A4ファイル/フォルダー/書類入れ メッシュメタル (ホワイト)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 109148.0,
+      "t30d_units": 34.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0C192SVTL",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,180*300cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 8981.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C4NS9CS4",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 120*140cm 厚さ 1mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 2863.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C4P9JL3N",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,180*280cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FCBFNJ9K",
-      "item_name": "チェアマット エンボス加工 透明 椅子マット 75*100cm 厚さ1.5mm PVC クリア 床保護マット 撥水 汚れ防止 キズ防止 床傷防止 防音 お手入れ簡単 滑り止め プロテクターマット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4NSQVFT",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 180*260cm 厚さ 1mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FCBKY3JJ",
-      "item_name": "チェアマット エンボス加工 透明 椅子マット 100*130cm 厚さ1.5mm PVC クリア 床保護マット 撥水 汚れ防止 キズ防止 床傷防止 防音 お手入れ簡単 滑り止め プロテクターマット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F3X598TH",
-      "item_name": "PVC ダイニングマット エンボス加工 透明マット 厚さ 1.5mm 100*240cm 特大サイズ フロアマット 椅子 マット 汚れ防止 お手入れ簡単",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4NZWYH2",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 80*120cm 厚さ 3mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C192ZVGP",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 200*270cm 厚さ1.5mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 10966.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DJPDN7JV",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,100*220cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 9544.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F2GDD1YJ",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ1.5mm,180*200cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 28184.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0FD3C8KGP",
-      "item_name": "チェアマット エンボス加工 透明 椅子マット 80*160cm 厚さ1mm PVC クリア 床保護マット 撥水 汚れ防止 キズ防止 床傷防止 防音 お手入れ簡単 滑り止め プロテクターマット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G2G7SFF1",
-      "item_name": "テーブルマット 円形 透明 エンボス加工 PVC製 テーブルクロス 直径102cm 厚さ1.5mm テーブルカバー 気泡なし 耐油 耐熱 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0DKJ5S8HJ",
-      "item_name": "AHAZIAH PVC 透明 床保護マット 透明フロアマット チェアマット ダイニングマット 大型デスク足元マット 保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 1.5mm,80*140)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FQM3Y62X",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマットエンボス加工 PVC 床保護マット 200*250cm 厚さ3mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4PCNV83",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 100*270cm 厚さ 1.5mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CQYVTW4C",
-      "item_name": "AHAZIAH ダイニングマット 透明 180×350cm クリアマット 1.5mm厚 エンボス加工 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 11226.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DK56HLPK",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 3mm,150*220)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4NRV27Z",
-      "item_name": "AHAZIAHダイニングマット 透明 床保護マット チェアマット 特大サイズ 超大判 PVC クリアマット フローリング/畳/床暖房対応 傷や汚れからカンタン保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 1mm,100x200cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 9452.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DJPG2MLY",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,120*180)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 13588.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FMS8DKBJ",
-      "item_name": "チェアマット エンボス加工 透明 椅子マット 100*160cm 厚さ1.5mmPVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C74P9VC3",
-      "item_name": "AHAZIAH ダイニングマット 透明 200×240cm クリアマット 2mm厚 エンボス加工 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FW4J8KQH",
-      "item_name": "テーブルマット 円形 透明 エンボス加工 PVC製 テーブルクロス 直径100cm 厚さ1.5mm テーブルカバー 気泡なし 耐油 耐熱 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 5275.0,
-      "t30d_units": 2.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0CCJNL68L",
+      "item_name": "OHCCYML 20個入 画鋲 フック おしゃれ ピンフック 目立たない 石膏ボード フック 跡が残らない 釘フック 壁 傷つけない 耐荷重約5kg 銀 金属 錆びない 額縁/時計/絵画/クリスマス 飾り用/カレンダー/鍵/写真/自宅/オフィス/キッチン/学習室/浴室用など (ブロンズ)",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 37376.26,
+      "t30d_units": 23.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0C74Q2F8V",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 200*250cm 厚さ2mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G2G6M79B",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 80*80cm 厚さ1.5mm 気泡なし 矩形 テーブルカバー 防水 耐油 耐熱 耐摩耗性 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DKHZC2PB",
-      "item_name": "AHAZIAH ダイニングマット 透明 180×350cm クリアマット 1.5mm厚 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C74Q15NY",
-      "item_name": "AHAZIAH ダイニングマット 透明 100×140cm クリアマット 2mm厚 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4PBHVKY",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 80*120cm 厚さ 1.5mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 2363.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C74R146H",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 180*220cm 厚さ 2mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F7WYR8V1",
-      "item_name": "チェアマット エンボス加工 透明 椅子マット 80*120cm 厚さ1.5mm PVC クリア 床保護マット 撥水 汚れ防止 キズ防止 床傷防止 防音 お手入れ簡単 滑り止め プロテクターマット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 2041.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C4NPSKBX",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 140*160cm 厚さ 1mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 3308.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FCBMZCMW",
-      "item_name": "チェアマット エンボス加工 透明 椅子マット 80*150cm 厚さ1.5mm PVC クリア 床保護マット 撥水 汚れ防止 キズ防止 床傷防止 防音 お手入れ簡単 滑り止め プロテクターマット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4JKY34M",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 200*250cm 厚さ 1mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FW4JCN1S",
-      "item_name": "テーブルマット 円形 透明 エンボス加工 PVC製 テーブルクロス 直径110cm 厚さ1.5mm テーブルカバー 気泡なし 耐油 耐熱 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 18622.0,
-      "t30d_units": 7.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0GBX1NKPC",
+      "item_name": "3dシール 立体シール キラキラ 3枚セット ぷっくり ステッカー かわいい ごほうび ステッカー おしゃれ 可愛い 約153点 sticker 貼り付け可能 DIY 手帳 携帯電話飾り スマホケース アルバム 水筒 手芸用品 贈り物 (茶色+黄色+緑)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 2247.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G2G6TBFL",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 75*115cm 厚さ3mm テーブルカバー 気泡なし 耐油 耐熱 汚れ防止 撥水加工",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4PF36YB",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 120*140cm 厚さ 1.5mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 3531.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F7X44NFZ",
-      "item_name": "ダイニングマット エンボス加工 透明 特大サイズ PVC クリア 床保護マット 厚さ1.5mm 200*250cm 床暖房対応 滑り止め 凹み防止 ダイニングテーブル 下に敷くマット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 10872.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0G2G8H374",
-      "item_name": "テーブルマット 円形 透明 エンボス加工 PVC製 テーブルクロス 直径75cm 厚さ2mm テーブルカバー 気泡なし 耐油 耐熱 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DKJDHLSH",
-      "item_name": "AHAZIAH PVC 透明 床保護マット 透明フロアマット チェアマット ダイニングマット 大型デスク足元マット 保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 1.5mm,120*220)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C74QM72B",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 120*120cm 厚さ 2mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4P9QTC9",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,160*200cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 7299.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C193F46Q",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 200*250cm 厚さ1.5mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 22671.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FH22W7JY",
-      "item_name": "AHAZIAH チェアマットマット エンボス加工 ダイニングマット 透明マット 厚さ1mm 160*160cm PVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4PF7SKF",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 120*140cm 厚さ 1.5mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4PCVZFG",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 200*230cm 厚さ 1.5mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 10117.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DKJ3JYCF",
-      "item_name": "AHAZIAH PVC 透明 床保護マット 透明フロアマット チェアマット ダイニングマット 大型デスク足元マット 保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 2mm,120*200)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4JMD8JV",
-      "item_name": "AHAZIAHダイニングマット 透明 床保護マット チェアマット 特大サイズ 超大判 PVC クリアマット フローリング/畳/床暖房対応 傷や汚れからカンタン保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 1mm,180x200cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F7XF2G8Z",
-      "item_name": "チェアマット エンボス加工 透明 椅子マット 90*120cm 厚さ1.5mm PVC クリア 床保護マット 撥水 汚れ防止 キズ防止 床傷防止 防音 お手入れ簡単 滑り止め プロテクターマット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 46479.33,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B0F4L1M5CN",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 75*120 厚さ 3mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 2768.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C4P9MFGH",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,100*180cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 3686.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C4PDK42B",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 140*160cm 厚さ 1.5mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DKJ8H346",
-      "item_name": "AHAZIAH PVC 透明 床保護マット 透明フロアマット チェアマット ダイニングマット 大型デスク足元マット 保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 1mm,130*220)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4P985FL",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 100*270cm 厚さ 1.5mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4NRCLH3",
-      "item_name": "AHAZIAH ダイニングマット 透明 130×160cm クリアマット 1mm厚 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4P8LXS3",
-      "item_name": "AHAZIAH ダイニングマット 透明 200×350cm クリアマット 1.5mm厚 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F7X7MRZX",
-      "item_name": "ダイニングマット エンボス加工 透明 特大サイズ PVC クリア 床保護マット 厚さ1.5mm 200*300cm 床暖房対応 滑り止め 凹み防止 ダイニングテーブル 下に敷くマット",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4PCYKBZ",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,140*220cm)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 6490.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C4NQBP67",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 120*120cm 厚さ 1mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 2799.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BQ6SCR8Z",
-      "item_name": "AHAZIAHダイニングマット 透明 床保護マット チェアマット 特大サイズ 超大判 PVC クリアマット フローリング/畳/床暖房対応 傷や汚れからカンタン保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ1.5mm,200x200cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FMS5CN8Q",
-      "item_name": "チェアマット エンボス加工 透明 椅子マット 75*100cm 厚さ2mmPVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G2G7SFFB",
-      "item_name": "テーブルマット 円形 透明 エンボス加工 PVC製 テーブルクロス 直径110cm 厚さ3mm テーブルカバー 気泡なし 耐油 耐熱 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 5099.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C4PBPR8M",
-      "item_name": "AHAZIAHダイニングマット 透明 床保護マット チェアマット 特大サイズ 超大判 PVC クリアマット フローリング/畳/床暖房対応 傷や汚れからカンタン保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 1.5mm,100x120cm)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 20257.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0C4P9FXFR",
-      "item_name": "AHAZIAH ダイニングマット 透明 140×270cm クリアマット 1.5mm厚 エンボス加工 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 15270.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0C74R6PSC",
-      "item_name": "AHAZIAH ダイニングマット 透明 80×100cm クリアマット 2mm厚 エンボス加工 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BQ6NRQH7",
-      "item_name": "AHAZIAHチェアマット PVC 床保護マット ゲーミングチェアマット90*180cm 透明 厚さ1.5mm 傷防止 すべり止め フローリング フロアシート 保護シート 静電気防止 お手入れ簡単 床暖房対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 3340.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0G2G9WNFT",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 95*150cm 厚さ2mm 気泡なし 矩形 テーブルカバー 防水 耐油 耐熱 耐摩耗性 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4PD1Q37",
-      "item_name": "AHAZIAHダイニングマット 透明 床保護マット チェアマット 特大サイズ 超大判 PVC クリアマット フローリング/畳/床暖房対応 傷や汚れからカンタン保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 1.5mm,120x160cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 3545.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C4PBJRSP",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 200*210cm 厚さ 1.5mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C74S5S22",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 120*120cm 厚さ 2mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 3592.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C4PBWLLK",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,100*200cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 26975.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0FW4K7ZQ1",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 80*120cm 長方形 汚れ防止 厚さ2mm 耐油 汚れ防止 撥水加工 耐熱 耐摩耗性 カスタマイズ可能",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 2726.0,
-      "t30d_units": 1.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0GBWYDL5Z",
+      "item_name": "3dシール 立体シール キラキラ 3枚セット ぷっくり ステッカー かわいい ごほうび ステッカー おしゃれ 可愛い 約181点 sticker 貼り付け可能 DIY 手帳 携帯電話飾り スマホケース アルバム 水筒 手芸用品 贈り物 (ピンク+青+紫)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 5993.95,
+      "t30d_units": 6.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FQN1373Z",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマットエンボス加工 PVC 床保護マット 200*280cm 厚さ3mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FW4MPF97",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 45*90cm 厚さ1.5mm 気泡なし 矩形 テーブルカバー 防水 耐油 耐熱 耐摩耗性 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 21149.7,
-      "t30d_units": 16.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0FD9XM4XS",
+      "item_name": "書類トレー 4+1段 レタートレー 縦置き レターケース a4 書類ケース 組み立て式 積み重ね可能 書類整理 ペン立て付き 小物入れ 卓上収納 ファイルラック メッシュメタル 新聞/雑誌/A4ファイル/フォルダー/書類収納 (ホワイト)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 118056.83,
+      "t30d_units": 43.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FMYSJD6Q",
-      "item_name": "チェアマット 透明 椅子マット 100*160cm 厚さ1.5mmPVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0FWB245J8",
+      "item_name": "シール帳 プラバン 透明 M5サイズ ミニ バインダー 星型ペンダント付き 自由DIY シール手帳 リフィル20枚 詰め替え可能 PPカードポケット クリア 手帳 かわいい プリ帳 推し活 プリクラ おしゃれ バインダー型ノート 女の子（星柄）",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 8922.0,
+      "t30d_units": 13.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F486TW8G",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 3mm,100*100)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C74R2VWC",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 150*200cm 厚さ 2mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F2GN9GPY",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 200*300cm 厚さ1.5mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 46141.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0FBLX93TQ",
-      "item_name": "AHAZIAH ダイニングマット 透明 130×160cm クリアマット 1.5mm厚 エンボス加工 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 3435.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0G2G9GT2W",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 75*140cm 厚さ2mm 気泡なし 矩形 テーブルカバー 防水 耐油 耐熱 耐摩耗性 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4P9RS6K",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 180*180cm 厚さ 1.5mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 6599.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C74R9W93",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 90*140cm 厚さ 2mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4PBR1CZ",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,160*180cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C191LFSX",
-      "item_name": "AHAZIAH ダイニングマット 透明 200×240cm クリアマット 1.5mm厚 エンボス加工 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 429922.08,
-      "t30d_units": 45.0
-    },
-    {
-      "asin": "B0D5H2FCHH",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 3mm,100*120cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G2G8WW2V",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 90*190cm 厚さ1mm テーブルカバー 気泡なし 耐油 耐熱 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4P93L1Y",
-      "item_name": "AHAZIAH ダイニングマット 透明 100×140cm クリアマット 1.5mm厚 エンボス加工 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C1927T5F",
-      "item_name": "AHAZIAHチェアマット PVC 床保護マット ゲーミングチェアマット90*180cm 透明 厚さ1.5mm 傷防止 すべり止め フローリング フロアシート 保護シート 静電気防止 お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 3399.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FMS849HB",
-      "item_name": "PVC製 透明 円形 チェアーマット エンボス加工直径120cm 厚さ1.5mmPVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C74P6732",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 90*140cm 厚さ 2mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4PFLN6V",
-      "item_name": "AHAZIAH ダイニングマット 透明 100×140cm クリアマット 1.5mm厚 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 6648.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FW4MRVC4",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 85*150cm 厚さ1.5mm テーブルカバー 気泡なし 耐油 耐熱 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0FGX5ZZ39",
+      "item_name": "椅子脚カバー フェルト 椅子足カバー 滑るタイプ いすのあしカバー 滑りやすく 取れない 椅子脚キャップ 木製脚用 3本針/両面テープ 二重固定 家具スライダー 椅子の脚 カバー 傷防止 破れない 椅子用 保護パッド 脱げない イス足カバー サイズ選び不要 (ベージュ, 8個)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 7901.0,
+      "t30d_units": 8.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F3WR95FL",
-      "item_name": "PVC ダイニングマット エンボス加工 透明マット 厚さ 1.5mm 120*160cm 特大サイズ フロアマット 椅子 汚れ防止 お手入れ簡単",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BQ6NWHRX",
-      "item_name": "クリアチェアマット 床保護マット 80×135cm 厚さ1.5mm PVC クリアマット 透明マット カーペットプロテクターマット おしゃれ キズ防止 テーブルマットおしゃれ 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G2G95CHZ",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 55*110cm 厚さ5mm 気泡なし 矩形 テーブルカバー 防水 耐油 耐熱 耐摩耗性 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 3999.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FPFLTQ18",
-      "item_name": "AHAZIAH 透明 チェアマットマット エンボス加工 ダイニングマット PVC 床保護マット 200*220cm 厚さ 1.5mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 29773.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0G2G9P46K",
-      "item_name": "テーブルマット 円形 透明 エンボス加工 PVC製 テーブルクロス 直径118cm 厚さ1.5mm テーブルカバー 気泡なし 耐油 耐熱 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4PBHNPS",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 120*120cm 厚さ 1.5mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 11310.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DKJ8HDML",
-      "item_name": "AHAZIAH PVC 透明 床保護マット 透明フロアマット チェアマット ダイニングマット 大型デスク足元マット 保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 2mm,80*140)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FQMQ51TJ",
-      "item_name": "AHAZIAH ダイニングマット 透明 200×240cm 厚さ 3mm エンボス加工PVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4NQZXF6",
-      "item_name": "AHAZIAHダイニングマット 透明 床保護マット チェアマット 特大サイズ 超大判 PVC クリアマット フローリング/畳/床暖房対応 傷や汚れからカンタン保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 1mm,100x180cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FMYSFFJ6",
-      "item_name": "チェアマット 透明 椅子マット 75*100cm 厚さ1.5mmPVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D5H1CQJ8",
-      "item_name": "AHAZIAH チェアマットマット ダイニングマット 透明マット エンボス加工PVC 床保護マット透明 エンボス加工 200*210cm 厚さ 2mm 傷防止 フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FW4N73C9",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 90*165cm 厚さ1.5mm テーブルカバー 気泡なし 耐油 耐熱 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 2977.0,
-      "t30d_units": 1.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0DWDVDM16",
+      "item_name": "書類トレー 4+1段 レタートレー 縦置き レターケース a4 書類ケース 組み立て式 積み重ね可能 書類整理 ペン立て付き 小物入れ 卓上収納 ファイルラック メッシュメタル 新聞/雑誌/A4ファイル/フォルダー/書類収納 (ブラック)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 45805.66,
+      "t30d_units": 13.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F487RJLT",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,160*240)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0FWB579VK",
+      "item_name": "シール帳 プラバン 透明 M5サイズ ミニ バインダー 星型ペンダント付き 自由DIY シール手帳 リフィル20枚 詰め替え可能 PPカードポケット クリア 手帳 かわいい プリ帳 推し活 プリクラ おしゃれ バインダー型ノート 女の子 (透明)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 8068.25,
+      "t30d_units": 12.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FMS8LRTF",
-      "item_name": "チェアマット エンボス加工 透明 椅子マット 120*130cm 厚さ2mmPVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G2G9VJ5L",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 50*70cm 厚さ2mm 気泡なし 矩形 テーブルカバー 防水 耐油 耐熱 耐摩耗性 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C4PC9YKS",
-      "item_name": "AHAZIAH ダイニングマット 透明 190×250cm クリアマット 1.5mm厚 エンボス加工 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DJPDZYXP",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,120*240)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F4H7RNRD",
-      "item_name": "AHAZIAH PVC クリアチェアマット 床保護マット 80×150cm クリアマット 厚さ1.5mm 透明マット ソフト おしゃれ キズ防止保護 敷物 お手入れ簡単 床暖房対応 吸着力強い 滑り止め",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 6687.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DKJ9NKG9",
-      "item_name": "AHAZIAH PVC 透明 床保護マット 透明フロアマット チェアマット ダイニングマット 大型デスク足元マット 保護 チェア 床傷防止 カスタマイズ可能なサイズ (厚さ 1.5mm,120*200)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FMS7K83Z",
-      "item_name": "PVC製 透明 円形 チェアーマット エンボス加工直径90cm 厚さ1.5mmPVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F7X46H8F",
-      "item_name": "チェアマット エンボス加工 透明 椅子マット 90*180cm 厚さ1.5mm PVC クリア 床保護マット 撥水 汚れ防止 キズ防止 床傷防止 防音 お手入れ簡単 滑り止め プロテクターマット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 3152.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C4NRKMKN",
-      "item_name": "AHAZIAH ダイニングマット 透明 100×240cm クリアマット 1mm厚 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FMS69553",
-      "item_name": "チェアマット エンボス加工 透明 椅子マット 130*150cm 厚さ3mmPVC 床保護マット フローリングマット 防水性 汚れ防止 滑り止め お手入れ簡単 床暖房対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F7X5X8JS",
-      "item_name": "チェアマット エンボス加工 透明 椅子マット 100*120cm 厚さ1.5mm PVC クリア 床保護マット 撥水 汚れ防止 キズ防止 床傷防止 防音 お手入れ簡単 滑り止め プロテクターマット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 8669.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0G2G88M5B",
-      "item_name": "テーブルマット 円形 透明 エンボス加工 PVC製 テーブルクロス 直径100cm 厚さ2mm テーブルカバー 気泡なし 耐油 耐熱 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F7X53TQ8",
-      "item_name": "チェアマット エンボス加工 透明 椅子マット 80*100cm 厚さ1.5mm PVC クリア 床保護マット 撥水 汚れ防止 キズ防止 床傷防止 防音 お手入れ簡単 滑り止め プロテクターマット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 15101.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0C4NQQ5TQ",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 80*150cm 厚さ 1mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C74NY9SM",
-      "item_name": "AHAZIAH チェアマット 75*120cm 透明 床保護マット クリアチェアマット 厚み2mm PVC素材 ズレない デスクマット フロアマット チェアシート 保護シート クリアマット 傷防止 すべり止め お手入れ簡単 フローリング 床暖房対応 床を保護 机下 椅子 畳 オフィス",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FW4LPT7K",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 80*150cm 厚さ2mm 気泡なし 矩形 テーブルカバー 防水 耐油 耐熱 耐摩耗性 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 3225.0,
-      "t30d_units": 1.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0CBMQ1SRB",
+      "item_name": "三面鏡 セルフカット 360°角度自在調整 化粧鏡 高さ調節可能 鏡 壁掛け 折りたたみ可能 mirror 5倍拡大鏡付き 3ウェイミラー 後頭部が見える 壁掛けミラー HD鏡面 かがみ 大きい 安定して使い 飛散防止 (ブラック)",
+      "cleaned_suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 66616.56,
+      "t30d_units": 28.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0D5H1T48M",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 2mm,140*240cm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FCBN4V95",
-      "item_name": "ダイニングマット エンボス加工 透明 特大サイズ PVC クリア 床保護マット 厚さ1.5mm 200*350cm 床暖房対応 滑り止め 凹み防止 ダイニングテーブル 下に敷くマット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 13840.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C4JM28VV",
-      "item_name": "AHAZIAH ダイニングマット 透明 200×240cm クリアマット 1mm厚 拭ける PVCマット 床暖房対応 お手入れ簡単加工 カットできる サラっとした手触り 清潔 ハードフロア/畳/フローリング対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 17343.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0C74Q131B",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 180*260cm 厚さ 2mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FWZK62X7",
-      "item_name": "テーブルクロス エンボス加工 透明 PVC製 テーブルマット 85*150cm 厚さ2mm テーブルカバー 気泡なし 耐油 耐熱 汚れ防止 撥水加工",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 9791.0,
-      "t30d_units": 3.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0G5MZMW55",
+      "item_name": "3dシール 立体シール キラキラ 4枚セット ぷっくり ステッカー かわいい ごほうび ステッカー おしゃれ 可愛い 約97点 sticker 貼り付け可能 DIY 手帳 携帯電話飾り スマホケース アルバム 水筒 手芸用品 贈り物 (動物+デザート)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 3496.25,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F2G3MWF8",
-      "item_name": "AHAZIAH PVC ダイニングマット エンボス加工 透明マット 特大サイズ 床を保護するダイニングマット フロアマット オフィスチェアマット デスクパッド クリアマット パソコンデスク 椅子 マット(厚さ 1.5mm,240*400cm)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 33071.0,
-      "t30d_units": 2.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0C9DFW184",
+      "item_name": "ホワイトボード 磁気ラベル マグネットシートラベル 60枚入 10色 磁気ネームプレート マグネットラベル ホワイトボードネームプレート マグネットネームプレートラベル 名札ラベル マグネット 冷蔵庫ラベル 2.9*7.9cm 防水 繰り返し利用 事務所 倉庫 学校 スケジュール管理",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 106172.63,
+      "t30d_units": 57.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0BQ6NQZ7N",
-      "item_name": "AHAZIAHダイニングマット クリア PVC 床 保護シート 200*250cm 厚さ1.5mm 特大サイズ 床を保護するダイニングマット 超大判 フローリングマット 椅子 マット 滑り止め 汚れ防止 床暖房対応 お手入れ簡単.",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0FGX7XCQ5",
+      "item_name": "椅子脚カバー フェルト 椅子足カバー 滑るタイプ いすのあしカバー 滑りやすく 取れない 椅子脚キャップ 木製脚用 3本針/両面テープ 二重固定 家具スライダー 椅子の脚 カバー 傷防止 破れない 椅子用 保護パッド 脱げない イス足カバー サイズ選び不要(ブラウン, 8個)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 3632.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0FD3S4DR7",
+      "item_name": "ホワイトボード 磁気ラベル マグネットシート 60枚入 磁気ネームプレート マグネットネームプレート マグネット 冷蔵庫ラベル 2.9*7.9cm 防水 繰り返し利用 事務所 倉庫 学校 スケジュール管理 (ホワイト)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 184313.88,
+      "t30d_units": 98.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0G3X4F5BS",
+      "item_name": "ケーブルコードラベル 7色35枚入り ケーブルラベル 配線識別 コードタグ 手書き可能 ワイヤ タグ 多様な用途 マジックテープ 再使用可能 配線 整理 データ線 収納 収納ケース付き カラー tag 家庭用 事務用小物",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 10486.0,
+      "t30d_units": 14.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0C6LNF2D4",
+      "item_name": "ファイルラック 6段 卓上収納 ラック 壁掛け デスク 収納 書類整理 書類トレー レタートレー 机の上収納 書類ラック 組み立て不要 新聞/雑誌/A4ファイル/フォルダー/書類入れ メッシュメタル (シルバー)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 50659.74,
+      "t30d_units": 17.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65847688022,
+      "merchant_name": "HuiLing Direct",
+      "asin": "B0FVFFXFPY",
+      "item_name": "3dシール 立体シール キラキラ 3枚セット ぷっくり ステッカー かわいい ごほうび ステッカー おしゃれ 可愛い 約144点 sticker 貼り付け可能 DIY 手帳 携帯電話飾り スマホケース アルバム 水筒 手芸用品 贈り物（紫 + ピンク + 茶色）",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 1430.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

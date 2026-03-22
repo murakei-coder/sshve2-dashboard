@@ -1,40 +1,21 @@
 {
-  "960315630602": [
+  "960320135602": [
     {
-      "asin": "B0DWZSKT6W",
-      "item_name": "NARAGAMI プレミアム ヘアマスク [ 酒粕 エキス(保湿成分)配合 森林浴の香りの ヘアパック ] 洗い流す ヘアトリートメント うねり 傷んだ髪用 シトラスフローラルウッディーの香り (150ml)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 40758.91,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0F61HXM7M",
-      "item_name": "NARAGAMI バスソルト [ 酒粕 エキス(保湿成分)配合 森林浴の香りの 入浴剤 ] にごり 湯タイプ シトラスフローラルウッディーの香り (50g×5包セット)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 156260.95,
-      "t30d_units": 126.0
-    },
-    {
-      "asin": "B0GCCXW8C5",
-      "item_name": "NARAGAMI バスソルト [ 酒粕 エキス(保湿成分)配合 森林浴の香りの 入浴剤 ] にごり 湯タイプ シトラスフローラルウッディーの香り (850g)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 37961.33,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0DQDQQ89L",
-      "item_name": "NARAGAMI 濃密ジェル オールインワンシャンプー リンスインシャンプー シトラスフローラル ウッディー の香り[ 酒粕 エキス(保湿成分)配合 森林浴の香りの アロマシャンプー ] (300ml)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 292100.22,
-      "t30d_units": 88.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 960320135602,
+      "merchant_name": "Mossey 直販店",
+      "asin": "B0FQP1132L",
+      "item_name": "SPOSING アイウォーマー ホットアイマスク 充電式【AIモデル！音声制御機能が搭載】Bluetooth音楽再生 目元エステ 2段階調整 4つモード「加熱+空気圧+振動」アイケア 液晶ディスプレイ 折り畳み式 自動オフタイマー 簡単操作 ライト調整 簡単操作 男女兼用 USB-C充電式 日本語説明書",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 125588.0,
+      "t30d_units": 25.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

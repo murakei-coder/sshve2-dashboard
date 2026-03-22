@@ -1,94 +1,21 @@
 {
-  "887359877102": [
+  "887388923302": [
     {
-      "asin": "B0DXKCZSDC",
-      "item_name": "スジャータ めいらく アサイーブレンド 1000ml×6本",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 211992.0,
-      "t30d_units": 62.0
-    },
-    {
-      "asin": "B0FBWLFL3D",
-      "item_name": "[スジャータめいらく] TEBES ミルキーホワイト 330ml W プロテイン ドリンク エナジードリンク 栄養補助食品 完全栄養食 ドリンク（12本入）",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 41168.33,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0DK4SV5K4",
-      "item_name": "スジャータ めいらく ざくろ エラグ酸＆プニカ酸 約1ヶ月分",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 143528.0,
-      "t30d_units": 38.0
-    },
-    {
-      "asin": "B0DYCHPVTC",
-      "item_name": "スジャータめいらく アサイー 本格濃厚ブレンド 330ml (12本入)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 232362.0,
-      "t30d_units": 77.0
-    },
-    {
-      "asin": "B0DMS1XL95",
-      "item_name": "スジャータ めいらく 有機野菜100％ 1000ml×6本",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 291762.66,
-      "t30d_units": 78.0
-    },
-    {
-      "asin": "B0DMS3TW48",
-      "item_name": "スジャータ めいらく ホテルレストラン仕様コーヒー 無糖 1000ml×6本",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 869248.62,
-      "t30d_units": 338.0
-    },
-    {
-      "asin": "B0FCSLZVFP",
-      "item_name": "[スジャータめいらく] TEBES ミルキーピーチ 330ml W プロテイン ドリンク エナジードリンク 栄養補助食品 完全栄養食 ドリンク（12本入）",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 181762.99,
-      "t30d_units": 52.0
-    },
-    {
-      "asin": "B0DMV5GX5T",
-      "item_name": "スジャータ めいらく 特濃ざくろ100 125ml×12本",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 905222.22,
-      "t30d_units": 420.0
-    },
-    {
-      "asin": "B0DMS7L4JL",
-      "item_name": "スジャータ めいらく 赤葡萄 1000ml ×6本入",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 380719.55,
-      "t30d_units": 104.0
-    },
-    {
-      "asin": "B0DCJXRBMH",
-      "item_name": "スジャータ めいらく ざくろ100％ 1000ml×6本",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 2568987.24,
-      "t30d_units": 667.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 887388923302,
+      "merchant_name": "AMGGJP-贩卖店[誠実なサービス]",
+      "asin": "B0FTX6GVDQ",
+      "item_name": "シール帳 透明 女の子 台紙 プラバン M5 サイズ はがせる 5穴 シール シール手帳 クリアバインダー シール収納 写真収納 推し活グッズ 3層構造PPシート​（シール帳×1個 透明リフィル20枚＋可愛い立体シールセット×1枚＋カラーリフィル6枚） (ライトブルー)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 337618.59,
+      "t30d_units": 483.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

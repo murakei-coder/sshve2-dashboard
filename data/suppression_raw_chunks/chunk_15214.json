@@ -1,40 +1,38 @@
 {
-  "1078585198702": [
+  "1078624242602": [
     {
-      "asin": "B0FXFDG7ZZ",
-      "item_name": "SAVEWO UniPlug GaN搭載 35W PD3.0 急速充電器 海外旅行用 変換プラグ USB-C×3 USB-A×2 世界200カ国対応 軽量コンパクト設計 旅行用コンセントアダプター iPhone Android Switch タブレット ノートPC対応 安全保護機能付き トラベルアダプター(グリーン, 35)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1078624242602,
+      "merchant_name": "KOUZU - 構図",
+      "asin": "B0F7RVQGWC",
+      "item_name": "KOUZU 三脚 カーボン カメラ三脚 雲台セット コンパクト 超軽量 4段 トラベル KQ254C KC02 1.66kg 168cm 25mmパイプ径 10Kg耐荷重 収納43cm ハイアマ向け 撮影用 一脚可変 収納バッグ付き (三脚+雲台)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FY229S7J",
-      "item_name": "SAVEWO JetFan X 掌上型 強力ジェットファン 180W超高出力 83m/s暴風パワー 8段風速調節 吹き＆吸引2モード LED表示 軽量251g 多機能ノズル9種付き ブラック (ブラック)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 7480.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0G1T252Q4",
-      "item_name": "SAVEWO UniPlug GaN搭載 100W PD3.0 急速充電器 海外旅行用 変換プラグ USB-C×3 USB-A×2 世界200カ国対応 軽量コンパクト 旅行用コンセントアダプター MacBook iPhone Android Switch ノートPC対応 安全保護設計 高出力トラベルアダプター (スペースグレイ, 100S)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 34920.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0F8Q4KF3W",
-      "item_name": "SAVEWO UniPlug PD3.1 140W GaN搭載 急速充電器 世界対応 変換プラグ USB-C×3 USB-A×2 ACコンセント付き 7台同時充電 200カ国対応 トラベルアダプター Type-C 140W 高出力 MacBook iPhone Android Switch 旅行用 収納ケース付き 安全保護機能付き(ブラック, 140)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1078624242602,
+      "merchant_name": "KOUZU - 構図",
+      "asin": "B0F7RWGWM8",
+      "item_name": "KOUZU 三脚 カーボン カメラ三脚 コンパクト 超軽量 4段 トラベル KQ254C 1.28kg 159cm 25mmパイプ径 10Kg耐荷重 収納43cm ハイアマ向け 撮影用 一脚可変 収納バッグ付き (三脚単体)",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

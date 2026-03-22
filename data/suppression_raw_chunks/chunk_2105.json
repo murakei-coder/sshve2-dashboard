@@ -1,22 +1,38 @@
 {
   "6554773055": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 6554773055,
+      "merchant_name": "VALANROSE公式ショップ",
       "asin": "B08P6Y6Z63",
       "item_name": "白髪染め シャンプー カラートリートメント バランローズ KURO VALANROSE クロクリームシャンプー ダークブラウン (濃い茶色) 400g 単品 【1本6役の自宅白髪ケア】メンズ レディース 白髪用 カラー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 13852441.91,
-      "t30d_units": 2404.0
+      "t30d_units": 2404.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 6554773055,
+      "merchant_name": "VALANROSE公式ショップ",
       "asin": "B09XHKLB2R",
       "item_name": "白髪ケア カラーシャンプートリートメント 白髪染め バランローズ KUROクリームシャンプー 単品 400g ナチュラルブラック(自然な黒色)【1本6役の自宅白髪ケア】 VALANROSE メンズ レディース ヘアマニキュア",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 12643149.38,
-      "t30d_units": 2182.0
+      "t30d_units": 2182.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

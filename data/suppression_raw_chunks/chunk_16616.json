@@ -1,103 +1,55 @@
 {
-  "1151854227102": [
+  "1151936418102": [
     {
-      "asin": "B0G3WBMP1P",
-      "item_name": "XKI-N20 XKI-N21 キヤノン用 XKI-N21(BK/C/M/Y)+N20/5MP 5色10本セット ZQXTOINK 互換 インクカートリッジ Canon対応 XK510 XK140 XK100 XK110 XK120 XK130 XK500",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 328053.29,
-      "t30d_units": 108.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1151936418102,
+      "merchant_name": "ソニダ直営店",
+      "asin": "B0G47T3YV2",
+      "item_name": "ナイトライト 授乳ライト ベッドサイドランプ コンセントライト 2色切替 即插即用 小型 常夜灯 足元灯 省エネ 間接照明 寝室/廊下/玄関/和室/リビング適用 やさしい光 按键操作 (粉色本体)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 59523.0,
+      "t30d_units": 40.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G199VD3L",
-      "item_name": "LC416XL ブラザー用 LC416 インク の増量タイプ 4色5本セット LC416XLBK LC416XLC LC416XLM LC416XLY ZQXTOINK製 互换インクカートリッジ Brother対応 MFC-J4940DN DCP-J4143N DCP-J4140N MFC-J4540N MFC-J4543N MFC-J4443N MFC-J4440N",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1151936418102,
+      "merchant_name": "ソニダ直営店",
+      "asin": "B0G47VG422",
+      "item_name": "ナイトライト 授乳ライト ベッドサイドランプ コンセントライト 2色切替 即插即用 小型 常夜灯 足元灯 省エネ 間接照明 寝室/廊下/玄関/和室/リビング適用 やさしい光 按键操作 (白色本体)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 127054.23,
+      "t30d_units": 85.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G6CMHX1M",
-      "item_name": "KNI-6CL-L エプソン用 カニ インク KNI の増量タイプ 6色7本セット ZQXTOINK製 互換インクカートリッジ EPSON対応 EP-887AB EP-887AP EP-887AW",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 30579.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0G1BQ7TP5",
-      "item_name": "TS7530 インク キャノン用 BCI-301+300/5MP ＋ BCI-300 2本 大容量 ZQXTOINK 互換インクカートリッジ ts7530 対応の Canon用 301 300 5色7本セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 19363.8,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0G1RWHZ78",
-      "item_name": "IB09CL4B x2 4色8本セット EPSON用 インク IB09KB/CB/MB/YB 電卓 純正と併用可 大容量 ZQXTOINK 互換インクカートリッジ エプソン対応機種 PX-M730F PX-S730",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 26810.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0G6CQ8N14",
-      "item_name": "エプソン用 KAK-6CL カキゴオリ インク 6色セット+ ブラック 1本 互換インク KAK-BK/KAK-C/KAK-M/KAK-Y/KAK-LC/KAK-LM Epson対応 EP-717A EP-817A",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 72407.25,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B0GF7RN4G3",
-      "item_name": "LC411BK 顔料 Brother用 LC411 インク ブラック 4本セット ブラザー対応 DCP J528N / J928N / J905N / J526N / J914N MFC J739DN / J904N / J739DWN / J939DN など 互換インクカートリッジ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 89020.66,
-      "t30d_units": 44.0
-    },
-    {
-      "asin": "B0G1RTDLLV",
-      "item_name": "BCI-330XL BCI-331XL キャノン用 インク 331 330 大容量 6色12本セット ZQXTOINK 互換 インクカートリッジ Canon対応 TS7630 TS8930 TS8830 TS8730 TS8630 TS8530 インク",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 95246.66,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B0G3WGMZGB",
-      "item_name": "BCI-380XL BCI-381XL キャノン用 インク 381 380 大容量 6色12本セット ZQXTOINK 互換 インクカートリッジ Canon対応 TS8130 TS8230 TS8330 TS8430",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 21101.33,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0G5YL2M82",
-      "item_name": "SAT(サツマイモ) エプソン用 SAT-6CL インク さつまいも 大容量 互換インク epson対応 EP-816A EP-716A EP-715A EP-815A EP-712A EP-713A EP-714A EP-812A EP-813A EP-814A",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 79792.5,
-      "t30d_units": 43.0
-    },
-    {
-      "asin": "B0GD784S5H",
-      "item_name": "キヤノン用 BCI-380XL 381XL 互換インクカートリッジ BCI-381+380/5MP 増量10本セット Canon対応 TS6330 7430 8130 8230 8430 TR7530 9530 など 大容量 インク 381 380",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 26164.33,
-      "t30d_units": 9.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1151936418102,
+      "merchant_name": "ソニダ直営店",
+      "asin": "B0G47FXM1C",
+      "item_name": "360°やさしい光 ナイトライト コンセント式｜三色切替・無段階調光・15/30/60分タイマー｜リモコン付き・本体操作対応｜寝室用 授乳用 ベッドサイド用 省エネ 工事不要",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 115321.78,
+      "t30d_units": 48.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

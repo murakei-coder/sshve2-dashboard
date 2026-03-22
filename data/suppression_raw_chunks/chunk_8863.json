@@ -1,931 +1,140 @@
 {
-  "68132191422": [
+  "68135786622": [
     {
-      "asin": "B0D4YF3VB3",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ブロッサム BIコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 34870.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B09RPVMTQK",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト JSコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 92454.66,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B09RPNVCWQ",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト JEコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 133748.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0FF3W9F1K",
-      "item_name": "カタログギフト EXETIME VIOLET エグゼタイム 体験 旅行 内祝い 快気祝い 百貨店 結婚 誕生日 出産内祝い 結婚祝い 結婚式 引き出物 お返し 新築祝い 昇進祝い ギフトカタログ グルメ 雑貨 西武 そごう",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 16302.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F7XG5LLL",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ありがとう熨斗 JC",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 22660.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F29PSSG3",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト e.ごっつお便 カードタイプ KLコース 熨斗付",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FM3GN1JM",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト 3000円コース 3000円 ギフト おいしさプチ便 JY",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 22440.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0F2953PF4",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト JGコース 熨斗付",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BZBWXRDT",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ハートフルコンシェルジュ LSコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 64580.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F7XJHLW4",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ありがとう熨斗 JN",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0BZBQQJ7N",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ハートフルコンシェルジュ DSコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 9680.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B09RPRCVH5",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト e.ごっつお便 カードタイプ KCコース",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 11550.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B09RP8HMY4",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト e.ごっつお便 カードタイプ KBコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F7XQV7KH",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト おめでとう熨斗 JT",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 14602.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0BZBZSDM1",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ハートフルコンシェルジュ HSコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 207420.0,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0F29RV8HS",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト e.ごっつお便 カードタイプ KAコース 熨斗付",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D4YK5FZ6",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ブロッサム BAコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 65758.0,
-      "t30d_units": 22.0
-    },
-    {
-      "asin": "B0D4YGH2QG",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ブロッサム BCコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B09RPC43TS",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト JNコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 152041.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B09RP8PCYP",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト e.ごっつお便 カードタイプ KSコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 8800.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D977N43M",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト 日本ものがたり GJコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D4YMB1LQ",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ブロッサム BJコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F7XRHX4F",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト おめでとう熨斗 JA",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 5830.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BZBPKCVF",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ハートフルコンシェルジュ CSコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CH9LSZT1",
-      "item_name": "ごっつお便 西武 そごう 百貨店 香典返し カタログギフト のし付き 志 法事のお返し 法事 引き出物 MGコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F7XFTJP6",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ありがとう熨斗 JS",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 13860.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0C275VH2G",
-      "item_name": "ごっつお便 西武 そごう 百貨店 香典返し カタログギフト のし付き 志 法事のお返し 法事 引き出物 MTコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 629885.0,
-      "t30d_units": 127.0
-    },
-    {
-      "asin": "B0DYNWLW19",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト JLコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 26812.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0BZBWQBLV",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ハートフルコンシェルジュ JSコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 201160.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0FF3ZR45S",
-      "item_name": "カタログギフト EXETIME GREEN エグゼタイム 体験 内祝い 快気祝い 百貨店 結婚 誕生日 出産内祝い 結婚祝い 結婚式 引き出物 お返し 新築祝い 昇進祝い ギフトカタログ グルメ 雑貨 西武 そごう",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BZBC54KP",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ハートフルコンシェルジュ GSコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 29370.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0BW47WX7T",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト e.ごっつお便 カードタイプ KGコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FF3WVDWN",
-      "item_name": "カタログギフト EXETIME PLATINUM 30 エグゼタイム 体験 旅行 内祝い 快気祝い 百貨店 結婚 誕生日 出産内祝い 結婚祝い 結婚式 引き出物 お返し 新築祝い 昇進祝い ギフトカタログ グルメ 雑貨 西武 そごう",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C272H1R7",
-      "item_name": "ごっつお便 西武 そごう 百貨店 香典返し カタログギフト のし付き 志 法事のお返し 法事 引き出物 MCコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 169383.0,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0DYNWG215",
-      "item_name": "ごっつお便 西武 そごう 百貨店 香典返し カタログギフト のし付き 志 法事のお返し 法事 引き出物 MLコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 163624.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0FF3ZQHTF",
-      "item_name": "カタログギフト EXETIME ORANGE エグゼタイム 体験 旅行 内祝い 快気祝い 百貨店 結婚 誕生日 出産内祝い 結婚祝い 結婚式 引き出物 お返し 新築祝い 昇進祝い ギフトカタログ グルメ 雑貨 西武 そごう",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F292MSMM",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト JAコース 熨斗付",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 29150.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0FF3XHLM3",
-      "item_name": "カタログギフト EXETIME PLATINUM 10 エグゼタイム 体験 旅行 内祝い 快気祝い 百貨店 結婚 誕生日 出産内祝い 結婚祝い 結婚式 引き出物 お返し 新築祝い 昇進祝い ギフトカタログ グルメ 雑貨 西武 そごう",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BZB8F4BP",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ハートフルコンシェルジュ MSコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 487110.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0FLJLML3V",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト 3000円コース 3000円 ギフト おめでとう熨斗 おいしさプチ便 JY",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 3553.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BZBSP276",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ハートフルコンシェルジュ ESコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 328490.0,
-      "t30d_units": 64.0
-    },
-    {
-      "asin": "B09RPQKSRP",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト e.ごっつお便 カードタイプ KAコース",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0D4YMB1LP",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ブロッサム BGコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BZBRCSDN",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ハートフルコンシェルジュ 香典返し MASコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F29113R5",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト JBコース 熨斗付",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 8673.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B09RPP7VRH",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト JTコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 277208.99,
-      "t30d_units": 56.0
-    },
-    {
-      "asin": "B0D4Y741T2",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ブロッサム BDコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 31451.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0BZBXF8S6",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ハートフルコンシェルジュ 香典返し ＭHSコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F29RBCZ1",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト e.ごっつお便 カードタイプ KBコース 熨斗付",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F292YH65",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト JDコース 熨斗付",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 22330.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0D4YTVB27",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ブロッサム BEコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 10560.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FF3V8M1S",
-      "item_name": "カタログギフト EXETIME PINK エグゼタイム 体験 内祝い 快気祝い 百貨店 結婚 誕生日 出産内祝い 結婚祝い 結婚式 引き出物 お返し 新築祝い 昇進祝い ギフトカタログ グルメ 雑貨 西武 そごう",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FF3XNL7N",
-      "item_name": "カタログギフト EXETIME GOLD エグゼタイム 体験 旅行 内祝い 快気祝い 百貨店 結婚 誕生日 出産内祝い 結婚祝い 結婚式 引き出物 お返し 新築祝い 昇進祝い ギフトカタログ グルメ 雑貨 西武 そごう",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 164197.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0C272JDHF",
-      "item_name": "ごっつお便 西武 そごう 百貨店 香典返し カタログギフト のし付き 志 法事のお返し 法事 引き出物 MNコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 353430.0,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B0FF411GN3",
-      "item_name": "カタログギフト EXETIME PLATINUM 20 エグゼタイム 体験 旅行 内祝い 快気祝い 百貨店 結婚 誕生日 出産内祝い 結婚祝い 結婚式 引き出物 お返し 新築祝い 昇進祝い ギフトカタログ グルメ 雑貨 西武 そごう",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D4Y5NDV6",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ブロッサム BFコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0C274C7MG",
-      "item_name": "ごっつお便 西武 そごう 百貨店 香典返し カタログギフト のし付き 志 法事のお返し 法事 引き出物 MAコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 148660.0,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B0C272JBDQ",
-      "item_name": "ごっつお便 西武 そごう 百貨店 香典返し カタログギフト のし付き 志 法事のお返し 法事 引き出物 MDコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 244513.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0D4XZT1M7",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ブロッサム カードタイプ BAコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 15246.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0F292K85F",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト JSコース 熨斗付",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BZBXLMPC",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ハートフルコンシェルジュ 香典返し ＭGSコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D4XZJWC3",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ブロッサム BHコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F7XS2ZPR",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト おめでとう熨斗 JB",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 9273.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0D4YFNGP8",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ブロッサム BLコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F7XHJSK8",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ありがとう熨斗 JT",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 14850.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B09RPFNPH5",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト JAコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 164509.0,
-      "t30d_units": 28.0
-    },
-    {
-      "asin": "B0C276VRYC",
-      "item_name": "ごっつお便 西武 そごう 百貨店 香典返し カタログギフト のし付き 志 法事のお返し 法事 引き出物 MBコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 201003.0,
-      "t30d_units": 22.0
-    },
-    {
-      "asin": "B0C274R48N",
-      "item_name": "ごっつお便 西武 そごう 百貨店 香典返し カタログギフト のし付き 志 法事のお返し 法事 引き出物 MSコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 115269.0,
-      "t30d_units": 25.0
-    },
-    {
-      "asin": "B0F7XQV6XV",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト おめでとう熨斗 JC",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B09RP782X6",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト JBコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 82170.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0F7XGTZKP",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ありがとう熨斗 JB",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 18260.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0BZBSP1FS",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ハートフルコンシェルジュ KSコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 28490.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BZBNLNJV",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ハートフルコンシェルジュ 香典返し MDSコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BZBKTVSV",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ハートフルコンシェルジュ 香典返し ＭJSコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F7XS1VXT",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト おめでとう熨斗 JS",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 4620.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BZBRN2K1",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ハートフルコンシェルジュ ASコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 15790.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0BZBNYFM5",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ハートフルコンシェルジュ 香典返し ＭLSコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09RP7676Z",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト JGコース",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 55615.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F291GJSV",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト JLコース 熨斗付",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 13750.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BZBSDR5T",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ハートフルコンシェルジュ FSコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BZC55D56",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ハートフルコンシェルジュ ISコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 16615.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F7XRT1CL",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト おめでとう熨斗 JL",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F28ZQJS7",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト JTコース 熨斗付",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 9900.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B09RPGQTCM",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフトJCコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 339484.9,
-      "t30d_units": 30.0
-    },
-    {
-      "asin": "B0D4Y9D23K",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ブロッサム カードタイプ BHコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FM3R4JQQ",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト 3000円コース 3000円 ギフト ありがとう熨斗 おいしさプチ便 JY",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0F7XJQQBH",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ありがとう熨斗 JL",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 13750.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B09RPVMH27",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト e.ごっつお便 カードタイプ KNコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 16500.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FF3ZRSJT",
-      "item_name": "カタログギフト EXETIME SILVER エグゼタイム 体験 旅行 内祝い 快気祝い 百貨店 結婚 誕生日 出産内祝い 結婚祝い 結婚式 引き出物 お返し 新築祝い 昇進祝い ギフトカタログ グルメ 雑貨 西武 そごう",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 201960.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0F29QXFZB",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト e.ごっつお便 カードタイプ KNコース 熨斗付",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F293LKS4",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト JEコース 熨斗付",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 33330.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F29QMWCG",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト e.ごっつお便 カードタイプ KCコース 熨斗付",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D4YF3VTX",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ブロッサム カードタイプ BEコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D4YV11X1",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ブロッサム BBコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 18150.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0F7XJCQGZ",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト ありがとう熨斗 JA",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 11660.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DYP27M4K",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト e.ごっつお便 カードタイプ KLコース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C274P8BZ",
-      "item_name": "ごっつお便 西武 そごう 百貨店 香典返し カタログギフト のし付き 志 法事のお返し 法事 引き出物 MEコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 99990.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0F29RW41N",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト e.ごっつお便 カードタイプ KTコース 熨斗付",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0F7XQL8RJ",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト おめでとう熨斗 JN",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 17115.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B09RP6VXH9",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト e.ごっつお便 カードタイプ KTコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 68135786622,
+      "merchant_name": "Newq Store",
+      "asin": "B0DZ2J6Y83",
+      "item_name": "ドッキングステーション hdmi 2つ 4k: NewQ 12 in 1 TypeC ハブ ラップトップ ドッキングステーション HDMI 4k 60Hz-30Hz、4*USB-A、USB-C、オーディオ、イーサネット、SD/TF リーダー、PD in 100W Power Delivery、MacBook Pro Air、HP、Dell、Lenovo、Aus、Acerなど用 (青い)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 350590.0,
+      "t30d_units": 40.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F28ZNXV3",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフトJCコース 熨斗付",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 11330.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 68135786622,
+      "merchant_name": "Newq Store",
+      "asin": "B0DR8T2KX1",
+      "item_name": "NewQ USB ハブ Type-C Type-A 両方 4ポート2* USB-C 3.0と2* USB-A 3.0 データ転送 軽量 変換アダプター 4 in 1 Type-C 拡張ハブ 増設 コンピュータアクセサリ用の超薄型ポータブルUSBスプリッタアダプ、タラップトップ、PS4、フラッシュドライブ、HDD、Xbox、プリンタ、マウス、キーボード",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 258546.44,
+      "t30d_units": 143.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B09RPB4NVF",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト JDコース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 156595.0,
-      "t30d_units": 7.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 68135786622,
+      "merchant_name": "Newq Store",
+      "asin": "B0DRNSZ5B3",
+      "item_name": "NewQ USB-C ハブ 長さ 2 フィートのケーブル 4ポート2* USB-C 3.0と2* USB-A 3.0 データ転送 軽量 変換アダプター 4 in 1 Type-C 拡張ハブ 増設 コンピュータアクセサリ用の超薄型ポータブルUSBスプリッタアダプ、タラップトップ、PS4、フラッシュドライブ、HDD、Xbox、プリンタ、マウス、キーボード",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 85348.19,
+      "t30d_units": 41.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F292RGQS",
-      "item_name": "ごっつお便 西武 そごう 百貨店 カタログギフト JNコース 熨斗付",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 33660.0,
-      "t30d_units": 2.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 68135786622,
+      "merchant_name": "Newq Store",
+      "asin": "B0D8SZ3MC9",
+      "item_name": "NewQ USB Cモニターハブ - ノートPCへの逆給電対応 & ポータブルディスプレイ給電、4K@60Hz出力、USB-C 3.2 Gen2 10Gbps×4ポート、100W PD充電、Displayケーブル付属",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 303661.26,
+      "t30d_units": 38.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 68135786622,
+      "merchant_name": "Newq Store",
+      "asin": "B0FMFDLD3Z",
+      "item_name": "ドッキングステーション hdmi 2つ 4k: NewQ 12 in 1 TypeC ハブ ラップトップ ドッキングステーション HDMI 4k 60Hz-30Hz、4*USB-A、USB-C、オーディオ、イーサネット、SD/TF リーダー、PD in 100W Power Delivery、MacBook Pro Air、HP、Dell、Lenovo、Aus、Acerなど用 (青い 100W)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 68135786622,
+      "merchant_name": "Newq Store",
+      "asin": "B0CD24L71W",
+      "item_name": "iPad ハブ スタンド 11-in-1 ドッキングステーション 4K@60Hz HDMI、RJ45ギガビット有線LAN、SD/TFカードリーダー、USB-A 3.0×3、USB-C PD給電ポート付き iPad Pro/iPad Air/Steam Deck/ROG Ally/Samsung Galaxy Tab/Xiaomi/Redmi/Androidタブレット対応,アダプターなし",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 83905.0,
+      "t30d_units": 11.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 68135786622,
+      "merchant_name": "Newq Store",
+      "asin": "B0FMF39X4Y",
+      "item_name": "USB Cハブスタンド(11イン1)iPad/Pro、Steam Deck、ROG Ally、Samsung、ラップトップなど用。折り畳み可能で360度回転型ドッキングステーション、SD TF 4.0リーダー、4K@60Hz HDMI、RJ45、オーディオ、3USB-Aポート、USB-Cポート付き (100Wアダプター付き)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 12349.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 68135786622,
+      "merchant_name": "Newq Store",
+      "asin": "B0F1T9F61K",
+      "item_name": "NewQ USB Cモニターハブ 8-in-1 – USB-C PD給電 & ポータブルディスプレイ対応 トリプルディスプレイ出力（1×HDMI + 2×DP Alt）、4K@60Hz、Thunderbolt対応、10Gbps×6ポート、SD4.0",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": -15198.0,
+      "t30d_units": -2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

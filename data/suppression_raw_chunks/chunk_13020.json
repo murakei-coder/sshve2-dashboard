@@ -1,13 +1,55 @@
 {
-  "820473065802": [
+  "820478608902": [
     {
-      "asin": "B0CMGDZJ4T",
-      "item_name": "USB C ケーブル TYPE-C 2M+2M 急速充電【PD対応 60W/2本セット】USBC & USBC けーぶる データ転送 高耐久性 断線防止 映像出力不可 USB Type C ケーブル iPhone 16/15シリーズ、iPad Pro/Air、Galaxy S24、AQUOS sense8、OPPO、Xiaomi、Google Pixel、SONYなどUSB C機種対応",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 2274.0,
-      "t30d_units": 3.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 820478608902,
+      "merchant_name": "Ybs Store",
+      "asin": "B0DWJGNXZS",
+      "item_name": "ロボット掃除機 2800Pa 強力吸引 お掃除クリーナー 音量調節 静音 120分間 WiFi App対応 リモコン遠隔操作 Alexa対応 自動充電 落下防止 衝突センサー 自動掃除機 AIRROBO (ブラック-パターン2)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 14990.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 820478608902,
+      "merchant_name": "Ybs Store",
+      "asin": "B0DWJJZPWF",
+      "item_name": "ロボット掃除機 2800Pa 強力吸引 お掃除クリーナー 音量調節 静音 120分間 WiFi App対応 リモコン遠隔操作 Alexa対応不可 自動充電 落下防止 衝突センサー 自動掃除機 AIRROBO (ディープブラック)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 181920.0,
+      "t30d_units": 15.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 820478608902,
+      "merchant_name": "Ybs Store",
+      "asin": "B0BCVZ7B29",
+      "item_name": "加湿器 大容量 卓上 おしゃれ 加湿量最大300ml/h 4.3L 超音波式 26dB 静音 43時間連続稼働 上から給水 自動電源オフ付き ミスト量3段階調整 お手入れ簡単 加湿機 AIRROBO(エアロボ) (ホワイト)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 115011.0,
+      "t30d_units": 31.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

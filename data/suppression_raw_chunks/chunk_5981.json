@@ -1,1138 +1,378 @@
 {
-  "26317755222": [
-    {
-      "asin": "B0DTNYN299",
-      "item_name": "[ハッシュパピー] 折り財布 ファスナー ミドルウォレット メンズ レディース ユニセックス 大容量 カードがたくさん入る 多収納 おしゃれ 本革 牛革 やわらかい 使いやすい かっこいい 味が出る ギフト プレゼント ブランド",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 19734.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FVL3KFFP",
-      "item_name": "Hush Puppies イタリアンレザー ベジタブルタンニンなめし ガバッと開くマルチケース 小銭入れ 本革 牛革 大人 おしゃれ ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 5500.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0D9NF15CX",
-      "item_name": "[キャプテンスタッグ] 二つ折り 折り財布 スマート トリコロール メンズ (イエロー)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DP8K7J51",
-      "item_name": "GoldenBear ジャパンレザー 日本の革 牛革 本革 折り財布 ミドルウォレット ファスナー アウトポケット ゴールデンベア",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 6380.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GH7PR1FG",
-      "item_name": "Hush Puppies ビッグ イントレチャート ラウンドファスナー 長財布 ゴールド レザー マイクロファイバー YKK ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 6578.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F8VF9821",
-      "item_name": "Hush Puppies 長財布 ラウンドファスナー グラデーション ハンドメイド 職人技 レディース ユニセックス 大容量 カードがたくさん入る 多収納 おしゃれ 本革 牛革 やわらかい 使いやすい かわいい ギフト プレゼント ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DP8JGHD7",
-      "item_name": "CAPTAIN STAG コンパクト ファスナー マルチケース コインケース 小銭入れ アウトポケット 袋縫い メンズ レディース ユニセックス キャプテンスタッグ (ブルーグリーン)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DTP7GGYL",
-      "item_name": "Hush Puppies 小銭入れ ラウンドファスナー メンズ レディース ユニセックス ガバッと開く 小銭が見やすい 多収納 おしゃれ ミニ ミニマリスト 本革 牛革 やわらかい 使いやすい かっこいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DTPCCRDY",
-      "item_name": "Hush Puppies コロンとした 折り財布 ラウンドファスナー シャドー仕上げ レディース ユニセックス 大容量 カードがたくさん入る 多収納 おしゃれ やわらかい 使いやすい かわいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 8756.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GGZ9DV36",
-      "item_name": "お洒落なインナー バイカラー 防水レザー サフィアーノレザー 2トーン SDGs リサイクル 生地 かっこいい メンズ 財布 二つ折り 折り財布",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 6800.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F1D1112Z",
-      "item_name": "[Rubacuori] 国産 姫路 スムースレザー 本革 牛革 レザー ベルト メンズ 日本製 スーツ ジーンズ ビジネス カジュアル フリーサイズ ブランド おしゃれ 日本の職人 スムースレザー（チョコ）",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 3980.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FVLVX7Q5",
-      "item_name": "Hush Puppies レザーのカシミヤ 柔らかくしなやかな ディアスキン 長財布 大容量 本革 牛革 大人 おしゃれ ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GH7G3JQZ",
-      "item_name": "財運 金運アップ 縁起財布 馬革 ゴールデンベア ホースシュー 馬蹄 長財布 本革 高級 ブラック チョコ ゴールド",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 6380.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FVLWSVHV",
-      "item_name": "Hush Puppies イタリアンレザー ベジタブルタンニンなめし ミドルウォレット 大容量 本革 牛革 大人 おしゃれ ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F8VDWRW1",
-      "item_name": "Hush Puppies 長財布 ラウンドファスナー グラデーション ハンドメイド 職人技 レディース ユニセックス 大容量 カードがたくさん入る 多収納 おしゃれ 本革 牛革 やわらかい 使いやすい かわいい ギフト プレゼント ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 13768.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DTP8NYNZ",
-      "item_name": "[ハッシュパピー] コロンと小さい 小銭入れ ラウンドファスナー シャドー仕上げ レディース ユニセックス 大容量 カードがたくさん入る 多収納 おしゃれ やわらかい 使いやすい かわいい 味が出る ギフト プレゼント ブランド",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 3278.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0D9NCFQWK",
-      "item_name": "[キャプテンスタッグ] ミドルウォレット 折り財布 大容量 トリコロール メンズ レディース ユニセックス",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F1D226TZ",
-      "item_name": "[Rubacuori] 国産 姫路 角シボレザー 本革 牛革 レザー ベルト メンズ 日本製 スーツ ジーンズ ビジネス カジュアル フリーサイズ ブランド おしゃれ 日本の職人 角シボレザー（ブラック）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 21994.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0DP8KTXXH",
-      "item_name": "GoldenBear ジャパンレザー 日本の革 牛革 本革 折り財布 二つ折り アウトポケット ゴールデンベア",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GGZFDFDD",
-      "item_name": "お洒落なインナー バイカラー 防水レザー サフィアーノレザー 2トーン SDGs リサイクル 生地 かっこいい メンズ マルチウォレット 小銭入れ 財布 ファスナー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DP8HX8Y9",
-      "item_name": "[キャプテンスタッグ] ファスナー 折り財布 ミドルウォレット アウトポケット 袋縫い メンズ レディース ユニセックス (ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FVLW35WQ",
-      "item_name": "Hush Puppies イタリアンレザー ベジタブルタンニンなめし ガバッと開くマルチケース 小銭入れ 本革 牛革 大人 おしゃれ ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0B3HP7Z7S",
-      "item_name": "[Rubacuori] ショルダーバッグ メンズバッグ レディースバッグ お財布機能 ストラップ付き 2WAY仕様 RUMH2CE2 (ブラック10)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DTPKB6FQ",
-      "item_name": "Hush Puppies 小銭入れ ラウンドファスナー メンズ レディース ユニセックス ガバッと開く 小銭が見やすい 多収納 おしゃれ ミニ ミニマリスト 本革 牛革 やわらかい 使いやすい かっこいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0GHMS6ZNX",
-      "item_name": "[Coloregalo] 植物タンニン鞣し イタリアンレザー 育てるキーホルダー エイジング ユニセックス メンズ レディース おしゃれ コロレガーロ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FVLYCZ1M",
-      "item_name": "Hush Puppies レザーのカシミヤ 柔らかくしなやかな ディアスキン 二つ折り財布 大容量 本革 牛革 大人 おしゃれ ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BHCYRYM9",
-      "item_name": "[Rubacuori] メンズベルト 穴なし 無段階調節 ワンプッシュ操作 スライドロック (Bブラック バックルタイプ 帯幅30mm)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D9NF54YP",
-      "item_name": "[キャプテンスタッグ] ラウンドファスナー 長財布 大容量 トリコロール メンズ レディース ユニセックス",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F8VJBDB8",
-      "item_name": "Hush Puppies コンパクト 折り財布 ボックス小銭入れ グラデーション ハンドメイド 職人技 レディース ユニセックス カードがたくさん入る 多収納 おしゃれ 本革 牛革 やわらかい 使いやすい かわいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DTP7L8VG",
-      "item_name": "Hush Puppies 長財布 ラウンドファスナー シャドー仕上げ レディース ユニセックス 大容量 カードがたくさん入る 多収納 おしゃれ やわらかい 使いやすい かわいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FVLVS647",
-      "item_name": "Hush Puppies レザーのカシミヤ 柔らかくしなやかな ディアスキン 長財布 大容量 本革 牛革 大人 おしゃれ ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 9801.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DP8KDJSM",
-      "item_name": "CAPTAIN STAG コンパクト ファスナー マルチケース コインケース 小銭入れ アウトポケット 袋縫い メンズ レディース ユニセックス キャプテンスタッグ (グリーン)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DTNYGMR8",
-      "item_name": "Hush Puppies コロンとした 折り財布 ラウンドファスナー シャドー仕上げ レディース ユニセックス 大容量 カードがたくさん入る 多収納 おしゃれ やわらかい 使いやすい かわいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 11358.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DP8KG28M",
-      "item_name": "CAPTAIN STAG コンパクト ファスナー マルチケース コインケース 小銭入れ アウトポケット 袋縫い メンズ レディース ユニセックス キャプテンスタッグ (ブラウン)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DTP8TTHF",
-      "item_name": "Hush Puppies コロンと小さい 小銭入れ ラウンドファスナー シャドー仕上げ レディース ユニセックス 大容量 カードがたくさん入る 多収納 おしゃれ やわらかい 使いやすい かわいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DP8HWNQT",
-      "item_name": "[キャプテンスタッグ] ラウンドファスナー 長財布 アウトポケット 袋縫い メンズ レディース ユニセックス (ブラック)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B088TFJQFP",
-      "item_name": "[Rubacuori] ベルト メンズ ビジネス 【 冠婚葬祭・スーツに映える艶 】 スムースレザー ブラック 傷・汗に強い床革 30mm幅 サイズ調整ガイド付き 国内検品済",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 24180.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0GH6TRDLM",
-      "item_name": "財運 金運アップ 縁起財布 馬革 ゴールデンベア ホースシュー 馬蹄 ファスナー 深型 折り財布 本革 高級 ブラック チョコ ゴールド",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FVLWMW3L",
-      "item_name": "Hush Puppies イタリアンレザー ベジタブルタンニンなめし 二つ折り財布 本革 牛革 大人 おしゃれ ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 9900.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FVLVCY9S",
-      "item_name": "Hush Puppies イタリアンレザー ベジタブルタンニンなめし ミドルウォレット 大容量 本革 牛革 大人 おしゃれ ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DTNYZGN3",
-      "item_name": "Hush Puppies 折り財布 ファスナー 二つ折り メンズ 大容量 カードがたくさん入る 多収納 おしゃれ 本革 牛革 やわらかい 使いやすい かっこいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B088T96RCQ",
-      "item_name": "[Rubacuori] ベルト メンズ ビジネス 【 存在感のある35mm幅 】 シュリンクレザー風 シボ革 傷・汗に強い床革 ブラック チョコ ブラウン サイズ調整ガイド付 国内検品",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 3254.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B088TDLY2H",
-      "item_name": "[Rubacuori] ベルト メンズ ビジネス 【 存在感のある35mm幅 】 シュリンクレザー風 シボ革 傷・汗に強い床革 ブラック チョコ ブラウン サイズ調整ガイド付 国内検品",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 3254.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GGZ4PZCM",
-      "item_name": "お洒落なインナー バイカラー 防水レザー サフィアーノレザー 2トーン SDGs リサイクル 生地 かっこいい メンズ 財布 二つ折り 折り財布",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GHN8LD1X",
-      "item_name": "[Coloregalo] 植物タンニン鞣し イタリアンレザー 育てるキーホルダー エイジング ユニセックス メンズ レディース おしゃれ コロレガーロ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GH6N5M54",
-      "item_name": "Hush Puppies ビッグ イントレチャート ラウンドファスナー 長財布 ゴールド レザー マイクロファイバー YKK ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DP8JNBSP",
-      "item_name": "[キャプテンスタッグ] ファスナー 折り財布 ミドルウォレット アウトポケット 袋縫い メンズ レディース ユニセックス (ブラウン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 3150.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FVLX5ZLW",
-      "item_name": "Hush Puppies イタリアンレザー ベジタブルタンニンなめし 二つ折り財布 本革 牛革 大人 おしゃれ ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DTP4N6VK",
-      "item_name": "[ハッシュパピー] 折り財布 ファスナー ミドルウォレット メンズ レディース ユニセックス 大容量 カードがたくさん入る 多収納 おしゃれ 本革 牛革 やわらかい 使いやすい かっこいい 味が出る ギフト プレゼント ブランド",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 11268.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D9NCF3YP",
-      "item_name": "[キャプテンスタッグ] ミドルウォレット 折り財布 大容量 トリコロール メンズ レディース ユニセックス (グリーン)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DP8J6ZQ2",
-      "item_name": "GoldenBear ジャパンレザー 日本の革 牛革 本革 折り財布 二つ折り アウトポケット ゴールデンベア",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 10956.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D9NFFYY2",
-      "item_name": "[キャプテンスタッグ] 二つ折り 折り財布 スマート トリコロール メンズ (グリーン)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D9ND8S16",
-      "item_name": "[キャプテンスタッグ] ラウンドファスナー 長財布 大容量 トリコロール メンズ レディース ユニセックス (チョコ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DL9V6HSQ",
-      "item_name": "[Rubacuori] ベルト メンズ 本革 日本製 【 イタリアンレザー 】 バダラッシカルロ社製 ナッパCB 33mm幅 隠しオメガ仕様 調整可能 ギフトBOX付",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F8VGL7Z3",
-      "item_name": "Hush Puppies コンパクト 折り財布 ボックス小銭入れ グラデーション ハンドメイド 職人技 レディース ユニセックス カードがたくさん入る 多収納 おしゃれ 本革 牛革 やわらかい 使いやすい かわいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 6578.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0D9NFHD1Z",
-      "item_name": "[キャプテンスタッグ] 二つ折り 折り財布 スマート トリコロール メンズ",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F1D1ZG72",
-      "item_name": "[Rubacuori] 国産 姫路 シュリンクレザー 本革 牛革 レザー ベルト メンズ 日本製 スーツ ジーンズ ビジネス カジュアル フリーサイズ ブランド おしゃれ 日本の職人 シュリンクレザー（チョコ）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 18014.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0FVLW9DVF",
-      "item_name": "Hush Puppies レザーのカシミヤ 柔らかくしなやかな ディアスキン 二つ折り財布 大容量 本革 牛革 大人 おしゃれ ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DTP8GF3V",
-      "item_name": "Hush Puppies コロンと小さい 小銭入れ ラウンドファスナー シャドー仕上げ レディース ユニセックス 大容量 カードがたくさん入る 多収納 おしゃれ やわらかい 使いやすい かわいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 8941.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FVLXXZL6",
-      "item_name": "Hush Puppies イタリアンレザー ベジタブルタンニンなめし RF長財布 束入れ 大容量 本革 牛革 大人 おしゃれ ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 8117.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DTPHDTRK",
-      "item_name": "Hush Puppies コロンとした 折り財布 ラウンドファスナー シャドー仕上げ レディース ユニセックス 大容量 カードがたくさん入る 多収納 おしゃれ やわらかい 使いやすい かわいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 22716.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0DTP1W5JM",
-      "item_name": "Hush Puppies 折り財布 ファスナー 二つ折り メンズ 大容量 カードがたくさん入る 多収納 おしゃれ 本革 牛革 やわらかい 使いやすい かっこいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 9858.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DTNVSDJS",
-      "item_name": "[ハッシュパピー] 折り財布 ファスナー 二つ折り メンズ 大容量 カードがたくさん入る 多収納 おしゃれ 本革 牛革 やわらかい 使いやすい かっこいい 味が出る ギフト プレゼント ブランド",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5478.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GGYZDQ77",
-      "item_name": "お洒落なインナー バイカラー 防水レザー サフィアーノレザー 2トーン SDGs リサイクル 生地 かっこいい メンズ 財布 二つ折り 折り財布",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DP8HM6TQ",
-      "item_name": "[キャプテンスタッグ] ラウンドファスナー 長財布 アウトポケット 袋縫い メンズ レディース ユニセックス (グリーン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GHMS5CVC",
-      "item_name": "[Coloregalo] 植物タンニン鞣し イタリアンレザー 育てるキーホルダー エイジング ユニセックス メンズ レディース おしゃれ コロレガーロ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FVLVFKV8",
-      "item_name": "Hush Puppies イタリアンレザー ベジタブルタンニンなめし 二つ折り財布 本革 牛革 大人 おしゃれ ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F8VGP9CW",
-      "item_name": "Hush Puppies 静音 スライドロックベルト プルアップレザー 穴なし ミリ単位調節可能 ラチェット式 ビジネス カジュアル ビジカジ 牛革 ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 2493.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F1CXJ6JT",
-      "item_name": "[Rubacuori] 国産 姫路 角シボレザー 本革 牛革 レザー ベルト メンズ 日本製 スーツ ジーンズ ビジネス カジュアル フリーサイズ ブランド おしゃれ 日本の職人 角シボレザー（チョコ）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 27654.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0GH78T7WW",
-      "item_name": "Hush Puppies ビッグ イントレチャート ラウンドファスナー 長財布 ゴールド レザー マイクロファイバー YKK ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DP8KG389",
-      "item_name": "GoldenBear ジャパンレザー 日本の革 牛革 本革 小銭入れ コインケース マルチケース コンパクト アウトポケット ゴールデンベア",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5771.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D9NDLP6C",
-      "item_name": "[キャプテンスタッグ] ラウンドファスナー 長財布 大容量 トリコロール メンズ レディース ユニセックス (イエロー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 4378.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0B3HHJD19",
-      "item_name": "[Rubacuori] ショルダーバッグ メンズバッグ レディースバッグ お財布機能 ストラップ付き 2WAY仕様 RUMH2CE2 (グリーン60)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D9NDCS9B",
-      "item_name": "CAPTAIN STAG ラウンドファスナー コンパクト財布 小銭入れ トリコロール メンズ レディース ユニセックス キッズ キャプテンスタッグ (チョコ)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F1D2BW75",
-      "item_name": "[Rubacuori] 国産 姫路 シュリンクレザー 本革 牛革 レザー ベルト メンズ 日本製 スーツ ジーンズ ビジネス カジュアル フリーサイズ ブランド おしゃれ 日本の職人 シュリンクレザー（ブラック）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 125308.0,
-      "t30d_units": 28.0
-    },
-    {
-      "asin": "B0DP8K3GR4",
-      "item_name": "[キャプテンスタッグ] ファスナー 折り財布 ミドルウォレット アウトポケット 袋縫いア メンズ レディース ユニセックス (グリーン)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DP8KGBM9",
-      "item_name": "[キャプテンスタッグ] ファスナー 折り財布 ミドルウォレット アウトポケット 袋縫い メンズ レディース ユニセックス (ブルーグリーン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 3150.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DP8HS56N",
-      "item_name": "GoldenBear ジャパンレザー 日本の革 牛革 本革 折り財布 ミドルウォレット ファスナー アウトポケット ゴールデンベア",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5090.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GH76D7MD",
-      "item_name": "財運 金運アップ 縁起財布 馬革 ゴールデンベア ホースシュー 馬蹄 ラウンドファスナー コンパクト財布 小銭入れ 本革 高級 ブラック チョコ ゴールド",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B088T1TX67",
-      "item_name": "[Rubacuori] ベルト メンズ カジュアル 【 どこでも留められるパンチング仕様 】 ギャリソンバックル 35mm幅 傷・汗に強い床革 ヴィンテージ感 シャドー加工 国内検品",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 2753.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F8VGXSYR",
-      "item_name": "Hush Puppies 長財布 ラウンドファスナー グラデーション ハンドメイド 職人技 レディース ユニセックス 大容量 カードがたくさん入る 多収納 おしゃれ 本革 牛革 やわらかい 使いやすい かわいい ギフト プレゼント ハッシュパピー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 11072.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B092LSDPXL",
-      "item_name": "[Rubacuori] メンズベルト 本革 イタリアンレザー 牛革 一枚革 ビジネスベルト カジュアルベルト 帯幅35mm (ブラック10)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GH6T9CYN",
-      "item_name": "財運 金運アップ 縁起財布 馬革 ゴールデンベア ホースシュー 馬蹄 ラウンドファスナー 長財布 本革 高級 ブラック チョコ ゴールド",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GHN8GDK2",
-      "item_name": "[Coloregalo] 植物タンニン鞣し イタリアンレザー 育てるキーホルダー エイジング ユニセックス メンズ レディース おしゃれ コロレガーロ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D9NFMVP4",
-      "item_name": "CAPTAIN STAG ラウンドファスナー コンパクト財布 小銭入れ トリコロール メンズ レディース ユニセックス キッズ キャプテンスタッグ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F8VH4JSG",
-      "item_name": "Hush Puppies コンパクト 折り財布 ボックス小銭入れ グラデーション ハンドメイド 職人技 レディース ユニセックス カードがたくさん入る 多収納 おしゃれ 本革 牛革 やわらかい 使いやすい かわいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FVLVTXLV",
-      "item_name": "Hush Puppies レザーのカシミヤ 柔らかくしなやかな ディアスキン 長財布 大容量 本革 牛革 大人 おしゃれ ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 9900.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FJ1SGNDP",
-      "item_name": "[ゴールデンベア] ベルト 日本の職人が手掛けたブラックレザーベルト メンズ GBMBEX ブラック（センターロゴバックル：シュリンク） Free",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0B3HL7QJV",
-      "item_name": "[Rubacuori] ショルダーバッグ メンズバッグ レディースバッグ お財布機能 ストラップ付き 2WAY仕様 RUMH2CE2 (ブラウン22)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 9960.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DTNZ4M5T",
-      "item_name": "Hush Puppies コロンと小さい 小銭入れ ラウンドファスナー シャドー仕上げ レディース ユニセックス 大容量 カードがたくさん入る 多収納 おしゃれ やわらかい 使いやすい かわいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 3278.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F1CZW5KS",
-      "item_name": "[Rubacuori] 国産 姫路レザーベルト 全6種 本革 牛革 メンズ 日本製 ハンドメイド スーツ ジーンズ ビジネス カジュアル フリーサイズ ブランド おしゃれ 日本の職人",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 108747.0,
-      "t30d_units": 24.0
-    },
-    {
-      "asin": "B088T813F4",
-      "item_name": "[Rubacuori] ベルト メンズ カジュアル 【 どこでも留められるパンチング仕様 】 ギャリソンバックル 35mm幅 傷・汗に強い床革 ヴィンテージ感 シャドー加工 国内検品",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 4506.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FVLWSY5D",
-      "item_name": "Hush Puppies レザーのカシミヤ 柔らかくしなやかな ディアスキン 二つ折り財布 大容量 本革 牛革 大人 おしゃれ ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DP8JRF4J",
-      "item_name": "GoldenBear ジャパンレザー 日本の革 牛革 本革 長財布 ファスナー アウトポケット ゴールデンベア",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 26920.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DP8KHTH2",
-      "item_name": "GoldenBear ジャパンレザー 日本の革 牛革 本革 折り財布 二つ折り アウトポケット ゴールデンベア",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GGZ9VDRR",
-      "item_name": "お洒落なインナー バイカラー 防水レザー サフィアーノレザー 2トーン SDGs リサイクル 生地 かっこいい メンズ マルチウォレット 小銭入れ 財布 ファスナー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 4500.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FVL3HHXT",
-      "item_name": "Hush Puppies イタリアンレザー ベジタブルタンニンなめし RF長財布 束入れ 大容量 本革 牛革 大人 おしゃれ ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G194YQ7Y",
-      "item_name": "[Rubacuori] 本革ショルダーバッグ メンズバッグ レディースバッグ お財布機能 ストラップ付き 2WAY仕様 RUMH5EE1 (ブラック10)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 15960.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DTP2P6LN",
-      "item_name": "Hush Puppies 長財布 ラウンドファスナー シャドー仕上げ レディース ユニセックス 大容量 カードがたくさん入る 多収納 おしゃれ やわらかい 使いやすい かわいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5478.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GH6YDFN8",
-      "item_name": "財運 金運アップ 縁起財布 馬革 ゴールデンベア ホースシュー 馬蹄 長財布 本革 高級 ブラック チョコ ゴールド",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 12760.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DTNNH1VT",
-      "item_name": "Hush Puppies 小銭入れ ラウンドファスナー メンズ レディース ユニセックス ガバッと開く 小銭が見やすい 多収納 おしゃれ ミニ ミニマリスト 本革 牛革 やわらかい 使いやすい かっこいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 9834.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DTNXGFYB",
-      "item_name": "Hush Puppies コロンとした 折り財布 ラウンドファスナー シャドー仕上げ レディース ユニセックス 大容量 カードがたくさん入る 多収納 おしゃれ やわらかい 使いやすい かわいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DP8JTFKD",
-      "item_name": "[キャプテンスタッグ] ラウンドファスナー 長財布 アウトポケット 袋縫い メンズ レディース ユニセックス (ブラウン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DP8JDP17",
-      "item_name": "CAPTAIN STAG コンパクト ファスナー マルチケース コインケース 小銭入れ アウトポケット 袋縫い メンズ レディース ユニセックス キャプテンスタッグ (ブラック)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GH6XW5MH",
-      "item_name": "財運 金運アップ 縁起財布 馬革 ゴールデンベア ホースシュー 馬蹄 ラウンドファスナー コンパクト財布 小銭入れ 本革 高級 ブラック チョコ ゴールド",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DTP9WDYT",
-      "item_name": "Hush Puppies 長財布 ラウンドファスナー シャドー仕上げ レディース ユニセックス 大容量 カードがたくさん入る 多収納 おしゃれ やわらかい 使いやすい かわいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DL9MK26S",
-      "item_name": "[Rubacuori] ベルト メンズ 本革 日本製 【 イタリアンレザー 】 バダラッシカルロ社製 ナッパCB 33mm幅 隠しオメガ仕様 調整可能 ギフトBOX付",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GH78WYH2",
-      "item_name": "財運 金運アップ 縁起財布 馬革 ゴールデンベア ホースシュー 馬蹄 ラウンドファスナー 長財布 本革 高級 ブラック チョコ ゴールド",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 6380.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F8VJWMNS",
-      "item_name": "Hush Puppies 静音 スライドロックベルト プルアップレザー 穴なし ミリ単位調節可能 ラチェット式 ビジネス カジュアル ビジカジ 牛革 ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5322.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B088T4WNB3",
-      "item_name": "[Rubacuori] ベルト メンズ カジュアル 【 どこでも留められるパンチング仕様 】 ギャリソンバックル 35mm幅 傷・汗に強い床革 ヴィンテージ感 シャドー加工 国内検品",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 10012.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B088TFDQ94",
-      "item_name": "[Rubacuori] ベルト メンズ ビジネス 【 存在感のある35mm幅 】 シュリンクレザー風 シボ革 傷・汗に強い床革 ブラック チョコ ブラウン サイズ調整ガイド付 国内検品",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 6189.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0F8VJNQK4",
-      "item_name": "Hush Puppies 静音 スライドロックベルト 角シボレザー 穴なし ミリ単位調節可能 ラチェット式 ビジネス カジュアル ビジカジ 牛革 ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5335.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FVLYVF76",
-      "item_name": "Hush Puppies イタリアンレザー ベジタブルタンニンなめし ミドルウォレット 大容量 本革 牛革 大人 おしゃれ ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 9900.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GGZCKF29",
-      "item_name": "お洒落なインナー バイカラー 防水レザー サフィアーノレザー 2トーン SDGs リサイクル 生地 かっこいい メンズ マルチウォレット 小銭入れ 財布 ファスナー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FVLWGNJ7",
-      "item_name": "Hush Puppies イタリアンレザー ベジタブルタンニンなめし ガバッと開くマルチケース 小銭入れ 本革 牛革 大人 おしゃれ ハッシュパピー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DP8JPQ1R",
-      "item_name": "[キャプテンスタッグ] ラウンドファスナー 長財布 アウトポケット 袋縫い メンズ レディース ユニセックス (ブルーグリーン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F8VH476J",
-      "item_name": "Hush Puppies 静音 スライドロックベルト 角シボレザー 穴なし ミリ単位調節可能 ラチェット式 ビジネス カジュアル ビジカジ 牛革 ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 2980.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DTPDL1GQ",
-      "item_name": "Hush Puppies 長財布 ラウンドファスナー シャドー仕上げ レディース ユニセックス 大容量 カードがたくさん入る 多収納 おしゃれ やわらかい 使いやすい かわいい 味が出る ギフト プレゼント ブランド ハッシュパピー",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 4380.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GHMZ3VQG",
-      "item_name": "[Coloregalo] 植物タンニン鞣し イタリアンレザー 育てるキーホルダー エイジング ユニセックス メンズ レディース おしゃれ コロレガーロ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DTP51GMC",
-      "item_name": "[ハッシュパピー] 折り財布 ファスナー ミドルウォレット メンズ レディース ユニセックス 大容量 カードがたくさん入る 多収納 おしゃれ 本革 牛革 やわらかい 使いやすい かっこいい 味が出る ギフト プレゼント ブランド",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 13156.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GH6YPPDZ",
-      "item_name": "財運 金運アップ 縁起財布 馬革 ゴールデンベア ホースシュー 馬蹄 ファスナー 深型 折り財布 本革 高級 ブラック チョコ ゴールド",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 5478.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GGZ8Q364",
-      "item_name": "お洒落なインナー バイカラー 防水レザー サフィアーノレザー 2トーン SDGs リサイクル 生地 かっこいい メンズ 財布 二つ折り 折り財布",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 20400.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DP8JRKGQ",
-      "item_name": "GoldenBear ジャパンレザー 日本の革 牛革 本革 折り財布 中ベラ付き カード多収納 アウトポケット ゴールデンベア",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 16560.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0GGZC8TBM",
-      "item_name": "お洒落なインナー バイカラー 防水レザー サフィアーノレザー 2トーン SDGs リサイクル 生地 かっこいい メンズ マルチウォレット 小銭入れ 財布 ファスナー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D9NBYCB1",
-      "item_name": "CAPTAIN STAG ラウンドファスナー コンパクト財布 小銭入れ トリコロール メンズ レディース ユニセックス キッズ キャプテンスタッグ (イエロー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D9NDQC8G",
-      "item_name": "[キャプテンスタッグ] ミドルウォレット 折り財布 大容量 トリコロール メンズ レディース ユニセックス (イエロー)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+  "26321275222": [
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B08CDDPT4F",
+      "item_name": "Ferkurn pcケース ノートパソコン ケース 15 15.6 16インチ MacBook Pro M3/M2/M1, 15\" MacBook Air M3/M2/M1, 15\" Surface Laptop 6/5/4 Book 3/2,Dell G15 Inspiron, HP Pavilion, NEC,Toshiba,富士通,Lenovoレノボ Ideapad,ASUS対応(ブルー)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 11495.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B09TZY89VB",
+      "item_name": "Ferkurn pcケース ノートパソコン ケース 15 15.6 16インチ MacBook Pro M3/M2/M1, 15\" MacBook Air M3/M2/M1, 15\" Surface Laptop 6/5/4 Book 3/2,Dell G15 Inspiron, HP Pavilion, NEC,Toshiba,富士通,Lenovoレノボ Ideapad,ASUS対応(紫の)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 13794.0,
+      "t30d_units": 6.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B0874VMRL7",
+      "item_name": "Ferkurn パソコン ケース 11.6 12 12.5 インチ PCケース 衝撃吸収 パソコンバッグ タブレット ケース 撥水加工 手提げカバン パソコンケース 持ち歩き 通勤 ビジネス ラップトップ クロームブック 12.3-13\" Surface Pro 9 8 7 X/Surface laptop go 12.4/iPad Pro 12.9/Dynabook C1/NEC Chromebook y3 y2/dell chromebook 3100/Macbook 11 Air 12/Lenovo",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 109163.32,
+      "t30d_units": 60.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B09TZY656Q",
+      "item_name": "[Ferkurn] pcケース ノートパソコン ケース 14インチ MacBook Pro M3/M2/M1, HP Chromebook x360 ProBook Pavilion, Dell Inspiron Latitude 14, NEC Lavie N14, Lenovoレノボ Ideapad Flex Slim ThinkPad, Acer, ASUS Vivobook対応 (紫の)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 19791.0,
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B09V118KLS",
+      "item_name": "Ferkurn パソコン ケース 11.6 12 12.5 インチ PCケース 衝撃吸収 パソコンバッグ タブレット ケース 撥水加工 手提げカバン パソコンケース 持ち歩き 通勤 ビジネス ラップトップ クロームブック 12.3-13\" Surface Pro 9 8 7 X/Surface laptop go 12.4/iPad Pro 12.9/Dynabook C1/NEC Chromebook y3 y2/dell chromebook 3100/Macbook 11 Air 12/Lenovo",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 7996.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B0874T5CT5",
+      "item_name": "Ferkurn pcケース ノートパソコン ケース 13 13.3 13.6インチ MacBook Air M3/M2/M1, 13\" MacBook Pro M2/M1, Dell XPS 13, 13.5 Surface Laptop 6/5/4, HP Spectre ENVY X360 Pavilion, 富士通 lifebook,NEC, Lenovoレノボ, ASUS 対応 (グレー)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 138105.67,
+      "t30d_units": 72.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B0874TYJCD",
+      "item_name": "Ferkurn パソコン ケース 11.6 12 12.5 インチ PCケース 衝撃吸収 パソコンバッグ タブレット ケース 撥水加工 手提げカバン パソコンケース 持ち歩き 通勤 ビジネス ラップトップ クロームブック 12.3-13\" Surface Pro 9 8 7 X/Surface laptop go 12.4/iPad Pro 12.9/Dynabook C1/NEC Chromebook y3 y2/dell chromebook 3100/Macbook 11 Air 12/Lenovo",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 41978.66,
+      "t30d_units": 21.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B095HF5Z1J",
+      "item_name": "Ferkurn pcケース ノートパソコン ケース 14インチ MacBook Pro M3/M2/M1, HP Chromebook x360 ProBook Pavilion, Dell Inspiron Latitude 14, NEC Lavie N14, Lenovoレノボ Ideapad Flex Slim ThinkPad, Acer, ASUS Vivobook対応 (グレー)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 191819.72,
+      "t30d_units": 94.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B095HFSV8B",
+      "item_name": "Ferkurn pcケース ノートパソコン ケース 14インチ MacBook Pro M3/M2/M1, HP Chromebook x360 ProBook Pavilion, Dell Inspiron Latitude 14, NEC Lavie N14, Lenovoレノボ Ideapad Flex Slim ThinkPad, Acer, ASUS Vivobook対応 (ブラック)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 122333.4,
+      "t30d_units": 56.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B08KY4JGQD",
+      "item_name": "Ferkurn パソコン ケース 11.6 12 12.5 インチ PCケース 衝撃吸収 パソコンバッグ タブレット ケース 撥水加工 手提げカバン パソコンケース 持ち歩き 通勤 ビジネス ラップトップ クロームブック 12.3-13\" Surface Pro 9 8 7 X/Surface laptop go 12.4/iPad Pro 12.9/Dynabook C1/NEC Chromebook y3 y2/dell chromebook 3100/Macbook 11 Air 12/Lenovo",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 20408.66,
+      "t30d_units": 10.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B09TZY54DN",
+      "item_name": "Ferkurn pcケース ノートパソコン ケース 13 13.3 13.6インチ MacBook Air M3/M2/M1, 13\" MacBook Pro M2/M1, Dell XPS 13, 13.5 Surface Laptop 6/5/4, HP Spectre ENVY X360 Pavilion, 富士通 lifebook,NEC, Lenovoレノボ, ASUS 対応 (紫の)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 14693.33,
+      "t30d_units": 7.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B0BRKQ9479",
+      "item_name": "Ferkurn pcケース ノートパソコン ケース 14インチ MacBook Pro M3/M2/M1, HP Chromebook x360 ProBook Pavilion, Dell Inspiron Latitude 14, NEC Lavie N14, Lenovoレノボ Ideapad Flex Slim ThinkPad, Acer, ASUS Vivobook対応 (ブルー)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 30786.0,
+      "t30d_units": 14.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B08KY34CHT",
+      "item_name": "Ferkurn pcケース ノートパソコン ケース 13 13.3 13.6インチ MacBook Air M3/M2/M1, 13\" MacBook Pro M2/M1, Dell XPS 13, 13.5 Surface Laptop 6/5/4, HP Spectre ENVY X360 Pavilion, 富士通 lifebook,NEC, Lenovoレノボ, ASUS 対応 (ピンク)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 6297.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B095HCJQB5",
+      "item_name": "Ferkurn pcケース ノートパソコン ケース 14インチ MacBook Pro M3/M2/M1, HP Chromebook x360 ProBook Pavilion, Dell Inspiron Latitude 14, NEC Lavie N14, Lenovoレノボ Ideapad Flex Slim ThinkPad, Acer, ASUS Vivobook対応 (ピンク)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 17592.0,
+      "t30d_units": 8.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B0BV9F9LWF",
+      "item_name": "Ferkurn pcケース ノートパソコン ケース 13 13.3 13.6インチ MacBook Air M3/M2/M1, 13\" MacBook Pro M2/M1, Dell XPS 13, 13.5 Surface Laptop 6/5/4, HP Spectre ENVY X360 Pavilion, 富士通 lifebook,NEC, Lenovoレノボ, ASUS 対応 (しろい)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 50794.0,
+      "t30d_units": 24.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B0BRKQCP62",
+      "item_name": "Ferkurn pcケース ノートパソコン ケース 15 15.6 16インチ MacBook Pro M3/M2/M1, 15\" MacBook Air M3/M2/M1, 15\" Surface Laptop 6/5/4 Book 3/2,Dell G15 Inspiron, HP Pavilion, NEC,Toshiba,富士通,Lenovoレノボ Ideapad,ASUS対応(しろい)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 23408.0,
+      "t30d_units": 10.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B0874VH78K",
+      "item_name": "Ferkurn pcケース ノートパソコン ケース 13 13.3 13.6インチ MacBook Air M3/M2/M1, 13\" MacBook Pro M2/M1, Dell XPS 13, 13.5 Surface Laptop 6/5/4, HP Spectre ENVY X360 Pavilion, 富士通 lifebook,NEC,Lenovoレノボ, ASUS 対応 (ブラック)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 239883.0,
+      "t30d_units": 117.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B0874W2SY1",
+      "item_name": "Ferkurn pcケース ノートパソコン ケース 15 15.6 16インチ MacBook Pro M3/M2/M1, 15\" MacBook Air M3/M2/M1, 15\" Surface Laptop 6/5/4 Book 3/2,Dell G15 Inspiron, HP Pavilion, NEC,Toshiba,富士通,Lenovoレノボ Ideapad,ASUS対応(グレー)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 55852.83,
+      "t30d_units": 27.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B095HDW1Z7",
+      "item_name": "Ferkurn pcケース ノートパソコン ケース 14インチ MacBook Pro M3/M2/M1, HP Chromebook x360 ProBook Pavilion, Dell Inspiron Latitude 14, NEC Lavie N14, Lenovoレノボ Ideapad Flex Slim ThinkPad, Acer, ASUS Vivobook対応 (しろい)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 39581.26,
+      "t30d_units": 18.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B0874VL3S2",
+      "item_name": "Ferkurn pcケース ノートパソコン ケース 15 15.6 16インチ MacBook Pro M3/M2/M1, 15\" MacBook Air M3/M2/M1, 15\" Surface Laptop 6/5/4 Book 3/2,Dell G15 Inspiron, HP Pavilion, NEC,Toshiba,富士通,Lenovoレノボ Ideapad,ASUS対応(ブラック)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 64789.33,
+      "t30d_units": 28.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B0BNHV41WC",
+      "item_name": "Ferkurn pcケース ノートパソコン ケース 13 13.3 13.6インチ MacBook Air M3/M2/M1, 13\" MacBook Pro M2/M1, Dell XPS 13, 13.5 Surface Laptop 6/5/4, HP Spectre ENVY X360 Pavilion, 富士通 lifebook,NEC, Lenovoレノボ, ASUS 対応 (ブルー)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 40298.67,
+      "t30d_units": 19.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 26321275222,
+      "merchant_name": "Ferkurn-JP",
+      "asin": "B0BHWS6HFX",
+      "item_name": "Ferkurn pcケース ノートパソコン ケース 15 15.6 16インチ MacBook Pro M3/M2/M1, 15\" MacBook Air M3/M2/M1, 15\" Surface Laptop 6/5/4 Book 3/2,Dell G15 Inspiron, HP Pavilion, NEC,Toshiba,富士通,Lenovoレノボ Ideapad,ASUS対応(ピンク)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

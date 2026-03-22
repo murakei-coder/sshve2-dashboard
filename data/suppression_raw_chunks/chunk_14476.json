@@ -1,85 +1,38 @@
 {
-  "995062757302": [
+  "995141729202": [
     {
-      "asin": "B0GDTFRWK7",
-      "item_name": "【速報！】タレントJPさんから美味しいとメッセージをいただきました！ 俵シュー 10個入り サクサク クリームはみ出す シュークリーム 山形 老舗 うろこや総本店 お取り寄せ 冷凍 ギフト カスタード お菓子 スイーツ お誕生日 プレゼント 個包装 冷凍90日 特製クリーム (10)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 205761.33,
-      "t30d_units": 57.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 995141729202,
+      "merchant_name": "海渡かいと",
+      "asin": "B0DXQB53SP",
+      "item_name": "カクテルシェイカー カクテルセット バーテンダー シェイカー カクテル メジャー バースプーン 3点 初心者向け バーセット 最適な贈り物 レシピ ハガキ付き",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 87517.66,
+      "t30d_units": 27.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GHJHLNMB",
-      "item_name": "幸せの黄色い バターどら焼き 5個入り 幸せを呼び込むパッケージ 山形 老舗うろこや総本店 どら焼き 銅板焼き 塩バター 餡子 北海道産小豆 和菓子 ギフト 個包装 手土産 お取り寄せ",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Consumables",
-      "t30d_ops": 40530.0,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0GDTMJL4X",
-      "item_name": "【速報！】タレントJPさんから美味しいとメッセージをいただきました！ 俵シュー 20個入り サクサク クリームはみ出す シュークリーム 山形 老舗 うろこや総本店 お取り寄せ 冷凍 ギフト カスタード お菓子 スイーツ お誕生日 プレゼント 個包装 冷凍90日 特製クリーム",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 121313.99,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B0F1L9F6PK",
-      "item_name": "【生クリームが主役！】山形老舗が作るとろける「うろこや生クリーム大福」 12個入★ふわふわもちもちの至福のひととき 雪のような口どけ 和菓子 洋菓子 お取り寄せ スイーツ ギフト 贅沢 プレゼント 尾花沢 大福 (12)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 127921.0,
-      "t30d_units": 34.0
-    },
-    {
-      "asin": "B0G3G9Q8TJ",
-      "item_name": "幸せの黄色い バターどら焼き 8個入り 幸せを呼び込むパッケージ 山形 老舗うろこや総本店 どら焼き 銅板焼き 塩バター 餡子 北海道産小豆 和菓子 ギフト 個包装 手土産 お取り寄せ (8)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Consumables",
-      "t30d_ops": 25546.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0GHJ5F8HY",
-      "item_name": "幸せの黄色い バターどら焼き 12個入り 幸せを呼び込むパッケージ 山形 老舗うろこや総本店 どら焼き 銅板焼き 塩バター 餡子 北海道産小豆 和菓子 ギフト 個包装 手土産 お取り寄せ (12)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GJL99WYJ",
-      "item_name": "【日経新聞 ★全国7位】有名店を抑えあんバターお菓子で快挙！塩あんバター大福 10個入 唯一無二の衝撃！山形 老舗 うろこや総本店 ギフト 和菓子 粒あん お返し 冷凍配送 (10)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Consumables",
-      "t30d_ops": 9712.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0F2H6QGPR",
-      "item_name": "【速報！】タレントJPさんから美味しいとメッセージをいただきました！ 俵シュー 6個入りから サクサク クリームはみ出す シュークリーム 山形 老舗 うろこや総本店 お取り寄せ 冷凍 ギフト カスタード お菓子 スイーツ お誕生日 プレゼント 個包装 冷凍90日 特製クリーム (6)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 321550.66,
-      "t30d_units": 122.0
-    },
-    {
-      "asin": "B0G7VBDVZK",
-      "item_name": "【日経新聞 ★全国7位】有名店を抑えあんバターお菓子で快挙！塩あんバター大福 6個入 唯一無二の衝撃！山形 老舗 うろこや総本店 ギフト 和菓子 粒あん お返し 冷凍配送",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Consumables",
-      "t30d_ops": 9792.0,
-      "t30d_units": 4.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 995141729202,
+      "merchant_name": "海渡かいと",
+      "asin": "B0F6Y8JFYR",
+      "item_name": "ウイスキー グラス テイスティンググラス おしゃれ 2個セット 180ml チューリップ型 香りを引き立てる 薄口 高級クリスタルガラス製 誕生日 プレゼント 恋人 友人 家族への贈り物に最適 BA BON APPETIT",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 310011.06,
+      "t30d_units": 121.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

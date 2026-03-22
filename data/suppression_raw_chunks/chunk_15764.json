@@ -1,22 +1,55 @@
 {
-  "1108712020202": [
+  "1108714537402": [
     {
-      "asin": "B0FKHCV5C2",
-      "item_name": "[OSHI-LIFE] アンブレラマーカー めじるしチャーム シリコンリング とカニカン付き (50個入り)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Softlines",
-      "t30d_ops": 218996.34,
-      "t30d_units": 128.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1108714537402,
+      "merchant_name": "BGB-JP",
+      "asin": "B0FJY17TZN",
+      "item_name": "ドライヤー【2025進化モデル・20ｓ速乾】大風量 高速ヘアドライヤー 2億高濃度マイナスイオン 静電気抑制 NTC温度制御システム 過熱保護 恒温ヘアケア 髪質改善 5段階温度調節&3段階風量 【温冷リズム】 マグネット式ノズル付き 小型 コンパクト 静音 軽量 旅行/サロン/家庭用/プレゼント PSE認証済",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 825739.15,
+      "t30d_units": 165.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FKT625VG",
-      "item_name": "推しライフ シール帳 M5 透明 バインダー 5穴 シール台紙 10枚セット",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1108714537402,
+      "merchant_name": "BGB-JP",
+      "asin": "B0DQ4XXMRL",
+      "item_name": "ドライヤー【2026進化モデル・20ｓ速乾】大風量 高速ヘアドライヤー 2億高濃度マイナスイオン 静電気抑制 NTC温度制御システム 過熱保護 恒温ヘアケア 髪質改善 5段階温度調節&2段階風量 【温冷リズム】 マグネット式ノズル付き 小型 コンパクト 静音 軽量 旅行/サロン/家庭用/プレゼント PSE認証済",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 8642906.12,
+      "t30d_units": 1967.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 414095.61,
-      "t30d_units": 419.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1108714537402,
+      "merchant_name": "BGB-JP",
+      "asin": "B0FJY1KRXW",
+      "item_name": "ドライヤー【2025進化モデル・20ｓ速乾】大風量 高速ヘアドライヤー 2億高濃度マイナスイオン 静電気抑制 NTC温度制御システム 過熱保護 恒温ヘアケア 髪質改善 5段階温度調節&3段階風量 【温冷リズム】 マグネット式ノズル付き 小型 コンパクト 静音 軽量 旅行/サロン/家庭用/プレゼント PSE認証済",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1663757.01,
+      "t30d_units": 333.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

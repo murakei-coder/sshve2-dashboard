@@ -1,31 +1,55 @@
 {
-  "1060548596102": [
+  "1060613875002": [
     {
-      "asin": "B0FJ7GWHD5",
-      "item_name": "[PochittoGoods] 【頼れる100ccの吸水力でバレない、漏れない】 尿漏れパンツ にょうもれ男性用 失禁パンツ男性用 【防臭ｘ尿染み防止機能】 (LL, 2, 枚)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 404620.53,
-      "t30d_units": 149.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1060613875002,
+      "merchant_name": "FERMES フェルメス",
+      "asin": "B0F6WKY36Y",
+      "item_name": "【老舗金沢の米糀を使用】FERMES ドッグフード トッピングフード 無添加 ウエット 国内製造 手作り 米糀 発酵 グルテンフリー 無添加 保存料不使用 ヒューマングレード 定番5種セット 300g 冷凍配送 (5袋/300g, 定番5袋セット)",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 4353.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FJ7HSRNJ",
-      "item_name": "【頼れる100ccの吸水力でバレない、漏れない】 尿漏れパンツ にょうもれ男性用 失禁パンツ男性用 【防臭ｘ尿染み防止機能】PochittoGoods (M, 2, 枚)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 371703.91,
-      "t30d_units": 136.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1060613875002,
+      "merchant_name": "FERMES フェルメス",
+      "asin": "B0FM7XR45K",
+      "item_name": "【老舗金沢の米糀を使用】FERMES ドッグフード トッピングフード 無添加 ウエット 国内製造 手作り 米糀 発酵 グルテンフリー 無添加 保存料不使用 ヒューマングレード 国産鹿肉お試しセット 冷凍配送 (2袋/120g, 国産鹿肉)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 2452.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FJ7H7DC1",
-      "item_name": "【頼れる100ccの吸水力でバレない、漏れない】 尿漏れパンツ にょうもれ男性用パンツ 失禁パンツ男性用 【防臭ｘ尿染み防止機能】PochittoGoods (L, 2, 枚)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 566495.91,
-      "t30d_units": 208.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1060613875002,
+      "merchant_name": "FERMES フェルメス",
+      "asin": "B0FDFJ1PM3",
+      "item_name": "【老舗金沢の米糀を使用】FERMES ドッグフード トッピングフード 無添加 ウエット 国内製造 手作り シニア 米糀 発酵 グルテンフリー 無添加 保存料不使用 ヒューマングレード シニア犬向け2種セット 120g 冷凍配送 (2袋/120g, シニア犬向け)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 19616.0,
+      "t30d_units": 8.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

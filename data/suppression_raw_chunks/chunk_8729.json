@@ -1,22 +1,21 @@
 {
-  "66531283222": [
+  "66532978322": [
     {
-      "asin": "B0FPG6BQ2M",
-      "item_name": "Leebein バスポリッシャー 電動お掃除ブラシ 8つ取り替えブラシ付き お風呂掃除 ターボプロ ブラシ USB C充電式 長さ伸縮可能 手持ち式 5000mAh大容量 90分間連続使用 風呂 浴室 浴槽磨き トイレ掃除 床 窓 壁 玄関 年末掃除 日本語説明書付属",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1250430.37,
-      "t30d_units": 277.0
-    },
-    {
-      "asin": "B0FBWVCDKZ",
-      "item_name": "【2025新登場 IPX7 防水仕様】Leebein 電動お掃除ブラシ バスポリッシャー ターボプロ 浴室掃除用ブラシ IPX7防水シャワースクラバー ブラシヘッド7個付き 伸縮可能なロングハンドル 2段階のスピードスクラバー バスルーム/床/キッチン用 (黒)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 968338.03,
-      "t30d_units": 214.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 66532978322,
+      "merchant_name": "BGS-AUDIO",
+      "asin": "B0CT34STNH",
+      "item_name": "BOGASING G4 Bluetooth スピーカー ワイヤレス ブルートゥー ポータブル 50W迫力 大音量サウンド 重低音強化 24時間連続再生 DSP技術搭載 IPX7 防水 防塵 耐衝撃 アウトドア ぶるーとぅーすすぴーかー TWS対応 Bluetooth 5.3 USB-C AUX TFカード対応 お風呂 車載",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 646619.27,
+      "t30d_units": 78.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

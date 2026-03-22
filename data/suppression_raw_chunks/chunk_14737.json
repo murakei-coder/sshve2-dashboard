@@ -1,22 +1,21 @@
 {
-  "1031841441502": [
+  "1032240315702": [
     {
-      "asin": "B0DWZ81VNB",
-      "item_name": "【脂性毛穴に特濃】 ブライトデイズ 20%アゼライン酸AZクリームGG グリシルグリシン3% セラミド グリセリンフリー 高濃度 毛穴 皮脂 テカリ 肌荒れ 赤み 鼻 チキンスキン 低刺激 敏感肌 脂性肌 薄肌 日本製 青いアゼライン酸",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 1585591.55,
-      "t30d_units": 454.0
-    },
-    {
-      "asin": "B0F6LZDM3N",
-      "item_name": "ブライトデイズ 青いパントテン酸 日本製 パントテン酸 250mg ビオチン 500μg 亜鉛 15mg ビタミンB群 ビタミンB2 ナイアシン ビタミンB1 ビタミンB6 サプリ 健康食品 180粒 タブレット スキンクリア 管理栄養士が開発",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": -3319.0,
-      "t30d_units": -1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1032240315702,
+      "merchant_name": "CWJSM JP",
+      "asin": "B0FHB25FQ7",
+      "item_name": "スマホホルダー 車【360°回転ベース&ドーナツ型熱放散】車載スマホホルダー カー用品 携帯ホルダー 安定性アップ 視線妨害なし 片手操作 1秒で着脱 車用品 携帯スタンド 縦横置き 車用 取付け簡単 iPhone/Android4-7インチ多機種と多車種が対応",
+      "cleaned_suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 3198.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

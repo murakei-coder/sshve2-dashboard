@@ -1,22 +1,38 @@
 {
   "761843685": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 761843685,
+      "merchant_name": "コラーゲン専門店シーエスストアー",
       "asin": "B0FMY58TF4",
       "item_name": "BURN MODE バーンモード 【機能性表示食品】エラグ酸 × ブラックジンジャー ダイエット サポート サプリ 肥満気味の方の体重・体脂肪・腹部脂肪の減少をサポート 高めのBMIを改善 脂肪 燃焼 対策 サプリ GMP認定工場製造 コステックファルマ (1か月分（62粒／31日分）)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 715074.36,
-      "t30d_units": 290.0
+      "t30d_units": 290.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 761843685,
+      "merchant_name": "コラーゲン専門店シーエスストアー",
       "asin": "B005SYZY1S",
       "item_name": "COLPE 天然海洋魚皮由来 コラーゲンペプチド 粉末 サプリ 150ｇ 無添加 100％ 低分子 ゼラチンからコラーゲンペプチドに精製 フィッシュ コラーゲン パウダー 無香料",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 453632.0,
-      "t30d_units": 150.0
+      "t30d_units": 150.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

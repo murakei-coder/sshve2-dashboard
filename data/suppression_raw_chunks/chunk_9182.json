@@ -1,22 +1,55 @@
 {
-  "72394555622": [
+  "72416589922": [
     {
-      "asin": "B0CGZX9FZN",
-      "item_name": "HQST 12V 100Ah LiFePO4リン酸鉄リチウムイオンバッテリー 低温 高温保護付き BMS保護 RV 船 キャンプ場 ソーラーシステム用 直列 並列 (モニターなし)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 160993.0,
-      "t30d_units": 8.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 72416589922,
+      "merchant_name": "Bizki.store",
+      "asin": "B09LCHNZ7T",
+      "item_name": "【ビズキ公式】 ハーバルラクーン 15ml デリケートゾーン 消臭 ミスト デオドラント スプレー 臭い ケア [VIO 股 脇 おりもの 足] 医薬部外品",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 98773.0,
+      "t30d_units": 19.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DL8YDPRP",
-      "item_name": "HQST 12V 100Ah LiFePO4リン酸鉄リチウムイオンバッテリー 低温 高温保護付き BMS保護 リチウムバッテリー RV 船 キャンプ場 釣り ソーラー蓄電などに活用可能 直列 並列 (モニター付き) 1280Wh",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 720152.0,
-      "t30d_units": 36.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 72416589922,
+      "merchant_name": "Bizki.store",
+      "asin": "B0FQ3NPDB9",
+      "item_name": "【VIOやバストトップの黒ずみに】デリケートゾーン クリーム 黒ずみ 保湿 医薬部外品 乳頭 脇 膝 ビズキ ハーバルラビット 35g",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 840943.42,
+      "t30d_units": 426.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 72416589922,
+      "merchant_name": "Bizki.store",
+      "asin": "B0DSHBDMP1",
+      "item_name": "【ビズキ公式】ジューシージョリー まつ毛美容液 アイラッシュセラム ヒト幹細胞培養液 美容液 濃密 密着 浸透 色素沈着 まつエク まつパ マスカラ 下地 ダメージ 目元 エイジング ケア ハリ コシ ツヤ シワ たるみ まぶた 涙袋 まつげ まゆげ 人気 ランキング",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 164522.83,
+      "t30d_units": 33.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

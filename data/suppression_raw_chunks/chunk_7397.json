@@ -1,13 +1,21 @@
 {
-  "49419252022": [
+  "49422082522": [
     {
-      "asin": "B0B5GJF119",
-      "item_name": "YTKJ シューズハンガー 靴乾燥ラック シューズ水切り 空間節約 防風 省スペースハンガー ステンレス製 滑り止め 2本入り",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 381568.34,
-      "t30d_units": 417.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 49422082522,
+      "merchant_name": "sibojing",
+      "asin": "B09FPLB2WQ",
+      "item_name": "EKIAIKT ケルヒャー(Karcher) K2〜K7に対応高圧洗浄機フォームガン、調整可能ノズルのフォームランス、洗車石鹸ディスペンサー、カーシャンプ ケルヒャーK2 / K3 / K4 / K5 / K6 / K7 泡洗車、高発泡、洗車、750ML",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 412922.61,
+      "t30d_units": 196.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

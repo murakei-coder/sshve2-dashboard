@@ -1,22 +1,55 @@
 {
-  "86459495322": [
+  "86460770022": [
     {
-      "asin": "B0FKTG7BR4",
-      "item_name": "FLYBIRD アームバー 油圧式 エキスパンダー 大胸筋・二の腕・広背筋・腹筋 自宅筋トレ 10〜200kg負荷調整 胸筋トレーニング ハンドルバー長さ調整可能 腹筋ローラー機能付き 三年保証 BLQ001",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 59417.0,
-      "t30d_units": 11.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 86460770022,
+      "merchant_name": "Afaya",
+      "asin": "B0CCV6XVX6",
+      "item_name": "Ophaya smartpen スマートペン 電子ノート ライティングセット ペーパーノートのデジタル化 電子メモパッド保存機能付き、共有のためのリアルタイム同期、OCR認識編集とキーワード検索 、デジタルノートテイキング機能を備えた 電子メモパッド 電子手帳 スマートペン – ノート取り、絵画、教室、",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 128855.0,
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FKTNRPBF",
-      "item_name": "FLYBIRD アームバー 油圧式 エキスパンダー 大胸筋・二の腕・広背筋・腹筋 自宅筋トレ 10〜200kg負荷調整 胸筋トレーニング ハンドルバー長さ調整可能 腹筋ローラー機能付き 三年保証 BLQ001",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 413955.0,
-      "t30d_units": 77.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 86460770022,
+      "merchant_name": "Afaya",
+      "asin": "B0CNVMYFBD",
+      "item_name": "Ophayapen (オプハヤペン) スマートペン + スマートライティングボードセット リアルタイム同期 紙のメモのデジタル化 保存 共有 要Ophaya Pro+アプリ AndroidとiOSに対応",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 23279.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 86460770022,
+      "merchant_name": "Afaya",
+      "asin": "B0CD2C67J2",
+      "item_name": "Ophayapen smartpen 1-in-1 デジタルペンスマートライティングセット – ペーパーノートのデジタル化、保存、共有のためのリアルタイム同期 – デジタルノートテイキング機能を備えた電子ノートブック – ノート取り、絵画、教室、会議、試験に最適 – Ophaya Pro+アプリと共に使用し、AndroidおよびiOSに対",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 21998.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

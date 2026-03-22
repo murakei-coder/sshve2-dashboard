@@ -1,40 +1,38 @@
 {
-  "65869989722": [
+  "65872574422": [
     {
-      "asin": "B0F9JZ2SGB",
-      "item_name": "[ロサキキ ROSAKIKI] ベッドフレーム シングル パイプベッド スチール製 すのこ構造 通気性 静音設計 高耐久 ベッド下収納 高さ35.5cm 組立簡単 ブラック",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 423404.33,
-      "t30d_units": 64.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65872574422,
+      "merchant_name": "MAVO COFFEE 専門店",
+      "asin": "B0CTK45Z9V",
+      "item_name": "MAVO(マボ) 手動コーヒーグラインダー Phantox Pro Burr コーヒーグラインダー プロフェッショナル 45mm ステンレススチール グラインダー 容量 30g 120クリック調整 エスプレッソ用ハンドコーヒーグラインダー 注ぎ込み ブラック",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 233582.0,
+      "t30d_units": 14.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G58MWFKN",
-      "item_name": "[ロサキキROSAKIKI] ベッドフレーム ダブル パイプベッド スチール製すのこ 耐久性 静音設計 通気性 簡単組立 ベッド下収納空間 高さ 35.5",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 181963.0,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0F9KMSFD7",
-      "item_name": "[ロサキキ ROSAKIKI] ベッドフレーム キンぐ パイプベッド スチール製 すのこ構造 通気性 静音設計 高耐久 ベッド下収納 高さ35.5cm 組立簡単 ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 154290.33,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0G78JHZRW",
-      "item_name": "[ロサキキROSAKIKI] ベッドフレーム セミダブル パイプベッド スチール製すのこ 高強度耐久性 静音設計 通気性 簡単組立 ベッド下収納空間 高さ 35.5",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 99610.0,
-      "t30d_units": 10.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 65872574422,
+      "merchant_name": "MAVO COFFEE 専門店",
+      "asin": "B0CTK56NP7",
+      "item_name": "MAVO(マボ) 手動コーヒーグラインダー Phantox Pro Burr コーヒーグラインダー プロフェッショナル 45mm ステンレススチール グラインダー 容量 30g 120クリック調整 エスプレッソ用ハンドコーヒーグラインダー 注ぎ込み シルバー",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 143991.0,
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

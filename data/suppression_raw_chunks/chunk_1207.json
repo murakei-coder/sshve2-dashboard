@@ -1,22 +1,38 @@
 {
   "2970401722": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 2970401722,
+      "merchant_name": "Hefo",
       "asin": "B09QYCJ2BY",
       "item_name": "浴室水栓 Hefo 浴室用水栓 セット シャワー水栓 バス水栓 やけど防止 304ステンレス製 ハンドルシャワー 用混合栓 バス用水栓金具 防カビホース 低水圧極細水流 節水 吐水パイプ180°回転可 取り付け幅70-230mm対応 日本語取扱説明書 (シルバー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 502800.33,
-      "t30d_units": 39.0
+      "t30d_units": 39.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 2970401722,
+      "merchant_name": "Hefo",
       "asin": "B0CCJ4NQS5",
       "item_name": "浴室水栓 Hefo 浴室用水栓 セット シャワー水栓 バス水栓 やけど防止 304ステンレス製 ハンドルシャワー 用混合栓 バス用水栓金具 防カビホース 低水圧極細水流 節水 吐水パイプ180°回転可 取り付け幅70-230mm対応 日本語取扱説明書 (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 393200.0,
-      "t30d_units": 25.0
+      "t30d_units": 25.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,202 +1,21 @@
 {
-  "1004867612202": [
+  "1004960822902": [
     {
-      "asin": "B0FH4VKYDV",
-      "item_name": "Shell 急速充電器 合計40W 4ポート タイプc充電器 USB-Cケーブル付属【GaN III技術/PD3.0/QC4+/PPS規格対応/折りたたみ式プラグ/低温/PSE技術基準適合】iPhone/iPad/Android/その他各種対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 879305.69,
-      "t30d_units": 697.0
-    },
-    {
-      "asin": "B0FS1QZQSS",
-      "item_name": "Shell 巻き取り式 充電器 30W type-c 急速充電器【70㎝ケーブル内蔵/PSE技術基準適合/GaN III技術/折りたたみ式プラグ】PD3.0/QC4.0/PPS規格対応 iPhone17/16/15/iPad/Android対応 出張/自宅/海外旅行",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 446068.49,
-      "t30d_units": 267.0
-    },
-    {
-      "asin": "B0FRXRJ3GC",
-      "item_name": "Shell USB 充電器 20W 2ポート（USB-C+USB-A）Type-C PSE認証済 GaN技術 PD対応 コンパクト 出張/旅行に最適 iPhone17/16/15/14/13/iPad/Androidスマホ各種対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 183580.38,
-      "t30d_units": 264.0
-    },
-    {
-      "asin": "B0G3GLQ7WR",
-      "item_name": "Shell USB Type C ケーブル 100W 5A PD対応 高速充電 ナイロン編み やわらか 持ち運びに便利 iPhoneシリーズ/iPad/MacBook/Galaxy/Androidスマホ等対応 1m",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 481349.23,
-      "t30d_units": 637.0
-    },
-    {
-      "asin": "B0DSVY5BJW",
-      "item_name": "Shell 138W シガーソケット USB-C 3ポートカーチャージャー 【PD3.0/QC4.0/PPS 対応】 耐久性 コンパクトサイズ Car Charger 急速充電 MacBook Pro/Air, iPhone 17/16/15/14, Galaxy S24/S23 Ultra, iPad Pro 対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 222308.56,
-      "t30d_units": 110.0
-    },
-    {
-      "asin": "B0FH2LZ5CR",
-      "item_name": "Shell 巻き取り式 充電器 65W 3ポート ケーブル内蔵 GaNIII技術 折りたたみ式プラグ PSE認証済み PD3.0/QC4+/PPS規格対応 MacBook iPad iPhone Android ノートPC各種対応",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1104129.76,
-      "t30d_units": 365.0
-    },
-    {
-      "asin": "B0FS1S5NQ1",
-      "item_name": "Shell 急速充電器 100W 4ポート USB-C 卓上充電器【GaN III技術/PD3.0/QC4+規格対応/PSE技術基準適合】 MacBook Pro/iPad/iPhone/Android/ノートPC各種対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 329253.18,
-      "t30d_units": 92.0
-    },
-    {
-      "asin": "B0FH4RN9G6",
-      "item_name": "Shell カーチャージャー USB-C 2ポート 合計40W PD3.0/QC4+/PPS対応 12V・24V車対応 車載充電器 USB-Cケーブル付属 小型 軽量 耐久性 車 充電器 iPhone 16/15/14/13/12/iPad/Xperia/Galaxy/Androidなどに対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 278577.52,
-      "t30d_units": 373.0
-    },
-    {
-      "asin": "B0F8J7SCFH",
-      "item_name": "Shell 巻き取り式 充電器 65W 伸縮式 Type-C ケーブル内蔵 3ポート同時充電 GaNIII技術 超低温 折りたたみ式プラグ PSE技術基準適合 PD3.0/QC4.0/PPS等規格対応 MacBook iPad iPhone Androidスマホ ノートPC各種対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1323754.98,
-      "t30d_units": 578.0
-    },
-    {
-      "asin": "B0FH1SH1CR",
-      "item_name": "Shell 急速充電器 合計240W高出力 6台同時充電 (USB-C*4＋USB-A*2) GaNIII技術 ディスプレイ搭載 PSE認証済 PD3.1/QC5.0規格対応 1.5m電源ケーブル付き MacBook Pro/iPad/iPhone16/15/14/13/Android各種対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 356776.0,
-      "t30d_units": 46.0
-    },
-    {
-      "asin": "B0F8BKP62B",
-      "item_name": "Shell 100w 充電器 変換プラグ 海外旅行用 急速充電器 マルチ変換コンセントEU UK AU US【折り畳み式/LEDディスプレイ搭載/GaNIII技術/超低温/PSE技術基準適合】Type-c 4ポート旅行 韓国 アメリカ シンガポール オーストラリア イギリス全世界対応 MacBook/iPad/iPhone/Galaxy/Android/Dellなど多機種対応",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 65363.2,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0FS1RGM8Q",
-      "item_name": "Shell 65W 急速充電器 3ポート Type-C【GaN III技術/PD3.0/QC4+/PPS規格対応/PSE技術基準適合/折りたたみ式プラグ】MacBook/iPad/iPhone/Androidスマホ/ノートPC/その他機器対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 370156.83,
-      "t30d_units": 194.0
-    },
-    {
-      "asin": "B0F8BLHSGZ",
-      "item_name": "Shell 巻き取り式 充電器 for アップルウォッチ 65W 伸縮式Type-Cケーブル内蔵 4台同時充電 GaNIII技術 超低温 折りたたみ式プラグ PSE技術基準適合 PD3.0/QC4.0/PPS等規格対応 AppleWatch SE/9/8/7/6/Ultra/Macbook/iPad/iPhone/Androidスマホ/ノートPC各種対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 403103.32,
-      "t30d_units": 116.0
-    },
-    {
-      "asin": "B0FH24G8R3",
-      "item_name": "Shell 急速充電器 合計140W高出力 5台同時充電 (USB-C*3＋USB-A*2) GaNIII技術 ディスプレイ搭載 PSE認証済 PD3.0/QC4+規格対応 1.5m電源ケーブル付き 出張/旅行に最適 MacBook Pro/iPad/iPhone17/16/15/14/13/Android各種対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 432339.87,
-      "t30d_units": 101.0
-    },
-    {
-      "asin": "B0DSW9VMJ9",
-      "item_name": "Shell 充電器 65W Type-C 3ポート 急速充電器 GaNIII技術 折りたたみ式プラグ 低温 三台同時充電 PSE認証済 PD3.0/QC4+等規格対応 MacBook/iPad/iPhone17/16/15/14/13/Androidスマホ/ノートPC各種対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1396204.9,
-      "t30d_units": 755.0
-    },
-    {
-      "asin": "B0FH4W9TDK",
-      "item_name": "Shell 充電器 30W 2ポート（USB-C+USB-A）Type-C PSE認証済 GaNII技術 折りたたみ式プラグ PD3.0対応 コンパクト 出張/旅行に最適 iPhone17/16/15/14/13/iPad/Androidスマホ各種対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1000029.97,
-      "t30d_units": 995.0
-    },
-    {
-      "asin": "B0FVSNPYG9",
-      "item_name": "Shell モバイルバッテリー 10000mAh 軽量 小型 USB-C ケーブル一体型 22.5W出力 4台同時充電 ディスプレイ搭載 PSE技術基準適合 iPhone/iPad/Android/その他各種機器対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 725515.82,
-      "t30d_units": 347.0
-    },
-    {
-      "asin": "B0FH2P1Z9D",
-      "item_name": "Shell for アップルウォッチ 充電器 3in1 Apple watch 充電器 20W PD3.0/QC4+対応 急速充電器 軽量 小型 Type-cケーブル付き 出張/旅行用 apple watch SE/10/9/8/7/6/ultra iPhone16/16Plus/16Pro /16Pro Max/15/15 Pro各種対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 840160.76,
-      "t30d_units": 432.0
-    },
-    {
-      "asin": "B0G3GMRLPJ",
-      "item_name": "Shell USB Type C ケーブル 100W 5A PD対応 高速充電 ナイロン編み やわらか 持ち運びに便利 iPhoneシリーズ/iPad/MacBook/Galaxy/Androidスマホ等対応 2m",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 482676.26,
-      "t30d_units": 479.0
-    },
-    {
-      "asin": "B0FS1SGKHZ",
-      "item_name": "Shell 45W 急速充電器 2ポート USB-C【GaN II 技術/PD3.0/QC4+/PPS規格対応/PSE技術基準適合/折りたたみ式プラグ】iPhone17/16/15/14/13/iPad/Macbook Air/Galaxy/Androidスマホ/その他機器対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 439996.44,
-      "t30d_units": 317.0
-    },
-    {
-      "asin": "B0FSKR4BSQ",
-      "item_name": "Shell 100W 急速充電器 4ポート Type-C【GaN III技術/PD3.0/QC4+/PPS規格対応/PSE技術基準適合/折りたたみ式プラグ】ノートPC/Macbook/iPad/iPhone17/16/15/14/13/Galaxy/Androidスマホ/その他機器対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 902776.77,
-      "t30d_units": 300.0
-    },
-    {
-      "asin": "B0FVSPVZVR",
-      "item_name": "Shell モバイルバッテリー 20000mAh 大容量 軽量 USB-C ケーブル一体型 22.5W出力 4台同時充電 ディスプレイ搭載 PSE技術基準適合 iPhone/iPad/Android/その他各種機器対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1162815.65,
-      "t30d_units": 421.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1004960822902,
+      "merchant_name": "Realmking",
+      "asin": "B0GD64S6NQ",
+      "item_name": "Feagar 椅子 クッション 低反発 椅子用 座布団 体圧分散 長時間座っても疲れにくい オフィスチェア・自宅・車用 滑り止め カバー取り外し可 通気性 ブラック",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 95304.0,
+      "t30d_units": 26.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

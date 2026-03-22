@@ -1,31 +1,21 @@
 {
-  "48643408822": [
+  "48645621522": [
     {
-      "asin": "B01EL5GK2G",
-      "item_name": "[海東ブラザース] 中国茶 丸の内タニタ食堂の有機金花プーアール茶 500ml×24本",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 206176.0,
-      "t30d_units": 66.0
-    },
-    {
-      "asin": "B01EL5GJ54",
-      "item_name": "[海東ブラザース] 中国茶 丸の内タニタ食堂の有機ジャスミン茶 500ml×24本",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 116105.0,
-      "t30d_units": 36.0
-    },
-    {
-      "asin": "B01EL5GOSG",
-      "item_name": "[海東ブラザース] 中国茶 丸の内タニタ食堂の有機黒烏龍茶 500ml×24本",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 205160.0,
-      "t30d_units": 64.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 48645621522,
+      "merchant_name": "ダイレクトファーマシー",
+      "asin": "B01ESQNL5W",
+      "item_name": "【速攻美脚革命】 90粒 約30日分+3日分 メリロート 6,930mg 販売総数400,000個突破 GMP準拠 国産 サプリメント 日本製",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 104653.12,
+      "t30d_units": 67.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

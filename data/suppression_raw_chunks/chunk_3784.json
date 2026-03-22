@@ -1,76 +1,72 @@
 {
-  "8186923855": [
+  "8187150845": [
     {
-      "asin": "B0FX3VZBS3",
-      "item_name": "12V-24V車用 T20 シングル球 LED バックランプ ホワイト 爆光 54連 3014SMD W21W LEDバルブ LEDランプ 汎用 高輝度 車検対応 (2個)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 28320.25,
-      "t30d_units": 24.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 8187150845,
+      "merchant_name": "neverland-beauty-jp",
+      "asin": "B08SM6M9XY",
+      "item_name": "Neverland Beauty マネキンヘッド 頭囲20\" マネキン 頭 女性顔 耳付き ウィッグスタンド 化粧可能 メイク まつげ エクステ練習用 モデル DIY 頭部 ディスプレイ かつら 帽子マスクホルダー マッサージ 美容師 初心者 美容室 サロン 撮影 【固定用クランプ付】",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 55824.75,
+      "t30d_units": 23.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FX3WVMC4",
-      "item_name": "12V-24V車用 S25 シングル球 LED ホワイト 爆光 バックランプ 54連3014SMD BA15S P21W G18 LEDバルブLEDランプ 汎用 高輝度 車検対応 (2個)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 9440.0,
-      "t30d_units": 8.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 8187150845,
+      "merchant_name": "neverland-beauty-jp",
+      "asin": "B09YNN3R5L",
+      "item_name": "Neverland Beauty スタンドクランプ マネキンヘッド ウィッグ スタンド 三脚タイプ 77.5-120cm調節でき 新人研修 理容師 美容師トレーニング専用 美容院 理容サロン業務用 人気 プレゼント キャリングケース付",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 145993.66,
+      "t30d_units": 46.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0B3T9F1G8",
-      "item_name": "T10 LED ホワイト爆光 10個 車検対応 4014LEDチップ21連 12V車用 LED T10ポジションランプ/ライセンスランプ/ナンバー灯/ルームランプ (10個)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 6400.0,
-      "t30d_units": 5.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 8187150845,
+      "merchant_name": "neverland-beauty-jp",
+      "asin": "B07S72Y43L",
+      "item_name": "Neverland Beauty マネキンヘッド キャンバス 頭囲22\" 顔なし頭 おしゃれ ディスプレイ ウィッグ 帽子スタンド マチ針利用可能 マネキン",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 1880.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FX3WVLWV",
-      "item_name": "12V-24V車用S25 ダブル球 LED ホワイト 爆光 テールランプ/ブレーキランプ 54連3014SMD BAY15D P21/5W LEDバルブ LEDランプ 汎用 高輝度 車検対応 (2個)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 35376.64,
-      "t30d_units": 30.0
-    },
-    {
-      "asin": "B07V8C3SH2",
-      "item_name": "T10 LED ホワイト爆光 4個 車検対応 4014LEDチップ21連 12V車用 LED T10ポジションランプ/ライセンスランプ/ナンバー灯/ルームランプ (4個)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 16380.08,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B0FX3SZR5J",
-      "item_name": "12V-24V車用 T20 ダブル球 LED ホワイト 爆光 テールランプ/ブレーキランプ 54連3014SMD T20 バックランプ W21/5W LEDバルブ LEDランプ 汎用 無極性 高輝度 車検対応 (2個)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 23600.0,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0CHYQKWC4",
-      "item_name": "T10 LED ホワイト爆光 車検対応 4014LEDチップ21連 12V車用 LED T10ポジションランプ/ライセンスランプ/ナンバー灯/ルームランプ (2個)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 1740.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0BL1H16QV",
-      "item_name": "GOSMY T10 LED ホワイト爆光 6個 車検対応 4014LEDチップ21連 12V車用 LED T10ポジションランプ/ライセンスランプ/ナンバー灯/ルームランプ (6個)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 2940.5,
-      "t30d_units": 3.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 8187150845,
+      "merchant_name": "neverland-beauty-jp",
+      "asin": "B09DFWQ5MQ",
+      "item_name": "Neverland Beauty ヘアマネキン 練習用 頭囲16\" マネキンヘッド ミックス毛 多毛量 カットウィッグ ヘアセット 編み込み練習 マネキン 学生 美容師 理容師 新人研修 プロ愛用 理容室 美容室 サロン専売品 ヘアアクセサリー クランプ付き (ブラック)",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 68792.0,
+      "t30d_units": 24.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

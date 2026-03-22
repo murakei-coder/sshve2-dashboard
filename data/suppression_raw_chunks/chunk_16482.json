@@ -1,40 +1,38 @@
 {
-  "1140584970802": [
+  "1140615061302": [
     {
-      "asin": "B0FWXVZL7T",
-      "item_name": "ZPad3 タブレットケース、正規品ZPad3専用ケース、ZPad3タブレット11インチ対応、撥水タブレットケース 、タブレットPCケース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 288826.47,
-      "t30d_units": 151.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1140615061302,
+      "merchant_name": "BTIHCEUOT JP Direct",
+      "asin": "B0GGM4DQF6",
+      "item_name": "自転車 空気入れ 電動空気入れ バイク150PSI 高速充填 自動停止 エアーポンプ 大容量電池 仏/英/米式バルブ対応 5モード切替 LEDライト付き LCD表示 コードレス コンパクト 自転車/バイク/車/浮き輪/ボール対応 Type-C 充電式 モバイルコンプレッサー 収納袋 日本語取扱説明書付き",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 2218572.09,
+      "t30d_units": 1008.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GHNCXRJG",
-      "item_name": "【2026新登場 Android16 タブレットセット】ZPad2 タブレット 13インチ SIMフリー Unisoc T7300 120Hz高リフレッシュレート 1920x1200 FHD大画面 28GB RAM+256GB ROM 12000mAh PD18W急速充電 4G LTE+5GHz WiFi+Widevine L1+顔認識+Gemini AI+GPS対応 光センサー搭載 10点付属品",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GHYF942K",
-      "item_name": "【2026新登場 Android16 タブレット 8インチ】ZPad1A タブレット SIMフリー Unisoc T7300 CPU 8.8インチ 90Hz高リフレッシュレート 2560x1600 2.5Kスクリーン 28GB RAM 256GB ROM 8000mAh 4G LTE セルラー+5GHz WiFi+BT 5.0+Widevine L1+顔認識+Gemini AI+GPS対応",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FWR62JYH",
-      "item_name": "【Android タブレット 11インチ Helio G99】 ZPad3 タブレット SIMフリー 120Hz高リフレッシュレート 11インチ 1920x1200 FHD大画面 20GB+256GB+2TB拡張 Android 15 10000mAh PD18W急速充電 8MP/16MP Widevine L1 顔認識+4G LTE セルラー+5GHz WiFi+BT5.0+GPS対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 9207794.64,
-      "t30d_units": 472.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1140615061302,
+      "merchant_name": "BTIHCEUOT JP Direct",
+      "asin": "B0GGNRS69S",
+      "item_name": "エアダスター 電動エアダスター ブロワー ブロアー超強力300000RPM高速回転 最大風速150m/s 無段階風量調整 6000mAh 215g 小型 USB Type-C充電式 3種類ノズル付き PC掃除/キーボード/家具/車内/エアコン/洗車用 収納ボックス 日本語取扱説明書付き",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 3822420.82,
+      "t30d_units": 1303.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

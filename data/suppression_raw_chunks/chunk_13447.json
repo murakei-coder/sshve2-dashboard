@@ -1,22 +1,38 @@
 {
-  "864021012302": [
+  "864035529402": [
     {
-      "asin": "B07S49ZBSB",
-      "item_name": "エコレーヌ パーフェクションベルベット 増量サイズ 45ml スウェーデン生まれ ハリ集中ケア美容液",
-      "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
-      "suppression_category": "5.Others",
-      "pf": "Consumables",
-      "t30d_ops": 24913.0,
-      "t30d_units": 2.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 864035529402,
+      "merchant_name": "Creative*Space",
+      "asin": "B0F92VS6S2",
+      "item_name": "OPTIXCELL ブックスタンド 卓上書見台 読書台 360°回転式台座 無階段高さ角度調節 ページ押さえクリップ付き 折りたたみ式 台所/オフィス/学習多用途 レシピ・雑誌・タブレット (回転式)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 612856.97,
+      "t30d_units": 206.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DQCX6HVQ",
-      "item_name": "ひざの違和感を軽減＜機能性表示食品＞万歩楽々ターメロン (60粒)白ウコンラブダン配合(※新パッケージ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 92773.0,
-      "t30d_units": 16.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 864035529402,
+      "merchant_name": "Creative*Space",
+      "asin": "B0F92TVMH8",
+      "item_name": "OPTIXCELL ブックスタンド 卓上書見台 読書台 360°回転式台座 無階段高さ角度調節 ページ押さえクリップ付き 折りたたみ式 台所/オフィス/学習多用途 レシピ・雑誌・タブレット (収納式)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 228539.59,
+      "t30d_units": 78.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

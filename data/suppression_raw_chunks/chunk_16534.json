@@ -1,13 +1,38 @@
 {
-  "1144476742202": [
+  "1144673837302": [
     {
-      "asin": "B0DYNB39BK",
-      "item_name": "【タブレット 8インチ Wi-Fiモデル】Bmax I8 Plus Android16 タブレット、24GB+128GB+2TB拡張、8コアCPU T7250 、90Hz高刷新率8.7インチ Tablet、6000mAh大容量バッテリー+Type-C充電、WidevineL1対応+無線投影、BT5.2+OTG+GPS搭載、顔認識+画面分割+児童保護+FMラジオ 保護フイルム貼り済み",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 11969306.86,
-      "t30d_units": 843.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1144673837302,
+      "merchant_name": "サプリ スタンダード",
+      "asin": "B0G24J8SVX",
+      "item_name": "Zoonel ペット用 消臭スプレー 1L 詰め替え用 除菌 犬 猫 用品 トイレ ペット用品 消臭 無香料 国内製造 ズーネル",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 5160.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1144673837302,
+      "merchant_name": "サプリ スタンダード",
+      "asin": "B0G24LQ89L",
+      "item_name": "Zoonel ペット用 消臭スプレー 500ml 除菌 犬 猫 用品 トイレ ペット用品 消臭 無香料 国内製造 ズーネル",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 3560.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

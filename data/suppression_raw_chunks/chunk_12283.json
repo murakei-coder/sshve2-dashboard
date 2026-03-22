@@ -1,67 +1,21 @@
 {
-  "745772408302": [
+  "745810160802": [
     {
-      "asin": "B0F3CZPCRL",
-      "item_name": "【自然由来・大豆由来の鉄分 贅沢配合】Fe Plus フェリチン鉄 3.3mg × 鉄分 × マルチビタミン 美容成分 サプリ 8種の栄養機能食品 ビタミン ミネラル23種 30日分 無添加 自然由来 大豆由来 国内製造",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 188936.02,
-      "t30d_units": 110.0
-    },
-    {
-      "asin": "B0FKGS3R67",
-      "item_name": "【気になる脇のニオイに徹底アプローチ】デオタイム デオドラントクリーム 30g 医薬部外品 薬用 わきが対策 クリーム ニオイ わきが 制汗剤 ワキガ 脇汗 防臭 体臭 足臭 手汗 発汗抑制 無香料",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 12276.33,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0CQYM2TKM",
-      "item_name": "【シャンピニオン贅沢配合】デオタイム シャンピニオンエキス150倍濃縮 30日分 エチケットサプリメント ロイテリ菌 タブレット 緑茶エキス ブレスケア",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 913043.24,
-      "t30d_units": 611.0
-    },
-    {
-      "asin": "B0F3CYTM91",
-      "item_name": "【自然由来・大豆由来の鉄分 贅沢配合】Fe Plus フェリチン鉄 3.3mg × 鉄分 × マルチビタミン 美容成分 サプリ 8種の栄養機能食品 ビタミン ミネラル23種 60日分 無添加 自然由来 大豆由来 国内製造",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 41474.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0F3D2KFGC",
-      "item_name": "【自然由来・大豆由来の鉄分 贅沢配合】Fe Plus フェリチン鉄 3.3mg × 鉄分 × マルチビタミン 美容成分 サプリ 8種の栄養機能食品 ビタミン ミネラル23種 90日分 無添加 自然由来 大豆由来 国内製造",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 88894.0,
-      "t30d_units": 22.0
-    },
-    {
-      "asin": "B0CQYL239J",
-      "item_name": "【シャンピニオン贅沢配合】デオタイム シャンピニオンエキス150倍濃縮 60日分 エチケットサプリメント ロイテリ菌 タブレット 緑茶エキス ブレスケア",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 261458.31,
-      "t30d_units": 96.0
-    },
-    {
-      "asin": "B0CQYL8K1S",
-      "item_name": "【シャンピニオン贅沢配合】デオタイム シャンピニオンエキス150倍濃縮 90日分 エチケットサプリメント ロイテリ菌 タブレット 緑茶エキス ブレスケア",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 260789.46,
-      "t30d_units": 68.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 745810160802,
+      "merchant_name": "CHENGBEID",
+      "asin": "B0D3H7BHQR",
+      "item_name": "懐中電灯 フラッシュライト led 強力 軍用 最強 Uiitee 充電式 ハンディライト 30000ルーメン 超高輝度 XHP70.2 明るい flashlight ハンドライト 電池式 COB作業灯 IP67防水 7モード調光 ズーム調整可能 登山 夜釣り 夜間訓練 作業用 停電 防災 地震 避難対策 非常灯にも使用可能（2個パック）",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 340522.15,
+      "t30d_units": 98.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

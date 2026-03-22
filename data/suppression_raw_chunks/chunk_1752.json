@@ -1,40 +1,72 @@
 {
   "5780149622": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 5780149622,
+      "merchant_name": "QIN LING",
       "asin": "B07CH9JBNH",
       "item_name": "SUKONG 杖 4点 つえ 介護用 軽量 自立式 伸縮式 長さ調節可能 ステッキ 歩行補助 高齢者 リハビリ 敬老の日 (レッド)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
       "t30d_ops": 85996.66,
-      "t30d_units": 21.0
+      "t30d_units": 21.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 5780149622,
+      "merchant_name": "QIN LING",
       "asin": "B0CZ9RWSS1",
       "item_name": "【手すり無し/コンパクト】踏み台 スツール 軽量アルミ製 滑り止め付き アジャスター付き 段差解消 玄関 キッチン 浴室 室内外兼用 介護補助 足置き 大人 子供 ペット用 (SKC04 手すり無しタイプ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 92902.71,
-      "t30d_units": 15.0
+      "t30d_units": 15.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 5780149622,
+      "merchant_name": "QIN LING",
       "asin": "B0CZ9SXYQ1",
       "item_name": "SUKONG 踏み台 手すり付き ステップ 高さ調整 滑り止め付き 低い 手すり 手摺り 台 段差解消 転倒防止 玄関 室内 屋内 屋外 浴室 お風呂 車 軽量 老人 介護 補助 大人 子供 持ち運び 小さい 玄関ステップ 浴槽 バスルーム キッチン リビングルーム シャワーチェア 昇降台 ふみ台 (SKC03)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
       "t30d_ops": 25047.0,
-      "t30d_units": 4.0
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 5780149622,
+      "merchant_name": "QIN LING",
       "asin": "B07D29Z51Q",
       "item_name": "SUKONG ベッド用手すり 起き上がり手すり ハンドル高度レール長さ調節可 ベッドアーム 小物整理バッグ付 母の日",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 265437.0,
-      "t30d_units": 45.0
+      "t30d_units": 45.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

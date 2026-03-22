@@ -1,40 +1,72 @@
 {
   "4839462422": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 4839462422,
+      "merchant_name": "SZMDLX-JP",
       "asin": "B0C92V9SM6",
       "item_name": "SZMDLX 美顔ローラー 小顔ローラー 美容ローラー 3D Y字型 フェイスローラー マッサージローラー 防水 充電不要 小顔 むくみ防止 フェイス＆ボディー用 （ローズゴールド）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 299165.23,
-      "t30d_units": 159.0
+      "t30d_units": 159.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 4839462422,
+      "merchant_name": "SZMDLX-JP",
       "asin": "B08TG7ZDXY",
       "item_name": "SZMDLX 美顔ローラー 小顔ローラー 美容ローラー 3D Y字型 フェイスローラー マッサージローラー 防水 充電不要 小顔 むくみ防止 フェイス＆ボディー用 (シルバー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 89795.18,
-      "t30d_units": 47.0
+      "t30d_units": 47.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 4839462422,
+      "merchant_name": "SZMDLX-JP",
       "asin": "B0FY4SJTSG",
       "item_name": "SZMDLX 美顔ローラー EMS RF 美顔器 リフトアップ 小顔ローラー 顔痩せ 8つローラー搭載 Y字型 3段階RF 9段階EMS LED光 1台多役 全身用 男女兼用 誕生日 ギフト プレゼント 日本語説明書付き",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
       "t30d_ops": 81210.37,
-      "t30d_units": 10.0
+      "t30d_units": 10.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 4839462422,
+      "merchant_name": "SZMDLX-JP",
       "asin": "B0FGP8BH52",
       "item_name": "SZMDLX 美顔ローラー 小顔ローラー 美容ローラー 3D Y字型 マッサージローラー フェイス＆ボディー用 防水 充電不要 美顔器 男女兼用 フェイスローラー 小顔 むくみ防止 （ダークグレー）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 250494.63,
-      "t30d_units": 133.0
+      "t30d_units": 133.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

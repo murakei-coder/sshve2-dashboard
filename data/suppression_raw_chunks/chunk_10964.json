@@ -1,13 +1,55 @@
 {
-  "602827748302": [
+  "603023706402": [
     {
-      "asin": "B0FCSC8HSS",
-      "item_name": "[コンフラックス] ビジネスリュック デザイン徹底改良 バックパック リュック リュックサック カバン 出張 大容量 2way メンズ マチ拡張 17.3インチ 38L 自立 多機能 防水 撥水加工 耐衝撃 国内メーカー 旅行 通勤 通学 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 287280.0,
-      "t30d_units": 36.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 603023706402,
+      "merchant_name": "養生仙薬",
+      "asin": "B0DGGSJ796",
+      "item_name": "【指定医薬部外品】フィジフル 疲労回復 サプリ サプリメント 疲れ 慢性疲労 改善 肩こり 腰痛 だるさ 軽減 体力維持 身体抵抗力 集中力 二日酔い 防止",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 1381207.2,
+      "t30d_units": 468.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 603023706402,
+      "merchant_name": "養生仙薬",
+      "asin": "B0CC6B15DV",
+      "item_name": "【指定医薬部外品】楽養生 歯の衰え 腰痛 肩こり 血流改善 疲労回復 肩 首 腰 膝の不調 歯槽膿漏 予防 骨 身体抵抗力の維持 改善 90錠",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 18955672.09,
+      "t30d_units": 4559.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 603023706402,
+      "merchant_name": "養生仙薬",
+      "asin": "B0CV9VDQPW",
+      "item_name": "養生仙薬 すやすやティー 緑茶 ギャバ茶 ギャバロン茶 GABA テアニン ドリンク お試し 茶葉 茶 お茶 ティーバッグ 静岡県産",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 221494.66,
+      "t30d_units": 73.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

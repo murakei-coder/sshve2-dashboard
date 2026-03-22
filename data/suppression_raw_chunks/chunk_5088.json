@@ -1,292 +1,55 @@
 {
-  "13553099422": [
+  "13554270622": [
     {
-      "asin": "B0DRTTPSBL",
-      "item_name": "【Amazon.co.jp限定】IKERY 有線LANアダプター usb-c イーサネットアダプター Type-C lan 変換アダプタ1000Mbps 高速 RJ45 ギガビットイーサネット LAN ケーブル 変換 MacBook, iPad Pro, iMacなどに対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 719023.82,
-      "t30d_units": 725.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13554270622,
+      "merchant_name": "PRODELI Direct",
+      "asin": "B0FZ9Y2QBT",
+      "item_name": "PRODELI For DJI Osmo Action 6 専用 ガラスフィルム 9H硬度 飛散防止 衝撃吸収 高透過率 自動吸着 2.5Dラウンドエッジ 強化ガラス 気泡ゼロ dji osmo action 6 用 保護フィルム【6枚入り】",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 4575.33,
+      "t30d_units": 7.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DCVP3H3L",
-      "item_name": "【Amazon.co.jp限定】IKERY USBハブ Type‐A usbポート 4in1 USB HUB 3.0 高速データ転送5Gbps 軽量 コンパクト超小型 タイプA接続 usb 増設 拡張 分配器 Windows/Mac/ChromeBook/ノートPC PS4/ PS5など対応 在宅勤務 出張外出 60cm ケーブル",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 99729.91,
-      "t30d_units": 115.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13554270622,
+      "merchant_name": "PRODELI Direct",
+      "asin": "B0FVSNQYV5",
+      "item_name": "PRODELI For ROG Xbox Ally/ROG Xbox Ally X 専用 ガラスフィルム 対応 RC73XA-Z2E24G1T / RC73YA-Z2A16G512 硬度9H 耐衝撃 高感度 高透過率 2.5Dラウンドエッジ 強化ガラス 気泡無し 自動吸着 保護フィルム",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 68158.66,
+      "t30d_units": 69.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G1BPV6MF",
-      "item_name": "ストリングライト イルミネーション 15m 電球色 USB 5V低圧 PC素材 破損しにくい 15+1個電球 防雨型 室内/屋外 間接照明 Led String Lights Bulb テント キャンプ ライト 誕生日パーティー 新年 クリスマスツリー 電飾 ガーデン 庭 祭り 商店街飾り 15メートル",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 6120.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GCSQ23Q2",
-      "item_name": "テープライト 10M USB式 RGB スマホアプリ制御 調光調色 音楽連動 タイマーモード 間接照明 おしゃれ ledテープ PC/TVゲームルーム 部屋 LEDストリップらいと 祭りクリスマス イルミネーション装飾 屋内用非防水 えるいーでいー 照明(10メートル)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 75011.07,
-      "t30d_units": 61.0
-    },
-    {
-      "asin": "B0CRDKJRTX",
-      "item_name": "Amazon.co.jp限定 IKERY LEDストリングライト 15M 電球色 USB 5V イルミネーションライト 破損しにくい 25+1個 G40電球 E12口金 防雨型 屋内/屋外間接照明 誕生日 ハロウィーン リスマスツリー led電飾 ガーデンライト 庭 夏祭り 学園祭(連結不可)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 62419.66,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0FL7WVXPR",
-      "item_name": "LEDテープライト 5M RGB+昼白色+電球色 RGBCW 間接照明 ストリップ ストリングライト リモコン& アプリ操作 1600 万色 調光調色 音楽連動 音に反応 タイマー機能 両面テープ付き 工具不要 簡単取付 クリスマス ゲーミングルーム インテリア 雰囲気作り",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F7LF28W2",
-      "item_name": "LEDテープライト 20M USB式 RGB スマホアプリ制御 調光調色 音楽連動 タイマーモード 間接照明 おしゃれ ledテープ PC/TVゲームルーム 部屋 LEDストリップらいと 祭りクリスマス イルミネーション装飾 屋内用非防水 えるいーでいー 照明(20メートル)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 47856.0,
-      "t30d_units": 27.0
-    },
-    {
-      "asin": "B0FM8FPSRW",
-      "item_name": "IKERY ソーラー LEDストリングライト 7.6M 電球色2700K 5V低圧 イルミネーションライト PC素材 破損しにくい 12+1個 G40電球 E12口金 防雨型 屋内/屋外間接照明 誕生日 パーティー クリスマスツリー 電飾 ガーデンライト 庭 祭り 商店街飾り（USB充電非対応）",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 247911.7,
-      "t30d_units": 119.0
-    },
-    {
-      "asin": "B0D2QFVZ84",
-      "item_name": "Amazon.co.jp限定 IKERY LEDストリングライト 7.6M 電球色 USB 5V低圧 イルミネーションライト PC素材 破損しにくい 12+1個 G40電球 E12口金 防雨型 屋内/屋外間接照明 誕生日 パーティー クリスマスツリー 電飾 ガーデンライト 庭 祭り 商店街飾り(連結不可)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 136016.97,
-      "t30d_units": 58.0
-    },
-    {
-      "asin": "B088R9DHJZ",
-      "item_name": "IKERY LEDテープライト20M RGB 両面テープ SMD5050 高輝度 PSE認証 4ピン 調光調色 ledテープ 間接照明 取付簡単 工具不要 入電電圧100V-240V",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 481377.74,
-      "t30d_units": 206.0
-    },
-    {
-      "asin": "B07YFXY43P",
-      "item_name": "IKERY LEDテープライト 20M アプリとリモコン制御 音楽連動 1600万色 RGB ledライトテープ 調光調色 間接照明 両面テープ付き SMD5050 24V 4ピン 天井 廊下 ゲーム室 屋内装飾用 お祭り クリスマス飾り",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 1064216.42,
-      "t30d_units": 439.0
-    },
-    {
-      "asin": "B0DJ2CJNDF",
-      "item_name": "Amazon.co.jp限定 ネオンライト5m MagicColor流れる ledテープライト 防水リモコンとスマホアプリ操作 PCテレビバック ゲーミングライト 屋内屋外兼用 調光調色 音声同期 間接照明 Neon Rope lights パーティー ハロウィン クリスマス 飾り 店舗 部屋 インテリア 装飾 USB式 低压 LEDロープライト(5メートル)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 35921.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0DJ2J7GQJ",
-      "item_name": "IKERY LEDテープライト防水 30メートル RGB リモコン スマホアプリ対応 音楽連動 LEDテープ 1600色調光調色 タイマー機能 LED strip light テープ間接照明 オシャレ ロープ テープライト",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 17096.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DJ2C76DV",
-      "item_name": "Amazon.co.jp限定 IKERY ネオンライト LED MagicColor流れる ledテープライト 防水 10m PCテレビバック ゲーミング 屋内屋外兼用 調光調色 音声同期 間接照明 Neon Rope lights パーティー ハロウィン クリスマス 飾り 店舗 部屋 インテリア 装飾 USB式 低压 (10メートル)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 10544.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FWCGXGMC",
-      "item_name": "LEDヘッドライトH11 Hi/Lo 50W 20000流明 12-24V 6500K 車検対応 19980lm ルーメン 明るさ300%アップ 取り付け簡単 ミニサイズ 高輝度 ファン付け ドライバーユニット搭載 車用LEDバルブ(グレー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 1299.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0G4CYK3QY",
-      "item_name": "ネオンライト 5メートル 流れる ledテープライト 防水 MagicColor リモコンとスマホアプリ操作 PCテレビバック ゲーミングライト 屋内屋外兼用 調光調色 音声同期 間接照明 Neon Rope LED Strip lights パーティー ハロウィン クリスマス 飾り 店舗 部屋 インテリア 装飾 USB式 低压 LED ロープライト 5M",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 19794.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0FCS3T6J7",
-      "item_name": "LEDテープライト5M 昼光色 グレードアップ USB式 300LEDs 薄型軽いライン状 LEDテープ 5V 10段階調光 間接補助照明 寝室/子供部屋/キッチン/リビングルーム/キャビネット/祭りイベントタープテント 臨時照明器具LEDランプ 非防水室内装飾用 ストリップ テープライト",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 29029.0,
-      "t30d_units": 22.0
-    },
-    {
-      "asin": "B0FB94V5RZ",
-      "item_name": "IKERY LEDテープライト 30M 音楽連動 アプリ＋リモコン制御 マイク音に反応 1600万色 LEDテープ 調光調色 間接照明 おしゃれ RGBテープライト 両面テープ付き 24V 天井 廊下 ゲーム室 屋内装飾用 夏祭り クリスマス飾り",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 180856.93,
-      "t30d_units": 56.0
-    },
-    {
-      "asin": "B0F48RQSLS",
-      "item_name": "LED テープライト30M リモコン版 LEDテープ 20色+12種類モード 4音楽モード付き 調光調色 間接照明LEDストリップランプ インドア/寝室/キッチン/リビングルーム クリスマス/誕生日パーティー/祭り/クラブ・バー装飾照明 15Mx2ロール",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 84458.0,
-      "t30d_units": 27.0
-    },
-    {
-      "asin": "B07X1WSRC6",
-      "item_name": "H7 LEDヘッドライト 12-24V 6500K 車検対応 19980lm ルーメン 明るさ300%アップ 取り付け簡単 ミニサイズ 高輝度 ファン付け ドライバーユニット搭載 車用LEDバルブ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 5997.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DDX3QH6B",
-      "item_name": "Amazon.co.jp限定 IKERY LEDテープライト5M USB RGB スマホアプリ制御 調光調色 音楽連動 タイマーモード 間接照明 おしゃれ ledテープ PC/TVゲームルーム 部屋 LED 祭りクリスマス装飾 屋内用非防水テープライト(5メートル)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 66317.11,
-      "t30d_units": 65.0
-    },
-    {
-      "asin": "B0DCVN3KK4",
-      "item_name": "【Amazon.co.jp限定】IKERY USBハブ 4 Type‐Aポート 4in1 USB3.0 HUB 5Gbps高速データ転送 軽量 コンパクト超小型 タイプA usb拡張 増設 Windows/Mac/ChromeBook等ノートPC PS4/ PS5 対応 在宅勤務 出張外出 30cm ケーブル",
-      "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
-      "suppression_category": "5.Others",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 258273.94,
-      "t30d_units": 368.0
-    },
-    {
-      "asin": "B0GCSD9L69",
-      "item_name": "テープライト 5M USB式 RGB スマホアプリ制御 調光調色 音楽連動 タイマーモード 間接照明 おしゃれ ledテープ PC/TVゲームルーム 部屋 LEDストリップらいと 祭りクリスマス イルミネーション装飾 屋内用非防水 えるいーでいー 照明(5メートル)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 83548.74,
-      "t30d_units": 87.0
-    },
-    {
-      "asin": "B0FPFXG7ZC",
-      "item_name": "IKERY LEDテープライト 40M リモコン版 LEDテープ- 音楽連動 調光調色 間接照明 LEDストリップランプ -インドア/寝室/キッチン/リビングルーム クリスマス/誕生日パーティー/祭り/クラブ・バー装飾照明 20Mx2ロール",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 86564.99,
-      "t30d_units": 24.0
-    },
-    {
-      "asin": "B0F3X3RL8D",
-      "item_name": "【Amazon.co.jp限定】IKERY 有線LANアダプター usb-A イーサネットアダプター Type-A lan 変換アダプタ 10/100/1000Mbps 高速 RJ45 ギガビット LAN ケーブル 変換コネクタ MacBook, iPad Pro, iMacなどに対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 90148.13,
-      "t30d_units": 70.0
-    },
-    {
-      "asin": "B0DG2RQ7T9",
-      "item_name": "Amazon.co.jp限定 IKERY 電動歯ブラシ ソニック 電動音波はぶらし振動 IPX7防水 USB充電式 5つのモード 毎モード3つ強度調整 2分間オートタイマー機能 メモリー機能 振動式歯磨き (本体+４ブラシヘッド, ホワイト)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 80882.0,
-      "t30d_units": 34.0
-    },
-    {
-      "asin": "B0B5SL9R6M",
-      "item_name": "IKERY LEDテープライト 20M RGB 調光調色 ストリングライト 音楽同期 44Kリモコン付き 24V 4ピン 1600万色 Ledライト 間接照明 天井 廊下 キッチン 店舗 室内装飾用 テープ ライト 非防水 (20M アプリ + 44キーリモコン)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 77709.99,
-      "t30d_units": 28.0
-    },
-    {
-      "asin": "B0DJ2FZP4Q",
-      "item_name": "LEDテープライト 30メートルx1ロール RGB 音楽連動 LEDテープ 1600色調光調色 タイマー機能 LED strip light テープ間接照明 オシャレ テープライト 防水",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 70731.0,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0CRDXM6GV",
-      "item_name": "IKERY LEDストリングライト 30M 電球色 USB 5V LEDイルミネーションライト 屋外 防水 50⁺2個 Ｇ40 電球 割れにくい 間接照明 誕生日パーティー デコレーションライト ガーデンライト キャンプ テント ベランダ 庭 祭り クリスマス 飾り(連結不可)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 70815.22,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B09WH373G4",
-      "item_name": "IKERY LEDテープライト 40M アプリ制御 音声同期 RGB 調光調色 間接照明 LEDテープ 24V 4ピン 店舗 ゲーム室 カラオケ 室内 ハロウィン クリスマス パーティー 装飾用 雰囲気作り",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 158123.15,
-      "t30d_units": 42.0
-    },
-    {
-      "asin": "B0FCS17HRT",
-      "item_name": "LEDテープライト5M 電球色 グレードアップ USB式 300LEDs 薄型軽いライン状 LEDテープ 5V 10段階調光イルミネーション 間接補助照明 寝室/子供部屋/キッチン/リビングルーム/キャビネット/祭りイベントタープテント 臨時照明器具LEDランプ 非防水室内装飾用 ストリップ テープライト Warm White",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 10488.8,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0F6YKXXMQ",
-      "item_name": "テープライト 15M USB式 RGB スマホアプリ制御 調光調色 音楽連動 タイマーモード 間接照明 おしゃれ ledテープ PC/TVゲームルーム 部屋 LEDストリップらいと 祭りクリスマス イルミネーション装飾 屋内用非防水 えるいーでいー 照明(15メートル)",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 8555.0,
-      "t30d_units": 5.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13554270622,
+      "merchant_name": "PRODELI Direct",
+      "asin": "B0F2MXFCDS",
+      "item_name": "PRODELI For Switch2（2025発売）専用 ガラスフィルム ガイド枠付き 高透過率 硬度9H 耐衝撃 高感度 2.5Dラウンドエッジ 気泡無し 強化ガラス 自動吸着 スイッチ2 用 保護フィルム【3枚入り】",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 39689.74,
+      "t30d_units": 43.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

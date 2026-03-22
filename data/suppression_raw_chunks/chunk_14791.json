@@ -1,121 +1,72 @@
 {
-  "1040192880402": [
+  "1040248998302": [
     {
-      "asin": "B0FVVH785R",
-      "item_name": "【2026アップグレード版】 鼻毛カッター 手動 メンズ レディース ステンレス製 収納ポーチ付き 持ち運び便利 耳毛 鼻毛 ハサミ 使用簡単 安全 痛みなし (シルバー・ブラック各1個セット)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 4760.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FMY9SJ1B",
-      "item_name": "【2026アップグレード版】 鼻毛カッター 手動 メンズ レディース ステンレス製 収納ポーチ付き 持ち運び便利 耳毛 鼻毛 ハサミ 使用簡単 安全 痛みなし (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 878900.21,
-      "t30d_units": 719.0
-    },
-    {
-      "asin": "B0FNWYH2X3",
-      "item_name": "[LLXS] サウナー愛用 深め 大きいサイズ サウナハット [リバーシブル表裏異素材の二重構造] メンズ レディース 収納ボタン付き メッシュ 断熱 通気 速乾 撥水 ごりらっくす サ活 温泉 (ブラック)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 112967.42,
-      "t30d_units": 38.0
-    },
-    {
-      "asin": "B0F7LX29FD",
-      "item_name": "子供 浮き輪 ライフジャケット 15-25kg 【新型韓国浮き輪法定認証商品 二重空気袋 固定式 両手解放】 バックル固定 厚手 丈夫 安全 ブルー 水泳練習 水遊び 海水浴 空気入れ簡単 海外人気商品",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 100558.08,
-      "t30d_units": 53.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1040248998302,
+      "merchant_name": "XIANBAO MAOYI",
+      "asin": "B0F531YXJY",
+      "item_name": "自転車カバー サイクルカバー 300D生地超厚手 破れにくい 防風 防塵 耐熱 UVカット 撥水加工 二重縫製 盗難防止ロック穴付き 風飛び防止バックル 反射テープ 収納袋付き 20インチまで対応",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 26340.99,
+      "t30d_units": 17.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F7LYFKYD",
-      "item_name": "【新型韓国浮き輪法定認証商品 二重空気袋 固定式 両手解放】浮き輪 ライフジャケット 25-50kg 子供 バックル固定 厚手 丈夫 安全 ブルー 水泳練習 水遊び 海水浴 空気入れ簡単 海外人気商品",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 45144.87,
-      "t30d_units": 24.0
-    },
-    {
-      "asin": "B0F7LYKZY2",
-      "item_name": "子供 浮き輪 ライフジャケット 25-50kg 【新型韓国浮き輪法定認証商品 二重空気袋 固定式 両手解放】 バックル固定 厚手 丈夫 安全 ピンク 水泳練習 水遊び 海水浴 空気入れ簡単 海外人気商品",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 19771.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0FNX2GSXP",
-      "item_name": "[LLXS] サウナー愛用 深め 大きいサイズ サウナハット [リバーシブル表裏異素材の二重構造] メンズ レディース 収納ボタン付き メッシュ 断熱 通気 速乾 撥水 ごりらっくす サ活 温泉 (ベージュ)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 20860.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0F7LWZZF8",
-      "item_name": "子供 浮き輪 ライフジャケット 15-25kg 【新型韓国浮き輪法定認証商品 二重空気袋 固定式 両手解放】 バックル固定 厚手 丈夫 安全 ピンク 水泳練習 水遊び 海水浴 空気入れ簡単 海外人気商品",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 36540.41,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0GKY3PR3X",
-      "item_name": "脱毛器 擦るだけ ナノガラス式 角質除去 男女兼用 薄型 軽量 痛みを抑えた設計 ムダ毛処理 家庭用 旅行 出張 プレゼント ボディトリマー (ホワイト, 標準)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1040248998302,
+      "merchant_name": "XIANBAO MAOYI",
+      "asin": "B0FVXBYGTC",
+      "item_name": "加湿器 小型 卓上 超音波加湿器 【2025新登場&抗菌鋼板&デジタル残量表示】 20時間加湿 コードレス Type-C充電式 55ml/hパワフル加湿 2600mah大容量バッテリー 除菌 次亜塩素酸水対応 アロマ対応 空気清浄機 コンパクト 静音 7色LEDライト 水漏れ防止 乾燥/花粉対策 寝室/オフィス/車用/プレゼント",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 458916.88,
+      "t30d_units": 275.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FMYC4G6Z",
-      "item_name": "【2026アップグレード版】 鼻毛カッター 手動 メンズ レディース ステンレス製 収納ポーチ付き 持ち運び便利 耳毛 鼻毛 ハサミ 使用簡単 安全 痛みなし (シルバー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 197751.82,
-      "t30d_units": 164.0
-    },
-    {
-      "asin": "B0FRMNGX8W",
-      "item_name": "【2025新登場】LLXS 500ml~550ml ペットボトルホルダー カラビナ付き ペットボトルカバー 散歩 アウトドア 折り畳 ブラック 軽量 携帯便利 ブラック L",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 7680.5,
-      "t30d_units": 6.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1040248998302,
+      "merchant_name": "XIANBAO MAOYI",
+      "asin": "B0FVX9MN7F",
+      "item_name": "加湿器 小型 卓上 超音波加湿器 【2025新登場&抗菌鋼板&デジタル残量表示】 20時間加湿 コードレス Type-C充電式 55ml/hパワフル加湿 2600mah大容量バッテリー 除菌 次亜塩素酸水対応 アロマ対応 空気清浄機 コンパクト 静音 7色LEDライト 水漏れ防止 乾燥/花粉対策 寝室/オフィス/車用/プレゼント",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 250683.23,
+      "t30d_units": 153.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F92KN6ZD",
-      "item_name": "【2025アップグレード版】 鼻毛カッター 手動 メンズ レディース ステンレス製 収納ポーチ付き 持ち運び便利 耳毛 鼻毛 ハサミ 使用簡単 安全 痛みなし (暗黒２個)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 32099.99,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0GL1VT4RW",
-      "item_name": "鼻毛カッター 手動式 回転タイプ 男女兼用 静音 コンパクト 水洗いOK 充電不要 携帯便利 ステンレス刃 簡単操作 安全設計 (ブラック, フリーサイズ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1040248998302,
+      "merchant_name": "XIANBAO MAOYI",
+      "asin": "B0FT1DP8SF",
+      "item_name": "加湿器 小型 卓上 超音波加湿器 【2025新登場&抗菌鋼板&デジタル残量表示】 20時間加湿 コードレス Type-C充電式 55ml/hパワフル加湿 2600mah大容量バッテリー 除菌 次亜塩素酸水対応 アロマ対応 空気清浄機 コンパクト 静音 7色LEDライト 水漏れ防止 乾燥/花粉対策 寝室/オフィス/車用/プレゼント",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 145529.94,
+      "t30d_units": 90.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

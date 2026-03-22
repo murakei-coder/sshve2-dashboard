@@ -1,31 +1,21 @@
 {
-  "622972974702": [
+  "623042237702": [
     {
-      "asin": "B0F8B4NM63",
-      "item_name": "E-Power Solutions PD3.1 140W USB-C to USB-C×2 分配ケーブル 2in1 急速充電 USB2.0データ転送 iPhone 16 /iPhone 15/Galaxy/MacBook Air/MacBook Pro/iPad/ADAMON65W 他対応 1.5m(1.0m+0.5m) ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 51940.6,
-      "t30d_units": 27.0
-    },
-    {
-      "asin": "B0G4LV6B42",
-      "item_name": "E-Power Solutions 超薄型 70W出力 Type-C×2ポート充電器【65W対応/超薄型12.8mm/GaN搭載/PD・PPS充電器/PSE適合】SLIM 70W 2C (BLACK)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 77140.05,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0DPFTR51G",
-      "item_name": "E-Power Solutions 超薄型 70W出力 Type-C×2ポート充電器【65W対応/超薄型12.8mm/GaN搭載/PD・PPS充電器/PSE適合】SLIM 70W 2C (White)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 163269.74,
-      "t30d_units": 38.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 623042237702,
+      "merchant_name": "NANHUAL",
+      "asin": "B0CH9WMY5K",
+      "item_name": "BC-345XL BC-346XL リサイクルインク キヤノン 用 インク 345 346 Canon 用 TS3130 TS3130S TS3330 TS203 TR4530 プリンター 対応 純正 と同量 大容量タイプ 2個セット",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 153238.0,
+      "t30d_units": 33.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

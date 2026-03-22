@@ -1,13 +1,21 @@
 {
-  "1160911006102": [
+  "1160954517202": [
     {
-      "asin": "B0GCFBF4VP",
-      "item_name": "【自転車選手が愛用】防寒手袋 自転車手袋 ランニンググローブ 裏起毛 スマホ タッチパネル対応 防風 滑り止め メンズ レディース バイク アウトドア 登山 通勤通学 春秋冬用 ブラック",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 4955.0,
-      "t30d_units": 4.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1160954517202,
+      "merchant_name": "LingZB-jp",
+      "asin": "B0FXGZKB6D",
+      "item_name": "Nobetta いびき防止グッズ 舌用マウスピース いびき軽減グッズ 「睡眠コンサルタント監修」いびき対策 いびき改善グッズ 舌ピタ 口呼吸防止グッズ 安眠グッズ 睡眠補助 舌安定用具 無呼吸症候群グッズ 小型 軽量 持ち運び便利 水洗い可能 繰り返し使える(ホワイト)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1390708.78,
+      "t30d_units": 918.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

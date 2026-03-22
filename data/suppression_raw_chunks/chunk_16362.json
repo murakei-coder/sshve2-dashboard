@@ -1,13 +1,38 @@
 {
-  "1134569489802": [
+  "1134583522202": [
     {
-      "asin": "B0GCCQHPZ6",
-      "item_name": "【東京都民・戸建て限定】初期費用0円で太陽光パネル＆蓄電池を設置「スマソラでんき」申込スターターキット｜電気代削減・停電対策（Amazonギフト券特典あり）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 545.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1134583522202,
+      "merchant_name": "Nexal.JP専門店【LJL品質保証】",
+      "asin": "B0FWBW57DW",
+      "item_name": "Nexal 携帯枕 ネックピロー U型 首枕 空気枕 旅行枕 収納ポーチ付き 洗えるカバー 持ち運び便利 飛行機 車 夜行深夜バス 新幹線 コンパクト ソファ 旅行用最適",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 103455.24,
+      "t30d_units": 58.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1134583522202,
+      "merchant_name": "Nexal.JP専門店【LJL品質保証】",
+      "asin": "B0GFMH44ZH",
+      "item_name": "Nexal 爪切り 日本製ステンレス 高級 つめきり ツメキリ 切れ味いい 爪用ヤスリ カーブ刃 超軽量 簡単操作 滑し止め 安全 持ち運びに便利 子供 大人 高齢者に向け",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 375345.62,
+      "t30d_units": 156.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

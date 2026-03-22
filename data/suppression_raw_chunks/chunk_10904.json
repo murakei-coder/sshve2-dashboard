@@ -1,13 +1,38 @@
 {
-  "587531737802": [
+  "588094830402": [
     {
-      "asin": "B0CZQQPRN9",
-      "item_name": "天体望遠鏡 大人使用可能 150倍以上 高倍率の天体観測望遠鏡（最大333倍）初心者に最適 月のクレーターや土星の輪が見える 調整可能なアルミ三脚、スマートフォンアダプター、日本語取扱説明書付き 宇宙科学探査 誕生日 贈り物",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 1358936.75,
-      "t30d_units": 159.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 588094830402,
+      "merchant_name": "PIVOTS_ perfume",
+      "asin": "B0D91WXS3G",
+      "item_name": "【 PIVOTS 】 ピボッツ メンズ用モテ香水 [ オスモフェロモンでモテる男に/ムスク と シトラス 香る ] フェロモン 媚薬香水 オードパルファム オードパルファン 30ml 単品",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 7960.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 588094830402,
+      "merchant_name": "PIVOTS_ perfume",
+      "asin": "B0FPVRHMYX",
+      "item_name": "[ PIVOTS ] ソリッドパフューム 練り香水 フェロモン成分配合 男性用 [ 紳士のモテ香水 さりげない色気/フルーティ フローラル/ボディコロン バーム ] メンズ香水 ピボッツ",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 76305.0,
+      "t30d_units": 22.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

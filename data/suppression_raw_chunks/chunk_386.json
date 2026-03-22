@@ -1,13 +1,21 @@
 {
   "711650165": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 711650165,
+      "merchant_name": "D-shop style",
       "asin": "B01CDT7M9M",
       "item_name": "【医薬部外品】顔ダニ・ニキビ対策 薬用洗顔石鹸 115g｜殺菌・消炎 有効成分配合｜毛穴汚れ・皮脂をすっきり洗浄｜薬用フェイスプロテクトソープ｜男女兼用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 824444.5,
-      "t30d_units": 511.0
+      "t30d_units": 511.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

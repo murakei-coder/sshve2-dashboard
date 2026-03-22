@@ -1,13 +1,38 @@
 {
-  "18980943922": [
+  "18988375322": [
     {
-      "asin": "B098NNRNTW",
-      "item_name": "152個オリーブグリーンバルーンガーランドアーチキット、ホワイトゴールド紙吹雪バルーンレトログリーンバルーン、ゴールドメタリックラテックスバルーンセットブライダルウェディングバースデーバルーンベビーシャワーデコレーション",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 43505.0,
-      "t30d_units": 24.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 18988375322,
+      "merchant_name": "RULA JP",
+      "asin": "B0F1L7R715",
+      "item_name": "ダイソン 掃除機 交換 ヘッド v7 slim v8 slim fluffy v10 v11 v15 スリム 専用 部品 別売りモーターヘッド適用ダイソンクリーナーヘッドパーツ【2026版】v10slim/v12/v12slim非対応",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 27346.0,
+      "t30d_units": 7.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 18988375322,
+      "merchant_name": "RULA JP",
+      "asin": "B0F1L6N53M",
+      "item_name": "ダイソン 掃除機 モーター ヘッド v7 slim fluffy v8 slim fluffy v10 v11 v15 シリーズ汎用交換部品別売り Dyson sv10 sv11 sv12 sv14 sv22適用ダイソンクリーナーヘッドパーツ,【2026版】v10slim/v12/sv18非対応",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 126545.0,
+      "t30d_units": 32.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

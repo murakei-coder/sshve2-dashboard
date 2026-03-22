@@ -1,103 +1,55 @@
 {
-  "837715471502": [
+  "837780200502": [
     {
-      "asin": "B0G4M97M47",
-      "item_name": "ツイストボード 手すり付き 高齢者 低負荷 初心者 安心 バランス 運動器具 介護予防 自宅リハビリ 家族みんなで使える 静音 多機能 ウエスト 引き締め 体幹強化 転倒防止 筋力アップ ダイエット 有酸素運動 スマートライフプロジェクト (ブルー)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 837780200502,
+      "merchant_name": "CANOW",
+      "asin": "B0D7LY51W7",
+      "item_name": "CANOW 【公式】ブレモ Bremo 30粒 口臭 タブレット エチケット シチリア産レモン 1個 シャンピニオンエキス デンタブロック乳酸菌 ポリグルタミン酸",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 7532025.11,
+      "t30d_units": 1518.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F8B4YL9M",
-      "item_name": "【FC展開某スクール導入】 ピラティスリフォーマー ピラティスマシン 折りたたみ ラテックス管 ピラティスコアベッド マシンピラティス 体幹 ストレッチ 静音設計 初心者～上級者 【日本語組立説明書&メニュー例付属】 国内企画 (ブラック)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 326360.0,
-      "t30d_units": 10.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 837780200502,
+      "merchant_name": "CANOW",
+      "asin": "B0DD7HHQZS",
+      "item_name": "【公式】ブレモ Bremo 30粒 口臭 タブレット エチケット シチリア産レモン シャンピニオン（3）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 1366198.32,
+      "t30d_units": 116.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F62TFNMY",
-      "item_name": "ステッキチェア 折りたたみ杖 椅子になる杖 高さ調節不可 おでかけ 行列 テーマパーク 遊園地 量販店 アウトドア スポーツ観戦 散歩 高齢者 歩行補助 155-175cm アルミ製 高耐荷重 【専用収納ケース付属】 (シルバー)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 17997.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DBSMC8PQ",
-      "item_name": "【ながらエクササイズ】STEEZY トランポリン 室内 スマホホルダー付 国内企画 静音 8本脚 耐荷重300kg 手すり取り外し 102cm 40インチ 《商品ページ内使用イメージ動画あり》",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 928560.0,
-      "t30d_units": 118.0
-    },
-    {
-      "asin": "B0F8NTLF45",
-      "item_name": "STEEZY シッティングボックス リフォーマーボックス ピラティスマシン マシンピラティス 体幹 ストレッチ 静音設計 初心者～上級者 国内企画 （ブラック）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 25600.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F62Q371J",
-      "item_name": "ステッキチェア 折りたたみ杖 椅子になる杖 高さ調節不可 おでかけ 行列 テーマパーク 遊園地 量販店 アウトドア スポーツ観戦 散歩 高齢者 歩行補助 155-175cm アルミ製 高耐荷重 【専用収納ケース付属】 (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 77987.0,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0DXBB64J2",
-      "item_name": "【トレーニングチューブ強度別5本付属】 ピラティスボード 家庭用 折りたたみ 体幹トレーニング ホームジム 自動リバウンド機能 エクササイズ トレーニング ピラボ PILABO ピラティスリフォーマー pilates reformar 筋トレ 腹筋 国内企画 日本語説明書【タイマー付属なし】 ※商品ページ内に使用イメー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 69000.0,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0F62VKRK2",
-      "item_name": "ステッキチェア 折りたたみ杖 椅子になる杖 高さ調節不可 おでかけ 行列 テーマパーク 遊園地 量販店 アウトドア スポーツ観戦 散歩 高齢者 歩行補助 155-175cm アルミ製 高耐荷重 【専用収納ケース付属】 (ゴールド)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 41993.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0FQ5CR2KN",
-      "item_name": "トランポリン 室内 子供 大人 折りたたみ かんたん設置 手すり コンパクト 静音 安全ゴムバンド式 国内企画 省スペース 大人 子供兼用 工具不要 耐荷重150kg 高さ調整 静音 ダイエット エクササイズ (かんたん組立&折りたたみ, ブラック)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 470970.0,
-      "t30d_units": 59.0
-    },
-    {
-      "asin": "B0G4M7T61R",
-      "item_name": "ツイストボード 手すり付き 高齢者 低負荷 初心者 安心 バランス 運動器具 介護予防 自宅リハビリ 家族みんなで使える 静音 多機能 ウエスト 引き締め 体幹強化 転倒防止 筋力アップ ダイエット 有酸素運動 スマートライフプロジェクト (ピンク)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G4M8JZKC",
-      "item_name": "ツイストボード 手すり付き 高齢者 低負荷 初心者 安心 バランス 運動器具 介護予防 自宅リハビリ 家族みんなで使える 静音 多機能 ウエスト 引き締め 体幹強化 転倒防止 筋力アップ ダイエット 有酸素運動 スマートライフプロジェクト (パープル)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 4999.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 837780200502,
+      "merchant_name": "CANOW",
+      "asin": "B0DD7H5N4T",
+      "item_name": "【公式】ブレモ Bremo 30粒 口臭 タブレット エチケット シチリア産レモン シャンピニオン（2）",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 1300209.04,
+      "t30d_units": 155.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

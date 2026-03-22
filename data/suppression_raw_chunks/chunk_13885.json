@@ -1,31 +1,38 @@
 {
-  "927309676102": [
+  "927332382202": [
     {
-      "asin": "B0FCFPVJCD",
-      "item_name": "ｐｃ 収納ボックス サーバーラック PCスタンド 折りたたみ ノートpc(ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 14224.0,
-      "t30d_units": 13.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 927332382202,
+      "merchant_name": "Karlsway life",
+      "asin": "B0FD348ZTQ",
+      "item_name": "シェーバー 小型 Sinessy【2025新登場＆スライドロック】電気シェーバー メンズ ひげそり 携帯髭剃り 乾湿両用 電動 ミニ コンパクト IPX7防水 長持ちバッテリー ロック機能 電気カミソリ 軽量 持ち運び便利 出張/旅行 プレゼント",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DZXKW9QP",
-      "item_name": "PCスタンド 折りたたみ ノートpc スタンド コンパクト 10段階角度調整 約17.3インチ対応 折りたたみ時サイズ:幅44×奥行255×高さ15mm【持ち運び便利/アルミ合金製/軽量/PC・MacBook・ラップトップ・iPad/在宅勤務/リモート授業】",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 20578.0,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0FCFQZFY8",
-      "item_name": "ｐｃ 収納ボックス サーバーラック PCスタンド 折りたたみ ノートpc(ピンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 5600.0,
-      "t30d_units": 5.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 927332382202,
+      "merchant_name": "Karlsway life",
+      "asin": "B0G2S55FC7",
+      "item_name": "【Amazon 限定ブランド】加湿器 卓上 小型 4L大容量・40時間連続 卓上加湿器 超音波式 アロマ対応 上から給水 おしゃれ 30dB静音設計 省エネ 空焚き防止 吹出口360°調整 お手入れ簡単 部屋 寝室 乾燥/花粉症対策 PSE認証済 日本語説明書付",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 3508271.76,
+      "t30d_units": 1118.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

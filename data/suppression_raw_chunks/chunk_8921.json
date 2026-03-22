@@ -1,22 +1,21 @@
 {
-  "68513335922": [
+  "68516392322": [
     {
-      "asin": "B0FP1YQ954",
-      "item_name": "[ La protein ] ラ プロテイン チョコレート (大袋30日分) ミニマル Minimal チョコ 使用 youtuber ゆうこす 監修 美容プロテイン 女性向け ダイエット 置き換え 置き換えダイエット ソイ ホエイ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 9139.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0B1DMKWQ7",
-      "item_name": "[ La protein ] ラ プロテイン 抹茶 (大袋)【 おいしさと栄養素を両立！ youtuber ゆうこす が監修した 女性 のための 美容プロテイン 】 女性向け ダイエット 置き換え 置き換えダイエット （ 目的に合わせて味と配合成分を選べる ）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 135660.0,
-      "t30d_units": 17.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 68516392322,
+      "merchant_name": "BongKim-HG",
+      "asin": "B0FCYD4LRK",
+      "item_name": "Bongkim 懸垂バー ぶらさがり健康器 折畳み式 懸垂マシン 耐荷重150kg 筋トレ器具 4段高さ調節可 チンニングスタンド (ブラック)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 212285.0,
+      "t30d_units": 18.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

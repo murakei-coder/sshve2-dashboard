@@ -1,22 +1,38 @@
 {
-  "89581284122": [
+  "89583058822": [
     {
-      "asin": "B0C6P4K4FT",
-      "item_name": "エマコッカーナ トリートメントプラス ケラチン サロン専売 100ml",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 115594.43,
-      "t30d_units": 72.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 89583058822,
+      "merchant_name": "リンナイ公式ショップ",
+      "asin": "B0C8H6J22Z",
+      "item_name": "【工事費込み】ビルトインガスコンロ リンナイ(Rinnai) HOWARO Built-in ホワロ プロパンガス 60cm幅タイプ（天板：フロスティホワイト） ES31W36H4RWW",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 269400.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0C6PDB4BX",
-      "item_name": "エマコッカーナヘアオイル 洗い流さないトリートメント オイル 60ml",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 252132.08,
-      "t30d_units": 72.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 89583058822,
+      "merchant_name": "リンナイ公式ショップ",
+      "asin": "B0C8H8B6VP",
+      "item_name": "【工事費込み】ビルトインガスコンロ リンナイ(Rinnai) HOWARO Built-in ホワロ 都市ガス 60cm幅タイプ（天板：フロスティホワイト） ES31W36H4RWW",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 458000.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

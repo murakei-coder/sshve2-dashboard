@@ -1,238 +1,106 @@
 {
-  "86892394622": [
+  "86894034622": [
     {
-      "asin": "B0C23CKRYJ",
-      "item_name": "ビール チューハイ飲み比べギフト】オリオンビール イラスト熨斗 7種 350ml 10本 (御礼)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 21560.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0D8714G41",
-      "item_name": "クラフトビール オリオンビール orion 誕生日 ビール ギフト 飲み比べ プレゼント 詰め合わせ 350ml×5缶 & 専用グラス付き",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 28620.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0C23CHSNJ",
-      "item_name": "ビール チューハイ飲み比べギフト】オリオンビール イラスト熨斗 7種 350ml 10本 (誕生日)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 24640.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0F9F4V85F",
-      "item_name": "【飲み比べ ビールギフト】 オリオンビール イラスト熨斗 4種 350ml 10本 (誕生日（新75BEER入り）)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 69840.0,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0D841GDM4",
-      "item_name": "クラフトビール オリオンビール イラスト熨斗 orion 誕生日 ビール ギフト 飲み比べ プレゼント 詰め合わせ 350ml×6缶",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 17880.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0C23B7MD9",
-      "item_name": "ビール チューハイ飲み比べギフト】オリオンビール イラスト熨斗 7種 350ml 10本 (イラスト熨斗)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 105641.0,
-      "t30d_units": 31.0
-    },
-    {
-      "asin": "B0C23PTZNJ",
-      "item_name": "ビール チューハイ飲み比べギフト】オリオンビール イラスト熨斗 7種 350ml 10本 (無地)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 24640.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0CM61PZ3X",
-      "item_name": "オリオンビール公式 ギフト 4種 15缶 飲み比べ セット ザ・ドラフト 75BEER プレミアム 詰め合わせ クラフトビール 誕生日 熨斗",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 13960.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CJRJYQ4W",
-      "item_name": "オリオンビール公式 おばぁ自慢のさんぴん茶 500ml 24本 1ケース お茶 ジャスミン茶 沖縄 orion",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 831348.8,
-      "t30d_units": 210.0
-    },
-    {
-      "asin": "B0C1YZYY9V",
-      "item_name": "【飲み比べ ビールギフト】 オリオンビール イラスト熨斗 4種 350ml 10本 (イラスト熨斗)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 264396.41,
-      "t30d_units": 68.0
-    },
-    {
-      "asin": "B0CJRK5P87",
-      "item_name": "オリオンビール公式 おばぁ自慢のさんぴん茶 500ml 48本入り 2ケース ジャスミン茶 沖縄 orion",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 751829.0,
-      "t30d_units": 133.0
-    },
-    {
-      "asin": "B0G12GZW9P",
-      "item_name": "【飲み比べ ビールギフト】 オリオンビール イラスト熨斗 4種 350ml 10本 (御歳暮（新75BEER入り）)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CM64KDPX",
-      "item_name": "オリオンビール公式 ギフト 4種 15缶 飲み比べ セット ザ・ドラフト 75BEER プレミアム 詰め合わせ クラフトビール 御礼 熨斗",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C23CPSCJ",
-      "item_name": "オリオンビール はじめての ビール 飲み比べ セット (ビール5缶)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 248315.03,
-      "t30d_units": 107.0
-    },
-    {
-      "asin": "B0CM62BWWJ",
-      "item_name": "オリオンビール公式 ギフト 4種 15缶 飲み比べ セット ザ・ドラフト 75BEER プレミアム 詰め合わせ クラフトビール 御年賀 熨斗",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FGQDR9J8",
-      "item_name": "【飲み比べ ビールギフト】 オリオンビール イラスト熨斗 4種 350ml 10本 (御中元（新75BEER入）)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D875TDJB",
-      "item_name": "クラフトビール オリオンビール orion ビール ギフト 飲み比べ プレゼント 詰め合わせ 350ml×5缶 & 専用グラス付き",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 25440.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0CM5ZQC54",
-      "item_name": "オリオンビール公式 ギフト 4種 15缶 飲み比べ セット ザ・ドラフト 75BEER プレミアム 詰め合わせ クラフトビール オリジナルイラスト 熨斗",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 69800.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0F9F5LWS4",
-      "item_name": "【飲み比べ ビールギフト】 オリオンビール イラスト熨斗 4種 350ml 10本 (無地（新75BEER入り）)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 31040.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0D83Y583Q",
-      "item_name": "チューハイ ナチュラ 飲み比べ natura 4種 12缶 セット アソート 350ml",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 7800.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CM6346ZB",
-      "item_name": "オリオンビール公式 ギフト 4種 15缶 飲み比べ セット ザ・ドラフト 75BEER プレミアム 詰め合わせ クラフトビール お歳暮 熨斗",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CM5VT1LZ",
-      "item_name": "オリオンビール公式 ギフト 4種 15缶 飲み比べ セット ザ・ドラフト 75BEER プレミアム 詰め合わせ クラフトビール 内祝い 熨斗",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 6980.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CMQCPCLC",
-      "item_name": "ビール チューハイ飲み比べギフト】オリオンビール イラスト熨斗 7種 350ml 10本 (御歳暮)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D8413HYP",
-      "item_name": "クラフトビール 誕生日 ギフト 350ml×6缶 orion オリオンビール ビール プレゼント 飲み比べ 詰め合わせ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 2980.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C23CG86R",
-      "item_name": "ビール チューハイ飲み比べギフト】オリオンビール イラスト熨斗 7種 350ml 10本 (御祝)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 6160.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CYSMBHG8",
-      "item_name": "オリオンビール公式 オリジナル提灯 一個・電球別売 ※かさの部分のみ販売（電球、ソケット付属無し）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 135851.41,
-      "t30d_units": 59.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 86894034622,
+      "merchant_name": "Velaeme Direct",
+      "asin": "B0FMNVLYXY",
+      "item_name": "ZOUPW フレキシブルソーラーパネル 50W PERC 11BB ソーラーパネル ステンレス結束バンドとカラビナ付属 12Vシステム対応 IP68防水 キャンプ 車中泊 アウトドア 防災グッズ 屋根 ベランダ設置",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 41991.0,
+      "t30d_units": 6.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 86894034622,
+      "merchant_name": "Velaeme Direct",
+      "asin": "B0FMNVLBH2",
+      "item_name": "ZOUPW フレキシブルソーラーパネル 200W = 100W×2枚 PERC 11BB ソーラーパネル ステンレス結束バンドとカラビナ付属 12Vシステム対応 IP68防水 キャンプ 車中泊 アウトドア 防災グッズ 屋根 ベランダ設置",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 615968.0,
+      "t30d_units": 32.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 86894034622,
+      "merchant_name": "Velaeme Direct",
+      "asin": "B0FL7GFD6F",
+      "item_name": "ZOUPW ソーラーパネル 200W = 100W×2枚 N型 単結晶 25％変換効率 16BB 12V・24Vシステム対応 IP68防水 キャンプ 車中泊 防災グッズ 屋根 ベランダ設置",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 169989.0,
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 86894034622,
+      "merchant_name": "Velaeme Direct",
+      "asin": "B0FL7FZ12F",
+      "item_name": "ZOUPW ソーラーパネル 50W N型 単結晶 25％変換効率 16BB 12Vシステム対応 IP68防水 軽量 車中泊 防災グッズ 屋根 ベランダ設置",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 37950.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 86894034622,
+      "merchant_name": "Velaeme Direct",
+      "asin": "B0FMNVM2JV",
+      "item_name": "ZOUPW フレキシブルソーラーパネル 100W PERC 11BB ソーラーパネル ステンレス結束バンドとカラビナ付属 12Vシステム対応 IP68防水 キャンプ 車中泊 アウトドア 防災グッズ 屋根 ベランダ設置",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 159226.0,
+      "t30d_units": 14.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 86894034622,
+      "merchant_name": "Velaeme Direct",
+      "asin": "B0FL7BRPWX",
+      "item_name": "ZOUPW ソーラーパネル 100W N型 単結晶 25％変換効率 16BB 12Vシステム対応 IP68防水 軽量 車中泊 防災グッズ 屋根 ベランダ設置",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 49396.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

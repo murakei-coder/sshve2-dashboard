@@ -1,1624 +1,344 @@
 {
-  "508920178202": [
+  "509182782402": [
     {
-      "asin": "B0CTDLY936",
-      "item_name": "シシベラ 3dマスク 立体マスク 小顔 耳が痛くならない マスク 不織布 立体 血色マスク 不織布 マスク 小さめ カラーマスク 子供向け ベビーピンク",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 3568.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0CXY41YB6",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク 冷感オールドレース×チャコール",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 44387.11,
-      "t30d_units": 64.0
-    },
-    {
-      "asin": "B0BDRSX39Y",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て サンドベージュ×紐オールドローズ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 9750.0,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0C9MCV4J1",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て オールドレース×紐レッド",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 13500.0,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0G1X2ZVMQ",
-      "item_name": "シシベラ シートマスク アゼライン酸 パック 顔 CICIBELLA フェイスパック 個包装 8枚 ケアナパック 皮脂 角質 混合肌 オイリー肌 香料無添加 日本製【公式・正規品】2箱セット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CQ8J9VRT",
-      "item_name": "[シシベラスポーツ] スーツケース キャリーバッグ 拡張機能付 超軽量 耐衝撃 360度回転 静音 TSAローク搭載 旅行 ビジネス 出張 Lサイズ(7泊~長期旅行 110L) ピンクチタン",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CTDKYJVN",
-      "item_name": "シシベラ 3dマスク 立体マスク 小顔 耳が痛くならない マスク 不織布 立体 血色マスク 不織布 マスク 小さめ カラーマスク 子供向け ヘーゼルナッツ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DCNYHXPV",
-      "item_name": "【日本製】 シシベラ フェイスパック 30枚 大容量 シートマスク フェイスマスク レチノールパック ヒ卜幹細胞 エクソソーム パック 顔 高保湿 乾燥肌 ビタミンc パック デイリーパック レディース メンズ 男性 女性 毛穴ケア",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 598967.77,
-      "t30d_units": 688.0
-    },
-    {
-      "asin": "B0CXXXPMCZ",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て オールドレースxショコラ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 47250.0,
-      "t30d_units": 63.0
-    },
-    {
-      "asin": "B0DD7619BL",
-      "item_name": "シシベラスポーツ フェイスパック ヒ卜幹細胞 エクソソーム パック 保湿 デイリー スキンケア 低刺激 7枚 スーパーレチノール×EXOSOME",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 10216.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0BDRYZQRX",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク オールドレース×紐オールドローズ",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 187691.57,
-      "t30d_units": 300.0
-    },
-    {
-      "asin": "B0C7KZ53KB",
-      "item_name": "【日本製】 シシベラ フェイスパック 30枚 大容量 シートマスク フェイスマスク レチノールパック ヒ卜幹細胞 エクソソーム パック 顔 高保湿 乾燥肌 ビタミンc パック デイリーパック レディース メンズ 男性 女性 毛穴ケア",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 1280947.32,
-      "t30d_units": 1398.0
-    },
-    {
-      "asin": "B0BK94SLK8",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 277766.21,
-      "t30d_units": 471.0
-    },
-    {
-      "asin": "B0G1GLT75P",
-      "item_name": "シシベラ シートマスク アゼライン酸 ビタミンC 配合 朝 パック 28枚 毛穴 透明感 くすみ CICIBELLA フェイスパック 混合肌 脂性肌 敏感肌 日本製（AZELAIC ACID＆VITAMINS）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CQ8FZD52",
-      "item_name": "[シシベラスポーツ] スーツケース キャリーバッグ 拡張機能付 超軽量 耐衝撃 360度回転 静音 TSAローク搭載 旅行 ビジネス 出張 Mサイズ(4-7泊 70L) アイボリーホワイト",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DX28RV48",
-      "item_name": "【2026年モデル瞬間冷却】シシベラ ハンディファン 冷却プレート 扇風機 小型 100段階風力調節 長時間稼働 接触冷感 クーラー機能 手持ち扇風機 暑さ対策グッズ ストラップ付き カラビナ付き グレージュレース",
-      "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
-      "suppression_category": "5.Others",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0DWMC5D4B",
+      "item_name": "NIIMBOT D110 新版 ラベルライター Bluetooth接続 多機能ラベルプリンター ラベルライター本体+3巻ラベル付き ラベルメーカー 値札プリンター 名前ラベル 使いやすい 携帯便利 Android & iOS対応 USB充電式 ラベルシール 書類整理/名前シール/値札シール/調味料などに適用 日本語取扱説明書付き ホワイト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 1385665.58,
+      "t30d_units": 295.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FY6HYFFN",
-      "item_name": "シシベラ シートマスク エクソソーム アルブチン 配合 デイリー パック 7枚 ヒト幹細胞 透明感 ツヤ 高保湿 CICIBELLA フェイスパック 敏感肌 乾燥肌 混合肌 日本製（EXOSOME＆ARBUTIN）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 1500.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DD76QW5J",
-      "item_name": "シシベラスポーツ フェイスパック ヒ卜幹細胞 エクソソーム パック 保湿 デイリー スキンケア 低刺激 7枚 スーパーグルタチオン×EXOSOME",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 6390.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0BDRVGMQK",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て アプリコット×紐グレー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 7500.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0CS945CLH",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク オールドレース×紐ブラック",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 66918.32,
-      "t30d_units": 111.0
-    },
-    {
-      "asin": "B0BDRSG9Y7",
-      "item_name": "シシベラ 3dマスク 立体マスク 小顔 耳が痛くならない マスク 不織布 立体 血色マスク 不織布 マスク 小さめ カラーマスク 丸顔さん向け ヘーゼルナッツ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BK95848T",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 115122.26,
-      "t30d_units": 194.0
-    },
-    {
-      "asin": "B0CQXHW1J4",
-      "item_name": "【日本製】 シシベラ フェイスパック 30枚 大容量 シートマスク フェイスマスク レチノールパック ヒ卜幹細胞 エクソソーム パック 顔 高保湿 乾燥肌 ビタミンc パック デイリーパック レディース メンズ 男性 女性 毛穴ケア",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 1432705.79,
-      "t30d_units": 1669.0
-    },
-    {
-      "asin": "B0DX2823RY",
-      "item_name": "【2026年モデル瞬間冷却】シシベラ ハンディファン 冷却プレート 扇風機 小型 100段階風力調節 長時間稼働 接触冷感 クーラー機能 手持ち扇風機 暑さ対策グッズ ストラップ付き カラビナ付き パールレース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 2980.0,
-      "t30d_units": 1.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0GL7MTMM7",
+      "item_name": "NIIMBOT B1Pro ラベルメーカー スマホ対応 サーマルプリンター 感熱ラベルプリンター本体+3巻ラベル付き Bluetooth接続 小型 多機能ポータブル 300DPI高精細印刷 使いやすい AndroidとIOS対応 写真アルバム/手帳/郵便宛名/値札/学習ノート/名前に適用 USB充電式 ラベル用紙付属（50*30mm/50*30mm/50*80mm） ブルー",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 45900.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0BK94S538",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 180161.23,
-      "t30d_units": 300.0
-    },
-    {
-      "asin": "B0CXY4MBVC",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク 冷感ライラックアッシュ×ブラック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 52123.83,
-      "t30d_units": 74.0
-    },
-    {
-      "asin": "B0C9MF1PG5",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク オールドレース×紐レッド",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 132009.76,
-      "t30d_units": 217.0
-    },
-    {
-      "asin": "B0BDRXXV8M",
-      "item_name": "シシベラ 3dマスク 立体マスク 小顔 耳が痛くならない マスク 不織布 立体 血色マスク 不織布 マスク 小さめ カラーマスク 丸顔さん向け ピンクベージュ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CQ8LF558",
-      "item_name": "[シシベラスポーツ] スーツケース キャリーバッグ 拡張機能付 超軽量 耐衝撃 360度回転 静音 TSAローク搭載 旅行 ビジネス 出張 Mサイズ(4-7泊 70L) チタニウム",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FY6H3K6Y",
-      "item_name": "シシベラ シートマスク PDRN セラミド 配合 デイリー パック 顔 7枚 CICIBELLA フェイスパック 高保湿 バリ 毛穴 乾燥肌 敏感肌 日本製（PDRN＆CERAMIDE）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 750.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BK9C8VBJ",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 149606.72,
-      "t30d_units": 254.0
-    },
-    {
-      "asin": "B0BK93N73Z",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 752908.42,
-      "t30d_units": 1235.0
-    },
-    {
-      "asin": "B0BDRVHV5M",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て ライラックアッシュ×紐ベージュ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 20250.0,
-      "t30d_units": 27.0
-    },
-    {
-      "asin": "B0FY6FQK2Q",
-      "item_name": "シシベラ シートマスク レチノール グルタチオン 配合 ナイト パック 顔 7枚 CICIBELLA フェイスマスク 透明感 ハリ ツヤ 乾燥肌 混合肌 日本製（RETINOL＆GLUTATHIONE）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 3000.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0FYBS2B8X",
-      "item_name": "シシベラ シートマスク アゼライン酸 パック 顔 フェイスパック 個包装 4枚 ケアナパック 皮脂 角質 混合肌 オイリー肌 香料無添加 日本製【公式・正規品】1箱セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CQXLKKP8",
-      "item_name": "シシベラスポーツ フェイスパック ヒ卜幹細胞 エクソソーム パック 保湿 デイリー スキンケア 低刺激 7枚 高濃度ビタミンC×EXOSOME",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BK996718",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 304349.51,
-      "t30d_units": 516.0
-    },
-    {
-      "asin": "B0C5XVPG8S",
-      "item_name": "クレンジングタオル 綿100 使い捨て 大容量 360枚（60枚x6袋） フェイシャルタオル 敏感肌用 フェイスタオル 使い捨てタオル コットンパフ 手拭き 顔拭き コットン 洗顔タオル メイク落とし 毛羽立ちなし 厚手 瞬間吸湿 乾湿両用 洗顔 ペーパータオル 柔らかい肌触り 200*200mm フェイスペーパー シシベ",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 273419.33,
-      "t30d_units": 106.0
-    },
-    {
-      "asin": "B0BDRSC5DY",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て ヘーゼルナッツ×紐オールドローズ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 16500.0,
-      "t30d_units": 22.0
-    },
-    {
-      "asin": "B0CQ8GXGCT",
-      "item_name": "[シシベラスポーツ] スーツケース キャリーバッグ 拡張機能付 超軽量 耐衝撃 360度回転 静音 TSAローク搭載 旅行 ビジネス 出張 Lサイズ(7泊~長期旅行 110L) オールドレース",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G1GZ9DVG",
-      "item_name": "シシベラ シートマスク PDRN エクソソーム アゼライン酸 アルブチン パック フェイスパック 個包装 4枚 顔パック 4種類すべて入り 保湿 混合肌 香料無添加 日本製【公式・正規品】1箱セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 6108.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0FYCRL45W",
-      "item_name": "シシベラ シートマスク EXOSOME エクソソーム パック 個包装 ヒト幹細胞 フェイスパック 4枚 保湿 ツヤ CICIBELLA パック 脂性肌 混合肌 香料無添加 日本製【公式・正規品】1箱セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 2240.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CQ8FHFYQ",
-      "item_name": "[シシベラスポーツ] スーツケース キャリーバッグ 拡張機能付 超軽量 耐衝撃 360度回転 静音 TSAローク搭載 旅行 ビジネス 出張 Lサイズ(7泊~長期旅行 110L) チタニウム",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G1GM8VDZ",
-      "item_name": "シシベラ シートマスク レチノール グルタチオン 配合 ナイト パック 顔 28枚 CICIBELLA フェイスマスク 透明感 ハリ ツヤ 乾燥肌 混合肌 日本製（RETINOL＆GLUTATHIONE）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BDRS8J8J",
-      "item_name": "シシベラ 3dマスク 立体マスク 小顔 耳が痛くならない マスク 不織布 立体 血色マスク 不織布 マスク 小さめ カラーマスク 丸顔さん向け ライラックアッシュ",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 56338.0,
-      "t30d_units": 79.0
-    },
-    {
-      "asin": "B0BDRQWLDQ",
-      "item_name": "シシベラ 3dマスク 立体マスク 小顔 耳が痛くならない マスク 不織布 立体 血色マスク 不織布 マスク 小さめ カラーマスク 丸顔さん向け スカイグレー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CZ78LY81",
-      "item_name": "シシベラスポーツ シシベラマスク 冷感 マスク 不織布 接触冷感 バイカラー 立体マスク uvカット 小さめ 3Dマスク 夏用マスク カラーマスク 普通サイズ ライラックアッシュxブラック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CZ77KZSH",
-      "item_name": "シシベラスポーツ シシベラマスク 冷感 マスク 不織布 接触冷感 バイカラー 立体マスク uvカット 小さめ 3Dマスク 夏用マスク カラーマスク 普通サイズ サンドベージュxブラック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CS91G4KM",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク ペールピンク×紐オールドローズ",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 236510.16,
-      "t30d_units": 389.0
-    },
-    {
-      "asin": "B0D2NXXV4F",
-      "item_name": "シシベラスポーツ シシベラマスク バイカラーマスク 5D 立体マスク 不織布マスク 肌にやさしい 20 枚入り 冷感マスク グレージュ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 15750.0,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B0G1WYDSYB",
-      "item_name": "シシベラ シートマスク アゼライン酸 パック 顔 フェイスパック 個包装 8枚 ケアナパック 皮脂 角質 混合肌 オイリー肌 香料無添加 日本製【公式・正規品】2箱セット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D2NXL3J1",
-      "item_name": "シシベラスポーツ シシベラマスク バイカラーマスク 5D 立体マスク 不織布マスク 肌にやさしい 20 枚入り 冷感マスク オールドレース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 10500.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0BP6V7KPZ",
-      "item_name": "シシベラスポーツ cicibella シシベラマスク 5d バイカラーマスク 5D 冷感マスク 立体マスク 不織布マスク 肌にやさしい 選べる 10 色 20 枚入り サンドベージュ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 10500.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0C9MGG1K5",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 250421.9,
-      "t30d_units": 428.0
-    },
-    {
-      "asin": "B0CXXYFRT6",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て オールドレースxオークル",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C9M837Y4",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク パールレース×紐ブラック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BP67RTGC",
-      "item_name": "シシベラスポーツ cicibella シシベラマスク 5d バイカラーマスク 5D 冷感マスク 立体マスク 不織布マスク 肌にやさしい 選べる 10 色 20 枚入り ベビーピンク",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 9000.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0C64YNQYK",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク グレージュレース×紐ブラック",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 50427.03,
-      "t30d_units": 74.0
-    },
-    {
-      "asin": "B0BK9VT1P6",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 615839.14,
-      "t30d_units": 1032.0
-    },
-    {
-      "asin": "B0CXY3LBN3",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク 冷感オールドレース×オークル",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 189281.89,
-      "t30d_units": 310.0
-    },
-    {
-      "asin": "B0GDWMTHZ8",
-      "item_name": "CICIBELLA エクソソーム ペプチド ビタミンC 配合 美容液 30ml 透明感 ハリ ツヤ キメ うるおい なめらか 高保湿 混合肌 乾燥肌【公式・正規品】",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 1807.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0G1WXHZGY",
-      "item_name": "シシベラ シートマスク EXOSOME エクソソーム パック 個包装 ヒト幹細胞 フェイスパック 12枚 保湿 ツヤ CICIBELLA パック 脂性肌 混合肌 香料無添加 日本製【公式・正規品】3箱セット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BK9B6SQ8",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 184248.33,
-      "t30d_units": 319.0
-    },
-    {
-      "asin": "B0DT9PGKW8",
-      "item_name": "シシベラ スーツケース 前開き suitcase ッパー キャリーケース 機内持ち込み ストッパー 付き 360度回転 ブレーキ機能 静音 USBポート TSAローク ABS+PC 耐衝撃 海外旅行 ビジネス 出張 修学 泊まる Sサイズ グレー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 9978.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BK99SR5G",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 190378.04,
-      "t30d_units": 273.0
-    },
-    {
-      "asin": "B0C9M95JNB",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て ベージュレッド×紐レッド",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CXY2P8RM",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク 冷感オールドレース×ショコラ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 147577.94,
-      "t30d_units": 245.0
-    },
-    {
-      "asin": "B0BDRV3HL1",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク サンドベージュ×紐ブラック",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 54059.0,
-      "t30d_units": 90.0
-    },
-    {
-      "asin": "B0BDRQJ59Z",
-      "item_name": "[シシベラスポーツ] 『2026年改良モデル』 マスク 立体 不織布 56枚 3D 小さめ バイカラー 小顔 立体マスク ますく マスク ふしょくふ 花粉対策 使い捨て 柔らかい 耳が痛くならない 高性能フィルター 肌に優しい メンズ レディース 丸顔 面長 おしゃれ 可愛い",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BDRV7QK7",
-      "item_name": "シシベラ 3dマスク 立体マスク 小顔 耳が痛くならない マスク 不織布 立体 血色マスク 不織布 マスク 小さめ カラーマスク 丸顔さん向け オールドレース",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 145786.0,
-      "t30d_units": 207.0
-    },
-    {
-      "asin": "B0CZ77CV3W",
-      "item_name": "シシベラスポーツ シシベラマスク 冷感 マスク 不織布 接触冷感 バイカラー 立体マスク uvカット 小さめ 3Dマスク 夏用マスク カラーマスク 普通サイズ グレージュ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 6750.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0C65448MW",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク サンドベージュ×紐ブラック",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 14235.0,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0C65185TK",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク ホワイト×紐グレー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 186691.15,
-      "t30d_units": 264.0
-    },
-    {
-      "asin": "B0BK9NTJPX",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 418505.69,
-      "t30d_units": 715.0
-    },
-    {
-      "asin": "B0CTDK3JQX",
-      "item_name": "シシベラ 3dマスク 立体マスク 小顔 耳が痛くならない マスク 不織布 立体 血色マスク 不織布 マスク 小さめ カラーマスク 子供向け ホワイト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CS8WRR8M",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク オールドレース×紐チャコール",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 206032.65,
-      "t30d_units": 338.0
-    },
-    {
-      "asin": "B0DCNY49GS",
-      "item_name": "【日本製】 シシベラ フェイスパック 30枚 大容量 シートマスク フェイスマスク レチノールパック ヒ卜幹細胞 エクソソーム パック 顔 高保湿 乾燥肌 ビタミンc パック デイリーパック レディース メンズ 男性 女性 毛穴ケア",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 365816.96,
-      "t30d_units": 349.0
-    },
-    {
-      "asin": "B0BP67PX59",
-      "item_name": "シシベラスポーツ cicibella シシベラマスク 5d バイカラーマスク 5D 冷感マスク 立体マスク 不織布マスク 肌にやさしい 選べる 10 色 20 枚入り スノーグレー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 33000.0,
-      "t30d_units": 44.0
-    },
-    {
-      "asin": "B0CQ8NL2JB",
-      "item_name": "[シシベラスポーツ] スーツケース キャリーバッグ 拡張機能付 超軽量 耐衝撃 360度回転 静音 TSAローク搭載 旅行 ビジネス 出張 Lサイズ(7泊~長期旅行 110L) ピンクゴールド",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 35670.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0CS9HNX3P",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク オールドレース×紐オークル",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 127573.5,
-      "t30d_units": 212.0
-    },
-    {
-      "asin": "B0BDRTH299",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て オールドレース×紐オールドローズ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 36726.0,
-      "t30d_units": 49.0
-    },
-    {
-      "asin": "B0BP6WKFHP",
-      "item_name": "シシベラスポーツ cicibella シシベラマスク 5d バイカラーマスク 5D 冷感マスク 立体マスク 不織布マスク 肌にやさしい 選べる 10 色 20 枚入り パールレース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 24750.0,
-      "t30d_units": 33.0
-    },
-    {
-      "asin": "B0CQ8H1KN2",
-      "item_name": "[シシベラスポーツ] スーツケース キャリーバッグ 拡張機能付 超軽量 耐衝撃 360度回転 静音 TSAローク搭載 旅行 ビジネス 出張 Sサイズ(機内持込 1-3泊 43L) オールドレース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CTDL3MJ5",
-      "item_name": "シシベラ 3dマスク 立体マスク 小顔 耳が痛くならない マスク 不織布 立体 血色マスク 不織布 マスク 小さめ カラーマスク 子供向け サンドベージュ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DX2CTYHP",
-      "item_name": "【2026年モデル瞬間冷却】シシベラ ハンディファン 冷却プレート 扇風機 小型 100段階風力調節 長時間稼働 接触冷感 クーラー機能 手持ち扇風機 暑さ対策グッズ ストラップ付き カラビナ付き スノーグレー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0D1TP2KXW",
+      "item_name": "NIIMBOT D110新版 ラベルライター Bluetooth接続 多機能ラベルプリンター スマホ対応 ラベルメーカー 携帯便利 専用APP インク不要 Android & iOS対応 USB充電式 書類整理/名前シール/値札シール/調味料などに適用 対応テープ幅12-15mm ロール紙1個付き 日本語取扱説明書付き ブルー",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 687619.63,
+      "t30d_units": 216.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G1GLDDTH",
-      "item_name": "シートマスク エクソソーム アルブチン 配合 デイリー パック 14枚 ヒト幹細胞 透明感 ツヤ 高保湿 CICIBELLA フェイスパック 敏感肌 乾燥肌 混合肌 日本製（EXOSOME＆ARBUTIN）",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C9MHHWX5",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 325214.87,
-      "t30d_units": 560.0
-    },
-    {
-      "asin": "B0DCNWMJMX",
-      "item_name": "【日本製】 シシベラ フェイスパック 30枚 大容量 シートマスク フェイスマスク レチノールパック ヒ卜幹細胞 エクソソーム パック 顔 高保湿 乾燥肌 ビタミンc パック デイリーパック レディース メンズ 男性 女性 毛穴ケア",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 495570.81,
-      "t30d_units": 572.0
-    },
-    {
-      "asin": "B0CXY1HR96",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て オールドレースxブラック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BDSLXFYD",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク ヘーゼルナッツ×紐オールドローズ",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 31583.0,
-      "t30d_units": 51.0
-    },
-    {
-      "asin": "B0CZ79MHYM",
-      "item_name": "シシベラスポーツ シシベラマスク 冷感 マスク 不織布 接触冷感 バイカラー 立体マスク uvカット 小さめ 3Dマスク 夏用マスク カラーマスク 普通サイズ ベビーピンクxオールドローズ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 750.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BP6T9D9R",
-      "item_name": "シシベラスポーツ cicibella シシベラマスク 5d バイカラーマスク 5D 冷感マスク 立体マスク 不織布マスク 肌にやさしい 選べる 10 色 20 枚入り ライラックアッシュ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 11250.0,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0BDRYNKXG",
-      "item_name": "シシベラ 3dマスク 立体マスク 小顔 耳が痛くならない マスク 不織布 立体 血色マスク 不織布 マスク 小さめ カラーマスク 丸顔さん向け ホワイト",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 127360.0,
-      "t30d_units": 177.0
-    },
-    {
-      "asin": "B0CZ776CWR",
-      "item_name": "シシベラスポーツ シシベラマスク 冷感 マスク 不織布 接触冷感 バイカラー 立体マスク uvカット 小さめ 3Dマスク 夏用マスク カラーマスク Lサイズ ホワイト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 9000.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0FZL2MFCV",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て グレージュ×紐ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 37500.0,
-      "t30d_units": 50.0
-    },
-    {
-      "asin": "B0BDRZ516W",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク ホワイト×紐グレー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 267712.22,
-      "t30d_units": 440.0
-    },
-    {
-      "asin": "B0BKB29FP8",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 布マスク ふつうサイズ 小さめ 使い捨て 不織布マスク カラーマスク おしゃれ メンズ レディース 子供用 耳が痛くならない 柔らかい プリーツマスク 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 644412.8,
-      "t30d_units": 1080.0
-    },
-    {
-      "asin": "B0BP6PM6KP",
-      "item_name": "シシベラスポーツ cicibella シシベラマスク 5d バイカラーマスク 5D 冷感マスク 立体マスク 不織布マスク 肌にやさしい 選べる 10 色 20 枚入り ミルクティースモア",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 750.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C64Z2HSJ",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク ベビーピンク×紐オールドローズ",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 39008.53,
-      "t30d_units": 58.0
-    },
-    {
-      "asin": "B0C6513KSN",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク オールドレース×紐オールドローズ",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 325083.34,
-      "t30d_units": 536.0
-    },
-    {
-      "asin": "B0BDRRRGH1",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク ベージュ×紐オールドローズ",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 44207.25,
-      "t30d_units": 71.0
-    },
-    {
-      "asin": "B0CYSQZLB2",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て ベージュ×紐ブラック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BDRVDH7J",
-      "item_name": "シシベラ 3dマスク 立体マスク 小顔 耳が痛くならない マスク 不織布 立体 血色マスク 不織布 マスク 小さめ カラーマスク 丸顔さん向け アプリコット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BP6C8G1Z",
-      "item_name": "シシベラスポーツ cicibella シシベラマスク 5d バイカラーマスク 5D 冷感マスク 立体マスク 不織布マスク 肌にやさしい 選べる 10 色 20 枚入り オールドレース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 34500.0,
-      "t30d_units": 46.0
-    },
-    {
-      "asin": "B0CQ8J4ZF9",
-      "item_name": "[シシベラスポーツ] スーツケース キャリーバッグ 拡張機能付 超軽量 耐衝撃 360度回転 静音 TSAローク搭載 旅行 ビジネス 出張 Lサイズ(7泊~長期旅行 110L) アイボリーホワイト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 23780.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FY6HRYGJ",
-      "item_name": "シシベラ シートマスク アゼライン酸 ビタミンC 配合 朝 パック 7枚 毛穴 透明感 くすみ CICIBELLA フェイスパック 混合肌 脂性肌 敏感肌 日本製（AZELAIC ACID＆VITAMINS）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 2250.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0F329LHMS",
-      "item_name": "シシベラ 冷タオル 無香性 熱中対策にも使える 極冷えタオル 冷却 接触冷感 ひんやり 冷たい 暑さ対策 7枚入り*5パック",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 11934.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0CWL7W6CD",
-      "item_name": "[シシベラスポーツ] スーツケース キャリーケース キャリーバッグ 大容量 超軽量 大型 静音 TSAローク搭載 旅行用 Lサイズ(7泊~長期 110L) ピンクゴールド",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CWL1N9GT",
-      "item_name": "[シシベラスポーツ] スーツケース キャリーケース キャリーバッグ 大容量 超軽量 大型 静音 TSAローク搭載 旅行用 Sサイズ(機内持込 43L) ピンクゴールド",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BDRX2Y4Z",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て ベビーピンク×紐オールドローズ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 42000.0,
-      "t30d_units": 56.0
-    },
-    {
-      "asin": "B0G1X4B89X",
-      "item_name": "シシベラ シートマスク アルブチン パック フェイスパック 個包装 12枚 透明感 くすみケア 敏感肌 香料無添加 日本製【公式・正規品】3箱セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G1WZ5SPG",
-      "item_name": "シシベラ シートマスク EXOSOME エクソソーム パック 個包装 ヒト幹細胞 フェイスパック 8枚 保湿 ツヤ CICIBELLA パック 脂性肌 混合肌 香料無添加 日本製【公式・正規品】2箱セット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C64YN4VG",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク グレージュ×紐ブラック",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 99165.04,
-      "t30d_units": 145.0
-    },
-    {
-      "asin": "B0CXXXQZSQ",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て グレージュレース×紐ブラック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BK99LMSQ",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 899.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0G1GVT85Y",
-      "item_name": "シシベラ シートマスク アゼライン酸 ビタミンC 配合 朝 パック 14枚 毛穴 透明感 くすみ CICIBELLA フェイスパック 混合肌 脂性肌 敏感肌 日本製（AZELAIC ACID＆VITAMINS）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CWL2KQGV",
-      "item_name": "[シシベラスポーツ] スーツケース キャリーケース キャリーバッグ 大容量 超軽量 大型 静音 TSAローク搭載 旅行用 Sサイズ(機内持込 43L) オールドレース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DD74RHVK",
-      "item_name": "シシベラスポーツ フェイスパック ヒ卜幹細胞 エクソソーム パック 保湿 デイリー スキンケア 低刺激 7枚 スーパービタミン×EXOSOME",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 4806.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0CZ7741TS",
-      "item_name": "シシベラスポーツ シシベラマスク 冷感 マスク 不織布 接触冷感 バイカラー 立体マスク uvカット 小さめ 3Dマスク 夏用マスク カラーマスク 普通サイズ オールドレースxオークル",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 1500.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CWKVNH76",
-      "item_name": "[シシベラスポーツ] スーツケース キャリーケース キャリーバッグ 大容量 超軽量 大型 静音 TSAローク搭載 旅行用 Mサイズ(4~7泊 70L) アイボリーホワイト",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C9M9VRXD",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク モカブラウン×紐ブラウン",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 42531.0,
-      "t30d_units": 70.0
-    },
-    {
-      "asin": "B0CWL89BS6",
-      "item_name": "[シシベラスポーツ] スーツケース キャリーケース キャリーバッグ 大容量 超軽量 大型 静音 TSAローク搭載 旅行用 Mサイズ(4~7泊 70L) チタニウム",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C5XTTJ26",
-      "item_name": "クレンジングタオル 綿100 使い捨て 大容量 180枚（60枚x3袋） フェイシャルタオル 敏感肌用 フェイスタオル 使い捨てタオル コットンパフ 手拭き 顔拭き コットン 洗顔タオル メイク落とし 毛羽立ちなし 厚手 瞬間吸湿 乾湿両用 洗顔 ペーパータオル 柔らかい肌触り 200*200mm フェイスペーパー シシベ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 212953.14,
-      "t30d_units": 121.0
-    },
-    {
-      "asin": "B0DT9T36NJ",
-      "item_name": "シシベラ スーツケース 前開き suitcase ッパー キャリーケース 機内持ち込み ストッパー 付き 360度回転 ブレーキ機能 静音 USBポート TSAローク ABS+PC 耐衝撃 海外旅行 ビジネス 出張 修学 泊まる Sサイズ ダスティベージュ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 19956.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0BK9581P3",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 303297.94,
-      "t30d_units": 515.0
-    },
-    {
-      "asin": "B0CZ77HBFT",
-      "item_name": "シシベラスポーツ シシベラマスク 冷感 マスク 不織布 接触冷感 バイカラー 立体マスク uvカット 小さめ 3Dマスク 夏用マスク カラーマスク Lサイズ グレージュ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 15750.0,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B0BDRPY7HD",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク ベビーピンク×紐オールドローズ",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 148314.33,
-      "t30d_units": 246.0
-    },
-    {
-      "asin": "B0BK999VL6",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 92901.47,
-      "t30d_units": 154.0
-    },
-    {
-      "asin": "B0FYC3GPN3",
-      "item_name": "シシベラ シートマスク PDRN パック フェイスパック 個包装 4枚 保湿 水分 ツヤ ビタミンC 乾燥肌 敏感肌 香料無添加 日本製【公式・正規品】1箱セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 2138.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0BK98XM49",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 315240.84,
-      "t30d_units": 530.0
-    },
-    {
-      "asin": "B0G1WZVPM7",
-      "item_name": "シシベラ シートマスク PDRN パック フェイスパック 個包装 12枚 保湿 水分 ツヤ ビタミンC 乾燥肌 敏感肌 香料無添加 日本製【公式・正規品】3箱セット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 6109.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CXXZR24M",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て スカイグレー×紐ブラック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BDRXF4YX",
-      "item_name": "[シシベラスポーツ] 『2026年改良モデル』 マスク 立体 不織布 56枚 3D 小さめ バイカラー 小顔 立体マスク ますく マスク ふしょくふ 花粉対策 使い捨て 柔らかい 耳が痛くならない 高性能フィルター 肌に優しい メンズ レディース 丸顔 面長 おしゃれ 可愛い",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C9MFJVPC",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 155665.05,
-      "t30d_units": 266.0
-    },
-    {
-      "asin": "B0DT9RKW9D",
-      "item_name": "シシベラ スーツケース 前開き suitcase ッパー キャリーケース 機内持ち込み ストッパー 付き 360度回転 ブレーキ機能 静音 USBポート TSAローク ABS+PC 耐衝撃 海外旅行 ビジネス 出張 修学 泊まる Sサイズ ライトブルー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C5XRD23Z",
-      "item_name": "クレンジングタオル 綿100 使い捨て 大容量 540枚（60枚x9袋） フェイシャルタオル 敏感肌用 フェイスタオル 使い捨てタオル コットンパフ 手拭き 顔拭き コットン 洗顔タオル メイク落とし 毛羽立ちなし 厚手 瞬間吸湿 乾湿両用 洗顔 ペーパータオル 柔らかい肌触り 200*200mm フェイスペーパー シシベ",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 77999.0,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0G1GPT5NG",
-      "item_name": "シシベラ シートマスク PDRN セラミド 配合 デイリー パック 顔 14枚 CICIBELLA フェイスパック 高保湿 バリ 毛穴 乾燥肌 敏感肌 日本製（PDRN＆CERAMIDE）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 1500.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CQ8HK865",
-      "item_name": "[シシベラスポーツ] スーツケース キャリーバッグ 拡張機能付 超軽量 耐衝撃 360度回転 静音 TSAローク搭載 旅行 ビジネス 出張 Lサイズ(7泊~長期旅行 110L) ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": -8580.0,
-      "t30d_units": -1.0
-    },
-    {
-      "asin": "B0C9M76BSY",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク グレージュ×紐ブラック",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 91497.82,
-      "t30d_units": 150.0
-    },
-    {
-      "asin": "B0BDRVL8L9",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク ライラックアッシュ×紐ブラック",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 136339.02,
-      "t30d_units": 220.0
-    },
-    {
-      "asin": "B0DX29MFPD",
-      "item_name": "【2026年モデル瞬間冷却】シシベラ ハンディファン 冷却プレート 扇風機 小型 100段階風力調節 長時間稼働 接触冷感 クーラー機能 手持ち扇風機 暑さ対策グッズ ストラップ付き カラビナ付き ダスティブラウン",
-      "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
-      "suppression_category": "5.Others",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0CZ6WCHGF",
+      "item_name": "NIIMBOT D110 新版 ラベルライター Bluetooth接続多機能ラベルプリンター ラベルメーカー 携帯便利 自動紙戻し 自動ラベル認識 Android & iOS対応 USB充電式 書類整理/名前シール/値札シール/調味料などに適用 対応テープ幅12-15mm ロール紙1個付き 日本語取扱説明書付き(ホワイト)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 7368884.95,
+      "t30d_units": 2654.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G1GK6QKT",
-      "item_name": "シシベラ シートマスク PDRN セラミド 配合 デイリー パック 顔 28枚 CICIBELLA フェイスパック 高保湿 バリ 毛穴 乾燥肌 敏感肌 日本製（PDRN＆CERAMIDE）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0CKR4HQGZ",
+      "item_name": "NIIMBOT B1 ラベルメーカー ラベルライター スマホ対応 多機能ラベルプリンター 自動ラベル認識 コンパクトで便利 使いやすい Android & iOS対応 Bluetooth接続 USB充電式 25-50mm幅テープ対応 郵便宛名/DIYラベル/名前ラベル/配送ラベル/冷蔵庫収納などに適用 ラベル用紙1個付き 日本語取扱説明書付き ブルー",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 1053926.4,
+      "t30d_units": 266.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GDWTWFKY",
-      "item_name": "CICIBELLA アゼライン酸 CICA 配合 美容液 30ml 保湿 うるおい 肌キメ 透明感 低刺激 敏感肌 ゆらぎ肌 乾燥肌【公式・正規品】",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 2401.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0D1V6DS3H",
+      "item_name": "NIIMBOT D110新版 ラベルライター Bluetooth接続 多機能ラベルプリンター スマホ対応 ラベルメーカー 携帯便利 専用APP インク不要 Android & iOS対応 USB充電式 書類整理/名前シール/値札シール/調味料などに適用 対応テープ幅12-15mm ロール紙1個付き 日本語取扱説明書付き グリーン",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 634476.38,
+      "t30d_units": 199.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0BDRV9MST",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て ホワイト×紐グレー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 58500.0,
-      "t30d_units": 78.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0G3W945QN",
+      "item_name": "NIIMBOT B1Pro ラベルメーカー スマホ対応 サーマルプリンター 感熱ラベルプリンター Bluetooth接続 小型 多機能ポータブル 300DPI高精細印刷 使いやすい AndroidとIOS対応 写真アルバム/手帳/郵便宛名/値札/学習ノート/名前に適用 専用アプリ USB充電式 日本語取扱説明書付き グリーン",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 193001.91,
+      "t30d_units": 28.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CXXXSF6R",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て ペールピンクxオールドローズ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0FQ5266PC",
+      "item_name": "NIIMBOT B1 ラベルメーカー スマホ ラベルライター本体+3巻ラベル付き 感熱ラベルライター 値札プリンター Bluetooth接続 商業プリンター 宛名印刷 ポータブル 名前ラベル ラベルシール 使いやすい 宛名/食品/DIYラベル/手書き/値札/バーコードに適用 Android iOS対応 ラベル用紙付属（50*30mm/40*30mm/34*34mm） ブ",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 344116.0,
+      "t30d_units": 60.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G1GNT4HN",
-      "item_name": "シシベラスポーツ シートマスク パック セット CICIBELLA フェイスパック 透明感 ハリ ツヤ 保湿 混合肌 乾燥肌 脂性肌 敏感肌 日本製(EXOSOME＆ARBUTIN+PDRN＆CERAMIDE+AZELAIC ACID＆VITAMINS+RETINOL＆GLUTATHIONE)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 2864.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0G3W5L1JT",
+      "item_name": "NIIMBOT B1Pro ラベルメーカー スマホ対応 サーマルプリンター 感熱ラベルプリンター Bluetooth接続 小型 多機能ポータブル 300DPI高精細印刷 使いやすい AndroidとIOS対応 写真アルバム/手帳/郵便宛名/値札/学習ノート/名前に適用 専用アプリ USB充電式 日本語取扱説明書付き ブルーホワイト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 158538.0,
+      "t30d_units": 23.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0BK97WKJQ",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 281264.85,
-      "t30d_units": 468.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0CKR49HGT",
+      "item_name": "NIIMBOT B1 ラベルメーカー ラベルライター スマホ対応 多機能ラベルプリンター 自動ラベル認識 コンパクトで便利 使いやすい Android & iOS対応 Bluetooth接続 USB充電式 20-50mm幅テープ対応 郵便宛名/DIYラベル/名前ラベル/配送ラベル/冷蔵庫収納などに適用 ラベル用紙1個付き 日本語取扱説明書付き グリー",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 692839.45,
+      "t30d_units": 175.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CZ78T17G",
-      "item_name": "シシベラスポーツ シシベラマスク 冷感 マスク 不織布 接触冷感 バイカラー 立体マスク uvカット 小さめ 3Dマスク 夏用マスク カラーマスク 普通サイズ グレージュレースxブラック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0CKR1MG8M",
+      "item_name": "NIIMBOT B1 ラベルメーカー 自動識別機能付き感熱ラベルライター 値札プリンター DIY ラベル 商業プリンター 宛名ラベルメーカー 2 インチ Bluetooth ポータブルラベルプリンター 名前ラベル/はがき/郵便宛名/価値のある食品の表示/梱包などに使いやすい 配送 冷蔵庫保管 配送ラベル 整理 充電式 Android iO",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 475574.07,
+      "t30d_units": 120.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0BK99R7WY",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 326082.06,
-      "t30d_units": 545.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0CKR3TPHV",
+      "item_name": "NIIMBOT B1 ラベルメーカー ラベルライター スマホ対応 多機能ラベルプリンター 自動ラベル認識 コンパクトで便利 使いやすい Android & iOS対応 Bluetooth接続 USB充電式 25-50mm幅テープ対応 郵便宛名/DIYラベル/名前ラベル/配送ラベル/冷蔵庫収納などに適用 ラベル用紙1個付き 日本語取扱説明書付き シルバ",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 245810.66,
+      "t30d_units": 62.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CS938SP8",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク オールドレース×紐チョコラ",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 86830.14,
-      "t30d_units": 143.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0DY7SJPQC",
+      "item_name": "NIIMBOT B1 ラベルメーカー スマホ ラベルライター本体+3巻ラベル付き 感熱ラベルライター 値札プリンター Bluetooth接続 商業プリンター 宛名印刷 ポータブル 名前ラベル ラベルシール 使いやすい 宛名/食品/DIYラベル/手書き/値札/バーコードに適用 Android iOS対応 ラベル用紙付属（50*50mm/50*30mm/50*80mm）ブ",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 268981.16,
+      "t30d_units": 47.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G1GLRFJB",
-      "item_name": "シシベラ シートマスク エクソソーム アルブチン 配合 デイリー パック 28枚 ヒト幹細胞 透明感 ツヤ 高保湿 CICIBELLA フェイスパック 敏感肌 乾燥肌 混合肌 日本製（EXOSOME＆ARBUTIN）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 3000.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0DXVFL6MQ",
+      "item_name": "NIIMBOT B21Pro サーマルプリンター スマホ対応 ラベルライター 感熱ラベルメーカー Bluetooth接続 値札プリンター 小型 使いやすい 300DPI高精細印刷 用紙自動戻し AndroidとIOS対応 USB充電式 写真アルバム/手帳/メモ/買い物リスト/学習ノートに適用 専用アプリ ロール紙1個付き 日本語取扱説明書付き ホワイ",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1080353.07,
+      "t30d_units": 89.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CQ8KFYRC",
-      "item_name": "[シシベラスポーツ] スーツケース キャリーバッグ 拡張機能付 超軽量 耐衝撃 360度回転 静音 TSAローク搭載 旅行 ビジネス 出張 Sサイズ(機内持込 1-3泊 43L) ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 15960.0,
-      "t30d_units": 2.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0G3WDSZYP",
+      "item_name": "NIIMBOT B1Pro ラベルメーカー スマホ対応 サーマルプリンター 感熱ラベルプリンター Bluetooth接続 小型 多機能ポータブル 300DPI高精細印刷 使いやすい AndroidとIOS対応 写真アルバム/手帳/郵便宛名/値札/学習ノート/名前に適用 専用アプリ USB充電式 日本語取扱説明書付き グレーホワイト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 130135.75,
+      "t30d_units": 19.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CQ8JSX13",
-      "item_name": "[シシベラスポーツ] スーツケース キャリーバッグ 拡張機能付 超軽量 耐衝撃 360度回転 静音 TSAローク搭載 旅行 ビジネス 出張 Sサイズ(機内持込 1-3泊 43L) チタニウム",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 23940.0,
-      "t30d_units": 3.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0DZXD2XC3",
+      "item_name": "NIIMBOT D11 新版 ラベルライター Bluetooth接続 多機能ラベルプリンター ラベルライター本体+3巻ラベル付き ラベルメーカー 値札プリンター 名前ラベル 使いやすい 携帯便利 Android & iOS対応 USB充電式 ラベルシール 書類整理/名前シール/値札シール/調味料などに適用 日本語取扱説明書付き ホワイト",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 30342.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CTDK2MDG",
-      "item_name": "シシベラ 3dマスク 立体マスク 小顔 耳が痛くならない マスク 不織布 立体 血色マスク 不織布 マスク 小さめ カラーマスク 子供向け オールドレース",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 750.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0BCW4YMR8",
+      "item_name": "NIIMBOT B1 ラベルメーカー ラベルプリンター 感熱ラベルライター 値札プリンター DIY 商業プリンター 宛名ラベルメーカー 2 インチ Bluetooth ポータブル 名前ラベル 郵便宛名 価値のある食品の表示 梱包などに使いやすい 冷蔵庫保管 配送ラベル 整理 充電式 Android iOS対応 (ラベル用紙付属) ブルー",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 989689.29,
+      "t30d_units": 257.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GDWK61VN",
-      "item_name": "CICIBELLA PDRN 3種のセラミド 配合 美容液 30ml 肌キメ 高保湿 水分 うるおい ゆらぎ肌 敏感肌 乾燥肌【公式・正規品】",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 2401.0,
-      "t30d_units": 1.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0G3VZ3YWN",
+      "item_name": "NIIMBOT B1Pro ラベルメーカー スマホ対応 サーマルプリンター 感熱ラベルプリンター Bluetooth接続 小型 多機能ポータブル 300DPI高精細印刷 使いやすい AndroidとIOS対応 写真アルバム/手帳/郵便宛名/値札/学習ノート/名前に適用 専用アプリ USB充電式 日本語取扱説明書付き ブルー",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 202917.53,
+      "t30d_units": 29.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0C9MHCY4H",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 279603.25,
-      "t30d_units": 486.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0CKYZRRJB",
+      "item_name": "NIIMBOT D110 ラベルライター 感熱ラベルライター スマホ対応 多機能ラベルプリンター ラベルメーカー 小型 携帯便利 自動ラベル認識 Android & iOS対応 USB充電式 宛名/DIYラベル/手書き/値札/日付/重量/番号に適用 12-15mm幅テープ対応 ロール紙1個付き 日本語取扱説明書付き(ブルー)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 114119.41,
+      "t30d_units": 34.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G1GT8N86",
-      "item_name": "シシベラ シートマスク レチノール グルタチオン 配合 ナイト パック 顔 14枚 CICIBELLA フェイスマスク 透明感 ハリ ツヤ 乾燥肌 混合肌 日本製（RETINOL＆GLUTATHIONE）",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CZ761FTX",
-      "item_name": "シシベラスポーツ シシベラマスク 冷感 マスク 不織布 接触冷感 バイカラー 立体マスク uvカット 小さめ 3Dマスク 夏用マスク カラーマスク 普通サイズ ヘーゼルナッツxオールドローズ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CQ8NMJXB",
-      "item_name": "[シシベラスポーツ] スーツケース キャリーバッグ 拡張機能付 超軽量 耐衝撃 360度回転 静音 TSAローク搭載 旅行 ビジネス 出張 Mサイズ(4-7泊 70L) オールドレース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CZ79VFXP",
-      "item_name": "シシベラスポーツ シシベラマスク 冷感 マスク 不織布 接触冷感 バイカラー 立体マスク uvカット 小さめ 3Dマスク 夏用マスク カラーマスク 普通サイズ オールドレース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 750.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0C9MF1MBY",
-      "item_name": "シシベラスポーツ cicibella シシベラマスク 5d バイカラーマスク 5D 冷感マスク 立体マスク 不織布マスク 肌にやさしい 選べる 10 色 20 枚入り モカブラウン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 7500.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0G1WZDHXL",
-      "item_name": "シシベラ シートマスク アルブチン パック フェイスパック 個包装 8枚 透明感 くすみケア 敏感肌 香料無添加 日本製【公式・正規品】2箱セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F3NYRLM2",
-      "item_name": "シシベラ 冷タオル 無香性 熱中対策にも使える 極冷えタオル 冷却 接触冷感 ひんやり 冷たい 暑さ対策 7枚入り*2パック",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 12047.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0BDRY5456",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク アプリコット×紐グレー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 102238.51,
-      "t30d_units": 167.0
-    },
-    {
-      "asin": "B0F3292TR3",
-      "item_name": "シシベラ 冷タオル 無香性 熱中対策にも使える 極冷えタオル 冷却 接触冷感 ひんやり 冷たい 暑さ対策 コットン 7枚入り*1パック ホワイト",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 38815.9,
-      "t30d_units": 58.0
-    },
-    {
-      "asin": "B0C9MBC58S",
-      "item_name": "シシベラスポーツ cicibella シシベラマスク 5d バイカラーマスク 5D 冷感マスク 立体マスク 不織布マスク 肌にやさしい 選べる 10 色 20 枚入り グレージュレース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 14250.0,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0BP74FS2N",
-      "item_name": "シシベラスポーツ cicibella シシベラマスク 5d バイカラーマスク 5D 冷感マスク 立体マスク 不織布マスク 肌にやさしい 選べる 10 色 20 枚入り グレージュ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 12750.0,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0C64YL7SZ",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク ヘーゼルナッツ×紐オールドローズ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 48625.49,
-      "t30d_units": 70.0
-    },
-    {
-      "asin": "B0BP6GGYZ1",
-      "item_name": "シシベラスポーツ シシベラマスク 5d バイカラーマスク 5D 冷感マスク 立体マスク 不織布マスク 肌にやさしい 選べる 10 色 20 枚入り ヘーゼルナッツ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 3750.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0CTDM9WX9",
-      "item_name": "シシベラ 3dマスク 立体マスク 小顔 耳が痛くならない マスク 不織布 立体 血色マスク 不織布 マスク 小さめ カラーマスク 子供向け ブラック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FYC5ZD5Q",
-      "item_name": "シシベラ シートマスク アルブチン パック フェイスパック 個包装 4枚 透明感 くすみケア 敏感肌 香料無添加 日本製【公式・正規品】1箱セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0BK95HTXS",
-      "item_name": "シシベラ マスク 不織布 51枚 花粉対策 プリーツマスク 使い捨て 布マスク 不織布マスク カラーマスク おしゃれ 柔らかい 耳が痛くならない ふつうサイズ (17.5cm×9.5cm) 小さめ (16.5cm×9.5cm) 子供用 (14.5cm×9.5cm) メンズ レディース 白 黒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 158911.05,
-      "t30d_units": 276.0
-    },
-    {
-      "asin": "B0CZ78T9PR",
-      "item_name": "シシベラスポーツ シシベラマスク 冷感 マスク 不織布 接触冷感 バイカラー 立体マスク uvカット 小さめ 3Dマスク 夏用マスク カラーマスク 普通サイズ オールドレースxショコラ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 5250.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0CZ79KMJT",
-      "item_name": "シシベラスポーツ シシベラマスク 冷感 マスク 不織布 接触冷感 バイカラー 立体マスク uvカット 小さめ 3Dマスク 夏用マスク カラーマスク 普通サイズ ホワイト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 25500.0,
-      "t30d_units": 34.0
-    },
-    {
-      "asin": "B0BDRV93X2",
-      "item_name": "シシベラ 3dマスク 立体マスク 小顔 耳が痛くならない マスク 不織布 立体 血色マスク 不織布 マスク 小さめ カラーマスク 丸顔さん向け ベビーピンク",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 77402.0,
-      "t30d_units": 107.0
-    },
-    {
-      "asin": "B0CXXXJ6J3",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て オールドレースxチャコール",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CQ8FDCQZ",
-      "item_name": "[シシベラスポーツ] スーツケース キャリーバッグ 拡張機能付 超軽量 耐衝撃 360度回転 静音 TSAローク搭載 旅行 ビジネス 出張 Sサイズ(機内持込 1-3泊 43L) ピンクチタン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 15960.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CXXY42L1",
-      "item_name": "シシベラ マスク 不織布 立体 マスク バイカラー 3d 面長さん向け 肌に優しいマスク 使い捨て モカブラウン×紐ブラウン",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0C9MCQ425",
-      "item_name": "シシベラマスク 冷感マスク 不織布 3dマスク バイカラーマスク 20枚入 花粉対策マスク 不織布 小さめ 使い捨てマスク グレージュレース×紐ブラック",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 132042.32,
-      "t30d_units": 222.0
-    },
-    {
-      "asin": "B0G1WZN9TL",
-      "item_name": "シシベラ シートマスク PDRN パック フェイスパック 個包装 8枚 保湿 水分 ツヤ ビタミンC 乾燥肌 敏感肌 香料無添加 日本製【公式・正規品】2箱セット",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 509182782402,
+      "merchant_name": "NIIMBOT HK",
+      "asin": "B0CN34F9SV",
+      "item_name": "NIIMBOT D110 ラベルライター スマホ対応プリンター 多機能ラベルプリンター サーマルコピー 主要言語印刷可能文字 縦書き 3行印刷対応 インク不要 衣料品・ジュエリー・食品・食料品に適用 ラベルメーカー 1ロール白スターター付き 家庭・オフィス整理用ラベル用紙 USB充電式(緑)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 18029.75,
+      "t30d_units": 6.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,22 +1,21 @@
 {
-  "86044941422": [
+  "86045843922": [
     {
-      "asin": "B0DP2D4BLJ",
-      "item_name": "Androidタブレット 8インチ Wi-Fiモデル 12GB RAM+64GB ROM+1TB拡張対応) 2.0GHz高速CPU 顔認証+GPS+無線投影 5100mAh大容量バッテリー BT5.0+FMラジオ+OTG対応 日本語サポート付き (ブラック)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 589541.32,
-      "t30d_units": 58.0
-    },
-    {
-      "asin": "B0CR6GHKPB",
-      "item_name": "【クラシックな キッズ タブレット】Topsand N8 Kids 8インチ 子供用タブレット Wi-Fiモデル 5G WiFi6 アンドロイド Tab 4700mAh大容量バッテリ 5MPカメラ HD解像度 BT5.0 GMS認証 日本語取扱説明書 子供 Android プレゼント 保護者による制限 遊び 学習 落下防止性能",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 86045843922,
+      "merchant_name": "BiiYou",
+      "asin": "B0FMRKSWMP",
+      "item_name": "ジャンプスターター 空気入れ BiuBox 8500A ジャンプスターター 12V 車用150PSI エンジンスターター エアコンプレッサー搭載 全ガソリン車 / 9L 以下ディーゼル車対応 モバイルバッテリー機能絶縁手袋付きPSE認証済",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 284247.66,
+      "t30d_units": 36.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

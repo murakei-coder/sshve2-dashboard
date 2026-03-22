@@ -1,58 +1,21 @@
 {
-  "826713180702": [
+  "826785305202": [
     {
-      "asin": "B0DLP1S38H",
-      "item_name": "浄水ポット 交換用カートリッジ カートリッジ 互換品 同じサイズの浄水器カートリッジに対応 适用于 BRITA浄水ポット 高除去 6個セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 79543.8,
-      "t30d_units": 42.0
-    },
-    {
-      "asin": "B0FHB3J5FC",
-      "item_name": "浄水器 用カートリッジ 浄水器 ポット型/タンク型 交換用 6個入 不純物除去 PFOS PFOA除去試験済【ブリタマクストラの互換品】浄水器用 フィルターカートリッジ 高除去",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 85105.83,
-      "t30d_units": 34.0
-    },
-    {
-      "asin": "B0FHB3DZN1",
-      "item_name": "浄水器 用カートリッジ 浄水器 ポット型/タンク型 交換用 8個入 不純物除去 PFOS PFOA除去試験済【ブリタマクストラの互換品】浄水器用 フィルターカートリッジ 高除去",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 212271.07,
-      "t30d_units": 72.0
-    },
-    {
-      "asin": "B0FHB653FJ",
-      "item_name": "浄水器 用カートリッジ 浄水器 ポット型/タンク型 交換用 4個入 不純物除去 PFOS PFOA除去試験済【ブリタマクストラの互換品】浄水器用 フィルターカートリッジ 高除去",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 203681.79,
-      "t30d_units": 97.0
-    },
-    {
-      "asin": "B0DLP31H3Y",
-      "item_name": "浄水ポット 交換用カートリッジ カートリッジ 互換品 同じサイズの浄水器カートリッジに対応 适用于 BRITA浄水ポット 高除去 4個セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 2057.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DRYPQZT5",
-      "item_name": "浄水ポット 交換用カートリッジ カートリッジ 互換品 同じサイズの浄水器カートリッジに対応 适用于 BRITA浄水ポット 高除去 12個セット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 14432.26,
-      "t30d_units": 6.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 826785305202,
+      "merchant_name": "アリ堅(7～12日以内に配達)",
+      "asin": "B0DFTL2YZ6",
+      "item_name": "2026冬発売新モデル【加湿器・13L大容量】加湿器 超音波加湿 アロマ タワー型 上から給水 大容量 事務所/家庭用加湿 3段階湿度調整 12Hタイマー 35畳 300ml/h 吹出し口360°回転 多重除菌浄化 睡眠モード 液晶パネル 静音稼働 銀イオン抗菌素材 省エネ 遠隔制御 リモコン付き 空焚き防止 乾燥対策/花粉症",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 2557077.0,
+      "t30d_units": 427.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

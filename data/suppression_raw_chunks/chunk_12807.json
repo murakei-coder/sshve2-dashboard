@@ -1,13 +1,38 @@
 {
-  "802148186702": [
+  "802183697602": [
     {
-      "asin": "B0FSQKTDZ4",
-      "item_name": "一酸化炭素チェッカー 高精度 1ppm単位 0-1000ppmデジタル表示 工業用センサー 温度計 キャンプ用 一酸化 炭素 チェッカー IP65 一酸化炭素検知器 警報器 CO検出器 CO漏れ検知 音 光 振動アラーム キャンプ用品 測定器 警報機 ポータブル 長寿命 耐久性 小型 携帯用 充電式 低電力 室内 旅行用 車中泊グッ",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 161085.0,
-      "t30d_units": 22.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 802183697602,
+      "merchant_name": "LEPIQUE BEAUTY",
+      "asin": "B0D83DKM8C",
+      "item_name": "Lepique（レピク）コラーゲン シートマスク 42g×4枚 韓国コスメ 高濃度 保湿マスク ヒアルロン酸 ナイアシンアミド 低刺激 敏感肌用 ガラス肌 フェイスマスク エイジングケア【公式・正規品】",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 5470.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 802183697602,
+      "merchant_name": "LEPIQUE BEAUTY",
+      "asin": "B0F3HV1RXD",
+      "item_name": "Lepique（レピク）レチノール ナイトクリーム 50mL 韓国コスメ 低刺激 保湿 敏感肌用 フェイスクリーム レチノール0.1% コラーゲン センテラ ヒアルロン酸 ハリ 弾力 うるおい エイジングケア【公式・正規品】",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 1573228.31,
+      "t30d_units": 361.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

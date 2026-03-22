@@ -1,121 +1,21 @@
 {
-  "1122948916902": [
+  "1122954923002": [
     {
-      "asin": "B0FNRF1F9P",
-      "item_name": "ソーラーパネル 100W ソーラーチャージャー 太陽光パネル 折りたたみ ETFE素材 高変換効率22.6% 単結晶 IP54防水 防塵 軽量 コンパクト ポータブル電源 充電器 太陽光発電 キャンプ 車中泊 災害用 Evopow EEIVOL AIWOLLポータブル電源 1500/1024/1000//600/515/400対応 (100W)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FYWT7CJJ",
-      "item_name": "蓄電池 1280Wh LiFePO4 12.8V 100Ah リン酸鉄リチウムイオンバッテリー 1280W出力 100AのBMS 3000回以上サイクル 10年長寿命 コンパクト 軽量 グループ31 車中泊 キャンピングカーのサブバッテリー ポータブル電源DIY ソーラー蓄電 バックアップ電源 オフグリッド自家発電 ボート エレキモーター エアーポンプに",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 137397.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0FWRQC7W8",
-      "item_name": "EVOPOW 12.8V 100Ah リン酸鉄リチウムイオンバッテリー 2個 1280Wh 蓄電池 低温保護 100A充放電 4000~15000回サイクル LiFePO4 1280W BMS 10年長寿命 コンパクト 軽量 キャンピングカーのサブバッテリー ポータブル電源自作 ソーラー蓄電 バックアップ電源 オフグリッド自家発電 ボート エレキモーター エアーポン",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 216300.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0GC682L75",
-      "item_name": "12.8V 384Wh LiFePO4バッテリー 30Ah リン酸鉄リチウムイオン 蓄電池 BMS内蔵 3000以上のサイクル 小型 軽量 IP55防水 非常用電源 子供用スクーター おもちゃ 魚群探知機 キャンプ用品 防災グッズ ソーラー発電システム 電動車椅子 車中泊 サブバッテリー 省エネ 日本語説明書 三年間 保証",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 241520.0,
-      "t30d_units": 26.0
-    },
-    {
-      "asin": "B0B7JBZN1M",
-      "item_name": "Evopow ポータブル電源 リン酸鉄 大容量 515Wh/160938mAh 出力600W (瞬間最大1200W) AC/DC/USB/Type-C 四つの充電方法 AC出力(2ポート) 100V LEDライト付き MPPT制御方式 純正弦波 家庭用 アウトドア用 ソーラー充電 地震/台風/防災/停電/緊急/非常用 ポータブルバッテリー PSE認証済",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FYF9PW12",
-      "item_name": "EVOPOW 12.8V 128Wh LiFePO4 10Ah リン酸鉄リチウムイオンバッテリー BMS内蔵 3000以上のサイクル 小型 軽量 IP55防水 非常用電源 子供用スクーター おもちゃ 魚群探知機 キャンプ用品 防災グッズ ソーラー発電システム 電動車椅子 車中泊 サブバッテリー 省エネ 日本語説明書 三年間 保証",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 38503.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0GC64W4WM",
-      "item_name": "12.8V 192Wh LiFePO4バッテリー 蓄電池 15Ah リン酸鉄リチウムイオン BMS内蔵 3000以上のサイクル 小型 軽量 IP55防水 非常用電源 子供用スクーター おもちゃ 魚群探知機 キャンプ用品 防災グッズ ソーラー発電システム 電動車椅子 車中泊 サブバッテリー 省エネ 日本語説明書 三年間 保証",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 162696.66,
-      "t30d_units": 25.0
-    },
-    {
-      "asin": "B0FVL3DSP4",
-      "item_name": "EEIVOL 充電電池 単三 急速充電器付き 充電式単三リチウムバッテリー 1.5V 4本入りセット 3600mWh 1600回以上循環使用可能 超長持続時間 自然放電抑制 2.5ｈ LED充電インジケータ 磁気設計 充電器の組み合わせ 電池収納 日本語取扱説明書付き 2400mAh",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 20747.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0FPQP92XZ",
-      "item_name": "AIWOLL Generator 400 355Wh ポータブル電源 40W ソーラーパネル 1枚 2点セット ソーラー発電機 リン酸鉄 長寿命 バッテリー 定格出力400W 瞬間最大800W 家庭用 アウトドア用 防災 純正弦波 AC100V PD100W",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 29900.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FR1Y9DPJ",
-      "item_name": "12.8V 100Ah リン酸鉄リチウムイオンバッテリー 蓄電池 低温保護 100A充放電 1280Wh 4000~15000回サイクル LiFePO4 1280W 100AのBMS 10年長寿命 コンパクト 軽量 キャンピングカーのサブバッテリー ポータブル電源自作 ソーラー蓄電 バックアップ電源 オフグリッド自家発電 ボート エレキモーター エアーポンプ 日",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1199706.0,
-      "t30d_units": 59.0
-    },
-    {
-      "asin": "B0G6KFKC9N",
-      "item_name": "12.8V 128Wh LiFePO4バッテリー 10Ah 蓄電池 リン酸鉄リチウムイオン BMS内蔵 3000以上のサイクル 小型 軽量 IP55防水 非常用電源 子供用スクーター おもちゃ 魚群探知機 キャンプ用品 防災グッズ ソーラー発電システム 電動車椅子 車中泊 サブバッテリー 省エネ 日本語説明書 二個セット",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 41750.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0FYDHMR36",
-      "item_name": "EVOPOW 12.8V 10Ah LiFePO4バッテリー リン酸鉄リチウムイオンバッテリー 128Wh BMS内蔵 3000以上のサイクル 小型 軽量 IP55防水 非常用電源 子供用スクーター おもちゃ 魚群探知機 キャンプ用品 防災グッズ ソーラー充電 環境にやさしい 省エネ 日本語説明書 ３年間安 心保証",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 638123.98,
-      "t30d_units": 150.0
-    },
-    {
-      "asin": "B0FYWMKNJD",
-      "item_name": "12.8V 100Ah リン酸鉄リチウムイオンバッテリー 蓄電池 1280Wh LiFePO4 1280W出力 100AのBMS 3000回以上サイクル 10年長寿命 コンパクト 軽量 グループ31 車中泊 キャンピングカーのサブバッテリー ポータブル電源DIY ソーラー蓄電 バックアップ電源 オフグリッド自家発電 ボート エレキモーター エアーポンプに",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 124500.0,
-      "t30d_units": 5.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1122954923002,
+      "merchant_name": "YauoTechs【メーカー直営店・１年保証付】",
+      "asin": "B0FX9G319X",
+      "item_name": "【Amazon.co.jp 限定】2026年最新 Bluetooth イヤホン ワイヤレス イヤホン Bluetooth IPX7防水 イヤフォン 自動ペアリング 最大50時間再生 イヤホン 全音域HIFI音質低遅延 接続瞬時Type-C 急速充電片耳/両耳 WEB会議/運動/ゲーム/通学通勤/スポーツ/音楽用iPhone/Android対応",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 2143207.2,
+      "t30d_units": 1020.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

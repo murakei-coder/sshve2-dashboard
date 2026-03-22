@@ -1,22 +1,55 @@
 {
-  "1166555369102": [
+  "1166650601502": [
     {
-      "asin": "B0DHRVLPWG",
-      "item_name": "GOYOJO 精密はかり 0.01g×5000g デジタルはかり 0.01g 電子天秤 業務用 実験室天びん 宝石店 学校 校正分銅なし コンセント式&バッテリー対応 日本語取扱説明書付き",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 978897.23,
-      "t30d_units": 101.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1166650601502,
+      "merchant_name": "専門店zyd",
+      "asin": "B0G8JMFCF2",
+      "item_name": "67W 充電器 type-c usb【業界最新巻き取り式・超軽量・三台同時充電】急速充電器 安全で低温 type-c 3ポート ケーブル ー体型 折り畳み式 巻き取り式充電器 GaNIII技術 まきとり充電ケーブル c 火花なし PSE認証済み スマホ 出張·旅行PD3.0/QC3.0/PPS/SCP規格/MacBook/タブレットPC用/ノートpc/iPad/iPhone17などに対応",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 3382860.22,
+      "t30d_units": 965.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FN7JVNXQ",
-      "item_name": "GOYOJO トルクレンチ プレセット型 6点セット 差込角(1/4・3/8・1/2インチ) トルク範囲2〜24N·m・5〜60N·m・20〜220N·m 両回転対応 トルク精度±3% 自動車/オートバイ/自転車/機械整備用 作業工具 校正証明書&日本語取扱説明書&収納ケース付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 279485.8,
-      "t30d_units": 32.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1166650601502,
+      "merchant_name": "専門店zyd",
+      "asin": "B0G43LWBFD",
+      "item_name": "67W 充電器 type-c usb 【安全で超低温 火花なし 世界最小クラス】 折り畳み式 88g超軽量 急速充電器 GaNIII技術 pd 充 電器 iphone 3ポート 三台同時充 電 タイプc 充 電器 PSE認証済み スマホ 出張·旅行PD3.0/QC3.0/PPS/SCP規格/MacBook/タブレットPC用/ノートpc/iPad/iPhone17などに対応",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 2673609.38,
+      "t30d_units": 907.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1166650601502,
+      "merchant_name": "専門店zyd",
+      "asin": "B0G5N8PY7X",
+      "item_name": "switch2 保護フィルム 【最強硬度10H&画面破損保証付き 】2枚セットスイッチ2 保護フィルム 全面保護 耐衝撃 気泡ゼロ AR加工 100%透過率 反射低減 自動吸着 貼りやすい ３秒で完成 高光沢 ブルーライトカット switch 2 フィルム 指紋防止 破損防止 飛散防止 撥油性 超耐久",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1845326.96,
+      "t30d_units": 1132.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

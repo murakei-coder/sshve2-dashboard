@@ -1,40 +1,72 @@
 {
   "6570040522": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 6570040522,
+      "merchant_name": "PSZN-JP",
       "asin": "B0D6XPMDTF",
       "item_name": "EAYHM デュアル モニター 台 USB口/2口コンセント付き 机上台 2画面ディスプレイ 台 幅3段階(100-110cm)可変モニタースタンド ノートパソコン/プリンター/iMac/タブレットパソコンに適用",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
       "t30d_ops": 1527018.45,
-      "t30d_units": 221.0
+      "t30d_units": 221.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 6570040522,
+      "merchant_name": "PSZN-JP",
       "asin": "B0DY72R384",
       "item_name": "EAYHM モニター 台 デュアル 机上台 2画面ディスプレイ 台 幅100-110cm幅3段階可変モニタースタンド ノートパソコン/プリンター/iMac/タブレットパソコンに適用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 349563.33,
-      "t30d_units": 62.0
+      "t30d_units": 62.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 6570040522,
+      "merchant_name": "PSZN-JP",
       "asin": "B0DK33V61J",
       "item_name": "EAYHM モニター台 USB2.0/3.0データ転送付き 机上台 USB/TYPE-C充電付き モニタースタンド 引き出しとスマホホルダー付き 二段式 パソコン 台 ノートパソコン/プリンター/iMac/タブレットパソコンに適用 耐荷重25kg",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 1208817.16,
-      "t30d_units": 174.0
+      "t30d_units": 174.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 6570040522,
+      "merchant_name": "PSZN-JP",
       "asin": "B0F632HKYM",
       "item_name": "EAYHMモニター 台 卓上 USBドッキング付き PC 机上 台 USB/TYPE-C急速充電対応 折りたたみ可能 パソコンスタンド 引き出しとスマホホルダー付き パソコン 台 幅3段階可変モニタースタンド 耐荷重25Kg (白-USBドッキング付き)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 1407269.53,
-      "t30d_units": 429.0
+      "t30d_units": 429.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

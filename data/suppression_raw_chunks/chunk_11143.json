@@ -1,58 +1,21 @@
 {
-  "629825396302": [
+  "630128763902": [
     {
-      "asin": "B0DVYQB4V2",
-      "item_name": "[OKKO] 真珠 ネックレス 単品 シルバー925 43cm K14 ホワイトゴールド あこや本真珠 ギフト 7.5-8mm 宝石鑑別書なし (7.5-8mmパールネックレス単品, 宝石鑑別書なし)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FNQYWDS8",
-      "item_name": "[OKKO] 真珠 ネックレス 7-8mm あこや本真珠 ギフト バロックパール ロング 真鍮 80cm ホワイト",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 24500.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CW5W5B1B",
-      "item_name": "[OKKO] 真珠 ネックレス 単品 シルバー925 43cm K14 ホワイトゴールド あこや本真珠 ギフト 7.5-8mm 宝石鑑別書付き (7.5-8mmパールネックレス単品, 宝石鑑別書付き)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 165000.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FNQZ3DN4",
-      "item_name": "[OKKO] 真珠 ネックレス 7-8mm あこや本真珠 ギフト バロックパール ロング 真鍮 60cm グレー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FNQYP498",
-      "item_name": "[OKKO] 真珠 ネックレス 7-8mm あこや本真珠 ギフト バロックパール ロング 真鍮 80cm グレー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FNQYM4YD",
-      "item_name": "[OKKO] 真珠 ネックレス 7-8mm あこや本真珠 ギフト バロックパール ロング 真鍮 60cm ホワイト",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Softlines",
-      "t30d_ops": 36750.0,
-      "t30d_units": 2.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 630128763902,
+      "merchant_name": "原興業",
+      "asin": "B0C5N2DRTM",
+      "item_name": "【原興業】スクリーンマスカー 遮光シート (黒) 1100mm×20m 日本製 特許取得済み 簡易暗幕 背景布 遮光マスカー SM-BL-1100-20",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 275508.81,
+      "t30d_units": 115.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

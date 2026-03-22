@@ -1,13 +1,38 @@
 {
-  "831638408002": [
+  "831659326302": [
     {
-      "asin": "B0D4DSZ8LH",
-      "item_name": "[国内販売限定]Tamterd（タムタード）ゴルフ 距離計 レーザー距離計 800m/875yd対応 最速0.05S測定 高透過レンズ 6倍望遠 距離測定器 ゴルフ 計測器 高低差補正機能 連続測定 垂直測定 水平測定 スピード測定 レーザー距離計 充電式 IP54 防塵防水 超軽量 ケース 狩猟/建築/スポーツ/フィールド探検/地理的",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 850288.33,
-      "t30d_units": 111.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 831659326302,
+      "merchant_name": "ATIFUNA-JP",
+      "asin": "B0G2YG55X2",
+      "item_name": "[ATIFUNA] 靴下 メンズ ソックス 冬 6足セット 暖かい保温 厚手 防寒あったか 吸汗消臭 耐久性 靴下 あったかい 室内用 24-28㎝",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 68862.0,
+      "t30d_units": 23.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 831659326302,
+      "merchant_name": "ATIFUNA-JP",
+      "asin": "B0F1KQ1BHJ",
+      "item_name": "[ATIFUNA] 靴下 メンズ ソックス【抗菌 防臭 綿 吸汗】 5足セット 春夏秋 混色 脱げない靴下ショート 浅履き口 滑り止め 蒸れない 24-28cm",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 63827.08,
+      "t30d_units": 54.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

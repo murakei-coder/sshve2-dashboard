@@ -1,13 +1,21 @@
 {
   "5826694622": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 5826694622,
+      "merchant_name": "幸せな生活１号店",
       "asin": "B0D6TXNKXL",
       "item_name": "自転車ライト Arespark USB充電式の前後セット 盗難防止 防水IP65 LED自転車用ライト 夜間の外出自転車ライト 4+6つの照明モード 警告灯 マウンテンバイク ロードバイク 登山 夜釣り用 セーフティライト 1.5時間の高速充電 簡単取り付け 超明るい 男女青年通勤と児童通学に適している 電動スクーター、",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
       "t30d_ops": 78424.32,
-      "t30d_units": 54.0
+      "t30d_units": 54.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

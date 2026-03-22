@@ -1,13 +1,21 @@
 {
-  "1146965097902": [
+  "1146999676002": [
     {
-      "asin": "B0GDF65QTB",
-      "item_name": "【第三世代2026人気庭師推薦Wamlak】 剪定ばさみ 剪定バサミ 刃が鋭い 剪定鋏 はさみ 枝切りバサミ 園芸ハサミ 錆びにくい えだきりばさみ 植木鋏 庭師 フラワーアーティスト 20年の経験で作り上げ 疲労しにくい人体工学デザイン ガーデニング 生け花 庭木 果樹 盆栽 剪定 ハサミ 軽量化航空用アルミ",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 32238.64,
-      "t30d_units": 42.0
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 1146999676002,
+      "merchant_name": NaN,
+      "asin": "B0GFDDL48V",
+      "item_name": "LEDシーリングライト",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

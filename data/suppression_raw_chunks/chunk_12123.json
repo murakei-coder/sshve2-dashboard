@@ -1,67 +1,72 @@
 {
-  "730153180002": [
+  "730173022502": [
     {
-      "asin": "B0DV47W3P3",
-      "item_name": "【今すぐ使える・審査なしSIM】音声かけ放題・データ50GB｜月額6900円（税込）｜本人確認後に連絡で即日開通｜ドコモ回線5G/4G対応｜iPhone/Android対応｜1ヶ月更新｜コンビニ払いで継続可能｜おひとり様1枚まで・本人のみ利用可能",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 109274.0,
-      "t30d_units": 9.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 730173022502,
+      "merchant_name": "WONDER BATH",
+      "asin": "B0G5MZDFBW",
+      "item_name": "【公式】 WONDER BATH ドクダミ 鎮静導入セラム 超微細リポソーム処方 ヴィーガン 300ml",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F1P4FD3R",
-      "item_name": "【データ通信無制限・速度制限なし・返却不要】超高速5G SA/4G対応｜設定済みですぐ使える｜1ヶ月更新・コンビニ払いOK｜月額4950円（税込）｜ (DOCK 5G 01 （5GSAWimax SIMセット）)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 1028557.2,
-      "t30d_units": 47.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 730173022502,
+      "merchant_name": "WONDER BATH",
+      "asin": "B0FX4SZSNV",
+      "item_name": "【公式】 WONDER BATH スーパーベジトックス グリーンクレイ 泡パック洗顔 皮脂・毛穴汚れ吸着 鎮静ケア クーリング処方 ヴィーガン 130ml",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DV483WTX",
-      "item_name": "【今すぐ使える・審査なしSIM】音声かけ放題・データ20GB｜月額4900円（税込）｜本人確認後に連絡で即日開通｜ドコモ回線5G/4G対応｜iPhone/Android対応｜1ヶ月更新｜コンビニ払いで継続可能｜おひとり様1枚まで・本人のみ利用可能",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 83628.0,
-      "t30d_units": 10.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 730173022502,
+      "merchant_name": "WONDER BATH",
+      "asin": "B0FX4R6GS2",
+      "item_name": "【公式】 WONDER BATH レモンハニー 泡パック洗顔 毛穴汚れすっきり もこもこ濃密泡 泡立て不要 4種の角質ケア成分配合 低刺激 弱酸性 200ml",
+      "cleaned_suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 21475.0,
+      "t30d_units": 7.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DV492Q4W",
-      "item_name": "【今すぐ使える・審査なしSIM】音声かけ放題・データ5GB｜月額3900円（税込）｜本人確認後に連絡で即日開通｜ドコモ回線5G/4G対応｜iPhone/Android対応｜1ヶ月更新｜コンビニ払いで継続可能｜おひとり様1枚まで・本人のみ利用可能",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 141015.0,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B0DJ5H43GM",
-      "item_name": "【データ通信無制限・速度制限なし】対応端末：SCR01 / X11 / L11 / L12｜超高速5G/4G通信対応WiMAX SIM｜1ヶ月更新・コンビニ支払いで継続可能｜月額4,900円（税込）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 233314.66,
-      "t30d_units": 35.0
-    },
-    {
-      "asin": "B0DMFFJGW6",
-      "item_name": "【データ通信無制限・速度制限なし】対応端末：L13/ DOCK5G01 /X12 ｜超高速5G SA/4G通信対応WiMAX SIM｜1ヶ月更新・コンビニ支払いで継続可能｜月額4950円（税込）（5GSA Wimax SIMのみ）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 342763.71,
-      "t30d_units": 49.0
-    },
-    {
-      "asin": "B0DZJ3TYS4",
-      "item_name": "【データ通信無制限・速度制限なし・返却不要】自宅で簡単に使える超高速5G/4GホームWi-Fi｜設定済み・コンビニ払い｜1ヶ月更新・月額4950円｜Speed Wi-Fi HOME 5G L13（5GSA Wimax SIMセット）)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 653130.0,
-      "t30d_units": 24.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 730173022502,
+      "merchant_name": "WONDER BATH",
+      "asin": "B0FX4THJRG",
+      "item_name": "【公式】 WONDER BATH スーパーベジトックス 泡パック洗顔 毛穴汚れすっきり もこもこ濃密泡 泡立て不要 植物由来成分配合 低刺激 弱酸性 200ml",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

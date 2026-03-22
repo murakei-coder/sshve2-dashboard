@@ -1,13 +1,72 @@
 {
-  "1190294274602": [
+  "1190369920402": [
     {
-      "asin": "B0GGP1QYPS",
-      "item_name": "SUESONG 肩甲骨はがし 肩甲骨はがしピロー 肩甲骨ストレッチクッション 背中 肩甲骨 ストレッチ 軽量 プレゼント 誕生日",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 729250.17,
-      "t30d_units": 165.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1190369920402,
+      "merchant_name": "Uovvo",
+      "asin": "B0GHJSN12Q",
+      "item_name": "「全く目立たない防犯の一手」車のキーにそっくり！小型・隐蔽 車のキーホルダー型 充電式隠しカメラ フルHD 防犯カメラ 車載カメラ 夜間撮影 ループ録画 内蔵マイク 駐車監視 証拠保全に",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 12299.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1190369920402,
+      "merchant_name": "Uovvo",
+      "asin": "B0GHYKKMTN",
+      "item_name": "【自撮り棒不要】小型カメラ 隠しカメラ メガネカメ HD1080P画質 大容量128GB対応(別売り) 長時間録画 操作簡単 スパイカメ 写真撮影 充電しながら録画 防犯用 会議 商談 証拠撮影 Vlog 屋内 屋外ブラック 日本語説明書",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 122482.19,
+      "t30d_units": 18.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1190369920402,
+      "merchant_name": "Uovvo",
+      "asin": "B0GJDST2NJ",
+      "item_name": "「ライター型防犯カメラ」USB分離式 ライター型 充電式超小型隠しカメラ フル フルHD録画 PC接続で即時転送 プラグアンドプレイ 500mAh大容量 小型防犯 自宅/オフィス見守り/防犯/記録用",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 114779.0,
+      "t30d_units": 12.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1190369920402,
+      "merchant_name": "Uovvo",
+      "asin": "B0GLQSSQ7D",
+      "item_name": "【充電器完全擬態】ACアダプター型 小型カメラ 隠しカメラ 防犯カメラ 1080P画質 128GBまで対応 長時間録画 コンセント監視カメラ 設置簡単 常時給電 OTG/PC転送 長時間録画 USB充電 日本語取扱説明書付属",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 37553.0,
+      "t30d_units": 9.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

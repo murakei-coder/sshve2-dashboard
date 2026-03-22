@@ -1,22 +1,38 @@
 {
-  "724837855502": [
+  "724952311102": [
     {
-      "asin": "B0GJ5P244G",
-      "item_name": "オトナプロテイン 黒ごまきなこ味 大人の腸活・美容・関節ケア ソイプロテイン 特許乳酸菌1000億個 国内製造 300g LifeRich",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 572509.83,
-      "t30d_units": 157.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 724952311102,
+      "merchant_name": "EXIELA(エクシーラ)公式ショップ【安心日本人サポート】",
+      "asin": "B0CQW2MDM9",
+      "item_name": "【柔道整復師共同開発】 腰サポーター 腰ベルト 【男女兼用72cm(L)-100cm(XL)ウエストｘ腰点圧パッド付きｘ二重ベルト】ソフトバネ固定EXIELA",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 9920.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0G267DSFT",
-      "item_name": "オトナプロテイン ココア味 大人の腸活・美容・関節ケア ソイプロテイン 特許乳酸菌1000億個 国内製造 300g LifeRich",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 435706.36,
-      "t30d_units": 112.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 724952311102,
+      "merchant_name": "EXIELA(エクシーラ)公式ショップ【安心日本人サポート】",
+      "asin": "B0CZXG42PP",
+      "item_name": "【専門家が推薦する聴覚過敏耳栓】 耳栓 ノイズキャンセリング 最大-42d減音【クリアに音が聞こえ会話が可能ｘ遮音しない耳栓】ライブ用耳栓ｘ会話用耳栓ｘ６種類イヤーチップEXIELA公式, small, プレミアムブラック",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 181807.0,
+      "t30d_units": 52.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

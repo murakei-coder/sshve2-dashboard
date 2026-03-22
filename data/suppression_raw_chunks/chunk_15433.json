@@ -1,31 +1,55 @@
 {
-  "1091890486102": [
+  "1091910240402": [
     {
-      "asin": "B0GHW6WX2P",
-      "item_name": "Rubens(ルーベンス） 軽トラック 荷台シート【最短9秒で付け外し】 荷台カバー 軽トラ カバー 軽トラトノカバー スーパーキャリイ ハイゼット 防水加工 屋外 室外 (スーパーキャリー用取付金具)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1091910240402,
+      "merchant_name": "heyotone",
+      "asin": "B0F9YC3N65",
+      "item_name": "Focustar ポータブルケトル 電気ケトル 小型 500ML 300W 低消費電力 ポータブル電源で使用可能 トラベルケトル 8分で早く沸騰 沸騰したら自動OFF 空焚き防止 お湯が沸かせる水筒 持ち運び 旅行 車中泊に便利 日本語説明書付き",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 43800.0,
+      "t30d_units": 12.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GHW25RX4",
-      "item_name": "Rubens(ルーベンス） 軽トラック 荷台シート【最短9秒で付け外し】 荷台カバー 軽トラ カバー 軽トラトノカバー スーパーキャリイ ハイゼット 防水加工 屋外 室外 【Mサイズ（ロングキャビン）】",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 419908.0,
-      "t30d_units": 25.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1091910240402,
+      "merchant_name": "heyotone",
+      "asin": "B0F9YB33H7",
+      "item_name": "Focustar ポータブルケトル 電気ケトル 小型 海外対応 100-240V兼用 350ML トラベルケトル 4段温度調節 300W低消費電力 ポータ電源で使用可能 携帯湯沸かし器 8分で早く沸騰 沸騰したら自動OFF 空焚き防止 持ち運び お湯が沸かせる水筒 旅行用 車中泊 職場用に便利 変換プラグ付き",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 4539.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GHVKZJP9",
-      "item_name": "Rubens(ルーベンス） 軽トラック 荷台シート【最短9秒で付け外し】 荷台カバー 軽トラ カバー 軽トラトノカバー スーパーキャリイ ハイゼット 防水加工 屋外 室外 【Lサイズ（標準キャビン）】",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 287162.0,
-      "t30d_units": 26.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1091910240402,
+      "merchant_name": "heyotone",
+      "asin": "B0GH63Z71M",
+      "item_name": "Focustar 超音波洗浄機 小型家庭用 メガネ洗浄機 49000Hz 真性超音波技術 強力振動 隙間洗浄 650ML大容量 5段階タイマー設定 304ステンレス鋼製 入れ歯/化粧道具/腕時計バンド/指輪/貴金属/ジュエリー/カミソリも適用クリーナー PSE認証済み",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

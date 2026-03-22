@@ -1,22 +1,21 @@
 {
-  "581170213402": [
+  "581458964302": [
     {
-      "asin": "B0D33K2NLT",
-      "item_name": "Odor Vanish - Petz （オドバニッシュ・ペッツ） 犬のおしっこ・うんち・マーキングのニオイを強力に消し去る消臭スプレー (dogxon) (本体ボトル 500mL)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 270804.23,
-      "t30d_units": 83.0
-    },
-    {
-      "asin": "B0F311FT4S",
-      "item_name": "Odor Vanish - Petz （オドバニッシュ・ペッツ） 犬のおしっこ・うんち・マーキングのニオイを強力に消し去る消臭スプレー 大容量 詰め換えパック 1000ml (dogxon) (詰め換え用 1000mL)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 96763.2,
-      "t30d_units": 20.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "OOC",
+      "merchant_customer_id": 581458964302,
+      "merchant_name": "Sealayer Inc.",
+      "asin": "B0BZL2Z8HB",
+      "item_name": "赤外線学習リモコン、テレビ/STB/DVD/DVB/HiFi/VCR/メディアプレーヤー用、扇風機 空調 シンプル 純粋な学習 リモートコントロール 日本語説明書付き 操作簡単",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 252735.68,
+      "t30d_units": 259.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

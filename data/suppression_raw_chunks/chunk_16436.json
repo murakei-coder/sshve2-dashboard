@@ -1,13 +1,55 @@
 {
-  "1138655969902": [
+  "1138656918202": [
     {
-      "asin": "B0D8QFPVN6",
-      "item_name": "小型カメラ WIFI 監視カメラ 室内 1080P 遠隔監視 常時録画 動体検知 暗視機能 防犯カメラ USB充電式 日本語取扱説明書",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 585739.57,
-      "t30d_units": 185.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1138656918202,
+      "merchant_name": "Kemolpo正規販売店",
+      "asin": "B0GQGDL94C",
+      "item_name": "【JIS認証済・超軽量】Kemolpo 日傘 折りたたみ 完全遮光 UVカット 100 遮熱率59％ 晴雨兼用 5級撥水 ワンタッチ自動開閉 丈夫 6本骨 コンパクト 携帯便利 通勤 通学 旅行 レディース メンズ 小学生 収納ポーチ付き 日焼け対策 紫外線対策 (ブラック)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 25120.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1138656918202,
+      "merchant_name": "Kemolpo正規販売店",
+      "asin": "B0GQGS17KZ",
+      "item_name": "【JIS認証済・超軽量】Kemolpo 日傘 折りたたみ 完全遮光 UVカット 100 遮熱率59％ 晴雨兼用 5級撥水 ワンタッチ自動開閉 丈夫 6本骨 コンパクト 携帯便利 通勤 通学 旅行 レディース メンズ 小学生 収納ポーチ付き 日焼け対策 紫外線対策 (ピンク)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 6280.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1138656918202,
+      "merchant_name": "Kemolpo正規販売店",
+      "asin": "B0GQGMYD1Q",
+      "item_name": "【JIS認証済・超軽量】Kemolpo 日傘 折りたたみ 完全遮光 UVカット 100 遮熱率59％ 晴雨兼用 5級撥水 ワンタッチ自動開閉 丈夫 6本骨 コンパクト 携帯便利 通勤 通学 旅行 レディース メンズ 小学生 収納ポーチ付き 日焼け対策 紫外線対策 (オフホワイト)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 31400.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

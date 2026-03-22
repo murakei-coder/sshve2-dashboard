@@ -1,49 +1,21 @@
 {
-  "1113868392902": [
+  "1113876107902": [
     {
-      "asin": "B0CG18ZM6J",
-      "item_name": "SSYFEI 電気ケトル 1.0L【1000W急速沸騰・デジタル温度表示】7段階温度調節 4時間保温 触れても熱くない二重構造 304ステンレス製 メモリー機能 空焚き防止 小型 お手入れ簡単 コーヒー・お茶・ミルクに最適 電気ポット ブラック",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 39016135.64,
-      "t30d_units": 10099.0
-    },
-    {
-      "asin": "B0FF3WGR7X",
-      "item_name": "SSYFEI ハンディファン 手持ち扇風機 冷却プレート【0.2秒瞬時冷感・18000RPM超強力暴風】小型 卓上 携帯扇風機 4000mAh 最大12時間動作 風量5段階 ミニ 静音 Type-C対応 充電式 熱中症対策 暑さ対策 ギフト プレゼント グリーン",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0BZKVXYD1",
-      "item_name": "SSYFEI ハンディファン 手持ち扇風機 冷却プレート 18000RPM【0.2秒瞬時冷感・Turbo超強力暴風】小型 卓上 携帯扇風機 4000mAh 最大12時間動作 風量5段階 ミニ 静音 Type-C対応 充電式 熱中症対策 暑さ対策 プレゼント",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 47997.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DN6D8Z7J",
-      "item_name": "SSYFEI 電気ケトル 1.0L【1000W急速沸騰・デジタル温度表示】7段階温度調節 4時間保温 触れても熱くない二重構造 304ステンレス製 メモリー機能 空焚き防止 小型 お手入れ簡単 コーヒー・お茶・ミルクに最適 電気ポット ホワイト",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 9053152.92,
-      "t30d_units": 2133.0
-    },
-    {
-      "asin": "B0F5B8WMYC",
-      "item_name": "SSYFEI ハンディファン 手持ち扇風機 冷却プレート【0.2秒瞬時冷感・18000RPM超強力暴風】小型 卓上 携帯扇風機 4000mAh 最大12時間動作 風量5段階 ミニ 静音 Type-C対応 充電式 熱中症対策 暑さ対策 ギフト プレゼント ピンク",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1113876107902,
+      "merchant_name": "MOSシェーバー専門店",
+      "asin": "B0G4W1JGG9",
+      "item_name": "Mosqure 電動シェーバー 【2025全新升級·3 頭 ×9 枚自動研磨刃頭·360°浮動刃座システムが搭載】多機能 ヒゲトリマー ひげそり 電動シェーバー 腋毛/体毛/すね毛/フェイス用 ひげ剃り IPX7防水 LED電量表示 シェイバー 男性用 Type-C 充電式 日本語取扱説明書 出張/旅行 父の日ギフト 贈り物にも最適",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 544467.01,
+      "t30d_units": 288.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

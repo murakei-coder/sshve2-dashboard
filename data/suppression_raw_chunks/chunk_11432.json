@@ -1,22 +1,55 @@
 {
-  "660642103802": [
+  "660658072802": [
     {
-      "asin": "B0F4CKCQSR",
-      "item_name": "OKP Life ロボット掃除機 L6 Aqua [2-in-1 吸引・水拭き両用お掃除ロボット/LiDARナビゲーション/9.5cm超小型/6000Pa 強力吸引/静音設計 遠隔操作 自動充電 落下防止/2.4G&5GWi-Fi 対応/Alexa Google Home 対応] ホワイト",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 627869.0,
-      "t30d_units": 40.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 660658072802,
+      "merchant_name": "gssg-us",
+      "asin": "B0F2DP87D1",
+      "item_name": "NAILGIRLS コードレス UV LED ネイルランプ、80W 充電式ネイルドライヤー ジェルポリッシュライト、インテリジェント自動センサー LCD ディスプレイ ネイルランプ、ポータブル 42 ビーズ LED ネイルライト 3 タイマー設定付き 手足両用",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 60904.0,
+      "t30d_units": 11.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F79S4C8Q",
-      "item_name": "OKP LIFE L6 ロボット掃除機 水拭き、dToFレーザー、マッピング、清掃経路の計画、6000paの吸引力、取り外し可能な磁気モップ、静音設計、指定エリア、自動充電、150分のバッテリー寿命、カーペット対応、アプリ対応",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 200882.0,
-      "t30d_units": 14.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 660658072802,
+      "merchant_name": "gssg-us",
+      "asin": "B0F1K4VNT1",
+      "item_name": "【最新 充電式 ジェルネイル ライト】コードレス UV LED ネイルランプ、150W LED UVライト レジン用 全ジェル対応 ネイルライト 四階段タイマー 36LEDs 硬化ライト 高速硬化 レジンライト 自動感知センサー 日本語説明書 手足両用",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 171628.52,
+      "t30d_units": 40.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 660658072802,
+      "merchant_name": "gssg-us",
+      "asin": "B0F21H9DWH",
+      "item_name": "【ネイリスト推薦】2026最新 ジェルネイル ライト, NAILGIRLS 150W LED UVライト レジン用 全ジェル対応 ネイルライト 四階段タイマー 36LEDs 硬化ライト 高速硬化 レジンライト 自動感知センサー 日本語説明書 手足両用",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 703435.2,
+      "t30d_units": 248.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,13 +1,72 @@
 {
-  "1002210162502": [
+  "1002210287902": [
     {
-      "asin": "B0D7BS28XY",
-      "item_name": "YUNDOO 脱毛器 サロン級冷感無痛 【2025革新的連射冷却アイス 痛感ゼロ IPL光脱毛】VIO対応 美肌モード レディース メンズ 光脱毛器 99万回照射 5段階調節 高出力 デュアルアイス冷却脱毛 顔 髭 脇 腕 足用 全身ムダ毛ケア 家庭用 脱毛機 男女兼用 メーカー保証 保護メガネ＆カミソリ付き 1回で効果実感",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1002210287902,
+      "merchant_name": "Beiseng",
+      "asin": "B0FWJHSD6N",
+      "item_name": "エポキシ樹脂 大容量 2L セット | 高硬度・クリスタルレジン 気泡なし・黄変防止・低刺激 | 二液性レジン液 初心者向け DIY 手芸用品 2 液式樹脂エポキシレジン 混合比率1:1",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 30204.66,
+      "t30d_units": 6.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 739977.46,
-      "t30d_units": 70.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1002210287902,
+      "merchant_name": "Beiseng",
+      "asin": "B0FWJ6ZBQJ",
+      "item_name": "爬虫類 LED 紫外線ライト UVA UVB 3段階タイマー 9段階光量調整 砂漠系 爬虫類 両生類用 5W UVB10.0",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 177787.99,
+      "t30d_units": 49.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1002210287902,
+      "merchant_name": "Beiseng",
+      "asin": "B0FWJGTBD5",
+      "item_name": "エポキシ樹脂 2液性レジン液 大容量 948ml /1100g 高い透明 無黄無気泡 エポキシレジン液 DIY 手芸用品 レジンアート レジンアクセサリー ハンドメイドピアス キーホルダー ネックレス（474 ML x 2）",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 6053.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1002210287902,
+      "merchant_name": "Beiseng",
+      "asin": "B0FWJ4JDY8",
+      "item_name": "爬虫類 LED 紫外線ライト UVA UVB 3段階タイマー 9段階光量調整 亜熱帯 草原 森林 爬虫類 両生類用 3W UVB5.0",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 83551.0,
+      "t30d_units": 23.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

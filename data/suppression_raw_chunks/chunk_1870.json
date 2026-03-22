@@ -1,13 +1,21 @@
 {
   "6260375522": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 6260375522,
+      "merchant_name": "CHOLEI-JP",
       "asin": "B0CVVDZ7CJ",
       "item_name": "CHOLEI スリットドラム 13インチ15音 Cメジャ タングドラム スチールドラム 金属ドラム 打楽器 楽器 演奏スチールドラム ヨガ/瞑想/癒し/祈り/疲労療 楽譜付き 収納バッグ付き&ドラムスティック",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
       "t30d_ops": 202633.0,
-      "t30d_units": 24.0
+      "t30d_units": 24.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

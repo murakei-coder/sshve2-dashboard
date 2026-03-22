@@ -1,1588 +1,276 @@
 {
-  "13701986522": [
+  "13710782922": [
     {
-      "asin": "B08KS2QL66",
-      "item_name": "選べる 真空 サムギョプサル 1kg [厚さ3mm] / 冷凍クール発送 韓国式 豚バラ肉 三段バラ 豚バラスライス 薄切り",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 2840.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F21S2LCC",
-      "item_name": "マミソン 韓国ゴム手袋 Lサイズ 10袋セット / 韓国産 ロング キッチングローブ MAMISON",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 4380.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FM6QH5ND",
-      "item_name": "マッケイン 冷凍 スーパークリスプ スパイシー ポテト 650g x 2袋セット / ストレートカット3/8\" 惣菜 お弁当 かわいい おかず",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 23624.5,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0DFPF19LR",
-      "item_name": "真夏の雪花 韓国産 天日塩 (あら塩) 3kg 2袋セット / 6,7,8月限定生産 センピョ 粗塩 韓国食材 調味料 泉標 sempio セムピョ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 7420.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D3KZ8J8V",
-      "item_name": "SESE 冷凍 韓国お餅 (黒ごま粉インジョルミ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 1468.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DG23TJ1M",
-      "item_name": "SAMDUK 韓国焼肉 カルビ リブ肉用 ハサミ/ステンレススチール 焼肉用はさみ 大(25.5cm)サイズ 高級 カウィ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D8Y1DLXN",
-      "item_name": "MOTI 円形 ポン菓子 3種 アソート 6袋セット(オリジナル2袋+かぼちゃ2袋+さつまいも2袋) 各60g / 韓国 お菓子 食べ切り ちょうどいい！ ポンがし",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 11449.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0DJ2D8D4S",
-      "item_name": "三父子 全形海苔 6枚入り×5袋 (全形のり 30枚) 味付けのり 輸入元直送 ソムンナン サンブジャ 韓国",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 28440.0,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0G259WRK1",
-      "item_name": "広川のり 缶 9切ｘ54枚(30g) 3缶セット / 在来 韓国 味付けのり クァンチョン カット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 25680.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0DX5FXW52",
-      "item_name": "チョコリング 5袋 + クランチボール 5袋セット / 各30g ヨーグルトやアイスのトッピングに最高！",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 35760.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B09G6ZS4B4",
-      "item_name": "キッチンアート 鉄板 マルチグリドル 33cm バック付き キャンプやアウトドアで大活躍！",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13710782922,
+      "merchant_name": "ShinePick JP Store",
+      "asin": "B07VD77CZQ",
+      "item_name": "ShinePick カラオケマイク Bluetooth 録音可能 ワイヤレスマイク ノイズキャンセリング エコー機能搭載&伴奏機能 無線マイク 音楽再生 多彩LEDライト付き 家庭カラオケ Android/iPhoneに対応",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 102218.31,
+      "t30d_units": 42.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CBPQ4VSR",
-      "item_name": "SESE 鉄板 マルチグリドル 33cm クッションバック付き キャンプやアウトドアで大活躍！ アルミニウム ブラック 円形",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 10440.0,
-      "t30d_units": 3.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13710782922,
+      "merchant_name": "ShinePick JP Store",
+      "asin": "B0B7QVDQ95",
+      "item_name": "【最新3.9mm極細レンズ】ファイバースコープ ワイヤレス内視鏡 HD1080P 6個高輝度LEDライト 極細レンズ WiFi接続 iOS/Android/スマホ/タブレット対応 2200mAh大容量 IP67防水 録画可能エンドスコープカメラ 検査スコープ 暗視機能 デジタル内視鏡 エアコン/下水道/車/工業用 技適認証済み (1.5m)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 85333.0,
+      "t30d_units": 19.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DTCC9FK4",
-      "item_name": "テファ 韓国ゴム手袋 Lサイズ 1袋 / 韓国産 ロング キッチングローブ TAEHWA",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13710782922,
+      "merchant_name": "ShinePick JP Store",
+      "asin": "B07W82Q6PC",
+      "item_name": "BlueFire 魚自動給餌器 自動餌やり機 熱帯魚 金魚 メダカ【360°回転&静音&湿気防止】オートフィーダー 定時 餌をやる 配給量調節可能 水槽 タイムフィーダー 多段階&多回転数 留守中の餌やり 2つの取り付け方 200ML",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 153449.0,
+      "t30d_units": 60.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13710782922,
+      "merchant_name": "ShinePick JP Store",
+      "asin": "B07V7Y29G5",
+      "item_name": "ShinePick ダイビングライト LED水中懐中電灯 水中ライト LED 18mm*65.0mm 電池 1100LM 水陸両用 軽量 蛍光 IPX8強力防水 水深25M使用可能 3段階調光 ハンドストラップ付き 防犯/防災/アウトドアなどに適用",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 25470.8,
+      "t30d_units": 16.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DTFYS5CQ",
-      "item_name": "センピョ 缶詰 3種 3缶セット /エゴマの葉 甘口1缶 + 辛口1缶 +ミョンイナムル1缶/醤油漬け 韓国おかず",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 1747.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DVP1KV26",
-      "item_name": "COFFEEBEAN スティック (1, スウェディッシュベリー コンブチャ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 5725.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0DTCSKK8P",
-      "item_name": "ソンボン ソロンタン 600g / 韓国 本場の味 レトルト SESE 牛肉たっぷり 牛骨スープ 辛くない",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 12729.44,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B0BRCRVJW8",
-      "item_name": "三父子 海苔全形 6枚入り×30袋 箱売り 味付けのり 輸入元直送 ソムンナン サンブジャ 韓国のり",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 109776.0,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0D2HZDYVL",
-      "item_name": "オソン 玄米ヌルンジ (おこげ) 150g 5袋セット / 韓国 おこげスナック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 17760.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0BTLWQRVZ",
-      "item_name": "ピュアセミ ショットグラス 50ml 4個セット / PURE SEMI GLASS クリア ガラスグラス エスプレッソグラス 焼酎グラス ウイスキー ブランデー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 96750.66,
-      "t30d_units": 65.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13710782922,
+      "merchant_name": "ShinePick JP Store",
+      "asin": "B0CGXKF95Y",
+      "item_name": "ShinePick カラオケマイク Bluetooth 録音可能 ワイヤレスマイク ノイズキャンセリング エコー機能搭載&伴奏機能 無線マイク 音楽再生 多彩LEDライト付き 家庭カラオケ Android/iPhoneに対応",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 80528.33,
+      "t30d_units": 33.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0BVV38MYK",
-      "item_name": "ピュアミニハンドル ショットグラス エスプレッソショットグラス 4個パック 50ml(1.8オンス) ハンドル付き ウィスキー/テキーラ/ウォッカ/焼酎/エスプレッソ用",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13710782922,
+      "merchant_name": "ShinePick JP Store",
+      "asin": "B07VPGVNRX",
+      "item_name": "ShinePick ダイビングライト LED水中懐中電灯 水中ライト Ｌ2 LED 18650電池(別売り)に対応 1200LM 水陸両用 軽量 IPX8強力防水 水深100M使用可能 3段階調光 防犯/防災/アウトドアなどに適用…",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 27089.0,
+      "t30d_units": 10.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 7400.0,
-      "t30d_units": 5.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13710782922,
+      "merchant_name": "ShinePick JP Store",
+      "asin": "B08925R94T",
+      "item_name": "ShinePick カラオケマイク Bluetooth 録音可能 ワイヤレスマイク ノイズキャンセリング エコー機能搭載&伴奏機能 無線マイク 音楽再生 多彩LEDライト付き 家庭カラオケ Android/iPhoneに対応",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 125020.79,
+      "t30d_units": 50.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DTCGDWL7",
-      "item_name": "ヘピョ 韓国味付けのり 全形 7枚入り 20袋セット / 焼き 韓国のり 輸入元直送",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13710782922,
+      "merchant_name": "ShinePick JP Store",
+      "asin": "B0B1J8D3V9",
+      "item_name": "BlueFire 魚自動給餌器 餌やり器 オートフィーダー 熱帯魚 金魚 水族水槽用 多段階&多回転数 自動餌やり機 配給量調節可能 静音 留守中の餌やり ホワイト",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 12819.66,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0BCVJJCTG",
-      "item_name": "ソロモン商事 コカ・コーラ キャンピング 軽量ハイーチェア COCA-COLA CAMPING HIGH CHAIR アウトドア キャンプ 折りたたみ椅子 アウトドアチェア 軽量 チェア",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13710782922,
+      "merchant_name": "ShinePick JP Store",
+      "asin": "B0B1J95K62",
+      "item_name": "『最新型・2色光源』ダイビングライト 水中ライト 2600ルーメン 最大水中70Ｍ ダブル光源 水中懐中電灯 Ledダイビングライト ナイトダイビング 超軽量 防水 防災グッズ 水陸両用 地震対策 懐中電灯 夜間作業 アウトドア",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 30777.0,
+      "t30d_units": 10.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CNGPM7K6",
-      "item_name": "三父子 味付けのり 3パック X 12袋セット ソムンナン サンブジャ 韓国のり",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 328503.16,
-      "t30d_units": 158.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13710782922,
+      "merchant_name": "ShinePick JP Store",
+      "asin": "B08SJVDX5J",
+      "item_name": "ShinePick犬のおもちゃボール 犬用ボール 犬用噛むおもちゃ サッカー 15cm 天然ゴム 耐久性 知育玩具 トレーニング 運動不足 ストレス解消 中小型犬に適用…",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 37136.22,
+      "t30d_units": 17.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0C9ZNVSJD",
-      "item_name": "ロッテ チルソンサイダー500ml×20本",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 160404.0,
-      "t30d_units": 69.0
-    },
-    {
-      "asin": "B0DVNG8S72",
-      "item_name": "COFFEEBEAN スティック (1, ダブルショットラテ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F9K2K6V5",
-      "item_name": "三養 ブルダック ソース オリジナル 200g 6個＋ミスリーソース1袋 /ブルダック/激辛/旨辛ソース/辛ラーメン サムヤン",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 10440.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DTCLFPQ6",
-      "item_name": "テファ 韓国ゴム手袋 Mサイズ 2セット / 韓国産 ロング キッチングローブ TAEHWA",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13710782922,
+      "merchant_name": "ShinePick JP Store",
+      "asin": "B07XC1GVHR",
+      "item_name": "ShinePick 釣り竿キット 伸縮式釣り竿とリールコンボ フルキット 釣り針 釣り針 キャリアバッグ 旅行 海水 淡水ボート 釣り初心者用 (2.1M)…",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 14885.0,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DX5FYLTM",
-      "item_name": "クランチボール 30g 10袋セット / ヨーグルトやアイスのトッピングに最高！",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 11920.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0F21LZD8S",
-      "item_name": "マミソン 韓国ゴム手袋 Mサイズ 3セット / 韓国産 ロング キッチングローブ MAMISON",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 5040.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FGXT4V3N",
-      "item_name": "オリオンジャコー どっさり 韓国のり 100枚入 8袋セットてりやき味 / チャック付き袋 Orionjako",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08146R54T",
-      "item_name": "百年 粗挽き(キムチ用) 唐辛子粉 1kg / 韓国 調味料 ヒャクネン とうがらし パウダー コチュカル 香辛料",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0FM6YSF2F",
-      "item_name": "マッケイン 冷凍 スーパークリスプ スパイシー ポテト 650g x 4袋セット / ストレートカット3/8\" マッケイン 惣菜 お弁当 かわいい おかず",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 5360.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F25VLX4P",
-      "item_name": "ジントック ハートチョコマシュマロ いちご味 50g 2袋セット / JINTOK HEART CHOCO",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 4020.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DTCWHF7N",
-      "item_name": "ソンボン 旨辛牛カルビヘジャンク 600g / 韓国 本場の味 レトルト SESE ピリ辛牛カルビ解酒スープ 牛肉の存在感",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 26825.79,
-      "t30d_units": 45.0
-    },
-    {
-      "asin": "B0FFSRN42C",
-      "item_name": "オットギ チヂミ粉 500g 2袋セット / 韓国 食材 オトゥギ チヂミの粉 オトギ キムチチヂミ 海鮮チヂミ 韓国風お好み焼き ジジミ ジョン",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 1250.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GMWXZ6FS",
-      "item_name": "ホットックミックス 400g 3個 + ホトック用押べら セット/新大久保 韓国 お菓子 おやつ デザート もち米 白雪",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 13278.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0DFJLP83F",
-      "item_name": "センピョ 塩妖精 コッソグム (花塩) 1kg x 1袋 / sempio コッ塩 セムピョ 泉標 韓国食材 調味料",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 5940.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0F263V3V4",
-      "item_name": "ジントック ハートチョコマシュマロ いちご味 50g 10袋セット / JINTOK HEART CHOCO MARSHMALLOW ストロベリー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 35820.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B08GQM7RL5",
-      "item_name": "リニューアル SESE モチモチ チーズボール [クリームチーズボール 1kg]+[スイートポテトチーズボール 1kg]セット 韓国屋台フード おやつ 冷凍クール発送",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 15450.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DFPKGQZF",
-      "item_name": "真夏の雪花 韓国産 天日塩 (あら塩) 3kg 3袋セット / 6,7,8月限定生産 センピョ 粗塩 韓国食材 調味料 泉標 sempio セムピョ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 5120.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0G25C9D4M",
-      "item_name": "広川のり 缶 9切ｘ54枚(30g) 12缶セット / 在来 韓国 味付けのり クァンチョン カット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 12500.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DH16ZW2P",
-      "item_name": "GUINGUETTE 焼酎グラス 4Pセット 60ml(2オンス) / ミニワイングラス ルベルポリシェ ギャンゲット ショットグラス エスプレッソ おちょこ 焼酎カップ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 4440.0,
-      "t30d_units": 3.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13710782922,
+      "merchant_name": "ShinePick JP Store",
+      "asin": "B0B7QKD8GQ",
+      "item_name": "【最新3.9mm極細レンズ】ファイバースコープ ワイヤレス内視鏡 HD1080P 6個高輝度LEDライト 極細レンズ WiFi接続 iOS/Android/スマホ/タブレット対応 2200mAh大容量 IP67防水 録画可能エンドスコープカメラ 検査スコープ 暗視機能 デジタル内視鏡 エアコン/下水道/車/工業用 技適認証済み (3.5m)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 13608.0,
+      "t30d_units": 3.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DH1K6VFC",
-      "item_name": "韓国語 焼酎グラス 4Pセット / サラリー おちょこ 焼酎カップ おちょこ SALARY SOJU GLASS",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 15338.0,
-      "t30d_units": 9.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13710782922,
+      "merchant_name": "ShinePick JP Store",
+      "asin": "B07VC53LPB",
+      "item_name": "ShinePick カラオケマイク Bluetooth 録音可能 ワイヤレスマイク ノイズキャンセリング エコー機能搭載&伴奏機能 無線マイク 音楽再生 多彩LEDライト付き 家庭カラオケ Android/iPhoneに対応",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 460507.25,
+      "t30d_units": 194.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F21N5WG9",
-      "item_name": "マミソン 韓国ゴム手袋 Mサイズ 2セット / 韓国産 ロング キッチングローブ MAMISON",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 2620.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D61VQZ3X",
-      "item_name": "奨忠洞 ジャンチュンドン スライス豚足 700g 2袋 セット/冷蔵配送 韓国豚足 タレ付き テビチ コラーゲンたっぷり",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 94578.0,
-      "t30d_units": 22.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13710782922,
+      "merchant_name": "ShinePick JP Store",
+      "asin": "B0BG4JBCVB",
+      "item_name": "BlueFire 魚自動給餌器 餌やり器 オートフィーダー 熱帯魚 金魚 水族水槽用 多段階&多回転数 自動餌やり機 配給量調節可能 静音 留守中の餌やり",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 166924.66,
+      "t30d_units": 63.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DTCPSHJL",
-      "item_name": "テファ 韓国ゴム手袋 Lサイズ 5セット / 韓国産 ロング キッチングローブ TAEHWA",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 2510.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FGXM32GK",
-      "item_name": "オリオンジャコー どっさり 韓国のり 100枚入 6袋セットうましお味 / チャック付き袋 Orionjako",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 58338.0,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0DTCH4Y5T",
-      "item_name": "ヘピョ のり巻き用海苔 10枚入り 10袋セット / 全形 海苔巻用海苔 韓国 キムパプのり 輸入元直送 香ばしく風味豊かな伝統",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 3830.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0FGXRJ578",
-      "item_name": "オリオンジャコー どっさり 韓国のり 100枚入18袋セット 塩レモン味/チャック付き袋 Orionjako",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 19960.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GLF1C3J6",
-      "item_name": "セムピョ 純作 蓮根牛蒡茶 韓国お茶 ティーバック 水だし 煮だし40包入 Sempio (かりん柚子茶)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 8282.5,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0F9JRN2LV",
-      "item_name": "三養 ブルダック ソース オリジナル 200g 8個＋ミスリーソース1袋 /ブルダック/激辛/旨辛ソース/辛ラーメン サムヤン",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DNMCDVR2",
-      "item_name": "McCain マッケイン スマイルポテト 650g 8袋セット / 惣菜 お弁当 かわいい おかず マッシュドポテト フレンチフライポテト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 16249.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0F21N23BF",
-      "item_name": "マミソン 韓国ゴム手袋 Mサイズ 5セット / 韓国産 ロング キッチングローブ MAMISON",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FM7816CH",
-      "item_name": "マッケイン 冷凍 テースティテーター ミニハッシュドポテト 1kg x 3袋セット(3kg) / ハッシュブラウン 惣菜 お弁当 かわいい おかず",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 15489.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0F9K91C6M",
-      "item_name": "三養 ブルダック ソース オリジナル 200g 24個＋ミスリーソース1袋 /ブルダック/激辛/旨辛ソース/辛ラーメン サムヤン",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DH27BW5D",
-      "item_name": "ミルキス 500ml x 20本 TWSパッケージ/韓国 ロッテ 炭酸飲料 PET",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GLF21SR8",
-      "item_name": "センピョ キキョウ生姜茶 40包入 / Sempio 純作 ドラジ生姜茶 韓国お茶 ティーバック セムピョ 水だし 煮だし",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 5791.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B09HX5JQ9J",
-      "item_name": "リニューアル SESE モチモチ チーズボール [クリームチーズボール1kg] +[トリプルチーズボール1kg]セット 韓国屋台フード おやつ 冷凍クール発送",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 10709.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DNMC1QZ2",
-      "item_name": "McCain マッケイン スマイルポテト 650g 6袋セット / 惣菜 お弁当 かわいい おかず マッシュドポテト フレンチフライポテト",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 17818.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DVNPPQKR",
-      "item_name": "COFFEEBEAN キャプテン アメリカーノ 1.6g × 10T 韓国 スティックコーヒー コーヒービーン カフェ気分 贅沢なひと時",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DTDPKVC7",
-      "item_name": "センピョ えごまの葉キムチ 6缶セット(甘口3缶+辛口3缶) 泉印 えごまの葉醤油漬け",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 2180.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DTCW5V78",
-      "item_name": "テファ 韓国ゴム手袋 Mサイズ 1袋 / 韓国産 ロング キッチングローブ TAEHWA",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DTCMS5FH",
-      "item_name": "ヘピョ のり巻き用海苔 10枚入り 4袋セット / 全形 海苔巻用海苔 韓国 キムパプのり 輸入元直送 香ばしく風味豊かな伝統",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 10560.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0F5M5FGTJ",
-      "item_name": "ソンボン スンデグク 600g / 韓国 本場の味 レトルト SESE スンデとホルモンの様々な食感と濃厚なスープのさっぱりとして辛いスープ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 58244.5,
-      "t30d_units": 72.0
-    },
-    {
-      "asin": "B0GLF1RRJK",
-      "item_name": "セムピョ 純作 蓮根牛蒡茶 韓国お茶 ティーバック 水だし 煮だし40包入 Sempio (かぼちゃ小豆茶)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 10326.0,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0BS67LWDT",
-      "item_name": "JINRO 天然岩盤水 ミネラルウォーター 500ml x 40本 / 眞露 Natural mineral Water ジンロ お水 (20本x2箱セット)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 14749.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B091SS5T65",
-      "item_name": "三父子 味付けのり 箱売り 3パックX24個セット 輸入元直送 ソムンナン サンブジャ 韓国のり",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 1573554.5,
-      "t30d_units": 436.0
-    },
-    {
-      "asin": "B0FM6ZX1NR",
-      "item_name": "マッケイン 冷凍 テースティテーター ミニハッシュドポテト 1kg x 2袋セット(2kg) / ハッシュブラウン 惣菜 お弁当 かわいい おかず",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 14750.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0F9JBSJPD",
-      "item_name": "三養 ブルダック ソース オリジナル 200g 12個＋ミスリーソース1袋 /ブルダック/激辛/旨辛ソース/辛ラーメン サムヤン",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 5980.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DTFX9Q4Z",
-      "item_name": "センピョ「ミョンイナムル」ギョウジャニンニクの醤油漬け70g＊6缶",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 5360.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FM6WHTMD",
-      "item_name": "マッケイン 冷凍 テースティテーター ミニハッシュドポテト 1kg x 6袋セット(6kg) / ハッシュブラウン 惣菜 お弁当 かわいい おかず",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 11930.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B089W7TG6G",
-      "item_name": "リニューアル SESE モチモチ チーズボール 1kg(30個) [スイートポテトチーズボール] 韓国屋台フード おやつ 冷凍クール発送",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 16820.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0DSW2TK6Z",
-      "item_name": "SESE 冷凍 韓国お餅 (モッツァ焼餅)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 5768.33,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0DTCKBY49",
-      "item_name": "テファ 韓国ゴム手袋 Lサイズ 3セット / 韓国産 ロング キッチングローブ TAEHWA",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F9KCH1V7",
-      "item_name": "三養 ブルダック ソース オリジナル 200g 10個＋ミスリーソース1袋 /ブルダック/激辛/旨辛ソース/辛ラーメン サムヤン",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 29880.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0D21L9TZJ",
-      "item_name": "マッケイン 冷凍 ケイジャンポテト 2kg ケイジャンフライ フレンチフライ スパイシー ポテト 味付けポテト",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 15000.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0D2HYMB7Y",
-      "item_name": "オソン 玄米ヌルンジ (おこげ) 150g 2袋セット / 韓国 おこげスナック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 16400.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0D3KZXR1F",
-      "item_name": "SESE 冷凍 韓国お餅 (トッポギ焼餅)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 1544.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0FGXN76Y7",
-      "item_name": "オリオンジャコー どっさり 韓国のり 100枚入 2袋セット うましお味/チャック付き袋 Orionjako",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 6280.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0DLFCKNJ8",
-      "item_name": "センピョ スープ醤油 860ml / 韓国 チゲ、ナムル料理用 カンジャン 調味料 sempio セムピョ 泉標 グック 真醤油 しょう油",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 1015.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DTCVY5J8",
-      "item_name": "ソンボン ユッケジャン 600g / 韓国 本場の味 レトルト SESE 牛肉と野菜をじっくり煮込んだスープ 旨辛",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 16568.78,
-      "t30d_units": 32.0
-    },
-    {
-      "asin": "B0DFMB2613",
-      "item_name": "センピョ トウモロコシひげ茶 30g(1.5g×20包入) 4個セット / ティーバック ノンカフェイン sempio セムピョ 韓国 茶葉 水だし 煮だし トウモロコシのひげ お茶 とうもろこしひげ茶",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DNMDL3FH",
-      "item_name": "McCain マッケイン スマイルポテト 650g 5袋セット / 惣菜 お弁当 かわいい おかず マッシュドポテト フレンチフライポテト",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 3780.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0CZPTP5MB",
-      "item_name": "韓国式 アカスリ ロングタイプ 2袋セット / 垢すり アカスリタオル 韓国 アカすり タオルタイプ エステ あかすり グッズ 韓国ボディタオル サウナ 角質とり 角質 ボディ ピーリング",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0G2BK3D81",
-      "item_name": "広川 韓国 味付けのり 箱売り 3パックX24袋セット / 輸入元直送 クァンチョ 在来 カットのり",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 50942.5,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0F9K6MF1V",
-      "item_name": "三養 ブルダック ソース オリジナル 200g 4個＋ミスリーソース1袋 /ブルダック/激辛/旨辛ソース/辛ラーメン サムヤン",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F9K5BKC9",
-      "item_name": "三養 ブルダック ソース オリジナル 200g 5個＋ミスリーソース1袋 /ブルダック/激辛/旨辛ソース/辛ラーメン サムヤン",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 8640.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0BRCQ9F8K",
-      "item_name": "WAGENSTEIGER ステンレス ドーム カバー 28cm 鉄板 マルチグリドル 蓋 つや消し サテン仕上げ 収納ポーチ付き レストカバー ふた",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 40107.0,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0CBPRCWZW",
-      "item_name": "SESE 鉄板 マルチグリドル 29cm クッションバック付き キャンプやアウトドアで大活躍！",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 20350.33,
-      "t30d_units": 7.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13710782922,
+      "merchant_name": "ShinePick JP Store",
+      "asin": "B088NYQBL2",
+      "item_name": "ShinePick カラオケマイク Bluetooth 録音可能 ワイヤレスマイク ノイズキャンセリング エコー機能搭載&伴奏機能 無線マイク 音楽再生 多彩LEDライト付き 家庭カラオケ Android/iPhoneに対応",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 458567.69,
+      "t30d_units": 189.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FGXPHSR5",
-      "item_name": "オリオンジャコー どっさり 韓国のり 100枚入 12袋セットうましお味 / チャック付き袋 Orionjako",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 33700.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0D3KY1QXP",
-      "item_name": "SESE 冷凍 韓国お餅 (きな粉よもぎインジョルミ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B089W9V7RN",
-      "item_name": "リニューアル SESE モチモチ チーズボール 1kg(30個) [クリームチーズボール] 韓国屋台フード おやつ 冷凍クール発送",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 20568.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0DTCHKPQD",
-      "item_name": "テファ 韓国ゴム手袋 Mサイズ 3セット / 韓国産 ロング キッチングローブ TAEHWA",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 6720.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0FB8ZRYR4",
-      "item_name": "CJ 細挽き(調味用) 唐辛子粉 1kg 2袋セット / とうがらし パウダー コチュカル 香辛料 調味料 freshway",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DX5BR3DF",
-      "item_name": "クランチボール 30g 5袋セット / ヨーグルトやアイスのトッピングに最高！",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 30362.0,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0DTCHKRZB",
-      "item_name": "ヘピョ 韓国味付けのり 全形 7枚入り 3袋セット / 焼きのり 韓国のり 輸入元直送",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 7080.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0DTD8KVNH",
-      "item_name": "ソンボン ドガ二タン 600g / 韓国 本場の味 レトルト SESE 牛膝軟骨スープ コラーゲンたっぷり",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 6827.99,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0DQNKW67V",
-      "item_name": "SESE 冷凍 韓国お餅 (きな粉インジョルミ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 5837.0,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0DTDB5NHK",
-      "item_name": "ソンボン 牛コムタンスープ 1kg / 韓国 本場の味 レトルト SESE 濃厚な牛骨スープ 手軽に本格的な味わい",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 21340.44,
-      "t30d_units": 33.0
-    },
-    {
-      "asin": "B0BRCRY3FG",
-      "item_name": "WAGENSTEIGER ステンレス ドーム カバー 20cm 鉄板 マルチグリドル 蓋 つや消し サテン仕上げ 収納ポーチ付き レストカバー ふた",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 27495.0,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0FGXPW1Z7",
-      "item_name": "オリオンジャコー どっさり 韓国のり 100枚入 5袋セット てりやき味/チャック付き袋 Orionjako",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DSWCQRP4",
-      "item_name": "SESE 冷凍 韓国お餅 (はちみつシード焼餅)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 1270.15,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0FGXVFQSG",
-      "item_name": "オリオンジャコー どっさり 韓国のり 食べ比べセット うましお味1 + 塩レモン味1 + てりやき味1 / 3種 3袋 各100枚入チャック付き袋 Orionjako",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 4240.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B08KS2QSL8",
-      "item_name": "選べる 真空 サムギョプサル 1kg [厚さ3mm] +1kg [厚さ7mm] / 冷凍クール発送 韓国式 豚バラ肉 三段バラ 豚バラスライス 薄切り",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 4789.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DVC77VSJ",
-      "item_name": "ジントック ハートチョコマシュマロ 50g 5袋セット / JINTOK HEART CHOCO MARSHMALLOW",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 4980.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D3KWY3SP",
-      "item_name": "SESE 冷凍 韓国お餅 (カステラ粉インジョルミ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B09VNZ2LMZ",
-      "item_name": "韓国式 茶碗 プレミアム 5点セット [茶碗, 蓋(福印), 箸, スプーン, 汁椀] ステンレス二重食器 保温･保冷 二重中空構造",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 62305.78,
-      "t30d_units": 24.0
-    },
-    {
-      "asin": "B0D2HZ26D6",
-      "item_name": "オソン 玄米ヌルンジ (おこげ) 150g 10袋セット / 韓国 おこげスナック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 10400.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DFPBSF8Y",
-      "item_name": "真夏の雪花 韓国産 天日塩 (あら塩) 3kg x 1袋 / 6,7,8月限定生産 センピョ 粗塩 韓国食材 調味料 泉標 sempio セムピョ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 11309.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0D8Y291CZ",
-      "item_name": "MOTI 円形 ポン菓子 かぼちゃ 60g 6袋セット / 韓国 お菓子 食べ切り ちょうどいい！ポンがし",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F21QZMZM",
-      "item_name": "マミソン 韓国ゴム手袋 Lサイズ 3袋セット / 韓国産 ロング キッチングローブ MAMISON",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 3360.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DTCK2FKV",
-      "item_name": "ヘピョ 韓国味付けのり 全形 7枚入り 4袋セット / 焼きのり 韓国のり 輸入元直送",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FGXRQB3H",
-      "item_name": "オリオンジャコー どっさり 韓国のり 食べ比べセット うましお味2 + 塩レモン味2 + てりやき味2 / 3種 6袋 各100枚入チャック付き袋 Orionjako",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D49B8FYD",
-      "item_name": "Kwangdong ホッケ茶(ケンポナシ茶) 500ml 20本 セット/ホヴェニア ドゥルシス 広東 クァンドン 男 濃い ホッゲ茶 韓国 お茶 ドリンク",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 33460.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0DVC78KYY",
-      "item_name": "ジントック ハートチョコマシュマロ 50g 3袋セット / JINTOK HEART CHOCO MARSHMALLOW",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 1690.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0BJJ71JJM",
-      "item_name": "キッチンアート 鉄板 マルチグリドル 29cm バック付き キャンプやアウトドアで大活躍！",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 6960.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0FM6ZX45C",
-      "item_name": "マッケイン 冷凍 スーパークリスプ スパイシー ポテト 650g x 3袋セット / ストレートカット3/8\" 惣菜 お弁当 かわいい おかず",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 4660.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DNMBM5HY",
-      "item_name": "McCain マッケイン スマイルポテト 650g 3袋セット / 惣菜 お弁当 かわいい おかず マッシュドポテト フレンチフライポテト",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 31407.5,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0FGXPB2KJ",
-      "item_name": "オリオンジャコー どっさり 韓国のり 100枚入 5袋セットうましお味 / チャック付き袋 Orionjako",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 16727.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0GLMSCKKQ",
-      "item_name": "広川のり 54枚 ｘ2缶入り ギフトセット/在来 韓国 味付け クァンチョン カットのり GiftSet",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 9104.5,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B08XX8BKNH",
-      "item_name": "三祐 レッドチェダーシュレッド 1kg ナチュラルチーズ 国内加工 冷蔵発送",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 149306.0,
-      "t30d_units": 56.0
-    },
-    {
-      "asin": "B0DFGMWXRZ",
-      "item_name": "70年発酵名家 センピョ ジン醤油 1.7L 2本セット / 韓国 カンジャン 調味料 sempio セムピョ ジン 真醤油 チヂミのたれ しょう油",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 10068.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B09HQMDP81",
-      "item_name": "リニューアル SESE モチモチ チーズボール 1kg(30個) [トリプルチーズボール] 韓国屋台フード おやつ 冷凍クール発送",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 5700.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D21NNY77",
-      "item_name": "マッケイン 冷凍 ケイジャンポテト 4kg(2kg x 2袋) ケイジャンフライ フレンチフライ スパイシー ポテト 味付けポテト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 135769.5,
-      "t30d_units": 35.0
-    },
-    {
-      "asin": "B085L3YG1Y",
-      "item_name": "黒麦茶 The Black Bori 520ml ブラックボリ Non-Caffeine Black Barley Tea 20個(1BOX)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 28269.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B08KS1XZT9",
-      "item_name": "選べる 真空 サムギョプサル 2kg [厚さ3mm] / 冷凍クール発送 韓国式 豚バラ肉 三段バラ 豚バラスライス 薄切り",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 13140.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DFMB33MR",
-      "item_name": "センピョ トウモロコシひげ茶 30g(1.5g×20包入) 2個セット / ティーバック ノンカフェイン sempio セムピョ 韓国 茶葉 水だし 煮だし トウモロコシのひげ お茶 とうもろこしひげ茶",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0BT4RZQHH",
-      "item_name": "三養 ロゼブルダック平たい春雨 CUP 169g 3個 + ミスリーソース 1袋 / コチュジャン&クリーム&ブルダックソースのコラボ/SAMYANG ロゼブルダックタンミョン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 5960.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F21RK98Q",
-      "item_name": "マミソン 韓国ゴム手袋 Lサイズ 2袋セット / 韓国産 ロング キッチングローブ MAMISON",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 3930.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DXBTQF4R",
-      "item_name": "レインボー テープグミ 35g×4個 / ジントック メジャーグミ JINTOK 巻き尺 まきじゃく 巻尺 韓国",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 1498.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F21S6939",
-      "item_name": "マミソン 韓国ゴム手袋 Lサイズ 5袋セット / 韓国産 ロング キッチングローブ MAMISON",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 2510.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DTCK75P1",
-      "item_name": "テファ 韓国ゴム手袋 Lサイズ 2セット / 韓国産 ロング キッチングローブ TAEHWA",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DNMCLJV8",
-      "item_name": "McCain マッケイン スマイルポテト 650g 4袋セット / 惣菜 お弁当 かわいい おかず マッシュドポテト フレンチフライポテト",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 16400.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0DJ23CC8L",
-      "item_name": "三父子 全形海苔 6枚入り×10袋 (全形のり 60枚) 味付けのり 輸入元直送 ソムンナン サンブジャ 韓国",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 197960.0,
-      "t30d_units": 87.0
-    },
-    {
-      "asin": "B0FB8TNY4H",
-      "item_name": "CJ 粗挽き(キムチ用) 唐辛子粉 1kg 2袋セット / とうがらし パウダー コチュカル 香辛料 調味料 freshway",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DTCJB454",
-      "item_name": "テファ 韓国ゴム手袋 Mサイズ 5セット / 韓国産 ロング キッチングローブ TAEHWA",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 12550.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0DLFQM25J",
-      "item_name": "70年発酵名家 センピョ スープ醤油 860ml 2本セット / 韓国 チゲ、ナムル料理用 カンジャン 調味料 sempio セムピョ 泉標 グック醤油 真 しょう油",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 7400.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0F25T85T8",
-      "item_name": "ジントック ハートチョコマシュマロ いちご味 50g 3袋セット / JINTOK HEART CHOCO",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 9956.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0DFGNCMM7",
-      "item_name": "70年発酵名家 センピョ ジン醤油 1.7L / 韓国 カンジャン 調味料 sempio セムピョ ジ 真醤油 チヂミのたれ しょう油",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 13153.33,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0DFKR5CY9",
-      "item_name": "センピョ 塩妖精 コッソグム (花塩) 1kg 5袋セット / sempio コッ塩 セムピョ 泉標 韓国食材 調味料",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 1990.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0D4M5KXNB",
-      "item_name": "Kwangdong ぶた芋茶 1.5L 6本セット / キクイモ茶 菊芋茶 広東 クァンドン ブタイモチャ 豚芋茶 ブタイモ茶 韓国 お茶 ドリンク",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 8220.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0FCS8JNH4",
-      "item_name": "とうもろこしのひげ茶 500ml x 24本 韓国 お茶 PET",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 368073.0,
-      "t30d_units": 111.0
-    },
-    {
-      "asin": "B0FGXS6C5W",
-      "item_name": "オリオンジャコー どっさり 韓国のり 100枚入 6袋セット 塩レモン味/チャック付き袋 Orionjako",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 6858.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D8Y418XK",
-      "item_name": "MOTI 円形 ポン菓子 オリジナル 60g 6袋セット / 韓国 お菓子 食べ切り ちょうどいい！ ポンがし",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 10920.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0FGXSKWP2",
-      "item_name": "オリオンジャコー どっさり 韓国のり 100枚入 4袋セット てりやき味/チャック付き袋 Orionjako",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 5280.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B086VFY23N",
-      "item_name": "三祐 ミックスチーズ 1kg ナチュラルチーズ 国内加工 冷蔵発送",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 68636.0,
-      "t30d_units": 25.0
-    },
-    {
-      "asin": "B0DTCXTYZD",
-      "item_name": "ソンボン 牛ネジャンタン 600g / 韓国 本場の味 レトルト SESE 牛ホルモン入りスープ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 7356.37,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0D486X5QW",
-      "item_name": "百年 粗挽き(キムチ用) 唐辛子粉 500g / 韓国 調味料 ヒャクネン とうがらし パウダー コチュカル 香辛料",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 47258.0,
-      "t30d_units": 49.0
-    },
-    {
-      "asin": "B0DVNTPWN3",
-      "item_name": "COFFEEBEAN スティック (1, アールグレイ バニララテ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DTDNN4KD",
-      "item_name": "ソンボン チャントクッパ 600g / 韓国 本場の味 レトルト SESE 牛肉入り 市場の素朴な味 野菜たっぷり",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 6337.49,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0BRCPNJ8D",
-      "item_name": "WAGENSTEIGER ステンレス ドーム カバー 24cm 鉄板 マルチグリドル 蓋 つや消し サテン仕上げ 収納ポーチ付き レストカバー ふた",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 10881.66,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0GLNFJTGW",
-      "item_name": "広川 韓国 味付けのり 全形(5枚入) 3袋 / 輸入元直送 クァンチョン 在来 カットのり",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 3270.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0GLNSXHZB",
-      "item_name": "広川のり 54枚 ｘ4缶入り ギフトセット/在来 韓国 味付け クァンチョン カットのり GiftSet",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 8649.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0G256T9F4",
-      "item_name": "広川のり 缶 9切ｘ54枚(30g) 2缶セット / 在来 韓国 味付けのり クァンチョン カット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D3L864SW",
-      "item_name": "SESE 冷凍 韓国お餅 (ピザ焼餅)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 6760.61,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B0DTCLYJY9",
-      "item_name": "ソンボン 牛カルビタン 600g / 韓国 本場の味 レトルト SESE 濃厚な旨み 牛肉がゴロゴロ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 37554.9,
-      "t30d_units": 54.0
-    },
-    {
-      "asin": "B0FM746FQ8",
-      "item_name": "マッケイン 冷凍 テースティテーター ミニハッシュドポテト 1kg x 4袋セット(4kg) / ハッシュブラウン 惣菜 お弁当 かわいい おかず",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 4600.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B08KS1VK1M",
-      "item_name": "選べる 真空 サムギョプサル 2kg [厚さ7mm] / 冷凍クール発送 韓国式 豚バラ肉 三段バラ 豚バラスライス",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 44209.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0DVNM74TS",
-      "item_name": "COFFEEBEAN スティック (1, バニララテ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 3375.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0D3L1PRQV",
-      "item_name": "SESE 冷凍 韓国お餅 (コーンチーズ焼餅)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 4501.89,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0G2BGX6HV",
-      "item_name": "広川 韓国 味付けのり 3パックX12袋セット / 輸入元直送 クァンチョ 在来 カットのり",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 55118.0,
-      "t30d_units": 25.0
-    },
-    {
-      "asin": "B0F9JWV46H",
-      "item_name": "三養 ブルダック ソース オリジナル 200g 3個＋ミスリーソース1袋 /ブルダック/激辛/旨辛ソース/辛ラーメン サムヤン",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 5337.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DTCHQM1K",
-      "item_name": "ソンボン ヤンピョンヘジャンク 600g / 韓国 本場の味 レトルト SESE 血餅 解酒スープ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 10738.46,
-      "t30d_units": 19.0
-    },
-    {
-      "asin": "B0D8CY2RNK",
-      "item_name": "SAMYANG カムジャ麺 120g 8袋 セット/三養ジャパン ピリ辛スープ 韓国ラーメン",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08KS25ZHP",
-      "item_name": "選べる 真空 サムギョプサル 1kg [厚さ7mm] / 冷凍クール発送 韓国式 豚バラ肉 三段バラ 豚バラスライス",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 5865.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DTDCDCJ5",
-      "item_name": "ソンボン サムゲコムタン 600g / 韓国 本場の味 レトルト SESE 鶏むね肉でヘルシー 高たんぱく・低脂肪",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 18601.89,
-      "t30d_units": 27.0
-    },
-    {
-      "asin": "B0CJ4855GN",
-      "item_name": "チルソン マンゴージュース 1.5L×6本 + ミスリートッポキソースセット 韓国飲み物 韓国ジュース",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 13120.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0FFSRTL46",
-      "item_name": "オットギ チヂミ粉 500g / 韓国 食材 オトゥギ チヂミの粉 オトギ キムチチヂミ 海鮮チヂミ 韓国風お好み焼き ジジミ ジョン",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D8Y16W8P",
-      "item_name": "MOTI 円形 ポン菓子 さつまいも 60g 12袋セット / 韓国 お菓子 食べ切り ちょうどいい！ポンがし",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 5960.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D2HZB4TR",
-      "item_name": "オソン 玄米ヌルンジ (おこげ) 150g 3袋セット / 韓国 おこげスナック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 6240.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DTCNL1YJ",
-      "item_name": "ソンボン 骨付きへジャンク 900g / 韓国 本場の味 レトルト SESE 解酒スープ 柔らかい骨付き肉 食べ答え満点",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 43241.54,
-      "t30d_units": 58.0
-    },
-    {
-      "asin": "B0DFKXB919",
-      "item_name": "センピョ 塩妖精 コッソグム (花塩) 1kg 2袋セット / sempio コッ塩 セムピョ 泉標 韓国食材 調味料",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DTCD93RM",
-      "item_name": "ヘピョ のり巻き用海苔 10枚入り 3袋セット / 全形 海苔巻用海苔 韓国 キムパプのり 輸入元直送 香ばしく風味豊かな伝統",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 7050.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0G25F12GK",
-      "item_name": "広川のり 缶 9切ｘ54枚(30g) 6缶セット / 在来 韓国 味付けのり クァンチョン カット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 6980.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D4921VW2",
-      "item_name": "Kwangdong ホッケ茶(ケンポナシ茶) 500ml 6本セット / ホヴェニア ドゥルシス 広東 クァンドン 男 濃い ホッゲ茶 韓国 お茶 ドリンク",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 2480.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F9KSMLGD",
-      "item_name": "三養 ブルダック ソース オリジナル 200g 2個 ＋ミスリーソース1袋 /ブルダック/激辛/旨辛ソース/辛ラーメン サムヤン",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 68080.0,
-      "t30d_units": 46.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 13710782922,
+      "merchant_name": "ShinePick JP Store",
+      "asin": "B0897PDZK4",
+      "item_name": "ShinePick Bluetoothヘッドセット 片耳 ハンズフリー 通話 音楽 ノイズキャンセリングマイク bluetooth ヘッドフォン Web Skype会議 在宅勤務 ビデオチャット コールセンター 運転手に適用 Android & iphone & PC対応",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 97890.33,
+      "t30d_units": 32.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

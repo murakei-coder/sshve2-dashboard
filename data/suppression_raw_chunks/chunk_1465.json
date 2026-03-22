@@ -1,13 +1,21 @@
 {
   "4270056522": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 4270056522,
+      "merchant_name": "fuji-genhigh",
       "asin": "B082K8B6LV",
       "item_name": "Autowit Super Cap2 ジャンプスターター 12V スーパーコンデンサ搭載 リチウムバッテリー無し 事前充電不要 高安全性 急速充放電 12V車用エンジンスターター（最大7.0Lガソリン車・4.0Lディーゼル車対応） 内蔵式スーパーキャパシタ 低劣化 長寿命 収納ケース付き メーカー2年保証",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
       "t30d_ops": 16945402.81,
-      "t30d_units": 1242.0
+      "t30d_units": 1242.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

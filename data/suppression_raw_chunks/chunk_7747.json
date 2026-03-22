@@ -1,274 +1,38 @@
 {
-  "52754848822": [
+  "52758761222": [
     {
-      "asin": "B0FH4XWDYZ",
-      "item_name": "【リニューアル】INNOCECT ソイプロテイン 人工甘味料不使用 1kg 遺伝子組み換えでない ノンフレーバー プレーン アミノ酸スコア100",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 48532.33,
-      "t30d_units": 26.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 52758761222,
+      "merchant_name": "TEKWIND STORE",
+      "asin": "B08ZRTJ856",
+      "item_name": "SundayGolf サンデーゴルフ LOMA ロマ ゴルフバッグ ミッドナイトグリーン 軽量 スタンド式 ストラップ付 クラブ収納可能本数 6本 持ち運び簡単 練習用バッグ ショートコース",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CL9CPZ99",
-      "item_name": "ピープロテイン 1kg えんどう豆由来 植物性プロテイン グルテンフリー 人工甘味料不使用 (アンフレーバー)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 47009.41,
-      "t30d_units": 24.0
-    },
-    {
-      "asin": "B0DRHYTNK9",
-      "item_name": "L-オルニチン パウダー 高純度 100% サプリ 無添加 人工甘味料不使用 国内製造 INNOCECT (500g)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DZGW2F31",
-      "item_name": "INNOCECT（イノセクト）スーパー大麦 バーリーマックス (2kg) レジスタントスターチ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 42292.0,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0CGZWVN87",
-      "item_name": "INNOCECT サッと溶ける シトルリン 200g L-シトルリン100% 無加工 パウダー 粉末",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 116508.57,
-      "t30d_units": 78.0
-    },
-    {
-      "asin": "B0F5VJHJ2J",
-      "item_name": "【みかん風味】EAA 600g EAA8,555mg配合 高配合 BCAA ベータアラニン1,300mg クレアチン HMB グルタミン アルギニン シトルリン 国内製造 INNOCECT イノセクト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 424344.81,
-      "t30d_units": 128.0
-    },
-    {
-      "asin": "B0DZGN8D6N",
-      "item_name": "L-グルタミン カプセル 1食500mg目安 240カプセル 120回分 錠剤 飲みやすい 小さめサイズ 国内製造 INNOCECT イノセクト",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 407370.63,
-      "t30d_units": 210.0
-    },
-    {
-      "asin": "B0CL88B5P4",
-      "item_name": "INNOCECT 難消化性デキストリン 2kg 無添加 食物繊維96%以上 水溶性食物繊維 トウモロコシ由来 グルテンフリー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 1761878.72,
-      "t30d_units": 628.0
-    },
-    {
-      "asin": "B0D2QP5M3Y",
-      "item_name": "INNOCECT ソイプロテイン 1kg 黒蜜きなこ風味 パウダー 国内製造 女性向け 美容 ぷろていん ダイエット 筋トレ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 54123.33,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B0DXK95D3W",
-      "item_name": "INNOCECT ソイプロテイン 3kg プレーン 人工甘味料不使用 遺伝子組み換えでない ノンフレーバー アミノ酸スコア100",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 397931.01,
-      "t30d_units": 95.0
-    },
-    {
-      "asin": "B0F59FGMPV",
-      "item_name": "エリスリトール 粉末 カロリーゼロ 希少糖 糖質制限 天然由来甘味料 パウダー 無添加 砂糖70%の甘さ INNOCECT イノセクト (4kg)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 6198.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D3G966ZL",
-      "item_name": "ピープロテイン 抹茶風味 1kg えんどう豆由来 天然甘味料 ステビア 植物性プロテイン グルテンフリー 人工甘味料不使用",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CH122KZY",
-      "item_name": "クレアチン パウダー 500g モノハイドレート 国内充填 高純度99.9% 無加工 イノセクト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 1687601.38,
-      "t30d_units": 1153.0
-    },
-    {
-      "asin": "B0DH8D58HT",
-      "item_name": "INNOCECT ソイプロテイン 1kg 生キャラメル風味 パウダー 国内製造 女性向け 美容 ぷろていん ダイエット 筋トレ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 41560.66,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0DVBJF4C9",
-      "item_name": "INNOCECT クレアチン モノハイドレート パウダー (325g, エナジードリンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 102639.0,
-      "t30d_units": 53.0
-    },
-    {
-      "asin": "B0DPG2L8CX",
-      "item_name": "INNOCECT サッと溶ける シトルリン 500g L-シトルリン100% 無加工 パウダー 粉末",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 226457.74,
-      "t30d_units": 85.0
-    },
-    {
-      "asin": "B0CFXD6P29",
-      "item_name": "INNOCECT グルタミン パウダー 1kg Lグルタミン100% 無添加 粉末 アミノ酸 ノンフレーバー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 3276901.81,
-      "t30d_units": 1212.0
-    },
-    {
-      "asin": "B0CYTCN8P7",
-      "item_name": "【大容量300g＋高配合】アルギニン シトルリン エナジードリンク風味 300g L-アルギニン105000mg L-シトルリン45000mg プレワークアウト INNOCECT イノセクト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 141070.78,
-      "t30d_units": 72.0
-    },
-    {
-      "asin": "B0CL495HT2",
-      "item_name": "プロテインストレージ 3層 カラビナ付き 小分け サプリメントケース パウダーケース 3個セット 国内メーカー",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 28160.0,
-      "t30d_units": 22.0
-    },
-    {
-      "asin": "B0F428RZ2J",
-      "item_name": "SUGOI シトルリン ＆ アルギニン 90,000mg 300粒 高配合 大容量 シトルリン 45,000mg アルギニン 45,000mg サプリ 錠剤 亜鉛 マカ クラチャイダム 牡蠣 すっぽん 国内GMP認定工場 INNOCECT イノセクト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 165509.13,
-      "t30d_units": 84.0
-    },
-    {
-      "asin": "B0DNMNM6JZ",
-      "item_name": "INNOCECT ベータアラニン パウダー 500g (最終加工地:日本) ノンフレーバー β-アラニン",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 437.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0DPG1HW6Z",
-      "item_name": "INNOCECT サッと溶ける シトルリン 1kg 100% 無加工 パウダー 粉末",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DSH7845V",
-      "item_name": "【たっぷり大容量】INNOCECT 難消化性デキストリン 個包装 60パック 食物繊維96%以上 水溶性食物繊維 スティックタイプ 持ち運びに便利 INNOCECT イノセクト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 259916.66,
-      "t30d_units": 99.0
-    },
-    {
-      "asin": "B0DXDNZ6JQ",
-      "item_name": "【マスカット風味】EAA 600g EAA8,555mg配合 高配合 BCAA ベータアラニン1,300mg クレアチン HMB グルタミン アルギニン シトルリン 国内製造 INNOCECT イノセクト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 1068436.35,
-      "t30d_units": 329.0
-    },
-    {
-      "asin": "B0DHTBTPJQ",
-      "item_name": "INNOCECT クレアチン パウダー 1kg モノハイドレート 1000g 国内充填 高純度99.9% 無加工 イノセクト",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 3342035.51,
-      "t30d_units": 1500.0
-    },
-    {
-      "asin": "B0D2QLZQQF",
-      "item_name": "INNOCECT ソイプロテイン 1kg リッチチョコレート風味 パウダー 国内製造 女性向け 美容 ぷろていん ダイエット 筋トレ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 122932.0,
-      "t30d_units": 43.0
-    },
-    {
-      "asin": "B0FYDSZKHN",
-      "item_name": "【業界最高水準】INNOCECT クレアルカリン カプセル 高純度クレアチン モノハイドレート 日本製 90カプセル（30日分）",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 157440.66,
-      "t30d_units": 73.0
-    },
-    {
-      "asin": "B0DB5CBYLY",
-      "item_name": "[レモンライム風味] グルタミン パウダー 240g L-グルタミン200000mg クエン酸14400mg INNOCECT イノセクト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 54252.0,
-      "t30d_units": 28.0
-    },
-    {
-      "asin": "B0F52CCJNY",
-      "item_name": "【レモンライム風味】EAA 600g EAA8,555mg配合 高配合 BCAA ベータアラニン1,300mg クレアチン HMB グルタミン アルギニン シトルリン 国内製造 INNOCECT イノセクト",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 583777.9,
-      "t30d_units": 179.0
-    },
-    {
-      "asin": "B0DVC17R9Q",
-      "item_name": "INNOCECT サッと溶ける アルギニン 1kg 100% 無加工 パウダー 粉末 無添加 ノンフレーバー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 299280.1,
-      "t30d_units": 105.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 52758761222,
+      "merchant_name": "TEKWIND STORE",
+      "asin": "B09GQ1524F",
+      "item_name": "SundayGolf サンデーゴルフ LOMA ロマ ゴルフバッグ トーステッドアーモンド 軽量 スタンド式 ストラップ付 クラブ収納可能本数 6本 持ち運び簡単 練習用バッグ ショートコース",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

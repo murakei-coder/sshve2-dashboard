@@ -1,13 +1,38 @@
 {
-  "44932573122": [
+  "44942985222": [
     {
-      "asin": "B0D7NWGWTN",
-      "item_name": "Quntis モニターライト 曲面ディスプレイ専用 45cm 2つの操作モード リモコン付き 自動調光 高演色性 デスクライト USB ライト LED バーライト USB給電 非対称な配光 Curved",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 770686.25,
-      "t30d_units": 91.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 44942985222,
+      "merchant_name": "AutoSmartHK",
+      "asin": "B0BG73CCNR",
+      "item_name": "ATOTO ChatGPT搭載AI Androidカーナビ 2DIN ディスプレイオーディオ7インチ、Wi-Fi/USBテザリング、CarPlay & Android Autoワイヤレス、YouTubeなどの動画アプリ、24バンドEQ | DSP、インターネットラジオ、リアルタイムバック映像",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 545065.66,
+      "t30d_units": 27.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 44942985222,
+      "merchant_name": "AutoSmartHK",
+      "asin": "B0FWBYSMBV",
+      "item_name": "ATOTO A5L Androidナビ 2DIN 9インチディスプレイオーディオ、Wi-Fi/Bluetooth/USBテザリングに対応、CarPlay&Android Autoワイヤレス・有線、24バンドEQ DSP 内蔵、GPS/FM/AM、HD LRV、バックカメラ、映像入力・出力対応",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 3084399.95,
+      "t30d_units": 135.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

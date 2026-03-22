@@ -1,13 +1,38 @@
 {
-  "1091800526002": [
+  "1091820929402": [
     {
-      "asin": "B0FQVGMFXX",
-      "item_name": "Amazon.co.jp限定 掃除機 コードレス【92Kpa・自立式ブラシヘッド・ダニ除去ブラシ付き・60分連続稼働・目にやさしいグリーンLEDライト・次世代LED液晶ディスプレイ・史上初の革新！】Laoynd コードレス掃除機 軽量 サイクロン 絡まないヘッド 伸縮パイプ 650Ｗ 3段吸引力 7重濾過着脱式バッテリー フロ",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 1360315.46,
-      "t30d_units": 106.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1091820929402,
+      "merchant_name": "Smyeviva",
+      "asin": "B0FN75BKW4",
+      "item_name": "充電式 毛玉取り器 けだまとり 電動 毛玉クリーナー 毛玉カッター USB充電 6枚刃 安全設計 LED表示 パワフルなパワーカッター＆3段階スピード調整で衣類を傷めず、付属の代替ブレード2枚で長期間使用可能,旅行や家庭用に最適",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1680.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1091820929402,
+      "merchant_name": "Smyeviva",
+      "asin": "B0FN7758G2",
+      "item_name": "充電式 毛玉取り器 けだまとり 電動 毛玉クリーナー 毛玉カッター USB充電 6枚刃 安全設計 LED表示 パワフルなパワーカッター＆3段階スピード調整で衣類を傷めず、付属の代替ブレード2枚で長期間使用可能,旅行や家庭用に最適 ホワイト",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 6263.8,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

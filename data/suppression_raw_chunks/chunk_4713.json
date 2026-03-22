@@ -1,319 +1,55 @@
 {
-  "10768097522": [
+  "10772732422": [
     {
-      "asin": "B0DFGKR3TV",
-      "item_name": "Number.S ナンバーエス ツヤカラーコントロール シャンプー トリートメント セット 詰め替え トロピカルピオニー【ヘア補修】 400ｍL+400g ダメージ 色落ち ヘアケア 日本製",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 119929.0,
-      "t30d_units": 54.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10772732422,
+      "merchant_name": "Cartist JP",
+      "asin": "B0DPHLRLXS",
+      "item_name": "Cartist ヤリスクロス 10系 15系 に適用 HUD保護カバー HUDカバー HUD装着車専用 ヘッドアップディスプレイカバー YARIS CROSS MXPB10 MXPB15 MXPJ10 MXPJ15 2020年8月-現行 車種専用設計 保護カバー HUD防塵カバー 高視認性 耐久性 内装パーツ インテリア ヤリスクロスアクセサリー 1Pセット (ブラック)",
+      "cleaned_suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": "Other",
+      "asin_count": 1,
+      "t30d_ops": 21530.33,
+      "t30d_units": 7.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FHPDCK81",
-      "item_name": "ザ パブリック オーガニック シャンプー トリートメント 【ディープリーエンブレイス スムースモイスト】 本体 セット 400mL アミノ酸 アロマ 精油 無添加 ヘアケア ノンシリコン 日本製 (本体セット 各400ml)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 348505.84,
-      "t30d_units": 76.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10772732422,
+      "merchant_name": "Cartist JP",
+      "asin": "B0DPHMG9W6",
+      "item_name": "Cartist ランドクルーザー 250 に適用 HUD保護カバー ランクル250 HUDカバー HUD装着車専用 ヘッドアップディスプレイ カバー LAND CRUISER 250系 TRJ250W GDJ250W 2024年-現行 車種専用設計 保護カバー HUD防塵カバー 高視認性 耐久性 内装パーツ インテリア ランドクルーザーアクセサリー 1PSCセット (ブラック)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 2990.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DTJS7PBS",
-      "item_name": "THE PUBLIC ORGANIC ザ パブリック オーガニック スーパーバウンシー トリートメント 詰め替え 【3個セット】 400mL アミノ酸 スタイリング アロマ 精油 ヘアケア ノンシリコン 日本製",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 265679.19,
-      "t30d_units": 71.0
-    },
-    {
-      "asin": "B09RSS5N9D",
-      "item_name": "ザ パブリック オーガニック シャンプー トリートメント セット シトラスフローラル [ツヤ保湿シリーズ]【スーパーシャイニー】 480mL + 480mL アミノ酸 アロマ 精油 無添加 ヘアケア 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 861328.47,
-      "t30d_units": 266.0
-    },
-    {
-      "asin": "B0DFGPJ62F",
-      "item_name": "Number.S ナンバーエス ツヤカラーコントロール シャンプー トリートメント ヘアオイル セット トロピカルピオニー 【ヘア補修】 トロピカルピオニー 450ｍL+450ｇ+100ml ダメージケア 色落ち 日本製",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08H8LVKH2",
-      "item_name": "ザ パブリック オーガニック シャンプー 本体ボトル【スーパー ポジティブ】 480mL アミノ酸 アロマ 精油ヘアケア ノンシリコン 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 57288.75,
-      "t30d_units": 34.0
-    },
-    {
-      "asin": "B0DFGKY6TV",
-      "item_name": "Number.S ナンバーエス ツヤカラーコントロール シャンプー トリートメント セット トロピカルピオニー 【ヘア補修】450ｍL+450g ダメージ 色落ち ヘアケア 日本製",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 101800.5,
-      "t30d_units": 35.0
-    },
-    {
-      "asin": "B0CLL4LBRT",
-      "item_name": "ザ パブリック オーガニック スーパーポジティブ シャンプー 詰め替え 【3個セット】 400mL アミノ酸 スタイリング アロマ 精油 ヘアケア ノンシリコン 日本製",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 690345.65,
-      "t30d_units": 190.0
-    },
-    {
-      "asin": "B0CLL3G328",
-      "item_name": "ザ パブリック オーガニック スーパーシャイニー シャンプー 詰め替え 【3個セット】 400mL アミノ酸 スタイリング アロマ 精油 ヘアケア 日本製",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 819600.4,
-      "t30d_units": 225.0
-    },
-    {
-      "asin": "B0DTJPQHD4",
-      "item_name": "THE PUBLIC ORGANIC ザ パブリック オーガニック スーパーポジティブ トリートメント 詰め替え 【3個セット】 400mL アミノ酸 スタイリング アロマ 精油 ヘアケア ノンシリコン 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 358091.79,
-      "t30d_units": 102.0
-    },
-    {
-      "asin": "B0CB5JYVK1",
-      "item_name": "Number.S ナンバーエス うねりコントロール シャンプー＆トリートメント 詰め替え セット 400ｍL+400g くせ毛 ヘアケア 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 1613721.3,
-      "t30d_units": 700.0
-    },
-    {
-      "asin": "B0FHPFNHPJ",
-      "item_name": "ザ パブリック オーガニック シャンプー トリートメント 【ディープリーエンブレイス スムースモイスト】 詰替セット 340mL アミノ酸 アロマ 精油 ヘアケア ノンシリコン 無添加 日本製 (詰替セット 各340ml)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 244119.65,
-      "t30d_units": 66.0
-    },
-    {
-      "asin": "B0CLL2HQVP",
-      "item_name": "ザ パブリック オーガニック スーパーバウンシー シャンプー 詰め替え 【3個セット】 400mL アミノ酸 スタイリング アロマ 精油 ヘアケア ノンシリコン 日本製",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 836444.51,
-      "t30d_units": 229.0
-    },
-    {
-      "asin": "B08WBXL33V",
-      "item_name": "ザ パブリック オーガニック ボディソープ 本体ボトル 2種類 セット 【スーパー ポジティブ】 &【スーパー バウンシー】 480mL + 480mL アミノ酸 アロマ 精油 無添加 日本製",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 299714.76,
-      "t30d_units": 106.0
-    },
-    {
-      "asin": "B08LY9NTSV",
-      "item_name": "ザ パブリック オーガニック シャンプー & トリートメント 詰め替え セット 【スーパー ポジティブ】 400mL + 400mL アミノ酸 アロマ 精油 無添加 ヘアケア ノンシリコン 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 2304725.91,
-      "t30d_units": 871.0
-    },
-    {
-      "asin": "B0CB5L6TFG",
-      "item_name": "ナンバーエス うねりコントロール シャンプー＆トリートメント ボトルセット 450ｍL+450g くせ毛 ヘアケア 日本製",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 429931.11,
-      "t30d_units": 145.0
-    },
-    {
-      "asin": "B0DFCJSYQN",
-      "item_name": "Number.S ナンバーエス ツヤカラーコントロール トリートメント トロピカルピオニー 【ヘアカラー・補修】 450g ダメージ 色落ち 髪骨格 ヘアケア 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 1264.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DFCFV2B4",
-      "item_name": "Number.S ナンバーエス ツヤカラーコントロール シャンプー トロピカルピオニー【ヘアカラー・補修】 450ｍL ダメージ 色落ち 髪骨格 ヘアケア 日本製",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 4377.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B08H715YJX",
-      "item_name": "ザ パブリック オーガニック シャンプー 本体ボトル 【スーパー バウンシー】 480mL アミノ酸 アロマ 精油 ヘアケア ノンシリコン 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 53639.85,
-      "t30d_units": 32.0
-    },
-    {
-      "asin": "B08ZXZCXGL",
-      "item_name": "ザ パブリック オーガニック ボディソープ 詰め替え ２個セット 【スーパー バウンシー】 400mL ×2 アミノ酸 アロマ 精油 無添加 日本製",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 976680.51,
-      "t30d_units": 467.0
-    },
-    {
-      "asin": "B0CBTRJ6HT",
-      "item_name": "ナンバーエス うねりコントロール シャンプー＆トリートメント&ヘアオイル セット 450ｍL+450ｇ+100ml くせ毛 ヘアケア 日本製",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": -2094.0,
-      "t30d_units": -1.0
-    },
-    {
-      "asin": "B0DFCH5YWZ",
-      "item_name": "Number.S ナンバーエス ツヤカラーコントロール ヘアオイル トロピカルピオニー 補修 100mL ダメージ 色落ち 髪骨格 ヘアケア 日本製",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 6650.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0CQCGVJ7F",
-      "item_name": "ナンバーエス 【うねりコントロール】 ヘアオイル ボトル 100mL くせ毛 うねり 髪骨格 ヘアケア 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 187072.8,
-      "t30d_units": 133.0
-    },
-    {
-      "asin": "B08H7YQR2V",
-      "item_name": "ザ パブリック オーガニック シャンプー トリートメント セット［ダメージ補修シリーズ］【スーパー ポジティブ】 480mL + 480mL アミノ酸 アロマ 精油 無添加 ヘアケア ノンシリコン 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 775227.62,
-      "t30d_units": 238.0
-    },
-    {
-      "asin": "B08ZXGFYJP",
-      "item_name": "ザ パブリック オーガニック ボディソープ 詰め替え ２個セット 【スーパー ポジティブ】 400mL ×2 アミノ酸 アロマ 精油 無添加 日本製",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 795016.5,
-      "t30d_units": 379.0
-    },
-    {
-      "asin": "B08H85M22K",
-      "item_name": "ザ パブリック オーガニック トリートメント 本体ボトル【スーパー ポジティブ】 480mL アミノ酸 アロマ 精油 ヘアケア ノンシリコン 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 29853.71,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B09RSQ6GQZ",
-      "item_name": "ザ パブリック オーガニック シャンプー ボトル【スーパー シャイニー】［ツヤ 保湿］ 480mL アミノ酸 アロマ 精油 ヘアケア 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 88746.45,
-      "t30d_units": 53.0
-    },
-    {
-      "asin": "B0DTJQGNJ1",
-      "item_name": "THE PUBLIC ORGANIC ザ パブリック オーガニック スーパーシャイニー トリートメント 詰め替え 【3個セット】 400mL アミノ酸 スタイリング アロマ 精油 ヘアケア 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 297126.48,
-      "t30d_units": 84.0
-    },
-    {
-      "asin": "B09RSTLFQ9",
-      "item_name": "ザ パブリック オーガニック トリートメント シトラスフローラル【スーパーシャイニー】［ツヤ 保湿］ 480mL アミノ酸 アロマ 精油 ヘアケア 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 101872.98,
-      "t30d_units": 57.0
-    },
-    {
-      "asin": "B08H7KGGTL",
-      "item_name": "ザ パブリック オーガニック トリートメント 本体ボトル 【スーパー バウンシー】 480mL アミノ酸 アロマ 精油 ヘアケア ノンシリコン 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 48291.74,
-      "t30d_units": 30.0
-    },
-    {
-      "asin": "B08LYL2Z34",
-      "item_name": "ザ パブリック オーガニック シャンプー トリートメント 詰め替え セット 【スーパーバウンシー】 400mL + 400mL アミノ酸 アロマ 精油 無添加 ヘアケア ノンシリコン 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 2090394.29,
-      "t30d_units": 787.0
-    },
-    {
-      "asin": "B09Y1K2JRL",
-      "item_name": "ザ パブリック オーガニック シャンプー トリートメント 詰め替え セット 【スーパー シャイニー】 ［ツヤ 保湿］ 400mL + 400mL アミノ酸 アロマ 精油 無添加 ヘアケア 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 2162166.92,
-      "t30d_units": 815.0
-    },
-    {
-      "asin": "B0CP57JTG2",
-      "item_name": "ナンバーエス うねりコントロール トリートメント ピーチアップル【くせ・うねり】 450g くせ毛 うねり 髪骨格 ヘアケア 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 44767.92,
-      "t30d_units": 33.0
-    },
-    {
-      "asin": "B08H837KVQ",
-      "item_name": "ザ パブリック オーガニック シャンプー トリートメント セット シトラスフローラル [保湿シリーズ]【スーパー バウンシー】 480mL + 480mL アミノ酸 アロマ 精油 無添加 ヘアケア ノンシリコン 日本製",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 688313.78,
-      "t30d_units": 213.0
-    },
-    {
-      "asin": "B0CP52S4GH",
-      "item_name": "ナンバーエス うねりコントロール シャンプー ピーチアップル 【くせ・うねり】 450ｍL くせ毛 髪骨格 ヘアケア 日本製",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 87816.32,
-      "t30d_units": 63.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 10772732422,
+      "merchant_name": "Cartist JP",
+      "asin": "B0GF7H4WLY",
+      "item_name": "Cartist クラウンスポーツ 36系 37系 HUD保護カバー HUDカバー HUD装着車専用 ヘッドアップディスプレイカバー CROWN SPORT AZSH3系 AZSH36W AZSH37W 車種専用設計 保護カバー HUD防塵カバー 高視認性 耐久性 内装パーツ インテリア クラウンスポーツアクセサリー",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 3646.37,
+      "t30d_units": -1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

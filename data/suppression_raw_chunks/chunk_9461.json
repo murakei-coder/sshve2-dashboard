@@ -1,58 +1,55 @@
 {
-  "76594553622": [
+  "76598325022": [
     {
-      "asin": "B0F9FK8SSF",
-      "item_name": "ralex-chair カウンターチェア 2脚セット 昇降式 回転バー椅子 スエード 足置き 背もたれ ハイチェア おしゃれ バー、カウンター、キッチン用 グレー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 29998.0,
-      "t30d_units": 2.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 76598325022,
+      "merchant_name": "Heatcore",
+      "asin": "B0FCWYK9JH",
+      "item_name": "ペット用ホットカーペット 30℃～55℃温度調節 7段階タイマー機能 ペット用ヒーター 猫 犬 小動物 ホットマット ヒーターマット 加熱パッド 過熱保護 防水難燃性 コード 噛み癖対策 柔らか 寒さ対策(43X71CM)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 114848.0,
+      "t30d_units": 43.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F9FK7T9Q",
-      "item_name": "ralex-chair カウンターチェア 1脚 昇降式 回転バー椅子 スエード 足置き 背もたれ ハイチェア おしゃれ バー、カウンター、キッチン用 ブラウン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 23897.0,
-      "t30d_units": 3.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 76598325022,
+      "merchant_name": "Heatcore",
+      "asin": "B0FXXN5KSC",
+      "item_name": "植物 ヒートマット 27X54CM 21W 室内園芸用 10℃～45℃温度調節 0~24タイマー機能 IP67 防水難燃 育苗用ヒートマット 冬春の種子発芽と植物の根の成長を促進できる育苗器",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 663186.06,
+      "t30d_units": 213.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F9FL8PKJ",
-      "item_name": "ralex-chair カウンターチェア 1脚 昇降式 回転バー椅子 スエード 足置き 背もたれ ハイチェア おしゃれ バー、カウンター、キッチン用 ブラック",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 15998.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F9FK4HV5",
-      "item_name": "ralex-chair カウンターチェア 2脚セット 昇降式 回転バー椅子 スエード 足置き 背もたれ ハイチェア おしゃれ バー、カウンター、キッチン用 ブラウン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 148990.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0F9FLX45W",
-      "item_name": "ralex-chair カウンターチェア 2脚セット 昇降式 回転バー椅子 スエード 足置き 背もたれ ハイチェア おしゃれ バー、カウンター、キッチン用 ブラック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 29998.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F9FNFNGY",
-      "item_name": "ralex-chair カウンターチェア 1脚 昇降式 回転バー椅子 スエード 足置き 背もたれ ハイチェア おしゃれ バー、カウンター、キッチン用 グレー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 76598325022,
+      "merchant_name": "Heatcore",
+      "asin": "B0FCXT5SL5",
+      "item_name": "ペット用ホットカーペット 30℃～55℃温度調節 7段階タイマー機能 ペット用ヒーター 猫 犬 小動物 ホットマット ヒーターマット 加熱パッド 過熱保護 防水難燃性 コード 噛み癖対策 柔らか 寒さ対策 (38X47CM)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 411351.33,
+      "t30d_units": 176.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

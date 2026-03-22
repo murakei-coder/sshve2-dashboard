@@ -1,157 +1,55 @@
 {
-  "797859233802": [
+  "797892478302": [
     {
-      "asin": "B0F8BL37BW",
-      "item_name": "[UUHU] 今治タオル 着るタオル ワンピース 日本製 コットン 綿100％ 表ガーゼ 裏パイル タオル生地 (グレー, Free Size)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Softlines",
-      "t30d_ops": 18200.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0GRQTX4G5",
-      "item_name": "今治 着るタオル エアリーガーゼ 4重ガーゼ 日本製 コットン 綿100% (ブルーグレー)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 797892478302,
+      "merchant_name": "Madremía",
+      "asin": "B0GH11XMXN",
+      "item_name": "Madremía 熊鈴 熊よけ鈴 くまよけ鈴 消音機能付き 軽量 大音量 ホイッスル付き 登山 トレッキング 渓流釣り 山登り キャンプ 熊よけ 熊対策 動物避け アウトドア安全グッズ (灰色)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 4025.0,
+      "t30d_units": 14.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GRQVZG8R",
-      "item_name": "今治 着るタオル エアリーガーゼ 4重ガーゼ 日本製 コットン 綿100% (ワイン)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 797892478302,
+      "merchant_name": "Madremía",
+      "asin": "B0GCHR76K1",
+      "item_name": "Madremía 【推し活やシール集めに】シール帳 A7 6穴 バインダー 透明 クリア リフィル20枚付き はがせる 3層構造 両面ポケット コンパクト 持ち運び シール手帳 大容量 防水 トレカケース 可愛い (プレゼントにも)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 41335.36,
+      "t30d_units": 67.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GRQRTL2J",
-      "item_name": "今治 着るタオル エアリーガーゼ 4重ガーゼ 日本製 コットン 綿100% (ライトグレー)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F6XL7F7J",
-      "item_name": "[UUHU] 今治タオル 着るタオル ワンピース ポンチョ キッズ 2〜6才用 フリーサイズ 表ガーゼ 裏パイル (MIXカラー)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GRQVQ83X",
-      "item_name": "今治 着るタオル エアリーガーゼ 4重ガーゼ 日本製 コットン 綿100% (アッシュブルー)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F8BL7BV7",
-      "item_name": "[UUHU] 今治タオル 着るタオル ワンピース 日本製 コットン 綿100％ 表ガーゼ 裏パイル タオル生地 (ピンク, FreeSize)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Softlines",
-      "t30d_ops": 6160.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0GRQYFNGC",
-      "item_name": "今治 着るタオル エアリーガーゼ 4重ガーゼ 日本製 コットン 綿100% (イエロー)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0GRR2N5WC",
-      "item_name": "今治 着るタオル エアリーガーゼ 4重ガーゼ 日本製 コットン 綿100% (ピンク)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F8BLR7KM",
-      "item_name": "[UUHU] 今治タオル 着るタオル ワンピース 日本製 コットン 綿100％ 表ガーゼ 裏パイル タオル生地 (グリーン, Free Size)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Softlines",
-      "t30d_ops": 6160.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0F6Y348MV",
-      "item_name": "[UUHU] 今治タオル 着るタオル ワンピース ポンチョ キッズ 2〜6才用 フリーサイズ 表ガーゼ 裏パイル (レッド)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Softlines",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0F8BKML8B",
-      "item_name": "[UUHU] 今治タオル 着るタオル ワンピース 日本製 コットン 綿100％ 表ガーゼ 裏パイル タオル生地 (マリン, Free Size)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Softlines",
-      "t30d_ops": 12320.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0F6XYLHZP",
-      "item_name": "[UUHU] 今治タオル 着るタオル ワンピース ポンチョ キッズ 2〜6才用 フリーサイズ 表ガーゼ 裏パイル (イエロー)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F6XY647H",
-      "item_name": "今治タオル 着るタオル ワンピース ポンチョ キッズ 2〜6才用 フリーサイズ 表ガーゼ 裏パイル (ブルー)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F8BMHW3W",
-      "item_name": "[UUHU] 今治タオル 着るタオル ワンピース 日本製 コットン 綿100％ 表ガーゼ 裏パイル タオル生地 (オレンジ, FreeSize)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Softlines",
-      "t30d_ops": 12320.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GRR8M6RZ",
-      "item_name": "今治 着るタオル エアリーガーゼ 4重ガーゼ 日本製 コットン 綿100% (グリーン)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F8BM5YX4",
-      "item_name": "[UUHU] 今治タオル 着るタオル ワンピース 日本製 コットン 綿100％ 表ガーゼ 裏パイル タオル生地 (アッシュブルー, Free Size)",
-      "suppression_reason": "nan",
-      "suppression_category": "5.Others",
-      "pf": "Softlines",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 797892478302,
+      "merchant_name": "Madremía",
+      "asin": "B0GGZYG8TY",
+      "item_name": "Madremía 超軽量折りたたみ椅子 (475g) アウトドアチェア コンパクト収納 持ち運び簡単 耐荷重130kg アルミニウム合金 600D生地 キャンプ 花見 花火大会 万博 イベント 室内外用",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 3646.0,
+      "t30d_units": 12.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

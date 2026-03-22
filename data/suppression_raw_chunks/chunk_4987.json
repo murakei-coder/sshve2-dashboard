@@ -1,850 +1,174 @@
 {
-  "12841075022": [
+  "12860702022": [
     {
-      "asin": "B0B59L2CK5",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ボディバター 200ml ローズ＆ボスウェリアの香り 全身用 天然由来成分 ECOCERT",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DHWLYWMK",
-      "item_name": "『LYSA』 ライン テーブルランプ シルバー 大容量充電式バッテリー内蔵 タッチセンサー 長時間の作業でも疲れにくい",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09QGYL4ML",
-      "item_name": "【ボタニカルシリーズ】 yope シャワージェル ルバーブ＆ローズ 400ml ボディソープ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09MWJFGR3",
-      "item_name": "『ＹＯＰＥ』 ナチュラル キッズ ボディソープ 400ml オレンジ＆アップルの香り 天然由来成分94%配合 乾燥 子供用 敏感肌 ECOCERT",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DHWMMTLW",
-      "item_name": "『LYSA』 ライン テーブルランプ ゴールド 大容量充電式バッテリー内蔵 タッチセンサー 長時間の作業でも疲れにくい",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B073C6B1WW",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ハンドクリーム 100ml ジンジャー＆サンダルウッドの落ち着く香り 天然由来成分98%配合 植物性由来 手荒れ ECOCERT オーガニックシアバター",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09J8VC6C1",
-      "item_name": "『ＹＯＰＥ』 ナチュラル キッズ ハンドソープ 400ml ココナッツ & ミントの香り 天然由来成分94%配合 手荒れ 敏感肌 子供用 ECOCERT",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 2580.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B08ZNTBXNF",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ハンドクリーム 100ml 気持ちをリフレッシュさせる セージ＆グリーンキャビアの香り 植物性由来 ECOCERT",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 8400.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0993VCK23",
-      "item_name": "『ＹＯＰＥ』 ナチュラル キッズ ボディソープ 400ml カモミール＆ネトルの香り 天然由来成分94%配合 乾燥 子供用 敏感肌 ECOCERT",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09QGX1MZP",
-      "item_name": "【ボタニカルシリーズ】 yope ハンドソープ タンジェリンとラズベリーの香り 500ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 13200.22,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0DJQH9ZNX",
-      "item_name": "【30本セット】 ルミトン 光るスポンジ棒 パーティースティック マルチカラー ライブ コンサート 6時間の連続点灯 3色の発光パターン LED 電池入り LYSA",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D6YFQTKN",
-      "item_name": "【省スペース＆掃除が簡単な完全セパレート型】 Ａ7(横型)タイプ 10個セット サインホルダー フレーム クリアスタンド フォトスタンド pop 写真立て",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 5000.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B07R53H7NG",
-      "item_name": "『ＹＯＰＥ』 キャンドル バニラ 200g 植物性ワックス使用 パーティー イベント 結婚式 バースデー 誕生日 ハロウィン",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DHWMV62Z",
-      "item_name": "『LYSA』 ウォールライト 丸型 木目",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0B1QPSFQV",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ハンドローション 300ml 沿岸の空気のように澄んだ石鹸の香り 植物性由来 手荒れ ECOCERT",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DHWP33C4",
-      "item_name": "『LYSA』 リモコン付き ウォールライト スクエア楕円 ホワイト タッチセンサー搭載 ６色のカラー切り替え可 360°回転可能 大容量バッテリー掲載 最大12時間以上の使用可能 2500mAh",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DHWKCD6V",
-      "item_name": "『LYSA』 リモコン付き ムーンナイト ライト 18cm 間接照明 タッチセンター 9段階の明るさ設定 タイマー機能",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DHWLM99Q",
-      "item_name": "『LYSA』 クリアシェード テーブルランプ ワイヤレス 3段階調光 1800mAh タッチセンサー 大容量バッテリー搭載 USB TYPE-C 充電",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 2500.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B07R72Z42R",
-      "item_name": "『ＹＯＰＥ』 キャンドル フィグツリー 200g 植物性ワックス使用 パーティー イベント 結婚式 バースデー 誕生日 ハロウィン",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0B59N8VNN",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ボディバター 200ml すっきりとした中国茶の香り ECOCERT エコサート",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DHWLB3YW",
-      "item_name": "『LYSA』 スタンド テーブルランプ ダブル ブラック ワイヤレス タッチセンサー 3種類ライトカラー 360度回転マグネット 大容量バッテリー搭載 2600mAh",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09J8SWYHY",
-      "item_name": "『ＹＯＰＥ』 ナチュラル キッズ ハンドソープ 400ml ジャスミンの香り 天然由来成分94%配合 手荒れ 敏感肌 子供用 ECOCERT",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 2580.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B08YXLBCLX",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ハンドウォッシュ 500ml 敏感肌用 TGA処方 ジンジャーとサンダルウッドの落ち着く香り 天然由来成分92%配合 手荒れ ECOCERT エコサート ハンドソープ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 2420.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B09QGYWRH4",
-      "item_name": "【ボタニカルシリーズ】 yope ハンドソープ ライラックとバニラの香り 500ml",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 12860702022,
+      "merchant_name": "プライムマークの商品は土・日・祝日も出荷いたします。 GReen gaia",
+      "asin": "B09ZG9ZSQF",
+      "item_name": "オリエント メンズ 日本製自動巻き腕時計 ステンレススチールベルト シルバー 22 (モデル:RA-AA0814R19B)、レッド, レッド, 日本製。",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
       "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0DHWKLFG8",
-      "item_name": "『LYSA』 ライン テーブルランプ ローズピンク 大容量充電式バッテリー内蔵 タッチセンサー 長時間の作業でも疲れにくい",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09QGZGLZ6",
-      "item_name": "【ボタニカルシリーズ】 yope シャワージェル タンジェリンとラズベリーの香り 400ml ボディソープ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 6599.66,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B09QLHDZ98",
-      "item_name": "『ＹＯＰＥ』 ナチュラル キッチン ハンドウォッシュ 500ml ハニー & ベルガモット 爽やかな甘さが広がる香り 天然由来成分98%配合 手荒れ ECOCERT ハンドソープ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 19800.33,
-      "t30d_units": 9.0
-    },
-    {
-      "asin": "B0993V32JW",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ボディソープ 400ml ローズ & ボスウェリアの香り 天然由来成分97%配合 シャワージェル 乾燥 ECOCERT",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07FSGZQGT",
-      "item_name": "『ＹＯＰＥ』 ナチュラル 食器用洗剤 750ml キューカンバー メロンの香り 天然由来成分97%配合 手荒れ ECOCERT",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 151200.97,
-      "t30d_units": 90.0
-    },
-    {
-      "asin": "B09HKZ1PTZ",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ボディソープ 400ml 落ち込んだ気持ちを元気にしてくれるセントジョーンズワートの香り 天然由来成分97%配合 シャワージェル 乾燥 ECOCERT エコサート",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 2200.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B09R26R1L7",
-      "item_name": "【ボタニカルシリーズ】 yope ハンドクリーム ルバーブとローズの香り 50ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 4400.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B08V5JG3VY",
-      "item_name": "『ＹＯＰＥ』 ナチュラル モイスチャライジング ハンドウォッシュ 500ml フルーティーで優しいイチジクの香り 乾燥肌用 天然由来成分98%配合 ハンドソープ 手荒れ ECOCERT エコサート",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08PTJ9KXH",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ハンドクリーム 50ml フローラルなリンデンの香り 天然由来成分98%配合 植物性由来 手荒れ ECOCERT",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B09QGYBPHX",
-      "item_name": "【ボタニカルシリーズ】 yope ハンドソープ ルバーブとローズの香り 500ml",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08V4XW8QX",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ハンドウォッシュ 500ml シダーウッド＆ビターオレンジの香り 普通肌用 天然由来成分98%配合 ECOCERT ハンドソープ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09HKX41W3",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ボディソープ 400ml ボスウェリア＆ローズマリーの香り 天然由来成分97%配合 シャワージェル 乾燥 ECOCERT",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 17600.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B08KLTBMF3",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ボディローション 300ml 爽やかなバーベナの香り 天然由来成分97%配合 植物性由来 肌荒れ ECOCERT",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07R61G7KK",
-      "item_name": "『ＹＯＰＥ』 キャンドル バーベナ 200g 植物性ワックス使用 パーティー イベント 結婚式 バースデー 誕生日 ハロウィン",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0B59KG2NL",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ボディバター 200ml ココナッツ＆シーソルトの香り 全身用 天然由来成分 ECOCERT",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D6YG8TCN",
-      "item_name": "【省スペース＆掃除が簡単な完全セパレート型】 ポストカード(縦型)タイプ 7個セット サインホルダー フレーム クリアスタンド フォトスタンド pop 写真立て",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08PTJDRYS",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ボディローション 300ml シダーウッド＆ビターオレンジの香り 天然由来成分98%配合 植物性由来 ECOCERT",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0DHWNJKC8",
-      "item_name": "『LYSA』 リモコン付き ウォールライト スクエア ブラック タッチセンサー搭載 3色のカラー切り替え可 大容量バッテリー掲載 最大24時間以上の使用可能",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DHWP9DVN",
-      "item_name": "『LYSA』 リモコン付き ウォールライト丸型 ブラック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07FSPJ2L6",
-      "item_name": "『ＹＯＰＥ』 ナチュラル 食器用洗剤 750ml ベルガモット＆バーベナ 爽やかな柑橘とフレッシュなグリーンの香り 天然由来成分97%配合 手荒れ ECOCERT",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 176608.61,
-      "t30d_units": 105.0
-    },
-    {
-      "asin": "B0DHWPGL3Q",
-      "item_name": "『LYSA』 リモコン付き ウォールライトスクエア ホワイト 壁掛けタイプ 360度回転可能 タッチセンサー搭載 3段階調光 大容量バッテリー 24時間以上使用可能 2600ｍＡｈ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08P3QY9X7",
-      "item_name": "『ＹＯＰＥ』 ナチュラル リキッドソープ 500ml リンデンの香り 敏感肌用 天然由来成分98%配合 ECOCERT ハンドソープ ハンドウォッシュ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 11000.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B07MQTL75Y",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ハンドローション 300ml バニラのような甘さとスパイシーさが混ざったクローブの香り 天然由来成分97%配合 植物性由来 手荒れ ECOCERT エコサート オーガニックシアバター",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DHWLY976",
-      "item_name": "『LYSA』 リモコン付き ムーンナイト ライト 20cm 間接照明 タッチセンター 9段階の明るさ設定 タイマー機能",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08V4X6XLT",
-      "item_name": "『ＹＯＰＥ』 ナチュラル モイスチャライジング ハンドウォッシュ 500ml 乾燥肌用 シナモンがほんのり香る甘いバニラの香り 天然由来成分98%配合 手荒れ ECOCERT エコサート ハンドソープ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 28599.38,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0937BK2VG",
-      "item_name": "デリケートゾーン ソープ 【ゼラニウムとクランベリーの香り デリケートゾーン用全身洗浄料 300ml 】 『ＹＯＰＥ』フェミニン ジェルウォッシュ デリケートゾーン用 インバス フェムケア 天然由来成分99%配合",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 36300.05,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B07MQ68F6W",
-      "item_name": "『ＹＯＰＥ』 ナチュラル コンディショナー 170ml ローズ＆サンダルウッドの香り オリエンタルガーデン ECOCERT",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 4400.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B08PTJJK3V",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ボディソープ 400ml リンデン（菩提樹）の香り 天然由来成分98%配合 シャワージェル 乾燥 ECOCERT",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 4399.85,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DHWNKQ78",
-      "item_name": "『LYSA』 リモコン付き ウォールライト丸型 ホワイト",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DHWNSJ37",
-      "item_name": "『LYSA』 ウォールライト スクエア ブラック 壁掛けタイプ 360度回転可能 タッチセンサー搭載 3段階調光 大容量バッテリー 24時間以上使用可能 2600ｍＡｈ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09W61167S",
-      "item_name": "【ボタニカルシリーズ】 yope ハンド＆ボディローション ルバーブとローズの香り 300ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 18059.85,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B07MM2J8W4",
-      "item_name": "『ＹＯＰＥ』 ナチュラル シャンプー 300ml ドライヘア用 ローズ＆サンダルウッドの香り オリエンタルガーデン ECOCERT エコサート",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 4400.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0D2J9ZV3L",
-      "item_name": "『ＹＯＰＥ』 リンデンシリーズ ハンド＆ボディケア ギフトセット ハンドウォッシュ ECOCERT エコサート ハンドソープ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 7365.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B08PTJLSJC",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ハンドクリーム 100ml ティー & ミントの香り 天然由来成分98%配合 植物性由来 手荒れ ECOCERT オーガニックシアバター 紅茶",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 5600.1,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DHWNG95F",
-      "item_name": "『LYSA』 リモコン付き ウォールライト 丸型 ブラック バッテリー内蔵",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08V8V82LW",
-      "item_name": "『ＹＯＰＥ』 ナチュラル モイスチャライジング ボディソープ 400ml ココナッツ & シーソルトの香り 乾燥肌用 天然由来成分97%配合 シャワージェル ECOCERT",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 15400.66,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B08PTJ6BJ4",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ボディバター 200ml 深くて濃いフローラルな「菩提樹（リンデン）」の香り 全身用 天然由来成分 ECOCERT エコサート",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DHWND9BG",
-      "item_name": "『LYSA』 リモコン付き ウォールライト丸型 木目",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DHWNLSH1",
-      "item_name": "『LYSA』 ウォールライト 丸型 ホワイト",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08PTJKKB5",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ボディローション 300ml フィグツリー フルーティーで優しいイチジクの香り 天然由来成分97%配合 植物性由来 肌荒れ ECOCERT",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 7740.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DHWPZP9V",
-      "item_name": "『LYSA』 ウォールライト スクエア型 ホワイト タッチセンサー搭載 3色のカラー切り替え可 大容量バッテリー掲載 最大24時間以上の使用可能",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07MQB8DLL",
-      "item_name": "『ＹＯＰＥ』 フレッシュグラス ナチュラル シャンプー 300ml オイリーヘア用 グリーンノート配合の爽快な香り 天然由来成分98％配合 ECOCERT エコサート",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DHWLL5N4",
-      "item_name": "『LYSA』 スタンド テーブルランプ ブラック ワイヤレス タッチセンサー 3種類ライトカラー 360度回転マグネット 大容量バッテリー搭載 2600mAh",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08PTJTY2R",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ボディソープ 400ml すっきりとした中国茶の香り 天然由来成分97%配合 シャワージェル 乾燥 ECOCERT",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 4399.8,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0993V3PF4",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ハンドローション 300ml ハニー & ベルガモットの爽やかな甘さが広がる香り 天然由来成分97%配合 植物性由来 手荒れ ECOCERT",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DHWLSX44",
-      "item_name": "『LYSA』 リモコン付き スタンド テーブルランプ ダブル ブラック ワイヤレス タッチセンサー 3種類ライトカラー 360度回転マグネット 大容量バッテリー搭載 2600mAh",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09R27QYY5",
-      "item_name": "【ボタニカルシリーズ】 yope ハンドクリーム ライラックとバニラの香り 50ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 11000.32,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0DHWND2KY",
-      "item_name": "『LYSA』 リモコン付き スタンド テーブルランプ ブラック ワイヤレス タッチセンサー 3種類ライトカラー 360度回転マグネット 大容量バッテリー搭載 2600mAh",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09W62ZN9K",
-      "item_name": "【ボタニカルシリーズ】 yope ハンド＆ボディローション ライラックとバニラの香り 300ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09R283SRZ",
-      "item_name": "【ボタニカルシリーズ】 yope ハンドクリーム タンジェリンとラズベリーの香り 50ml",
-      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 4400.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B09HY19YMD",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ハンドウォッシュ 500ml ティー＆ミントの香り 敏感肌用 TGA処方 天然由来成分92%配合 手荒れ ECOCERT ハンドソープ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 19359.66,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B09QGX3NVF",
-      "item_name": "【ボタニカルシリーズ】 yope シャワージェル ライラックとバニラの香り 400ml ボディソープ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 13200.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0DHWN9JH6",
-      "item_name": "『LYSA』 リモコン付き ウォールライト 丸型 ホワイト バッテリー内蔵",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08V4T48G6",
-      "item_name": "『ＹＯＰＥ』 ナチュラル モイスチャライジング ハンドウォッシュ 500ml バーベナ 乾燥肌用 爽やかな柑橘系の香り 天然由来成分98%配合 手荒れ ECOCERT エコサート ハンドソープ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 29018.22,
-      "t30d_units": 13.0
-    },
-    {
-      "asin": "B0DHWP5SZ2",
-      "item_name": "『LYSA』 ウォールライト丸型 ブラック バッテリー内蔵",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D6YFK4S1",
-      "item_name": "【省スペース＆掃除が簡単な完全セパレート型】 ポストカード(横型)タイプ 7個セット サインホルダー フレーム クリアスタンド フォトスタンド pop 写真立て",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DHWP2WLD",
-      "item_name": "『LYSA』 ウォールライト丸型 ホワイト バッテリー内蔵",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08PTKDCDH",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ボディローション 300ml スパイシーなシナモンがほんのり香る甘いバニラの香り 天然由来成分98%配合 植物性由来 肌荒れ ECOCERT",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": -114.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0DHWPNRHZ",
-      "item_name": "『LYSA』 ウォールライト 丸型 ブラック",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D2J9MR6T",
-      "item_name": "『ＹＯＰＥ』 ギフトセット リンデンシリーズ ボディケア シャワージェル ECOCERT エコサート",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09W61VLDJ",
-      "item_name": "yope lotion 【ボタニカルシリーズ】 ハンド＆ボディローション タンジェリンとラズベリーの香り 300ml",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 2580.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DQCX7SXT",
-      "item_name": "『LYSA』 フックグリップテープ ３個セット クロスフィット ウエイトリフティング 重量挙げ 親指テープ スパルタンレース サムズアップテープ パワーリフティング ジムナスティック hook grip tape スポーツテープ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 15000.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B093LB5PHN",
-      "item_name": "デリケートゾーン ソープ 【アロエ＆リコリスの香り デリケートゾーン用全身洗浄料 300ml 】 『ＹＯＰＥ』フェミニン ジェルウォッシュ インバス フェムケア 保湿 天然由来成分99%配合",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 7260.2,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B09J8TVHK4",
-      "item_name": "『ＹＯＰＥ』 ナチュラル キッズ ハンドソープ 400ml マリーゴールドの香り 天然由来成分94%配合 敏感肌 手荒れ 子供用 ECOCERT",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 2580.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0993V32JV",
-      "item_name": "『ＹＯＰＥ』 ナチュラル キッズ ボディソープ 400ml クランベリー&ラベンダーの香り 天然由来成分94%配合 乾燥 子供用 敏感肌 ECOCERT",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B09HKLG8Y1",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ボディローション 300ml フローラルな「菩提樹（リンデン）」の香り 天然由来成分98%配合 植物性由来 肌荒れ ECOCERT",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 18478.66,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B07MFQZBN8",
-      "item_name": "『ＹＯＰＥ』 ナチュラル シャンプー 300ml 全髪質用 オートミルクの甘い穏やかな香り 油分 ECOCERT エコサート",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B07FSPNH33",
-      "item_name": "『ＹＯＰＥ』 ナチュラル 食器用洗剤 750ml ミント＆マンダリンの香り天然由来成分97%配合 手荒れ ECOCERT エコサート",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 146786.87,
-      "t30d_units": 87.0
-    },
-    {
-      "asin": "B07MFM2SQP",
-      "item_name": "『ＹＯＰＥ』 ナチュラル コンディショナー 170ml 全髪質用 オートミルクの甘い穏やかな香り ECOCERT エコサート",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B08PTHVKTJ",
-      "item_name": "『ＹＯＰＥ』 ナチュラル ボディソープ 400ml 華やかなゼラニウムの香り天然由来成分97%配合 シャワージェル 乾燥 ECOCERT",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 12860702022,
+      "merchant_name": "プライムマークの商品は土・日・祝日も出荷いたします。 GReen gaia",
+      "asin": "B07XD26BLZ",
+      "item_name": "Orient メンズ ステンレススチール 日本製自動巻き/手巻き200メートルダイバースタイルウォッチ ブルー - シルバー",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 12860702022,
+      "merchant_name": "プライムマークの商品は土・日・祝日も出荷いたします。 GReen gaia",
+      "asin": "B076B2CP1M",
+      "item_name": "SEIKO SNKP09K1 [セイコーインポート] SEIKO 5 セイコー ファイブ 自動巻き 50m 日常生活用防水 [逆輸入モデル]",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": 26500.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 12860702022,
+      "merchant_name": "プライムマークの商品は土・日・祝日も出荷いたします。 GReen gaia",
+      "asin": "B0D7Y2DWY8",
+      "item_name": "'Orient ''バンビーノバージョン7スモールセコンド38.4mm自動/手巻きドレスウォッチ', 10インチ (ブラック)",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 12860702022,
+      "merchant_name": "プライムマークの商品は土・日・祝日も出荷いたします。 GReen gaia",
+      "asin": "B0BW63SQJ4",
+      "item_name": "ORIENT Mako-3 メンズ 日本製自動巻き 200m ダイバースタイルウォッチ 41.8mmケース サファイアクリスタル アイボリー文字盤 モデル:RA-AA0821S19B, アイボリー(Ivory)",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": 45200.0,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 12860702022,
+      "merchant_name": "プライムマークの商品は土・日・祝日も出荷いたします。 GReen gaia",
+      "asin": "B01MTS5BFN",
+      "item_name": "ORIENT オリエント FAC00009N0 クラシック CLASSIC 2ND GENERATION BAMBINO バンビーノ VERSION 2 自動巻き 男性用 メンズ [並行輸入品]",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 12860702022,
+      "merchant_name": "プライムマークの商品は土・日・祝日も出荷いたします。 GReen gaia",
+      "asin": "B07QJP9TGP",
+      "item_name": "Orient メンズ Kamasu ステンレススチール 日本製自動ダイビングウォッチ レッド - 金属ブレスレット",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 12860702022,
+      "merchant_name": "プライムマークの商品は土・日・祝日も出荷いたします。 GReen gaia",
+      "asin": "B096G53DYZ",
+      "item_name": "[Seiko] スポーツウォッチ 5 Sports 5つのスポーツ。 SRPG33K1 グリーン",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": 65900.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 12860702022,
+      "merchant_name": "プライムマークの商品は土・日・祝日も出荷いたします。 GReen gaia",
+      "asin": "B0DB6P571C",
+      "item_name": "[Orient] スポーツウォッチ ORIENT Revival Neo 70s RA-AA0B01G39B グレー",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Softlines",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 12860702022,
+      "merchant_name": "プライムマークの商品は土・日・祝日も出荷いたします。 GReen gaia",
+      "asin": "B0CWH7B8HY",
+      "item_name": "シチズン ダイビングウォッチ BJ8055-04E, ブルー",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

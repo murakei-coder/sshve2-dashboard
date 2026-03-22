@@ -1,31 +1,55 @@
 {
-  "669785912502": [
+  "669814936202": [
     {
-      "asin": "B0FXL5T5Z1",
-      "item_name": "Farm to baby【 砂糖不使用 特別栽培米】国産米粉の ホットケーキミックス 赤ちゃん 〜大人まで 離乳食 中期 9か月から 米粉 パンケーキ グルテンフリー100g×3個セット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 261048.08,
-      "t30d_units": 296.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 669814936202,
+      "merchant_name": "Densch",
+      "asin": "B0FZSNG7HS",
+      "item_name": "monTEK モニターアーム 13〜32インチ対応 耐荷重2〜9kg PCモニターアーム ディスプレイアーム 上下 左右 多角度調節 快適ワーク シングルアーム ケーブル収納 オフィス ビジネス 会社 ゲーム アニメ",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 146961.65,
+      "t30d_units": 37.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FX1W9TYD",
-      "item_name": "Farm to baby 【特別栽培米】 レンジ でつくれる国産米粉 パンミックス オーガニック 甜菜糖入 2個セット グルテンフリー 国産 離乳食 後期 12ヶ月 蒸しパン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 35321.75,
-      "t30d_units": 39.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 669814936202,
+      "merchant_name": "Densch",
+      "asin": "B0FVX5CLYK",
+      "item_name": "ECOTINY テレビスタンド 13~43インチ対応 縦横回転 壁寄せ 耐震 移動式 自立式 ハイタイプ テレビ台 VESA/75/100/150/200 耐荷重15kg 高さ調節可能 角度回転 TVスタンド おしゃれ 省スペース 家用 会社 学校 病院 ビジネス展示 棚付き 収納ケース付き キャスター付き (ブラック, 13~43インチ)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 131384.0,
+      "t30d_units": 16.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FX1RPNMD",
-      "item_name": "Farm to baby 【オーガニック 甜菜糖入】 国産米粉のホットケーキミックス 特別栽培米 12ヶ月 〜大人 100g×3個セット 米粉 パンケーキ 離乳食 ベビーフード グルテンフリー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 213701.58,
-      "t30d_units": 238.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 669814936202,
+      "merchant_name": "Densch",
+      "asin": "B0FVX6VYB5",
+      "item_name": "ECOTINY テレビスタンド 13~43インチ対応 縦横回転 壁寄せ 耐震 移動式 自立式 ハイタイプ テレビ台 VESA/75/100/150/200 耐荷重15kg 高さ調節可能 角度回転 TVスタンド おしゃれ 省スペース 家用 会社 学校 病院 ビジネス展示 棚付き 収納ケース付き キャスター付き (ホワイト, 13~43インチ)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 378566.0,
+      "t30d_units": 45.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

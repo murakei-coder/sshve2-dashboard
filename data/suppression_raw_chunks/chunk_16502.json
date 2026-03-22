@@ -1,22 +1,38 @@
 {
-  "1141529312102": [
+  "1141560302802": [
     {
-      "asin": "B0GFW4LGW7",
-      "item_name": "【 LIMOE 公式 】【 リモエ韓国酵素 】 梅酵素",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 4620.0,
-      "t30d_units": 1.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1141560302802,
+      "merchant_name": "YAOKI CREAM OF RICE INSTANT",
+      "asin": "B0G8XZ44LK",
+      "item_name": "【公式】YAOKI CREAM OF RICE INSTANT クリームオブライス（インスタント）500g 約12日分 手軽にカーボ補給 100%国産米使用 着色料 保存料 無添加 国産 国内製造 筋トレ トレーニー 加熱不要 調理不要 減量 ビタミン ミネラル 低脂質 低カロリー 栄養補給 炭水化物 トレ前カーボ バルクアップ",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 310770.07,
+      "t30d_units": 104.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0GFW7XJ49",
-      "item_name": "【 LIMOE 公式 】【 リモエ韓国酵素 】 酵素 (ラズベリーレモン)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 56549.83,
-      "t30d_units": 12.0
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1141560302802,
+      "merchant_name": "YAOKI CREAM OF RICE INSTANT",
+      "asin": "B0G8YDW3RD",
+      "item_name": "【公式】YAOKI CREAM OF RICE INSTANT クリームオブライス（インスタント）1kg 約25日分 手軽にカーボ補給 100%国産米使用 着色料 保存料 無添加 国産 国内製造 筋トレ トレーニー 加熱不要 調理不要 減量 ビタミン ミネラル 低脂質 低カロリー 栄養補給 炭水化物 トレ前カーボ バルクアップ",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 1029699.75,
+      "t30d_units": 227.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

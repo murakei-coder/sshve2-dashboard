@@ -1,31 +1,38 @@
 {
-  "906512610502": [
+  "906976688802": [
     {
-      "asin": "B0DSZS8V12",
-      "item_name": "JURAR | ラブレ植物性 乳酸菌 | ナノ化処理で吸収力UP | ポストバイオティクス 腸活 サプリ | 30日分180粒 | ラブレちゃんは国内製造 |",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 94269.22,
-      "t30d_units": 46.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 906976688802,
+      "merchant_name": "Zhengyl Store",
+      "asin": "B0DFPJ3B41",
+      "item_name": "電気毛布 洗える 188*130CM 6段階温度調整 自動オフ機能 丸洗い可 タイマー機能 電気毛布 省エネ ダブルサイズ ベージュ",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 1472527.96,
+      "t30d_units": 709.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F5BW3QJ8",
-      "item_name": "美容 サプリ｜NMN コラーゲン 水溶性エラスチン ヒアルロン酸 リポソーム ビタミンC レスベラトロール 配合｜ハリ 弾力 ツヤを支える エイジングケア｜日本製 NMN SKINCARE 30日分90粒",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Consumables",
-      "t30d_ops": 10863.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0F5BPNQSH",
-      "item_name": "ときいろ /*糖化発想サプリ/*本製品の品質設計/30粒30日分 ヒシエキス 3000mg サトナシール 3000mg/エラグ酸 没食子酸 植物由来ポリフェノール/国内GMP製造/JURAR",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 102326.0,
-      "t30d_units": 33.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 906976688802,
+      "merchant_name": "Zhengyl Store",
+      "asin": "B0FHFVCS2S",
+      "item_name": "猫 おもちゃ 電動 猫じゃらし猫の好奇心を刺激 USB充電式 羽のおもちゃ 簡単操作 お留守番に 運動不足 肥満対策 知恵トレー 狩猟本能を刺激",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[ITEM_RATING_LESS_THAN_THRESHOLD[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": "Not Actionable",
+      "asin_count": 1,
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

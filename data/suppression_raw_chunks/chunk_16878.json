@@ -1,13 +1,21 @@
 {
-  "1186678125702": [
+  "1186697874202": [
     {
-      "asin": "B0GLGYVPS7",
-      "item_name": "Glorlummi 高圧洗浄機 コードレス 充電式 10000mAhバッテリー2個付き 強力噴射 自吸式 洗車機 最大喷射圧力6MPa 喷射水量6L/min 噴射距離10M 5mホース 多機能 6in1ノズル",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 17997.0,
-      "t30d_units": 3.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1186697874202,
+      "merchant_name": "JoyfulWave Shop",
+      "asin": "B0GL8BC8W1",
+      "item_name": "美顔器 かっさ EMS 振動＋温感 +多機能 7色LED光 7段階調整可能 全身適用 男女兼用 Type-C充電 軽量コンパクトで家庭用・旅行用両用 敬老の日/母の日ギフト 日本語取扱説明書 ホワイト",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 168500.0,
+      "t30d_units": 25.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

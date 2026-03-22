@@ -1,112 +1,38 @@
 {
-  "863978162902": [
+  "864021012302": [
     {
-      "asin": "B0DJP997CJ",
-      "item_name": "【マキタ対応・5cm本体のみ】Prunarbo 電動鋏の本体 5cm鋏本体のみ 18Vマキタ互換 50ｍｍ切断径 延長ポール装着可能 日本語取扱説明書付き 園芸ばさみ 予備刃/バッテリー/充電器なし PR-E50 (50mm本体のみ)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 665489.51,
-      "t30d_units": 38.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 864021012302,
+      "merchant_name": "ベリタス公式アマゾンショップ",
+      "asin": "B07S49ZBSB",
+      "item_name": "エコレーヌ パーフェクションベルベット 増量サイズ 45ml スウェーデン生まれ ハリ集中ケア美容液",
+      "cleaned_suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": "Other",
+      "asin_count": 1,
+      "t30d_ops": 24913.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0DNKHKXSB",
-      "item_name": "【マキタ対応・スピード強化】 Prunarbo チェーンソー 充電式 8インチ 電動チェーンソー 本体のみ 10.9m/s高速モーター 18Vマキタ対応 電動ノコギリ 900Wパワフル 工具レス メンテナンス簡単 自動給油 バッテリー残量表示 ハンディチェーンソ 日本語取扱説明書付き バッテリー＆充電器なし 品番：PR-E8 (",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 205013.66,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0DNLXGC5K",
-      "item_name": "【レバー固定・スイベル】 ショートガン フォームガン スイベル付き 洗車 軽量 ケルヒャー専用 高圧洗浄ショートガン 泡洗車 ケルヒャー ショートガン クイックコネクトアダプター 5+1噴射ノズル (0-65°)調節可能 1Lフォームキャノン付き ステンレス製 高圧洗浄機 ショートガン 洗車 洗床用 掃除用",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 241795.75,
-      "t30d_units": 46.0
-    },
-    {
-      "asin": "B0DNKCXPFZ",
-      "item_name": "【マキタ対応・4cm鋏本体】電動鋏の本体 4cm鋏本体のみ 日本製SK5ブレード 800W高出力 18Vマキタ互換 40ｍｍ切断径 延長ポール装着可能 日本語取扱説明書付き 園芸ばさみ 予備刃/バッテリー/充電器なし PR-E40 (鋏本体のみ)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 165639.0,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0DNKGSQSS",
-      "item_name": "【4000mAh*2個】Prunarbo 8インチ 電動チェーンソー ポール付きセット 収納ケースなし 18Vマキタ対応 バッテリー2個 同時充電可能 電動ノコギリ 900Wパワフル 10.9m/s高速モーター 工具不要 メンテナンス簡単 自動給油 ハンディチェーンソ バッテリー残量表示 日本語取扱説明書付き 品番：PR-E8 (チェーンソ",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 108300.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0DJP8HPX8",
-      "item_name": "Prunarbo 50mm切断径 電動ハサミ ポール付きセット【収納ケースなし】 電動剪定バサミ マキタ対応 4000Ah大容量バッテリー2個付き 剪定バサミ 電動 2段階開き角度調整可能 園芸ハサミ PSE認証取得済み 切断回数と残量表示 LEDディスプレー ブラシレスモーター 日本語取扱説明書付き 充電式剪定ばさみ 品",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1347303.0,
-      "t30d_units": 43.0
-    },
-    {
-      "asin": "B0DNK9TPYQ",
-      "item_name": "【切断力強化・800W高出力】 Prunarbo 電動剪定バサミ 40ｍｍ切断径 マキタ互換 2000mAh大容量バッテリー2個付属 日本製テフロン鋼刃 高硬度＆高耐久性 電動ハサミ 剪定バサミ 電動 2段階開き角度調整可能 園芸ハサミ 切断回数と残量表示 LEDディスプレー ブラシレスモーター 日本語取扱説明書付き 充電",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 318982.0,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B0DNKC36D1",
-      "item_name": "Prunarbo 40mm切断径 電動ハサミ ポール付きセット【収納ケースなし】 800W高出力 電動剪定バサミ マキタ互換 2000Ah大容量バッテリー2個付き 剪定バサミ 電動 2段階開き角度調整可能 園芸ハサミ 切断回数と残量表示 LEDディスプレー ブラシレスモーター 日本語取扱説明書付き 充電式剪定ばさみ 品番:PR-E",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 385240.0,
-      "t30d_units": 17.0
-    },
-    {
-      "asin": "B0DJP96HR2",
-      "item_name": "【50mm太枝対応】 Prunarbo 電動剪定バサミ マキタ対応 4000mAh大容量バッテリー2個付き 5cm 電動ハサミ 太枝切り 剪定バサミ 電動 2段階開き角度調整可能 園芸ハサミ 切断回数と残量表示 LEDディスプレー ブラシレスモーター搭載 日本語取扱説明書付き 果樹農家向け 充電式剪定ばさみ 品番:PR-E50(50mm電動",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1077838.0,
-      "t30d_units": 44.0
-    },
-    {
-      "asin": "B0DYDW9MQD",
-      "item_name": "【2025プロ仕様・スイベル付き】 Prunarbo ショートガン BOSCH(ボッシュ) 京セラ 対応 スイベル付き 高圧洗浄ショートガン + フォームガン 洗車 軽量 ボッシュ専用 ショートガン 泡洗車 ボッシュ ショートガン 5+1噴射ノズル (0-65°)調節可能 1Lフォームキャノン付き 真鍮製 高圧洗浄機 ショートガン ボッ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0F6T687NS",
-      "item_name": "【泡洗車と水洗浄を1秒で切り替えるダブルコネクター】 ショートガン ケルヒャー対応 レバー固定機能 スイベル付き 高圧洗浄ショートガン フォームガン 洗車 軽量 ショートガン 泡洗車 ケルヒャー ショートガン 5+1噴射ノズル (0-65°)調節可能 1Lフォームキャノン付き 真鍮製 高圧洗浄機 ショート",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 15459.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DYDV6TK7",
-      "item_name": "【2025プロ仕様・スイベル付き】 Prunarbo ショートガン ケルヒャー対応 スイベル付き 増圧バルブ 高圧洗浄ショートガン + フォームガン 洗車 軽量 ケルヒャー専用 ショートガン 泡洗車 ケルヒャー ショートガン 5+1噴射ノズル (0-65°)調節可能 1Lフォームキャノン付き 真鍮製 高圧洗浄機 ショートガン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 301055.99,
-      "t30d_units": 39.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 864021012302,
+      "merchant_name": "ベリタス公式アマゾンショップ",
+      "asin": "B0DQCX6HVQ",
+      "item_name": "ひざの違和感を軽減＜機能性表示食品＞万歩楽々ターメロン (60粒)白ウコンラブダン配合(※新パッケージ)",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 92773.0,
+      "t30d_units": 16.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

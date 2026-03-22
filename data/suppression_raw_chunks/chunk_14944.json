@@ -1,76 +1,21 @@
 {
-  "1056539062802": [
+  "1057090209202": [
     {
-      "asin": "B0FLD3BCV4",
-      "item_name": "LumenOrbit 衣類乾燥機【Amazon.co.jp 人気商品・1年間のメーカー保証】ポータブル 乾燥機 小型 電源コード式 リモコン付き 2段階風速 タイマー8段階乾燥自動停止 LOD-01F カーキ",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 196780.46,
-      "t30d_units": 31.0
-    },
-    {
-      "asin": "B0G5P99KYP",
-      "item_name": "LumenOrbit 小型洗濯機【5/10分洗濯・3分脱水・1年間のメーカー保証】折りたたみ ミニ洗濯機 脱水機能付き 海外対応 排水ホース付き 予洗い 事前洗い 泥落とし 下着 靴下 タオル 自宅用 子供 赤ちゃん用 ペット用 寮/アパート/出張/旅行/車中泊/オフィス対応 LOM-01A (ピンク)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 92440.75,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B0GG598QHG",
-      "item_name": "LumenOrbit 小型洗濯機【Amazon.co.jp 人気商品 新アップグレード】折りたたみ式 ミニ洗濯機 洗濯5/10分・脱水3分・メーカー保証1年 脱水機能付き 海外対応 LOM-02F Pro (カーキ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 273320.5,
-      "t30d_units": 40.0
-    },
-    {
-      "asin": "B0F59NK45X",
-      "item_name": "LumenOrbit 小型洗濯機【Amazon.co.jp 人気商品 新アップグレード】折りたたみ式 ミニ洗濯機 洗濯5/10分・脱水3分・メーカー保証1年 脱水機能付き 海外対応 LOM-02F Pro グレー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 1174055.13,
-      "t30d_units": 178.0
-    },
-    {
-      "asin": "B0G6KNW62D",
-      "item_name": "LumenOrbit 衣類乾燥機【Amazon.co.jp 2026新アップグレード・1年間のメーカー保証】ポータブル 乾燥機 小型 電源コード式 2段階温度調節 タイマー乾燥自動停止（1～8時間） LOD-02F ‎ホワイト×グリーン",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[ITEM_RATING_LESS_THAN_THRESHOLD[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "5.Others",
-      "pf": "Total CE",
-      "t30d_ops": 205043.0,
-      "t30d_units": 48.0
-    },
-    {
-      "asin": "B0FR8D18M5",
-      "item_name": "LumenOrbit 電気ケトル 小型【600ml 600W・5分急速沸かし・1年間のメーカー保証】ポータブル トラベルケトル 持ち運び 二重断熱 やけど防止 空焚き防止 漏れない 携帯便利 お手入れ簡単 旅行用 車中泊 キャンプ オフィス 病室 防災用 LOK-01A マットホワイト",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 243847.58,
-      "t30d_units": 60.0
-    },
-    {
-      "asin": "B0GF61LDJ7",
-      "item_name": "LumenOrbit 小型洗濯機【5/10分洗濯・3分脱水・1年間のメーカー保証】折りたたみ ミニ洗濯機 脱水機能付き 海外対応 排水ホース付き 予洗い 事前洗い 泥落とし 下着 靴下 タオル 自宅用 子供 赤ちゃん用 ペット用 寮/アパート/出張/旅行/車中泊/オフィス対応 LOM-01A (グリーン)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 89982.0,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0F47PDT9B",
-      "item_name": "LumenOrbit 折りたたみ 小型洗濯機 【5/10分洗濯・3分脱水・1年間のメーカー保証】ミニ洗濯機 脱水機能付き 海外対応 予洗い 事前洗い 泥落とし 下着 靴下 自宅用 子供 赤ちゃん用 ペット用 寮/アパート/出張/旅行/車中泊/オフィス対応 LOM-01F グレー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 319180.33,
-      "t30d_units": 57.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1057090209202,
+      "merchant_name": "Keculbo-ghl",
+      "asin": "B0GHNNFZQS",
+      "item_name": "デジカメ 5K 7500万画素 Wi-Fi機能 デジタルカメラ 18倍デジタルズーム 3.0インチ 180度回転可能 IPS スクリーン自撮り AFオートフォーカ 32GB Micro SDカード付き リチウムイオン電池 2 個付き 小型カメラ Vlog 軽量 修学旅行 学生 初心者 セット",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 460477.66,
+      "t30d_units": 50.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

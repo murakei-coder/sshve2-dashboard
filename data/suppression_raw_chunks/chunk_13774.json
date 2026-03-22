@@ -1,13 +1,38 @@
 {
-  "911956556202": [
+  "911957911802": [
     {
-      "asin": "B0F8QV4P84",
-      "item_name": "真空パック機 真空フードシーラー 乾湿両用家庭用シール機 95kPa強力脱気 鮮度長持 10IN1多機能 真空シーラー 引出し式集水槽 真空脱気 全自動 軽量設計 高耐久性 食材鮮度保持 簡単操作 低騒音 日本語取説付き 真空パック器 フードシーラー",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 492461.0,
-      "t30d_units": 42.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 911957911802,
+      "merchant_name": "Borns Japan",
+      "asin": "B0F94JXP6F",
+      "item_name": "AYDA エイダ スパークリングバブルシートマスク 4枚入 炭酸パック シートマスク PDRN グルタチオン NMN 3層分子ヒアルロン酸",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": 68646.66,
+      "t30d_units": 20.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 911957911802,
+      "merchant_name": "Borns Japan",
+      "asin": "B0DGXWV94B",
+      "item_name": "AYDA エイダ ダーマリッププランパー5ml 美容液成分100% リッププランパー リップ リップ下地 リップグロス リップ 保湿 NMN エクソソーム ヒト幹細胞 マイクロニードル",
+      "cleaned_suppression_reason": NaN,
+      "suppression_category_large": "5.Others",
+      "suppression_category_medium": NaN,
+      "asin_count": 1,
+      "t30d_ops": 192509.65,
+      "t30d_units": 64.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

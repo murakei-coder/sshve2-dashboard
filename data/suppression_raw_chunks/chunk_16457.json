@@ -1,31 +1,21 @@
 {
-  "1139403345402": [
+  "1139421127002": [
     {
-      "asin": "B0FZR3X8QF",
-      "item_name": "パピリーデリカ プレミアム 小型犬 成犬 ウェット 80g 馬プラセンタエキス配合 無添加 無着色 防腐剤不使用 高級 ドッグフード puppily hills パピリーヒルズ (サカナ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 10862.33,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0FZP55696",
-      "item_name": "パピリーデリカ プレミアム ドライ 400g 小型犬 成犬 馬プラセンタエキス配合 無添加 無着色 防腐剤不使用 高級 ドッグフード puppily hills パピリーヒルズ (ウマ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 59511.0,
-      "t30d_units": 12.0
-    },
-    {
-      "asin": "B0FZQCL1WF",
-      "item_name": "puppily hills ドッグフード ドライ 400g 高級 小型犬 成犬 馬プラセンタエキス配合 パピリーデリカ プレミアム 無添加 無着色 防腐剤不使用 パピリーヒルズ (サカナ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
-      "t30d_ops": 29631.0,
-      "t30d_units": 6.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1139421127002,
+      "merchant_name": "Intasting JP",
+      "asin": "B0FVDRW321",
+      "item_name": "intasting 電気ケトル コーヒー 1°C単位の温度調節 コーヒー ケトル 細口ドリップ 1200W高速沸騰 2時間保温 LED表示パネル 電気ポット ドリップ ポット 空焚き防止 コンパクト0.9L クリスマス 新年 プレゼント用 (ブラック)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 3188300.09,
+      "t30d_units": 403.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

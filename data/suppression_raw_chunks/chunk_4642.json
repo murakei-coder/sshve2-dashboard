@@ -1,13 +1,38 @@
 {
-  "10076770622": [
+  "10078230622": [
     {
-      "asin": "B0BL7YC85L",
-      "item_name": "【Amazon.co.jp限定】BRAIN MAGIC Orbital2 STERNA（オービタルツー スターナ） オリジナルロゴステッカー特典付 BMO2S クリエイティブ制作をより楽にする左手デバイス",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 377266.0,
-      "t30d_units": 20.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 10078230622,
+      "merchant_name": "ニコット",
+      "asin": "B0BX62WMT4",
+      "item_name": "MISTINA(ミスティーナ) 天使の涙サファイア ナイトポーション ラブシロップ プラセンタ 10mg配合 液体 女性用 国内産 透明 【マカ5倍濃縮】",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 166227.0,
+      "t30d_units": 42.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 10078230622,
+      "merchant_name": "ニコット",
+      "asin": "B09N6J1418",
+      "item_name": "MISTINA(ミスティーナ) 天使の涙クリスタル 液体 プラセンタ 5mg配合 マカ5倍濃縮 女性用 国内産 透明 (単品)",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 779742.19,
+      "t30d_units": 190.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

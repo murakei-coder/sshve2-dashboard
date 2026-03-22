@@ -1,13 +1,38 @@
 {
-  "1082026823502": [
+  "1082049210102": [
     {
-      "asin": "B0FZVHM23C",
-      "item_name": "精密ドライバーセット 24種ビット ペン型ドライバー 磁気マット付き CR-V 精鋼ビット トルクス プラス マイナス 六角 Y字 三角 U型 特殊ネジ対応 修理工具 スマホ PC 時計 カメラ DIY 分解キット",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 16837.66,
-      "t30d_units": 17.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1082049210102,
+      "merchant_name": "FOGABER正規代理店",
+      "asin": "B0DPG7MSWQ",
+      "item_name": "FOGABER 鼻専用美顔器 鼻クリップ 電動 小鼻クリップ ノーズクリップ 鼻美顔器 鼻を高くする器具 メンズ レディース 美鼻クリップ 美容グッズ 充電式鼻美顔器 鼻高く美顔器 鼻の形に合わせて 3段階レベル 男女兼用 充電ケーブル付き",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1082049210102,
+      "merchant_name": "FOGABER正規代理店",
+      "asin": "B0FN3YTRNR",
+      "item_name": "FOGABER 鼻専用美顔器 鼻クリップ 電動 小鼻クリップ ノーズクリップ 鼻美顔器 鼻を高くする器具 美鼻クリップ 充電式鼻美顔器 鼻高く美顔器 3段階レベル レディース メンズ 日本語説明書",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

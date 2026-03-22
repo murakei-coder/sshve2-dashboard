@@ -1,13 +1,21 @@
 {
   "2819260322": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 2819260322,
+      "merchant_name": "CSHope-JP",
       "asin": "B0DK318X8L",
       "item_name": "猫おもちゃ 電動 自動 猫じゃらし 猫ちゃん走りだせ 一人遊び 動く バッテリー内臓 充電式 猫運動不足解消グッズ ストレス解消 鳥音 羽・もふもふボール・イヌハッカボール キャットホイール 狩猟本能をくすぐる 日本語取扱説明書 CSHOPE公式正規品",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 389704.41,
-      "t30d_units": 47.0
+      "t30d_units": 47.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

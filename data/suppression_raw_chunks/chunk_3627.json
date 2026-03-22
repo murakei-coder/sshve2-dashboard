@@ -1,661 +1,106 @@
 {
-  "8024630955": [
-    {
-      "asin": "B0CW2RJMFH",
-      "item_name": "【整備済み品】 ノートパソコン R73 13.3インチ ノートPC 【 Windows 11 MS Office2019 H&B 搭載 】第６世代 Core i3/ メモリ 8GB / SSD 256GB /無線LAN/HDMI (13.3インチ 6世代 Core i3 タイプ)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 434610.0,
-      "t30d_units": 22.0
-    },
-    {
-      "asin": "B0FG1NKM8L",
-      "item_name": "【整備済み品】Panasonic ‎Let`s note CF-SV8 【Windows 11】【MS Office 2019】12.1インチ 中古ノートパソコン/Core i5 8世代 / メモリ 8GB/SSD 256GB/ 無線LAN/HDMI/WEBカメラ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 493570.0,
-      "t30d_units": 16.0
-    },
-    {
-      "asin": "B0FTT5R3S2",
-      "item_name": "【整備済み品】 Lenovo ThinkPad X1 Carbon Gen8 14インチ 軽量 ノートパソコン/第10世代 Core i5 / Windows 11 / MS Office2019 H&B 搭載/メモリ 8GB / SSD 256GB /WEBカメラ/WIFi/中古 ノートパソコン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 313654.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0DNQ3VYVB",
-      "item_name": "【整備済み品】 NEC 12.5型 917g 軽量 ノートPC VH ノートパソコン/Windows 11 /MS Office H&B 2019/第8世代 Core i5-8200Y / HDMI/WIFI/カメラ/8GB/SSD 256GB",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 1977230.55,
-      "t30d_units": 67.0
-    },
-    {
-      "asin": "B0FXNC3ZKY",
-      "item_name": "【整備済み品】 VAIO Pro PJ 12.5インチ 超軽量0.9㎏ 薄型 ノートパソコン VAPJ13C12N ■第10世代 Core i5/ Windows11 / MS Office H&B 2019 /8GBメモリ/SSD 256GB/Webカメラ内蔵/HDMI/中古 ノートPC (整備済み品)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 670665.0,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0F1S3MN2R",
-      "item_name": "【整備済み品】 NEC 12.5型 917g 軽量 ノートPC VH ノートパソコン/Windows 11 /MS Office H&B 2019/第8世代 Core M3-8100Y / HDMI/WIFI/カメラ/4GB/SSD 128GB/",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0B58YH9NW",
-      "item_name": "GM-JAPAN ノートパソコン Windows 11 Office搭載 14.1インチ 超軽量 薄型 SSD 128GB/メモリ 4GB/WEBカメラ/WPS Office/Celeron/WIFI/USB3.0/HDMI (ピンク)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 200604.0,
-      "t30d_units": 7.0
-    },
-    {
-      "asin": "B0CZ7FGS56",
-      "item_name": "GMJ 13.6インチ 16:9 MacBook Air M2/M3対応 マグネット式 覗き見防止フィルター プライバシーフィルター ブルーライトカット 液晶保護フィルム 反射防止 両面使用 Macbook Air13.6 A2681 A3113など 対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "Total CE",
-      "t30d_ops": 1680.0,
-      "t30d_units": 1.0
-    },
-    {
-      "asin": "B0DDKPF3PY",
-      "item_name": "【整備済み品】 富士通 ノートパソコン LIFEBOOK S937 13.3インチ ノートPC 【 Windows 11 MS Office2019 H&B 搭載 】Core i5 7200U / メモリ 8GB / SSD 256GB /無線LAN/HDMI/WEBカメラ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 11144383.65,
-      "t30d_units": 447.0
-    },
-    {
-      "asin": "B0CJR9JHB7",
-      "item_name": "2012'-2015' Macbook Air 用 充電器 45W Mag 2 T 型 用 電源アダプタ Macbook A1435 / A1436 / A1465 / A1466 T字コネクタ MacBook Air 11インチ 13インチ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 928321.96,
-      "t30d_units": 401.0
-    },
-    {
-      "asin": "B09NLRM44H",
-      "item_name": "GM-JAPAN ゲーミング キーボード 青軸 高耐久 有線 メカニカル RGB テンキー付き 109キー 日本語配列JP GM-KB-BK",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 100328.0,
-      "t30d_units": 18.0
-    },
-    {
-      "asin": "B0G19X9TSJ",
-      "item_name": "【整備済み品】ノートパソコン G83 859グラム 13.3インチ 軽量 薄型 中古ノートPC 第8世代 Core i5【 Windows 11 】【MS Office2019 H&B 】/ メモリ 8GB / SSD 256GB /無線LAN/HDMI/WEBカメラ (整備済み品)",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0FZSPLS7D",
-      "item_name": "【整備済み品】 ノートパソコン G83 859グラム 13.3インチ 軽量 薄型 中古 ノートPC 第10世代 Core i5【 Windows 11 】【MS Office2019 H&B 】/ メモリ 8GB / SSD 512GB /無線LAN/HDMI/WEBカメラ (整備済み品)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 176960.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0CKF3LRC9",
-      "item_name": "「§Ｇ∞ＧＭＪ」2012' - 2015' Macbook用 PRO ノートパソコン 充電器 60W M2 T 型 Macbook用 PRO 互換電源アダプター A1466 / A1465 / A1436 / A1435 / A1425 / A1502 T字コネクタ Airの11インチおよび13インチ（2012 中期以降のモデル～2015モデル）",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 497934.78,
-      "t30d_units": 205.0
-    },
-    {
-      "asin": "B0FZTGFD1Y",
-      "item_name": "【整備済み品】 Lenovo ThinkPad L560 15.6インチ ノートパソコン /Windows11 Pro/MS Office 2019/第7世代 Celeron/Wi-Fi/4GB/SSD128GB (整備済み品)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DLL9Q2QH",
-      "item_name": "【整備済品】富士通 15.6インチ ノートパソコン A577/ Win11 Pro/MS Office H&B 2019 / Core i5-7200U / WIFI/HDMI / 8GB/256GB SSD/テンキー (整備済み品)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0B59157HR",
-      "item_name": "GM-JAPAN ノートパソコン Windows 11 Office搭載 14.1インチ 超軽量 薄型 SSD 128GB/メモリ 4GB/WEBカメラ/WPS Office/Celeron/WIFI/USB3.0/HDMI (アイスブルー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 58146.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0CN99BMXS",
-      "item_name": "スマートフォン ノートパソコン 対応 USB-C 20W 電源アダプタ 急速充電 PD充電器 USB Type-C PSE認証",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FBQVZRKF",
-      "item_name": "【整備済み品】 NEC 12.5型 947g 軽量 ノートPC VC /第10世代 Core i5 ノートパソコン /Windows 11 /MS Office H&B 2019/ HDMI/WIFI/カメラ/8GB/SSD 256GB",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 982546.0,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B0DVPY55DK",
-      "item_name": "【整備済み品】 富士通 ノートパソコン LIFEBOOK A579 15.6インチ ノートPC / Win11 Pro/MS Office H&B 2019 / 第八世代 Core i3 /WIFI/HDMI / 8GB/256GB SSD/テンキー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 2412388.33,
-      "t30d_units": 98.0
-    },
-    {
-      "asin": "B0DG2PDF28",
-      "item_name": "Macbook ノートパソコン用 GaN ACアダプターType-C 67W 65W 45W 20V 3.25A PD対応 67W USB-C 充電器 など対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 9624.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0C73G2MZN",
-      "item_name": "東芝 Toshiba ダイナブック dynabook KIRA 19V 2.37A PA5177U-1ACA PA3822U-1ACA 対応 ACアダプター 電源",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 855933.45,
-      "t30d_units": 436.0
-    },
-    {
-      "asin": "B0F1DF6RFZ",
-      "item_name": "【整備済品】NEC Versapro VK20 15.6インチ Win 11 Pro/MS Office H&B 2019 / メモリ4GB / SSD 128GB /WIFI/HDMI/DVD/中古ノートパソコン (整備済み品)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0DHGCJKM6",
-      "item_name": "【整備済み品】 Let’sNote 0.9KG超軽量PC CF-SZ6 /Windows 11/ MS Office 2019/第七世代 Core i5 /メモリ 8GB/SSD 256GB/12.1インチ /無線LAN/中古ノートパソコン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 1063000.0,
-      "t30d_units": 49.0
-    },
-    {
-      "asin": "B0DG2TPG8K",
-      "item_name": "ノートパソコン タブレット スマートフォン用 GaN ACアダプターType-C 67W 65W 45W 20V 3.25A PD対応 67W USB-C 折畳めプラグ MacBook/Lenovo/Thinkpad/NEC LAVIE/VAIO/Dell/HP/ASUS/Acerなど互換対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 26910.33,
-      "t30d_units": 11.0
-    },
-    {
-      "asin": "B0FXWLKLKG",
-      "item_name": "【整備済み品】 富士通 ノートパソコン LIFEBOOK A5511 15.6インチ 第11世代 Core i5/ Win11 Pro/MS Office H&B 2019 / /WIFI/HDMI / 8GB/256GB SSD/USBテンキー/ (整備済み品)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 3768549.0,
-      "t30d_units": 81.0
-    },
-    {
-      "asin": "B0FXMJL93S",
-      "item_name": "【整備済み品】NEC 15.6型 ノートPC VKE18/Windows 11 /MS Office H&B 2019/第7世代 Celeron /4GB/SSD 128GB/ HDMI/WIFI",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 2755407.66,
-      "t30d_units": 186.0
-    },
-    {
-      "asin": "B0DNQ6XJG3",
-      "item_name": "【整備済み品】 NEC 15.6型 ノートPC VX ノートパソコン/Windows 11 /MS Office H&B 2019/第8世代 Core i5-8350U / HDMI/WIFI/8GB/SSD 256GB/テンキー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 3499680.86,
-      "t30d_units": 112.0
-    },
-    {
-      "asin": "B0FZT8L3YB",
-      "item_name": "【整備済み品】 Lenovo 14.1インチ ノートパソコン L450/Windows11 Pro/MS Office 2019/第5世代 Celeron/Wi-Fi/4GB/SSD128GB (整備済み品)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0B28RZGJJ",
-      "item_name": "GMJ ダイナブック dynabook KIRA 19V 2.37A PA5177U-1ACA PA3822U-1ACA 対応 互換 ACアダプター 電源 /東芝ノートパソコンと互換性あり",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 111486.93,
-      "t30d_units": 60.0
-    },
-    {
-      "asin": "B0DJQQLTP7",
-      "item_name": "【整備済品】 富士通 ノートパソコン LIFEBOOK A579 15.6インチ ノートPC / Win11 Pro/MS Office H&B 2019 / 第八世代 Core i5 /WIFI/HDMI / 8GB/256GB SSD/テンキー (整備済み品)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 4144974.13,
-      "t30d_units": 131.0
-    },
-    {
-      "asin": "B0G8DDTYV3",
-      "item_name": "【整備済み品】 富士通 ノートパソコン LIFEBOOK A5510 15.6インチ 第十世代 Core i5ノートパソコン/ Win11 Pro/MS Office H&B 2019 / /WIFI/HDMI / 8GB/256GB SSD/USBテンキー (整備済み品)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 445885.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0DTJ25HR3",
-      "item_name": "【整備済み品】 富士通 ノートパソコン LIFEBOOK U939 超軽量 薄型 ノートPC ■Win11搭載 / MS Office H&B 2019 / FHD(1920x1080)/第八世代 Core i5-8265U/8GBメモリ/SSD 256GB/Webカメラ内蔵/13.3インチ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 11720931.82,
-      "t30d_units": 389.0
-    },
-    {
-      "asin": "B0DG2RGKZ2",
-      "item_name": "Lenovo ノートパソコン用 GaN ACアダプターType-C 65W 45W 20V 3.25A 20V 2.25A 対応 USB-C 充電器 65W Thinkpad/Chromebook/Ideapad Yoga/ThinkBook/Chromebookなど対応",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 86747.25,
-      "t30d_units": 37.0
-    },
-    {
-      "asin": "B0DMD74Q1B",
-      "item_name": "【整備済品】 富士通 ノートパソコン LIFEBOOK A576 15.6インチ ノートPC / Win11 Pro/MS Office H&B 2019 /Core i5 6300U/WIFI/HDMI / 8GB/256GB SSD/テンキー (整備済み品)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 3477129.66,
-      "t30d_units": 176.0
-    },
-    {
-      "asin": "B0DG2SLZM4",
-      "item_name": "HP ノートパソコン用 GaN ACアダプターType-C 65W 45W 20V 3.25A PD対応 65W USB-C 充電器 EliteBook/Chromebook/Spectre/ProBook/Envy/Elite x2など対応",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 291292.78,
-      "t30d_units": 124.0
-    },
-    {
-      "asin": "B0F2ZFRW94",
-      "item_name": "【整備済み品】 富士通 ノートパソコン LIFEBOOK U938 920グラム 超軽量 薄型ノートPC ■Win11搭載 / MS Office H&B 2019 / FHD(1920x1080)/第七世代 Core i5-7300U/8GBメモリ/SSD 256GB/Webカメラ内蔵/13.3インチ (整備済み品)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 1479582.0,
-      "t30d_units": 52.0
-    },
-    {
-      "asin": "B0DYK6D7HR",
-      "item_name": "[§Ｇ∞ＧＭＪ] パソコンケース 15.6 インチ パソコンバッグ PCケース 衝撃吸収 ノートパソコン ケース ショルダーストラップ付き 男女兼用 コンピューターバッグ キャリングケース Macbook Pro macbook air",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 80548.32,
-      "t30d_units": 35.0
-    },
-    {
-      "asin": "B07VVBSYZP",
-      "item_name": "GLM GM-JAPAN ノートパソコン Windows 11 Office搭載 超軽量 薄型 14インチ SSD 256GB/メモリ8GB/WPS Office/Celeron/WIFI/USB3.0/HDMI/WEBカメラ/FullHD (WPS タイプ)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 573537.0,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0DNQ8YJGP",
-      "item_name": "【整備済品】NEC 12.5型 軽量 ノートPC VB ノートパソコン/Windows 11 /MS Office H&B 2019/第6世代 Core i5-6200U / HDMI/WIFI/8GB/SSD 256GB",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DC6DR8F8",
-      "item_name": "【整備済み品】 富士通 ノートパソコン LIFEBOOK A576 15.6インチ ノートPC / Win11 Pro/MS Office H&B 2019 /第7世代 Celeron/WIFI/HDMI / 8GB/256GB SSD/テンキー (整備済み品)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FZJFWVML",
-      "item_name": "【整備済み品】Surface Pro 7+ 12.3インチ 第11世代 Core i5 2in1 タブレットパソコン/ Win11 Pro/MS Office H&B 2019 / /WIFI/ 8GB/256GB SSD/カメラ (整備済み品)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 408890.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0CSMBL6DZ",
-      "item_name": "Lenovo ノートパソコン用 45W 65W 互換 電源アダプター Lenovo Ideapad ThinkPad 3 5 330 330s 120s 130s 310 320 510 510s 520 S145 S340 Yoga 710 ADL45WCC ADLX65CDGU2A ADLX65CLGU2A",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 453124.93,
-      "t30d_units": 198.0
-    },
-    {
-      "asin": "B0B592WZZ9",
-      "item_name": "GM-JAPAN ノートパソコン Windows 11 Office搭載 14.1インチ 超軽量 薄型 SSD 128GB/メモリ 4GB/WEBカメラ/WPS Office/Celeron/WIFI/USB3.0/HDMI/GLM-14-4020-128 (グレー)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 95940.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0DG2GPJLF",
-      "item_name": "GMJ dynabook ノートパソコン用 GaN ACアダプターType-C 65W 45W 20V 3.25A PD対応 Toshiba用 65W USB-C 充電器PA5352U-1ACA PA5279U-1ACA P1Z8LPBL P1Z8LPBW Dynabook V82/72/62/42 D83 Z7 Z8など /東芝ノートパソコンと互換性あり",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 136461.25,
-      "t30d_units": 58.0
-    },
-    {
-      "asin": "B0D4QPGM57",
-      "item_name": "GMJ ノートパソコン冷却パッド 冷却台 冷却ファン【６機搭載】 6段階高度調整 風量調節 ノートPCクーラー 大風量 低騒音 メタルメッシュデザイン 滑り止め付き ledストリップライト付 9-17インチノートPC対応 / Macbook/Macbook Pro / PS3 / PS4等に対応 オフィス/在宅勤務/出張などに適用 日本語取扱書付",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 17620.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0DK4XJFFN",
-      "item_name": "【整備済み品】 富士通 ノートパソコン LIFEBOOK A553 15.6インチ ノートPC /Win11 Pro/MS Office H&B 2019 / メモリ 4GB / SSD 128GB / 大画面/WIFi/DVD/中古 ノートパソコン (整備済み品)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 284969.99,
-      "t30d_units": 24.0
-    },
-    {
-      "asin": "B0DVYZXG89",
-      "item_name": "【整備済み品】NEC 15.6型 ノートPC VX/Windows 11 /MS Office H&B 2019/第6世代 Core i5-6300U /8GB/SSD 256GB/ HDMI/WIFI/テンキー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0DXVVMLBY",
-      "item_name": "【整備済み品】 富士通 ノートパソコン LIFEBOOK A5510 15.6インチ 第十世代 Core i5ノートパソコン/ Win11 Pro/MS Office H&B 2019 / /WIFI/HDMI / 8GB/256GB SSD/テンキー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 4500073.64,
-      "t30d_units": 99.0
-    },
-    {
-      "asin": "B08F59TVP8",
-      "item_name": "GM-JAPAN ノートパソコン Windows 11 Office搭載 超軽量 薄型 SSD 128GB/メモリ 4GB/WEBカメラ/WPS Office/Celeron/WIFI/USB3.0/HDMI/14.1インチ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FCMR16WZ",
-      "item_name": "【整備済み品】 富士通 ノートパソコン LIFEBOOK U9310 超軽量 薄型ノートPC ■第10世代 Core i5-10210U/ Win11搭載 / MS Office H&B 2019 / FHD(1920x1080)//8GBメモリ/SSD 256GB/Webカメラ内蔵/13.3インチ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 4060780.0,
-      "t30d_units": 91.0
-    },
-    {
-      "asin": "B0DG2VL6CZ",
-      "item_name": "DELL ノートパソコン用 GaN ACアダプターType-C 65W 45W 20V 3.25A PD対応 交換用 65W USB-C 充電器 65W Dell Latitude 5420 5520 5320 7420 5430 7390 7320 7400, XPS 13 Chromebook 3100など対応",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 87292.66,
-      "t30d_units": 37.0
-    },
-    {
-      "asin": "B0FZJBL3NK",
-      "item_name": "【整備済み品】Surface Pro 12.3インチ 第7世代 Core i5 2in1 タブレットパソコン/ Win11 Pro/MS Office H&B 2019 / /WIFI/ 8GB/256GB SSD/カメラ (整備済み品)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 730515.0,
-      "t30d_units": 20.0
-    },
-    {
-      "asin": "B089CT87RR",
-      "item_name": "GM-JAPAN 2-in-1 タブレットノートパソコン 10.1インチ GLM-10-128 Windows 11 Pro/Intel Celeron N4020 / メモリ4GB / SSD128GB / タッチ対応/WPS Office付き/日本語キーボード/軽量 575g",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 1061190.0,
-      "t30d_units": 36.0
-    },
-    {
-      "asin": "B0F93B8BF8",
-      "item_name": "【整備済み品】 富士通 ノートパソコン LIFEBOOK A577 15.6インチ ノートPC / Win11 Pro/MS Office H&B 2019 / Core i5-7200U / WIFI/HDMI / 8GB/256GB SSD/テンキー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 2799880.11,
-      "t30d_units": 119.0
-    },
-    {
-      "asin": "B0CPWP3TMW",
-      "item_name": "GMJ レッツノート ノートパソコン用 16V 4.06A 65W 電源アダプタ 充電器 CF-SX/SV/NX/LX/LV/SZ/AX/CF-B11/B10/S10/N10/J10 /Panasonic パソコンと互換性あり",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 97192.83,
-      "t30d_units": 45.0
-    },
-    {
-      "asin": "B0DTPP8LSV",
-      "item_name": "【整備済み品】 富士通 ノートパソコン LIFEBOOK MU937 超軽量 薄型ノートPC■Win11搭載 / MS Office H&B 2019 / FHD(1920x1080)/第七世代 Celeron/8GBメモリ/SSD 256GB/Webカメラ内蔵/13.3インチ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 28660048.06,
-      "t30d_units": 1450.0
-    },
-    {
-      "asin": "B0C7QPBPSG",
-      "item_name": "NEC Lenovo ノートパソコン 用 20v 2.25A 45W BP98 PC-VP-BP87 ADP003 ADP004 ADP45TDE A13-045N1A20v 2.25A 45W など 対応 電源 ACアダプター",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 95605.5,
-      "t30d_units": 53.0
-    },
-    {
-      "asin": "B0DL5LWQ52",
-      "item_name": "【整備済み品】 NEC 15.6型 ノートPC VX-V/ノートパソコン/Windows 11 /MS Office H&B 2019/第七世代 Core i3-7100U / HDMI/WIFI/8GB/SSD 256GB",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 1207219.66,
-      "t30d_units": 68.0
-    },
-    {
-      "asin": "B0CWV66HV5",
-      "item_name": "【整備済み品】 ノートパソコン B45 15.6インチ ノートPC 【Windows 11 】【MS Office H&B 2019 】/ 第６世代 Celeron/メモリ 8GB / SSD 128GB / 大画面/WIFi/中古 ノートパソコン",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FFGVC5YX",
-      "item_name": "【整備済み品】 富士通 ノートパソコン LIFEBOOK S938 13.3インチ ノートパソコン 【 Windows 11 】【 MS Office2019 H&B 搭載 】第８世代 Core i5 / メモリ 8GB / SSD 256GB /無線LAN/HDMI/WEBカメラ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 1794336.0,
-      "t30d_units": 58.0
-    },
-    {
-      "asin": "B0CW2V2DW3",
-      "item_name": "【整備済み品】 富士通 ノートパソコン LIFEBOOK S937 13.3インチ 中古 ノートPC 【 Windows 11 MS Office2019 H&B 搭載 】メモリ 4GB / SSD 256GB /無線LAN/HDMI (整備済み品)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DKX8BYF9",
-      "item_name": "【整備済み品】 富士通 ノートパソコン LIFEBOOK U938 超軽量 薄型13.3インチ ノートPC ■Win11搭載 / MS Office H&B 2019 / FULL HD/第八世代 Core i5-8350U/8GBメモリ/SSD 256GB/Webカメラ/WIFI",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 2252110.66,
-      "t30d_units": 71.0
-    },
-    {
-      "asin": "B0CYPKCW6L",
-      "item_name": "【整備済み品】 ノートパソコン B65 15.6インチ ノートPC 【Windows 11】【MS Office H&B 2019 】 /第6世代 Core i5 6300U / 8GB / SSD 256GB/無線LAN/HDMI/中古ノートパソコン/テンキー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0F1KJ45L9",
-      "item_name": "【整備済み品】 ノートパソコン B65 15.6インチ ノートPC 【Windows 11】【MS Office H&B 2019 】 /第8世代 Core i5 8250U / 8GB / SSD 256GB/無線LAN/HDMI/テンキー/中古ノートパソコン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 1127338.33,
-      "t30d_units": 38.0
-    },
-    {
-      "asin": "B0FXNHTTFV",
-      "item_name": "【整備済品】 富士通 ノートパソコン タブレット ARROWS Tab Q736 13.3インチ 防水 中古 タブレット【Windows 11 】【MS Office2019 H&B 搭載 】第６世代 Core i5/ メモリ 4GB / SSD 128GB /無線LAN/HDMI (整備済み品)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0DCSVYMWN",
-      "item_name": "【整備済み品】 Panasonic Let’sNote 0.9KG超軽量 ノートPC CF-SZ5 /Windows 11/ MS Office 2019/Core i5 6300U /メモリ 4GB/SSD 128GB/12.1インチ /無線LAN/中古ノートパソコン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 70670.0,
-      "t30d_units": 4.0
-    },
-    {
-      "asin": "B0FCMK2JQG",
-      "item_name": "【整備済み品】 Lenovo 13.3インチ ノートパソコン ThinkPad L13 /第10世代 Core i5 / Windows 11 / MS Office2019 H&B 搭載/メモリ 8GB / SSD 256GB /WIFi/中古 ノートパソコン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 446665.0,
-      "t30d_units": 10.0
-    },
-    {
-      "asin": "B0DJ8CF799",
-      "item_name": "【整備済品】NEC ノートパソコン VersaPro VK26 /【Windows 11 MS Office H&B 2019 】Core i5 4210M /メモリ 8GB/SSD 256GB/15.6インチ 大画面/無線LAN/DVD/中古ノートパソコン (整備済み品)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0FXNH96CH",
-      "item_name": "【整備済み品】 NEC 15.6型 ノートPC VX/Windows 11 /MS Office H&B 2019/第6世代 Core i5-6300U /8GB/SSD 256GB/ HDMI/WIFI/USB テンキー",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 281999.33,
-      "t30d_units": 15.0
-    },
-    {
-      "asin": "B0DGSVZRYQ",
-      "item_name": "【整備済品】 15.6インチ ノートパソコン B65【Windows 11】【Office 機能搭載 】 /第7世代 Core i5 7200U /メモリ 8GB / SSD 256GB/15.6インチ 大画面/無線LAN/HDMI/DVD/中古ノートパソコン",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 49600.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0DC6BXL24",
-      "item_name": "【整備済み品】 富士通 ノートパソコン LIFEBOOK A577 15.6インチ ノートPC / Win11 Pro/MS Office H&B 2019 /Core i3 7130U/WIFI/HDMI / 8GB/256GB SSD/テンキー (整備済み品)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 2089.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0DTDDRDTD",
-      "item_name": "【整備済み品】 富士通 ノートパソコン LIFEBOOK A577 15.6インチ ノートPC / Win11 Pro/MS Office H&B 2019 / Core i5-7200U / WIFI/HDMI / 8GB/256GB SSD/USB テンキー",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Total CE",
-      "t30d_ops": 1045749.33,
-      "t30d_units": 48.0
+  "8026404545": [
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8026404545,
+      "merchant_name": "星野家の塩 公式ストア",
+      "asin": "B004ISPNIE",
+      "item_name": "星野家の手作りマッサージ塩 ボディスクラブ ヘッドスクラブ 【大容量920g】 スクラブ ボディ 頭皮 お尻",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 1281460.21,
+      "t30d_units": 397.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8026404545,
+      "merchant_name": "星野家の塩 公式ストア",
+      "asin": "B0BV34KFM9",
+      "item_name": "星野家 かかとケア ソックス かかとクリーム 30g セット かかと ひび割れ 角質ケア フットケア 保湿 クリーム フットクリーム",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8026404545,
+      "merchant_name": "星野家の塩 公式ストア",
+      "asin": "B0DKPC7XKS",
+      "item_name": "星野家の手作りマッサージ塩 かかと靴下 足 かかと 角質 足裏 かかとケア 角質ケア ひび割れ 保湿",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 1594.44,
+      "t30d_units": 1.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8026404545,
+      "merchant_name": "星野家の塩 公式ストア",
+      "asin": "B0DKPDGV67",
+      "item_name": "星野家の手作りマッサージ塩 かかとクリーム 足 かかと 角質 足裏 かかとケア 角質ケア ひび割れ 保湿",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 11528.0,
+      "t30d_units": 6.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8026404545,
+      "merchant_name": "星野家の塩 公式ストア",
+      "asin": "B0DZVHSWT4",
+      "item_name": "星野家の手作りマッサージ塩 ボディスクラブ ヘッドスクラブ 【大容量950g】 スクラブ ボディ 頭皮 お尻 詰め替え パウチ",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 631560.31,
+      "t30d_units": 218.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 8026404545,
+      "merchant_name": "星野家の塩 公式ストア",
+      "asin": "B0DHW2BGTC",
+      "item_name": "星野家の手作りマッサージ塩 かかとクリーム かかと靴下 セット 足 かかと 角質 足裏 かかとケア 角質ケア ひび割れ 保湿",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 17610.8,
+      "t30d_units": 4.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

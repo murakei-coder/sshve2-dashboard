@@ -1,13 +1,38 @@
 {
-  "1137101176502": [
+  "1137110773302": [
     {
-      "asin": "B0FW4MKYBD",
-      "item_name": "ドライブレコーダー 1.5インチ 1080Pどらいぶれこーだー 小型 ドラレコ 24時間駐車監視 150度+150度 広視野角 超暗視機能 車前+車内一体型 WDR機能 ノイズ対策済み LED信号機対応 ループ録画 64GBカード付属 日本語取扱説明書 12ヶ月保証",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 205444.0,
-      "t30d_units": 33.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1137110773302,
+      "merchant_name": "SMART DRIVER-JP",
+      "asin": "B0G52DMS9X",
+      "item_name": "PORMIDO-LINK【2026最新HDMI入出力増設】13.3インチ2K QLED大画面液晶＆縦横自由回転の1Din ディスプレイオーディオ:8コア8+256GB Wi-Fiデザインと4G通信でYoutube、SpotifyやGoogleMapなどつかえるAndroid13カーナビ 無線でスマホ連携 ハイエースバン、軽自動車など色々国産車対応 通勤でも家族ドライブでも楽々【PRA109",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 3225537.0,
+      "t30d_units": 40.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1137110773302,
+      "merchant_name": "SMART DRIVER-JP",
+      "asin": "B0G4RFTPH7",
+      "item_name": "PORMIDO-LINK 2026年最新10.1インチIN-Cell超精細/超薄型IPSタッチパネルのディスプレイオーディオ: 【8コア6+128GB Wi-Fiと4G LTE対応でNetflixなどアプリ使用できるAndroid13カーナビ】 無線CarPlay&Android Autoでスマホ連携 FMAM/ビデオ出入力端子配備/ 国産車に1DIN＆2DIN装着可能【 PR-G20】",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 8063713.9,
+      "t30d_units": 179.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

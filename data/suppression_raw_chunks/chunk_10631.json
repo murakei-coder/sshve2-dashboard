@@ -1,85 +1,55 @@
 {
-  "491782324602": [
+  "491823246402": [
     {
-      "asin": "B0CPY7PXSK",
-      "item_name": "SAIKEYO マグネット傘立て 多機能傘収納 トレー付きマグネット 傘立て スマート 玄関収納 屋外収納 トレー付き 玄関の壁掛け式 (ホワイト 1個) フックなし",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 491823246402,
+      "merchant_name": "【公式】CANNA JAPAN",
+      "asin": "B0F2HCPXGV",
+      "item_name": "【Couch】H4CBH 1.0ml satis canna",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 3485000.0,
+      "t30d_units": 292.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F9KQYKHG",
-      "item_name": "SAIKEYO ランドリー収納 マグネット折り畳み棚 折りたたみ棚 洗濯機 洗濯機横 収納ラック 省スペース タオルラック 壁掛け棚 (ブラック)",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 113828.45,
-      "t30d_units": 56.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 491823246402,
+      "merchant_name": "【公式】CANNA JAPAN",
+      "asin": "B0GKNW1D6G",
+      "item_name": "【Active】 HHBD 1.0ml peace canna",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 2313160.0,
+      "t30d_units": 181.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CYGHWH72",
-      "item_name": "SAIKEYO タオルハンガー キッチン タオルかけ 23cm幅 タオル掛けタオルハンガー タオルラック タオル タオルバー 簡単取付 引っ掛けるだけ シンプル クッション付き 落下しにくい (ホワイト)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CZNY1F51",
-      "item_name": "SAIKEYO 神札ホルダー リモコン収納 神棚 お札立て 御札立て お札ホルダー 破魔矢収納 神棚ホルダー 石こうボード用プッシュピン 付属 神棚 壁掛け 御札立て 取付簡単 置き型・掛け型兼用 取り付け簡単 簡易神棚 破魔矢置き",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D6R1CQ3Z",
-      "item_name": "SAIKEYO 業界初！MagSafe対応マグネット式 手持ち扇風機 ハンディフアン 手持ち扇風機 携帯扇風機 ハンディ扇風機 ・ 86g軽量・大容量バッテリー・3段階風量調節・静音設計 ホワイト",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D6R1Q3DC",
-      "item_name": "SAIKEYO 業界初！MagSafe対応マグネット式 手持ち扇風機 ハンディフアン 手持ち扇風機 携帯扇風機 ハンディ扇風機 ・ 86g軽量・大容量バッテリー・3段階風量調節・静音設計 ライトブルー",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0CPY82VSL",
-      "item_name": "SAIKEYO マグネット傘立て 多機能傘収納 トレー付きマグネット 玄関扉収納 玄関収納 屋外収納 トレー付き 玄関の壁掛け式 (ブラック 1個) フックなし",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0.0,
-      "t30d_units": 0.0
-    },
-    {
-      "asin": "B0CPY7HC1S",
-      "item_name": "SAIKEYO 傘立て トレー付きマグネット 傘立て スマート 傘立て 玄関扉収納 フック付き 玄関収納 屋外収納 トレー付き 多機能傘収納 玄関の壁掛け式 (ホワイト 2個)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0D841ZM3N",
-      "item_name": "SAIIKEYO マグネットバスルームクリーニングツールホルダー ホワイト お風呂掃除収納 スポンジ収納 掃除用具収納 約W9XH11cm 幅伸縮可能 フック付き 小物収納 浴室ラック",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "3.VRP missing",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 491823246402,
+      "merchant_name": "【公式】CANNA JAPAN",
+      "asin": "B0D5477VW8",
+      "item_name": "【公式】 SATIS CANNA H4CBH 1.0ml HHBD フリー",
+      "cleaned_suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 11075596.0,
+      "t30d_units": 1128.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

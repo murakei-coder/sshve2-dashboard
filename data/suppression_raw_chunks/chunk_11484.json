@@ -1,22 +1,55 @@
 {
-  "666855284102": [
+  "666857795802": [
     {
-      "asin": "B0CJ2FZHQL",
-      "item_name": "【公式】Mintree スカルプ スケーラー 15g×5個入｜炭酸スカルプケア・頭皮クレンジング・角質除去・爽快メントール・韓国コスメ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 0,
-      "t30d_units": 0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 666857795802,
+      "merchant_name": "YSdzsw Direct",
+      "asin": "B0DSHJY5HC",
+      "item_name": "CD DVDドライブ 外付け USB3.0 Type-C Win/Mac/Linux対応 収納バッグ付き CD/DVD読取・書込み両用 薄型 ポータブル 外付けDVD/CDドライブ (ブルー)",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": 10034.0,
+      "t30d_units": 5.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0D2Z9T5QY",
-      "item_name": "【公式】Mintree ボリュームウェーブ カールクリーム 150ml｜ふんわり弾むカール・ヘアボリューム改善・べたつかない軽い仕上がり・シリコンフリー・韓国コスメ",
-      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 6897.0,
-      "t30d_units": 3.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 666857795802,
+      "merchant_name": "YSdzsw Direct",
+      "asin": "B0FC6FBM3Z",
+      "item_name": "【新型】 2in1スマホホルダー 車/卓上 マグネット 携帯ホルダー 【真空吸盤＆強力磁力】 3段折畳式 360˚回転台座 多角度調整 Magsafe車載ホルダー 片手操作 スマホスタンド iPhone12/ 13/ 14/ 15/ 16/ Pro/Max, Android多機種対応 多車種適用 車用ホルダー",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 23049.8,
+      "t30d_units": 15.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 666857795802,
+      "merchant_name": "YSdzsw Direct",
+      "asin": "B0DSHH13Y5",
+      "item_name": "CD DVDドライブ 外付け USB3.0 Type-C Win/Mac/Linux対応 収納バッグ付き CD/DVD読取・書込み両用 薄型 ポータブル 外付けDVD/CDドライブ (ゴールド)",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 31630.13,
+      "t30d_units": 14.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

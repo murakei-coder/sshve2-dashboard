@@ -1,22 +1,38 @@
 {
-  "1002174239902": [
+  "1002174682602": [
     {
-      "asin": "B0DXFFDHLS",
-      "item_name": "[2025新型]除湿機 小型 除湿器2200ml大容量 18畳まで対応 ダブルペルチェ式 除湿乾燥機 クローゼット 除湿 空気清浄機 静音 満水自動停止 タイマー搭載 7色ライト 携帯便利 脱臭 省エネ/コロナ/カビ/梅雨/結露/花粉対策 湿気取り 家庭用 PSE認証済",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 362980.0,
-      "t30d_units": 51.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1002174682602,
+      "merchant_name": "ＬＬＦＦ",
+      "asin": "B0F6SXVMCP",
+      "item_name": "オフィスチェア デスクチェア 疲れない テレワークチェア 人間工学 腰サポート 洗える&着脱可能なクッション座面 肘なし 省スペース ネジ2本＆5分簡単組立 高反発クッション 椅子 ガス昇降10cm 360度回転椅子 頑丈 通気性 メッシュ 姿勢 チェア 子ども用にもイス 冬夏兼用 仕事/テレワーク/ピアノ/オ",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0F7HFYLR9",
-      "item_name": "【2025新型】骨伝導イヤホン bluetooth 5.4 MP3プレーヤー機能 2in1 32GB 8000曲容量 オープンイヤー ワイヤレスイヤホン IPX8防水 技適認証済み こつでんどう bluetooth 骨伝導ヘッドホン ランニング スポーツイヤフォン 急速充電 8時間再生（ブラック）",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 229729.75,
-      "t30d_units": 53.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 1002174682602,
+      "merchant_name": "ＬＬＦＦ",
+      "asin": "B0F6V2FBGT",
+      "item_name": "オフィスチェア デスクチェア 疲れない テレワークチェア 人間工学 腰サポート 洗える&着脱可能なクッション座面 肘なし 省スペース ネジ２本＆5分簡単組立 高反発クッション 椅子 ガス昇降10cm 360度回転椅子 頑丈 通気性 メッシュ 姿勢 チェア 子ども用にもイス 冬夏兼用 仕事/テレワーク/ピアノ/",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

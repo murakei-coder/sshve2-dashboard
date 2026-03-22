@@ -1,265 +1,123 @@
 {
-  "51676527322": [
+  "51693828522": [
     {
-      "asin": "B0FPC7D9VW",
-      "item_name": "ソーラーライト 屋外 防水 人感センサー ガーデン 置物ライト【248LED 自動点灯 3つ知能モード 太陽光発電 】センサーライト ソーラー 電気代0 LEDライト 防災対策 屋外ウォール 壁掛け/庭先/表玄関/駐車場 両面テープ・ネジ 設置簡単 ペンダント 防犯",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 59641.0,
-      "t30d_units": 25.0
-    },
-    {
-      "asin": "B0FNN216Z1",
-      "item_name": "ソーラーライト 屋外 置物ライト センサーライト 【4個セット】 防犯 3つ知能モード 自動点灯/消灯 ソーラーセンサーライト 大容量電池 太陽光発電 電気代ゼロ 玄関/廊下/庭/壁掛け/駐車場/停電時など照明用",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 112499.88,
-      "t30d_units": 51.0
-    },
-    {
-      "asin": "B09KQS9W7S",
-      "item_name": "加湿器 卓上 家全体用加湿器 デスク 小型 車用 350ml 大容量 超音波式 次亜塩素酸水対応 空焚き防止 静音 コードレス 気化式 スチーム式 乾燥 花粉対策 車載 フィス 寝室 ミニ プレゼント 車",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 45831.32,
-      "t30d_units": 23.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 51693828522,
+      "merchant_name": "AIMIBO-JP",
+      "asin": "B0FVLXFV8F",
+      "item_name": "AIMIBO ワイヤレス HDMI 送受信機 1送信機+2受信機セット HDMI 無線 受信機8台増設可能 拡張モード対応 1080P/5Ghz/50m安定転送距離 映像音声同期出力 スマホ/PC/Mac/Laptop/Window/カメラ/テレビ/モニタ/プロジェクターなど対応",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0BJ74F5V7",
-      "item_name": "ホットアイマスク USB 充電式 アイマスク シルク 圧迫感なし コードレス リラックス 遮光 温度調節 自動電源オフ 安全保護 睡眠/昼休み/旅行/出張/ギフト/プレゼント アイマスクホット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 18112.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0D3HTP3SG",
-      "item_name": "LED ランタン 充電式 提灯 作業灯 5つ点灯モード 懐中電灯 コードレス キャンプランタン 超高輝度 折り畳み式 USB充電 防水 アウトドア キャンプ 登山 夜釣り 防災 停電 緊急 非常用 昼白色",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 315494.37,
-      "t30d_units": 132.0
-    },
-    {
-      "asin": "B0CQXBCQZW",
-      "item_name": "電動空気入れ 車 自転車 エアーポンプ 充電式 6000mAh コードレス 最大圧力150PSI バイクエアコンプレッサー 仏/英/米式バルブ対応 自動車/自転車/ボール/浮き輪",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 8997.0,
-      "t30d_units": 3.0
-    },
-    {
-      "asin": "B0C1N5PV84",
-      "item_name": "[Dearan] ナイトキャップ ヘアキャップ 美髪 ロングヘア 就寝用 ロングヘア用 枝毛・寝癖防止 保湿美髪 就寝用 産後用 誕生日 プレゼント 紐付き サイズ調整可能 シルク ナイトキャップ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Softlines",
-      "t30d_ops": 4995.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0DHL1D817",
-      "item_name": "ホットアイマスク USB 充電式 アイマスク シルク 圧迫感なし コードレス リラックス 遮光 温度調節 自動電源オフ 安全保護 睡眠/昼休み/旅行/出張/ギフト/プレゼント アイマスクホット",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 69135.0,
-      "t30d_units": 23.0
-    },
-    {
-      "asin": "B09L8C3FYZ",
-      "item_name": "ソーラーライト 屋外 センサーライト 電気代0 【自動点灯 310LED 5面発光 3つ知能モード 太陽光発電 IP67防水】 防災対策 ガーデン 屋外ウォール 壁掛け/庭先/表玄関/駐車場 両面テープ・ネジ 設置簡単 ペンダント 防犯 ソーラーセンサー (二個セット)",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 1324003.61,
-      "t30d_units": 499.0
-    },
-    {
-      "asin": "B0F7H4VGVS",
-      "item_name": "ソーラーライト 屋外 階段ライト ソーラー 電気代0 人感センサー LED 【自動点灯 310LED 5面発光 3つ知能モード 太陽光発電 IP67防水】 防災対策 ガーデン 屋外ウォール 壁掛け/庭先/表玄関/駐車場 両面テープ・ネジ 設置簡単 ペンダント 防犯 ソーラーセンサー (1個セット)",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 78242.99,
-      "t30d_units": 41.0
-    },
-    {
-      "asin": "B0DFPZ3GDV",
-      "item_name": "ソーラーランタン 提灯 LEDランタン 作業灯 5000mAh 6つ点灯モード スマホ充電可能 USB充電 コードレス 小型 キャンプランタン 超高輝度 ソーラーライト 折り畳み式 吊り下げ 防水 アウトドア 節電対策 キャンプ 登山 夜釣り 防災 地震 台風 停電 緊急 非常用 昼白色",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 50085.18,
-      "t30d_units": 21.0
-    },
-    {
-      "asin": "B0BR7QNZJ7",
-      "item_name": "ホットアイマスク USB 充電式 アイマスク シルク 圧迫感なし コードレス リラックス 遮光 温度調節 自動電源オフ 安全保護 睡眠/昼休み/旅行/出張/ギフト/プレゼント アイマスクホット",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 33976.33,
-      "t30d_units": 14.0
-    },
-    {
-      "asin": "B0D5QXW545",
-      "item_name": "電動空気入れ 充電式 6000mAh 車 エアーポンプ コードレス 空気入れ バイク エアコンプレッサー 最大圧力150PSI Type-C充電 仏/英/米式バルブ対応 自動車/自転車/ボール/浮き輪",
-      "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
-      "suppression_category": "5.Others",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DXDV4D7Z",
-      "item_name": "ホットアイマスク USB 充電式 アイマスク シルク 圧迫感なし コードレス リラックス 遮光 温度調節 自動電源オフ 安全保護 睡眠/昼休み/旅行/出張/ギフト/プレゼント アイマスクホット",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "Consumables",
-      "t30d_ops": 14715.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0FMF9SB8P",
-      "item_name": "ジャンプスターター 車用 エンジンスターター 15000mah ピーク電流1000A バイク【6Lまでガソリンエンジン車 / 3Lまでディーゼル車対応】車緊急始動 モバイルバッテリー機能 LED緊急ライト 安全保護システム PSE承認済み 便利グッズ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B09KQTFBNL",
-      "item_name": "加湿器 家全体用加湿器 卓上 デスク 小型 車用 350ml 大容量 超音波式 次亜塩素酸水対応 空焚き防止 静音 コードレス 気化式 スチーム式 乾燥/花粉対策 車載 フィス 寝室 ミニ プレゼント",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 15991.0,
-      "t30d_units": 9.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 51693828522,
+      "merchant_name": "AIMIBO-JP",
+      "asin": "B0G12F2PH4",
+      "item_name": "AIMIBO ワイヤレスHDMI送受信機 小型 HDMI 無線 WIFI&設定不要 1080P/2.4G/5G超低遅延 音画同期 無線化 プラグ＆プレイ ミラー＆拡張モード搭載 PC/TV/プロジェクター/モニター対応 【日本技適認証取得】",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 63663.0,
+      "t30d_units": 8.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B09TWC7YZW",
-      "item_name": "Dearan ホットアイマスク USB 充電式 アイマスク シルク 圧迫感なし コードレス リラックス 遮光 温度調節 自動電源オフ 安全保護 睡眠/昼休み/旅行/出張/ギフト/プレゼント アイマスクホット",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 213957.0,
-      "t30d_units": 79.0
-    },
-    {
-      "asin": "B0DTDVMJ1Z",
-      "item_name": "ソーラーライト 屋外 センサーライト テラス・デッキ ガーデン ソーラー 電気代0 人感センサー LED 【自動点灯 3つ知能モード 太陽光発電 】 防災対策 屋外 ウォール 壁掛け/庭先/表玄関/駐車場 両面テープ・ネジ 設置簡単 ペンダント 防犯 1個セット",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 10594.0,
-      "t30d_units": 6.0
-    },
-    {
-      "asin": "B0FPFH6H8G",
-      "item_name": "ジャンプスターター 12V 車用 エンジンスターター ピーク電流 2000A バイク 【6Lまでガソリンエンジン車 / 3Lまでディーゼル車対応】車緊急始動 モバイルバッテリー機能 LED緊急ライト PSE承認済み",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 27995.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0FPC4KHPH",
-      "item_name": "ソーラーライト 屋外 センサーライト 階段 ソーラー 電気代0 人感センサー LEDライト【自動点灯 3つ知能モード 太陽光発電 】 防災対策 ガーデン 屋外ウォール 壁掛け/庭先/表玄関/駐車場 両面テープ・ネジ 設置簡単 ペンダント 防犯",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 66326.08,
-      "t30d_units": 37.0
-    },
-    {
-      "asin": "B0CRXSWZXJ",
-      "item_name": "ソーラーライト 屋外 センサーライト テラス・デッキライト ガーデン ソーラー 電気代0 人感センサー LED 【自動点灯 3つ知能モード 太陽光発電 】 防災対策 屋外 ウォール 壁掛け/庭先/表玄関/駐車場 両面テープ・ネジ 設置簡単 ペンダント 防犯",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 140095.65,
-      "t30d_units": 67.0
-    },
-    {
-      "asin": "B0B71JC6SF",
-      "item_name": "ホットアイマスク USB 充電式 アイマスク シルク 圧迫感なし コードレス リラックス 遮光 温度調節 自動電源オフ 安全保護 睡眠/昼休み/旅行/出張/ギフト/プレゼント アイマスクホット",
-      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 81663.07,
-      "t30d_units": 30.0
-    },
-    {
-      "asin": "B0FPC57CP4",
-      "item_name": "ソーラーライト 屋外 防水 人感センサー ガーデン100LED【自動点灯 3つ知能モード 太陽光発電 】 センサーライト 階段 ソーラー 電気代0 LEDライト防災対策 ガーデン 屋外ウォール 壁掛け/庭先/表玄関/駐車場 両面テープ・ネジ 設置簡単 ペンダント 6枚セット",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 441760.32,
-      "t30d_units": 144.0
-    },
-    {
-      "asin": "B0FKYS2GQT",
-      "item_name": "LED ランタン 充電式 提灯 7つ点灯モード 懐中電灯 コードレス キャンプランタン 作業灯 超高輝度 折り畳み式 USB充電 防水 アウトドア キャンプ 登山 夜釣り 防災 停電 緊急 非常用",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 124333.89,
-      "t30d_units": 44.0
-    },
-    {
-      "asin": "B0BR7NNT2B",
-      "item_name": "ホットアイマスク USB 充電式 アイマスク シルク 圧迫感なし コードレス リラックス 遮光 温度調節 自動電源オフ 安全保護 睡眠/昼休み/旅行/出張/ギフト/プレゼント アイマスクホット",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 19247.0,
-      "t30d_units": 8.0
-    },
-    {
-      "asin": "B0BGGCKR47",
-      "item_name": "ソーラーライト 屋外 センサーライト 階段 ソーラー 電気代0 【自動点灯 310LED 5面発光 3つ知能モード 太陽光発電 IP67防水】 防災対策 ガーデン 屋外ウォール 壁掛け/庭先/表玄関/駐車場 両面テープ・ネジ 設置簡単 ペンダント 防犯 ソーラーセンサー (1個セット)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
-      "t30d_ops": 0,
-      "t30d_units": 0
-    },
-    {
-      "asin": "B0DS2B1XL8",
-      "item_name": "ソーラーライト 屋外 センサーライト 電気代0 人感センサー LED 【自動点灯 3つ知能モード 太陽光発電 】 防災対策 ガーデン 屋外ウォール 壁掛け/庭先/表玄関/駐車場 両面テープ・ネジ 設置簡単 ペンダント 防犯 4個セット",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 636008.66,
-      "t30d_units": 253.0
-    },
-    {
-      "asin": "B0FRDTQQXR",
-      "item_name": "空気清浄機 小型 花粉 卓上【自動空気質検知・マイナスイオン】 卓上 空気清浄機 節電対策 ペット向 ホコリ 花粉10-20畳 静音 軽量 省エネ アレルギー対策 コンパクト ギフト最適 (ホワイト)",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
-      "suppression_category": "2.OOS",
+      "japanese_time": "2026-03-19 04:01:02.667058",
       "pf": "Total CE",
-      "t30d_ops": 192274.99,
-      "t30d_units": 48.0
+      "dom_ooc": "CN",
+      "merchant_customer_id": 51693828522,
+      "merchant_name": "AIMIBO-JP",
+      "asin": "B0FCXS96W1",
+      "item_name": "AIMIBO ワイヤレスHDMI送信機 無線 HDMIトランスミッター 最大8台増設 TXのみ",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
+      "t30d_ops": 17548.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0CZ6X22BT",
-      "item_name": "アイマスク 睡眠用 3D立体型 目隠し アイスシルクマスク 圧迫感なし 安眠 遮光 快眠 軽量 飛行機/旅行/出張/昼寝に最適 快眠 グッズ 自由調整可能 男女兼用 耳栓セット",
-      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "Consumables",
-      "t30d_ops": 4651.33,
-      "t30d_units": 6.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 51693828522,
+      "merchant_name": "AIMIBO-JP",
+      "asin": "B0FCS4CH1N",
+      "item_name": "AIMIBOワイヤレスhdmi 送受信機 hdmi 無線 2.4/5Ghz安定無線伝送 WIFI&設定不要 音画同期 ストリーミングメディア ミラー＆拡張モード搭載 PC/TV/プロジェクター/モニター対応 【日本技適認証取得】",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 179768.5,
+      "t30d_units": 15.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 51693828522,
+      "merchant_name": "AIMIBO-JP",
+      "asin": "B0CB89LTMB",
+      "item_name": "HDMI ワイヤレス 送受信機セット AIMIBO hdmi 無線化 ユニット PC映像を無線接続で飛ばす/ディスプレイでストリーミング/30m長距離/2.4Ghz＆5Ghz両対応/送信機増設対応 設定不要 ワイヤレスhdmi エクステンダー",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 269160.0,
+      "t30d_units": 22.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 51693828522,
+      "merchant_name": "AIMIBO-JP",
+      "asin": "B0FFH86HQ8",
+      "item_name": "ワイヤレスhdmi 送受信機 AIMIBO hdmi 無線トランスミッター【1080P/5G+2.4G/30m安定転送/日本技適認証取得】 WIFI&設定不要 映像音声同期出力８台TX増設可能 テレビ/PC/Mac/Laptop/Window/カメラなど対応",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "3.VRP missing",
+      "suppression_category_medium": "VRP missing",
+      "asin_count": 1,
+      "t30d_ops": NaN,
+      "t30d_units": NaN,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
+    },
+    {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Total CE",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 51693828522,
+      "merchant_name": "AIMIBO-JP",
+      "asin": "B0G6ZGLFJG",
+      "item_name": "AIMIBO ワイヤレスHDMI送受信機 小型 HDMI 無線 WIFI&設定不要 1080P/2.4G/5G超低遅延 音画同期 無線化 プラグ＆プレイ ミラー＆拡張モード搭載 PC/TV/プロジェクター/モニター対応【日本技適認証取得】",
+      "cleaned_suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Was Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 14544.0,
+      "t30d_units": 2.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

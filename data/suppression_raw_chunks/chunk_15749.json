@@ -1,22 +1,38 @@
 {
-  "1108022890402": [
+  "1108232825602": [
     {
-      "asin": "B0FJXFBFPL",
-      "item_name": "PC用4Kウェブカメラ、1080P@60FPS、ノイズ低減マイク付き4Kカメラ、92°FOV、自動光補正、8MP USBウェブカメラプラグアンドプレイ、360°回転ヘッド、プライバシーカバー付きウェブカメラ、Zoom/Teams/Skype/Google Meetに対応",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Total CE",
-      "t30d_ops": 36589.33,
-      "t30d_units": 10.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1108232825602,
+      "merchant_name": "スクリブ3Dジャパン",
+      "asin": "B0FLX24TK2",
+      "item_name": "【米・英・独で一位】 SCRIB3D 3Dペン 知育 玩具 誕生日 クリスマス 【低温で安心】 プレゼント 小学生 アートペン メイキングトイ おもちゃ 女の子 男の子 6歳 7歳 8歳 ジュニア",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 649737.66,
+      "t30d_units": 86.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
-      "asin": "B0FSKDTVVG",
-      "item_name": "2K Windows Hello ウェブカメラ、Windows Hello 顔認識カメラ、会議やビデオ通話用の 2K USB ウェブカメラ、ノイズ低減マイク、自動光補正、84° 広視野角、スライド式プライバシーカバー、Microsoft Teams、Zoom、Skype, Google Meet に対応",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
-      "suppression_category": "4.Price Error",
-      "pf": "Total CE",
-      "t30d_ops": 936364.37,
-      "t30d_units": 180.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1108232825602,
+      "merchant_name": "スクリブ3Dジャパン",
+      "asin": "B0FKM132XJ",
+      "item_name": "【米・英・独で一位】 SCRIB3D 3Dペン メイキングトイ 誕生日 クリスマス 【速度調整できる】 プレゼント 中学生 高校生 アートペン DIY 女の子 男の子 14歳以上 ベーシック",
+      "cleaned_suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Historical Suppress",
+      "asin_count": 1,
+      "t30d_ops": 1001947.95,
+      "t30d_units": 131.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

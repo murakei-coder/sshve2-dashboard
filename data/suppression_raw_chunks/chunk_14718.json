@@ -1,40 +1,21 @@
 {
-  "1028161394102": [
+  "1028191428002": [
     {
-      "asin": "B0FQJQDJGY",
-      "item_name": "MONOSEI【Newモデル】耐荷重120kg・超軽量600g｜折りたたみ椅子 軽量 持ち運び・コンパクトチェア・アウトドアチェア｜日本語説明書付き・ショルダーストラップ付き｜キャンプ・釣り・行列待ち・運動会に最適 (2セット)",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 6360.0,
-      "t30d_units": 2.0
-    },
-    {
-      "asin": "B0GHS94Z4G",
-      "item_name": "【MONOSEI 】折りたたみ椅子 携帯チェア 超軽量325g コンパクト 軽量 持ち運び便利 ポーチ型 ショルダーストラップ アルミフレーム 耐荷重120kg アウトドア キャンプ 釣り 登山 行列待ち",
-      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
-      "suppression_category": "4.Price Error",
-      "pf": "L&L",
-      "t30d_ops": 64836.07,
-      "t30d_units": 31.0
-    },
-    {
-      "asin": "B0FQG1JVQQ",
-      "item_name": "MONOSEI【Newモデル】耐荷重120kg・超軽量600g｜折りたたみ椅子 軽量 持ち運び・コンパクトチェア・アウトドアチェア｜日本語説明書付き・ショルダーストラップ付き｜キャンプ・釣り・行列待ち・運動会に最適",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 9236.0,
-      "t30d_units": 5.0
-    },
-    {
-      "asin": "B0FD2Y7X16",
-      "item_name": "MONOSEI折りたたみ椅子 アウトドアチェア コンパクトイス ｜耐荷重200kg｜超軽量0.7kg・楽々折り畳み椅子｜1秒開閉｜収納袋付き",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
-      "t30d_ops": 18480.0,
-      "t30d_units": 11.0
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 1028191428002,
+      "merchant_name": "SUN商店【インボイス対応】",
+      "asin": "B0FKGGZ2G4",
+      "item_name": "SOLCA 味噌汁の具 【信濃雪】【タンパク質約７倍】 高野豆腐使用 みそ汁の具 乾燥 100g 大容量 便利なチャック付き袋 常温保存 長期保存 高野豆腐 わかめ ネギ しじみ入り 非常食 アウトドア 業務用にも",
+      "cleaned_suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category_large": "4.Price Error",
+      "suppression_category_medium": "Minimum Deal Price Threshold Not Met",
+      "asin_count": 1,
+      "t30d_ops": 529810.82,
+      "t30d_units": 328.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

@@ -1,22 +1,38 @@
 {
   "6370853922": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 6370853922,
+      "merchant_name": "HaoDeng-JP",
       "asin": "B0DN19KZKR",
       "item_name": "フロアライト 間接照明 フロアスタンド Alexa対応 Google Home対応 フロアランプ 調光調色ルームライト 目覚め リモコン付 北欧風 新築祝い おしゃれ",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 122275.0,
-      "t30d_units": 27.0
+      "t30d_units": 27.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "L&L",
+      "dom_ooc": "CN",
+      "merchant_customer_id": 6370853922,
+      "merchant_name": "HaoDeng-JP",
       "asin": "B0CF1Q95VJ",
       "item_name": "フロアライト 間接照明 スタンドライト Alexa対応 Google Home対応 フロアランプ スマート家電照明 調光調色ルームライト 目覚め リモコン付 北欧風 おしゃれ",
-      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
-      "suppression_category": "2.OOS",
-      "pf": "L&L",
+      "cleaned_suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category_large": "2.OOS",
+      "suppression_category_medium": "No Inventory/SKU Error",
+      "asin_count": 1,
       "t30d_ops": 132228.0,
-      "t30d_units": 22.0
+      "t30d_units": 22.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }

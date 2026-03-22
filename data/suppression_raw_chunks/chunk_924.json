@@ -1,22 +1,38 @@
 {
   "865678395": [
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 865678395,
+      "merchant_name": "MONOSIA公式ストア",
       "asin": "B0BWYSFQW1",
       "item_name": "ミミネル 耳まで温まるホットアイマスク 寝ながら使える睡眠用 USB 充電式 ふわふわコットン素材 繰り返し使える 【電池改良ver】",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 2726588.45,
-      "t30d_units": 621.0
+      "t30d_units": 621.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     },
     {
+      "japanese_time": "2026-03-19 04:01:02.667058",
+      "pf": "Consumables",
+      "dom_ooc": "DOM",
+      "merchant_customer_id": 865678395,
+      "merchant_name": "MONOSIA公式ストア",
       "asin": "B0FC5ZMLVV",
       "item_name": "ネルホット 耳まで包みじ〜んわり温まる3Dホットアイマスク 寝ながら使える睡眠用 USB 充電式 シルクのような素材 繰り返し使える",
-      "suppression_reason": "[]",
-      "suppression_category": "1.no suppression",
-      "pf": "Consumables",
+      "cleaned_suppression_reason": "[]",
+      "suppression_category_large": "1.no suppression",
+      "suppression_category_medium": "no suppression",
+      "asin_count": 1,
       "t30d_ops": 74060.98,
-      "t30d_units": 21.0
+      "t30d_units": 21.0,
+      "t30d_bau_range": "2026-02-09 to 2026-03-02, 2026-03-10 to 2026-03-17",
+      "event_range": "2026-03-31 00:00:00 to 2026-04-06 23:59:59"
     }
   ]
 }
