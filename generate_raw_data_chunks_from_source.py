@@ -193,4 +193,5 @@ def main():
     print("1. Commit and push to GitHub")
     print("2. Test download functionality on GitHub Pages")
 
-if __name__ == '__ma
+if __name__ == '__main__':
+    main()
