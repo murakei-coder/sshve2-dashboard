@@ -1,1 +1,40 @@
-{"1073983451502": [{"asin": "B0FSKLNSJK", "item_name": "Bright Pale 電動アシスト自転車 20インチ 24V 7.8Ahバッテリー 前輪250Wモーター トルクセンサー搭載 シマノ6段変速ギア IPX6防水 通勤・通学に最適 BRT-206-EB (マットホワイト)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 2134021.0, "t30d_units": 35.0}, {"asin": "B0FSKJ8F1W", "item_name": "Bright Pale 電動アシスト自転車 20インチ 24V 7.8Ahバッテリー 前輪250Wモーター トルクセンサー搭載 シマノ6段変速ギア IPX6防水 通勤・通学に最適 BRT-206-EB (マットブラック)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 1353374.0, "t30d_units": 22.0}, {"asin": "B0FSKJW9FS", "item_name": "Bright Pale 電動アシスト自転車 20インチ 24V 7.8Ahバッテリー 前輪250Wモーター トルクセンサー搭載 シマノ6段変速ギア IPX6防水 通勤・通学に最適 BRT-206-EB (マットグリーン)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 613232.0, "t30d_units": 10.0}, {"asin": "B0FSKPLRW1", "item_name": "Bright Pale 電動アシスト自転車 20インチ 24V 7.8Ahバッテリー 前輪250Wモーター トルクセンサー搭載 シマノ6段変速ギア IPX6防水 通勤・通学に最適 BRT-206-EB (ブルーグレイ)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 906316.0, "t30d_units": 15.0}]}
+{
+  "1073983451502": [
+    {
+      "asin": "B0FSKLNSJK",
+      "item_name": "Bright Pale 電動アシスト自転車 20インチ 24V 7.8Ahバッテリー 前輪250Wモーター トルクセンサー搭載 シマノ6段変速ギア IPX6防水 通勤・通学に最適 BRT-206-EB (マットホワイト)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 2134021.0,
+      "t30d_units": 35.0
+    },
+    {
+      "asin": "B0FSKJ8F1W",
+      "item_name": "Bright Pale 電動アシスト自転車 20インチ 24V 7.8Ahバッテリー 前輪250Wモーター トルクセンサー搭載 シマノ6段変速ギア IPX6防水 通勤・通学に最適 BRT-206-EB (マットブラック)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 1353374.0,
+      "t30d_units": 22.0
+    },
+    {
+      "asin": "B0FSKJW9FS",
+      "item_name": "Bright Pale 電動アシスト自転車 20インチ 24V 7.8Ahバッテリー 前輪250Wモーター トルクセンサー搭載 シマノ6段変速ギア IPX6防水 通勤・通学に最適 BRT-206-EB (マットグリーン)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 613232.0,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B0FSKPLRW1",
+      "item_name": "Bright Pale 電動アシスト自転車 20インチ 24V 7.8Ahバッテリー 前輪250Wモーター トルクセンサー搭載 シマノ6段変速ギア IPX6防水 通勤・通学に最適 BRT-206-EB (ブルーグレイ)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 906316.0,
+      "t30d_units": 15.0
+    }
+  ]
+}

@@ -1,1 +1,22 @@
-{"936702909002": [{"asin": "B0DWN313JK", "item_name": "生きる出汁パック 8g×30袋入 無添加 国産 無塩 アミノ酸・酵母エキス不使用 調味料不使用 昆布不使用 食塩不使用 だしパック 出汁 天然 減塩 和風だし", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 5262170.54, "t30d_units": 2161.0}, {"asin": "B0FTT1VJVZ", "item_name": "生きる出汁パック 8g×30袋入【2個】 無添加 国産 無塩 アミノ酸・酵母エキス不使用 調味料不使用 昆布不使用 食塩不使用 出汁 天然 減塩 和風だし", "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]", "suppression_category": "5.Others", "pf": "Consumables", "t30d_ops": 1117173.52, "t30d_units": 235.0}]}
+{
+  "936702909002": [
+    {
+      "asin": "B0DWN313JK",
+      "item_name": "生きる出汁パック 8g×30袋入 無添加 国産 無塩 アミノ酸・酵母エキス不使用 調味料不使用 昆布不使用 食塩不使用 だしパック 出汁 天然 減塩 和風だし",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 5262170.54,
+      "t30d_units": 2161.0
+    },
+    {
+      "asin": "B0FTT1VJVZ",
+      "item_name": "生きる出汁パック 8g×30袋入【2個】 無添加 国産 無塩 アミノ酸・酵母エキス不使用 調味料不使用 昆布不使用 食塩不使用 出汁 天然 減塩 和風だし",
+      "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
+      "suppression_category": "5.Others",
+      "pf": "Consumables",
+      "t30d_ops": 1117173.52,
+      "t30d_units": 235.0
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"820478608902": [{"asin": "B0DWJGNXZS", "item_name": "ロボット掃除機 2800Pa 強力吸引 お掃除クリーナー 音量調節 静音 120分間 WiFi App対応 リモコン遠隔操作 Alexa対応 自動充電 落下防止 衝突センサー 自動掃除機 AIRROBO (ブラック-パターン2)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 14990.0, "t30d_units": 1.0}, {"asin": "B0DWJJZPWF", "item_name": "ロボット掃除機 2800Pa 強力吸引 お掃除クリーナー 音量調節 静音 120分間 WiFi App対応 リモコン遠隔操作 Alexa対応不可 自動充電 落下防止 衝突センサー 自動掃除機 AIRROBO (ディープブラック)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 181920.0, "t30d_units": 15.0}, {"asin": "B0BCVZ7B29", "item_name": "加湿器 大容量 卓上 おしゃれ 加湿量最大300ml/h 4.3L 超音波式 26dB 静音 43時間連続稼働 上から給水 自動電源オフ付き ミスト量3段階調整 お手入れ簡単 加湿機 AIRROBO(エアロボ) (ホワイト)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 115011.0, "t30d_units": 31.0}]}
+{
+  "820478608902": [
+    {
+      "asin": "B0DWJGNXZS",
+      "item_name": "ロボット掃除機 2800Pa 強力吸引 お掃除クリーナー 音量調節 静音 120分間 WiFi App対応 リモコン遠隔操作 Alexa対応 自動充電 落下防止 衝突センサー 自動掃除機 AIRROBO (ブラック-パターン2)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 14990.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0DWJJZPWF",
+      "item_name": "ロボット掃除機 2800Pa 強力吸引 お掃除クリーナー 音量調節 静音 120分間 WiFi App対応 リモコン遠隔操作 Alexa対応不可 自動充電 落下防止 衝突センサー 自動掃除機 AIRROBO (ディープブラック)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 181920.0,
+      "t30d_units": 15.0
+    },
+    {
+      "asin": "B0BCVZ7B29",
+      "item_name": "加湿器 大容量 卓上 おしゃれ 加湿量最大300ml/h 4.3L 超音波式 26dB 静音 43時間連続稼働 上から給水 自動電源オフ付き ミスト量3段階調整 お手入れ簡単 加湿機 AIRROBO(エアロボ) (ホワイト)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 115011.0,
+      "t30d_units": 31.0
+    }
+  ]
+}

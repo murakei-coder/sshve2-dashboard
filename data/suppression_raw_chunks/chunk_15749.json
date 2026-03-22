@@ -1,1 +1,22 @@
-{"1108022890402": [{"asin": "B0FJXFBFPL", "item_name": "PC用4Kウェブカメラ、1080P@60FPS、ノイズ低減マイク付き4Kカメラ、92°FOV、自動光補正、8MP USBウェブカメラプラグアンドプレイ、360°回転ヘッド、プライバシーカバー付きウェブカメラ、Zoom/Teams/Skype/Google Meetに対応", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 36589.33, "t30d_units": 10.0}, {"asin": "B0FSKDTVVG", "item_name": "2K Windows Hello ウェブカメラ、Windows Hello 顔認識カメラ、会議やビデオ通話用の 2K USB ウェブカメラ、ノイズ低減マイク、自動光補正、84° 広視野角、スライド式プライバシーカバー、Microsoft Teams、Zoom、Skype, Google Meet に対応", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 936364.37, "t30d_units": 180.0}]}
+{
+  "1108022890402": [
+    {
+      "asin": "B0FJXFBFPL",
+      "item_name": "PC用4Kウェブカメラ、1080P@60FPS、ノイズ低減マイク付き4Kカメラ、92°FOV、自動光補正、8MP USBウェブカメラプラグアンドプレイ、360°回転ヘッド、プライバシーカバー付きウェブカメラ、Zoom/Teams/Skype/Google Meetに対応",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 36589.33,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B0FSKDTVVG",
+      "item_name": "2K Windows Hello ウェブカメラ、Windows Hello 顔認識カメラ、会議やビデオ通話用の 2K USB ウェブカメラ、ノイズ低減マイク、自動光補正、84° 広視野角、スライド式プライバシーカバー、Microsoft Teams、Zoom、Skype, Google Meet に対応",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 936364.37,
+      "t30d_units": 180.0
+    }
+  ]
+}

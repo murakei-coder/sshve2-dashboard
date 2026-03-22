@@ -1,1 +1,49 @@
-{"756364637502": [{"asin": "B0DYDY7NS1", "item_name": "Eyy ノートパソコン Office 2024 搭載 16.0型 インテル Core i5 16GB メモリ 512GB SSD Win 11 Pro対応 1980*1200 FHD ノートPC 薄型 軽量 英語キーボード&バックライト付き Webカメラ内蔵/WiFi5/BT5/USB3.0/イーサネット ポート オンライン授業 テレワーク向け グレー laptop", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 6055521.65, "t30d_units": 103.0}, {"asin": "B0FZ9V7V4H", "item_name": "ノートパソコン Office2024搭載 パソコン Win 11 Pro 15.6インチ ノートPC 12GB メモリ SSD 256GB Celeron プロセッサー 最大2.6GHZ FHD1080P IPS非光沢液晶 ウェブカメラ付き 静音動作 軽量薄型 laptop 1.5kg/WIFI5/BT5.0/USB 3.0/HDポート/テンキー ラップトップ 学生向け 仕事用 学習用 シルバー", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 9665418.71, "t30d_units": 278.0}, {"asin": "B0GHRSJT8Y", "item_name": "【ノートパソコン Office2024搭載 Win11 Pro】15.6インチ パソコン Core m3-8100Y 最大3.4GHz 8GB メモリ 256GB SSD ノートパソコン 1.6kg 薄型 軽量 FHD 1920×1080 英語キーボード ノートpc テンキー付き/WiFi5/BT5/Webカメラ/USB3.0/HDポート 在宅勤務 テレワーク 学生向け laptop グレー", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 1015933.33, "t30d_units": 23.0}, {"asin": "B0F4783RL2", "item_name": "【ノートパソコン Office2024搭載 Win11 Pro】15.6インチ パソコン Core m3-8100Y 最大3.4GHz 16GB メモリ 512GB SSD ノートパソコン 1.6kg 薄型 軽量 FHD 1920×1080 英語キーボード ノートpc テンキー付き/WiFi5/BT5/Webカメラ/USB3.0/HDポート 在宅勤務 テレワーク 学生向け laptop グレー", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 26946009.82, "t30d_units": 549.0}, {"asin": "B0G7CWJBLR", "item_name": "ノートパソコン Office搭載 パソコン Win 11 Pro 15.6インチ ノートPC 16GB メモリ SSD 256GB 4425Y FHD1080P IPS非光沢液晶 ウェブカメラ付き 静音動作 軽量薄型 laptop 1.5kg/WIFI5/BT5/USB 3.0/HDポート/テンキー ラップトップ 学生向け 仕事用 学習用 シルバー", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "756364637502": [
+    {
+      "asin": "B0DYDY7NS1",
+      "item_name": "Eyy ノートパソコン Office 2024 搭載 16.0型 インテル Core i5 16GB メモリ 512GB SSD Win 11 Pro対応 1980*1200 FHD ノートPC 薄型 軽量 英語キーボード&バックライト付き Webカメラ内蔵/WiFi5/BT5/USB3.0/イーサネット ポート オンライン授業 テレワーク向け グレー laptop",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 6055521.65,
+      "t30d_units": 103.0
+    },
+    {
+      "asin": "B0FZ9V7V4H",
+      "item_name": "ノートパソコン Office2024搭載 パソコン Win 11 Pro 15.6インチ ノートPC 12GB メモリ SSD 256GB Celeron プロセッサー 最大2.6GHZ FHD1080P IPS非光沢液晶 ウェブカメラ付き 静音動作 軽量薄型 laptop 1.5kg/WIFI5/BT5.0/USB 3.0/HDポート/テンキー ラップトップ 学生向け 仕事用 学習用 シルバー",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 9665418.71,
+      "t30d_units": 278.0
+    },
+    {
+      "asin": "B0GHRSJT8Y",
+      "item_name": "【ノートパソコン Office2024搭載 Win11 Pro】15.6インチ パソコン Core m3-8100Y 最大3.4GHz 8GB メモリ 256GB SSD ノートパソコン 1.6kg 薄型 軽量 FHD 1920×1080 英語キーボード ノートpc テンキー付き/WiFi5/BT5/Webカメラ/USB3.0/HDポート 在宅勤務 テレワーク 学生向け laptop グレー",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 1015933.33,
+      "t30d_units": 23.0
+    },
+    {
+      "asin": "B0F4783RL2",
+      "item_name": "【ノートパソコン Office2024搭載 Win11 Pro】15.6インチ パソコン Core m3-8100Y 最大3.4GHz 16GB メモリ 512GB SSD ノートパソコン 1.6kg 薄型 軽量 FHD 1920×1080 英語キーボード ノートpc テンキー付き/WiFi5/BT5/Webカメラ/USB3.0/HDポート 在宅勤務 テレワーク 学生向け laptop グレー",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 26946009.82,
+      "t30d_units": 549.0
+    },
+    {
+      "asin": "B0G7CWJBLR",
+      "item_name": "ノートパソコン Office搭載 パソコン Win 11 Pro 15.6インチ ノートPC 16GB メモリ SSD 256GB 4425Y FHD1080P IPS非光沢液晶 ウェブカメラ付き 静音動作 軽量薄型 laptop 1.5kg/WIFI5/BT5/USB 3.0/HDポート/テンキー ラップトップ 学生向け 仕事用 学習用 シルバー",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

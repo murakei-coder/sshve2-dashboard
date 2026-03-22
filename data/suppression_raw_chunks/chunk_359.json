@@ -1,1 +1,67 @@
-{"701870264": [{"asin": "B0CVLFD8TD", "item_name": "おから米粉クッキー 56枚 ココナッツパック 低糖質 お菓子 グルテンフリー おやつ ギフト", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 14878.0, "t30d_units": 6.0}, {"asin": "B0CVLD6VVW", "item_name": "おから米粉クッキー 56枚 ココナッツとプレーンのmixパック 低糖質 お菓子 グルテンフリー おやつ ギフト", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 27540.66, "t30d_units": 12.0}, {"asin": "B0CVL8VG9F", "item_name": "おから米粉クッキー 56枚 ココアとプレーンのmixパック 低糖質 お菓子 グルテンフリー おやつ ギフト", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 167985.08, "t30d_units": 72.0}, {"asin": "B0CVLFFWX8", "item_name": "おから米粉クッキー 56枚 いちごとプレーンのmixパック 低糖質 お菓子 グルテンフリー おやつ ギフト", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 55298.33, "t30d_units": 24.0}, {"asin": "B0D2S7YK8P", "item_name": "おから米粉クッキー 52枚 プレーンパック 低糖質 お菓子 グルテンフリー おやつ ギフト", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 27955.33, "t30d_units": 14.0}, {"asin": "B0G31TLGQ8", "item_name": "おから米粉クッキー 85枚 BBパック 低糖質 お菓子 グルテンフリー おやつ ダイエット", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 175641.39, "t30d_units": 64.0}, {"asin": "B0CZGV55Y1", "item_name": "おから米粉クッキー 56枚 黒ごまとプレーンのmixパック 低糖質 お菓子 グルテンフリー おやつ ギフト", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 27830.0, "t30d_units": 12.0}]}
+{
+  "701870264": [
+    {
+      "asin": "B0CVLFD8TD",
+      "item_name": "おから米粉クッキー 56枚 ココナッツパック 低糖質 お菓子 グルテンフリー おやつ ギフト",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 14878.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0CVLD6VVW",
+      "item_name": "おから米粉クッキー 56枚 ココナッツとプレーンのmixパック 低糖質 お菓子 グルテンフリー おやつ ギフト",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 27540.66,
+      "t30d_units": 12.0
+    },
+    {
+      "asin": "B0CVL8VG9F",
+      "item_name": "おから米粉クッキー 56枚 ココアとプレーンのmixパック 低糖質 お菓子 グルテンフリー おやつ ギフト",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 167985.08,
+      "t30d_units": 72.0
+    },
+    {
+      "asin": "B0CVLFFWX8",
+      "item_name": "おから米粉クッキー 56枚 いちごとプレーンのmixパック 低糖質 お菓子 グルテンフリー おやつ ギフト",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 55298.33,
+      "t30d_units": 24.0
+    },
+    {
+      "asin": "B0D2S7YK8P",
+      "item_name": "おから米粉クッキー 52枚 プレーンパック 低糖質 お菓子 グルテンフリー おやつ ギフト",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 27955.33,
+      "t30d_units": 14.0
+    },
+    {
+      "asin": "B0G31TLGQ8",
+      "item_name": "おから米粉クッキー 85枚 BBパック 低糖質 お菓子 グルテンフリー おやつ ダイエット",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 175641.39,
+      "t30d_units": 64.0
+    },
+    {
+      "asin": "B0CZGV55Y1",
+      "item_name": "おから米粉クッキー 56枚 黒ごまとプレーンのmixパック 低糖質 お菓子 グルテンフリー おやつ ギフト",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 27830.0,
+      "t30d_units": 12.0
+    }
+  ]
+}

@@ -1,1 +1,94 @@
-{"78879515422": [{"asin": "B0BGS9X3PX", "item_name": "HOTEL CAMPS (ホテルキャンプス) コットカバー ボア 3層断熱アルミシート リバーシブル キャンプ アウトドア用ブランケット 兼用 丸洗い可 (カーキブラウン)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 69859.33, "t30d_units": 7.0}, {"asin": "B0BGSBCS6H", "item_name": "【HOTEL CAMPS】 キャンプ用 インフレータブル スリーピングパッド 8cm｜アウトドアマット｜自動膨張式｜軽量・携帯型｜テント泊・車中泊・登山対応 キャンプギア ｜ホテルキャンプス (ブラック)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 83640.0, "t30d_units": 12.0}, {"asin": "B0C6TMTHP2", "item_name": "HOTEL CAMPS (ホテルキャンプス) アウトドア ホットブランケット シュラフ 5層断熱 アルミシート リバーシブル 丸洗い可 寝袋 (カーキブラウン)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 63872.0, "t30d_units": 5.0}, {"asin": "B0BGS7XJBM", "item_name": "【HOTEL CAMPS】 キャンプ用 インフレータブル スリーピングパッド 8cm｜アウトドアマット｜自動膨張式｜軽量・携帯型｜テント泊・車中泊・登山対応 キャンプギア ｜ホテルキャンプス (コヨーテタン)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 48790.0, "t30d_units": 7.0}, {"asin": "B0CTMT6PZM", "item_name": "HOTEL CAMPS (ホテルキャンプス) ホット スリーピングバッグ【一年保証】寝袋 シェラフ キャンプ アウトドア オールシーズン 封筒型 コンパクト 洗える 冬キャンプ 4層断熱 アルミシート 車中泊 掛け布団 (ブラック)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 110400.0, "t30d_units": 8.0}, {"asin": "B0DDWZT6HG", "item_name": "HOTEL CAMPS (ホテルキャンプス) フォールディング ソフトクーラー 32リットル【一年保証】クーラーボックス ソフトタイプ ソフトクーラー 折りたたみ ファミリーキャンプ アウトドア 2〜4人用 (ウルフグレー)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0C2P89R16", "item_name": "HOTEL CAMPS (ホテルキャンプス) コットカバー ボア 3層断熱アルミシート リバーシブル ブランケット 兼用 丸洗い可 (ブラック)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 39920.0, "t30d_units": 4.0}, {"asin": "B0CTMTBMRB", "item_name": "HOTEL CAMPS (ホテルキャンプス) ホット スリーピングバッグ【一年保証】寝袋 シェラフ キャンプ アウトドア オールシーズン 封筒型 コンパクト 洗える 冬キャンプ 4層断熱 アルミシート 車中泊 掛け布団 (サンドカーキ)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 69000.0, "t30d_units": 5.0}, {"asin": "B0BTNWF9VY", "item_name": "HOTEL CAMPS ブラック アウトドアストラップ スマホストラップ ショルダーストラップ ネックストラップ 斜めがけ キャンプ iphone Android", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "L&L", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0C6TLHTRK", "item_name": "HOTEL CAMPS (ホテルキャンプス) アウトドア ホットブランケット シュラフ 5層断熱 アルミシート リバーシブル 丸洗い可 寝袋 (ブラック×ブラック)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 76800.0, "t30d_units": 6.0}]}
+{
+  "78879515422": [
+    {
+      "asin": "B0BGS9X3PX",
+      "item_name": "HOTEL CAMPS (ホテルキャンプス) コットカバー ボア 3層断熱アルミシート リバーシブル キャンプ アウトドア用ブランケット 兼用 丸洗い可 (カーキブラウン)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 69859.33,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0BGSBCS6H",
+      "item_name": "【HOTEL CAMPS】 キャンプ用 インフレータブル スリーピングパッド 8cm｜アウトドアマット｜自動膨張式｜軽量・携帯型｜テント泊・車中泊・登山対応 キャンプギア ｜ホテルキャンプス (ブラック)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 83640.0,
+      "t30d_units": 12.0
+    },
+    {
+      "asin": "B0C6TMTHP2",
+      "item_name": "HOTEL CAMPS (ホテルキャンプス) アウトドア ホットブランケット シュラフ 5層断熱 アルミシート リバーシブル 丸洗い可 寝袋 (カーキブラウン)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 63872.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0BGS7XJBM",
+      "item_name": "【HOTEL CAMPS】 キャンプ用 インフレータブル スリーピングパッド 8cm｜アウトドアマット｜自動膨張式｜軽量・携帯型｜テント泊・車中泊・登山対応 キャンプギア ｜ホテルキャンプス (コヨーテタン)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 48790.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0CTMT6PZM",
+      "item_name": "HOTEL CAMPS (ホテルキャンプス) ホット スリーピングバッグ【一年保証】寝袋 シェラフ キャンプ アウトドア オールシーズン 封筒型 コンパクト 洗える 冬キャンプ 4層断熱 アルミシート 車中泊 掛け布団 (ブラック)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 110400.0,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B0DDWZT6HG",
+      "item_name": "HOTEL CAMPS (ホテルキャンプス) フォールディング ソフトクーラー 32リットル【一年保証】クーラーボックス ソフトタイプ ソフトクーラー 折りたたみ ファミリーキャンプ アウトドア 2〜4人用 (ウルフグレー)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0C2P89R16",
+      "item_name": "HOTEL CAMPS (ホテルキャンプス) コットカバー ボア 3層断熱アルミシート リバーシブル ブランケット 兼用 丸洗い可 (ブラック)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 39920.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0CTMTBMRB",
+      "item_name": "HOTEL CAMPS (ホテルキャンプス) ホット スリーピングバッグ【一年保証】寝袋 シェラフ キャンプ アウトドア オールシーズン 封筒型 コンパクト 洗える 冬キャンプ 4層断熱 アルミシート 車中泊 掛け布団 (サンドカーキ)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 69000.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0BTNWF9VY",
+      "item_name": "HOTEL CAMPS ブラック アウトドアストラップ スマホストラップ ショルダーストラップ ネックストラップ 斜めがけ キャンプ iphone Android",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "L&L",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0C6TLHTRK",
+      "item_name": "HOTEL CAMPS (ホテルキャンプス) アウトドア ホットブランケット シュラフ 5層断熱 アルミシート リバーシブル 丸洗い可 寝袋 (ブラック×ブラック)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 76800.0,
+      "t30d_units": 6.0
+    }
+  ]
+}

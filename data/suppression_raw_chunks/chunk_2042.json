@@ -1,1 +1,94 @@
-{"6480418755": [{"asin": "B00KXWEP2Y", "item_name": "【季月・キサラギ】和牛 牛肉 肉 A5等級 黒毛和牛切り落とし すき焼き 焼きしゃぶ 400ｇ×1パック お取り寄せ グルメギフト", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 592331.0, "t30d_units": 177.0}, {"asin": "B097ZRD28L", "item_name": "【季月・キサラギ】 ホルモン バーベキュー BBQ 焼肉 肉 牛肉 和牛 味付けトロホルモン もつ 小腸 メガ盛り 1kg（200g×5パック）", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 9999.0, "t30d_units": 1.0}, {"asin": "B09GJMTWZN", "item_name": "【季月・キサラギ】黒豚バラ ロース しゃぶしゃぶセット 弊社オリジナル黄金出汁付き 400g 200gでシート区切り ギフト", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B00KXWESYY", "item_name": "【季月・キサラギ】ハンバーグ 冷凍 牛肉 肉惣菜 150g×7個セット 黄金比ビーフハンバーグ お取り寄せ 贈り物 ギフト", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 78190.0, "t30d_units": 22.0}, {"asin": "B09GK5DGZ2", "item_name": "【季月・キサラギ】 黒豚バラ ロース しゃぶしゃぶセット 弊社オリジナル黄金出汁付き 800g (400g×2パック)200gでシート区切り ギフト", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B00KXWEU42", "item_name": "【季月・キサラギ】ハンバーグ 冷凍 牛肉 肉惣菜 黄金比ビーフハンバーグ お取り寄せ 贈り物 ギフト (150g×14個)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 51847.0, "t30d_units": 9.0}, {"asin": "B00KXWF3PM", "item_name": "【季月・キサラギ】博多もつ鍋セット しょうゆ味 国産もつ600g使用 メガ盛りもつ鍋セット ギフト", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 503642.0, "t30d_units": 125.0}, {"asin": "B00KXWF8KM", "item_name": "【季月・キサラギ】和牛 牛肉 肉 A5等級 黒毛和牛切り落とし すき焼き 焼きしゃぶ 800g 400ｇ×2パック お取り寄せ グルメ ギフト", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 722403.0, "t30d_units": 133.0}, {"asin": "B00KXWENS0", "item_name": "【季月・キサラギ】和牛 牛肉 肉 すき焼き A5等級 黒毛和牛 霜降り肩ローススライス クラシタ ハネシタ シート巻き 500g しゃぶしゃぶ ギフト", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 28500.0, "t30d_units": 5.0}, {"asin": "B0851Z9SB5", "item_name": "【季月・キサラギ】和牛 牛肉 肉 A5等級 黒毛和牛切り落とし すき焼き 焼きしゃぶ 1200g 400ｇ×3パック お取り寄せ グルメ ギフト", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 1914288.5, "t30d_units": 272.0}]}
+{
+  "6480418755": [
+    {
+      "asin": "B00KXWEP2Y",
+      "item_name": "【季月・キサラギ】和牛 牛肉 肉 A5等級 黒毛和牛切り落とし すき焼き 焼きしゃぶ 400ｇ×1パック お取り寄せ グルメギフト",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 592331.0,
+      "t30d_units": 177.0
+    },
+    {
+      "asin": "B097ZRD28L",
+      "item_name": "【季月・キサラギ】 ホルモン バーベキュー BBQ 焼肉 肉 牛肉 和牛 味付けトロホルモン もつ 小腸 メガ盛り 1kg（200g×5パック）",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 9999.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B09GJMTWZN",
+      "item_name": "【季月・キサラギ】黒豚バラ ロース しゃぶしゃぶセット 弊社オリジナル黄金出汁付き 400g 200gでシート区切り ギフト",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B00KXWESYY",
+      "item_name": "【季月・キサラギ】ハンバーグ 冷凍 牛肉 肉惣菜 150g×7個セット 黄金比ビーフハンバーグ お取り寄せ 贈り物 ギフト",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 78190.0,
+      "t30d_units": 22.0
+    },
+    {
+      "asin": "B09GK5DGZ2",
+      "item_name": "【季月・キサラギ】 黒豚バラ ロース しゃぶしゃぶセット 弊社オリジナル黄金出汁付き 800g (400g×2パック)200gでシート区切り ギフト",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B00KXWEU42",
+      "item_name": "【季月・キサラギ】ハンバーグ 冷凍 牛肉 肉惣菜 黄金比ビーフハンバーグ お取り寄せ 贈り物 ギフト (150g×14個)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 51847.0,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B00KXWF3PM",
+      "item_name": "【季月・キサラギ】博多もつ鍋セット しょうゆ味 国産もつ600g使用 メガ盛りもつ鍋セット ギフト",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 503642.0,
+      "t30d_units": 125.0
+    },
+    {
+      "asin": "B00KXWF8KM",
+      "item_name": "【季月・キサラギ】和牛 牛肉 肉 A5等級 黒毛和牛切り落とし すき焼き 焼きしゃぶ 800g 400ｇ×2パック お取り寄せ グルメ ギフト",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 722403.0,
+      "t30d_units": 133.0
+    },
+    {
+      "asin": "B00KXWENS0",
+      "item_name": "【季月・キサラギ】和牛 牛肉 肉 すき焼き A5等級 黒毛和牛 霜降り肩ローススライス クラシタ ハネシタ シート巻き 500g しゃぶしゃぶ ギフト",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 28500.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0851Z9SB5",
+      "item_name": "【季月・キサラギ】和牛 牛肉 肉 A5等級 黒毛和牛切り落とし すき焼き 焼きしゃぶ 1200g 400ｇ×3パック お取り寄せ グルメ ギフト",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 1914288.5,
+      "t30d_units": 272.0
+    }
+  ]
+}

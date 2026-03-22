@@ -1,1 +1,40 @@
-{"42967202822": [{"asin": "B0CX97CZT5", "item_name": "Kuulaa MagSaf パワーバンク 10000 mAh、20W 超スリムパワーバンク、磁気外部バッテリー、ワイヤレス外部バッテリー MagSafe iPhone 17/16/15/14/13 Pro Max/Pro と互換性あり スペースグレイ (スペースグレー, 10000mAh)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 15196.0, "t30d_units": 4.0}, {"asin": "B0DZ6WCB6R", "item_name": "Kuulaa モバイルバッテリー マグセーフ薄型 小型 軽量(史上最薄7mm, 5000mAh)【MagSafe対応マグネット式/タイプC PD20W/iPhone12~17対応】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 92144.08, "t30d_units": 34.0}, {"asin": "B0CX91Z61C", "item_name": "Kuulaa モバイルバッテリー マグセーフ薄型 小型 軽量(史上最薄10.7mm, 10000mAh)【MagSafe対応マグネット式/タイプC PD20W/iPhone12~17対応】PSE認証", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 18526.0, "t30d_units": 6.0}, {"asin": "B0DL55WHBT", "item_name": "Kuulaa モバイルバッテリー マグセーフ薄型 小型 軽量(史上最薄7mm, 5000mAh)【MagSafe対応マグネット式/タイプC PD20W/iPhone12~16対応】PSE認証", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 70663.66, "t30d_units": 25.0}]}
+{
+  "42967202822": [
+    {
+      "asin": "B0CX97CZT5",
+      "item_name": "Kuulaa MagSaf パワーバンク 10000 mAh、20W 超スリムパワーバンク、磁気外部バッテリー、ワイヤレス外部バッテリー MagSafe iPhone 17/16/15/14/13 Pro Max/Pro と互換性あり スペースグレイ (スペースグレー, 10000mAh)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 15196.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0DZ6WCB6R",
+      "item_name": "Kuulaa モバイルバッテリー マグセーフ薄型 小型 軽量(史上最薄7mm, 5000mAh)【MagSafe対応マグネット式/タイプC PD20W/iPhone12~17対応】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 92144.08,
+      "t30d_units": 34.0
+    },
+    {
+      "asin": "B0CX91Z61C",
+      "item_name": "Kuulaa モバイルバッテリー マグセーフ薄型 小型 軽量(史上最薄10.7mm, 10000mAh)【MagSafe対応マグネット式/タイプC PD20W/iPhone12~17対応】PSE認証",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 18526.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0DL55WHBT",
+      "item_name": "Kuulaa モバイルバッテリー マグセーフ薄型 小型 軽量(史上最薄7mm, 5000mAh)【MagSafe対応マグネット式/タイプC PD20W/iPhone12~16対応】PSE認証",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 70663.66,
+      "t30d_units": 25.0
+    }
+  ]
+}

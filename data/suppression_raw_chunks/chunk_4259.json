@@ -1,1 +1,40 @@
-{"8822513345": [{"asin": "B0FGXPKP42", "item_name": "グラモウディーズ (訳あり/自宅用)ベーシックマカロン18個(冷凍) マカロン ギフト お中元 プレゼント 神戸 人気 洋菓子 お菓子 詰め合わせ 内祝い 手土産 スイーツ 誕生日 おしゃれ クリーム 女性", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 178964.0, "t30d_units": 50.0}, {"asin": "B01B916HAA", "item_name": "ホワイトデー お返し グラモウディーズ ベーシックマカロン6個 （冷凍） マカロン ギフト お中元 プレゼント 神戸 人気 洋菓子 お菓子 詰め合わせ 内祝い 手土産 スイーツ 誕生日 おしゃれ クリーム 女性", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 526550.0, "t30d_units": 183.0}, {"asin": "B01B916I7W", "item_name": "ホワイトデー お返し グラモウディーズ ベーシックマカロン12個 （冷凍）マカロン ギフト お中元 プレゼント 神戸 人気 洋菓子 お菓子 詰め合わせ 内祝い 手土産 スイーツ 誕生日 おしゃれ クリーム 女性", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 876810.0, "t30d_units": 205.0}, {"asin": "B01B916K7K", "item_name": "グラモウディーズ ベーシックマカロン24個 （冷凍） マカロン ギフト プレゼント 神戸 人気 洋菓子 お菓子 詰め合せ 内祝い 手土産 スイーツ 誕生日 おしゃれ", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 87666.0, "t30d_units": 12.0}]}
+{
+  "8822513345": [
+    {
+      "asin": "B0FGXPKP42",
+      "item_name": "グラモウディーズ (訳あり/自宅用)ベーシックマカロン18個(冷凍) マカロン ギフト お中元 プレゼント 神戸 人気 洋菓子 お菓子 詰め合わせ 内祝い 手土産 スイーツ 誕生日 おしゃれ クリーム 女性",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 178964.0,
+      "t30d_units": 50.0
+    },
+    {
+      "asin": "B01B916HAA",
+      "item_name": "ホワイトデー お返し グラモウディーズ ベーシックマカロン6個 （冷凍） マカロン ギフト お中元 プレゼント 神戸 人気 洋菓子 お菓子 詰め合わせ 内祝い 手土産 スイーツ 誕生日 おしゃれ クリーム 女性",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 526550.0,
+      "t30d_units": 183.0
+    },
+    {
+      "asin": "B01B916I7W",
+      "item_name": "ホワイトデー お返し グラモウディーズ ベーシックマカロン12個 （冷凍）マカロン ギフト お中元 プレゼント 神戸 人気 洋菓子 お菓子 詰め合わせ 内祝い 手土産 スイーツ 誕生日 おしゃれ クリーム 女性",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 876810.0,
+      "t30d_units": 205.0
+    },
+    {
+      "asin": "B01B916K7K",
+      "item_name": "グラモウディーズ ベーシックマカロン24個 （冷凍） マカロン ギフト プレゼント 神戸 人気 洋菓子 お菓子 詰め合せ 内祝い 手土産 スイーツ 誕生日 おしゃれ",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 87666.0,
+      "t30d_units": 12.0
+    }
+  ]
+}

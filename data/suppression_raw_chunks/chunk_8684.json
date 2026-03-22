@@ -1,1 +1,22 @@
-{"66175719122": [{"asin": "B0BWYLXY1Y", "item_name": "【防災士監修 雑誌掲載品】みんなのトイレ 簡易トイレ 携帯トイレ 災害用トイレ 防災トイレ 非常用 防災グッズ 防災ガイドブック付き", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 71824.25, "t30d_units": 22.0}, {"asin": "B0DX1SWYT1", "item_name": "【防災士監修 雑誌掲載品】みんなのトイレ 簡易トイレ 携帯トイレ 災害用トイレ 防災トイレ 非常用 防災グッズ 防災ガイドブック付き", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 59500.66, "t30d_units": 10.0}]}
+{
+  "66175719122": [
+    {
+      "asin": "B0BWYLXY1Y",
+      "item_name": "【防災士監修 雑誌掲載品】みんなのトイレ 簡易トイレ 携帯トイレ 災害用トイレ 防災トイレ 非常用 防災グッズ 防災ガイドブック付き",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 71824.25,
+      "t30d_units": 22.0
+    },
+    {
+      "asin": "B0DX1SWYT1",
+      "item_name": "【防災士監修 雑誌掲載品】みんなのトイレ 簡易トイレ 携帯トイレ 災害用トイレ 防災トイレ 非常用 防災グッズ 防災ガイドブック付き",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 59500.66,
+      "t30d_units": 10.0
+    }
+  ]
+}

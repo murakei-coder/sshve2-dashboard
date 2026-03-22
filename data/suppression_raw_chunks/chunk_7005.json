@@ -1,1 +1,31 @@
-{"45994124522": [{"asin": "B0F42J7D3C", "item_name": "耕運機 家庭用 充電式耕うん機 (耕幅255mm/耕深220mm)2個4Ahバッテリー 18v互換 850W強力ブラシレスモーター 電動 ミニ耕運機 小型 軽量 女性でも簡単操作 カルチベーター PSE認証を取得した 無段階変速(バッテリー式・コードレス・伸縮・折りたたみ式収納便利・組み立ても簡単・刃の耐久性強) 家庭菜園", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 7291532.66, "t30d_units": 365.0}, {"asin": "B0GHMS3G7R", "item_name": "【2026年高性能強化版】高速 チェーンソー 充電式 12インチ 急速充電器付 BL18v電池互換 【1100W強力ブラシレスモーター・14.6 m/s高チェーン速度・62dB低ノイズ・切断径350mm・LED表示】4000mAhバッテリー2個 1.6kg軽量 コードレス 片手 自動給油免工具チェーン調整 ポータブル収納箱付きDIY庭木の剪定 薪作&", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 844939.33, "t30d_units": 61.0}, {"asin": "B0FYF2NWHM", "item_name": "電動剪定バサミ【Amazon限定ブランド】電動バサミ2026年人気モデル 切断径40mmのコードレス充電式剪定バサミ 2段階開き角度調節可PSE認証取得済み マキタ18V互換 切断回数と残量表示ディスプレー 切れ味良い剪定鋏 植木 盆栽 庭木/枝切り/果樹用 園芸用剪定用具 軽量 ケース付 日本語取扱説明書付き", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 2483276.08, "t30d_units": 147.0}]}
+{
+  "45994124522": [
+    {
+      "asin": "B0F42J7D3C",
+      "item_name": "耕運機 家庭用 充電式耕うん機 (耕幅255mm/耕深220mm)2個4Ahバッテリー 18v互換 850W強力ブラシレスモーター 電動 ミニ耕運機 小型 軽量 女性でも簡単操作 カルチベーター PSE認証を取得した 無段階変速(バッテリー式・コードレス・伸縮・折りたたみ式収納便利・組み立ても簡単・刃の耐久性強) 家庭菜園",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 7291532.66,
+      "t30d_units": 365.0
+    },
+    {
+      "asin": "B0GHMS3G7R",
+      "item_name": "【2026年高性能強化版】高速 チェーンソー 充電式 12インチ 急速充電器付 BL18v電池互換 【1100W強力ブラシレスモーター・14.6 m/s高チェーン速度・62dB低ノイズ・切断径350mm・LED表示】4000mAhバッテリー2個 1.6kg軽量 コードレス 片手 自動給油免工具チェーン調整 ポータブル収納箱付きDIY庭木の剪定 薪作&",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 844939.33,
+      "t30d_units": 61.0
+    },
+    {
+      "asin": "B0FYF2NWHM",
+      "item_name": "電動剪定バサミ【Amazon限定ブランド】電動バサミ2026年人気モデル 切断径40mmのコードレス充電式剪定バサミ 2段階開き角度調節可PSE認証取得済み マキタ18V互換 切断回数と残量表示ディスプレー 切れ味良い剪定鋏 植木 盆栽 庭木/枝切り/果樹用 園芸用剪定用具 軽量 ケース付 日本語取扱説明書付き",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 2483276.08,
+      "t30d_units": 147.0
+    }
+  ]
+}

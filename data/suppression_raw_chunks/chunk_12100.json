@@ -1,1 +1,22 @@
-{"727184968902": [{"asin": "B006J0YG50", "item_name": "ビタクラフト ケトル2L(つや消し仕上げ) 1230", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 61600.0, "t30d_units": 4.0}, {"asin": "B00DYNEZ92", "item_name": "ビタクラフト プロ フライパン 24.0cm", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 215997.8, "t30d_units": 15.0}]}
+{
+  "727184968902": [
+    {
+      "asin": "B006J0YG50",
+      "item_name": "ビタクラフト ケトル2L(つや消し仕上げ) 1230",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 61600.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B00DYNEZ92",
+      "item_name": "ビタクラフト プロ フライパン 24.0cm",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 215997.8,
+      "t30d_units": 15.0
+    }
+  ]
+}

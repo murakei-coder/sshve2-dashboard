@@ -1,1 +1,31 @@
-{"49081027022": [{"asin": "B0D8XGYZ8L", "item_name": "Portta ビデオキャプチャー VHSデータ化 ビデオ ビデオデジタル機 デジタル保存 ビデオテープ テープダビング モ ミニエディション - ビデオレコーダー VHS テープ AV RCA Hi8 ビデオカメラ DVD ゲームシステム", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 1662963.33, "t30d_units": 87.0}, {"asin": "B0FDVHWJ6W", "item_name": "PORTTA HDMI キャプチャーボード パススルー, 1080P60 低遅延, ストリーミングと録画、4K HD MI入力/ループ出力、USB 3.0 - PCビデオカメラ、PS4、PS5、Xbox、Nintendo Switch 2、OBSに対応", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 603956.46, "t30d_units": 177.0}, {"asin": "B0CD17C9NN", "item_name": "PORTTA 4K 60Hz HDMIマトリックス 4x2 4入力 2出力 スイッチスプリッター Toslink 3.5mmオーディオエクストラクター付き ARC 16種類のEDIDモード 4Kダウンスケール IRリモートサポート HDMI 2.0b HDCP 2.3/2.2 HDR 3D", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 385270.52, "t30d_units": 54.0}]}
+{
+  "49081027022": [
+    {
+      "asin": "B0D8XGYZ8L",
+      "item_name": "Portta ビデオキャプチャー VHSデータ化 ビデオ ビデオデジタル機 デジタル保存 ビデオテープ テープダビング モ ミニエディション - ビデオレコーダー VHS テープ AV RCA Hi8 ビデオカメラ DVD ゲームシステム",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 1662963.33,
+      "t30d_units": 87.0
+    },
+    {
+      "asin": "B0FDVHWJ6W",
+      "item_name": "PORTTA HDMI キャプチャーボード パススルー, 1080P60 低遅延, ストリーミングと録画、4K HD MI入力/ループ出力、USB 3.0 - PCビデオカメラ、PS4、PS5、Xbox、Nintendo Switch 2、OBSに対応",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 603956.46,
+      "t30d_units": 177.0
+    },
+    {
+      "asin": "B0CD17C9NN",
+      "item_name": "PORTTA 4K 60Hz HDMIマトリックス 4x2 4入力 2出力 スイッチスプリッター Toslink 3.5mmオーディオエクストラクター付き ARC 16種類のEDIDモード 4Kダウンスケール IRリモートサポート HDMI 2.0b HDCP 2.3/2.2 HDR 3D",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 385270.52,
+      "t30d_units": 54.0
+    }
+  ]
+}

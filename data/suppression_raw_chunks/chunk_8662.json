@@ -1,1 +1,103 @@
-{"65991480022": [{"asin": "B0CVKXS7PN", "item_name": "【公式ストア限定】KEURIG(キューリグ) 専用カプセル コーヒー バラエティセット 6箱 72杯分", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 161008.0, "t30d_units": 14.0}, {"asin": "B0B76LH64T", "item_name": "【キューリグ公式】KEURIG (キューリグ) K-Cup 中煎りコーヒー カプセル 8箱セット 96杯分 上島珈琲店 プロント ヒルス キューリグ", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 63360.0, "t30d_units": 5.0}, {"asin": "B0C93NG96S", "item_name": "KEURIG（キューリグ）カプセル式コーヒーメーカー & カプセルセット BS240 ネオブラック K-CUP専用 一杯抽出 (アソート2箱セット)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 83120.0, "t30d_units": 4.0}, {"asin": "B0B632J14G", "item_name": "【キューリグ公式】KEURIG (キューリグ) K-Cup 浅煎りコーヒー カプセル 4箱セット 48杯分 小川珈琲 トミヤコーヒー キューリグ 有機栽培珈琲 キリマンジァロAA100%", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 137654.0, "t30d_units": 21.0}, {"asin": "B0B67MQ6SC", "item_name": "【キューリグ公式】KEURIG (キューリグ) K-Cup 深煎りコーヒー カプセル 4箱セット 48杯分 サンマルク カフェドクリエ キューリグ カフェグレコ", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 278290.0, "t30d_units": 42.0}, {"asin": "B0B76TPZ87", "item_name": "【キューリグ公式】KEURIG (キューリグ) K-Cup コーヒー＆ティー カプセル バラエティ4箱セット 48杯分 上島珈琲店 キューリグ リプトン 辻利", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 61576.0, "t30d_units": 9.0}, {"asin": "B0C93P75RS", "item_name": "KEURIG（キューリグ）カプセル式コーヒーメーカー & カプセルセット BS240 ネオブラック K-CUP専用 一杯抽出 (アソート1箱セット)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0B67NJ57N", "item_name": "【キューリグ公式】KEURIG (キューリグ) K-Cup 中煎りコーヒー カプセル 4箱セット 48杯分 上島珈琲店 プロント ヒルス キューリグ", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 238810.0, "t30d_units": 36.0}, {"asin": "B0CVKMSWJT", "item_name": "【公式ストア限定】KEURIG(キューリグ) 専用カプセル コーヒー スペシャルセット 6箱 72杯分 Kカップツリー付", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0CVKYZV7L", "item_name": "【公式ストア限定】KEURIG キューリグ コーヒーカプセル 人気コーヒーバラエティセット 6箱 72杯分", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 53900.0, "t30d_units": 5.0}, {"asin": "B0B67QNFGR", "item_name": "【キューリグ公式】KEURIG (キューリグ) K-Cup コーヒー＆ティーカプセル 8箱セット 96杯分 上島珈琲店 丸山珈琲 小川珈琲 プロント カフェド・クリエ キューリグオリジナル リプトン 辻利", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 13800.0, "t30d_units": 1.0}]}
+{
+  "65991480022": [
+    {
+      "asin": "B0CVKXS7PN",
+      "item_name": "【公式ストア限定】KEURIG(キューリグ) 専用カプセル コーヒー バラエティセット 6箱 72杯分",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 161008.0,
+      "t30d_units": 14.0
+    },
+    {
+      "asin": "B0B76LH64T",
+      "item_name": "【キューリグ公式】KEURIG (キューリグ) K-Cup 中煎りコーヒー カプセル 8箱セット 96杯分 上島珈琲店 プロント ヒルス キューリグ",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 63360.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0C93NG96S",
+      "item_name": "KEURIG（キューリグ）カプセル式コーヒーメーカー & カプセルセット BS240 ネオブラック K-CUP専用 一杯抽出 (アソート2箱セット)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 83120.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0B632J14G",
+      "item_name": "【キューリグ公式】KEURIG (キューリグ) K-Cup 浅煎りコーヒー カプセル 4箱セット 48杯分 小川珈琲 トミヤコーヒー キューリグ 有機栽培珈琲 キリマンジァロAA100%",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 137654.0,
+      "t30d_units": 21.0
+    },
+    {
+      "asin": "B0B67MQ6SC",
+      "item_name": "【キューリグ公式】KEURIG (キューリグ) K-Cup 深煎りコーヒー カプセル 4箱セット 48杯分 サンマルク カフェドクリエ キューリグ カフェグレコ",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 278290.0,
+      "t30d_units": 42.0
+    },
+    {
+      "asin": "B0B76TPZ87",
+      "item_name": "【キューリグ公式】KEURIG (キューリグ) K-Cup コーヒー＆ティー カプセル バラエティ4箱セット 48杯分 上島珈琲店 キューリグ リプトン 辻利",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 61576.0,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B0C93P75RS",
+      "item_name": "KEURIG（キューリグ）カプセル式コーヒーメーカー & カプセルセット BS240 ネオブラック K-CUP専用 一杯抽出 (アソート1箱セット)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0B67NJ57N",
+      "item_name": "【キューリグ公式】KEURIG (キューリグ) K-Cup 中煎りコーヒー カプセル 4箱セット 48杯分 上島珈琲店 プロント ヒルス キューリグ",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 238810.0,
+      "t30d_units": 36.0
+    },
+    {
+      "asin": "B0CVKMSWJT",
+      "item_name": "【公式ストア限定】KEURIG(キューリグ) 専用カプセル コーヒー スペシャルセット 6箱 72杯分 Kカップツリー付",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0CVKYZV7L",
+      "item_name": "【公式ストア限定】KEURIG キューリグ コーヒーカプセル 人気コーヒーバラエティセット 6箱 72杯分",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 53900.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0B67QNFGR",
+      "item_name": "【キューリグ公式】KEURIG (キューリグ) K-Cup コーヒー＆ティーカプセル 8箱セット 96杯分 上島珈琲店 丸山珈琲 小川珈琲 プロント カフェド・クリエ キューリグオリジナル リプトン 辻利",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 13800.0,
+      "t30d_units": 1.0
+    }
+  ]
+}

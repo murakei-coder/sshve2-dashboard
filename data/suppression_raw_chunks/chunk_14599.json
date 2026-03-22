@@ -1,1 +1,40 @@
-{"1013320780402": [{"asin": "B0DWY26DV6", "item_name": "口閉じテープ いびき対策 120回用 いびき防止テープ いびきの音を軽減 喉の乾燥防止 睡眠の質が高まります", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 1398.0, "t30d_units": 2.0}, {"asin": "B0DWY2F1M6", "item_name": "（300回用）口閉じテープ いびき対策 いびき防止テープ いびきの音を軽減 喉の乾燥防止 口呼吸防止テープ 睡眠改善 いびき防止グッズ", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 112473.05, "t30d_units": 151.0}, {"asin": "B0DWY3HR76", "item_name": "口閉じテープ いびき対策 いびき防止テープ 口呼吸防止テープ 60回用 いびきの音を軽減 喉の乾燥防止 睡眠改善 いびき防止グッズ", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 8114.13, "t30d_units": 14.0}, {"asin": "B0DWY2DF5Q", "item_name": "口閉じテープ 240回用 いびき防止テープ 鼻呼吸テープ いびき対策 いびきの音を軽減 睡眠の質が高まります いびき防止グッズ", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 6486.66, "t30d_units": 10.0}]}
+{
+  "1013320780402": [
+    {
+      "asin": "B0DWY26DV6",
+      "item_name": "口閉じテープ いびき対策 120回用 いびき防止テープ いびきの音を軽減 喉の乾燥防止 睡眠の質が高まります",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 1398.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0DWY2F1M6",
+      "item_name": "（300回用）口閉じテープ いびき対策 いびき防止テープ いびきの音を軽減 喉の乾燥防止 口呼吸防止テープ 睡眠改善 いびき防止グッズ",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 112473.05,
+      "t30d_units": 151.0
+    },
+    {
+      "asin": "B0DWY3HR76",
+      "item_name": "口閉じテープ いびき対策 いびき防止テープ 口呼吸防止テープ 60回用 いびきの音を軽減 喉の乾燥防止 睡眠改善 いびき防止グッズ",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 8114.13,
+      "t30d_units": 14.0
+    },
+    {
+      "asin": "B0DWY2DF5Q",
+      "item_name": "口閉じテープ 240回用 いびき防止テープ 鼻呼吸テープ いびき対策 いびきの音を軽減 睡眠の質が高まります いびき防止グッズ",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 6486.66,
+      "t30d_units": 10.0
+    }
+  ]
+}

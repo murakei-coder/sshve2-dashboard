@@ -1,1 +1,85 @@
-{"972471396802": [{"asin": "B0D6LLWK7T", "item_name": "【整備済み品】Apple iPad Pro 13 インチ (M4) Wi-Fi + Cellular 512GB スペースブラック", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 219240.0, "t30d_units": 1.0}, {"asin": "B0FKGQWFPQ", "item_name": "【整備済み品】Apple iPad mini (第7世代) A17 Pro Wi-Fi 6E + 5G 512GB スペースグレイ", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 598800.0, "t30d_units": 6.0}, {"asin": "B0DXF9QQGZ", "item_name": "【整備済み品】12.9インチiPad Pro(第4世代)用Smart Keyboard Folio - 日本語(JIS) MXNL2J/A", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 19800.0, "t30d_units": 1.0}, {"asin": "B0FVKM66LF", "item_name": "【整備済み品】Apple iPad Pro 11 インチ (M4) Wi-Fi 1TB Nano-textureガラス搭載 スペースブラック (整備済み品)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0D6LM3J6W", "item_name": "【整備済み品】Apple iPad Pro 11 インチ (M4) Wi-Fi + Cellular 2TB スペースブラック", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0FKGN6HJD", "item_name": "【整備済み品】Apple iPad mini (第7世代) A17 Pro Wi-Fi 6E + 5G 512GB パープル", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 399200.0, "t30d_units": 4.0}, {"asin": "B0D6LKXF53", "item_name": "【整備済み品】Apple iPad Pro 11 インチ (M4) Wi-Fi 512GB スペースブラック", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 178000.0, "t30d_units": 1.0}, {"asin": "B0D6LMZMRY", "item_name": "【整備済み品】Apple iPad Pro 11 インチ (M4) Wi-Fi + Cellular 1TB シルバー", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 387600.0, "t30d_units": 2.0}, {"asin": "B0D6LMLHPD", "item_name": "【整備済み品】Apple iPad Pro 11 インチ (M4) Wi-Fi 512GB シルバー", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "972471396802": [
+    {
+      "asin": "B0D6LLWK7T",
+      "item_name": "【整備済み品】Apple iPad Pro 13 インチ (M4) Wi-Fi + Cellular 512GB スペースブラック",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 219240.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0FKGQWFPQ",
+      "item_name": "【整備済み品】Apple iPad mini (第7世代) A17 Pro Wi-Fi 6E + 5G 512GB スペースグレイ",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 598800.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0DXF9QQGZ",
+      "item_name": "【整備済み品】12.9インチiPad Pro(第4世代)用Smart Keyboard Folio - 日本語(JIS) MXNL2J/A",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 19800.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0FVKM66LF",
+      "item_name": "【整備済み品】Apple iPad Pro 11 インチ (M4) Wi-Fi 1TB Nano-textureガラス搭載 スペースブラック (整備済み品)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0D6LM3J6W",
+      "item_name": "【整備済み品】Apple iPad Pro 11 インチ (M4) Wi-Fi + Cellular 2TB スペースブラック",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0FKGN6HJD",
+      "item_name": "【整備済み品】Apple iPad mini (第7世代) A17 Pro Wi-Fi 6E + 5G 512GB パープル",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 399200.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0D6LKXF53",
+      "item_name": "【整備済み品】Apple iPad Pro 11 インチ (M4) Wi-Fi 512GB スペースブラック",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 178000.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0D6LMZMRY",
+      "item_name": "【整備済み品】Apple iPad Pro 11 インチ (M4) Wi-Fi + Cellular 1TB シルバー",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 387600.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0D6LMLHPD",
+      "item_name": "【整備済み品】Apple iPad Pro 11 インチ (M4) Wi-Fi 512GB シルバー",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

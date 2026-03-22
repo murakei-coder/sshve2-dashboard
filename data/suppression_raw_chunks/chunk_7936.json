@@ -1,1 +1,40 @@
-{"57305680722": [{"asin": "B0D85MH5HR", "item_name": "柿壺 干し柿 国産 ドライフルーツ 西条柿 島根 常温 家庭用 ギフト ８玉・小玉", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 227350.0, "t30d_units": 92.0}, {"asin": "B0F2ST9FK8", "item_name": "柿壺 干し柿 国産 ドライフルーツ 西条柿 島根 常温 ギフト お徳用 (8玉×3袋・小玉)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 6840.0, "t30d_units": 1.0}, {"asin": "B09XQQQTYV", "item_name": "柿壺 干し柿 ドライフルーツ 国産 無添加 砂糖不使用 小分け 甘柿 カット スライス 和菓子 常温 島根県産 (3袋×20g)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 14188.86, "t30d_units": 10.0}, {"asin": "B09SP47YTJ", "item_name": "柿壺 干し柿 ドライフルーツ 国産 無添加 砂糖不使用 小分け 甘柿 カット スライス 和菓子 常温 島根県産 (6袋×20g)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 27375.33, "t30d_units": 11.0}]}
+{
+  "57305680722": [
+    {
+      "asin": "B0D85MH5HR",
+      "item_name": "柿壺 干し柿 国産 ドライフルーツ 西条柿 島根 常温 家庭用 ギフト ８玉・小玉",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 227350.0,
+      "t30d_units": 92.0
+    },
+    {
+      "asin": "B0F2ST9FK8",
+      "item_name": "柿壺 干し柿 国産 ドライフルーツ 西条柿 島根 常温 ギフト お徳用 (8玉×3袋・小玉)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 6840.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B09XQQQTYV",
+      "item_name": "柿壺 干し柿 ドライフルーツ 国産 無添加 砂糖不使用 小分け 甘柿 カット スライス 和菓子 常温 島根県産 (3袋×20g)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 14188.86,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B09SP47YTJ",
+      "item_name": "柿壺 干し柿 ドライフルーツ 国産 無添加 砂糖不使用 小分け 甘柿 カット スライス 和菓子 常温 島根県産 (6袋×20g)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 27375.33,
+      "t30d_units": 11.0
+    }
+  ]
+}

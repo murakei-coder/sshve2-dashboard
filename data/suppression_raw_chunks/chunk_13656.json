@@ -1,1 +1,22 @@
-{"896629569702": [{"asin": "B0F79DK8CC", "item_name": "Tamodeix 紙幣カウンター 紙幣計数機 日本円、米ドル、ユーロの単一額面値カウントと偽札の検出をサポートします 簡単操作 日本語説明書 JP-1000", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 347185.25, "t30d_units": 38.0}, {"asin": "B0BK345HNH", "item_name": "Tamodeix ミニルーター 三つ爪チャック リューター 無段階変速 最大32,000回転/分 107ピース入り 保護カバー 補助ハンドル ケース付き 日本語取扱説明書付き", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 134004.0, "t30d_units": 29.0}]}
+{
+  "896629569702": [
+    {
+      "asin": "B0F79DK8CC",
+      "item_name": "Tamodeix 紙幣カウンター 紙幣計数機 日本円、米ドル、ユーロの単一額面値カウントと偽札の検出をサポートします 簡単操作 日本語説明書 JP-1000",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 347185.25,
+      "t30d_units": 38.0
+    },
+    {
+      "asin": "B0BK345HNH",
+      "item_name": "Tamodeix ミニルーター 三つ爪チャック リューター 無段階変速 最大32,000回転/分 107ピース入り 保護カバー 補助ハンドル ケース付き 日本語取扱説明書付き",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 134004.0,
+      "t30d_units": 29.0
+    }
+  ]
+}

@@ -1,1 +1,49 @@
-{"1112064423402": [{"asin": "B0GMQ69Z6G", "item_name": "スマホスタンド 超軽量 角度調整「折りたたみ・コンパクト」立て 台 卓上 机 一個セット つくえ 高度調整可能 デスク 滑り止め スマホ多機種対応", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 2198.0, "t30d_units": 2.0}, {"asin": "B0FS7HSC5D", "item_name": "スマホスタンド 高さ調整 スマホ立て コンパクト 1個セット 卓上 滑り止め 折り畳み 角度調整 iPhone/アンドロイドに対応", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0FCMKWNCY", "item_name": "防犯カメラ【2026最新進化・ペットカメラ】見守りカメラ 室内用 iphone対応 1080PフルHD みまもりカメラ 赤外線暗視 双方向通話 300万画素 スマホ対応 動作検知 監視カメラ 室内 家庭用 犬/猫/赤ちゃん/高齢者 見守り 家族共有 ベビーカメラ 遠隔操作 警報通知 24時間録画 超小型カメラ ネットワークカメ", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 14431731.84, "t30d_units": 4130.0}, {"asin": "B0FXXDH6GX", "item_name": "ハンディクリーナー 2025年最新型 【4WAY多機能・】空気抜き/入れ コードレス 高速充電 USB充電 省エネタイプ 軽量 フロア/カーペット/車内清掃 スタンド付属", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0FXXF3RGW", "item_name": "ハンディクリーナー コードレス【2025新モデル・強力モーター搭載】 マルチノズル4種付属 USB急速充電 軽量コンパクト USB充電 車内/キーボード/家具の掃除に適用", "suppression_reason": "[ITEM_RATING_LESS_THAN_THRESHOLD]", "suppression_category": "5.Others", "pf": "Total CE", "t30d_ops": 0.0, "t30d_units": 0.0}]}
+{
+  "1112064423402": [
+    {
+      "asin": "B0GMQ69Z6G",
+      "item_name": "スマホスタンド 超軽量 角度調整「折りたたみ・コンパクト」立て 台 卓上 机 一個セット つくえ 高度調整可能 デスク 滑り止め スマホ多機種対応",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 2198.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0FS7HSC5D",
+      "item_name": "スマホスタンド 高さ調整 スマホ立て コンパクト 1個セット 卓上 滑り止め 折り畳み 角度調整 iPhone/アンドロイドに対応",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0FCMKWNCY",
+      "item_name": "防犯カメラ【2026最新進化・ペットカメラ】見守りカメラ 室内用 iphone対応 1080PフルHD みまもりカメラ 赤外線暗視 双方向通話 300万画素 スマホ対応 動作検知 監視カメラ 室内 家庭用 犬/猫/赤ちゃん/高齢者 見守り 家族共有 ベビーカメラ 遠隔操作 警報通知 24時間録画 超小型カメラ ネットワークカメ",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 14431731.84,
+      "t30d_units": 4130.0
+    },
+    {
+      "asin": "B0FXXDH6GX",
+      "item_name": "ハンディクリーナー 2025年最新型 【4WAY多機能・】空気抜き/入れ コードレス 高速充電 USB充電 省エネタイプ 軽量 フロア/カーペット/車内清掃 スタンド付属",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0FXXF3RGW",
+      "item_name": "ハンディクリーナー コードレス【2025新モデル・強力モーター搭載】 マルチノズル4種付属 USB急速充電 軽量コンパクト USB充電 車内/キーボード/家具の掃除に適用",
+      "suppression_reason": "[ITEM_RATING_LESS_THAN_THRESHOLD]",
+      "suppression_category": "5.Others",
+      "pf": "Total CE",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    }
+  ]
+}

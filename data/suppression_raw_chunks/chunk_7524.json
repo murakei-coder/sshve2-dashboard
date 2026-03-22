@@ -1,1 +1,49 @@
-{"50766819222": [{"asin": "B0FLYQT7Y8", "item_name": "【10インチ wi-fiモデルAndroid15 初登場】VASOUN Touch 10 SE タブレット 10インチ、24GB+128GB+1TB TF拡張、薄型軽量 IPS大画面 1280×800解像度、8000mAh、Type-C充電、日本語説明書付属", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 10924.0, "t30d_units": 1.0}, {"asin": "B0DJX7RVDH", "item_name": "【Android 14 タブレット 10インチ wi-fiモデル Widevine L1対応】VASOUN Touch 10 Plus アンドロイド タブレット 8コアCPU 8GB(4+4拡張)+64GB+1TB拡張可能、5G WiFi、6000mAhバッテリー、1280*800 Type-C充電 Bluetooth5.0 日本語取扱説明書付属（グレー）", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 63911.66, "t30d_units": 8.0}, {"asin": "B0CYNZW6SZ", "item_name": "VASOUN TAB 16 12インチ Android 14 タブレット PC 16GB RAM+256GB ROM(2TB拡張可) 4G LTE 2K IPS画面 8000mAh 18W急速充電 13MPカメラ 日本語説明書付属", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0DLVXJZ46", "item_name": "11インチ Android 14 タブレット (Wi-Fi+4G LTE対応), 12GB RAM+128GB ROM+1TB拡張, FHD 1920x1200 Widevine L1, 8000mAh&18W急速充電, 8コアCPU, 専用レザーケース付き, SIMフリー, グレー", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0FY2KNBP6", "item_name": "【10インチ wi-fiモデルAndroid15 初登場】VASOUN TAB11 タブレット 10インチ、16GB+128GB+1TB TF拡張、薄型軽量 IPS大画面 1280×800解像度、8000mAh、Type-C充電、日本語説明書付属", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 11999.0, "t30d_units": 1.0}]}
+{
+  "50766819222": [
+    {
+      "asin": "B0FLYQT7Y8",
+      "item_name": "【10インチ wi-fiモデルAndroid15 初登場】VASOUN Touch 10 SE タブレット 10インチ、24GB+128GB+1TB TF拡張、薄型軽量 IPS大画面 1280×800解像度、8000mAh、Type-C充電、日本語説明書付属",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 10924.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0DJX7RVDH",
+      "item_name": "【Android 14 タブレット 10インチ wi-fiモデル Widevine L1対応】VASOUN Touch 10 Plus アンドロイド タブレット 8コアCPU 8GB(4+4拡張)+64GB+1TB拡張可能、5G WiFi、6000mAhバッテリー、1280*800 Type-C充電 Bluetooth5.0 日本語取扱説明書付属（グレー）",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 63911.66,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B0CYNZW6SZ",
+      "item_name": "VASOUN TAB 16 12インチ Android 14 タブレット PC 16GB RAM+256GB ROM(2TB拡張可) 4G LTE 2K IPS画面 8000mAh 18W急速充電 13MPカメラ 日本語説明書付属",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0DLVXJZ46",
+      "item_name": "11インチ Android 14 タブレット (Wi-Fi+4G LTE対応), 12GB RAM+128GB ROM+1TB拡張, FHD 1920x1200 Widevine L1, 8000mAh&18W急速充電, 8コアCPU, 専用レザーケース付き, SIMフリー, グレー",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0FY2KNBP6",
+      "item_name": "【10インチ wi-fiモデルAndroid15 初登場】VASOUN TAB11 タブレット 10インチ、16GB+128GB+1TB TF拡張、薄型軽量 IPS大画面 1280×800解像度、8000mAh、Type-C充電、日本語説明書付属",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 11999.0,
+      "t30d_units": 1.0
+    }
+  ]
+}

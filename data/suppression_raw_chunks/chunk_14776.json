@@ -1,1 +1,22 @@
-{"1038732351102": [{"asin": "B0DYD1GMM2", "item_name": "【 365日、素肌を慈しむ贅沢 】 rondo ロンド レッドクレイウォッシュプレミアム 洗顔フォーム 濃密弾力 90g ｜ フランス産レッドクレイ配合 エステ級洗顔 毛穴 潤い 素肌 泡立てネット付", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 3200.0, "t30d_units": 1.0}, {"asin": "B0DYZD243G", "item_name": "【 贅沢美容液マスク エイジングケア 】 rondo バイタル素肌セラム 25ml×1枚 ｜ 乾燥 たるみ 小じわ 対策 潤い ハリ 弾力 キメ 透明感 肌荒れ 集中ケア カルノシン バイカリン", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 155.0, "t30d_units": 0.0}]}
+{
+  "1038732351102": [
+    {
+      "asin": "B0DYD1GMM2",
+      "item_name": "【 365日、素肌を慈しむ贅沢 】 rondo ロンド レッドクレイウォッシュプレミアム 洗顔フォーム 濃密弾力 90g ｜ フランス産レッドクレイ配合 エステ級洗顔 毛穴 潤い 素肌 泡立てネット付",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 3200.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0DYZD243G",
+      "item_name": "【 贅沢美容液マスク エイジングケア 】 rondo バイタル素肌セラム 25ml×1枚 ｜ 乾燥 たるみ 小じわ 対策 潤い ハリ 弾力 キメ 透明感 肌荒れ 集中ケア カルノシン バイカリン",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 155.0,
+      "t30d_units": 0.0
+    }
+  ]
+}

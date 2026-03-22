@@ -1,1 +1,22 @@
-{"1150632233802": [{"asin": "B0G5K6PYF6", "item_name": "正規品 ステッキ チェアー ステッキチェア 自立式 座れる杖 折りたたみ杖 コンパクト 軽量 イス 椅子 三脚 歩行補助 介護 腰痛 休憩 旅行 アウトドア 釣り 運動会 敬老の日 お年寄り プレゼント", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 102693.46, "t30d_units": 51.0}, {"asin": "B0G2LPT5Y8", "item_name": "Newsones 車 ハンドル テーブル 取付カンタン 車内 デスク パソコン 食事 机 タブレット ドリンクホルダー 両面仕様", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 132037.99, "t30d_units": 137.0}]}
+{
+  "1150632233802": [
+    {
+      "asin": "B0G5K6PYF6",
+      "item_name": "正規品 ステッキ チェアー ステッキチェア 自立式 座れる杖 折りたたみ杖 コンパクト 軽量 イス 椅子 三脚 歩行補助 介護 腰痛 休憩 旅行 アウトドア 釣り 運動会 敬老の日 お年寄り プレゼント",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 102693.46,
+      "t30d_units": 51.0
+    },
+    {
+      "asin": "B0G2LPT5Y8",
+      "item_name": "Newsones 車 ハンドル テーブル 取付カンタン 車内 デスク パソコン 食事 机 タブレット ドリンクホルダー 両面仕様",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 132037.99,
+      "t30d_units": 137.0
+    }
+  ]
+}

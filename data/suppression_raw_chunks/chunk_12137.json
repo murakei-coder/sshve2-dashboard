@@ -1,1 +1,58 @@
-{"730872399002": [{"asin": "B0F49K23G9", "item_name": "長浜商店 もずく 沖縄 塩もずく 無添加 津堅島産 (300g×10袋+タレつき)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 34860.0, "t30d_units": 7.0}, {"asin": "B0DLGV84T1", "item_name": "長浜商店 ちんすこう 詰め合わせ 【たっぷり20種類150本以上】 沖縄土産 訳あり 沖縄 お土産 お菓子", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 478598.0, "t30d_units": 126.0}, {"asin": "B0FMDRJRN6", "item_name": "長浜商店 もずく 沖縄 塩もずく 無添加 津堅島産 (300gx3個)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 74000.0, "t30d_units": 50.0}, {"asin": "B0DLWQF83J", "item_name": "長浜商店 ちんすこう 詰め合わせ 【お試し版(20種以上、約45本)】 沖縄土産 訳あり 沖縄 お土産 お菓子", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 74239.66, "t30d_units": 49.0}, {"asin": "B0F5H8JLFM", "item_name": "長浜商店 ちんすこう 詰め合わせ 沖縄土産 訳あり 沖縄 お土産 お菓子 (約700本(350袋以上))", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 107580.0, "t30d_units": 9.0}, {"asin": "B0F48619C6", "item_name": "長浜商店 もずく 沖縄 塩もずく 無添加 津堅島産 (300g×2袋)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 55932.65, "t30d_units": 44.0}]}
+{
+  "730872399002": [
+    {
+      "asin": "B0F49K23G9",
+      "item_name": "長浜商店 もずく 沖縄 塩もずく 無添加 津堅島産 (300g×10袋+タレつき)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 34860.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0DLGV84T1",
+      "item_name": "長浜商店 ちんすこう 詰め合わせ 【たっぷり20種類150本以上】 沖縄土産 訳あり 沖縄 お土産 お菓子",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 478598.0,
+      "t30d_units": 126.0
+    },
+    {
+      "asin": "B0FMDRJRN6",
+      "item_name": "長浜商店 もずく 沖縄 塩もずく 無添加 津堅島産 (300gx3個)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 74000.0,
+      "t30d_units": 50.0
+    },
+    {
+      "asin": "B0DLWQF83J",
+      "item_name": "長浜商店 ちんすこう 詰め合わせ 【お試し版(20種以上、約45本)】 沖縄土産 訳あり 沖縄 お土産 お菓子",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 74239.66,
+      "t30d_units": 49.0
+    },
+    {
+      "asin": "B0F5H8JLFM",
+      "item_name": "長浜商店 ちんすこう 詰め合わせ 沖縄土産 訳あり 沖縄 お土産 お菓子 (約700本(350袋以上))",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 107580.0,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B0F48619C6",
+      "item_name": "長浜商店 もずく 沖縄 塩もずく 無添加 津堅島産 (300g×2袋)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 55932.65,
+      "t30d_units": 44.0
+    }
+  ]
+}

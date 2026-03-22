@@ -1,1 +1,22 @@
-{"1145183884402": [{"asin": "B0G7XXNH63", "item_name": "レシプロソー 充電式 電動ノコギリ4.0Ah大容量バッテリー2個 電動ノコギリ 21V 電動のこぎり 超強力 安全ロック 無段変速 残電量表示 軽量 小型 7本高炭素鋼替刃付き枝切り DIY 枝打 ち 竹を切る 庭木の剪定 金属切断 粗大ごみ切断 収納ケース付き 木材・金属切断 粗大ゴミ解体 一台多役 小型 軽量 家", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 3604079.26, "t30d_units": 437.0}, {"asin": "B0G3W4ZRP2", "item_name": "電動剪定バサミ【2026改良強化版】剪定バサミ ブラシレスモーター搭載 21V切断径42mmのコードレス充電式剪定バサミ 2段階開き角度調節可 マキタ18V互換 8000mAh（4000mAh*2個）大容量バッテリー付き 切断回数と残量表示ディスプレー 切れ味良い 日本語取扱説明書付き 人気 新モデル 剪定鋏", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 2352962.55, "t30d_units": 182.0}]}
+{
+  "1145183884402": [
+    {
+      "asin": "B0G7XXNH63",
+      "item_name": "レシプロソー 充電式 電動ノコギリ4.0Ah大容量バッテリー2個 電動ノコギリ 21V 電動のこぎり 超強力 安全ロック 無段変速 残電量表示 軽量 小型 7本高炭素鋼替刃付き枝切り DIY 枝打 ち 竹を切る 庭木の剪定 金属切断 粗大ごみ切断 収納ケース付き 木材・金属切断 粗大ゴミ解体 一台多役 小型 軽量 家",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 3604079.26,
+      "t30d_units": 437.0
+    },
+    {
+      "asin": "B0G3W4ZRP2",
+      "item_name": "電動剪定バサミ【2026改良強化版】剪定バサミ ブラシレスモーター搭載 21V切断径42mmのコードレス充電式剪定バサミ 2段階開き角度調節可 マキタ18V互換 8000mAh（4000mAh*2個）大容量バッテリー付き 切断回数と残量表示ディスプレー 切れ味良い 日本語取扱説明書付き 人気 新モデル 剪定鋏",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 2352962.55,
+      "t30d_units": 182.0
+    }
+  ]
+}

@@ -1,1 +1,94 @@
-{"7291604022": [{"asin": "B0FNMGJDFW", "item_name": "EC Hometec 揚げ物バスケット 4L大容量 フライヤー バスケット 四角 網かご 油切り 家庭用 業務用 後ろにフック付き", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 122864.83, "t30d_units": 47.0}, {"asin": "B0DBHCK6F7", "item_name": "EC Hometec 電動 オート テープカッター 業務用 自動テープディスペンサー 多機能 電動テープカッター マスキングテープ対応 2本カット対応 メモリー機能 作業効率UP 包装梱包作業に最適 （6-60 mmテープ適用）110V 日本語取扱説明書", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 489707.17, "t30d_units": 36.0}, {"asin": "B0DFYFRCJM", "item_name": "EC Hometec キッチン 補助テーブル 折りたたみ キッチン作業台 ステンレス 耐荷重5kg 引掛け式 浴室/事務室/車内などに適用", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 80799.91, "t30d_units": 30.0}, {"asin": "B0C3VK3ZXZ", "item_name": "EC Hometec ベルトサンダー 小型 電動ベルトサンダー 7段階変速 正逆回転モード切替 ベルトサンダー 卓上 ミニタイプ 4000-9000rpm 木材や金属や包丁の研磨作業 研削 DIY作業 ベルト幅30cm 交換用ベルト付き", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 406748.48, "t30d_units": 57.0}, {"asin": "B0FCYGYB65", "item_name": "EC Hometec 2Lフライヤー 1-2人用 電気フライヤー 60-200℃温度調節 ステンレス 卓上フライヤー 家庭用", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 193181.25, "t30d_units": 26.0}, {"asin": "B0C38LQ311", "item_name": "EC Hometec 電気フライヤー 4L タイマー付き フライヤー ステンレス 60-200℃温度調節 卓上フライヤー 家庭用 業務用 串カツや揚げ物や天ぷら等に", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 565293.66, "t30d_units": 62.0}, {"asin": "B0FNMGX3NV", "item_name": "EC Hometec 揚げ物バスケット 6L大容量 フライヤー バスケット 四角 網かご 油切り 家庭用 業務用 前にフック付き", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 34716.0, "t30d_units": 12.0}, {"asin": "B0C7CFTZRC", "item_name": "EC Hometec スタンドミキサー 5.5L大容量 業務用ミキサー 混ぜる・練る・泡立てる 3種類アタッチメント付き 6段階スピード 家庭用 業務用 卓上ミキサー お菓子 や生地 やパン作りに", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 136315.0, "t30d_units": 7.0}, {"asin": "B09WXXGW6F", "item_name": "EC Hometec 屋根庇 住宅庇 ポリカーボネート採用 200ｘ80cm ひさし 雨よけ・日よけに 窓/玄関などに設置可能 玄関庇 (茶色)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 95616.0, "t30d_units": 7.0}, {"asin": "B09MRZV5CB", "item_name": "Ozonlife 卓上フライヤー 業務用 家庭用 フライヤー 6Ｌ大容量 ステンレス 電気フライヤー 60-200℃ 揚げ物や天ぷら等に", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 756892.0, "t30d_units": 66.0}]}
+{
+  "7291604022": [
+    {
+      "asin": "B0FNMGJDFW",
+      "item_name": "EC Hometec 揚げ物バスケット 4L大容量 フライヤー バスケット 四角 網かご 油切り 家庭用 業務用 後ろにフック付き",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 122864.83,
+      "t30d_units": 47.0
+    },
+    {
+      "asin": "B0DBHCK6F7",
+      "item_name": "EC Hometec 電動 オート テープカッター 業務用 自動テープディスペンサー 多機能 電動テープカッター マスキングテープ対応 2本カット対応 メモリー機能 作業効率UP 包装梱包作業に最適 （6-60 mmテープ適用）110V 日本語取扱説明書",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 489707.17,
+      "t30d_units": 36.0
+    },
+    {
+      "asin": "B0DFYFRCJM",
+      "item_name": "EC Hometec キッチン 補助テーブル 折りたたみ キッチン作業台 ステンレス 耐荷重5kg 引掛け式 浴室/事務室/車内などに適用",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 80799.91,
+      "t30d_units": 30.0
+    },
+    {
+      "asin": "B0C3VK3ZXZ",
+      "item_name": "EC Hometec ベルトサンダー 小型 電動ベルトサンダー 7段階変速 正逆回転モード切替 ベルトサンダー 卓上 ミニタイプ 4000-9000rpm 木材や金属や包丁の研磨作業 研削 DIY作業 ベルト幅30cm 交換用ベルト付き",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 406748.48,
+      "t30d_units": 57.0
+    },
+    {
+      "asin": "B0FCYGYB65",
+      "item_name": "EC Hometec 2Lフライヤー 1-2人用 電気フライヤー 60-200℃温度調節 ステンレス 卓上フライヤー 家庭用",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 193181.25,
+      "t30d_units": 26.0
+    },
+    {
+      "asin": "B0C38LQ311",
+      "item_name": "EC Hometec 電気フライヤー 4L タイマー付き フライヤー ステンレス 60-200℃温度調節 卓上フライヤー 家庭用 業務用 串カツや揚げ物や天ぷら等に",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 565293.66,
+      "t30d_units": 62.0
+    },
+    {
+      "asin": "B0FNMGX3NV",
+      "item_name": "EC Hometec 揚げ物バスケット 6L大容量 フライヤー バスケット 四角 網かご 油切り 家庭用 業務用 前にフック付き",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 34716.0,
+      "t30d_units": 12.0
+    },
+    {
+      "asin": "B0C7CFTZRC",
+      "item_name": "EC Hometec スタンドミキサー 5.5L大容量 業務用ミキサー 混ぜる・練る・泡立てる 3種類アタッチメント付き 6段階スピード 家庭用 業務用 卓上ミキサー お菓子 や生地 やパン作りに",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 136315.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B09WXXGW6F",
+      "item_name": "EC Hometec 屋根庇 住宅庇 ポリカーボネート採用 200ｘ80cm ひさし 雨よけ・日よけに 窓/玄関などに設置可能 玄関庇 (茶色)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 95616.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B09MRZV5CB",
+      "item_name": "Ozonlife 卓上フライヤー 業務用 家庭用 フライヤー 6Ｌ大容量 ステンレス 電気フライヤー 60-200℃ 揚げ物や天ぷら等に",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 756892.0,
+      "t30d_units": 66.0
+    }
+  ]
+}

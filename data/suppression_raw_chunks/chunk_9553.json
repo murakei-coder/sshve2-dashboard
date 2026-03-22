@@ -1,1 +1,76 @@
-{"78179476422": [{"asin": "B0DP2SN8V5", "item_name": "PC コントローラー RGBライト 光る マクロ機能 ホール効果スティック 無線 スリープ解除 TURBO連射 1000mAh大容量 プロコン Switch 2/Switch/Lite/OLED/Android/IOS/PC対応 ブラック", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 39588.0, "t30d_units": 12.0}, {"asin": "B09X2HKW2H", "item_name": "Switch コントローラー Switch1/2 RGBライト スイッチ コントローラー 3階段連射 無線 スイッチ プロコン ジャイロセンサー搭載 4つレベル振動 スリープ解除 アプリ設定 Switch/Lite/OLED/Android/IOS/PCに対応 茶色", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Media", "t30d_ops": 126217.0, "t30d_units": 38.0}, {"asin": "B09TZZD27T", "item_name": "Switch コントローラーSwitch1/2 RGBライト スイッチ コントローラー 3階段連射 無線 スイッチ プロコン ジャイロセンサー搭載 4つレベル振動 スリープ解除 アプリ設定 Switch/Lite/OLED/Android/IOS/PCに対応 透明", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 391132.19, "t30d_units": 116.0}, {"asin": "B0DFT5CL1L", "item_name": "スマホコントローラー RGBライト IOS/Android両用 ワイヤレス接続 モバイルゲームコントローラー 伸縮型 Xbox Cloud/Steam Link/GeForce Nowゲームなどに対応 600mAhバッテリー低遅延 白", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 79086.0, "t30d_units": 14.0}, {"asin": "B0FNR5Y7K5", "item_name": "スマホコントローラー Bluetooth iOS/Android/Switch 2/Switch/OLED ゲームコントローラー 200㎜までの伸縮型 マクロ機能 Xbox Cloud/Steam Link/GeForce Nowゲームなど対応 RGB スティックは交換可能(4.5 mm/7 mm) 2 組付属1000mAhバッテリー LEDライト白", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Media", "t30d_ops": 399339.0, "t30d_units": 60.0}, {"asin": "B0F4KHN5FT", "item_name": "スマホコントローラー Bluetooth iOS/Android/Switch 2/Switch/OLED ゲームコントローラー 200㎜までの伸縮型 マクロ機能 Xbox Cloud/Steam Link/GeForce Nowゲームなど対応 低遅延1000mAhバッテリー LEDライト白", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Media", "t30d_ops": 596759.32, "t30d_units": 84.0}, {"asin": "B0FRSTXXNG", "item_name": "スマホコントローラー & ケース Bluetooth iOS/Android両用 ゲームコントローラー 伸縮型 Xbox Cloud/Steam Link/GeForce Nowゲームなど対応 低遅延 600mAhバッテリー RGBライト 白", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 27296.0, "t30d_units": 4.0}, {"asin": "B0CX55C6TP", "item_name": "スマホコントローラー Bluetooth iOS/Android両用 ゲームコントローラー 伸縮型 Xbox Cloud/Steam Link/GeForce Nowゲームなど対応 低遅延 600mAhバッテリー RGBライト 黒 PS Remoteに対応できない。", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 174267.66, "t30d_units": 32.0}]}
+{
+  "78179476422": [
+    {
+      "asin": "B0DP2SN8V5",
+      "item_name": "PC コントローラー RGBライト 光る マクロ機能 ホール効果スティック 無線 スリープ解除 TURBO連射 1000mAh大容量 プロコン Switch 2/Switch/Lite/OLED/Android/IOS/PC対応 ブラック",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 39588.0,
+      "t30d_units": 12.0
+    },
+    {
+      "asin": "B09X2HKW2H",
+      "item_name": "Switch コントローラー Switch1/2 RGBライト スイッチ コントローラー 3階段連射 無線 スイッチ プロコン ジャイロセンサー搭載 4つレベル振動 スリープ解除 アプリ設定 Switch/Lite/OLED/Android/IOS/PCに対応 茶色",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Media",
+      "t30d_ops": 126217.0,
+      "t30d_units": 38.0
+    },
+    {
+      "asin": "B09TZZD27T",
+      "item_name": "Switch コントローラーSwitch1/2 RGBライト スイッチ コントローラー 3階段連射 無線 スイッチ プロコン ジャイロセンサー搭載 4つレベル振動 スリープ解除 アプリ設定 Switch/Lite/OLED/Android/IOS/PCに対応 透明",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 391132.19,
+      "t30d_units": 116.0
+    },
+    {
+      "asin": "B0DFT5CL1L",
+      "item_name": "スマホコントローラー RGBライト IOS/Android両用 ワイヤレス接続 モバイルゲームコントローラー 伸縮型 Xbox Cloud/Steam Link/GeForce Nowゲームなどに対応 600mAhバッテリー低遅延 白",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 79086.0,
+      "t30d_units": 14.0
+    },
+    {
+      "asin": "B0FNR5Y7K5",
+      "item_name": "スマホコントローラー Bluetooth iOS/Android/Switch 2/Switch/OLED ゲームコントローラー 200㎜までの伸縮型 マクロ機能 Xbox Cloud/Steam Link/GeForce Nowゲームなど対応 RGB スティックは交換可能(4.5 mm/7 mm) 2 組付属1000mAhバッテリー LEDライト白",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Media",
+      "t30d_ops": 399339.0,
+      "t30d_units": 60.0
+    },
+    {
+      "asin": "B0F4KHN5FT",
+      "item_name": "スマホコントローラー Bluetooth iOS/Android/Switch 2/Switch/OLED ゲームコントローラー 200㎜までの伸縮型 マクロ機能 Xbox Cloud/Steam Link/GeForce Nowゲームなど対応 低遅延1000mAhバッテリー LEDライト白",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Media",
+      "t30d_ops": 596759.32,
+      "t30d_units": 84.0
+    },
+    {
+      "asin": "B0FRSTXXNG",
+      "item_name": "スマホコントローラー & ケース Bluetooth iOS/Android両用 ゲームコントローラー 伸縮型 Xbox Cloud/Steam Link/GeForce Nowゲームなど対応 低遅延 600mAhバッテリー RGBライト 白",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 27296.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0CX55C6TP",
+      "item_name": "スマホコントローラー Bluetooth iOS/Android両用 ゲームコントローラー 伸縮型 Xbox Cloud/Steam Link/GeForce Nowゲームなど対応 低遅延 600mAhバッテリー RGBライト 黒 PS Remoteに対応できない。",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 174267.66,
+      "t30d_units": 32.0
+    }
+  ]
+}

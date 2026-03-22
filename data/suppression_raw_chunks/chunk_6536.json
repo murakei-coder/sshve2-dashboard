@@ -1,1 +1,31 @@
-{"38641914322": [{"asin": "B09TSTMYQX", "item_name": "【冷凍】ジョナサン メキシカンピラフ 230ｇ×8袋/ 冷凍食品 惣菜 ピラフ 洋食 洋風惣菜 お惣菜 おかず 弁当 フライパン調理 一人暮らし 簡単調理 グルメ ギフト 外食 温めるだけ ごはん ご飯", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 66090.0, "t30d_units": 22.0}, {"asin": "B0DPWGG6L7", "item_name": "【冷凍】ジョナサン メキシカンピラフ 230ｇ×20袋/ 冷凍食品 惣菜 ピラフ 洋食 洋風惣菜 お惣菜 おかず 弁当 フライパン調理 一人暮らし 簡単調理 グルメ ギフト 外食 温めるだけ ごはん ご飯", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 10990.0, "t30d_units": 2.0}, {"asin": "B09TST9KPL", "item_name": "【冷凍】ジョナサン メキシカンピラフ 230ｇ×4袋/ 冷凍食品 惣菜 ピラフ 洋食 洋風惣菜 お惣菜 おかず 弁当 フライパン調理 一人暮らし 簡単調理 グルメ ギフト 外食 温めるだけ ごはん ご飯", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 24090.0, "t30d_units": 11.0}]}
+{
+  "38641914322": [
+    {
+      "asin": "B09TSTMYQX",
+      "item_name": "【冷凍】ジョナサン メキシカンピラフ 230ｇ×8袋/ 冷凍食品 惣菜 ピラフ 洋食 洋風惣菜 お惣菜 おかず 弁当 フライパン調理 一人暮らし 簡単調理 グルメ ギフト 外食 温めるだけ ごはん ご飯",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 66090.0,
+      "t30d_units": 22.0
+    },
+    {
+      "asin": "B0DPWGG6L7",
+      "item_name": "【冷凍】ジョナサン メキシカンピラフ 230ｇ×20袋/ 冷凍食品 惣菜 ピラフ 洋食 洋風惣菜 お惣菜 おかず 弁当 フライパン調理 一人暮らし 簡単調理 グルメ ギフト 外食 温めるだけ ごはん ご飯",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 10990.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B09TST9KPL",
+      "item_name": "【冷凍】ジョナサン メキシカンピラフ 230ｇ×4袋/ 冷凍食品 惣菜 ピラフ 洋食 洋風惣菜 お惣菜 おかず 弁当 フライパン調理 一人暮らし 簡単調理 グルメ ギフト 外食 温めるだけ ごはん ご飯",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 24090.0,
+      "t30d_units": 11.0
+    }
+  ]
+}

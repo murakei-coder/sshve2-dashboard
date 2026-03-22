@@ -1,1 +1,22 @@
-{"869175358402": [{"asin": "B0F2MR2S66", "item_name": "USB有線ヘッドセット ノイズキャンセリングマイク付き｜通話応答ボタン搭載｜Microsoft Teams・IP電話対応｜軽量設計・長時間快適なメモリーフォームイヤークッション", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 0.0, "t30d_units": 0.0}, {"asin": "B0F2MSMDZ7", "item_name": "Rownfusny R06 ヘッドセット マイク付き ノイズキャンセリングマイク、USB 3.5mm接続 、軽量デザイン メモリーイヤークッション フォームクッションで一日中快適、MSチーム Web会議用 Skype、在宅勤務、業務用、リモートワーク、PCコールセンターに適用される(ブラック) (両耳)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 608671.39, "t30d_units": 189.0}]}
+{
+  "869175358402": [
+    {
+      "asin": "B0F2MR2S66",
+      "item_name": "USB有線ヘッドセット ノイズキャンセリングマイク付き｜通話応答ボタン搭載｜Microsoft Teams・IP電話対応｜軽量設計・長時間快適なメモリーフォームイヤークッション",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    },
+    {
+      "asin": "B0F2MSMDZ7",
+      "item_name": "Rownfusny R06 ヘッドセット マイク付き ノイズキャンセリングマイク、USB 3.5mm接続 、軽量デザイン メモリーイヤークッション フォームクッションで一日中快適、MSチーム Web会議用 Skype、在宅勤務、業務用、リモートワーク、PCコールセンターに適用される(ブラック) (両耳)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 608671.39,
+      "t30d_units": 189.0
+    }
+  ]
+}

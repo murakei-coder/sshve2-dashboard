@@ -1,1 +1,22 @@
-{"54612216022": [{"asin": "B09B6S6VW5", "item_name": "キッチンラック マグネット ラック バスルームラック マグネット スパイスラック 棚 マグネット収納 冷蔵庫ラック 洗濯機 収納 2個セット フック付き ホワイト", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 646956.45, "t30d_units": 317.0}, {"asin": "B09B6TPFDP", "item_name": "Ａｐｉｌａｔｏｎ マグネットラック 冷蔵庫 キッチンラック バスルームラック マグネット スパイスラック 棚 マグネット収納 冷蔵庫ラック 洗濯機 収納 2個セット フック付き (ブラック-2個)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 499060.32, "t30d_units": 245.0}]}
+{
+  "54612216022": [
+    {
+      "asin": "B09B6S6VW5",
+      "item_name": "キッチンラック マグネット ラック バスルームラック マグネット スパイスラック 棚 マグネット収納 冷蔵庫ラック 洗濯機 収納 2個セット フック付き ホワイト",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 646956.45,
+      "t30d_units": 317.0
+    },
+    {
+      "asin": "B09B6TPFDP",
+      "item_name": "Ａｐｉｌａｔｏｎ マグネットラック 冷蔵庫 キッチンラック バスルームラック マグネット スパイスラック 棚 マグネット収納 冷蔵庫ラック 洗濯機 収納 2個セット フック付き (ブラック-2個)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 499060.32,
+      "t30d_units": 245.0
+    }
+  ]
+}

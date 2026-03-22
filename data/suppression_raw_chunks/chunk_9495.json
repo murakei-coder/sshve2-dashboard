@@ -1,1 +1,103 @@
-{"77158385122": [{"asin": "B0DHKMJ28R", "item_name": "UJHOSLD 電動歯ブラシ 超音波振動 5モード調節可能 内蔵LED照明 IPX6防水 充電式 超音波歯ブラシ 自宅用 家族用 携帯便利 軽量 小型", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 17950.0, "t30d_units": 5.0}, {"asin": "B0C9G797QD", "item_name": "UJHOSLD 超音波歯クリーナー 口腔洗浄器 USB 充電式 超音波振動 家庭用携帯用歯清潔器 5モード調節可能 内蔵LED照明 クリーニングキット IPX6防水 携帯便利", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 239028.08, "t30d_units": 98.0}, {"asin": "B0FR994D7C", "item_name": "電動歯ブラシ 5モード調節可能 内蔵LED照明 IPX6防水 充電式 自宅用", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 101221.9, "t30d_units": 32.0}, {"asin": "B0DXKWLVC9", "item_name": "UJHOSLD 電磁波計 EMFメーター デジタル電磁場検出器 警報機能付き Type-C充電対応 家庭用", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 42402.66, "t30d_units": 15.0}, {"asin": "B0BZVN3T56", "item_name": "UJHOSLD 超音波歯クリーナー 口腔洗浄器 USB 充電式 携帯用歯清潔器 5モード調節可能 LEDライト クリーニングキット", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 2025914.21, "t30d_units": 787.0}, {"asin": "B0G1H9HD1W", "item_name": "電動歯ブラシ 超音波振動 5モード調節可能 内蔵LED照明 IPX6防水 充電式 超音波歯ブラシ 自宅用 家族用", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 12414.0, "t30d_units": 4.0}, {"asin": "B0DKCRHD6K", "item_name": "UJHOSLD ガス漏れ検知器 高感度のセンサー採用 メタンやプロパンなどの可燃性ガス漏れ源を特定する 持ち運び簡単 LCD画面 (電池2個付き)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 113822.32, "t30d_units": 42.0}, {"asin": "B0DZ2LMS16", "item_name": "UJHOSLD 温熱 EMS 手首サポーター 9種モード 19段階強度 3段階の温度調節 男女兼用 左右兼用", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 67607.0, "t30d_units": 13.0}, {"asin": "B0DYK2JGSC", "item_name": "UJHOSLD 首サポーター 高さ調整 折りたたみ可能 軽量 通気 自宅用 男女兼用", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 16740.0, "t30d_units": 6.0}, {"asin": "B0FGDFCYB6", "item_name": "UJHOSLD 目元美颜器 温熱 超音波振動 EMS微弱電流 3種類のモード＋3段階の強さレベル 目元ケア 口元 フェイスケア 軽量 USB充電式", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 45953.0, "t30d_units": 18.0}, {"asin": "B0FFMHJ9RB", "item_name": "UJHOSLD 犬猫用 超音波歯クリーナー 口臭 ケア USB充電式 5モード調節可能 内蔵LED照明 IPX6防水", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 165483.66, "t30d_units": 60.0}]}
+{
+  "77158385122": [
+    {
+      "asin": "B0DHKMJ28R",
+      "item_name": "UJHOSLD 電動歯ブラシ 超音波振動 5モード調節可能 内蔵LED照明 IPX6防水 充電式 超音波歯ブラシ 自宅用 家族用 携帯便利 軽量 小型",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 17950.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0C9G797QD",
+      "item_name": "UJHOSLD 超音波歯クリーナー 口腔洗浄器 USB 充電式 超音波振動 家庭用携帯用歯清潔器 5モード調節可能 内蔵LED照明 クリーニングキット IPX6防水 携帯便利",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 239028.08,
+      "t30d_units": 98.0
+    },
+    {
+      "asin": "B0FR994D7C",
+      "item_name": "電動歯ブラシ 5モード調節可能 内蔵LED照明 IPX6防水 充電式 自宅用",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 101221.9,
+      "t30d_units": 32.0
+    },
+    {
+      "asin": "B0DXKWLVC9",
+      "item_name": "UJHOSLD 電磁波計 EMFメーター デジタル電磁場検出器 警報機能付き Type-C充電対応 家庭用",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 42402.66,
+      "t30d_units": 15.0
+    },
+    {
+      "asin": "B0BZVN3T56",
+      "item_name": "UJHOSLD 超音波歯クリーナー 口腔洗浄器 USB 充電式 携帯用歯清潔器 5モード調節可能 LEDライト クリーニングキット",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 2025914.21,
+      "t30d_units": 787.0
+    },
+    {
+      "asin": "B0G1H9HD1W",
+      "item_name": "電動歯ブラシ 超音波振動 5モード調節可能 内蔵LED照明 IPX6防水 充電式 超音波歯ブラシ 自宅用 家族用",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 12414.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0DKCRHD6K",
+      "item_name": "UJHOSLD ガス漏れ検知器 高感度のセンサー採用 メタンやプロパンなどの可燃性ガス漏れ源を特定する 持ち運び簡単 LCD画面 (電池2個付き)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 113822.32,
+      "t30d_units": 42.0
+    },
+    {
+      "asin": "B0DZ2LMS16",
+      "item_name": "UJHOSLD 温熱 EMS 手首サポーター 9種モード 19段階強度 3段階の温度調節 男女兼用 左右兼用",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 67607.0,
+      "t30d_units": 13.0
+    },
+    {
+      "asin": "B0DYK2JGSC",
+      "item_name": "UJHOSLD 首サポーター 高さ調整 折りたたみ可能 軽量 通気 自宅用 男女兼用",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 16740.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0FGDFCYB6",
+      "item_name": "UJHOSLD 目元美颜器 温熱 超音波振動 EMS微弱電流 3種類のモード＋3段階の強さレベル 目元ケア 口元 フェイスケア 軽量 USB充電式",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 45953.0,
+      "t30d_units": 18.0
+    },
+    {
+      "asin": "B0FFMHJ9RB",
+      "item_name": "UJHOSLD 犬猫用 超音波歯クリーナー 口臭 ケア USB充電式 5モード調節可能 内蔵LED照明 IPX6防水",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 165483.66,
+      "t30d_units": 60.0
+    }
+  ]
+}

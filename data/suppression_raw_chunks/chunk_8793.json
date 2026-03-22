@@ -1,1 +1,22 @@
-{"67180899922": [{"asin": "B0DZXB35F2", "item_name": "7インチAHDバックカメラモニターセット 1080P 超暗視機能.常時使用可能 140度広角 DIYガイドライン 正像 鏡像切替 穴開けなく 2種類の電源供給方法 初心者にも簡単に取付可能 駐車支援システム 12V車両に対応", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 731078.97, "t30d_units": 94.0}, {"asin": "B0G46YCV9T", "item_name": "ATOVANKA 7インチバイク スマートモニター｜完全ワイヤレスCarPlay／Android Auto対応（バイク用ナビ・carplay バイク）｜IP67防水・盗難防止設計・防眩光IPSディスプレイ｜日本語説明書付・USB／AC電源対応", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 246427.66, "t30d_units": 22.0}]}
+{
+  "67180899922": [
+    {
+      "asin": "B0DZXB35F2",
+      "item_name": "7インチAHDバックカメラモニターセット 1080P 超暗視機能.常時使用可能 140度広角 DIYガイドライン 正像 鏡像切替 穴開けなく 2種類の電源供給方法 初心者にも簡単に取付可能 駐車支援システム 12V車両に対応",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 731078.97,
+      "t30d_units": 94.0
+    },
+    {
+      "asin": "B0G46YCV9T",
+      "item_name": "ATOVANKA 7インチバイク スマートモニター｜完全ワイヤレスCarPlay／Android Auto対応（バイク用ナビ・carplay バイク）｜IP67防水・盗難防止設計・防眩光IPSディスプレイ｜日本語説明書付・USB／AC電源対応",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 246427.66,
+      "t30d_units": 22.0
+    }
+  ]
+}

@@ -1,1 +1,67 @@
-{"954623641102": [{"asin": "B0F2B1S24W", "item_name": "おしり洗浄器 充電式 400mL 大容量ボトル ポータブルシャワー 携帯洗浄器 アウトドア 洗浄シャワー 3段階のスピード調整 登山 旅行グッズ トイレ介護用", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 4180.0, "t30d_units": 1.0}, {"asin": "B0DWT9LLY1", "item_name": "けだまとり 電動 毛玉取り 電動 毛玉クリーナー 毛玉取り器 液晶ディスプレイ付き 3段階のスピード調整 強力6枚刃 Type-C充電式 軽量 様々な衣類に対応 靴下 旅行 家庭用", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 107979.64, "t30d_units": 90.0}, {"asin": "B0GBW5T273", "item_name": "けだまとり 電動 毛玉取り 電動 毛玉クリーナー 毛玉取り器 液晶ディスプレイ付き 3段階のスピード調整 強力6枚刃 Type-C充電式 軽量 様々な衣類に対応 靴下 旅行 家庭用", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 41755.25, "t30d_units": 32.0}, {"asin": "B0DWTBYNGS", "item_name": "けだまとり 電動 毛玉取り 電動 毛玉クリーナー 毛玉取り器 液晶ディスプレイ付き 3段階のスピード調整 強力6枚刃 Type-C充電式 軽量 様々な衣類に対応 靴下 旅行 家庭用", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 110172.54, "t30d_units": 80.0}, {"asin": "B0G39N8PSS", "item_name": "身長計 身長測定器 赤外線測定 壁掛け不要 2.4mまで測定可能 測定簡単 安全設計 室内・家庭用に最適", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 72488.36, "t30d_units": 50.0}, {"asin": "B0DWTD9BH1", "item_name": "けだまとり 電動 毛玉取り 電動 毛玉クリーナー 毛玉取り器 液晶ディスプレイ付き 3段階のスピード調整 強力6枚刃 Type-C充電式 軽量 様々な衣類に対応 靴下 旅行 家庭用", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 59852.46, "t30d_units": 49.0}, {"asin": "B0FZTFFZH9", "item_name": "おしり洗浄器 充電式 400mL 大容量ボトル ポータブルシャワー 携帯洗浄器 アウトドア 洗浄シャワー 3段階のスピード調整 登山 旅行グッズ トイレ介護用", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 120370.33, "t30d_units": 30.0}]}
+{
+  "954623641102": [
+    {
+      "asin": "B0F2B1S24W",
+      "item_name": "おしり洗浄器 充電式 400mL 大容量ボトル ポータブルシャワー 携帯洗浄器 アウトドア 洗浄シャワー 3段階のスピード調整 登山 旅行グッズ トイレ介護用",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 4180.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0DWT9LLY1",
+      "item_name": "けだまとり 電動 毛玉取り 電動 毛玉クリーナー 毛玉取り器 液晶ディスプレイ付き 3段階のスピード調整 強力6枚刃 Type-C充電式 軽量 様々な衣類に対応 靴下 旅行 家庭用",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 107979.64,
+      "t30d_units": 90.0
+    },
+    {
+      "asin": "B0GBW5T273",
+      "item_name": "けだまとり 電動 毛玉取り 電動 毛玉クリーナー 毛玉取り器 液晶ディスプレイ付き 3段階のスピード調整 強力6枚刃 Type-C充電式 軽量 様々な衣類に対応 靴下 旅行 家庭用",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 41755.25,
+      "t30d_units": 32.0
+    },
+    {
+      "asin": "B0DWTBYNGS",
+      "item_name": "けだまとり 電動 毛玉取り 電動 毛玉クリーナー 毛玉取り器 液晶ディスプレイ付き 3段階のスピード調整 強力6枚刃 Type-C充電式 軽量 様々な衣類に対応 靴下 旅行 家庭用",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 110172.54,
+      "t30d_units": 80.0
+    },
+    {
+      "asin": "B0G39N8PSS",
+      "item_name": "身長計 身長測定器 赤外線測定 壁掛け不要 2.4mまで測定可能 測定簡単 安全設計 室内・家庭用に最適",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 72488.36,
+      "t30d_units": 50.0
+    },
+    {
+      "asin": "B0DWTD9BH1",
+      "item_name": "けだまとり 電動 毛玉取り 電動 毛玉クリーナー 毛玉取り器 液晶ディスプレイ付き 3段階のスピード調整 強力6枚刃 Type-C充電式 軽量 様々な衣類に対応 靴下 旅行 家庭用",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 59852.46,
+      "t30d_units": 49.0
+    },
+    {
+      "asin": "B0FZTFFZH9",
+      "item_name": "おしり洗浄器 充電式 400mL 大容量ボトル ポータブルシャワー 携帯洗浄器 アウトドア 洗浄シャワー 3段階のスピード調整 登山 旅行グッズ トイレ介護用",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 120370.33,
+      "t30d_units": 30.0
+    }
+  ]
+}

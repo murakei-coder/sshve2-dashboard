@@ -1,1 +1,40 @@
-{"7923795845": [{"asin": "B0863CMBC8", "item_name": "【フェリチン鉄】Lepeel Organics 鉄分 サプリメント 鉄不足 レピールまめ鉄 無添加 オーガニック 粉末", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 4101574.01, "t30d_units": 486.0}, {"asin": "B09537QBGH", "item_name": "【獣医推奨】 大容量500ml 無添加 低刺激 犬シャンプー ティーツリーの香り 国産 犬用シャンプー", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 288945.26, "t30d_units": 118.0}, {"asin": "B09VT8RB7G", "item_name": "Dt.kindel デンターキンデル 医薬部外品 マウスウォッシュ 個包装 (30本)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 267818.56, "t30d_units": 181.0}, {"asin": "B0CS36XR3C", "item_name": "【世界累計販売50万本突破】生体電流歯ブラシ PLAQLES（プラクレス） TROMATZ WAVE ホワイト 替えブラシ2本 Type-C充電 無振動 3時間急速充電 IPX8防水, White", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 285122.0, "t30d_units": 7.0}]}
+{
+  "7923795845": [
+    {
+      "asin": "B0863CMBC8",
+      "item_name": "【フェリチン鉄】Lepeel Organics 鉄分 サプリメント 鉄不足 レピールまめ鉄 無添加 オーガニック 粉末",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 4101574.01,
+      "t30d_units": 486.0
+    },
+    {
+      "asin": "B09537QBGH",
+      "item_name": "【獣医推奨】 大容量500ml 無添加 低刺激 犬シャンプー ティーツリーの香り 国産 犬用シャンプー",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 288945.26,
+      "t30d_units": 118.0
+    },
+    {
+      "asin": "B09VT8RB7G",
+      "item_name": "Dt.kindel デンターキンデル 医薬部外品 マウスウォッシュ 個包装 (30本)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 267818.56,
+      "t30d_units": 181.0
+    },
+    {
+      "asin": "B0CS36XR3C",
+      "item_name": "【世界累計販売50万本突破】生体電流歯ブラシ PLAQLES（プラクレス） TROMATZ WAVE ホワイト 替えブラシ2本 Type-C充電 無振動 3時間急速充電 IPX8防水, White",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 285122.0,
+      "t30d_units": 7.0
+    }
+  ]
+}

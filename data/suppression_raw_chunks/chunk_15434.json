@@ -1,1 +1,31 @@
-{"1091910240402": [{"asin": "B0F9YC3N65", "item_name": "Focustar ポータブルケトル 電気ケトル 小型 500ML 300W 低消費電力 ポータブル電源で使用可能 トラベルケトル 8分で早く沸騰 沸騰したら自動OFF 空焚き防止 お湯が沸かせる水筒 持ち運び 旅行 車中泊に便利 日本語説明書付き", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 43800.0, "t30d_units": 12.0}, {"asin": "B0F9YB33H7", "item_name": "Focustar ポータブルケトル 電気ケトル 小型 海外対応 100-240V兼用 350ML トラベルケトル 4段温度調節 300W低消費電力 ポータ電源で使用可能 携帯湯沸かし器 8分で早く沸騰 沸騰したら自動OFF 空焚き防止 持ち運び お湯が沸かせる水筒 旅行用 車中泊 職場用に便利 変換プラグ付き", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 4539.0, "t30d_units": 1.0}, {"asin": "B0GH63Z71M", "item_name": "Focustar 超音波洗浄機 小型家庭用 メガネ洗浄機 49000Hz 真性超音波技術 強力振動 隙間洗浄 650ML大容量 5段階タイマー設定 304ステンレス鋼製 入れ歯/化粧道具/腕時計バンド/指輪/貴金属/ジュエリー/カミソリも適用クリーナー PSE認証済み", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "3.VRP missing", "pf": "L&L", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "1091910240402": [
+    {
+      "asin": "B0F9YC3N65",
+      "item_name": "Focustar ポータブルケトル 電気ケトル 小型 500ML 300W 低消費電力 ポータブル電源で使用可能 トラベルケトル 8分で早く沸騰 沸騰したら自動OFF 空焚き防止 お湯が沸かせる水筒 持ち運び 旅行 車中泊に便利 日本語説明書付き",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 43800.0,
+      "t30d_units": 12.0
+    },
+    {
+      "asin": "B0F9YB33H7",
+      "item_name": "Focustar ポータブルケトル 電気ケトル 小型 海外対応 100-240V兼用 350ML トラベルケトル 4段温度調節 300W低消費電力 ポータ電源で使用可能 携帯湯沸かし器 8分で早く沸騰 沸騰したら自動OFF 空焚き防止 持ち運び お湯が沸かせる水筒 旅行用 車中泊 職場用に便利 変換プラグ付き",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 4539.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0GH63Z71M",
+      "item_name": "Focustar 超音波洗浄機 小型家庭用 メガネ洗浄機 49000Hz 真性超音波技術 強力振動 隙間洗浄 650ML大容量 5段階タイマー設定 304ステンレス鋼製 入れ歯/化粧道具/腕時計バンド/指輪/貴金属/ジュエリー/カミソリも適用クリーナー PSE認証済み",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "L&L",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

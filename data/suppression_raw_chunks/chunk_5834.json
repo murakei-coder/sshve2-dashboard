@@ -1,1 +1,49 @@
-{"21644553822": [{"asin": "B0F8VF9CCB", "item_name": "海鮮蟹工房 北海道産 ホタテ ソフト貝柱 燻油 各30g×3個 ホタテ貝柱 帆立貝柱加工品 国産 珍味 おつまみ ギフト お取り寄せ", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 32780.0, "t30d_units": 11.0}, {"asin": "B0F8VFBPJ7", "item_name": "海鮮蟹工房 北海道産 ホタテ ソフト貝柱 30g×6個 ホタテ貝柱 帆立貝柱加工品 国産 珍味 おつまみ ギフト お取り寄せ", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0F8VFBLZ5", "item_name": "海鮮蟹工房 北海道産 ホタテ 燻油 30g×6個 ホタテ貝柱 帆立貝柱加工品 国産 珍味 おつまみ ギフト お取り寄せ", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 8940.0, "t30d_units": 3.0}, {"asin": "B0FH9QBLTW", "item_name": "海鮮蟹工房 トラウトサーモン 訳あり 切り落とし 冷凍 200g×5個 サーモン 刺身用 海鮮 お取り寄せ 訳アリ 生食用 海鮮丼", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B086DH86T3", "item_name": "海鮮蟹工房 ズワイガニ カニ 福袋 1.8kg 約3人前 セット 訳あり かに 蟹 冷凍 ずわい蟹 むき身 肩肉 ギフト 贈答用 カニ鍋 かにしゃぶ 海鮮", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 12960.0, "t30d_units": 2.0}]}
+{
+  "21644553822": [
+    {
+      "asin": "B0F8VF9CCB",
+      "item_name": "海鮮蟹工房 北海道産 ホタテ ソフト貝柱 燻油 各30g×3個 ホタテ貝柱 帆立貝柱加工品 国産 珍味 おつまみ ギフト お取り寄せ",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 32780.0,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0F8VFBPJ7",
+      "item_name": "海鮮蟹工房 北海道産 ホタテ ソフト貝柱 30g×6個 ホタテ貝柱 帆立貝柱加工品 国産 珍味 おつまみ ギフト お取り寄せ",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0F8VFBLZ5",
+      "item_name": "海鮮蟹工房 北海道産 ホタテ 燻油 30g×6個 ホタテ貝柱 帆立貝柱加工品 国産 珍味 おつまみ ギフト お取り寄せ",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 8940.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0FH9QBLTW",
+      "item_name": "海鮮蟹工房 トラウトサーモン 訳あり 切り落とし 冷凍 200g×5個 サーモン 刺身用 海鮮 お取り寄せ 訳アリ 生食用 海鮮丼",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B086DH86T3",
+      "item_name": "海鮮蟹工房 ズワイガニ カニ 福袋 1.8kg 約3人前 セット 訳あり かに 蟹 冷凍 ずわい蟹 むき身 肩肉 ギフト 贈答用 カニ鍋 かにしゃぶ 海鮮",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 12960.0,
+      "t30d_units": 2.0
+    }
+  ]
+}

@@ -1,1 +1,22 @@
-{"1205137186702": [{"asin": "B0GPQ9VV8V", "item_name": "デジカメ 4K デジタルカメラ 6400万画素 2.8インチ画面 自撮り ウェブカメラ WIFI転送機能 オートフォーカス機能 16倍デジタルズーム 64GB SDカード付き 連続撮影 初心者向け バッテリー付属 コンパクト 子供 クリスマス 旅行 携帯便利 (ブラック)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0GPQ4KPF7", "item_name": "デジカメ 4K デジタルカメラ 6400万画素 2.8インチ画面 自撮り ウェブカメラ WIFI転送機能 オートフォーカス機能 16倍デジタルズーム 64GB SDカード付き 連続撮影 初心者向け バッテリー付属 コンパクト 子供 クリスマス 旅行 携帯便利(ホワイト)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 9380.0, "t30d_units": 1.0}]}
+{
+  "1205137186702": [
+    {
+      "asin": "B0GPQ9VV8V",
+      "item_name": "デジカメ 4K デジタルカメラ 6400万画素 2.8インチ画面 自撮り ウェブカメラ WIFI転送機能 オートフォーカス機能 16倍デジタルズーム 64GB SDカード付き 連続撮影 初心者向け バッテリー付属 コンパクト 子供 クリスマス 旅行 携帯便利 (ブラック)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0GPQ4KPF7",
+      "item_name": "デジカメ 4K デジタルカメラ 6400万画素 2.8インチ画面 自撮り ウェブカメラ WIFI転送機能 オートフォーカス機能 16倍デジタルズーム 64GB SDカード付き 連続撮影 初心者向け バッテリー付属 コンパクト 子供 クリスマス 旅行 携帯便利(ホワイト)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 9380.0,
+      "t30d_units": 1.0
+    }
+  ]
+}

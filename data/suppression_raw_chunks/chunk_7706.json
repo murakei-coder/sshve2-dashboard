@@ -1,1 +1,76 @@
-{"52455909822": [{"asin": "B0BRSVH8G1", "item_name": "HONEYWORLD マヌカハニー UMF5+ マヌカハニー 正規品 蜂蜜 ニュージーランド manuka honey UMF認証済み シンガポールお土産 250g", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": -3610.0, "t30d_units": -1.0}, {"asin": "B081XHBNBD", "item_name": "HONEYWORLD マヌカハニー UMF20+ マヌカハニー 正規品 蜂蜜 ニュージーランド manuka honey UMF認証済み シンガポールお土産 250g", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 21800.0, "t30d_units": 2.0}, {"asin": "B0DLG6SPPQ", "item_name": "[Oswin] 在庫処分 電気ブランケット 電気ひざ掛け 電気毛布 ひざ掛け USB給電 usb ブランケット 遠赤外線発熱技術 3段階温度調整 裏起毛 大判サイズ160＊80cm 掛け着る両用 丸洗い可能 防寒対策 冷え予防 [並行輸入品]", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 7031.0, "t30d_units": 3.0}, {"asin": "B0D7ZJ3M85", "item_name": "ミルクフォーマー 電動ミルク泡立て器 ミルクフローサー 4モード切替 400W出力 240ml カフェラテ カプチーノ ホットミルク ラテアート 静音操作 黒", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1000914.61, "t30d_units": 191.0}, {"asin": "B0D7ZQ5WLS", "item_name": "ミルクフォーマー 電動ミルク泡立て器 ミルクフローサー 4モード切替 400W出力 240ml カフェラテ カプチーノ ホットミルク ラテアート 静音操作 白", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1229427.0, "t30d_units": 234.0}, {"asin": "B0BRVB6HXZ", "item_name": "HONEYWORLD マヌカハニー UMF10+ マヌカハニー 正規品 蜂蜜 ニュージーランド manuka honey UMF認証済み シンガポールお土産 250g", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0BGLM5TWR", "item_name": "在庫処分 セラミック ヒーター ファンヒーター 足元ヒーター 電気ストーブ 3秒速熱 600W/1200W 過熱保護 転倒停止 小型", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 76753.0, "t30d_units": 26.0}, {"asin": "B09M7Y6396", "item_name": "包丁 三徳包丁 万能包丁 178mm ドイツ製のステンレス鋼 鋭い切れ味 食洗機対応 業務用・家庭用", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 18064.0, "t30d_units": 6.0}]}
+{
+  "52455909822": [
+    {
+      "asin": "B0BRSVH8G1",
+      "item_name": "HONEYWORLD マヌカハニー UMF5+ マヌカハニー 正規品 蜂蜜 ニュージーランド manuka honey UMF認証済み シンガポールお土産 250g",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": -3610.0,
+      "t30d_units": -1.0
+    },
+    {
+      "asin": "B081XHBNBD",
+      "item_name": "HONEYWORLD マヌカハニー UMF20+ マヌカハニー 正規品 蜂蜜 ニュージーランド manuka honey UMF認証済み シンガポールお土産 250g",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 21800.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0DLG6SPPQ",
+      "item_name": "[Oswin] 在庫処分 電気ブランケット 電気ひざ掛け 電気毛布 ひざ掛け USB給電 usb ブランケット 遠赤外線発熱技術 3段階温度調整 裏起毛 大判サイズ160＊80cm 掛け着る両用 丸洗い可能 防寒対策 冷え予防 [並行輸入品]",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 7031.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0D7ZJ3M85",
+      "item_name": "ミルクフォーマー 電動ミルク泡立て器 ミルクフローサー 4モード切替 400W出力 240ml カフェラテ カプチーノ ホットミルク ラテアート 静音操作 黒",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1000914.61,
+      "t30d_units": 191.0
+    },
+    {
+      "asin": "B0D7ZQ5WLS",
+      "item_name": "ミルクフォーマー 電動ミルク泡立て器 ミルクフローサー 4モード切替 400W出力 240ml カフェラテ カプチーノ ホットミルク ラテアート 静音操作 白",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1229427.0,
+      "t30d_units": 234.0
+    },
+    {
+      "asin": "B0BRVB6HXZ",
+      "item_name": "HONEYWORLD マヌカハニー UMF10+ マヌカハニー 正規品 蜂蜜 ニュージーランド manuka honey UMF認証済み シンガポールお土産 250g",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0BGLM5TWR",
+      "item_name": "在庫処分 セラミック ヒーター ファンヒーター 足元ヒーター 電気ストーブ 3秒速熱 600W/1200W 過熱保護 転倒停止 小型",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 76753.0,
+      "t30d_units": 26.0
+    },
+    {
+      "asin": "B09M7Y6396",
+      "item_name": "包丁 三徳包丁 万能包丁 178mm ドイツ製のステンレス鋼 鋭い切れ味 食洗機対応 業務用・家庭用",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 18064.0,
+      "t30d_units": 6.0
+    }
+  ]
+}

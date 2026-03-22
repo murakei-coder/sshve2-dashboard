@@ -1,1 +1,49 @@
-{"1028227105502": [{"asin": "B0FHFNYZFN", "item_name": "5本 カスタム 入れ歯 部分 取り外し可能 Dentellea 義歯 携帯便利 自然な見た目", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 546000.66, "t30d_units": 21.0}, {"asin": "B0F6JMXGLC", "item_name": "【2個入り】部分 入れ歯 カスタム｜Dentellea 自然に見える 義歯｜目立たない＆快適な装着感｜自宅で簡単型取り｜2本欠損に最適・男女兼用", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 836342.0, "t30d_units": 55.0}, {"asin": "B0G7D8W441", "item_name": "7本 カスタム 入れ歯 部分 取り外し可能 Dentellea 義歯 自然な見た目 印象キット付き", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 664000.0, "t30d_units": 20.0}, {"asin": "B0F1TPF8SW", "item_name": "1本 カスタム 入れ歯 部分 取り外し可能 Dentellea 義歯 携帯便利 自然な見た目", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 1659023.54, "t30d_units": 149.0}, {"asin": "B0F1TGSMHT", "item_name": "Dentellea カスタム マウスピース 2個セット 上下対応タイプ 透明 薄型 1mm・1.5mm・2mm選べる 着け心地快適 男女兼用 ケース付き", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 141420.0, "t30d_units": 14.0}]}
+{
+  "1028227105502": [
+    {
+      "asin": "B0FHFNYZFN",
+      "item_name": "5本 カスタム 入れ歯 部分 取り外し可能 Dentellea 義歯 携帯便利 自然な見た目",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 546000.66,
+      "t30d_units": 21.0
+    },
+    {
+      "asin": "B0F6JMXGLC",
+      "item_name": "【2個入り】部分 入れ歯 カスタム｜Dentellea 自然に見える 義歯｜目立たない＆快適な装着感｜自宅で簡単型取り｜2本欠損に最適・男女兼用",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 836342.0,
+      "t30d_units": 55.0
+    },
+    {
+      "asin": "B0G7D8W441",
+      "item_name": "7本 カスタム 入れ歯 部分 取り外し可能 Dentellea 義歯 自然な見た目 印象キット付き",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 664000.0,
+      "t30d_units": 20.0
+    },
+    {
+      "asin": "B0F1TPF8SW",
+      "item_name": "1本 カスタム 入れ歯 部分 取り外し可能 Dentellea 義歯 携帯便利 自然な見た目",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 1659023.54,
+      "t30d_units": 149.0
+    },
+    {
+      "asin": "B0F1TGSMHT",
+      "item_name": "Dentellea カスタム マウスピース 2個セット 上下対応タイプ 透明 薄型 1mm・1.5mm・2mm選べる 着け心地快適 男女兼用 ケース付き",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 141420.0,
+      "t30d_units": 14.0
+    }
+  ]
+}

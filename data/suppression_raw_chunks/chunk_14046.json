@@ -1,1 +1,31 @@
-{"948775125502": [{"asin": "B0G5MHM5NF", "item_name": "AI ボイスレコーダー [MUMEOMU M5]ワンタッチ録音 文字起こし 先端LLMによる要約 AI文字起こしサービス無料 AI要約 AI翻訳 発言者識別 音声インポート 議事録自動作成 マインドマップ 30時間連続使用 Bluetooth接続 会議/授業/インタービューなどに適用 ブラック", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 527312.0, "t30d_units": 21.0}, {"asin": "B0DKTDBXPY", "item_name": "AI翻訳機 283ヵ国137言語対応 音声翻訳機【オンライン翻訳＋オフライン翻訳＋カメラ翻訳＋録音翻訳＋リアルタイム翻訳+ChatGPT】双方向翻訳 携帯翻訳機", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 297578.0, "t30d_units": 22.0}, {"asin": "B0FGP7WNM2", "item_name": "AUTOOSE Z2 翻訳機 音声翻訳機【SIM不要/追加料金不要/オフライン翻訳対応】画面 携帯翻訳機 144言語対応 0.2秒翻訳 写真翻訳 オフライン対応 タッチスクリーン 写真翻訳", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 433693.75, "t30d_units": 49.0}]}
+{
+  "948775125502": [
+    {
+      "asin": "B0G5MHM5NF",
+      "item_name": "AI ボイスレコーダー [MUMEOMU M5]ワンタッチ録音 文字起こし 先端LLMによる要約 AI文字起こしサービス無料 AI要約 AI翻訳 発言者識別 音声インポート 議事録自動作成 マインドマップ 30時間連続使用 Bluetooth接続 会議/授業/インタービューなどに適用 ブラック",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 527312.0,
+      "t30d_units": 21.0
+    },
+    {
+      "asin": "B0DKTDBXPY",
+      "item_name": "AI翻訳機 283ヵ国137言語対応 音声翻訳機【オンライン翻訳＋オフライン翻訳＋カメラ翻訳＋録音翻訳＋リアルタイム翻訳+ChatGPT】双方向翻訳 携帯翻訳機",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 297578.0,
+      "t30d_units": 22.0
+    },
+    {
+      "asin": "B0FGP7WNM2",
+      "item_name": "AUTOOSE Z2 翻訳機 音声翻訳機【SIM不要/追加料金不要/オフライン翻訳対応】画面 携帯翻訳機 144言語対応 0.2秒翻訳 写真翻訳 オフライン対応 タッチスクリーン 写真翻訳",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 433693.75,
+      "t30d_units": 49.0
+    }
+  ]
+}

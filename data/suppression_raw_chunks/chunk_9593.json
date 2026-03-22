@@ -1,1 +1,67 @@
-{"79204276322": [{"asin": "B0F4XBPBZM", "item_name": "4K デジカメ デジタルカメラ 6400万画素 4K解像度 オートフォーカス マクロ撮影 16倍デジタルズーム 3インチ大画面 予備電池 HDMI出力 軽量 修学旅行 学生 初心者 32gメモリーカード付属 黒", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0G46TPHG1", "item_name": "デジカメ 4800万画素 4K コンパクト デジタルカメラ 初心者向け オートフォーカス 自撮り 180度回転モニター 16倍ズーム 軽量 32GBカード付属 予備バッテリー2個 日本語説明書付き 子供 学生 修学旅行 誕生日 プレゼント (ブラック)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 7998.0, "t30d_units": 1.0}, {"asin": "B0CPXF885J", "item_name": "デジタルカメラ デジカメ トイカメラ キッズカメラ 1080P 4400万画素 16倍ズーム 手振れ補正 セルフタイマー 連写 ミニカメラ 軽量 学生 修学旅行 撮影初心者向け 32Gカード付属 紫", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 40073.0, "t30d_units": 7.0}, {"asin": "B0DHCV57MM", "item_name": "Fulealfly インスタント トイカメラ キッズカメラ 子供用カメラ ゲームなし デジカメ デジタルカメラ プリンターでき 4800万画素 1080P コンパクトカメラ 16倍デジタルズーム セルフタイマー 男の子 女の子 ギフト 子供の日 誕生日 クリスマスプレゼント 32gメモリカー付属 紫", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 65061.0, "t30d_units": 11.0}, {"asin": "B0DHCWXHHW", "item_name": "Fulealfly 子供用カメラ インスタントデジカメ デジタルカメラ キッズカメラ 子供カメラ デジカメ デジタルカメラ 印刷 プリンターでき 4800万画素 1080P コンパクトカメラ 16倍デジタルズーム 印刷 プレゼント 32gメモリカー付属 ブルー", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 84629.0, "t30d_units": 15.0}, {"asin": "B0CM6BPR33", "item_name": "デジタルカメラ デジカメ 4400万画素 トイカメラ キッズカメラ 1080P 4400万画素 16倍ズーム 手振れ補正 セルフタイマー 連写 ミニカメラ 軽量 学生 修学旅行 撮影初心者向け 32Gカード付属 ピンク", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 4959.0, "t30d_units": 1.0}, {"asin": "B0F4X8LWXT", "item_name": "4K デジカメ デジタルカメラ 6400万画素 4K解像度 オートフォーカス マクロ撮影 16倍デジタルズーム 3インチ大画面 予備電池 HDMI出力 軽量 修学旅行 学生 初心者 32gメモリーカード付属 白", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "79204276322": [
+    {
+      "asin": "B0F4XBPBZM",
+      "item_name": "4K デジカメ デジタルカメラ 6400万画素 4K解像度 オートフォーカス マクロ撮影 16倍デジタルズーム 3インチ大画面 予備電池 HDMI出力 軽量 修学旅行 学生 初心者 32gメモリーカード付属 黒",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0G46TPHG1",
+      "item_name": "デジカメ 4800万画素 4K コンパクト デジタルカメラ 初心者向け オートフォーカス 自撮り 180度回転モニター 16倍ズーム 軽量 32GBカード付属 予備バッテリー2個 日本語説明書付き 子供 学生 修学旅行 誕生日 プレゼント (ブラック)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 7998.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0CPXF885J",
+      "item_name": "デジタルカメラ デジカメ トイカメラ キッズカメラ 1080P 4400万画素 16倍ズーム 手振れ補正 セルフタイマー 連写 ミニカメラ 軽量 学生 修学旅行 撮影初心者向け 32Gカード付属 紫",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 40073.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0DHCV57MM",
+      "item_name": "Fulealfly インスタント トイカメラ キッズカメラ 子供用カメラ ゲームなし デジカメ デジタルカメラ プリンターでき 4800万画素 1080P コンパクトカメラ 16倍デジタルズーム セルフタイマー 男の子 女の子 ギフト 子供の日 誕生日 クリスマスプレゼント 32gメモリカー付属 紫",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 65061.0,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0DHCWXHHW",
+      "item_name": "Fulealfly 子供用カメラ インスタントデジカメ デジタルカメラ キッズカメラ 子供カメラ デジカメ デジタルカメラ 印刷 プリンターでき 4800万画素 1080P コンパクトカメラ 16倍デジタルズーム 印刷 プレゼント 32gメモリカー付属 ブルー",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 84629.0,
+      "t30d_units": 15.0
+    },
+    {
+      "asin": "B0CM6BPR33",
+      "item_name": "デジタルカメラ デジカメ 4400万画素 トイカメラ キッズカメラ 1080P 4400万画素 16倍ズーム 手振れ補正 セルフタイマー 連写 ミニカメラ 軽量 学生 修学旅行 撮影初心者向け 32Gカード付属 ピンク",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 4959.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0F4X8LWXT",
+      "item_name": "4K デジカメ デジタルカメラ 6400万画素 4K解像度 オートフォーカス マクロ撮影 16倍デジタルズーム 3インチ大画面 予備電池 HDMI出力 軽量 修学旅行 学生 初心者 32gメモリーカード付属 白",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

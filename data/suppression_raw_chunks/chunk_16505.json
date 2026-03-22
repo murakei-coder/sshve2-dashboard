@@ -1,1 +1,22 @@
-{"1141631143902": [{"asin": "B0GDGB6HZ3", "item_name": "KIQIA【業界初】4 in 1 車載ミラーリング ワイヤレスCarPlay＆Android Autoアダプター 完全ワイヤレス化を実現 スマホ画面を車載ディスプレイに表示 AirPlay/Miracast/Samsung DeX 対応 高速接続、低遅延 純正有線CarPlay＆AA搭載車に対応 iPhone 6以降、iOS 10+/Android 11+対応【技適認証済み】", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 1067720.66, "t30d_units": 134.0}, {"asin": "B0G1WYCND4", "item_name": "KIQIA【業界初】スマート車載ベビーモニター ワイヤレスCarPlay＆Android Auto対応 | 車載ディスプレイのリアルタイム監視画面 | 音楽やナビゲーションなどの機能と同時使用可能 | AHD 1080P、120°広角、夜間視機能 技適認証取得済み", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 39273.0, "t30d_units": 4.0}]}
+{
+  "1141631143902": [
+    {
+      "asin": "B0GDGB6HZ3",
+      "item_name": "KIQIA【業界初】4 in 1 車載ミラーリング ワイヤレスCarPlay＆Android Autoアダプター 完全ワイヤレス化を実現 スマホ画面を車載ディスプレイに表示 AirPlay/Miracast/Samsung DeX 対応 高速接続、低遅延 純正有線CarPlay＆AA搭載車に対応 iPhone 6以降、iOS 10+/Android 11+対応【技適認証済み】",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 1067720.66,
+      "t30d_units": 134.0
+    },
+    {
+      "asin": "B0G1WYCND4",
+      "item_name": "KIQIA【業界初】スマート車載ベビーモニター ワイヤレスCarPlay＆Android Auto対応 | 車載ディスプレイのリアルタイム監視画面 | 音楽やナビゲーションなどの機能と同時使用可能 | AHD 1080P、120°広角、夜間視機能 技適認証取得済み",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 39273.0,
+      "t30d_units": 4.0
+    }
+  ]
+}

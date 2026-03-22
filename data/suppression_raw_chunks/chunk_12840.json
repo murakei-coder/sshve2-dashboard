@@ -1,1 +1,76 @@
-{"804872072002": [{"asin": "B0FKTBLQ6G", "item_name": "IMIPAW 自動給餌器 猫 【2026新モデル】タイマー式 給餌器 5L容量 2WAY給電 手動給餌 自動餌やり機 手動給餌 設定・お手入れ簡単 1日6食 ブラック", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 56571.0, "t30d_units": 11.0}, {"asin": "B0F42RDFG4", "item_name": "IMIPAW WI-FI連動型 5G対応 自動給餌器 猫 給水器一体 【2025新モデル】 3L容量 2WAY給電 手動給餌 自動餌やり機 操作簡単 お手入れ簡単 1日6食 ホワイト", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 123414.0, "t30d_units": 18.0}, {"asin": "B0F4XJCHBJ", "item_name": "IMIPAW 自動給餌器 猫 給餌器【2026新モデル】3L容量 2WAY給電 手動給餌 自動餌やり機 操作簡単 お手入れ簡単 1日6食", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 65418.0, "t30d_units": 17.0}, {"asin": "B0DWXKPYDW", "item_name": "IMIPAW 自動給餌器 猫 給水器一体 【2024新モデル】 3L容量 2WAY給電 手動給餌 自動餌やり機 操作簡単 お手入れ簡単 1日6食 ホワイト", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 231022.0, "t30d_units": 37.0}, {"asin": "B0FFT3BV5L", "item_name": "IMIPAW 自動給餌器 猫 【2026新モデル】タイマー式 給餌器 5L容量 2WAY給電 手動給餌 自動餌やり機 手動給餌 設定・お手入れ簡単 1日6食 ホワイト", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 32094.0, "t30d_units": 6.0}, {"asin": "B0F431J9Z1", "item_name": "IMIPAW 自動給餌器 猫 給餌器 タイマー式【2025新モデル】3L容量 2WAY給電 手動給餌 自動餌やり機 操作簡単 お手入れ簡単 1日6食", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 1085356.31, "t30d_units": 273.0}, {"asin": "B0FFT23LV6", "item_name": "IMIPAW 自動給餌器 猫 【2026新モデル】タイマー式 給餌器 3L容量 2WAY給電 手動給餌 自動餌やり機 手動給餌 設定・お手入れ簡単 1日6食 ブラック", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 140898.91, "t30d_units": 33.0}, {"asin": "B0CYLFCV57", "item_name": "【2025新モデル】IMIPAW 自動給餌器 猫 アプリ操作 タイマー機能 3L容量 2WAY給電 手動給餌 自動餌やり機 操作簡単 お手入れ簡単 1日6食", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 91928.0, "t30d_units": 18.0}]}
+{
+  "804872072002": [
+    {
+      "asin": "B0FKTBLQ6G",
+      "item_name": "IMIPAW 自動給餌器 猫 【2026新モデル】タイマー式 給餌器 5L容量 2WAY給電 手動給餌 自動餌やり機 手動給餌 設定・お手入れ簡単 1日6食 ブラック",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 56571.0,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0F42RDFG4",
+      "item_name": "IMIPAW WI-FI連動型 5G対応 自動給餌器 猫 給水器一体 【2025新モデル】 3L容量 2WAY給電 手動給餌 自動餌やり機 操作簡単 お手入れ簡単 1日6食 ホワイト",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 123414.0,
+      "t30d_units": 18.0
+    },
+    {
+      "asin": "B0F4XJCHBJ",
+      "item_name": "IMIPAW 自動給餌器 猫 給餌器【2026新モデル】3L容量 2WAY給電 手動給餌 自動餌やり機 操作簡単 お手入れ簡単 1日6食",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 65418.0,
+      "t30d_units": 17.0
+    },
+    {
+      "asin": "B0DWXKPYDW",
+      "item_name": "IMIPAW 自動給餌器 猫 給水器一体 【2024新モデル】 3L容量 2WAY給電 手動給餌 自動餌やり機 操作簡単 お手入れ簡単 1日6食 ホワイト",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 231022.0,
+      "t30d_units": 37.0
+    },
+    {
+      "asin": "B0FFT3BV5L",
+      "item_name": "IMIPAW 自動給餌器 猫 【2026新モデル】タイマー式 給餌器 5L容量 2WAY給電 手動給餌 自動餌やり機 手動給餌 設定・お手入れ簡単 1日6食 ホワイト",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 32094.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0F431J9Z1",
+      "item_name": "IMIPAW 自動給餌器 猫 給餌器 タイマー式【2025新モデル】3L容量 2WAY給電 手動給餌 自動餌やり機 操作簡単 お手入れ簡単 1日6食",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 1085356.31,
+      "t30d_units": 273.0
+    },
+    {
+      "asin": "B0FFT23LV6",
+      "item_name": "IMIPAW 自動給餌器 猫 【2026新モデル】タイマー式 給餌器 3L容量 2WAY給電 手動給餌 自動餌やり機 手動給餌 設定・お手入れ簡単 1日6食 ブラック",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 140898.91,
+      "t30d_units": 33.0
+    },
+    {
+      "asin": "B0CYLFCV57",
+      "item_name": "【2025新モデル】IMIPAW 自動給餌器 猫 アプリ操作 タイマー機能 3L容量 2WAY給電 手動給餌 自動餌やり機 操作簡単 お手入れ簡単 1日6食",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 91928.0,
+      "t30d_units": 18.0
+    }
+  ]
+}

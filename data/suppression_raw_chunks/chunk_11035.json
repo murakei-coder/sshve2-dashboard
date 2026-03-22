@@ -1,1 +1,22 @@
-{"613804544302": [{"asin": "B0DVLMNGW6", "item_name": "LIVARY【国内吸水試験実施済】 速乾＆抗菌仕様 珪藻土マット 洗える 【クセになる踏み心地 】 簡単収納 吸水バスマット 洗える珪藻土 (グレー)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 23942.37, "t30d_units": 12.0}, {"asin": "B0DVLP7TX9", "item_name": "LIVARY【国内吸水試験実施済】 速乾＆抗菌仕様 珪藻土マット 洗える 【クセになる踏み心地 】 簡単収納 吸水バスマット 洗える珪藻土 (アイボリー)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 42049.06, "t30d_units": 22.0}]}
+{
+  "613804544302": [
+    {
+      "asin": "B0DVLMNGW6",
+      "item_name": "LIVARY【国内吸水試験実施済】 速乾＆抗菌仕様 珪藻土マット 洗える 【クセになる踏み心地 】 簡単収納 吸水バスマット 洗える珪藻土 (グレー)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 23942.37,
+      "t30d_units": 12.0
+    },
+    {
+      "asin": "B0DVLP7TX9",
+      "item_name": "LIVARY【国内吸水試験実施済】 速乾＆抗菌仕様 珪藻土マット 洗える 【クセになる踏み心地 】 簡単収納 吸水バスマット 洗える珪藻土 (アイボリー)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 42049.06,
+      "t30d_units": 22.0
+    }
+  ]
+}

@@ -1,1 +1,85 @@
-{"12669219822": [{"asin": "B0FX8LN9GT", "item_name": "[Xiyaoer] 靴下 メンズ スポーツソックス 通気性 抗菌防臭 吸汗速乾 滑り止め 男女兼用 着圧 アウトドア ソックス 24～28cm 5足セット (JP, アルファベット, Free Size, ５足セット2)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 11270.0, "t30d_units": 8.0}, {"asin": "B0FNL6NRTY", "item_name": "[Xiyaoer] 靴下 レディース (JP, アルファベット, Free Size, 10足セット1)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "3.VRP missing", "pf": "Softlines", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0FMXFV68K", "item_name": "[Xiyaoer] 靴下 メンズ 高级綿 10足セットスポーツソックス カラフルソックス カジュアルソックス スポーツ くつした 男性用 ビジネス クルーソックス 靴下 おしゃれ 通気性 24-28cm (JP, アルファベット, Free Size, 10足セット5)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Softlines", "t30d_ops": 3021.0, "t30d_units": 2.0}, {"asin": "B0FP5122QT", "item_name": "[Xiyaoer] 靴下 メンズ 冬 高级綿 厚手10足セットスポーツソックス カラフルソックス カジュアルソックス スポーツ くつした 男性用 おしゃれ 通気性 24-28cm (JP, アルファベット, Free Size, 7足セット)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 12703.66, "t30d_units": 8.0}, {"asin": "B0FKZ6K3NF", "item_name": "[Xiyaoer] 靴下 メンズ ソックス 靴下 くるぶしソックス【吸汗 防臭 綿】 10足セット スポーツソックス スポーツ くつした メンズ クルーソックス 靴下 おしゃれ 通気性 吸汗速乾 24-28cm (10足セット5)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 15900.0, "t30d_units": 10.0}, {"asin": "B0876VZRN8", "item_name": "[Xiyaoer] 靴下 メンズ くるぶし 綿 24-28cm 靴下 おしゃれ スポーツ くつした メンズ 男性用 ビジネス クルーソックス 春夏秋 くつ下 通気性 吸汗速乾", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 81089.66, "t30d_units": 51.0}, {"asin": "B0G63SGQK8", "item_name": "[Xiyaoer] 靴下 メンズ スポーツソックス 通気性 抗菌防臭 吸汗速乾 滑り止め 男女兼用 着圧 アウトドア ソックス 24～28cm 5足セット (JP, アルファベット, Free Size, ５足セット1)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 1351.0, "t30d_units": 1.0}, {"asin": "B0FNLCN6Z7", "item_name": "[Xiyaoer] 靴下 メンズ 高级綿 10足セットスポーツソックス カラフルソックス カジュアルソックス スポーツ くつした 男性用 ビジネス クルーソックス 靴下 おしゃれ 通気性 24-28cm (JP, アルファベット, Free Size, 10足セット6)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Softlines", "t30d_ops": 4691.0, "t30d_units": 3.0}, {"asin": "B0FX4K7B82", "item_name": "[Xiyaoer] 靴下 メンズ 冬 暖かい 5足セット 厚手 防寒 あったか 吸汗消臭 耐久性 保温 登山 靴下 24-28㎝ (JP, アルファベット, Free Size, ５足セット2)", "suppression_reason": "[ITEM_RATING_LESS_THAN_THRESHOLD[]", "suppression_category": "5.Others", "pf": "Softlines", "t30d_ops": 32372.0, "t30d_units": 23.0}]}
+{
+  "12669219822": [
+    {
+      "asin": "B0FX8LN9GT",
+      "item_name": "[Xiyaoer] 靴下 メンズ スポーツソックス 通気性 抗菌防臭 吸汗速乾 滑り止め 男女兼用 着圧 アウトドア ソックス 24～28cm 5足セット (JP, アルファベット, Free Size, ５足セット2)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 11270.0,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B0FNL6NRTY",
+      "item_name": "[Xiyaoer] 靴下 レディース (JP, アルファベット, Free Size, 10足セット1)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Softlines",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0FMXFV68K",
+      "item_name": "[Xiyaoer] 靴下 メンズ 高级綿 10足セットスポーツソックス カラフルソックス カジュアルソックス スポーツ くつした 男性用 ビジネス クルーソックス 靴下 おしゃれ 通気性 24-28cm (JP, アルファベット, Free Size, 10足セット5)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Softlines",
+      "t30d_ops": 3021.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0FP5122QT",
+      "item_name": "[Xiyaoer] 靴下 メンズ 冬 高级綿 厚手10足セットスポーツソックス カラフルソックス カジュアルソックス スポーツ くつした 男性用 おしゃれ 通気性 24-28cm (JP, アルファベット, Free Size, 7足セット)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 12703.66,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B0FKZ6K3NF",
+      "item_name": "[Xiyaoer] 靴下 メンズ ソックス 靴下 くるぶしソックス【吸汗 防臭 綿】 10足セット スポーツソックス スポーツ くつした メンズ クルーソックス 靴下 おしゃれ 通気性 吸汗速乾 24-28cm (10足セット5)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 15900.0,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B0876VZRN8",
+      "item_name": "[Xiyaoer] 靴下 メンズ くるぶし 綿 24-28cm 靴下 おしゃれ スポーツ くつした メンズ 男性用 ビジネス クルーソックス 春夏秋 くつ下 通気性 吸汗速乾",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 81089.66,
+      "t30d_units": 51.0
+    },
+    {
+      "asin": "B0G63SGQK8",
+      "item_name": "[Xiyaoer] 靴下 メンズ スポーツソックス 通気性 抗菌防臭 吸汗速乾 滑り止め 男女兼用 着圧 アウトドア ソックス 24～28cm 5足セット (JP, アルファベット, Free Size, ５足セット1)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 1351.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0FNLCN6Z7",
+      "item_name": "[Xiyaoer] 靴下 メンズ 高级綿 10足セットスポーツソックス カラフルソックス カジュアルソックス スポーツ くつした 男性用 ビジネス クルーソックス 靴下 おしゃれ 通気性 24-28cm (JP, アルファベット, Free Size, 10足セット6)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Softlines",
+      "t30d_ops": 4691.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0FX4K7B82",
+      "item_name": "[Xiyaoer] 靴下 メンズ 冬 暖かい 5足セット 厚手 防寒 あったか 吸汗消臭 耐久性 保温 登山 靴下 24-28㎝ (JP, アルファベット, Free Size, ５足セット2)",
+      "suppression_reason": "[ITEM_RATING_LESS_THAN_THRESHOLD[]",
+      "suppression_category": "5.Others",
+      "pf": "Softlines",
+      "t30d_ops": 32372.0,
+      "t30d_units": 23.0
+    }
+  ]
+}

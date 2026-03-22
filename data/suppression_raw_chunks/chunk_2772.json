@@ -1,1 +1,67 @@
-{"7211606522": [{"asin": "B0CM97WNPH", "item_name": "【指定第2類医薬品】威徳 2g×90包", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 5837850.0, "t30d_units": 650.0}, {"asin": "B0FW4HCLKJ", "item_name": "尿酸ケア習慣 ルテオリン 機能性表示食品 錠剤 田七人参 和漢の森 尿酸値を下げる プリン体 漢方薬剤師監修 2袋", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 684126.84, "t30d_units": 176.0}, {"asin": "B09RTY5YBC", "item_name": "贅沢ウラジロガシEX 200mg 和漢の森 国産 無添加 60粒入り クロレラ 田七人参 国際中医師監修", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 1937518.61, "t30d_units": 1437.0}, {"asin": "B07Y1QFRNK", "item_name": "和漢の森 贅沢ノコギリヤシ420 60粒入り牡蠣 高麗人参 ヤマイモ 亜鉛 国内製造 栄養機能食品 ソフトカプセル", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 5082615.47, "t30d_units": 2875.0}, {"asin": "B0FW4DN9TK", "item_name": "和漢の森 贅沢ノコギリヤシ420 60粒入り 牡蠣 高麗人参 亜鉛 国内製造 栄養機能食品 ソフトカプセル (2)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 420130.49, "t30d_units": 114.0}, {"asin": "B085RHX6P8", "item_name": "尿酸ケア習慣 ルテオリン (1ヶ月分) 機能性表示食品 錠剤 田七人参 和漢の森 尿酸値を下げる プリン体 アンセリン 漢方薬剤師監修", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 4876799.5, "t30d_units": 2476.0}, {"asin": "B0FW4FFN5R", "item_name": "贅沢ウラジロガシEX 200mg 和漢の森 国産 無添加 60粒入り クロレラ 田七人参 国際中医師監修 2袋", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 152387.07, "t30d_units": 56.0}]}
+{
+  "7211606522": [
+    {
+      "asin": "B0CM97WNPH",
+      "item_name": "【指定第2類医薬品】威徳 2g×90包",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 5837850.0,
+      "t30d_units": 650.0
+    },
+    {
+      "asin": "B0FW4HCLKJ",
+      "item_name": "尿酸ケア習慣 ルテオリン 機能性表示食品 錠剤 田七人参 和漢の森 尿酸値を下げる プリン体 漢方薬剤師監修 2袋",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 684126.84,
+      "t30d_units": 176.0
+    },
+    {
+      "asin": "B09RTY5YBC",
+      "item_name": "贅沢ウラジロガシEX 200mg 和漢の森 国産 無添加 60粒入り クロレラ 田七人参 国際中医師監修",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 1937518.61,
+      "t30d_units": 1437.0
+    },
+    {
+      "asin": "B07Y1QFRNK",
+      "item_name": "和漢の森 贅沢ノコギリヤシ420 60粒入り牡蠣 高麗人参 ヤマイモ 亜鉛 国内製造 栄養機能食品 ソフトカプセル",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 5082615.47,
+      "t30d_units": 2875.0
+    },
+    {
+      "asin": "B0FW4DN9TK",
+      "item_name": "和漢の森 贅沢ノコギリヤシ420 60粒入り 牡蠣 高麗人参 亜鉛 国内製造 栄養機能食品 ソフトカプセル (2)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 420130.49,
+      "t30d_units": 114.0
+    },
+    {
+      "asin": "B085RHX6P8",
+      "item_name": "尿酸ケア習慣 ルテオリン (1ヶ月分) 機能性表示食品 錠剤 田七人参 和漢の森 尿酸値を下げる プリン体 アンセリン 漢方薬剤師監修",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 4876799.5,
+      "t30d_units": 2476.0
+    },
+    {
+      "asin": "B0FW4FFN5R",
+      "item_name": "贅沢ウラジロガシEX 200mg 和漢の森 国産 無添加 60粒入り クロレラ 田七人参 国際中医師監修 2袋",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 152387.07,
+      "t30d_units": 56.0
+    }
+  ]
+}

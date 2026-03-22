@@ -1,1 +1,49 @@
-{"9341611355": [{"asin": "B0FV8D7T4C", "item_name": "【2本セット巻き取り式充電ケーブル 新登場】3in1 充電ケーブル 巻き取り 3in1 充電コード 3台同時給電可能3A充電最大15W 伸縮式 絡み防止 3種類端子対応 1.2m 高速データ転送（i0s対応のみ）正規充電器対応 (ホワイト)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 211374.53, "t30d_units": 128.0}, {"asin": "B0FXKQFPWB", "item_name": "【2本セット巻き取り式充電ケーブル 新登場】3in1 充電ケーブル 巻き取り 3in1 充電コード 3台同時給電可能3A最大15W 伸縮式 絡み防止 3種類端子対応 1.2m 高速データ転送（i0s対応のみ）正規充電器対応 (ブラック)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 251445.65, "t30d_units": 150.0}, {"asin": "B0DHR7KGF3", "item_name": "充電ケーブルusb type c ケーブル【CAFELE27ｗ 巻き取り式ケーブル】USB-C to USB-C ケーブル 27W 3in1巻き取り充電ケーブル3台同時給電 QC4.0 急速充電 マルチ 充電ケーブル type c コード 全機種に対応 送絡み防止 PD不可（ 120cm）", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 4905.0, "t30d_units": 3.0}, {"asin": "B0CNQT6P9G", "item_name": "【新登場 15ｗ 巻き取り式ケーブル】CAFELE 3in1 充電ケーブル 巻き取り マイクロusb 5V3A急速充電 最大15W高速データ転 （10Sのみ）充電コード 送絡み防止 全機種に対応 usbケーブル/Micro/Type-c 120cm", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 12500.0, "t30d_units": 8.0}, {"asin": "B0CF8F4NMZ", "item_name": "【新登場 27ｗ 巻き取り式ケーブル】3in1 充電ケーブル 巻き取り usb-C to usb-c けーぷる usb-c to けーぷる タイプC マイクロusb 高速データ転 全機種に対応 送絡み防止（120cm）", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 20533.0, "t30d_units": 11.0}]}
+{
+  "9341611355": [
+    {
+      "asin": "B0FV8D7T4C",
+      "item_name": "【2本セット巻き取り式充電ケーブル 新登場】3in1 充電ケーブル 巻き取り 3in1 充電コード 3台同時給電可能3A充電最大15W 伸縮式 絡み防止 3種類端子対応 1.2m 高速データ転送（i0s対応のみ）正規充電器対応 (ホワイト)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 211374.53,
+      "t30d_units": 128.0
+    },
+    {
+      "asin": "B0FXKQFPWB",
+      "item_name": "【2本セット巻き取り式充電ケーブル 新登場】3in1 充電ケーブル 巻き取り 3in1 充電コード 3台同時給電可能3A最大15W 伸縮式 絡み防止 3種類端子対応 1.2m 高速データ転送（i0s対応のみ）正規充電器対応 (ブラック)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 251445.65,
+      "t30d_units": 150.0
+    },
+    {
+      "asin": "B0DHR7KGF3",
+      "item_name": "充電ケーブルusb type c ケーブル【CAFELE27ｗ 巻き取り式ケーブル】USB-C to USB-C ケーブル 27W 3in1巻き取り充電ケーブル3台同時給電 QC4.0 急速充電 マルチ 充電ケーブル type c コード 全機種に対応 送絡み防止 PD不可（ 120cm）",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 4905.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0CNQT6P9G",
+      "item_name": "【新登場 15ｗ 巻き取り式ケーブル】CAFELE 3in1 充電ケーブル 巻き取り マイクロusb 5V3A急速充電 最大15W高速データ転 （10Sのみ）充電コード 送絡み防止 全機種に対応 usbケーブル/Micro/Type-c 120cm",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 12500.0,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B0CF8F4NMZ",
+      "item_name": "【新登場 27ｗ 巻き取り式ケーブル】3in1 充電ケーブル 巻き取り usb-C to usb-c けーぷる usb-c to けーぷる タイプC マイクロusb 高速データ転 全機種に対応 送絡み防止（120cm）",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 20533.0,
+      "t30d_units": 11.0
+    }
+  ]
+}

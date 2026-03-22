@@ -1,1 +1,85 @@
-{"637536395": [{"asin": "B002738Z6O", "item_name": "【自宅で簡単手づくり】フジッコ カスピ海ヨーグルト 手づくり用 種菌 (3g×2包) 3セット【乳酸菌 お通じ】", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 229682.59, "t30d_units": 96.0}, {"asin": "B0FPQJN8DK", "item_name": "【レンジで簡単】フジッコ Beanus ダイズライス 500g×3セット（10食×3）【低糖質 高タンパク 置き換えダイエット】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 17820.0, "t30d_units": 2.0}, {"asin": "B0CV4XLCNL", "item_name": "フジッコ 善玉菌のチカラEX【機能性表示食品】 (31粒入り/約1ヶ月分) 1袋 【カスピ海乳酸菌配合 ビフィズス菌 菌活】", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 143240.0, "t30d_units": 32.0}, {"asin": "B0CV4WT335", "item_name": "フジッコ 善玉菌のチカラ (31粒入り/約1ヶ月分) 1袋 【機能性表示食品 カスピ海乳酸菌配合 お通じを改善 菌活】", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 1383244.12, "t30d_units": 609.0}, {"asin": "B0FNR74SHX", "item_name": "【レンジで簡単】フジッコ Beanus ダイズライス 500g（10食）【低糖質 高タンパク 置き換えダイエット】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 161985.66, "t30d_units": 58.0}, {"asin": "B002738Z6E", "item_name": "【自宅で簡単手づくり】フジッコ カスピ海ヨーグルト 手づくり用 種菌 (3g×2包) 2セット【乳酸菌 お通じ】", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 205872.54, "t30d_units": 132.0}, {"asin": "B0828N3XYH", "item_name": "フジッコ 黒酢黒豆 クロクロ（65g×30食入り）2セット【置き換えダイエット 食物繊維 植物性たんぱく質】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 67200.0, "t30d_units": 6.0}, {"asin": "B081SYWQK4", "item_name": "フジッコ デンタフローラ (31粒入り/約1ヶ月分) 1袋 【口内ケア サプリ タブレット お口のねばつき】", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 1652490.71, "t30d_units": 658.0}, {"asin": "B0FPQJ8Y2Z", "item_name": "【レンジで簡単】フジッコ Beanus ダイズライス 500g×2セット（10食×2）【低糖質 高タンパク 置き換えダイエット】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 17820.0, "t30d_units": 3.0}]}
+{
+  "637536395": [
+    {
+      "asin": "B002738Z6O",
+      "item_name": "【自宅で簡単手づくり】フジッコ カスピ海ヨーグルト 手づくり用 種菌 (3g×2包) 3セット【乳酸菌 お通じ】",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 229682.59,
+      "t30d_units": 96.0
+    },
+    {
+      "asin": "B0FPQJN8DK",
+      "item_name": "【レンジで簡単】フジッコ Beanus ダイズライス 500g×3セット（10食×3）【低糖質 高タンパク 置き換えダイエット】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 17820.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0CV4XLCNL",
+      "item_name": "フジッコ 善玉菌のチカラEX【機能性表示食品】 (31粒入り/約1ヶ月分) 1袋 【カスピ海乳酸菌配合 ビフィズス菌 菌活】",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 143240.0,
+      "t30d_units": 32.0
+    },
+    {
+      "asin": "B0CV4WT335",
+      "item_name": "フジッコ 善玉菌のチカラ (31粒入り/約1ヶ月分) 1袋 【機能性表示食品 カスピ海乳酸菌配合 お通じを改善 菌活】",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 1383244.12,
+      "t30d_units": 609.0
+    },
+    {
+      "asin": "B0FNR74SHX",
+      "item_name": "【レンジで簡単】フジッコ Beanus ダイズライス 500g（10食）【低糖質 高タンパク 置き換えダイエット】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 161985.66,
+      "t30d_units": 58.0
+    },
+    {
+      "asin": "B002738Z6E",
+      "item_name": "【自宅で簡単手づくり】フジッコ カスピ海ヨーグルト 手づくり用 種菌 (3g×2包) 2セット【乳酸菌 お通じ】",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 205872.54,
+      "t30d_units": 132.0
+    },
+    {
+      "asin": "B0828N3XYH",
+      "item_name": "フジッコ 黒酢黒豆 クロクロ（65g×30食入り）2セット【置き換えダイエット 食物繊維 植物性たんぱく質】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 67200.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B081SYWQK4",
+      "item_name": "フジッコ デンタフローラ (31粒入り/約1ヶ月分) 1袋 【口内ケア サプリ タブレット お口のねばつき】",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 1652490.71,
+      "t30d_units": 658.0
+    },
+    {
+      "asin": "B0FPQJ8Y2Z",
+      "item_name": "【レンジで簡単】フジッコ Beanus ダイズライス 500g×2セット（10食×2）【低糖質 高タンパク 置き換えダイエット】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 17820.0,
+      "t30d_units": 3.0
+    }
+  ]
+}

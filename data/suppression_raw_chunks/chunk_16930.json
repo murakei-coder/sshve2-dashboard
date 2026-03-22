@@ -1,1 +1,22 @@
-{"1205130577802": [{"asin": "B0GMPCR33M", "item_name": "シェーバー ひげそり 電動シェーバー 髭剃り 電動 360°回転式 長持ちバッテリー 急速充電 携帯便利 出張/旅行/車内常備", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 68381.0, "t30d_units": 19.0}, {"asin": "B0GMNQMGW3", "item_name": "シェーバー ひげそり 電動シェーバー 髭剃り 電動 360°回転式 長持ちバッテリー 急速充電 携帯便利 出張/旅行/車内常備", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "1205130577802": [
+    {
+      "asin": "B0GMPCR33M",
+      "item_name": "シェーバー ひげそり 電動シェーバー 髭剃り 電動 360°回転式 長持ちバッテリー 急速充電 携帯便利 出張/旅行/車内常備",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 68381.0,
+      "t30d_units": 19.0
+    },
+    {
+      "asin": "B0GMNQMGW3",
+      "item_name": "シェーバー ひげそり 電動シェーバー 髭剃り 電動 360°回転式 長持ちバッテリー 急速充電 携帯便利 出張/旅行/車内常備",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

@@ -1,1 +1,76 @@
-{"75441969422": [{"asin": "B0DZ2B33JB", "item_name": "【5つ星ホテル仕様-高密度メモリーフォーム】枕 深い眠り枕 首が痛くならない 温度調節 低反発まくら 抗菌 消臭 調湿 いびき 軽減 仰向け寝 横向き寝 枕カバー 通気性 洗える ウェーブ立体構造", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 265956.37, "t30d_units": 110.0}, {"asin": "B0FG1N9M7V", "item_name": "【2026アップグレード版クッション-美しい包装】低反発クッション 腰痛 座布団 座骨神経痛 褥瘡予防 車椅子、オフィスチェア、長時間座り続ける場合や運転に適し、通気性 滑り止め底", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 175725.49, "t30d_units": 69.0}, {"asin": "B0FG1LG748", "item_name": "【医師推奨の痔用クッション - 美しいパッケージ】-ドーナツクッション 高密度メモリーフォーム 産後の痔、尾骨、臀部の痛みに適しています 通気性 滑り止め底 (灰色)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 351415.41, "t30d_units": 128.0}, {"asin": "B0FG1M2QKG", "item_name": "【2026アップグレード版クッション-美しい包装】低反発クッション 腰痛 座布団 座骨神経痛 褥瘡予防 車椅子、オフィスチェア、長時間座り続ける場合や運転に適し、通気性 滑り止め底", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 63602.0, "t30d_units": 23.0}, {"asin": "B0FG1NQ6HS", "item_name": "【医師推奨の痔用クッション - 美しいパッケージ】-ドーナツクッション 高密度メモリーフォーム 産後の痔、尾骨、臀部の痛みに適しています 通気性 滑り止め底", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 979608.22, "t30d_units": 364.0}, {"asin": "B0FG1M3GS5", "item_name": "【5つ星ホテル仕様-高密度メモリーフォーム】枕 深い眠り枕 首が痛くならない 温度調節 低反発まくら 抗菌 消臭 調湿 いびき 軽減 仰向け寝 横向き寝 枕カバー 通気性 洗える 高め 低め 三層構造", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 331455.74, "t30d_units": 115.0}, {"asin": "B0FG1MNZZG", "item_name": "【医師推奨の痔用クッション - 美しいパッケージ】-ドーナツクッション 高密度メモリーフォーム 産後の痔、尾骨、臀部の痛みに適しています 通気性 滑り止め底", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 201994.32, "t30d_units": 67.0}, {"asin": "B0GHHDK4PW", "item_name": "【2026アップグレード版クッション-美しい包装】低反発クッション 腰痛 座布団 座骨神経痛 褥瘡予防 車椅子、オフィスチェア、長時間座り続ける場合や運転に適し、通気性 滑り止め底", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 211338.37, "t30d_units": 85.0}]}
+{
+  "75441969422": [
+    {
+      "asin": "B0DZ2B33JB",
+      "item_name": "【5つ星ホテル仕様-高密度メモリーフォーム】枕 深い眠り枕 首が痛くならない 温度調節 低反発まくら 抗菌 消臭 調湿 いびき 軽減 仰向け寝 横向き寝 枕カバー 通気性 洗える ウェーブ立体構造",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 265956.37,
+      "t30d_units": 110.0
+    },
+    {
+      "asin": "B0FG1N9M7V",
+      "item_name": "【2026アップグレード版クッション-美しい包装】低反発クッション 腰痛 座布団 座骨神経痛 褥瘡予防 車椅子、オフィスチェア、長時間座り続ける場合や運転に適し、通気性 滑り止め底",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 175725.49,
+      "t30d_units": 69.0
+    },
+    {
+      "asin": "B0FG1LG748",
+      "item_name": "【医師推奨の痔用クッション - 美しいパッケージ】-ドーナツクッション 高密度メモリーフォーム 産後の痔、尾骨、臀部の痛みに適しています 通気性 滑り止め底 (灰色)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 351415.41,
+      "t30d_units": 128.0
+    },
+    {
+      "asin": "B0FG1M2QKG",
+      "item_name": "【2026アップグレード版クッション-美しい包装】低反発クッション 腰痛 座布団 座骨神経痛 褥瘡予防 車椅子、オフィスチェア、長時間座り続ける場合や運転に適し、通気性 滑り止め底",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 63602.0,
+      "t30d_units": 23.0
+    },
+    {
+      "asin": "B0FG1NQ6HS",
+      "item_name": "【医師推奨の痔用クッション - 美しいパッケージ】-ドーナツクッション 高密度メモリーフォーム 産後の痔、尾骨、臀部の痛みに適しています 通気性 滑り止め底",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 979608.22,
+      "t30d_units": 364.0
+    },
+    {
+      "asin": "B0FG1M3GS5",
+      "item_name": "【5つ星ホテル仕様-高密度メモリーフォーム】枕 深い眠り枕 首が痛くならない 温度調節 低反発まくら 抗菌 消臭 調湿 いびき 軽減 仰向け寝 横向き寝 枕カバー 通気性 洗える 高め 低め 三層構造",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 331455.74,
+      "t30d_units": 115.0
+    },
+    {
+      "asin": "B0FG1MNZZG",
+      "item_name": "【医師推奨の痔用クッション - 美しいパッケージ】-ドーナツクッション 高密度メモリーフォーム 産後の痔、尾骨、臀部の痛みに適しています 通気性 滑り止め底",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 201994.32,
+      "t30d_units": 67.0
+    },
+    {
+      "asin": "B0GHHDK4PW",
+      "item_name": "【2026アップグレード版クッション-美しい包装】低反発クッション 腰痛 座布団 座骨神経痛 褥瘡予防 車椅子、オフィスチェア、長時間座り続ける場合や運転に適し、通気性 滑り止め底",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 211338.37,
+      "t30d_units": 85.0
+    }
+  ]
+}

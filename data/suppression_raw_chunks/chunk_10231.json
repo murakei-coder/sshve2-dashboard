@@ -1,1 +1,31 @@
-{"88515960022": [{"asin": "B0DH1ZBQPM", "item_name": "小型カメラ メガネ型カメラ サングラスカメラ スポーツカメラ 1080P画質 カメラ付きメガネ 隠しカメラ 長時間録画 128GB対応 Bluetooth機能 イヤホン付き 音楽/通話でき アウトドアスポーツ/生活記録 DVカメラ 操作簡単 写真撮影 日本語説明書付", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 6482.0, "t30d_units": 1.0}, {"asin": "B0F2J1B779", "item_name": "小型カメラ メガネカメラ 隠しカメラ 1080P画質 超小型カメラ 長時間録画 大容量128GB対応 監視カメラ 写真撮影 会議/商談 証拠撮影 カメラ付きメガネ 防犯用 操作簡単 屋内 屋外 日本語取扱説明書付 (メガネ型)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 57337.66, "t30d_units": 9.0}, {"asin": "B0CKN742VG", "item_name": "小型カメラ WiFi 隠しカメラ 充電器型 スパイカメラ ACアダプター 小型監視カメラ 1080P 防犯カメラ wifiカメラ 長時間録画 128GB対応 挿すだけ スマホで遠隔監視 動体検知 警報通知 犯罪防止 日本語取扱付 (M)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 144539.66, "t30d_units": 18.0}]}
+{
+  "88515960022": [
+    {
+      "asin": "B0DH1ZBQPM",
+      "item_name": "小型カメラ メガネ型カメラ サングラスカメラ スポーツカメラ 1080P画質 カメラ付きメガネ 隠しカメラ 長時間録画 128GB対応 Bluetooth機能 イヤホン付き 音楽/通話でき アウトドアスポーツ/生活記録 DVカメラ 操作簡単 写真撮影 日本語説明書付",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 6482.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0F2J1B779",
+      "item_name": "小型カメラ メガネカメラ 隠しカメラ 1080P画質 超小型カメラ 長時間録画 大容量128GB対応 監視カメラ 写真撮影 会議/商談 証拠撮影 カメラ付きメガネ 防犯用 操作簡単 屋内 屋外 日本語取扱説明書付 (メガネ型)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 57337.66,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B0CKN742VG",
+      "item_name": "小型カメラ WiFi 隠しカメラ 充電器型 スパイカメラ ACアダプター 小型監視カメラ 1080P 防犯カメラ wifiカメラ 長時間録画 128GB対応 挿すだけ スマホで遠隔監視 動体検知 警報通知 犯罪防止 日本語取扱付 (M)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 144539.66,
+      "t30d_units": 18.0
+    }
+  ]
+}

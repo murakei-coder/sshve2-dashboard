@@ -1,1 +1,31 @@
-{"651797760502": [{"asin": "B0F8R6GF4K", "item_name": "Hoovic ジレット 替刃 電動 プログライド フュージョン 5枚刃 ひげそり 髭剃り 互換品 ュージョン カミソリ 替刃 (8個セット)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 130476.56, "t30d_units": 99.0}, {"asin": "B0FR34HL2N", "item_name": "Hoovic シリーズ5 シリーズ6 シリーズ7替刃 53b 互換品 F/C53B F/C64B-b 73S F/C73S Series5 Series6 Series7 替刃 髭剃り メンズ 電気シェーバー シェーバーヘッド カミソリ ブラック", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 736118.62, "t30d_units": 326.0}, {"asin": "B0FFBLQV3J", "item_name": "Hoovic ジレット 替刃 プログライド フュージョン カミソ 5枚刃 電動 プログライド ひげそり 髭剃り 互換品 カミソリ 替刃 (8個セット)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 24246.33, "t30d_units": 17.0}]}
+{
+  "651797760502": [
+    {
+      "asin": "B0F8R6GF4K",
+      "item_name": "Hoovic ジレット 替刃 電動 プログライド フュージョン 5枚刃 ひげそり 髭剃り 互換品 ュージョン カミソリ 替刃 (8個セット)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 130476.56,
+      "t30d_units": 99.0
+    },
+    {
+      "asin": "B0FR34HL2N",
+      "item_name": "Hoovic シリーズ5 シリーズ6 シリーズ7替刃 53b 互換品 F/C53B F/C64B-b 73S F/C73S Series5 Series6 Series7 替刃 髭剃り メンズ 電気シェーバー シェーバーヘッド カミソリ ブラック",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 736118.62,
+      "t30d_units": 326.0
+    },
+    {
+      "asin": "B0FFBLQV3J",
+      "item_name": "Hoovic ジレット 替刃 プログライド フュージョン カミソ 5枚刃 電動 プログライド ひげそり 髭剃り 互換品 カミソリ 替刃 (8個セット)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 24246.33,
+      "t30d_units": 17.0
+    }
+  ]
+}

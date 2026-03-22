@@ -1,1 +1,22 @@
-{"645486103702": [{"asin": "B0C9WP27QS", "item_name": "【業界初のNMN配合】シャンブレ トレーニングローション 温感 クリームローション シトルリン アルギニン 1ヶ月分 日本製", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 406307.29, "t30d_units": 84.0}, {"asin": "B0GQL6115J", "item_name": "【Wの乳酸菌3.1兆個配合】LunaRich デリケートゾーン サプリ 乳酸菌 3.1兆個 クリスタパス菌 ビフィズス菌 30日分 国内製造 菌活 フェムケア オリゴ糖 ラクトフェリン 美容成分", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "645486103702": [
+    {
+      "asin": "B0C9WP27QS",
+      "item_name": "【業界初のNMN配合】シャンブレ トレーニングローション 温感 クリームローション シトルリン アルギニン 1ヶ月分 日本製",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 406307.29,
+      "t30d_units": 84.0
+    },
+    {
+      "asin": "B0GQL6115J",
+      "item_name": "【Wの乳酸菌3.1兆個配合】LunaRich デリケートゾーン サプリ 乳酸菌 3.1兆個 クリスタパス菌 ビフィズス菌 30日分 国内製造 菌活 フェムケア オリゴ糖 ラクトフェリン 美容成分",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

@@ -1,1 +1,67 @@
-{"815236010502": [{"asin": "B0FN4NJHN9", "item_name": "七座の雫 [大容量・黒ばら海苔] 100ｇ 最高等級 伊勢志摩名産 磯の香り 細菌検査済み 無添加・無着色 熱処理・裁断無し 昔ながらの手作業", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 349937.54, "t30d_units": 110.0}, {"asin": "B0FBKCC8WJ", "item_name": "七座の雫 【無添加・国産ハチミツ】 500ｇ 非加熱 百花蜜 残留農薬検出なし 生はちみつ 濃厚蜂蜜 こだわりの手作業 八風農園雅 【七座の雫】 (500g)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 1116.0, "t30d_units": 0.0}, {"asin": "B0F9V9SNBB", "item_name": "七座の雫 【鯛めしの素 ４合用（２合×２袋）】 伊勢志摩産真鯛 化学調味料無添加 無着色 保存料不使用 混ぜるだけで絶品鯛飯 一緒に炊くと更に美味しい レトルト まるきんまる", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 32240.0, "t30d_units": 13.0}, {"asin": "B0G57QTCCQ", "item_name": "七座の雫 [しそ漬け梅干し 彩り 250ｇ] 塩分13％ 無添加 天然塩 郡上の名水仕込み 塩抜き無しで栄養そのまま 岐阜県産", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 44342.51, "t30d_units": 26.0}, {"asin": "B0GLHQX12B", "item_name": "[TERRANÉ] INNER FOCUS ブレンド マテ茶 黒豆茶 ルイボスティー スターアニス 配合 スパイスティー ティーバッグ カフェインフリー 2g×30包 (管理栄養士監修)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 39282.0, "t30d_units": 54.0}, {"asin": "B0DNCSQXHL", "item_name": "七座の雫 国産 純粋 はちみつ 非加熱 生はちみつ 200g 無添加 百花蜜 【残留農薬検査済】 三重県産 濃厚 蜂蜜 八風農園雅", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 121387.91, "t30d_units": 45.0}, {"asin": "B0F91S36RR", "item_name": "【七座の雫】あおさのり 大容量・100ｇ 水洗い 最高等級 水優 伊勢志摩名産 細菌検査済み 無添加・無着色 香り立つ青さ ヒトエグサ 昔ながらの手作業", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 226548.26, "t30d_units": 68.0}]}
+{
+  "815236010502": [
+    {
+      "asin": "B0FN4NJHN9",
+      "item_name": "七座の雫 [大容量・黒ばら海苔] 100ｇ 最高等級 伊勢志摩名産 磯の香り 細菌検査済み 無添加・無着色 熱処理・裁断無し 昔ながらの手作業",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 349937.54,
+      "t30d_units": 110.0
+    },
+    {
+      "asin": "B0FBKCC8WJ",
+      "item_name": "七座の雫 【無添加・国産ハチミツ】 500ｇ 非加熱 百花蜜 残留農薬検出なし 生はちみつ 濃厚蜂蜜 こだわりの手作業 八風農園雅 【七座の雫】 (500g)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 1116.0,
+      "t30d_units": 0.0
+    },
+    {
+      "asin": "B0F9V9SNBB",
+      "item_name": "七座の雫 【鯛めしの素 ４合用（２合×２袋）】 伊勢志摩産真鯛 化学調味料無添加 無着色 保存料不使用 混ぜるだけで絶品鯛飯 一緒に炊くと更に美味しい レトルト まるきんまる",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 32240.0,
+      "t30d_units": 13.0
+    },
+    {
+      "asin": "B0G57QTCCQ",
+      "item_name": "七座の雫 [しそ漬け梅干し 彩り 250ｇ] 塩分13％ 無添加 天然塩 郡上の名水仕込み 塩抜き無しで栄養そのまま 岐阜県産",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 44342.51,
+      "t30d_units": 26.0
+    },
+    {
+      "asin": "B0GLHQX12B",
+      "item_name": "[TERRANÉ] INNER FOCUS ブレンド マテ茶 黒豆茶 ルイボスティー スターアニス 配合 スパイスティー ティーバッグ カフェインフリー 2g×30包 (管理栄養士監修)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 39282.0,
+      "t30d_units": 54.0
+    },
+    {
+      "asin": "B0DNCSQXHL",
+      "item_name": "七座の雫 国産 純粋 はちみつ 非加熱 生はちみつ 200g 無添加 百花蜜 【残留農薬検査済】 三重県産 濃厚 蜂蜜 八風農園雅",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 121387.91,
+      "t30d_units": 45.0
+    },
+    {
+      "asin": "B0F91S36RR",
+      "item_name": "【七座の雫】あおさのり 大容量・100ｇ 水洗い 最高等級 水優 伊勢志摩名産 細菌検査済み 無添加・無着色 香り立つ青さ ヒトエグサ 昔ながらの手作業",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 226548.26,
+      "t30d_units": 68.0
+    }
+  ]
+}

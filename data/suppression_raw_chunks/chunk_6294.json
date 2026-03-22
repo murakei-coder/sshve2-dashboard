@@ -1,1 +1,67 @@
-{"33365251122": [{"asin": "B0F66Q5MTN", "item_name": "【改良モデル 220g/m² 厚手生地】防雨シート ブラック 防水 UV シート 屋根 カバー 庭 両面防水 UV カット 遮光 保護 水害対策 豪雨対策 防雪 防災 厚手 耐久性 1.9mx1.9m", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 0.0, "t30d_units": 0.0}, {"asin": "B0G2BQ7DVQ", "item_name": "サッカーボード 作戦ボード 2026年新型 プロサッカーコーチ推奨 アルミニウム合金製 ハーフコート/フルコート両用 サッカー戦術ボード トレーニング用 サッカーグッズ 戦術 戦略指導 タクティックボード 打合せ 専門収納袋付き 持ち運びに便利", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 55358.33, "t30d_units": 22.0}, {"asin": "B0G4VNCSZ2", "item_name": "Homthy ダーツボード 的当てゲーム パーティーゲーム ギフト 折り畳み式 74cm 超大 3in1 遊び方可能 コンパクト 家庭室内外遊び対応 大判 投げゲーム スポーツゲーム ダーツゲーム 粘着ボール 粘着式", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 38680.5, "t30d_units": 20.0}, {"asin": "B0FVXMFSJW", "item_name": "ハンドケア ハンドモミ リラクゼーション器 手のひら + 指 温熱加圧 エアバッグ揉み コードレス オートオフタイマー コードレス充電式 保湿 手の休憩 男女兼用 敬老の日 父の日 誕生日 プレゼント ギフト 純白", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 48043.0, "t30d_units": 7.0}, {"asin": "B0DJV7LRV4", "item_name": "【改良モデル 220g/m² 厚手生地】防雨シート シルバー 防水 UVシート 屋根 カバー 庭 両面防水 UVカット 遮光 保護 水害対策 豪雨対策 防雪 防災 厚手 耐久性 1.9mx1.9m", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 1999.0, "t30d_units": 1.0}, {"asin": "B0DJV88ZJ2", "item_name": "【改良モデル 220g/m² 厚手生地】防雨シート シルバー 防水 UVシート 屋根 カバー 庭 両面防水 UVカット 遮光 保護 水害対策 豪雨対策 防雪 防災 厚手 耐久性 2.8mx3.8m", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "L&L", "t30d_ops": 0.0, "t30d_units": 0.0}, {"asin": "B0F66VVXWW", "item_name": "【改良モデル 220g/m² 厚手生地】防雨シート ブルーオレンジ 防水 UV シート 屋根 カバー 庭 両面防水 UV カット 遮光 保護 水害対策 豪雨対策 防雪 防災 厚手 耐久性 1.9mx1.9m", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "L&L", "t30d_ops": 6899.0, "t30d_units": 5.0}]}
+{
+  "33365251122": [
+    {
+      "asin": "B0F66Q5MTN",
+      "item_name": "【改良モデル 220g/m² 厚手生地】防雨シート ブラック 防水 UV シート 屋根 カバー 庭 両面防水 UV カット 遮光 保護 水害対策 豪雨対策 防雪 防災 厚手 耐久性 1.9mx1.9m",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    },
+    {
+      "asin": "B0G2BQ7DVQ",
+      "item_name": "サッカーボード 作戦ボード 2026年新型 プロサッカーコーチ推奨 アルミニウム合金製 ハーフコート/フルコート両用 サッカー戦術ボード トレーニング用 サッカーグッズ 戦術 戦略指導 タクティックボード 打合せ 専門収納袋付き 持ち運びに便利",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 55358.33,
+      "t30d_units": 22.0
+    },
+    {
+      "asin": "B0G4VNCSZ2",
+      "item_name": "Homthy ダーツボード 的当てゲーム パーティーゲーム ギフト 折り畳み式 74cm 超大 3in1 遊び方可能 コンパクト 家庭室内外遊び対応 大判 投げゲーム スポーツゲーム ダーツゲーム 粘着ボール 粘着式",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 38680.5,
+      "t30d_units": 20.0
+    },
+    {
+      "asin": "B0FVXMFSJW",
+      "item_name": "ハンドケア ハンドモミ リラクゼーション器 手のひら + 指 温熱加圧 エアバッグ揉み コードレス オートオフタイマー コードレス充電式 保湿 手の休憩 男女兼用 敬老の日 父の日 誕生日 プレゼント ギフト 純白",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 48043.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0DJV7LRV4",
+      "item_name": "【改良モデル 220g/m² 厚手生地】防雨シート シルバー 防水 UVシート 屋根 カバー 庭 両面防水 UVカット 遮光 保護 水害対策 豪雨対策 防雪 防災 厚手 耐久性 1.9mx1.9m",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 1999.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0DJV88ZJ2",
+      "item_name": "【改良モデル 220g/m² 厚手生地】防雨シート シルバー 防水 UVシート 屋根 カバー 庭 両面防水 UVカット 遮光 保護 水害対策 豪雨対策 防雪 防災 厚手 耐久性 2.8mx3.8m",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "L&L",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    },
+    {
+      "asin": "B0F66VVXWW",
+      "item_name": "【改良モデル 220g/m² 厚手生地】防雨シート ブルーオレンジ 防水 UV シート 屋根 カバー 庭 両面防水 UV カット 遮光 保護 水害対策 豪雨対策 防雪 防災 厚手 耐久性 1.9mx1.9m",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "L&L",
+      "t30d_ops": 6899.0,
+      "t30d_units": 5.0
+    }
+  ]
+}

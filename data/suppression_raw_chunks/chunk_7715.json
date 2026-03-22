@@ -1,1 +1,22 @@
-{"52526257822": [{"asin": "B07Q9Q9RDV", "item_name": "USB Type C to HDMI交換ケーブル USB3.1 Type C Thunderbolt 3 to 4K映像出力 1.8mケーブル アダプタ MacBook Pro/MacBook Air 2018/USB C デバイス等対応", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 8095.44, "t30d_units": 6.0}, {"asin": "B097B23HC7", "item_name": "USB C ハブ 6-in-1 アダプタ タイプc GADEBAO 4k hdmi type c ドッキングステーション マルチポート usb ハブ type-c 高速データ転送 4K60Hz対応HDMI＋100W急速PD充電＋USB3.0/2.0ポート+SD&TFカード スロット搭載 thunderbolt3/4対応 タイプc ハブ MacBook Air/Pro、iPad Pro等", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 167586.53, "t30d_units": 90.0}]}
+{
+  "52526257822": [
+    {
+      "asin": "B07Q9Q9RDV",
+      "item_name": "USB Type C to HDMI交換ケーブル USB3.1 Type C Thunderbolt 3 to 4K映像出力 1.8mケーブル アダプタ MacBook Pro/MacBook Air 2018/USB C デバイス等対応",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 8095.44,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B097B23HC7",
+      "item_name": "USB C ハブ 6-in-1 アダプタ タイプc GADEBAO 4k hdmi type c ドッキングステーション マルチポート usb ハブ type-c 高速データ転送 4K60Hz対応HDMI＋100W急速PD充電＋USB3.0/2.0ポート+SD&TFカード スロット搭載 thunderbolt3/4対応 タイプc ハブ MacBook Air/Pro、iPad Pro等",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 167586.53,
+      "t30d_units": 90.0
+    }
+  ]
+}

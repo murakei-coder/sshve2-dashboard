@@ -1,1 +1,58 @@
-{"8721656055": [{"asin": "B07432PVVS", "item_name": "令和7年産 魚沼産コシヒカリ「雪椿」 10kg(5kg×2袋) 特別栽培米 極上 ミシュラン店御用達 減農薬栽培【雪椿米 10㎏】", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 897081.0, "t30d_units": 50.0}, {"asin": "B07NRX5JCW", "item_name": "令和7年産 魚沼産コシヒカリ「雪椿」 20kg(5kg×4袋) 特別栽培米 10％OFF 極上 ミシュラン店御用達 減農薬栽培【雪椿米 20㎏】", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 320760.0, "t30d_units": 10.0}, {"asin": "B0757DH2YW", "item_name": "令和7年産 魚沼産コシヒカリ「雪椿」 1kg 特別栽培米 極上ミシュラン店御用達 減農薬栽培【雪椿米 1㎏】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 209220.0, "t30d_units": 100.0}, {"asin": "B07NRY32RH", "item_name": "令和7年産 魚沼産コシヒカリ「雪椿」 30kg(5kg×6袋) 特別栽培米 10％OFF 極上 ミシュラン店御用達 減農薬栽培【雪椿米 30㎏】", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 48114.0, "t30d_units": 1.0}, {"asin": "B0742XM3JC", "item_name": "令和7年産 魚沼産コシヒカリ「雪椿」 2kg特別栽培米 極上 ミシュラン店御用達 減農薬栽培【雪椿米 2㎏】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 1528580.66, "t30d_units": 359.0}, {"asin": "B07431C4TL", "item_name": "令和7年産 魚沼産コシヒカリ「雪椿」 5㎏ 特別栽培米 極上 ミシュラン店御用達 減農薬栽培【雪椿米 5㎏】", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 4429895.0, "t30d_units": 496.0}]}
+{
+  "8721656055": [
+    {
+      "asin": "B07432PVVS",
+      "item_name": "令和7年産 魚沼産コシヒカリ「雪椿」 10kg(5kg×2袋) 特別栽培米 極上 ミシュラン店御用達 減農薬栽培【雪椿米 10㎏】",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 897081.0,
+      "t30d_units": 50.0
+    },
+    {
+      "asin": "B07NRX5JCW",
+      "item_name": "令和7年産 魚沼産コシヒカリ「雪椿」 20kg(5kg×4袋) 特別栽培米 10％OFF 極上 ミシュラン店御用達 減農薬栽培【雪椿米 20㎏】",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 320760.0,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B0757DH2YW",
+      "item_name": "令和7年産 魚沼産コシヒカリ「雪椿」 1kg 特別栽培米 極上ミシュラン店御用達 減農薬栽培【雪椿米 1㎏】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 209220.0,
+      "t30d_units": 100.0
+    },
+    {
+      "asin": "B07NRY32RH",
+      "item_name": "令和7年産 魚沼産コシヒカリ「雪椿」 30kg(5kg×6袋) 特別栽培米 10％OFF 極上 ミシュラン店御用達 減農薬栽培【雪椿米 30㎏】",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 48114.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0742XM3JC",
+      "item_name": "令和7年産 魚沼産コシヒカリ「雪椿」 2kg特別栽培米 極上 ミシュラン店御用達 減農薬栽培【雪椿米 2㎏】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 1528580.66,
+      "t30d_units": 359.0
+    },
+    {
+      "asin": "B07431C4TL",
+      "item_name": "令和7年産 魚沼産コシヒカリ「雪椿」 5㎏ 特別栽培米 極上 ミシュラン店御用達 減農薬栽培【雪椿米 5㎏】",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 4429895.0,
+      "t30d_units": 496.0
+    }
+  ]
+}

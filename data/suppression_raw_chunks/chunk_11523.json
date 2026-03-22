@@ -1,1 +1,40 @@
-{"669872817502": [{"asin": "B0F6CK611T", "item_name": "MelGeek REAL67 有線キーボード、US英語配列、RGB搭載ゲーミングキーボード、マグネティックスイッチキーボード、ラピッドトリガー、ホットスワップ対応、スナップタップ＆調整可能なアクチュエーション、オンラインHIVEカスタム（シリコングレー）", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 81905.0, "t30d_units": 5.0}, {"asin": "B0F6C7KZ6N", "item_name": "MelGeek REAL67 有線キーボード、US英語配列、RGB搭載ゲーミングキーボード、マグネティックスイッチキーボード、ラピッドトリガー、ホットスワップ対応、スナップタップ＆調整可能なアクチュエーション、オンラインHIVEカスタム（ナトリウムホワイト）", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 94202.0, "t30d_units": 6.0}, {"asin": "B0F6CMJ15H", "item_name": "MelGeek REAL67 有線キーボード、US英語配列、RGB搭載ゲーミングキーボード、マグネティックスイッチキーボード、ラピッドトリガー、ホットスワップ対応、スナップタップ＆調整可能なアクチュエーション、オンラインHIVEカスタム（カリウム透明パープル）", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 121717.0, "t30d_units": 7.0}, {"asin": "B0F6C92QHQ", "item_name": "MelGeek REAL67 有線キーボード、US英語配列、RGB搭載ゲーミングキーボード、マグネティックスイッチキーボード、ラピッドトリガー、ホットスワップ対応、スナップタップ＆調整可能なアクチュエーション、オンラインHIVEカスタム（カルシウム透明グレー）", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 111356.33, "t30d_units": 6.0}]}
+{
+  "669872817502": [
+    {
+      "asin": "B0F6CK611T",
+      "item_name": "MelGeek REAL67 有線キーボード、US英語配列、RGB搭載ゲーミングキーボード、マグネティックスイッチキーボード、ラピッドトリガー、ホットスワップ対応、スナップタップ＆調整可能なアクチュエーション、オンラインHIVEカスタム（シリコングレー）",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 81905.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0F6C7KZ6N",
+      "item_name": "MelGeek REAL67 有線キーボード、US英語配列、RGB搭載ゲーミングキーボード、マグネティックスイッチキーボード、ラピッドトリガー、ホットスワップ対応、スナップタップ＆調整可能なアクチュエーション、オンラインHIVEカスタム（ナトリウムホワイト）",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 94202.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0F6CMJ15H",
+      "item_name": "MelGeek REAL67 有線キーボード、US英語配列、RGB搭載ゲーミングキーボード、マグネティックスイッチキーボード、ラピッドトリガー、ホットスワップ対応、スナップタップ＆調整可能なアクチュエーション、オンラインHIVEカスタム（カリウム透明パープル）",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 121717.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0F6C92QHQ",
+      "item_name": "MelGeek REAL67 有線キーボード、US英語配列、RGB搭載ゲーミングキーボード、マグネティックスイッチキーボード、ラピッドトリガー、ホットスワップ対応、スナップタップ＆調整可能なアクチュエーション、オンラインHIVEカスタム（カルシウム透明グレー）",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 111356.33,
+      "t30d_units": 6.0
+    }
+  ]
+}

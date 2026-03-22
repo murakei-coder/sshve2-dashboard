@@ -1,1 +1,49 @@
-{"1107938876102": [{"asin": "B0FJ1T5ZQF", "item_name": "OPPテープ, 幅48mm x 長さ100m, 厚み45μ, 透明 50巻 WRAPEACE 【OPP45透明-1】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 1128468.0, "t30d_units": 208.0}, {"asin": "B0FNQHFB7S", "item_name": "[WRAPEACE] 軍手 作業用手袋,400双,10ゲージ 600g, 厚手 丈夫, 工事現場・引っ越し・運送作業用,塗装,整備,工場,農業,農園,油,車 (400)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 247604.0, "t30d_units": 25.0}, {"asin": "B0FJ1VPR5R", "item_name": "OPPテープ, 幅48mm x 長さ100m, 厚み45μ, 50巻 茶 WRAPEACE 【OPP45茶-1】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 62858.0, "t30d_units": 11.0}, {"asin": "B0FHW58BQL", "item_name": "ミニストレッチフィルム ハンディラップ 幅100mm 長さ150ｍ ホルダー付 24巻セット ミニラップ【miniST】 WRAPEACE", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 77418.0, "t30d_units": 16.0}, {"asin": "B0FJ24M1B8", "item_name": "[WRAPEACE] 軍手 作業用手袋, 100双セット, 10ゲージ 600g, 厚手 丈夫, 工事現場・引っ越し・運送作業用,塗装,整備,工場,農業,農園,油,車", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 611353.0, "t30d_units": 160.0}]}
+{
+  "1107938876102": [
+    {
+      "asin": "B0FJ1T5ZQF",
+      "item_name": "OPPテープ, 幅48mm x 長さ100m, 厚み45μ, 透明 50巻 WRAPEACE 【OPP45透明-1】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 1128468.0,
+      "t30d_units": 208.0
+    },
+    {
+      "asin": "B0FNQHFB7S",
+      "item_name": "[WRAPEACE] 軍手 作業用手袋,400双,10ゲージ 600g, 厚手 丈夫, 工事現場・引っ越し・運送作業用,塗装,整備,工場,農業,農園,油,車 (400)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 247604.0,
+      "t30d_units": 25.0
+    },
+    {
+      "asin": "B0FJ1VPR5R",
+      "item_name": "OPPテープ, 幅48mm x 長さ100m, 厚み45μ, 50巻 茶 WRAPEACE 【OPP45茶-1】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 62858.0,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0FHW58BQL",
+      "item_name": "ミニストレッチフィルム ハンディラップ 幅100mm 長さ150ｍ ホルダー付 24巻セット ミニラップ【miniST】 WRAPEACE",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 77418.0,
+      "t30d_units": 16.0
+    },
+    {
+      "asin": "B0FJ24M1B8",
+      "item_name": "[WRAPEACE] 軍手 作業用手袋, 100双セット, 10ゲージ 600g, 厚手 丈夫, 工事現場・引っ越し・運送作業用,塗装,整備,工場,農業,農園,油,車",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 611353.0,
+      "t30d_units": 160.0
+    }
+  ]
+}

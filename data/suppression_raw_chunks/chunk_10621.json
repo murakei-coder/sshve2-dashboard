@@ -1,1 +1,49 @@
-{"490600652102": [{"asin": "B0CLB5XXXS", "item_name": "セラミド美容液 BEAU BEAUTY ヒト幹細胞 乾燥予防 乾燥肌 敏感肌 ERXRフェムポーション 保湿 スキンケア 人幹細胞 高濃度 美容液 エイジングケア 国産 無添加 28ml", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 29754.0, "t30d_units": 10.0}, {"asin": "B0DG26CWM6", "item_name": "BEAU BEAUTY セラミド 化粧水 高濃度セラミド エクソソーム 乾燥肌 敏感肌 ERXRローション 保湿 スキンケア CICA エイジングケア 国産 無添加 200ml", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 34684.66, "t30d_units": 13.0}, {"asin": "B0DHQTLV61", "item_name": "BEAU BEAUTY 天然ミネラルクレイ 洗顔フォーム 泡洗顔 洗顔 セラミド 乾燥肌 敏感肌 ヒト幹細胞 ERXRクレイウォッシュ 保湿 スキンケア 高濃度 美容液配合 CICA 国産 無添加 140g", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 31105.0, "t30d_units": 13.0}, {"asin": "B0DY4D1JK9", "item_name": "【形状記憶 ジェル 】メンズ オールインワン ヒト型セラミド アフターシェーブ 乾燥肌 保湿 ジェル スキンケア 150g beaubeauty 国内生産", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 87934.0, "t30d_units": 33.0}, {"asin": "B0DGH299BL", "item_name": "BEAU BEAUTY セラミド 乳液 高濃度セラミド エクソソーム 乾燥予防 乾燥肌 敏感肌 CICA ERXRエマルジョン 保湿 スキンケア 人幹細胞 美容 エイジングケア 国産 無添加 150ml", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 21740.0, "t30d_units": 8.0}]}
+{
+  "490600652102": [
+    {
+      "asin": "B0CLB5XXXS",
+      "item_name": "セラミド美容液 BEAU BEAUTY ヒト幹細胞 乾燥予防 乾燥肌 敏感肌 ERXRフェムポーション 保湿 スキンケア 人幹細胞 高濃度 美容液 エイジングケア 国産 無添加 28ml",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 29754.0,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B0DG26CWM6",
+      "item_name": "BEAU BEAUTY セラミド 化粧水 高濃度セラミド エクソソーム 乾燥肌 敏感肌 ERXRローション 保湿 スキンケア CICA エイジングケア 国産 無添加 200ml",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 34684.66,
+      "t30d_units": 13.0
+    },
+    {
+      "asin": "B0DHQTLV61",
+      "item_name": "BEAU BEAUTY 天然ミネラルクレイ 洗顔フォーム 泡洗顔 洗顔 セラミド 乾燥肌 敏感肌 ヒト幹細胞 ERXRクレイウォッシュ 保湿 スキンケア 高濃度 美容液配合 CICA 国産 無添加 140g",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 31105.0,
+      "t30d_units": 13.0
+    },
+    {
+      "asin": "B0DY4D1JK9",
+      "item_name": "【形状記憶 ジェル 】メンズ オールインワン ヒト型セラミド アフターシェーブ 乾燥肌 保湿 ジェル スキンケア 150g beaubeauty 国内生産",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 87934.0,
+      "t30d_units": 33.0
+    },
+    {
+      "asin": "B0DGH299BL",
+      "item_name": "BEAU BEAUTY セラミド 乳液 高濃度セラミド エクソソーム 乾燥予防 乾燥肌 敏感肌 CICA ERXRエマルジョン 保湿 スキンケア 人幹細胞 美容 エイジングケア 国産 無添加 150ml",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 21740.0,
+      "t30d_units": 8.0
+    }
+  ]
+}

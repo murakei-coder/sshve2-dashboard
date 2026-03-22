@@ -1,1 +1,22 @@
-{"623523919602": [{"asin": "B09NX82JC3", "item_name": "200gシリーズ デカフェセイロンティー", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 38283.0, "t30d_units": 20.0}, {"asin": "B09NX8ZM1R", "item_name": "200gシリーズ通販用 ウバBOP", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 51931.49, "t30d_units": 41.0}]}
+{
+  "623523919602": [
+    {
+      "asin": "B09NX82JC3",
+      "item_name": "200gシリーズ デカフェセイロンティー",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 38283.0,
+      "t30d_units": 20.0
+    },
+    {
+      "asin": "B09NX8ZM1R",
+      "item_name": "200gシリーズ通販用 ウバBOP",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 51931.49,
+      "t30d_units": 41.0
+    }
+  ]
+}

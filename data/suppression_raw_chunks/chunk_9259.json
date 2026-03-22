@@ -1,1 +1,31 @@
-{"73709862522": [{"asin": "B0CYZMVKLD", "item_name": "ハンディファン【3WAY変身 2026新機型】携帯扇風機 小型 静音 強力 4段階風量 7枚羽根 Type-C充電式 16H持続稼働 手持ち 首掛け 卓上 180°折りたたみ ミニ 扇風機 ストラップ長さ調整 風量強い 極薄 軽量 持ち運びやすい 熱中症対策 黒", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0DK157W28", "item_name": "LEDセンサーライト 室内 人感センサー Type-C充電式 無級調光調色 小型 照明 玄関 フットライト シーリングライト 12W 2000lm 5段階タイマー メモリ機能 リモコン付き 極薄 一体型 緊急対策 階段/キッチン/タンス/クローゼット マグネット内蔵 テープ付属", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 1140556.96, "t30d_units": 440.0}, {"asin": "B0FHWHNG47", "item_name": "ボディシェーバー【2026革新 0.1-12mm長さ調整】vio シェーバー メンズ IPX7防水 Type-c充電式 お風呂剃り 3in1むだげ処理 電動シェーバー デリケートゾーン すね毛 腕 腋毛 足 もみあげ 襟足 全身体毛 ツルツル 軽量 低騒音 日本語取扱説明書付き", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 658078.07, "t30d_units": 209.0}]}
+{
+  "73709862522": [
+    {
+      "asin": "B0CYZMVKLD",
+      "item_name": "ハンディファン【3WAY変身 2026新機型】携帯扇風機 小型 静音 強力 4段階風量 7枚羽根 Type-C充電式 16H持続稼働 手持ち 首掛け 卓上 180°折りたたみ ミニ 扇風機 ストラップ長さ調整 風量強い 極薄 軽量 持ち運びやすい 熱中症対策 黒",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0DK157W28",
+      "item_name": "LEDセンサーライト 室内 人感センサー Type-C充電式 無級調光調色 小型 照明 玄関 フットライト シーリングライト 12W 2000lm 5段階タイマー メモリ機能 リモコン付き 極薄 一体型 緊急対策 階段/キッチン/タンス/クローゼット マグネット内蔵 テープ付属",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 1140556.96,
+      "t30d_units": 440.0
+    },
+    {
+      "asin": "B0FHWHNG47",
+      "item_name": "ボディシェーバー【2026革新 0.1-12mm長さ調整】vio シェーバー メンズ IPX7防水 Type-c充電式 お風呂剃り 3in1むだげ処理 電動シェーバー デリケートゾーン すね毛 腕 腋毛 足 もみあげ 襟足 全身体毛 ツルツル 軽量 低騒音 日本語取扱説明書付き",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 658078.07,
+      "t30d_units": 209.0
+    }
+  ]
+}

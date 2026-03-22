@@ -1,1 +1,58 @@
-{"70494599422": [{"asin": "B0BG4TVPG5", "item_name": "Cooltensタッチレスキッチン誘導 キッチン用水栓 自動センサー水栓 センサー水栓 蛇口 シングルレバーワンホール キッチン 伸縮 2 wayの吐水式 引出しホース式 泡沫水流", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 71493.0, "t30d_units": 7.0}, {"asin": "B0CYL55NC8", "item_name": "Cooltens キッチン水栓, キッチン蛇口 シングルレバー混合栓 キッチン用混合水栓 キッチン水栓 ワンホール混合栓 シャワーホース引き出し式 水流 3モード 切替可能", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 41455.0, "t30d_units": 7.0}, {"asin": "B0CKSDHQ4Y", "item_name": "Cooltens キッチン水栓, 台所コック、ブラシをかけられたニッケルの商業固体真鍮の単一のハンドルの単一のレバーの引きの水栓 360度回転式 節水型 日本語取付説明書付き", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 52492.0, "t30d_units": 8.0}, {"asin": "B09XMD538G", "item_name": "Cooltens キッチン蛇口 混合水栓 引出しホース式水栓 キッチン用水栓 シングルレバーワンホールキッチン水栓 伸縮 360度回転 2wayの吐水式 整流 シャワー切り替え可能 キッチン用 水栓", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 39293.0, "t30d_units": 7.0}, {"asin": "B0DBTXJM1Y", "item_name": "Cooltens自動キッチン混合栓、自動赤外線キッチン蛇口、2モード給水モード、ハンズフリーシングルハンドル蛇口、日本語説明書付き", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 94990.0, "t30d_units": 10.0}, {"asin": "B0CJ95JY7Q", "item_name": "Cooltens 洗面台ミキサータップ、クロームメッキ頑丈な真鍮浴室シンクミキサー、シングルレバー浴室シンクミキサー温水と冷水供給管付き", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 43741.0, "t30d_units": 9.0}]}
+{
+  "70494599422": [
+    {
+      "asin": "B0BG4TVPG5",
+      "item_name": "Cooltensタッチレスキッチン誘導 キッチン用水栓 自動センサー水栓 センサー水栓 蛇口 シングルレバーワンホール キッチン 伸縮 2 wayの吐水式 引出しホース式 泡沫水流",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 71493.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0CYL55NC8",
+      "item_name": "Cooltens キッチン水栓, キッチン蛇口 シングルレバー混合栓 キッチン用混合水栓 キッチン水栓 ワンホール混合栓 シャワーホース引き出し式 水流 3モード 切替可能",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 41455.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0CKSDHQ4Y",
+      "item_name": "Cooltens キッチン水栓, 台所コック、ブラシをかけられたニッケルの商業固体真鍮の単一のハンドルの単一のレバーの引きの水栓 360度回転式 節水型 日本語取付説明書付き",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 52492.0,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B09XMD538G",
+      "item_name": "Cooltens キッチン蛇口 混合水栓 引出しホース式水栓 キッチン用水栓 シングルレバーワンホールキッチン水栓 伸縮 360度回転 2wayの吐水式 整流 シャワー切り替え可能 キッチン用 水栓",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 39293.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0DBTXJM1Y",
+      "item_name": "Cooltens自動キッチン混合栓、自動赤外線キッチン蛇口、2モード給水モード、ハンズフリーシングルハンドル蛇口、日本語説明書付き",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 94990.0,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B0CJ95JY7Q",
+      "item_name": "Cooltens 洗面台ミキサータップ、クロームメッキ頑丈な真鍮浴室シンクミキサー、シングルレバー浴室シンクミキサー温水と冷水供給管付き",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 43741.0,
+      "t30d_units": 9.0
+    }
+  ]
+}

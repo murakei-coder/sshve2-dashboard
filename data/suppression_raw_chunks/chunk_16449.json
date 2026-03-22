@@ -1,1 +1,40 @@
-{"1139043284502": [{"asin": "B0G4CH2P2W", "item_name": "令和7年産 新米 熊本県産 にこまる 五ツ星お米マイスター 白ごはん専用 5kg", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 108100.0, "t30d_units": 23.0}, {"asin": "B0G4CKNW5Q", "item_name": "令和7年産 新米 熊本県産 くまさんの輝き 5kg 五ツ星お米マイスター 人吉・球磨郡 球磨川", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 596900.0, "t30d_units": 127.0}, {"asin": "B0GJDGM5ZS", "item_name": "令和7年産 新米 熊本県産 にこまる 五ツ星お米マイスター 白ごはん専用 5kg (10kg) 5kg×2", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0GJD5LMJG", "item_name": "令和7年産 新米 熊本県産 くまさんの輝き 五ツ星お米マイスター 人吉・球磨郡 球磨川 10kg 5kg×2", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 90880.0, "t30d_units": 11.0}]}
+{
+  "1139043284502": [
+    {
+      "asin": "B0G4CH2P2W",
+      "item_name": "令和7年産 新米 熊本県産 にこまる 五ツ星お米マイスター 白ごはん専用 5kg",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 108100.0,
+      "t30d_units": 23.0
+    },
+    {
+      "asin": "B0G4CKNW5Q",
+      "item_name": "令和7年産 新米 熊本県産 くまさんの輝き 5kg 五ツ星お米マイスター 人吉・球磨郡 球磨川",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 596900.0,
+      "t30d_units": 127.0
+    },
+    {
+      "asin": "B0GJDGM5ZS",
+      "item_name": "令和7年産 新米 熊本県産 にこまる 五ツ星お米マイスター 白ごはん専用 5kg (10kg) 5kg×2",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0GJD5LMJG",
+      "item_name": "令和7年産 新米 熊本県産 くまさんの輝き 五ツ星お米マイスター 人吉・球磨郡 球磨川 10kg 5kg×2",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 90880.0,
+      "t30d_units": 11.0
+    }
+  ]
+}

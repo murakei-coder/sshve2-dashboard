@@ -1,1 +1,76 @@
-{"82714599222": [{"asin": "B0FY5684SR", "item_name": "バスポリッシャー コードレス型 風呂掃除 ブラシ ターボプロ 充電式 角度調節 長さ伸縮可能 デッキブラシ IPX7防水 スティック&ハンディク 大容量電池 手持ち式 8つ取り替えブラシ付き 操作便利 トイレ掃除/床/窓/おふろ/車/ベランダ/玄関の掃除/年末掃除", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "L&L", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0DLSLXMNL", "item_name": "Bluetooth モバイルゲームコントローラー for iphone/Android/Switch/PC マイクロスイッチ ホール効果スティック&トリガー搭載 1000Hz ポーリング レート 2つの背面ボタン 振動&連射機能付き", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Media", "t30d_ops": 55524.66, "t30d_units": 8.0}, {"asin": "B0FHXVDKRS", "item_name": "スマホ 冷却ファン ペルチェ素子 3秒急速冷却 アルミフィン搭載 7枚羽高速ファン 環状エアフロー構造 MagSafe磁気式＆クリップ式 スマホクーラー 2段階温度調整 3種類発光モード 静音設計 USB充電式 iOS/Android対応 原神/鳴潮/ゼンゼロ/勝利の女神/荒野行動など対応", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 0.0, "t30d_units": 0.0}, {"asin": "B0FJ7RQGV4", "item_name": "Switch コントローラー NFC機能搭載・Amiibo対応 マクロループ機能 TURBO連射 ホールエフェクトスティック 500万回高耐久マイクロスイッチ ALPSリニアモーター 背面ボタン 6軸ジャイロ 1000mAh大容量バッテリー Bluetooth/有線/2.4GHz無線接続 ポケモンZA・ポケットモンスター・スプラトゥーン3に最適", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Media", "t30d_ops": 61590.71, "t30d_units": 9.0}, {"asin": "B0G3GPHF7M", "item_name": "【2026冬新登場】両面発熱 充電式カイロ LED温度表示 3秒急速発熱 5段階温度調節 4段階振動モード USB-C充電 フランネル素材 グラフェン加熱技術 繰り返し使える 寒さ対策 旅行 アウトドア 出張 通勤 プレゼント 防寒グッズ", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0G3GV9H2J", "item_name": "【2026冬新登場】両面発熱 充電式カイロ LED温度表示 3秒急速発熱 5段階温度調節 4段階振動モード USB-C充電 フランネル素材 グラフェン加熱技術 繰り返し使える 寒さ対策 旅行 アウトドア 出張 通勤 プレゼント 防寒グッズ", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 3290.0, "t30d_units": 1.0}, {"asin": "B0F9T67S1B", "item_name": "スマホ 冷却ファン ペルチェ素子 3秒急速冷却 吊り枠ファン構造搭載 L字型導冷板搭載 MagSafe磁気式＆クリップ式 スマホクーラー 3段階温度調整 3種類発光モード USB充電式 iOS/Android対応 原神/鳴潮/勝利の女神/荒野行動など対応", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 11998.0, "t30d_units": 2.0}, {"asin": "B0F9T6WNSC", "item_name": "タブレット 冷却ファン ペルチェ素子 iPadクーラー 27W高出力 3秒急速冷却 半導体冷却 3段階調整式 usb充電式 静音設計 iPad/タブレット対応", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 13998.0, "t30d_units": 2.0}]}
+{
+  "82714599222": [
+    {
+      "asin": "B0FY5684SR",
+      "item_name": "バスポリッシャー コードレス型 風呂掃除 ブラシ ターボプロ 充電式 角度調節 長さ伸縮可能 デッキブラシ IPX7防水 スティック&ハンディク 大容量電池 手持ち式 8つ取り替えブラシ付き 操作便利 トイレ掃除/床/窓/おふろ/車/ベランダ/玄関の掃除/年末掃除",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "L&L",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0DLSLXMNL",
+      "item_name": "Bluetooth モバイルゲームコントローラー for iphone/Android/Switch/PC マイクロスイッチ ホール効果スティック&トリガー搭載 1000Hz ポーリング レート 2つの背面ボタン 振動&連射機能付き",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Media",
+      "t30d_ops": 55524.66,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B0FHXVDKRS",
+      "item_name": "スマホ 冷却ファン ペルチェ素子 3秒急速冷却 アルミフィン搭載 7枚羽高速ファン 環状エアフロー構造 MagSafe磁気式＆クリップ式 スマホクーラー 2段階温度調整 3種類発光モード 静音設計 USB充電式 iOS/Android対応 原神/鳴潮/ゼンゼロ/勝利の女神/荒野行動など対応",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    },
+    {
+      "asin": "B0FJ7RQGV4",
+      "item_name": "Switch コントローラー NFC機能搭載・Amiibo対応 マクロループ機能 TURBO連射 ホールエフェクトスティック 500万回高耐久マイクロスイッチ ALPSリニアモーター 背面ボタン 6軸ジャイロ 1000mAh大容量バッテリー Bluetooth/有線/2.4GHz無線接続 ポケモンZA・ポケットモンスター・スプラトゥーン3に最適",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Media",
+      "t30d_ops": 61590.71,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B0G3GPHF7M",
+      "item_name": "【2026冬新登場】両面発熱 充電式カイロ LED温度表示 3秒急速発熱 5段階温度調節 4段階振動モード USB-C充電 フランネル素材 グラフェン加熱技術 繰り返し使える 寒さ対策 旅行 アウトドア 出張 通勤 プレゼント 防寒グッズ",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0G3GV9H2J",
+      "item_name": "【2026冬新登場】両面発熱 充電式カイロ LED温度表示 3秒急速発熱 5段階温度調節 4段階振動モード USB-C充電 フランネル素材 グラフェン加熱技術 繰り返し使える 寒さ対策 旅行 アウトドア 出張 通勤 プレゼント 防寒グッズ",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 3290.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0F9T67S1B",
+      "item_name": "スマホ 冷却ファン ペルチェ素子 3秒急速冷却 吊り枠ファン構造搭載 L字型導冷板搭載 MagSafe磁気式＆クリップ式 スマホクーラー 3段階温度調整 3種類発光モード USB充電式 iOS/Android対応 原神/鳴潮/勝利の女神/荒野行動など対応",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 11998.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0F9T6WNSC",
+      "item_name": "タブレット 冷却ファン ペルチェ素子 iPadクーラー 27W高出力 3秒急速冷却 半導体冷却 3段階調整式 usb充電式 静音設計 iPad/タブレット対応",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 13998.0,
+      "t30d_units": 2.0
+    }
+  ]
+}

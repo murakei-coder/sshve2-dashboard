@@ -1,1 +1,67 @@
-{"444130925802": [{"asin": "B0CLG1RC8G", "item_name": "和ならで和の プレミアム 栗あんプリン （1箱 6個入） （100g×6個） 【老舗羊羹屋が拘った】｜ 高級あん 栗 ギフト ぷりん 高級プリン ギフトプリン プリン詰合せ 和プリン モンブラン お菓子 さつまいも ｜紅葉屋本舗 【 冷凍発送 】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 79200.0, "t30d_units": 18.0}, {"asin": "B0D1K43YG3", "item_name": "和ならで和のプレミアム 抹茶あんプリン （1箱 6個入） （100g×6個）｜ 高級あん 抹茶 ぷりん 高級プリン ギフトプリン プリン詰合せ 和プリン お菓子 スイーツ ｜紅葉屋本舗【 冷凍発送 】", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 47368.0, "t30d_units": 12.0}, {"asin": "B0DKCRHB2M", "item_name": "和ならで和の プレミアム 牛乳あんプリン （1箱 6個入） （100g×6個） ｜ 【老舗羊羹屋が拘った】｜ 牛乳プリン 高級あん 高級プリン｜紅葉屋本舗", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 20976.0, "t30d_units": 5.0}, {"asin": "B0BYRP531Z", "item_name": "和ならで和の プレミアム 焼き芋あんプリン （1箱 6個入）（100g×6個） 【老舗羊羹屋が拘った】 ｜ 高級あん 焼き芋 ギフト ぷりん 高級プリン ギフトプリン プリン詰合せ 和プリン｜紅葉屋本舗", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 122963.0, "t30d_units": 30.0}, {"asin": "B0B57DX2MP", "item_name": "和ならで和の プレミアムマンゴー プリン ｜1箱 6個入（115g×6個）｜【老舗羊羹屋が拘った】｜ 高級マンゴー ギフト ぷりん 高級プリン ギフトプリン プリン詰合せ 高級スイーツ｜紅葉屋本舗", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 146235.0, "t30d_units": 43.0}, {"asin": "B0BY7L2KMV", "item_name": "和ならで和の プレミアム あんプリン（1箱 6個入）（100g×6個）｜【老舗羊羹屋が拘った】｜ プリン 高級あん ギフト ぷりん 高級プリン ギフトプリン プリン詰合せ 高級スイーツ あんこお菓子｜紅葉屋本舗", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 27509.0, "t30d_units": 7.0}, {"asin": "B0BY7HVW8M", "item_name": "和ならで和の プレミアム 白桃プリン｜1箱・6個入（115g×6個）｜ 常温発送 ｜【老 舗羊羹屋が拘った】｜ ぷりん 高級プリン プリンギフト プリン詰合せ 桃 高級スイーツ ギフト｜紅葉屋本舗", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 116168.0, "t30d_units": 37.0}]}
+{
+  "444130925802": [
+    {
+      "asin": "B0CLG1RC8G",
+      "item_name": "和ならで和の プレミアム 栗あんプリン （1箱 6個入） （100g×6個） 【老舗羊羹屋が拘った】｜ 高級あん 栗 ギフト ぷりん 高級プリン ギフトプリン プリン詰合せ 和プリン モンブラン お菓子 さつまいも ｜紅葉屋本舗 【 冷凍発送 】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 79200.0,
+      "t30d_units": 18.0
+    },
+    {
+      "asin": "B0D1K43YG3",
+      "item_name": "和ならで和のプレミアム 抹茶あんプリン （1箱 6個入） （100g×6個）｜ 高級あん 抹茶 ぷりん 高級プリン ギフトプリン プリン詰合せ 和プリン お菓子 スイーツ ｜紅葉屋本舗【 冷凍発送 】",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 47368.0,
+      "t30d_units": 12.0
+    },
+    {
+      "asin": "B0DKCRHB2M",
+      "item_name": "和ならで和の プレミアム 牛乳あんプリン （1箱 6個入） （100g×6個） ｜ 【老舗羊羹屋が拘った】｜ 牛乳プリン 高級あん 高級プリン｜紅葉屋本舗",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 20976.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0BYRP531Z",
+      "item_name": "和ならで和の プレミアム 焼き芋あんプリン （1箱 6個入）（100g×6個） 【老舗羊羹屋が拘った】 ｜ 高級あん 焼き芋 ギフト ぷりん 高級プリン ギフトプリン プリン詰合せ 和プリン｜紅葉屋本舗",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 122963.0,
+      "t30d_units": 30.0
+    },
+    {
+      "asin": "B0B57DX2MP",
+      "item_name": "和ならで和の プレミアムマンゴー プリン ｜1箱 6個入（115g×6個）｜【老舗羊羹屋が拘った】｜ 高級マンゴー ギフト ぷりん 高級プリン ギフトプリン プリン詰合せ 高級スイーツ｜紅葉屋本舗",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 146235.0,
+      "t30d_units": 43.0
+    },
+    {
+      "asin": "B0BY7L2KMV",
+      "item_name": "和ならで和の プレミアム あんプリン（1箱 6個入）（100g×6個）｜【老舗羊羹屋が拘った】｜ プリン 高級あん ギフト ぷりん 高級プリン ギフトプリン プリン詰合せ 高級スイーツ あんこお菓子｜紅葉屋本舗",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 27509.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0BY7HVW8M",
+      "item_name": "和ならで和の プレミアム 白桃プリン｜1箱・6個入（115g×6個）｜ 常温発送 ｜【老 舗羊羹屋が拘った】｜ ぷりん 高級プリン プリンギフト プリン詰合せ 桃 高級スイーツ ギフト｜紅葉屋本舗",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 116168.0,
+      "t30d_units": 37.0
+    }
+  ]
+}

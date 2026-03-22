@@ -1,1 +1,22 @@
-{"1184906828902": [{"asin": "B0G27KY2MX", "item_name": "Flydigi Vader 5 PRO ゲームパッド コントローラー 可変テンションのスティック 1000Hzポーリングレート 12ビットの分解能 4モーター共振 8カスタマイズ可能ボタン マクロループ機能", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 125991.0, "t30d_units": 9.0}, {"asin": "B0G1CMR1F6", "item_name": "Switch コントローラー 無線 PC コントローラー 背面ボタン付き 連射機能 6軸ジャイロセンサー搭載 4階段HD振動 RGBライト Switch1/2/Lite/OLED/PC/iPhone/Android対応 ゲームパット", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Media", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "1184906828902": [
+    {
+      "asin": "B0G27KY2MX",
+      "item_name": "Flydigi Vader 5 PRO ゲームパッド コントローラー 可変テンションのスティック 1000Hzポーリングレート 12ビットの分解能 4モーター共振 8カスタマイズ可能ボタン マクロループ機能",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 125991.0,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B0G1CMR1F6",
+      "item_name": "Switch コントローラー 無線 PC コントローラー 背面ボタン付き 連射機能 6軸ジャイロセンサー搭載 4階段HD振動 RGBライト Switch1/2/Lite/OLED/PC/iPhone/Android対応 ゲームパット",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Media",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

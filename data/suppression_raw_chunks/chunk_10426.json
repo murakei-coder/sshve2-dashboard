@@ -1,1 +1,49 @@
-{"436998081202": [{"asin": "B0CQJR66QW", "item_name": "【在庫一掃セール】 冷蔵庫専用バッテリーFSAK-002用充電アダプター sana NEXT GEARシリーズ", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 8940.0, "t30d_units": 3.0}, {"asin": "B0GK6HFVGF", "item_name": "【ダイエットサポート成分高配合】【栄養機能食品】 希少糖 アルロース & エラグ酸 & MCTオイル イヌリン ビタミン・ミネラル15種 配合 PRODIETER ソイプロテイン 1kg 国産 置き換え ダイエット シンバイオティクス 国内製造大豆 人工甘味料不使用 チョコ味", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 130444.33, "t30d_units": 22.0}, {"asin": "B0DSH71WCY", "item_name": "ダイエットサポート 天然 国産 ケトン体 1日3000mg natural BHB KETOru3000 ケトジェニック ケト", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 952117.99, "t30d_units": 218.0}, {"asin": "B0FM3PWW65", "item_name": "【お試し3日分】ダイエットサポート 天然 国産 ケトン体 1日3000mg natural BHB KETOru3000 ケトジェニック ケト", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 17949.66, "t30d_units": 18.0}, {"asin": "B0B695JJC3", "item_name": "【在庫一掃セール】 ポータブル冷蔵庫専用 リチウムイオンバッテリー 15600mAh/173Wh 最大15時間駆動 FSAK-002 (バッテリー本体)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 72600.0, "t30d_units": 6.0}]}
+{
+  "436998081202": [
+    {
+      "asin": "B0CQJR66QW",
+      "item_name": "【在庫一掃セール】 冷蔵庫専用バッテリーFSAK-002用充電アダプター sana NEXT GEARシリーズ",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 8940.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0GK6HFVGF",
+      "item_name": "【ダイエットサポート成分高配合】【栄養機能食品】 希少糖 アルロース & エラグ酸 & MCTオイル イヌリン ビタミン・ミネラル15種 配合 PRODIETER ソイプロテイン 1kg 国産 置き換え ダイエット シンバイオティクス 国内製造大豆 人工甘味料不使用 チョコ味",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 130444.33,
+      "t30d_units": 22.0
+    },
+    {
+      "asin": "B0DSH71WCY",
+      "item_name": "ダイエットサポート 天然 国産 ケトン体 1日3000mg natural BHB KETOru3000 ケトジェニック ケト",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 952117.99,
+      "t30d_units": 218.0
+    },
+    {
+      "asin": "B0FM3PWW65",
+      "item_name": "【お試し3日分】ダイエットサポート 天然 国産 ケトン体 1日3000mg natural BHB KETOru3000 ケトジェニック ケト",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 17949.66,
+      "t30d_units": 18.0
+    },
+    {
+      "asin": "B0B695JJC3",
+      "item_name": "【在庫一掃セール】 ポータブル冷蔵庫専用 リチウムイオンバッテリー 15600mAh/173Wh 最大15時間駆動 FSAK-002 (バッテリー本体)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 72600.0,
+      "t30d_units": 6.0
+    }
+  ]
+}

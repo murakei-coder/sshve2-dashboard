@@ -1,1 +1,40 @@
-{"18840792322": [{"asin": "B09TP1ZFZK", "item_name": "EAYHM モニター台 USB2.0/3.0 机上台 USB/TYPE-C充電付き PCスタンド スチール製 耐荷重30kg ノートパソコン/プリンター/iMac/タブレットパソコンに適用 引き出しとスマホホルダー付き (52*20*8.5CM)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 1038565.13, "t30d_units": 308.0}, {"asin": "B0DZS9VT51", "item_name": "EAYHM モニタースタンド USB口/2口コンセント付き モニター台 幅80CM ディスプレイ 台 引き出しとスマホホルダー付き 机上台 ノートパソコン/プリンター/iMac/タブレットパソコンに適用 耐荷重25Kg", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 924530.51, "t30d_units": 158.0}, {"asin": "B0DYSL41R1", "item_name": "EAYHMモニター台 卓上 USB2.0/3.0データ転送付き モニタースタンド USB/TYPE-C充電付き PC台 折りたたみ可能 机上台 ディスプレイ 台 引き出しとスマホホルダー付き パソコン 台 幅3段階可変机上ラック ノートパソコン/プリンター/iMacに適用 耐荷重25Kg (黒-USB付き)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 5571159.83, "t30d_units": 1727.0}, {"asin": "B08JLGHTVT", "item_name": "EAYHM モニター台 二段式 机上台 2口コンセント付き 木製天板54x23.5CM PCキーボード収納ラック パソコン スタンド プリンター台", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 896390.01, "t30d_units": 263.0}]}
+{
+  "18840792322": [
+    {
+      "asin": "B09TP1ZFZK",
+      "item_name": "EAYHM モニター台 USB2.0/3.0 机上台 USB/TYPE-C充電付き PCスタンド スチール製 耐荷重30kg ノートパソコン/プリンター/iMac/タブレットパソコンに適用 引き出しとスマホホルダー付き (52*20*8.5CM)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 1038565.13,
+      "t30d_units": 308.0
+    },
+    {
+      "asin": "B0DZS9VT51",
+      "item_name": "EAYHM モニタースタンド USB口/2口コンセント付き モニター台 幅80CM ディスプレイ 台 引き出しとスマホホルダー付き 机上台 ノートパソコン/プリンター/iMac/タブレットパソコンに適用 耐荷重25Kg",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 924530.51,
+      "t30d_units": 158.0
+    },
+    {
+      "asin": "B0DYSL41R1",
+      "item_name": "EAYHMモニター台 卓上 USB2.0/3.0データ転送付き モニタースタンド USB/TYPE-C充電付き PC台 折りたたみ可能 机上台 ディスプレイ 台 引き出しとスマホホルダー付き パソコン 台 幅3段階可変机上ラック ノートパソコン/プリンター/iMacに適用 耐荷重25Kg (黒-USB付き)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 5571159.83,
+      "t30d_units": 1727.0
+    },
+    {
+      "asin": "B08JLGHTVT",
+      "item_name": "EAYHM モニター台 二段式 机上台 2口コンセント付き 木製天板54x23.5CM PCキーボード収納ラック パソコン スタンド プリンター台",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 896390.01,
+      "t30d_units": 263.0
+    }
+  ]
+}

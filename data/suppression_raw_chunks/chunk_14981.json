@@ -1,1 +1,40 @@
-{"1062220631602": [{"asin": "B0FK9THCCC", "item_name": "SVITOO タブレット8.7インチ Android 15 Wi-Fiモデル 90Hz高リフレッシュレート 18GB+128GB+1TB拡張可能 5500mAh 長持ちバッテリー 顔認証 IPS HD+ 1340×800、Widevine L1 Netflix対応、タブレットアンドロイド 高性能&軽量 子供用/エンタメ用 日本語版", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 1147665.0, "t30d_units": 115.0}, {"asin": "B0GL866TN5", "item_name": "【2026新登場 Android16 タブレット pcセット】11インチ タブレット アンドロイド 16 Wi-Fiモデル 20GB+128GB+1TB拡張 8コアT615 Gemini AI WidevineL1 Netflix対応 8800mAh大容量 Type-C充電 GMS認証 顔認識 画面分割 無線投影 出張用 tablet 保護ケース+マウス+フィルム+タッチペン+キーボード付き", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 604999.9, "t30d_units": 35.0}, {"asin": "B0G6BGWQQJ", "item_name": "Android16 タブレット アンドロイド 11インチ SVITOO P11 wi-fiモデル 20GB+128GB+1TB拡張 8コアT615 8800mAh GPS Widevine L1 顔認識 画面分割 無線投影 児童保護 Gemini AI Type-C OTG GMS認証 ゲーム/動画見る LINE/ユーチューブ対応 大画面 高性能 軽量 tablet", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 5597287.23, "t30d_units": 398.0}, {"asin": "B0F6MN3G88", "item_name": "【新登場 Android 15 タブレットセット】タブレット 10インチ wi-fiモデル 12GB+128GB+1TB TF拡張、8コアCPU 1280*800 IPS HD 大画面 アンドロイドタブレット 6000mAh+WidevineL1+Type-C充電+BT5.0、OTG/無線投影/画面分割 キーボード/マウス/保護ケース/タッチペン/フィルム付き", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 3018771.96, "t30d_units": 276.0}]}
+{
+  "1062220631602": [
+    {
+      "asin": "B0FK9THCCC",
+      "item_name": "SVITOO タブレット8.7インチ Android 15 Wi-Fiモデル 90Hz高リフレッシュレート 18GB+128GB+1TB拡張可能 5500mAh 長持ちバッテリー 顔認証 IPS HD+ 1340×800、Widevine L1 Netflix対応、タブレットアンドロイド 高性能&軽量 子供用/エンタメ用 日本語版",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 1147665.0,
+      "t30d_units": 115.0
+    },
+    {
+      "asin": "B0GL866TN5",
+      "item_name": "【2026新登場 Android16 タブレット pcセット】11インチ タブレット アンドロイド 16 Wi-Fiモデル 20GB+128GB+1TB拡張 8コアT615 Gemini AI WidevineL1 Netflix対応 8800mAh大容量 Type-C充電 GMS認証 顔認識 画面分割 無線投影 出張用 tablet 保護ケース+マウス+フィルム+タッチペン+キーボード付き",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 604999.9,
+      "t30d_units": 35.0
+    },
+    {
+      "asin": "B0G6BGWQQJ",
+      "item_name": "Android16 タブレット アンドロイド 11インチ SVITOO P11 wi-fiモデル 20GB+128GB+1TB拡張 8コアT615 8800mAh GPS Widevine L1 顔認識 画面分割 無線投影 児童保護 Gemini AI Type-C OTG GMS認証 ゲーム/動画見る LINE/ユーチューブ対応 大画面 高性能 軽量 tablet",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 5597287.23,
+      "t30d_units": 398.0
+    },
+    {
+      "asin": "B0F6MN3G88",
+      "item_name": "【新登場 Android 15 タブレットセット】タブレット 10インチ wi-fiモデル 12GB+128GB+1TB TF拡張、8コアCPU 1280*800 IPS HD 大画面 アンドロイドタブレット 6000mAh+WidevineL1+Type-C充電+BT5.0、OTG/無線投影/画面分割 キーボード/マウス/保護ケース/タッチペン/フィルム付き",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 3018771.96,
+      "t30d_units": 276.0
+    }
+  ]
+}

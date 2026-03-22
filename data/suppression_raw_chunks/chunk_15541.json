@@ -1,1 +1,22 @@
-{"1096748366102": [{"asin": "B0FDWX9N4X", "item_name": "Water Sonic ウォーターソニック 【歯科大学共同研究 歯垢除去率130%】ジェット水流 ソニック歯ブラシ 合体型 ジェットウォッシャー 一体型 電動歯ブラシ 口腔洗浄器 水流音波歯ブラシ 毎分38,000回の音波振動 高圧水流 スタンド充電対応 防水性能 IPX7 (White)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 510940.0, "t30d_units": 26.0}, {"asin": "B0FDWY59TT", "item_name": "Water Sonic ウォーターソニック 【歯科大学共同研究 歯垢除去率130%】ジェット水流 ソニック歯ブラシ 合体型 ジェットウォッシャー 一体型 電動歯ブラシ 口腔洗浄器 水流音波歯ブラシ 毎分38,000回の音波振動 高圧水流 スタンド充電対応 防水性能 IPX7 (Black)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 694999.33, "t30d_units": 35.0}]}
+{
+  "1096748366102": [
+    {
+      "asin": "B0FDWX9N4X",
+      "item_name": "Water Sonic ウォーターソニック 【歯科大学共同研究 歯垢除去率130%】ジェット水流 ソニック歯ブラシ 合体型 ジェットウォッシャー 一体型 電動歯ブラシ 口腔洗浄器 水流音波歯ブラシ 毎分38,000回の音波振動 高圧水流 スタンド充電対応 防水性能 IPX7 (White)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 510940.0,
+      "t30d_units": 26.0
+    },
+    {
+      "asin": "B0FDWY59TT",
+      "item_name": "Water Sonic ウォーターソニック 【歯科大学共同研究 歯垢除去率130%】ジェット水流 ソニック歯ブラシ 合体型 ジェットウォッシャー 一体型 電動歯ブラシ 口腔洗浄器 水流音波歯ブラシ 毎分38,000回の音波振動 高圧水流 スタンド充電対応 防水性能 IPX7 (Black)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 694999.33,
+      "t30d_units": 35.0
+    }
+  ]
+}

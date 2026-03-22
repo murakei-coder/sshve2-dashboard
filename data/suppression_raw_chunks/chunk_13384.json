@@ -1,1 +1,22 @@
-{"856003009402": [{"asin": "B0DHKCGW7G", "item_name": "【薬剤師監修×飲む美容点滴】リポソーム ビタミンC サプリ 高吸収 持続方 プラセンタ ヒアルロン酸 コエンザイムQ10 錠剤 30日分", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 184848.33, "t30d_units": 67.0}, {"asin": "B0FRQZD49Z", "item_name": "ビタミンC サプリ リポソーム【持続型ｘタイムリリースｘビタミンC誘導体ｘLiposomeVitaminC PREMIUM】60日分", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 5680.0, "t30d_units": 1.0}]}
+{
+  "856003009402": [
+    {
+      "asin": "B0DHKCGW7G",
+      "item_name": "【薬剤師監修×飲む美容点滴】リポソーム ビタミンC サプリ 高吸収 持続方 プラセンタ ヒアルロン酸 コエンザイムQ10 錠剤 30日分",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 184848.33,
+      "t30d_units": 67.0
+    },
+    {
+      "asin": "B0FRQZD49Z",
+      "item_name": "ビタミンC サプリ リポソーム【持続型ｘタイムリリースｘビタミンC誘導体ｘLiposomeVitaminC PREMIUM】60日分",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 5680.0,
+      "t30d_units": 1.0
+    }
+  ]
+}

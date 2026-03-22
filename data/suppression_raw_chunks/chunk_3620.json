@@ -1,1 +1,31 @@
-{"8017984745": [{"asin": "B078JSY9GW", "item_name": "ハナオート 鼻うがい 家庭用 鼻洗浄器 電動 鼻うがい器 鼻洗浄 nicoja NK7020", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 10595.0, "t30d_units": 1.0}, {"asin": "B0CPSB5PHM", "item_name": "ネックフィット 家庭用電気マッサージ器 NK6040 コードレス 軽量 ヒーター 3モード 長さ調節 肩 腰 背中 太もも 裏もも ふくらはぎ ネックマッサージャー 肩コリ コンパクト 持ち運び 充電 プレゼント", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0875GRCQ6", "item_name": "スマート低周波 NK5020 パールピンク 低周波治療器 マッサージ器 スマホ nicoja公式 マッサージャー 家庭用 低周波 コードレス 小型 肩こり 腰痛 ポータブル プレゼント", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 19661.0, "t30d_units": 2.0}]}
+{
+  "8017984745": [
+    {
+      "asin": "B078JSY9GW",
+      "item_name": "ハナオート 鼻うがい 家庭用 鼻洗浄器 電動 鼻うがい器 鼻洗浄 nicoja NK7020",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 10595.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0CPSB5PHM",
+      "item_name": "ネックフィット 家庭用電気マッサージ器 NK6040 コードレス 軽量 ヒーター 3モード 長さ調節 肩 腰 背中 太もも 裏もも ふくらはぎ ネックマッサージャー 肩コリ コンパクト 持ち運び 充電 プレゼント",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0875GRCQ6",
+      "item_name": "スマート低周波 NK5020 パールピンク 低周波治療器 マッサージ器 スマホ nicoja公式 マッサージャー 家庭用 低周波 コードレス 小型 肩こり 腰痛 ポータブル プレゼント",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 19661.0,
+      "t30d_units": 2.0
+    }
+  ]
+}

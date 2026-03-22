@@ -1,1 +1,40 @@
-{"683919545002": [{"asin": "B0CJJ76J6V", "item_name": "IWONU 掛け布団 (3.ダブル, 1.デュエット（肌掛け＋合掛け）) オールシーズン 洗濯乾燥機 OK かけ布団 抗菌防臭 ほこり出にくい", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 66000.0, "t30d_units": 2.0}, {"asin": "B0D179TFQQ", "item_name": "IWONU 掛け布団 (3.ダブル, 2.肌掛け布団（単品）) 肌掛け布団 夏用掛け布団 夏布団 春夏用 洗濯乾燥機 OK かけ布団 抗菌防臭 ほこり出にくい", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "L&L", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0CJJ6LCBK", "item_name": "IWONU 掛け布団 (1.シングル, 1.デュエット（肌掛け＋合掛け）) オールシーズン 洗濯乾燥機 OK かけ布団 抗菌防臭 ほこり出にくい", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 154000.0, "t30d_units": 7.0}, {"asin": "B0CJJ59X4K", "item_name": "IWONU 掛け布団 (2.セミダブル, 1.デュエット（肌掛け＋合掛け）) オールシーズン 洗濯乾燥機 OK かけ布団 抗菌防臭 ほこり出にくい", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 27500.0, "t30d_units": 1.0}]}
+{
+  "683919545002": [
+    {
+      "asin": "B0CJJ76J6V",
+      "item_name": "IWONU 掛け布団 (3.ダブル, 1.デュエット（肌掛け＋合掛け）) オールシーズン 洗濯乾燥機 OK かけ布団 抗菌防臭 ほこり出にくい",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 66000.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0D179TFQQ",
+      "item_name": "IWONU 掛け布団 (3.ダブル, 2.肌掛け布団（単品）) 肌掛け布団 夏用掛け布団 夏布団 春夏用 洗濯乾燥機 OK かけ布団 抗菌防臭 ほこり出にくい",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "L&L",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0CJJ6LCBK",
+      "item_name": "IWONU 掛け布団 (1.シングル, 1.デュエット（肌掛け＋合掛け）) オールシーズン 洗濯乾燥機 OK かけ布団 抗菌防臭 ほこり出にくい",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 154000.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0CJJ59X4K",
+      "item_name": "IWONU 掛け布団 (2.セミダブル, 1.デュエット（肌掛け＋合掛け）) オールシーズン 洗濯乾燥機 OK かけ布団 抗菌防臭 ほこり出にくい",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 27500.0,
+      "t30d_units": 1.0
+    }
+  ]
+}

@@ -1,1 +1,22 @@
-{"1141529312102": [{"asin": "B0GFW4LGW7", "item_name": "【 LIMOE 公式 】【 リモエ韓国酵素 】 梅酵素", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 4620.0, "t30d_units": 1.0}, {"asin": "B0GFW7XJ49", "item_name": "【 LIMOE 公式 】【 リモエ韓国酵素 】 酵素 (ラズベリーレモン)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 56549.83, "t30d_units": 12.0}]}
+{
+  "1141529312102": [
+    {
+      "asin": "B0GFW4LGW7",
+      "item_name": "【 LIMOE 公式 】【 リモエ韓国酵素 】 梅酵素",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 4620.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0GFW7XJ49",
+      "item_name": "【 LIMOE 公式 】【 リモエ韓国酵素 】 酵素 (ラズベリーレモン)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 56549.83,
+      "t30d_units": 12.0
+    }
+  ]
+}

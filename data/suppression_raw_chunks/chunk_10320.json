@@ -1,1 +1,22 @@
-{"89677258622": [{"asin": "B0DZ57VKG2", "item_name": "DUDUPET 自動給餌器 猫 中小型犬用 5L容量 1日6食 定時定量 自動餌やり機 スマホ スマート式 2WAY給電 【2026モデル】餌の鮮度保持 水洗い可能 ステンレス製ボウル 手動給餌 お手入れ簡単 ホワイト", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 34694.0, "t30d_units": 8.0}, {"asin": "B0FGHB614R", "item_name": "DUDUPET 自動給餌器 猫 中小型犬用 5L容量 1日6食 定時定量 自動餌やり機 スマホ スマート式 2WAY給電 【2026モデル】餌の鮮度保持 水洗い可能 ステンレス製ボウル 手動給餌 お手入れ簡単 ブラック", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 32628.33, "t30d_units": 8.0}]}
+{
+  "89677258622": [
+    {
+      "asin": "B0DZ57VKG2",
+      "item_name": "DUDUPET 自動給餌器 猫 中小型犬用 5L容量 1日6食 定時定量 自動餌やり機 スマホ スマート式 2WAY給電 【2026モデル】餌の鮮度保持 水洗い可能 ステンレス製ボウル 手動給餌 お手入れ簡単 ホワイト",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 34694.0,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B0FGHB614R",
+      "item_name": "DUDUPET 自動給餌器 猫 中小型犬用 5L容量 1日6食 定時定量 自動餌やり機 スマホ スマート式 2WAY給電 【2026モデル】餌の鮮度保持 水洗い可能 ステンレス製ボウル 手動給餌 お手入れ簡単 ブラック",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 32628.33,
+      "t30d_units": 8.0
+    }
+  ]
+}

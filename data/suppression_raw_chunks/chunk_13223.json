@@ -1,1 +1,40 @@
-{"840809694802": [{"asin": "B0G2BNK2MW", "item_name": "アロマオイル 精油 エッセシャンオイル 純天然抽出 アロマディフューザー用 加湿器用 アロマストーン用 プレゼントに最適 Essential Oil (イランイラン)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 999.0, "t30d_units": 1.0}, {"asin": "B0FNWVJDJX", "item_name": "アロマオイル 精油 エッセシャンオイル 純天然抽出 アロマディフューザー用 加湿器用 アロマストーン用 プレゼントに最適 Essential Oil (金木犀)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 11851.0, "t30d_units": 8.0}, {"asin": "B0F5HH4NG8", "item_name": "ハンディファン ハンディ扇風機 9枚羽根 強力送風 手持ち扇風機 長時間稼働 電動エアダスター Type-C充電式 40000RPM 超強力 旅行用 携帯ファン 軽量 静音 持ち運びに便利 熱中症対策 暑さ対策 オフィス/スポーツ観戦/花火大会/夏祭り ストラップ付き 日本語取扱説明書付き (ホワイト・レッド)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 5760.0, "t30d_units": 2.0}, {"asin": "B0F5HFYX82", "item_name": "ハンディファン ハンディ扇風機 9枚羽根 強力送風 手持ち扇風機 長時間稼働 電動エアダスター Type-C充電式 40000RPM 超強力 旅行用 携帯ファン 軽量 静音 持ち運びに便利 熱中症対策 暑さ対策 オフィス/スポーツ観戦/花火大会/夏祭り ストラップ付き 日本語取扱説明書付き (グレー)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 9040.0, "t30d_units": 3.0}]}
+{
+  "840809694802": [
+    {
+      "asin": "B0G2BNK2MW",
+      "item_name": "アロマオイル 精油 エッセシャンオイル 純天然抽出 アロマディフューザー用 加湿器用 アロマストーン用 プレゼントに最適 Essential Oil (イランイラン)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 999.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0FNWVJDJX",
+      "item_name": "アロマオイル 精油 エッセシャンオイル 純天然抽出 アロマディフューザー用 加湿器用 アロマストーン用 プレゼントに最適 Essential Oil (金木犀)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 11851.0,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B0F5HH4NG8",
+      "item_name": "ハンディファン ハンディ扇風機 9枚羽根 強力送風 手持ち扇風機 長時間稼働 電動エアダスター Type-C充電式 40000RPM 超強力 旅行用 携帯ファン 軽量 静音 持ち運びに便利 熱中症対策 暑さ対策 オフィス/スポーツ観戦/花火大会/夏祭り ストラップ付き 日本語取扱説明書付き (ホワイト・レッド)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 5760.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0F5HFYX82",
+      "item_name": "ハンディファン ハンディ扇風機 9枚羽根 強力送風 手持ち扇風機 長時間稼働 電動エアダスター Type-C充電式 40000RPM 超強力 旅行用 携帯ファン 軽量 静音 持ち運びに便利 熱中症対策 暑さ対策 オフィス/スポーツ観戦/花火大会/夏祭り ストラップ付き 日本語取扱説明書付き (グレー)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 9040.0,
+      "t30d_units": 3.0
+    }
+  ]
+}

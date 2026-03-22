@@ -1,1 +1,40 @@
-{"69720977022": [{"asin": "B0D59ZVL3K", "item_name": "YOBOKO アルミニウム合金ウォーキングスティック トレッキングポール ハイキング杖 折りたたみ式ハイキングスティック 滑り止め杖 高齢者用 長さ調節可能 ウォーキングスティック杖 高齢者用 (Coffee)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 2886.0, "t30d_units": 2.0}, {"asin": "B0D5B2KGW9", "item_name": "YOBOKO アルミニウム合金ウォーキングスティック トレッキングポール ハイキング杖 折りたたみ式ハイキングスティック 滑り止め杖 高齢者用 長さ調節可能 ウォーキングスティック杖 高齢者用 (Black)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 8191.0, "t30d_units": 7.0}, {"asin": "B0D5B34BH1", "item_name": "YOBOKO アルミニウム合金ウォーキングスティック トレッキングポール ハイキング杖 折りたたみ式ハイキングスティック 滑り止め杖 高齢者用 長さ調節可能 ウォーキングスティック杖 高齢者用 (Golden)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "L&L", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0D5B1LZG5", "item_name": "YOBOKO アルミニウム合金ウォーキングスティック トレッキングポール ハイキング杖 折りたたみ式ハイキングスティック 滑り止め杖 高齢者用 長さ調節可能 ウォーキングスティック杖 高齢者用 (Blue)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "L&L", "t30d_ops": 2304.0, "t30d_units": 2.0}]}
+{
+  "69720977022": [
+    {
+      "asin": "B0D59ZVL3K",
+      "item_name": "YOBOKO アルミニウム合金ウォーキングスティック トレッキングポール ハイキング杖 折りたたみ式ハイキングスティック 滑り止め杖 高齢者用 長さ調節可能 ウォーキングスティック杖 高齢者用 (Coffee)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 2886.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0D5B2KGW9",
+      "item_name": "YOBOKO アルミニウム合金ウォーキングスティック トレッキングポール ハイキング杖 折りたたみ式ハイキングスティック 滑り止め杖 高齢者用 長さ調節可能 ウォーキングスティック杖 高齢者用 (Black)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 8191.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0D5B34BH1",
+      "item_name": "YOBOKO アルミニウム合金ウォーキングスティック トレッキングポール ハイキング杖 折りたたみ式ハイキングスティック 滑り止め杖 高齢者用 長さ調節可能 ウォーキングスティック杖 高齢者用 (Golden)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "L&L",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0D5B1LZG5",
+      "item_name": "YOBOKO アルミニウム合金ウォーキングスティック トレッキングポール ハイキング杖 折りたたみ式ハイキングスティック 滑り止め杖 高齢者用 長さ調節可能 ウォーキングスティック杖 高齢者用 (Blue)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "L&L",
+      "t30d_ops": 2304.0,
+      "t30d_units": 2.0
+    }
+  ]
+}

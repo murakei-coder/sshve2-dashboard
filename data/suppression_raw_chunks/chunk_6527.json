@@ -1,1 +1,31 @@
-{"38447288422": [{"asin": "B09QC3TLSX", "item_name": "[ＶＥＲＡＰＥＬＬＥ] 【 Amazon 限定ブランド トートバッグ ビジネストート ビジネスバッグ メンズ 牛革 レザー A4対応 PC収納 大容量 天ファスナー 通勤 通学 カジュアル (ブラック)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Softlines", "t30d_ops": 48950.0, "t30d_units": 3.0}, {"asin": "B0DJNNVBS9", "item_name": "[ＶＥＲＡＰＥＬＬＥ] トートバッグ ビジネストート ビジネスバッグ メンズ 牛革 レザー A4対応 PC収納 大容量 天ファスナー 通勤 通学 カジュアル (ブラックB)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 62125.0, "t30d_units": 5.0}, {"asin": "B09QBV4K9V", "item_name": "[ＶＥＲＡＰＥＬＬＥ] 【 Amazon 限定ブランド トートバッグ ビジネストート ビジネスバッグ メンズ 牛革 レザー A4対応 PC収納 大容量 天ファスナー 通勤 通学 カジュアル (ネイビー)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Softlines", "t30d_ops": 35600.0, "t30d_units": 2.0}]}
+{
+  "38447288422": [
+    {
+      "asin": "B09QC3TLSX",
+      "item_name": "[ＶＥＲＡＰＥＬＬＥ] 【 Amazon 限定ブランド トートバッグ ビジネストート ビジネスバッグ メンズ 牛革 レザー A4対応 PC収納 大容量 天ファスナー 通勤 通学 カジュアル (ブラック)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Softlines",
+      "t30d_ops": 48950.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0DJNNVBS9",
+      "item_name": "[ＶＥＲＡＰＥＬＬＥ] トートバッグ ビジネストート ビジネスバッグ メンズ 牛革 レザー A4対応 PC収納 大容量 天ファスナー 通勤 通学 カジュアル (ブラックB)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 62125.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B09QBV4K9V",
+      "item_name": "[ＶＥＲＡＰＥＬＬＥ] 【 Amazon 限定ブランド トートバッグ ビジネストート ビジネスバッグ メンズ 牛革 レザー A4対応 PC収納 大容量 天ファスナー 通勤 通学 カジュアル (ネイビー)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Softlines",
+      "t30d_ops": 35600.0,
+      "t30d_units": 2.0
+    }
+  ]
+}

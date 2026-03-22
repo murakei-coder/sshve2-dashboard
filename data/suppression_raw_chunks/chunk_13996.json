@@ -1,1 +1,49 @@
-{"943789939602": [{"asin": "B0DK97V228", "item_name": "MakeID L1-Cラベルプリンター ポケットサイズ コンパクト Bluetooth対応 専用アプリでデザインは自由自在 接続対応 Android iOS (16mm幅ホワイトテープ付き)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 635538.8, "t30d_units": 234.0}, {"asin": "B0DK97MNKK", "item_name": "MakeID L1 ラベルプリンター 300dpi高精細印刷 Bluetooth対応 専用アプリでデザインは自由自在 接続対応 Android/iOS (16mm幅ホワイトテープ付き)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 206172.43, "t30d_units": 55.0}, {"asin": "B0F53ZB6ZS", "item_name": "MakeID L1-C ラベルプリンター ポケットサイズ コンパクト Bluetooth対応 専用アプリでデザインは自由自在 接続対応 Android iOS (16mm幅ホワイトテープ付き)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 307025.4, "t30d_units": 75.0}, {"asin": "B0F53VW21F", "item_name": "MakeID L1-C ラベルプリンター ポケットサイズ コンパクト Bluetooth対応 専用アプリでデザインは自由自在 接続対応 Android iOS (16mm幅ホワイトテープ付き)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 398841.45, "t30d_units": 98.0}, {"asin": "B0F53Y8YS3", "item_name": "MakeID L1-C ラベルプリンター ポケットサイズ コンパクト Bluetooth対応 専用アプリでデザインは自由自在 接続対応 Android iOS (16mm幅ホワイトテープ付き)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 263618.21, "t30d_units": 89.0}]}
+{
+  "943789939602": [
+    {
+      "asin": "B0DK97V228",
+      "item_name": "MakeID L1-Cラベルプリンター ポケットサイズ コンパクト Bluetooth対応 専用アプリでデザインは自由自在 接続対応 Android iOS (16mm幅ホワイトテープ付き)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 635538.8,
+      "t30d_units": 234.0
+    },
+    {
+      "asin": "B0DK97MNKK",
+      "item_name": "MakeID L1 ラベルプリンター 300dpi高精細印刷 Bluetooth対応 専用アプリでデザインは自由自在 接続対応 Android/iOS (16mm幅ホワイトテープ付き)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 206172.43,
+      "t30d_units": 55.0
+    },
+    {
+      "asin": "B0F53ZB6ZS",
+      "item_name": "MakeID L1-C ラベルプリンター ポケットサイズ コンパクト Bluetooth対応 専用アプリでデザインは自由自在 接続対応 Android iOS (16mm幅ホワイトテープ付き)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 307025.4,
+      "t30d_units": 75.0
+    },
+    {
+      "asin": "B0F53VW21F",
+      "item_name": "MakeID L1-C ラベルプリンター ポケットサイズ コンパクト Bluetooth対応 専用アプリでデザインは自由自在 接続対応 Android iOS (16mm幅ホワイトテープ付き)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 398841.45,
+      "t30d_units": 98.0
+    },
+    {
+      "asin": "B0F53Y8YS3",
+      "item_name": "MakeID L1-C ラベルプリンター ポケットサイズ コンパクト Bluetooth対応 専用アプリでデザインは自由自在 接続対応 Android iOS (16mm幅ホワイトテープ付き)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 263618.21,
+      "t30d_units": 89.0
+    }
+  ]
+}

@@ -1,1 +1,85 @@
-{"7758488722": [{"asin": "B08Y8JD4V8", "item_name": "LUOLUO ふきん 強力吸水 布巾 雑巾 手拭き用ハンドタオル ガラス 窓鏡 洗面台拭きタオル 掃除用品 ワッフル調", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 22151.41, "t30d_units": 11.0}, {"asin": "B08Y8JH4BM", "item_name": "LUOLUO ふきん 4枚入り 強力吸水 布巾 掛けループ付き キッチンクロス 雑巾 手拭き用ハンドタオル 防臭 北欧 衛生 抗菌 キッチンタオル 洗面台拭きタオル ワッフル調 レッド 33*71cm", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 11019.25, "t30d_units": 6.0}, {"asin": "B08Y8HQ6S4", "item_name": "LUOLUO ふきん 6枚セット 強力吸水 速乾 布巾 雑巾 手拭き用ハンドタオル ガラス 窓鏡 洗面台拭きタオル キッチンタオル 掃除用品 ワッフル調 ワッフル調ふきん キッチンクロス グレー", "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]", "suppression_category": "5.Others", "pf": "L&L", "t30d_ops": 74275.06, "t30d_units": 43.0}, {"asin": "B08Y8G1X2W", "item_name": "LUOLUO ふきん 4枚入り 強力吸水 布巾 紐付き キッチンクロス 雑巾 手拭き用ハンドタオル 防臭 北欧 衛生 抗菌 キッチンタオル 洗面台拭きタオル ワッフル調 ブラック 33*71cm", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 8205.0, "t30d_units": 4.0}, {"asin": "B08Y8HCJR7", "item_name": "LUOLUO ふきん 6枚入り キッチンタオル 布巾 強力吸水 紐付き キッチンクロス 雑巾 手拭き用ハンドタオル 防臭 北欧 衛生 抗菌 洗面台拭きタオル ワッフル調 ブラウン 33*33cm", "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]", "suppression_category": "5.Others", "pf": "L&L", "t30d_ops": 22760.0, "t30d_units": 13.0}, {"asin": "B08Y8JKWMB", "item_name": "LUOLUO ふきん 4枚入り 強力吸水 布巾 紐付き キッチンクロス 雑巾 手拭き用ハンドタオル 防臭 北欧 衛生 抗菌 キッチンタオル 洗面台拭きタオル ワッフル調 ブラウン 33*71cm", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 5352.0, "t30d_units": 3.0}, {"asin": "B08Y8HTZ35", "item_name": "LUOLUO ふきん 6枚入り キッチンタオル 布巾 強力吸水 紐付き キッチンクロス 雑巾 手拭き用ハンドタオル 防臭 北欧 衛生 抗菌 洗面台拭きタオル ワッフル調 レッド 33*33cm", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 27271.11, "t30d_units": 16.0}, {"asin": "B08Y8GMLDZ", "item_name": "LUOLUO ふきん 6枚入り キッチンタオル 布巾 強力吸水 紐付き キッチンクロス 雑巾 手拭き用ハンドタオル 防臭 北欧 衛生 抗菌 洗面台拭きタオル ワッフル調 ベージュ 33*33cm", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 29226.55, "t30d_units": 17.0}, {"asin": "B08Y8FZWVM", "item_name": "LUOLUO ふきん 4枚入り 強力吸水 布巾 掛けループ付き キッチンクロス 雑巾 手拭き用ハンドタオル 防臭 北欧 衛生 抗菌 キッチンタオル 洗面台拭きタオル ワッフル調 ベージュ 33*71cm", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 15952.0, "t30d_units": 8.0}]}
+{
+  "7758488722": [
+    {
+      "asin": "B08Y8JD4V8",
+      "item_name": "LUOLUO ふきん 強力吸水 布巾 雑巾 手拭き用ハンドタオル ガラス 窓鏡 洗面台拭きタオル 掃除用品 ワッフル調",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 22151.41,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B08Y8JH4BM",
+      "item_name": "LUOLUO ふきん 4枚入り 強力吸水 布巾 掛けループ付き キッチンクロス 雑巾 手拭き用ハンドタオル 防臭 北欧 衛生 抗菌 キッチンタオル 洗面台拭きタオル ワッフル調 レッド 33*71cm",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 11019.25,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B08Y8HQ6S4",
+      "item_name": "LUOLUO ふきん 6枚セット 強力吸水 速乾 布巾 雑巾 手拭き用ハンドタオル ガラス 窓鏡 洗面台拭きタオル キッチンタオル 掃除用品 ワッフル調 ワッフル調ふきん キッチンクロス グレー",
+      "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
+      "suppression_category": "5.Others",
+      "pf": "L&L",
+      "t30d_ops": 74275.06,
+      "t30d_units": 43.0
+    },
+    {
+      "asin": "B08Y8G1X2W",
+      "item_name": "LUOLUO ふきん 4枚入り 強力吸水 布巾 紐付き キッチンクロス 雑巾 手拭き用ハンドタオル 防臭 北欧 衛生 抗菌 キッチンタオル 洗面台拭きタオル ワッフル調 ブラック 33*71cm",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 8205.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B08Y8HCJR7",
+      "item_name": "LUOLUO ふきん 6枚入り キッチンタオル 布巾 強力吸水 紐付き キッチンクロス 雑巾 手拭き用ハンドタオル 防臭 北欧 衛生 抗菌 洗面台拭きタオル ワッフル調 ブラウン 33*33cm",
+      "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
+      "suppression_category": "5.Others",
+      "pf": "L&L",
+      "t30d_ops": 22760.0,
+      "t30d_units": 13.0
+    },
+    {
+      "asin": "B08Y8JKWMB",
+      "item_name": "LUOLUO ふきん 4枚入り 強力吸水 布巾 紐付き キッチンクロス 雑巾 手拭き用ハンドタオル 防臭 北欧 衛生 抗菌 キッチンタオル 洗面台拭きタオル ワッフル調 ブラウン 33*71cm",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 5352.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B08Y8HTZ35",
+      "item_name": "LUOLUO ふきん 6枚入り キッチンタオル 布巾 強力吸水 紐付き キッチンクロス 雑巾 手拭き用ハンドタオル 防臭 北欧 衛生 抗菌 洗面台拭きタオル ワッフル調 レッド 33*33cm",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 27271.11,
+      "t30d_units": 16.0
+    },
+    {
+      "asin": "B08Y8GMLDZ",
+      "item_name": "LUOLUO ふきん 6枚入り キッチンタオル 布巾 強力吸水 紐付き キッチンクロス 雑巾 手拭き用ハンドタオル 防臭 北欧 衛生 抗菌 洗面台拭きタオル ワッフル調 ベージュ 33*33cm",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 29226.55,
+      "t30d_units": 17.0
+    },
+    {
+      "asin": "B08Y8FZWVM",
+      "item_name": "LUOLUO ふきん 4枚入り 強力吸水 布巾 掛けループ付き キッチンクロス 雑巾 手拭き用ハンドタオル 防臭 北欧 衛生 抗菌 キッチンタオル 洗面台拭きタオル ワッフル調 ベージュ 33*71cm",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 15952.0,
+      "t30d_units": 8.0
+    }
+  ]
+}

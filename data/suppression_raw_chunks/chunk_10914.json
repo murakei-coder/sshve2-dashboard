@@ -1,1 +1,40 @@
-{"589772559402": [{"asin": "B0FF9SQB19", "item_name": "Brook Wingman FGC VX PS5/PS4/PC対応 コンバーター アーケードコントローラー 150種類以上の有線コントローラー対応 レイテンシ低減 変換アダプター アーケードジョイスティック 全PS5/PS4ゲーム対応【日本正規代理店】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 4135468.71, "t30d_units": 417.0}, {"asin": "B0F4364644", "item_name": "Brook FGC Retro – PS1 & PS2 コントローラー変換アダプター PS5/PS4/PC対応 – ターボ・リマップ・マクロ機能搭載 – X-Input・タッチパッドエミュレーション – ダンスマット・アーケードスティック・リズムゲーム対応", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 51919.33, "t30d_units": 8.0}, {"asin": "B0FQ9SY12J", "item_name": "ポータブルブルーレイプレーヤー DVDプレーヤー 1080P Blu-rayプレイヤー スーパーミニディスクプレーヤー CD USB DTSサウンドサポート 内蔵PALNTSC同軸2.0USB Blu-rayリージョンA / 1 DVDリージョンフリー HDMI AVケーブル付き【正規品/日本語説明書付き】 (木目調)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1528729.97, "t30d_units": 81.0}, {"asin": "B0FSCTTKPN", "item_name": "ポータブルブルーレイプレーヤー DVDプレーヤー Blu-rayプレイヤー シガーアダプターセット【正規品/日本語説明書付き】【HDMI AVケーブル & シガーアダプター付属】【セット品】 (木目調)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 719472.06, "t30d_units": 36.0}]}
+{
+  "589772559402": [
+    {
+      "asin": "B0FF9SQB19",
+      "item_name": "Brook Wingman FGC VX PS5/PS4/PC対応 コンバーター アーケードコントローラー 150種類以上の有線コントローラー対応 レイテンシ低減 変換アダプター アーケードジョイスティック 全PS5/PS4ゲーム対応【日本正規代理店】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 4135468.71,
+      "t30d_units": 417.0
+    },
+    {
+      "asin": "B0F4364644",
+      "item_name": "Brook FGC Retro – PS1 & PS2 コントローラー変換アダプター PS5/PS4/PC対応 – ターボ・リマップ・マクロ機能搭載 – X-Input・タッチパッドエミュレーション – ダンスマット・アーケードスティック・リズムゲーム対応",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 51919.33,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B0FQ9SY12J",
+      "item_name": "ポータブルブルーレイプレーヤー DVDプレーヤー 1080P Blu-rayプレイヤー スーパーミニディスクプレーヤー CD USB DTSサウンドサポート 内蔵PALNTSC同軸2.0USB Blu-rayリージョンA / 1 DVDリージョンフリー HDMI AVケーブル付き【正規品/日本語説明書付き】 (木目調)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1528729.97,
+      "t30d_units": 81.0
+    },
+    {
+      "asin": "B0FSCTTKPN",
+      "item_name": "ポータブルブルーレイプレーヤー DVDプレーヤー Blu-rayプレイヤー シガーアダプターセット【正規品/日本語説明書付き】【HDMI AVケーブル & シガーアダプター付属】【セット品】 (木目調)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 719472.06,
+      "t30d_units": 36.0
+    }
+  ]
+}

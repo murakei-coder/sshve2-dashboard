@@ -1,1 +1,40 @@
-{"78571317122": [{"asin": "B0F5PRR6D2", "item_name": "Pejevir キャンプマット 折り畳み エアーマット 一体式枕付き 車中泊マット 7~10cm 厚手 30秒自動膨張 軽量 インフレーターマット 無限連結可能 来客用 防災対策 持ち運び便利 アウトドア マット コンパクト 簡単収納 収納袋付き（スペアミント）", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 45112.75, "t30d_units": 11.0}, {"asin": "B0FHH4WTDQ", "item_name": "Pejevir キャリーカート 折りたたみ ショッピングカート 角度調整可能なハンドル 一体式のふた付き 耐荷重50KG 買い物カート 静音 4輪自在 後輪ストッパー付き アウトドア 防災 キャンプ用 荷物運び 大容量65L（ブラック）", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 84433.33, "t30d_units": 17.0}, {"asin": "B0F5PRF6DT", "item_name": "Pejevir キャンプマット 折り畳み エアーマット 一体式枕付き 車中泊マット 7~10cm 厚手 30秒自動膨張 軽量 インフレーターマット 無限連結可能 来客用 防災対策 持ち運び便利 アウトドア マット コンパクト 簡単収納 収納袋付き（シルバーグレイ）", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 69950.33, "t30d_units": 17.0}, {"asin": "B0F5PS3T7Q", "item_name": "Pejevir キャンプマット 折り畳み エアーマット 一体式枕付き 車中泊マット 7~10cm 厚手 30秒自動膨張 軽量 インフレーターマット 無限連結可能 来客用 防災対策 持ち運び便利 アウトドア マット コンパクト 簡単収納 収納袋付き（ブラウン）", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 24275.0, "t30d_units": 6.0}]}
+{
+  "78571317122": [
+    {
+      "asin": "B0F5PRR6D2",
+      "item_name": "Pejevir キャンプマット 折り畳み エアーマット 一体式枕付き 車中泊マット 7~10cm 厚手 30秒自動膨張 軽量 インフレーターマット 無限連結可能 来客用 防災対策 持ち運び便利 アウトドア マット コンパクト 簡単収納 収納袋付き（スペアミント）",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 45112.75,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0FHH4WTDQ",
+      "item_name": "Pejevir キャリーカート 折りたたみ ショッピングカート 角度調整可能なハンドル 一体式のふた付き 耐荷重50KG 買い物カート 静音 4輪自在 後輪ストッパー付き アウトドア 防災 キャンプ用 荷物運び 大容量65L（ブラック）",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 84433.33,
+      "t30d_units": 17.0
+    },
+    {
+      "asin": "B0F5PRF6DT",
+      "item_name": "Pejevir キャンプマット 折り畳み エアーマット 一体式枕付き 車中泊マット 7~10cm 厚手 30秒自動膨張 軽量 インフレーターマット 無限連結可能 来客用 防災対策 持ち運び便利 アウトドア マット コンパクト 簡単収納 収納袋付き（シルバーグレイ）",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 69950.33,
+      "t30d_units": 17.0
+    },
+    {
+      "asin": "B0F5PS3T7Q",
+      "item_name": "Pejevir キャンプマット 折り畳み エアーマット 一体式枕付き 車中泊マット 7~10cm 厚手 30秒自動膨張 軽量 インフレーターマット 無限連結可能 来客用 防災対策 持ち運び便利 アウトドア マット コンパクト 簡単収納 収納袋付き（ブラウン）",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 24275.0,
+      "t30d_units": 6.0
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"1130638280802": [{"asin": "B0G5DVYY3D", "item_name": "2026最新 ノートパソコン 16GB DDR4(32GB拡張可能）+512GB SSD パソコン Win11 Pro 51.3Wh大容量バッテリー ノートパソコン 15.6インチ 1920×1080 IPS液晶 Core i3 最大3.6GHz ノートPC ウェブカメラ付き 高速放熱+静音 デスクトップ HDMI+Type-C+テンキー付き/日本語キーボードカバー 学生向け 仕事用 laptop", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 2106054.0, "t30d_units": 41.0}, {"asin": "B0G5P9Q17J", "item_name": "ノートパソコン 16GB DDR4爆速メモリ+512GB SSD 第12世代 N95搭載 最大3.4GHz N5095 より速い】ノートパソコン 15.6インチ 38Wh大容量バッテリー 1920×1080 IPS液晶 デスクトップpc Win11Pro、ノートPC Webカメラ搭載USB3.2+Type-C+WIFI5/HDMI/Micro SD対応/テンキー付き/日本語キーボード", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 3431263.75, "t30d_units": 77.0}, {"asin": "B0FXB2PFZ9", "item_name": "ミニpc【2025超高コスパ·64GB DDR4+4TB SSD（拡張可能）】Bmax mini pc Celeron 5205U搭載 動作より安定 Windows11 Pro ミニパソコン 温度に応じて自動調整冷却ファン 高速有線 小型pc 8GB+256GB NVMeSSD(SATAより3倍早い) LAN/WIFI5/BT5.0 小型パソコン 4K@60Hz 2画面同時出力 CMOSクリア", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 6691813.64, "t30d_units": 244.0}]}
+{
+  "1130638280802": [
+    {
+      "asin": "B0G5DVYY3D",
+      "item_name": "2026最新 ノートパソコン 16GB DDR4(32GB拡張可能）+512GB SSD パソコン Win11 Pro 51.3Wh大容量バッテリー ノートパソコン 15.6インチ 1920×1080 IPS液晶 Core i3 最大3.6GHz ノートPC ウェブカメラ付き 高速放熱+静音 デスクトップ HDMI+Type-C+テンキー付き/日本語キーボードカバー 学生向け 仕事用 laptop",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 2106054.0,
+      "t30d_units": 41.0
+    },
+    {
+      "asin": "B0G5P9Q17J",
+      "item_name": "ノートパソコン 16GB DDR4爆速メモリ+512GB SSD 第12世代 N95搭載 最大3.4GHz N5095 より速い】ノートパソコン 15.6インチ 38Wh大容量バッテリー 1920×1080 IPS液晶 デスクトップpc Win11Pro、ノートPC Webカメラ搭載USB3.2+Type-C+WIFI5/HDMI/Micro SD対応/テンキー付き/日本語キーボード",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 3431263.75,
+      "t30d_units": 77.0
+    },
+    {
+      "asin": "B0FXB2PFZ9",
+      "item_name": "ミニpc【2025超高コスパ·64GB DDR4+4TB SSD（拡張可能）】Bmax mini pc Celeron 5205U搭載 動作より安定 Windows11 Pro ミニパソコン 温度に応じて自動調整冷却ファン 高速有線 小型pc 8GB+256GB NVMeSSD(SATAより3倍早い) LAN/WIFI5/BT5.0 小型パソコン 4K@60Hz 2画面同時出力 CMOSクリア",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 6691813.64,
+      "t30d_units": 244.0
+    }
+  ]
+}

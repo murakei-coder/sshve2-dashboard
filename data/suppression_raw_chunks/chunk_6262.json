@@ -1,1 +1,103 @@
-{"33167818722": [{"asin": "B0FHPBT3ZQ", "item_name": "YEPPUPPY 音が鳴る ぬいぐるみ犬用おもちゃ - 犬の知育、耳触りの良い音で知能を刺激します - 楽しいおもちゃ 採餌本能を刺激 - おやつパズル 嗅覚 犬用おもちゃ - 犬用 噛むおもちゃ (チップスを追加)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 30850.0, "t30d_units": 10.0}, {"asin": "B0BWHGHMKV", "item_name": "YEPPUPPY 犬用ステップ式ノーズワークパズルおもちゃ (レッド)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 279084.33, "t30d_units": 104.0}, {"asin": "B0FG7BKF4J", "item_name": "YEPPUPPY 犬用ステップ式ノーズワークパズルおもちゃ (スカイグリーン)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 67419.16, "t30d_units": 25.0}, {"asin": "B0BP7Z6DCY", "item_name": "YEPPUPPY 犬用ステップ式ノーズワークパズルおもちゃ (ホワイト)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 21219.8, "t30d_units": 11.0}, {"asin": "B0DWSNYCXG", "item_name": "YEPPUPPY 犬用ステップ式ノーズワークパズルおもちゃ (ブルー)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 59799.13, "t30d_units": 26.0}, {"asin": "B0BN6P9XJX", "item_name": "YEPPUPPY 音が鳴る ぬいぐるみ犬用おもちゃ - 犬の知育、耳触りの良い音で知能を刺激します - 楽しいおもちゃ 採餌本能を刺激 - おやつパズル 嗅覚 犬用おもちゃ - 犬用 噛むおもちゃ (3個チップ)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 30474.75, "t30d_units": 23.0}, {"asin": "B09P9T3TXZ", "item_name": "YEPPUPPY 音が鳴る ぬいぐるみ犬用おもちゃ - 犬の知育、耳触りの良い音で知能を刺激します - 楽しいおもちゃ 採餌本能を刺激 - おやつパズル 嗅覚 犬用おもちゃ - 犬用 噛むおもちゃ (スパムの形で)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 26056.5, "t30d_units": 18.0}, {"asin": "B09CNC92KK", "item_name": "YEPPUPPY 音が鳴る ぬいぐるみ 犬用おもちゃ - 犬の知育、耳触りの良い音で知能を刺激します - 楽しいおもちゃ 採餌本能を刺激 - おやつパズル 嗅覚 - 噛むおもちゃ (袋と ポテトチップ)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 262043.3, "t30d_units": 109.0}, {"asin": "B0FG7F2YHM", "item_name": "YEPPUPPY 犬用ステップ式ノーズワークパズルおもちゃ (ディープイエロー)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 37199.8, "t30d_units": 15.0}, {"asin": "B0FL2XFPYN", "item_name": "YEPPUPPY 音が鳴る ぬいぐるみ犬用おもちゃ - 犬の知育、耳触りの良い音で知能を刺激します - 楽しいおもちゃ 採餌本能を刺激 - おやつパズル 嗅覚 犬用おもちゃ - 犬用 噛むおもちゃ (ピンク)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 53756.66, "t30d_units": 28.0}, {"asin": "B0CJLT9GKQ", "item_name": "YEPPUPPY 犬用ステップ式ノーズワークパズルおもちゃ (ブルーラウンド)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 45311.11, "t30d_units": 24.0}]}
+{
+  "33167818722": [
+    {
+      "asin": "B0FHPBT3ZQ",
+      "item_name": "YEPPUPPY 音が鳴る ぬいぐるみ犬用おもちゃ - 犬の知育、耳触りの良い音で知能を刺激します - 楽しいおもちゃ 採餌本能を刺激 - おやつパズル 嗅覚 犬用おもちゃ - 犬用 噛むおもちゃ (チップスを追加)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 30850.0,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B0BWHGHMKV",
+      "item_name": "YEPPUPPY 犬用ステップ式ノーズワークパズルおもちゃ (レッド)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 279084.33,
+      "t30d_units": 104.0
+    },
+    {
+      "asin": "B0FG7BKF4J",
+      "item_name": "YEPPUPPY 犬用ステップ式ノーズワークパズルおもちゃ (スカイグリーン)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 67419.16,
+      "t30d_units": 25.0
+    },
+    {
+      "asin": "B0BP7Z6DCY",
+      "item_name": "YEPPUPPY 犬用ステップ式ノーズワークパズルおもちゃ (ホワイト)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 21219.8,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0DWSNYCXG",
+      "item_name": "YEPPUPPY 犬用ステップ式ノーズワークパズルおもちゃ (ブルー)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 59799.13,
+      "t30d_units": 26.0
+    },
+    {
+      "asin": "B0BN6P9XJX",
+      "item_name": "YEPPUPPY 音が鳴る ぬいぐるみ犬用おもちゃ - 犬の知育、耳触りの良い音で知能を刺激します - 楽しいおもちゃ 採餌本能を刺激 - おやつパズル 嗅覚 犬用おもちゃ - 犬用 噛むおもちゃ (3個チップ)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 30474.75,
+      "t30d_units": 23.0
+    },
+    {
+      "asin": "B09P9T3TXZ",
+      "item_name": "YEPPUPPY 音が鳴る ぬいぐるみ犬用おもちゃ - 犬の知育、耳触りの良い音で知能を刺激します - 楽しいおもちゃ 採餌本能を刺激 - おやつパズル 嗅覚 犬用おもちゃ - 犬用 噛むおもちゃ (スパムの形で)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 26056.5,
+      "t30d_units": 18.0
+    },
+    {
+      "asin": "B09CNC92KK",
+      "item_name": "YEPPUPPY 音が鳴る ぬいぐるみ 犬用おもちゃ - 犬の知育、耳触りの良い音で知能を刺激します - 楽しいおもちゃ 採餌本能を刺激 - おやつパズル 嗅覚 - 噛むおもちゃ (袋と ポテトチップ)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 262043.3,
+      "t30d_units": 109.0
+    },
+    {
+      "asin": "B0FG7F2YHM",
+      "item_name": "YEPPUPPY 犬用ステップ式ノーズワークパズルおもちゃ (ディープイエロー)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 37199.8,
+      "t30d_units": 15.0
+    },
+    {
+      "asin": "B0FL2XFPYN",
+      "item_name": "YEPPUPPY 音が鳴る ぬいぐるみ犬用おもちゃ - 犬の知育、耳触りの良い音で知能を刺激します - 楽しいおもちゃ 採餌本能を刺激 - おやつパズル 嗅覚 犬用おもちゃ - 犬用 噛むおもちゃ (ピンク)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 53756.66,
+      "t30d_units": 28.0
+    },
+    {
+      "asin": "B0CJLT9GKQ",
+      "item_name": "YEPPUPPY 犬用ステップ式ノーズワークパズルおもちゃ (ブルーラウンド)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 45311.11,
+      "t30d_units": 24.0
+    }
+  ]
+}

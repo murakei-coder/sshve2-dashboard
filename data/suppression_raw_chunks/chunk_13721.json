@@ -1,1 +1,22 @@
-{"903675144702": [{"asin": "B0G6455C4R", "item_name": "プロジェクター 4K 家庭用【1500ANSI/公式Google TV搭載】 【20,000+アプリ利用可能＆音声制御＆自動フォーカス＆自動台形補正】PUTRIMS K12プロジェクター HDMI ARC WiFi6 Bluetooth5.3 4K対応 300\"大画面 ホームシアター ビジネス用 スマホ/PC/DVD/Switchなどに対応 日本語取扱説明書 ホームプロジェクター", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1173860.94, "t30d_units": 40.0}, {"asin": "B0FVXFJ1VQ", "item_name": "プロジェクター 4K 家庭用【公式認証アプリ＆ライブTV】小型ポータブルプロジェクター[自動フォーカス&自動台形補正&自動画面適応&自動障害物回避]スマホ/PC/DVD/Switchなどに対応 日本語取扱説明書 PUTRIMS S36", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 4621002.13, "t30d_units": 263.0}]}
+{
+  "903675144702": [
+    {
+      "asin": "B0G6455C4R",
+      "item_name": "プロジェクター 4K 家庭用【1500ANSI/公式Google TV搭載】 【20,000+アプリ利用可能＆音声制御＆自動フォーカス＆自動台形補正】PUTRIMS K12プロジェクター HDMI ARC WiFi6 Bluetooth5.3 4K対応 300\"大画面 ホームシアター ビジネス用 スマホ/PC/DVD/Switchなどに対応 日本語取扱説明書 ホームプロジェクター",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1173860.94,
+      "t30d_units": 40.0
+    },
+    {
+      "asin": "B0FVXFJ1VQ",
+      "item_name": "プロジェクター 4K 家庭用【公式認証アプリ＆ライブTV】小型ポータブルプロジェクター[自動フォーカス&自動台形補正&自動画面適応&自動障害物回避]スマホ/PC/DVD/Switchなどに対応 日本語取扱説明書 PUTRIMS S36",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 4621002.13,
+      "t30d_units": 263.0
+    }
+  ]
+}

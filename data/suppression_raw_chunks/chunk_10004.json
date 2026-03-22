@@ -1,1 +1,40 @@
-{"86330085422": [{"asin": "B0B6J3SJVM", "item_name": "BUONAGIORNATA（ブオナジョルナータ） 青森県産黒にんにく バラ粒500グラム入り", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 32740.0, "t30d_units": 9.0}, {"asin": "B00I0233C2", "item_name": "ためのぶの黒 青森県産 黒にんにく 訳あり バラ粒タイプ 1kg （約4ヶ月分）", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 254838.0, "t30d_units": 31.0}, {"asin": "B07QDGG125", "item_name": "黒にんにく ためのぶの黒 青森県産 まちまち黒にんにく バラパック500g入り （約2ヶ月分）", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 59218.0, "t30d_units": 17.0}, {"asin": "B00776DZXY", "item_name": "特産地鶏 青森シャモロック 正肉１羽（約1.0kg）とシャモロックスープセット", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 8380.0, "t30d_units": 1.0}]}
+{
+  "86330085422": [
+    {
+      "asin": "B0B6J3SJVM",
+      "item_name": "BUONAGIORNATA（ブオナジョルナータ） 青森県産黒にんにく バラ粒500グラム入り",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 32740.0,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B00I0233C2",
+      "item_name": "ためのぶの黒 青森県産 黒にんにく 訳あり バラ粒タイプ 1kg （約4ヶ月分）",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 254838.0,
+      "t30d_units": 31.0
+    },
+    {
+      "asin": "B07QDGG125",
+      "item_name": "黒にんにく ためのぶの黒 青森県産 まちまち黒にんにく バラパック500g入り （約2ヶ月分）",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 59218.0,
+      "t30d_units": 17.0
+    },
+    {
+      "asin": "B00776DZXY",
+      "item_name": "特産地鶏 青森シャモロック 正肉１羽（約1.0kg）とシャモロックスープセット",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 8380.0,
+      "t30d_units": 1.0
+    }
+  ]
+}

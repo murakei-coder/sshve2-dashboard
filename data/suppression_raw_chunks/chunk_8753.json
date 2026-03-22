@@ -1,1 +1,76 @@
-{"66806623822": [{"asin": "B0FLHSBK7L", "item_name": "【男の頭皮改革】 頭皮ブラシ シャンプーブラシ メンズ スカルプブラシ 【極細洗浄ブラシ】 ヘッド 洗髪 updoor 1個", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 366843.57, "t30d_units": 184.0}, {"asin": "B0BN37BCLN", "item_name": "【マチ拡大オープンポケット】 updoor ウエストポーチ 仕事用 小さめ ナース ナースポシェット 作業用ポーチ エプロンバッグ", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 260180.33, "t30d_units": 131.0}, {"asin": "B0FD94VTK9", "item_name": "【男の頭皮改革】 頭皮ブラシ スカルプブラシ メンズ シャンプーブラシ 【ボディブラシ搭載】 ヘッド 洗髪 updoor 1個", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 34603.55, "t30d_units": 18.0}, {"asin": "B0GLNYWJ9J", "item_name": "【男の頭皮改革】 頭皮ブラシ シャンプーブラシ メンズ スカルプブラシ 【人間工学設計】 ヘッド 洗髪 updoor 1個", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 13068.0, "t30d_units": 36.0}, {"asin": "B0F6BDYZ44", "item_name": "【男の頭皮改革】 頭皮ブラシ スカルプブラシ メンズ シャンプーブラシ 【気持ちよさ特化型】 ヘッド 洗髪 updoor 1個", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 16165.75, "t30d_units": 8.0}, {"asin": "B0DP1KNN4C", "item_name": "【男の頭皮改革】 頭皮ブラシ スカルプブラシ メンズ シャンプーブラシ 【毛髪診断士推奨】 ヘッド 洗髪 updoor", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 85235.66, "t30d_units": 34.0}, {"asin": "B0CLTP4YYH", "item_name": "【男の頭皮改革】 頭皮ブラシ シャンプーブラシ メンズ スカルプブラシ 【毛髪診断士推奨】 ヘッド 洗髪 updoor 1個", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 2985016.84, "t30d_units": 1640.0}, {"asin": "B0GLNXVLNF", "item_name": "【男の頭皮改革】 頭皮ブラシ シャンプーブラシ メンズ スカルプブラシ 【3Dスパイラル構造】 ヘッド 洗髪 updoor 1個", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 41943.45, "t30d_units": 28.0}]}
+{
+  "66806623822": [
+    {
+      "asin": "B0FLHSBK7L",
+      "item_name": "【男の頭皮改革】 頭皮ブラシ シャンプーブラシ メンズ スカルプブラシ 【極細洗浄ブラシ】 ヘッド 洗髪 updoor 1個",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 366843.57,
+      "t30d_units": 184.0
+    },
+    {
+      "asin": "B0BN37BCLN",
+      "item_name": "【マチ拡大オープンポケット】 updoor ウエストポーチ 仕事用 小さめ ナース ナースポシェット 作業用ポーチ エプロンバッグ",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 260180.33,
+      "t30d_units": 131.0
+    },
+    {
+      "asin": "B0FD94VTK9",
+      "item_name": "【男の頭皮改革】 頭皮ブラシ スカルプブラシ メンズ シャンプーブラシ 【ボディブラシ搭載】 ヘッド 洗髪 updoor 1個",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 34603.55,
+      "t30d_units": 18.0
+    },
+    {
+      "asin": "B0GLNYWJ9J",
+      "item_name": "【男の頭皮改革】 頭皮ブラシ シャンプーブラシ メンズ スカルプブラシ 【人間工学設計】 ヘッド 洗髪 updoor 1個",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 13068.0,
+      "t30d_units": 36.0
+    },
+    {
+      "asin": "B0F6BDYZ44",
+      "item_name": "【男の頭皮改革】 頭皮ブラシ スカルプブラシ メンズ シャンプーブラシ 【気持ちよさ特化型】 ヘッド 洗髪 updoor 1個",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 16165.75,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B0DP1KNN4C",
+      "item_name": "【男の頭皮改革】 頭皮ブラシ スカルプブラシ メンズ シャンプーブラシ 【毛髪診断士推奨】 ヘッド 洗髪 updoor",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 85235.66,
+      "t30d_units": 34.0
+    },
+    {
+      "asin": "B0CLTP4YYH",
+      "item_name": "【男の頭皮改革】 頭皮ブラシ シャンプーブラシ メンズ スカルプブラシ 【毛髪診断士推奨】 ヘッド 洗髪 updoor 1個",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 2985016.84,
+      "t30d_units": 1640.0
+    },
+    {
+      "asin": "B0GLNXVLNF",
+      "item_name": "【男の頭皮改革】 頭皮ブラシ シャンプーブラシ メンズ スカルプブラシ 【3Dスパイラル構造】 ヘッド 洗髪 updoor 1個",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 41943.45,
+      "t30d_units": 28.0
+    }
+  ]
+}

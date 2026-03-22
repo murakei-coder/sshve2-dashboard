@@ -1,1 +1,22 @@
-{"734505359702": [{"asin": "B0FW4RL9H6", "item_name": "Miraitech マグネット スマホスタンド 車 【真空吸盤+20個磁石】スマホホルダー 折りたたみ式 真空吸着 磁気吸着 携帯ホルダー カー用品 iPhone&Android多機種と多車種が対応", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[ITEM_RATING_LESS_THAN_THRESHOLD[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "5.Others", "pf": "Total CE", "t30d_ops": 44555.75, "t30d_units": 55.0}, {"asin": "B0FPQNCRL8", "item_name": "Miraitech マルチ充電ケーブル 4-in-1 USB C ケーブル 240W Type C 充電コード 急速充電 2m 呼吸ライト付き", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 141636.28, "t30d_units": 137.0}]}
+{
+  "734505359702": [
+    {
+      "asin": "B0FW4RL9H6",
+      "item_name": "Miraitech マグネット スマホスタンド 車 【真空吸盤+20個磁石】スマホホルダー 折りたたみ式 真空吸着 磁気吸着 携帯ホルダー カー用品 iPhone&Android多機種と多車種が対応",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[ITEM_RATING_LESS_THAN_THRESHOLD[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "5.Others",
+      "pf": "Total CE",
+      "t30d_ops": 44555.75,
+      "t30d_units": 55.0
+    },
+    {
+      "asin": "B0FPQNCRL8",
+      "item_name": "Miraitech マルチ充電ケーブル 4-in-1 USB C ケーブル 240W Type C 充電コード 急速充電 2m 呼吸ライト付き",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 141636.28,
+      "t30d_units": 137.0
+    }
+  ]
+}

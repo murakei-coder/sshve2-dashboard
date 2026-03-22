@@ -1,1 +1,22 @@
-{"1061506733002": [{"asin": "B0FNWCFWGK", "item_name": "ドライヤー 大風量 速乾【低騒音モデル】高速ヘアドライヤー 軽量 約540g 5億高濃度マイナスイオン NTC温度制御 恒温ヘアケア 静電気抑制 過熱防止 マグネットノズル付き コンパクト 家庭用・メンズ・旅行用 PSE認証済み (ブラック)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 35452.0, "t30d_units": 10.0}, {"asin": "B0FS6MV5HL", "item_name": "ドライヤー 大風量【速乾・軽量】約540g 高速モーター 高濃度マイナスイオン 静電気抑制 低騒音 恒温ケア 美髪ケア 過熱防止 マグネットノズル付き コンパクト 家庭用・旅行用 PSE認証済み (ホワイト)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 102568.46, "t30d_units": 33.0}]}
+{
+  "1061506733002": [
+    {
+      "asin": "B0FNWCFWGK",
+      "item_name": "ドライヤー 大風量 速乾【低騒音モデル】高速ヘアドライヤー 軽量 約540g 5億高濃度マイナスイオン NTC温度制御 恒温ヘアケア 静電気抑制 過熱防止 マグネットノズル付き コンパクト 家庭用・メンズ・旅行用 PSE認証済み (ブラック)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 35452.0,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B0FS6MV5HL",
+      "item_name": "ドライヤー 大風量【速乾・軽量】約540g 高速モーター 高濃度マイナスイオン 静電気抑制 低騒音 恒温ケア 美髪ケア 過熱防止 マグネットノズル付き コンパクト 家庭用・旅行用 PSE認証済み (ホワイト)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 102568.46,
+      "t30d_units": 33.0
+    }
+  ]
+}

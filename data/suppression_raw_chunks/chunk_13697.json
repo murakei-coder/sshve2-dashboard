@@ -1,1 +1,40 @@
-{"900542639302": [{"asin": "B0G7G27BCS", "item_name": "キャンプ 椅子 アウトドア チェア 折りたたみ 【改良進化モデル 背もたれを追加】 1秒で開閉 耐荷重200kg 収納バッグ付き キャンプ/釣り/登山/運動会観戦/花火大会 (ブラック）", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 102220.0, "t30d_units": 30.0}, {"asin": "B0FLXS2T9Y", "item_name": "折りたたみ椅子 伸縮式 アウトドアチェア 折り畳み式 キャンプ椅子 キャンプスツール 軽量 防水 持ち手付き 持ち運び便利 1秒開閉可能 耐荷重250KG 折り畳みイス 高さ調整可能 釣り/観戦/花火大会/屋内/屋外用（青灰色）", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 46374.0, "t30d_units": 20.0}, {"asin": "B0FLXZGZM2", "item_name": "折りたたみ椅子 伸縮式 アウトドアチェア 折り畳み式 キャンプ椅子 キャンプスツール 軽量 防水 持ち手付き 持ち運び便利 1秒開閉可能 耐荷重250KG 折り畳みイス 高さ調整可能 釣り/観戦/花火大会/屋内/屋外用（ブラック）", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 49695.6, "t30d_units": 20.0}, {"asin": "B0DKNJV9G8", "item_name": "ドライヤー 【高速大風量&5億高濃度マイナスイオン】 速乾 小型 静音 ヘアドライヤー 爆風ドライヤー hair dryer 軽量コンパクト 高速モーター 持ち運び便利 過熱防止機能 静電気除去 省エネ 温冷風交互 温度5段階調整 風速3段階調整 ノズル付き 自動記憶機能 髪の吸い込み防止 家庭用/出張用/旅行用", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 5980.0, "t30d_units": 1.0}]}
+{
+  "900542639302": [
+    {
+      "asin": "B0G7G27BCS",
+      "item_name": "キャンプ 椅子 アウトドア チェア 折りたたみ 【改良進化モデル 背もたれを追加】 1秒で開閉 耐荷重200kg 収納バッグ付き キャンプ/釣り/登山/運動会観戦/花火大会 (ブラック）",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 102220.0,
+      "t30d_units": 30.0
+    },
+    {
+      "asin": "B0FLXS2T9Y",
+      "item_name": "折りたたみ椅子 伸縮式 アウトドアチェア 折り畳み式 キャンプ椅子 キャンプスツール 軽量 防水 持ち手付き 持ち運び便利 1秒開閉可能 耐荷重250KG 折り畳みイス 高さ調整可能 釣り/観戦/花火大会/屋内/屋外用（青灰色）",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 46374.0,
+      "t30d_units": 20.0
+    },
+    {
+      "asin": "B0FLXZGZM2",
+      "item_name": "折りたたみ椅子 伸縮式 アウトドアチェア 折り畳み式 キャンプ椅子 キャンプスツール 軽量 防水 持ち手付き 持ち運び便利 1秒開閉可能 耐荷重250KG 折り畳みイス 高さ調整可能 釣り/観戦/花火大会/屋内/屋外用（ブラック）",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 49695.6,
+      "t30d_units": 20.0
+    },
+    {
+      "asin": "B0DKNJV9G8",
+      "item_name": "ドライヤー 【高速大風量&5億高濃度マイナスイオン】 速乾 小型 静音 ヘアドライヤー 爆風ドライヤー hair dryer 軽量コンパクト 高速モーター 持ち運び便利 過熱防止機能 静電気除去 省エネ 温冷風交互 温度5段階調整 風速3段階調整 ノズル付き 自動記憶機能 髪の吸い込み防止 家庭用/出張用/旅行用",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 5980.0,
+      "t30d_units": 1.0
+    }
+  ]
+}

@@ -1,1 +1,22 @@
-{"52153481322": [{"asin": "B0BFDTF9XD", "item_name": "哺乳瓶 消毒 ミルクウォーマー FeeKaa 多機能ボトルウォーマー 調乳ポット 保温 ミルクミルク加熱 1.3L電気ポット授乳用品 赤ちゃん用品 スチーム消毒 哺乳びん 滅菌 保管ケース 乾燥 調乳じょーず 温乳 離乳食 加熱 電気ケトル 温度制御 1台8役 多機能 日本語取扱説明書 出産祝い", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 1197011.62, "t30d_units": 117.0}, {"asin": "B0F7XT5VZ6", "item_name": "KEECOON 豆乳メーカー 自動調理ポット 加熱式ミキサー 大容量 1000ml フードプロセッサー 14つのモード 保温12H 予約 濾過不要 全自動 高速高温洗浄 操作簡単 家庭用多機能ジューサー レシピ本付き ジュース/離乳食/食べるスープ/お茶", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": -0.34, "t30d_units": 0.0}]}
+{
+  "52153481322": [
+    {
+      "asin": "B0BFDTF9XD",
+      "item_name": "哺乳瓶 消毒 ミルクウォーマー FeeKaa 多機能ボトルウォーマー 調乳ポット 保温 ミルクミルク加熱 1.3L電気ポット授乳用品 赤ちゃん用品 スチーム消毒 哺乳びん 滅菌 保管ケース 乾燥 調乳じょーず 温乳 離乳食 加熱 電気ケトル 温度制御 1台8役 多機能 日本語取扱説明書 出産祝い",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 1197011.62,
+      "t30d_units": 117.0
+    },
+    {
+      "asin": "B0F7XT5VZ6",
+      "item_name": "KEECOON 豆乳メーカー 自動調理ポット 加熱式ミキサー 大容量 1000ml フードプロセッサー 14つのモード 保温12H 予約 濾過不要 全自動 高速高温洗浄 操作簡単 家庭用多機能ジューサー レシピ本付き ジュース/離乳食/食べるスープ/お茶",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": -0.34,
+      "t30d_units": 0.0
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"1021219952502": [{"asin": "B0F78G1TBH", "item_name": "函館 蟹西 北海道 函館 加工 生冷凍 ズワイガニ 肩肉 ハーフカット 約1kg かにしゃぶ カニ鍋 ほぐしてどんぶり 自宅用 贈呈 ギフト プレゼント 海鮮 父の日 ギフト", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 14080.0, "t30d_units": 4.0}, {"asin": "B0DX6N98KY", "item_name": "年末年始 ギフト 函館 蟹西 北海道 函館 加工 生食可 生 ズワイガニ 700g 総重量 1kg カット済み かにしゃぶ カニ鍋 蟹刺し用 自宅用 贈呈 ギフト プレゼント 海鮮 発砲スチロール 梱包", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 15960.0, "t30d_units": 2.0}, {"asin": "B0F38MY98Q", "item_name": "函館 蟹西 北海道 函館 加工 生食可 生 ズワイガニ 1.4 kg 総重量 2kg カット済み かにしゃぶ カニ鍋 蟹刺し用 自宅用 贈呈 ギフト プレゼント 海鮮 発砲スチロール 2箱梱包 お中元 ギフト 残暑見舞い", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 0.0, "t30d_units": 0.0}]}
+{
+  "1021219952502": [
+    {
+      "asin": "B0F78G1TBH",
+      "item_name": "函館 蟹西 北海道 函館 加工 生冷凍 ズワイガニ 肩肉 ハーフカット 約1kg かにしゃぶ カニ鍋 ほぐしてどんぶり 自宅用 贈呈 ギフト プレゼント 海鮮 父の日 ギフト",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 14080.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0DX6N98KY",
+      "item_name": "年末年始 ギフト 函館 蟹西 北海道 函館 加工 生食可 生 ズワイガニ 700g 総重量 1kg カット済み かにしゃぶ カニ鍋 蟹刺し用 自宅用 贈呈 ギフト プレゼント 海鮮 発砲スチロール 梱包",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 15960.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0F38MY98Q",
+      "item_name": "函館 蟹西 北海道 函館 加工 生食可 生 ズワイガニ 1.4 kg 総重量 2kg カット済み かにしゃぶ カニ鍋 蟹刺し用 自宅用 贈呈 ギフト プレゼント 海鮮 発砲スチロール 2箱梱包 お中元 ギフト 残暑見舞い",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    }
+  ]
+}

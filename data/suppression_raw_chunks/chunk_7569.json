@@ -1,1 +1,49 @@
-{"51133051322": [{"asin": "B08DKR3R41", "item_name": "AIMOS USB切替器、4入力4出力USB切り替え+ハブ、4台PC共有マウス、キーボード、スキャナー、プリンター、Uディスク、ハードディスクなど4本のUSBケーブル", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 66721.33, "t30d_units": 19.0}, {"asin": "B0FBMCSVPZ", "item_name": "KCEVE USB3.0切替器、双方向 PC2台用 USBスイッチ usb 切替器 3.0、2入力1出力/1入力2出力(手元スイッチ付)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 3980.0, "t30d_units": 1.0}, {"asin": "B09Z1Y5Q19", "item_name": "KCEVE USB切替器、手動 USB3.0対応、高速転送、USB切り替え、PC2台用、2入力1出力(手元スイッチ付)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 9896.66, "t30d_units": 3.0}, {"asin": "B0F5WNNTKR", "item_name": "KCEVE HDMI 2.1 KVMスイッチ PC切替器 4入力2出力 EDID機能 8K@60Hz/4K@144Hz 4PC KVM切替器 USB3.0 キーボード、マウス、モニターを4PCで共有 手元スイッチ付き", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 230143.61, "t30d_units": 13.0}, {"asin": "B08QHV8GY2", "item_name": "KCEVE USB切替器3.0、USB切り替え機4入力4出力5Gbps高速転送、手動切替器PC4台用、共有4USBデバイス、USB切替器ハブ、マウス、キーボード、スキャナー、プリンターなどサポート", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 300188.87, "t30d_units": 61.0}]}
+{
+  "51133051322": [
+    {
+      "asin": "B08DKR3R41",
+      "item_name": "AIMOS USB切替器、4入力4出力USB切り替え+ハブ、4台PC共有マウス、キーボード、スキャナー、プリンター、Uディスク、ハードディスクなど4本のUSBケーブル",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 66721.33,
+      "t30d_units": 19.0
+    },
+    {
+      "asin": "B0FBMCSVPZ",
+      "item_name": "KCEVE USB3.0切替器、双方向 PC2台用 USBスイッチ usb 切替器 3.0、2入力1出力/1入力2出力(手元スイッチ付)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 3980.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B09Z1Y5Q19",
+      "item_name": "KCEVE USB切替器、手動 USB3.0対応、高速転送、USB切り替え、PC2台用、2入力1出力(手元スイッチ付)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 9896.66,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0F5WNNTKR",
+      "item_name": "KCEVE HDMI 2.1 KVMスイッチ PC切替器 4入力2出力 EDID機能 8K@60Hz/4K@144Hz 4PC KVM切替器 USB3.0 キーボード、マウス、モニターを4PCで共有 手元スイッチ付き",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 230143.61,
+      "t30d_units": 13.0
+    },
+    {
+      "asin": "B08QHV8GY2",
+      "item_name": "KCEVE USB切替器3.0、USB切り替え機4入力4出力5Gbps高速転送、手動切替器PC4台用、共有4USBデバイス、USB切替器ハブ、マウス、キーボード、スキャナー、プリンターなどサポート",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 300188.87,
+      "t30d_units": 61.0
+    }
+  ]
+}

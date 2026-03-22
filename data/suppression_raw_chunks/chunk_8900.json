@@ -1,1 +1,22 @@
-{"68371694922": [{"asin": "B0F9G165ZS", "item_name": "肩甲骨はがし ピロー ネックピロー 首枕 首まくら 肩胛骨 背筋 体幹トレーニング プレゼント", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 151665.75, "t30d_units": 50.0}, {"asin": "B0DL699BGR", "item_name": "肩胛骨はがし 肩胛骨はがしピロー 肩甲骨はがしピロー 肩甲骨はがし 健康グッズ 背筋 体幹トレーニング プレゼント 携帯袋付き", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 175483.08, "t30d_units": 56.0}]}
+{
+  "68371694922": [
+    {
+      "asin": "B0F9G165ZS",
+      "item_name": "肩甲骨はがし ピロー ネックピロー 首枕 首まくら 肩胛骨 背筋 体幹トレーニング プレゼント",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 151665.75,
+      "t30d_units": 50.0
+    },
+    {
+      "asin": "B0DL699BGR",
+      "item_name": "肩胛骨はがし 肩胛骨はがしピロー 肩甲骨はがしピロー 肩甲骨はがし 健康グッズ 背筋 体幹トレーニング プレゼント 携帯袋付き",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 175483.08,
+      "t30d_units": 56.0
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"22210035722": [{"asin": "B0BVFLQT8T", "item_name": "[ACROMASTER] (アクロマスター) キレイめ ナイロントート レディース スクエア 大容量 軽量 通勤 旅行 AY-087 (ブラック)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 8800.0, "t30d_units": 2.0}, {"asin": "B0BVFNY4WP", "item_name": "[ACROMASTER] (アクロマスター) キレイめ ナイロントート レディース スクエア 大容量 軽量 通勤 旅行 AY-087 (ベージュ)", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 3520.0, "t30d_units": 1.0}, {"asin": "B0BVFMXPZN", "item_name": "[ACROMASTER] (アクロマスター) キレイめ ナイロントート レディース スクエア 大容量 軽量 通勤 旅行 AY-087 (パープルネイビー)", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "22210035722": [
+    {
+      "asin": "B0BVFLQT8T",
+      "item_name": "[ACROMASTER] (アクロマスター) キレイめ ナイロントート レディース スクエア 大容量 軽量 通勤 旅行 AY-087 (ブラック)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 8800.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0BVFNY4WP",
+      "item_name": "[ACROMASTER] (アクロマスター) キレイめ ナイロントート レディース スクエア 大容量 軽量 通勤 旅行 AY-087 (ベージュ)",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 3520.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0BVFMXPZN",
+      "item_name": "[ACROMASTER] (アクロマスター) キレイめ ナイロントート レディース スクエア 大容量 軽量 通勤 旅行 AY-087 (パープルネイビー)",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

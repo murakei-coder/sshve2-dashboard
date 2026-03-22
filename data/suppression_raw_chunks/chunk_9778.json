@@ -1,1 +1,31 @@
-{"82407504922": [{"asin": "B0D1FX5SLN", "item_name": "【2026改良型】 電動アシスト自転車 折り畳み 20インチ 5段アシスト シマノ製 7段変速ギア 免許不要 公道可 サスペンション搭載 型式認定 最大走行距離80km 通勤 坂登35度 防水機能 軽量 耐震性 耐荷重150kg", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 1817901.0, "t30d_units": 23.0}, {"asin": "B0CZF7375L", "item_name": "PEEZ 電動アシスト自転車 折りたたみ式 20インチ 5段アシスト シマノ7段変速 免許不要 公道可 バッテリーは取り外し可能です 型式認定 最大80km走行 通勤 長距離の走行 坂登35度 防水機能 軽量 サスペンション搭載 耐荷重150kg", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 4794349.0, "t30d_units": 60.0}, {"asin": "B0F9VLSLHR", "item_name": "【2 in 1】Peez エアロバイク フィットネスバイク 静音 エアロバイク 家庭用 静音 【1台で2つの運動体験】 スピンバイク トレーニングバイク 省空间 マグネット式 無段階調整 組み立て簡単 （Red Ram 01）", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 127786.0, "t30d_units": 5.0}]}
+{
+  "82407504922": [
+    {
+      "asin": "B0D1FX5SLN",
+      "item_name": "【2026改良型】 電動アシスト自転車 折り畳み 20インチ 5段アシスト シマノ製 7段変速ギア 免許不要 公道可 サスペンション搭載 型式認定 最大走行距離80km 通勤 坂登35度 防水機能 軽量 耐震性 耐荷重150kg",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 1817901.0,
+      "t30d_units": 23.0
+    },
+    {
+      "asin": "B0CZF7375L",
+      "item_name": "PEEZ 電動アシスト自転車 折りたたみ式 20インチ 5段アシスト シマノ7段変速 免許不要 公道可 バッテリーは取り外し可能です 型式認定 最大80km走行 通勤 長距離の走行 坂登35度 防水機能 軽量 サスペンション搭載 耐荷重150kg",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 4794349.0,
+      "t30d_units": 60.0
+    },
+    {
+      "asin": "B0F9VLSLHR",
+      "item_name": "【2 in 1】Peez エアロバイク フィットネスバイク 静音 エアロバイク 家庭用 静音 【1台で2つの運動体験】 スピンバイク トレーニングバイク 省空间 マグネット式 無段階調整 組み立て簡単 （Red Ram 01）",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 127786.0,
+      "t30d_units": 5.0
+    }
+  ]
+}

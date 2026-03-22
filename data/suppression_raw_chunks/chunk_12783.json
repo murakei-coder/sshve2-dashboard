@@ -1,1 +1,22 @@
-{"800365718802": [{"asin": "B0FP4P3BHZ", "item_name": "Lamake【日本語音声放送】窓ドア用音声アラーム 6つ音声モード　電池式　チャイム 磁気センサー 開閉センサー 3段階音量調節 防犯グッズ　冷蔵庫/ドア/窓/金庫 盗難防止 (4*4*6.2CM)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 4164.0, "t30d_units": 2.0}, {"asin": "B0FP4L7FXJ", "item_name": "Lamake【日本語音声放送】窓ドア用音声アラーム 6つ音声モード　電池式　チャイム 磁気センサー 開閉センサー 3段階音量調節 防犯グッズ　冷蔵庫/ドア/窓/金庫 盗難防止 1個入れ", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 20419.0, "t30d_units": 19.0}]}
+{
+  "800365718802": [
+    {
+      "asin": "B0FP4P3BHZ",
+      "item_name": "Lamake【日本語音声放送】窓ドア用音声アラーム 6つ音声モード　電池式　チャイム 磁気センサー 開閉センサー 3段階音量調節 防犯グッズ　冷蔵庫/ドア/窓/金庫 盗難防止 (4*4*6.2CM)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 4164.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0FP4L7FXJ",
+      "item_name": "Lamake【日本語音声放送】窓ドア用音声アラーム 6つ音声モード　電池式　チャイム 磁気センサー 開閉センサー 3段階音量調節 防犯グッズ　冷蔵庫/ドア/窓/金庫 盗難防止 1個入れ",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 20419.0,
+      "t30d_units": 19.0
+    }
+  ]
+}

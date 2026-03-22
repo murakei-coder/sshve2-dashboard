@@ -1,1 +1,22 @@
-{"989559346702": [{"asin": "B0F3H23QHN", "item_name": "COSLUS T40 超コンパクトジェットウォッシャー 口腔洗浄器 コードレス携帯 207g軽量 タンク着脱式 4段階水流調整 IPX7防水 ノズル収納付き 洗面台置き場所不要 家庭用・通勤用 グリーン", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 255141.0, "t30d_units": 88.0}, {"asin": "B0F4QN6GTY", "item_name": "COSLUS T40 超コンパクトジェットウォッシャー 口腔洗浄器 コードレス携帯 207g軽量 タンク着脱式 4段階水流調整 IPX7防水 ノズル収納付き 洗面台置き場所不要 家庭用・通勤用 しろ", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 1220068.56, "t30d_units": 417.0}]}
+{
+  "989559346702": [
+    {
+      "asin": "B0F3H23QHN",
+      "item_name": "COSLUS T40 超コンパクトジェットウォッシャー 口腔洗浄器 コードレス携帯 207g軽量 タンク着脱式 4段階水流調整 IPX7防水 ノズル収納付き 洗面台置き場所不要 家庭用・通勤用 グリーン",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 255141.0,
+      "t30d_units": 88.0
+    },
+    {
+      "asin": "B0F4QN6GTY",
+      "item_name": "COSLUS T40 超コンパクトジェットウォッシャー 口腔洗浄器 コードレス携帯 207g軽量 タンク着脱式 4段階水流調整 IPX7防水 ノズル収納付き 洗面台置き場所不要 家庭用・通勤用 しろ",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 1220068.56,
+      "t30d_units": 417.0
+    }
+  ]
+}

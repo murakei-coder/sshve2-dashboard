@@ -1,1 +1,31 @@
-{"722233295": [{"asin": "B0CQNY7FMQ", "item_name": "Relaxing Work ホットマッサージクッション | 肩凝り 解消グッズ 温熱機能 腰痛 首コリ 日本 国内メーカー 医療機器認証取得 HATACHI 公式 羽立工業", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 76642.0, "t30d_units": 9.0}, {"asin": "B0CVN87KVF", "item_name": "【静音ステッパー】Relaxing Work ホームステップトレーナー | 筋トレ 体幹 くびれ ウエスト ダイエット 器具 フィットネス トレーニング ステップ台 お腹 ダイエット 室内 運動器具", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 73325.0, "t30d_units": 5.0}, {"asin": "B0CQP8LHSG", "item_name": "Relaxing Work エアーフットマッサージャー | マッサージ機 フットマッサージャー 足 足裏マッサージ ふくらはぎ むくみ 医療機器認証取得 HATACHI 公式 羽立工業", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 16300.0, "t30d_units": 1.0}]}
+{
+  "722233295": [
+    {
+      "asin": "B0CQNY7FMQ",
+      "item_name": "Relaxing Work ホットマッサージクッション | 肩凝り 解消グッズ 温熱機能 腰痛 首コリ 日本 国内メーカー 医療機器認証取得 HATACHI 公式 羽立工業",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 76642.0,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B0CVN87KVF",
+      "item_name": "【静音ステッパー】Relaxing Work ホームステップトレーナー | 筋トレ 体幹 くびれ ウエスト ダイエット 器具 フィットネス トレーニング ステップ台 お腹 ダイエット 室内 運動器具",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 73325.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0CQP8LHSG",
+      "item_name": "Relaxing Work エアーフットマッサージャー | マッサージ機 フットマッサージャー 足 足裏マッサージ ふくらはぎ むくみ 医療機器認証取得 HATACHI 公式 羽立工業",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 16300.0,
+      "t30d_units": 1.0
+    }
+  ]
+}

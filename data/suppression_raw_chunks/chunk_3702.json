@@ -1,1 +1,31 @@
-{"8089479645": [{"asin": "B06XCM4T5T", "item_name": "プラズマローゲンS 粉末カプセル ハードカプセル 30日分 60粒 サプリ ホタテ 機能性表示食品 高純度 日本製 国産 Plasmalogen (粉末タイプ)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 835223.6, "t30d_units": 79.0}, {"asin": "B076P8RG8S", "item_name": "ナチュラクト 200ml 乳酸菌生成エキス配合 スキンケアローション 全身化粧水 ブースター 導入液 無香料 低刺激", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 91209.83, "t30d_units": 23.0}, {"asin": "B00932AULA", "item_name": "デントラクト 70g 乳酸菌生成エキス 歯磨き粉 乳酸菌 口腔ケア キシリトール 海塩 無添加 低刺激", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 74605.06, "t30d_units": 70.0}]}
+{
+  "8089479645": [
+    {
+      "asin": "B06XCM4T5T",
+      "item_name": "プラズマローゲンS 粉末カプセル ハードカプセル 30日分 60粒 サプリ ホタテ 機能性表示食品 高純度 日本製 国産 Plasmalogen (粉末タイプ)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 835223.6,
+      "t30d_units": 79.0
+    },
+    {
+      "asin": "B076P8RG8S",
+      "item_name": "ナチュラクト 200ml 乳酸菌生成エキス配合 スキンケアローション 全身化粧水 ブースター 導入液 無香料 低刺激",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 91209.83,
+      "t30d_units": 23.0
+    },
+    {
+      "asin": "B00932AULA",
+      "item_name": "デントラクト 70g 乳酸菌生成エキス 歯磨き粉 乳酸菌 口腔ケア キシリトール 海塩 無添加 低刺激",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 74605.06,
+      "t30d_units": 70.0
+    }
+  ]
+}

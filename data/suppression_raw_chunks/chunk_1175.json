@@ -1,1 +1,40 @@
-{"2855324622": [{"asin": "B0F1TBPLT3", "item_name": "【健康食品GMP国内工場製造】 Niacin ナイアシン（ビタミンB3）1粒60mg ～ 3粒180mg [携帯用] [お試し用] 調整していただけるサプリメント 30粒", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 5984.0, "t30d_units": 7.0}, {"asin": "B0C8RSZT4M", "item_name": "【健康食品GMP国内工場製造】初めての Niacin ナイアシン（ビタミンB3）1粒60mg ～ 3粒180mg 調整していただけるサプリメント 100粒 (1)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 53732.83, "t30d_units": 36.0}, {"asin": "B0C8RT3W9Z", "item_name": "【健康食品GMP国内工場製造】CAFFEINE（カフェイン）1粒100mg ～ 2粒200mg 調整していただけるサプリメント 60粒", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 43752.73, "t30d_units": 29.0}, {"asin": "B0CQL2FXJ6", "item_name": "Milk Thistle ミルクシスル （シリマリン 80mg， ウコン 70mg 含有） [携帯用] [お試し用] 調整していただけるサプリメント 30粒", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 7896.0, "t30d_units": 10.0}]}
+{
+  "2855324622": [
+    {
+      "asin": "B0F1TBPLT3",
+      "item_name": "【健康食品GMP国内工場製造】 Niacin ナイアシン（ビタミンB3）1粒60mg ～ 3粒180mg [携帯用] [お試し用] 調整していただけるサプリメント 30粒",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 5984.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0C8RSZT4M",
+      "item_name": "【健康食品GMP国内工場製造】初めての Niacin ナイアシン（ビタミンB3）1粒60mg ～ 3粒180mg 調整していただけるサプリメント 100粒 (1)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 53732.83,
+      "t30d_units": 36.0
+    },
+    {
+      "asin": "B0C8RT3W9Z",
+      "item_name": "【健康食品GMP国内工場製造】CAFFEINE（カフェイン）1粒100mg ～ 2粒200mg 調整していただけるサプリメント 60粒",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 43752.73,
+      "t30d_units": 29.0
+    },
+    {
+      "asin": "B0CQL2FXJ6",
+      "item_name": "Milk Thistle ミルクシスル （シリマリン 80mg， ウコン 70mg 含有） [携帯用] [お試し用] 調整していただけるサプリメント 30粒",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 7896.0,
+      "t30d_units": 10.0
+    }
+  ]
+}

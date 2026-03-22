@@ -1,1 +1,67 @@
-{"922510130602": [{"asin": "B07JNC6J7M", "item_name": "ナプラ N.SHEAトリートメントモイスチャー詰替え650ｇ", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 1377904.55, "t30d_units": 341.0}, {"asin": "B07JN7YYJZ", "item_name": "ナプラ N.SHEAシャンプーモイスチャー詰替え750ｍｌ", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 1261057.73, "t30d_units": 327.0}, {"asin": "B07JPH86DH", "item_name": "N.SHEAシャンプースムース詰替え750ｍｌ", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 795720.35, "t30d_units": 195.0}, {"asin": "B0CZLBKDFF", "item_name": "ストリ STRi エクスチェンジ プラス H2 トリートメント 300mL EXCHANGE+ トリートメント サロン専売品", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 290951.86, "t30d_units": 82.0}, {"asin": "B0CZLBVG6H", "item_name": "ストリ STRi エクスチェンジ プラス H2 シャンプー 300mL EXCHANGE+ シャンプー サロン専売品", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 242415.65, "t30d_units": 56.0}, {"asin": "B0DJBX8J75", "item_name": "【正規取扱店】リンク オリジナルメーカーズ LINC ORIGINAL MAKERS ヘアバーム997 HAIR BALM", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 9599785.45, "t30d_units": 1980.0}, {"asin": "B07JNHTQVD", "item_name": "ナプラ N.SHEAトリートメントスムース詰替え650ｇ", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 632683.2, "t30d_units": 148.0}]}
+{
+  "922510130602": [
+    {
+      "asin": "B07JNC6J7M",
+      "item_name": "ナプラ N.SHEAトリートメントモイスチャー詰替え650ｇ",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 1377904.55,
+      "t30d_units": 341.0
+    },
+    {
+      "asin": "B07JN7YYJZ",
+      "item_name": "ナプラ N.SHEAシャンプーモイスチャー詰替え750ｍｌ",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 1261057.73,
+      "t30d_units": 327.0
+    },
+    {
+      "asin": "B07JPH86DH",
+      "item_name": "N.SHEAシャンプースムース詰替え750ｍｌ",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 795720.35,
+      "t30d_units": 195.0
+    },
+    {
+      "asin": "B0CZLBKDFF",
+      "item_name": "ストリ STRi エクスチェンジ プラス H2 トリートメント 300mL EXCHANGE+ トリートメント サロン専売品",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 290951.86,
+      "t30d_units": 82.0
+    },
+    {
+      "asin": "B0CZLBVG6H",
+      "item_name": "ストリ STRi エクスチェンジ プラス H2 シャンプー 300mL EXCHANGE+ シャンプー サロン専売品",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 242415.65,
+      "t30d_units": 56.0
+    },
+    {
+      "asin": "B0DJBX8J75",
+      "item_name": "【正規取扱店】リンク オリジナルメーカーズ LINC ORIGINAL MAKERS ヘアバーム997 HAIR BALM",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 9599785.45,
+      "t30d_units": 1980.0
+    },
+    {
+      "asin": "B07JNHTQVD",
+      "item_name": "ナプラ N.SHEAトリートメントスムース詰替え650ｇ",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 632683.2,
+      "t30d_units": 148.0
+    }
+  ]
+}

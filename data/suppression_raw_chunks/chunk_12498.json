@@ -1,1 +1,22 @@
-{"772175275602": [{"asin": "B0GCB58RFD", "item_name": "FEEKI Mag Safe充電器 25W Qi2認証 マグネット式 ワイヤレス充電器 急速充電 対応iPhone17/16シリーズ(iOS 26バージョン以降) 超薄軽量 過熱保護 短絡保護機能付き 対応 iPhone15/14/13/12シリーズ＆Androidスマートフォン＆AirPods対応 Type-C接続 旅行・自宅・オフィス用 ホワイト", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 9223325.87, "t30d_units": 3254.0}, {"asin": "B0G7YPTDZX", "item_name": "【2本セット】FEEKI USB C & USB C ケーブル タイプc 240W PD超急速充電対応 高耐久編み 断線防止 高速データ転送 Type-Cケーブル for iPhone 17/16/15/MacBook/iPad/Galaxy/Sony/Google Pixel 等各種対応 (1m ホワイト)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 474026.83, "t30d_units": 423.0}]}
+{
+  "772175275602": [
+    {
+      "asin": "B0GCB58RFD",
+      "item_name": "FEEKI Mag Safe充電器 25W Qi2認証 マグネット式 ワイヤレス充電器 急速充電 対応iPhone17/16シリーズ(iOS 26バージョン以降) 超薄軽量 過熱保護 短絡保護機能付き 対応 iPhone15/14/13/12シリーズ＆Androidスマートフォン＆AirPods対応 Type-C接続 旅行・自宅・オフィス用 ホワイト",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 9223325.87,
+      "t30d_units": 3254.0
+    },
+    {
+      "asin": "B0G7YPTDZX",
+      "item_name": "【2本セット】FEEKI USB C & USB C ケーブル タイプc 240W PD超急速充電対応 高耐久編み 断線防止 高速データ転送 Type-Cケーブル for iPhone 17/16/15/MacBook/iPad/Galaxy/Sony/Google Pixel 等各種対応 (1m ホワイト)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 474026.83,
+      "t30d_units": 423.0
+    }
+  ]
+}

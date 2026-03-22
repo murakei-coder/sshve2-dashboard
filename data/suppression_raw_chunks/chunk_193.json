@@ -1,1 +1,76 @@
-{"640564355": [{"asin": "B00J3EHZ20", "item_name": "【極上逸品】塩大福 10個入り【新潟山北笹川流れ産天然塩】 粒あん だいふく餅 個包装 冷凍", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 280884.0, "t30d_units": 103.0}, {"asin": "B00ZF386FS", "item_name": "【進化した米粉！】 米粉ロールケーキ （15センチ）【ダブルチーズ】 クリームチーズ 生クリーム 生菓子 新製法 洋菓子 手土産 冷凍", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 26730.0, "t30d_units": 9.0}, {"asin": "B002PGOW4M", "item_name": "【新潟 菜菓亭 菓子処 公式】 フォンダンショコラ クグロフ型 11ｃｍ【塩ショコラ味 レンジで温めトロっととろける チョコレートケーキ】 レンジでとろける 冷凍 スイーツ 天然塩 生クリーム なめらかな舌触り 口どけ 濃厚な味わい レンチン プチ贅沢 自分へのご褒美 ギフト プレゼント 【新しい", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B014U56P2C", "item_name": "【黄桃を味わう】 桃ロールケーキ （15センチ） 生クリーム ピーチ フルーツロール おやつ 手土産 ギフト 冷凍 誕生日 ケーキ", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 56801.0, "t30d_units": 22.0}, {"asin": "B00J7L8HQC", "item_name": "ザッハトルテ 5号サイズ (4人～6人前) 直径15cm 冷凍ケーキ【 ご褒美 ギフト 誕生日のお祝いに 】 ザッハトルテ風 人気 濃厚 チョコレートケーキ バースデー ケーキ バレンタイン 手土産 誕生日ケーキ 冷凍", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 219011.0, "t30d_units": 50.0}, {"asin": "B09PZZ1MX5", "item_name": "【通販のみ】 誕生日 バースデー ケーキ ザッハトルテ 5号サイズ (4人～6人前) 直径15cm 【誕生日のお祝いに happybirthdayピック&ろうそく付き】 ザッハトルテ風 (チョコレートケーキ) 5号 人気 濃厚 チョコレート 冷凍ケーキ バースディ ギフト 手土産 しっとり サクサク 冷凍 【菜菓亭 菓子処】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 4463.0, "t30d_units": 1.0}, {"asin": "B014U56URC", "item_name": "ホワイトデー お返し【新潟 菜菓亭 菓子処 公式】生チョコロールケーキ (17cm) 濃厚 チョコレート 生チョコ ロールケーキ ガナッシュチョコ バースデー 誕生日 ギフト 冷凍", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 51320.0, "t30d_units": 13.0}, {"asin": "B0C4KDV6FK", "item_name": "ザッハトルテ 4号サイズ (2～4人分) おためしサイズ 直径12cm 冷凍ケーキ【ご褒美 ギフト 誕生日のお祝いに】 ザッハトルテ風 菜菓亭 人気 チョコレートケーキ 濃厚 ケーキ バースデー バレンタイン ギフト 手土産 誕生日ケーキ 冷凍", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 96834.0, "t30d_units": 25.0}]}
+{
+  "640564355": [
+    {
+      "asin": "B00J3EHZ20",
+      "item_name": "【極上逸品】塩大福 10個入り【新潟山北笹川流れ産天然塩】 粒あん だいふく餅 個包装 冷凍",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 280884.0,
+      "t30d_units": 103.0
+    },
+    {
+      "asin": "B00ZF386FS",
+      "item_name": "【進化した米粉！】 米粉ロールケーキ （15センチ）【ダブルチーズ】 クリームチーズ 生クリーム 生菓子 新製法 洋菓子 手土産 冷凍",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 26730.0,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B002PGOW4M",
+      "item_name": "【新潟 菜菓亭 菓子処 公式】 フォンダンショコラ クグロフ型 11ｃｍ【塩ショコラ味 レンジで温めトロっととろける チョコレートケーキ】 レンジでとろける 冷凍 スイーツ 天然塩 生クリーム なめらかな舌触り 口どけ 濃厚な味わい レンチン プチ贅沢 自分へのご褒美 ギフト プレゼント 【新しい",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B014U56P2C",
+      "item_name": "【黄桃を味わう】 桃ロールケーキ （15センチ） 生クリーム ピーチ フルーツロール おやつ 手土産 ギフト 冷凍 誕生日 ケーキ",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 56801.0,
+      "t30d_units": 22.0
+    },
+    {
+      "asin": "B00J7L8HQC",
+      "item_name": "ザッハトルテ 5号サイズ (4人～6人前) 直径15cm 冷凍ケーキ【 ご褒美 ギフト 誕生日のお祝いに 】 ザッハトルテ風 人気 濃厚 チョコレートケーキ バースデー ケーキ バレンタイン 手土産 誕生日ケーキ 冷凍",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 219011.0,
+      "t30d_units": 50.0
+    },
+    {
+      "asin": "B09PZZ1MX5",
+      "item_name": "【通販のみ】 誕生日 バースデー ケーキ ザッハトルテ 5号サイズ (4人～6人前) 直径15cm 【誕生日のお祝いに happybirthdayピック&ろうそく付き】 ザッハトルテ風 (チョコレートケーキ) 5号 人気 濃厚 チョコレート 冷凍ケーキ バースディ ギフト 手土産 しっとり サクサク 冷凍 【菜菓亭 菓子処】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 4463.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B014U56URC",
+      "item_name": "ホワイトデー お返し【新潟 菜菓亭 菓子処 公式】生チョコロールケーキ (17cm) 濃厚 チョコレート 生チョコ ロールケーキ ガナッシュチョコ バースデー 誕生日 ギフト 冷凍",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 51320.0,
+      "t30d_units": 13.0
+    },
+    {
+      "asin": "B0C4KDV6FK",
+      "item_name": "ザッハトルテ 4号サイズ (2～4人分) おためしサイズ 直径12cm 冷凍ケーキ【ご褒美 ギフト 誕生日のお祝いに】 ザッハトルテ風 菜菓亭 人気 チョコレートケーキ 濃厚 ケーキ バースデー バレンタイン ギフト 手土産 誕生日ケーキ 冷凍",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 96834.0,
+      "t30d_units": 25.0
+    }
+  ]
+}

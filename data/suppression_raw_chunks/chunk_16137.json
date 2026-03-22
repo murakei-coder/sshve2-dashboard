@@ -1,1 +1,67 @@
-{"1125293937002": [{"asin": "B0GFTM259T", "item_name": "USB-C to 3.5mm オーディオ変換アダプター ハイレゾ対応 高耐久アルミ合金製 MacBook Air/Pro/iPad Pro/Android/Type-C機器対応 (HiFiオーディオアダプタ)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 60618.28, "t30d_units": 25.0}, {"asin": "B0FZFGQD66", "item_name": "2in1 Type-C イヤホン 変換アダプタ【充電しながら音楽再生・通話対応】USB-C 二股ケーブル｜PD15W急速充電｜iPhone 17/16/15・Galaxy S24・Pixel 8・iPad Pro などType-C機器対応", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 180095.67, "t30d_units": 184.0}, {"asin": "B0FG28MQNB", "item_name": "スマホスタンド MagSafe 対応 360度回転 三関節折り畳み式 卓上携帯置きスマホスタンド iPhone16 15 14 13 12 シリーズ 対応 MagSafeケース対応 マグネット強力固定 角度自由調節 (ホワイト)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 82048.71, "t30d_units": 54.0}, {"asin": "B0FZFN4R1C", "item_name": "Type-C USB DAC 3.5mmイヤホン変換アダプター CX31993+MAX97220 デュアルチップ内蔵 ハイレゾ対応 32bit/384kHz ポータブルアンプ搭載 8芯4N単結晶銅ケーブル メッキケーブル イヤホンジャック変換 Type-C (HiFiオーディオアダプター)", "suppression_reason": "nan", "suppression_category": "5.Others", "pf": "Total CE", "t30d_ops": 631814.69, "t30d_units": 272.0}, {"asin": "B0FZFMYW4T", "item_name": "2in1 USB Type-C イヤホン変換アダプター 3.5mm 二股ケーブル 充電＆音楽同時対応 DAC搭載 PD15W急速充電 Hi-Fi ナイロン編み 高耐久 通話・音量調整対応 Type-C イヤホンジャック iPhone 17/16 Galaxy Pixel 8 iPad Pro/Air 対応 (2in1 タイプC 3.5mm)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 70726.57, "t30d_units": 73.0}, {"asin": "B0FG29M6L3", "item_name": "スマホスタンド MagSafe 対応 360度回転 三関節折り畳み式 卓上携帯置きスマホスタンド iPhone17 16 15 14 13 12 pro/max シリーズ 対応 MagSafeケース対応 マグネット強力固定 角度自由調節 (ブラック)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 117334.65, "t30d_units": 77.0}, {"asin": "B0FZFHJ5FY", "item_name": "Type-C イヤホン 変換アダプター USB-C to 3.5mm イヤホンジャック DAC搭載 ハイレゾ対応 オーディオアダプタ 通話・音量調整対応 タイプC イヤホン 変換ケーブル ナイロン編み 高耐久 Type-C端子 スマホ/Phone 15/14/13/iPad/Mac/Android 対応 (USB-C to 3.5mm)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 17502.25, "t30d_units": 24.0}]}
+{
+  "1125293937002": [
+    {
+      "asin": "B0GFTM259T",
+      "item_name": "USB-C to 3.5mm オーディオ変換アダプター ハイレゾ対応 高耐久アルミ合金製 MacBook Air/Pro/iPad Pro/Android/Type-C機器対応 (HiFiオーディオアダプタ)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 60618.28,
+      "t30d_units": 25.0
+    },
+    {
+      "asin": "B0FZFGQD66",
+      "item_name": "2in1 Type-C イヤホン 変換アダプタ【充電しながら音楽再生・通話対応】USB-C 二股ケーブル｜PD15W急速充電｜iPhone 17/16/15・Galaxy S24・Pixel 8・iPad Pro などType-C機器対応",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 180095.67,
+      "t30d_units": 184.0
+    },
+    {
+      "asin": "B0FG28MQNB",
+      "item_name": "スマホスタンド MagSafe 対応 360度回転 三関節折り畳み式 卓上携帯置きスマホスタンド iPhone16 15 14 13 12 シリーズ 対応 MagSafeケース対応 マグネット強力固定 角度自由調節 (ホワイト)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 82048.71,
+      "t30d_units": 54.0
+    },
+    {
+      "asin": "B0FZFN4R1C",
+      "item_name": "Type-C USB DAC 3.5mmイヤホン変換アダプター CX31993+MAX97220 デュアルチップ内蔵 ハイレゾ対応 32bit/384kHz ポータブルアンプ搭載 8芯4N単結晶銅ケーブル メッキケーブル イヤホンジャック変換 Type-C (HiFiオーディオアダプター)",
+      "suppression_reason": "nan",
+      "suppression_category": "5.Others",
+      "pf": "Total CE",
+      "t30d_ops": 631814.69,
+      "t30d_units": 272.0
+    },
+    {
+      "asin": "B0FZFMYW4T",
+      "item_name": "2in1 USB Type-C イヤホン変換アダプター 3.5mm 二股ケーブル 充電＆音楽同時対応 DAC搭載 PD15W急速充電 Hi-Fi ナイロン編み 高耐久 通話・音量調整対応 Type-C イヤホンジャック iPhone 17/16 Galaxy Pixel 8 iPad Pro/Air 対応 (2in1 タイプC 3.5mm)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 70726.57,
+      "t30d_units": 73.0
+    },
+    {
+      "asin": "B0FG29M6L3",
+      "item_name": "スマホスタンド MagSafe 対応 360度回転 三関節折り畳み式 卓上携帯置きスマホスタンド iPhone17 16 15 14 13 12 pro/max シリーズ 対応 MagSafeケース対応 マグネット強力固定 角度自由調節 (ブラック)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 117334.65,
+      "t30d_units": 77.0
+    },
+    {
+      "asin": "B0FZFHJ5FY",
+      "item_name": "Type-C イヤホン 変換アダプター USB-C to 3.5mm イヤホンジャック DAC搭載 ハイレゾ対応 オーディオアダプタ 通話・音量調整対応 タイプC イヤホン 変換ケーブル ナイロン編み 高耐久 Type-C端子 スマホ/Phone 15/14/13/iPad/Mac/Android 対応 (USB-C to 3.5mm)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 17502.25,
+      "t30d_units": 24.0
+    }
+  ]
+}

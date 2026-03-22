@@ -1,1 +1,31 @@
-{"950160120202": [{"asin": "B0F7LVM8B7", "item_name": "[Kind Boy] 【コスパ スマホポーチ ショルダーポーチ メンズ コンパクト 大容量 バッグ カバン キャンバス メッセンジャーバッグ 肩掛け 斜めがけ マチ付き シンプル 父の日 プレゼント 花火大会 21x16x5cm (グレー)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 14451.08, "t30d_units": 10.0}, {"asin": "B0F7LTZ12Y", "item_name": "[Kind Boy] 【コスパ スマホポーチ ショルダーポーチ メンズ コンパクト 大容量 バッグ カバン キャンバス メッセンジャーバッグ 肩掛け 斜めがけ マチ付き シンプル 父の日 プレゼント 花火大会 21x16x5cm (ネイビー)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 10093.11, "t30d_units": 8.0}, {"asin": "B0F7LSR7C3", "item_name": "[Kind Boy] 【コスパ スマホポーチ ショルダーポーチ メンズ コンパクト 大容量 バッグ カバン キャンバス メッセンジャーバッグ 肩掛け 斜めがけ マチ付き シンプル 父の日 プレゼント 花火大会 21x16x5cm (黒)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 50221.33, "t30d_units": 39.0}]}
+{
+  "950160120202": [
+    {
+      "asin": "B0F7LVM8B7",
+      "item_name": "[Kind Boy] 【コスパ スマホポーチ ショルダーポーチ メンズ コンパクト 大容量 バッグ カバン キャンバス メッセンジャーバッグ 肩掛け 斜めがけ マチ付き シンプル 父の日 プレゼント 花火大会 21x16x5cm (グレー)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 14451.08,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B0F7LTZ12Y",
+      "item_name": "[Kind Boy] 【コスパ スマホポーチ ショルダーポーチ メンズ コンパクト 大容量 バッグ カバン キャンバス メッセンジャーバッグ 肩掛け 斜めがけ マチ付き シンプル 父の日 プレゼント 花火大会 21x16x5cm (ネイビー)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 10093.11,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B0F7LSR7C3",
+      "item_name": "[Kind Boy] 【コスパ スマホポーチ ショルダーポーチ メンズ コンパクト 大容量 バッグ カバン キャンバス メッセンジャーバッグ 肩掛け 斜めがけ マチ付き シンプル 父の日 プレゼント 花火大会 21x16x5cm (黒)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 50221.33,
+      "t30d_units": 39.0
+    }
+  ]
+}

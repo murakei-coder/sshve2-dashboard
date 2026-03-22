@@ -1,1 +1,31 @@
-{"52658420622": [{"asin": "B092CZ8V99", "item_name": "［指定医薬部外品］日本製 アルコール消毒液 エタノール 消毒液 濃度76.9～81.4vol% アルコール 消毒 除菌 業務用 消毒剤 国産 アルコール 除菌液 手指 手 キレイズキ リバテープ製薬 1リットル (x 1)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 125188.33, "t30d_units": 57.0}, {"asin": "B0B4VSFNFX", "item_name": "【製薬会社開発】安眠口閉じテープ (通常タイプ) 30枚入 鼻呼吸テープ 口閉じテープ いびき防止テープ マウステープ 鼻呼吸促進 日本製 リバテープ製薬", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 551379.44, "t30d_units": 910.0}, {"asin": "B0BM9VZPLP", "item_name": "安眠口閉じテープ (通常タイプ3個セット)90枚入 口閉じテープ 口閉じテープ いびき防止 鼻呼吸促進 日本製 リバテープ製薬", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 648160.82, "t30d_units": 433.0}]}
+{
+  "52658420622": [
+    {
+      "asin": "B092CZ8V99",
+      "item_name": "［指定医薬部外品］日本製 アルコール消毒液 エタノール 消毒液 濃度76.9～81.4vol% アルコール 消毒 除菌 業務用 消毒剤 国産 アルコール 除菌液 手指 手 キレイズキ リバテープ製薬 1リットル (x 1)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 125188.33,
+      "t30d_units": 57.0
+    },
+    {
+      "asin": "B0B4VSFNFX",
+      "item_name": "【製薬会社開発】安眠口閉じテープ (通常タイプ) 30枚入 鼻呼吸テープ 口閉じテープ いびき防止テープ マウステープ 鼻呼吸促進 日本製 リバテープ製薬",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 551379.44,
+      "t30d_units": 910.0
+    },
+    {
+      "asin": "B0BM9VZPLP",
+      "item_name": "安眠口閉じテープ (通常タイプ3個セット)90枚入 口閉じテープ 口閉じテープ いびき防止 鼻呼吸促進 日本製 リバテープ製薬",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 648160.82,
+      "t30d_units": 433.0
+    }
+  ]
+}

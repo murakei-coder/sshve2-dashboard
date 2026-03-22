@@ -1,1 +1,31 @@
-{"73818692222": [{"asin": "B0DFYNDT7W", "item_name": "ARNSSIEN キッズカメラ インスタントプリント 子供用デジタルカメラ 3-12歳 ビデオ 誕生日クリスマスプレゼント 女の子 男の子用 インスタント紙7巻+32GBカード付き M3", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 23310.0, "t30d_units": 6.0}, {"asin": "B0F1FD3KZW", "item_name": "ARNSIEN子供カメラ、BPAを含まない7巻の紙、180°反転レンズ子供自撮りデジタルカメラ、12本のカラーペンと1200 mAh、3-12歳の女の子男の子の誕生日クリスマスプレゼントおもちゃ、M2", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0BWNBP39L", "item_name": "ARNSSIEN キッズセルフィーカメラ（パープル） 180°回転レンズ搭載 子供用デジタルカメラ おもちゃ 2.4インチ画面 32GBカード付属 3歳〜12歳対応 誕生日プレゼント クリスマス ギフト 男の子 女の子用 X101", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 45536.0, "t30d_units": 14.0}]}
+{
+  "73818692222": [
+    {
+      "asin": "B0DFYNDT7W",
+      "item_name": "ARNSSIEN キッズカメラ インスタントプリント 子供用デジタルカメラ 3-12歳 ビデオ 誕生日クリスマスプレゼント 女の子 男の子用 インスタント紙7巻+32GBカード付き M3",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 23310.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0F1FD3KZW",
+      "item_name": "ARNSIEN子供カメラ、BPAを含まない7巻の紙、180°反転レンズ子供自撮りデジタルカメラ、12本のカラーペンと1200 mAh、3-12歳の女の子男の子の誕生日クリスマスプレゼントおもちゃ、M2",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0BWNBP39L",
+      "item_name": "ARNSSIEN キッズセルフィーカメラ（パープル） 180°回転レンズ搭載 子供用デジタルカメラ おもちゃ 2.4インチ画面 32GBカード付属 3歳〜12歳対応 誕生日プレゼント クリスマス ギフト 男の子 女の子用 X101",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 45536.0,
+      "t30d_units": 14.0
+    }
+  ]
+}

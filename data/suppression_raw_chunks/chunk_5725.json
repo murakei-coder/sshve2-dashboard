@@ -1,1 +1,49 @@
-{"20476495622": [{"asin": "B0CVW2XWDN", "item_name": "【安心でおいしい】こめもっち(R) グルテンフリーパン 米粉100% 無添加 米粉パン 冷凍 【不使用】砂糖 添加物 卵 乳製品 グルテン (20個セット)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 74800.0, "t30d_units": 10.0}, {"asin": "B0DCTK8N3D", "item_name": "【安心でおいしい】こめもっち(R) グルテンフリーパン 米粉100% 無添加 米粉パン 冷凍 【不使用】砂糖 添加物 卵 乳製品 グルテン (50個セット)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 17880.0, "t30d_units": 1.0}, {"asin": "B0CV3TJZKM", "item_name": "【安心でおいしい】こめもっち(R) グルテンフリーパン 米粉100% 無添加 米粉パン 冷凍【不使用】砂糖 添加物 卵 乳製品 グルテン (10個セット)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 199000.0, "t30d_units": 50.0}, {"asin": "B0DCTK9L44", "item_name": "【安心でおいしい】こめもっち(R) グルテンフリーパン 米粉100% 無添加 米粉パン 冷凍 【不使用】砂糖 添加物 卵 乳製品 グルテン (30個セット)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 32940.0, "t30d_units": 3.0}, {"asin": "B0CVW23K4X", "item_name": "【安心でおいしい】こめもっち(R) グルテンフリーパン 米粉100% 無添加 米粉パン 冷凍 【不使用】砂糖 添加物 卵 乳製品 グルテン(60個セット)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0.0, "t30d_units": 0.0}]}
+{
+  "20476495622": [
+    {
+      "asin": "B0CVW2XWDN",
+      "item_name": "【安心でおいしい】こめもっち(R) グルテンフリーパン 米粉100% 無添加 米粉パン 冷凍 【不使用】砂糖 添加物 卵 乳製品 グルテン (20個セット)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 74800.0,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B0DCTK8N3D",
+      "item_name": "【安心でおいしい】こめもっち(R) グルテンフリーパン 米粉100% 無添加 米粉パン 冷凍 【不使用】砂糖 添加物 卵 乳製品 グルテン (50個セット)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 17880.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0CV3TJZKM",
+      "item_name": "【安心でおいしい】こめもっち(R) グルテンフリーパン 米粉100% 無添加 米粉パン 冷凍【不使用】砂糖 添加物 卵 乳製品 グルテン (10個セット)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 199000.0,
+      "t30d_units": 50.0
+    },
+    {
+      "asin": "B0DCTK9L44",
+      "item_name": "【安心でおいしい】こめもっち(R) グルテンフリーパン 米粉100% 無添加 米粉パン 冷凍 【不使用】砂糖 添加物 卵 乳製品 グルテン (30個セット)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 32940.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0CVW23K4X",
+      "item_name": "【安心でおいしい】こめもっち(R) グルテンフリーパン 米粉100% 無添加 米粉パン 冷凍 【不使用】砂糖 添加物 卵 乳製品 グルテン(60個セット)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    }
+  ]
+}

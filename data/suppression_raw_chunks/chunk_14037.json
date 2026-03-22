@@ -1,1 +1,31 @@
-{"948229128402": [{"asin": "B0DWDGR7ZC", "item_name": "【超薄型軽量×16インチ】 LG gram Pro 16/超軽量1239g/超薄12.8mm/最大22h駆動/AI PC､Copilot+ PC/Core Ultra 7 258V(シリーズ2)/メモリ 32GB/SSD 512GB/IPS 2560×1600 アンチグレア DCI-P3 99% 144Hz VRR/顔認証/Win11Home/ノートパソコン 16Z90TS-GU86J", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1274150.0, "t30d_units": 5.0}, {"asin": "B0FH245Q62", "item_name": "LG 空気清浄機 AS357GW20 19畳 360° HEPAフィルター搭載 ペット ニオイ 脱臭 集塵 ハウスダスト 花粉 ペットモード コンパクト WiFi対応 リビング オフィス 静音 ホワイト", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 435620.0, "t30d_units": 17.0}, {"asin": "B0DTYYQG2H", "item_name": "【VGP 2025 Summer 金賞】LG ゲーミングモニター UltraGear 27G850A-B 27インチ/4K(3840×2160)/VESA Dual Mode/Nano IPS Black/1ms/DCI-P3 99%/DisplayHDR 600/アンチグレア/DP2.1", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 2244900.0, "t30d_units": 24.0}]}
+{
+  "948229128402": [
+    {
+      "asin": "B0DWDGR7ZC",
+      "item_name": "【超薄型軽量×16インチ】 LG gram Pro 16/超軽量1239g/超薄12.8mm/最大22h駆動/AI PC､Copilot+ PC/Core Ultra 7 258V(シリーズ2)/メモリ 32GB/SSD 512GB/IPS 2560×1600 アンチグレア DCI-P3 99% 144Hz VRR/顔認証/Win11Home/ノートパソコン 16Z90TS-GU86J",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1274150.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0FH245Q62",
+      "item_name": "LG 空気清浄機 AS357GW20 19畳 360° HEPAフィルター搭載 ペット ニオイ 脱臭 集塵 ハウスダスト 花粉 ペットモード コンパクト WiFi対応 リビング オフィス 静音 ホワイト",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 435620.0,
+      "t30d_units": 17.0
+    },
+    {
+      "asin": "B0DTYYQG2H",
+      "item_name": "【VGP 2025 Summer 金賞】LG ゲーミングモニター UltraGear 27G850A-B 27インチ/4K(3840×2160)/VESA Dual Mode/Nano IPS Black/1ms/DCI-P3 99%/DisplayHDR 600/アンチグレア/DP2.1",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 2244900.0,
+      "t30d_units": 24.0
+    }
+  ]
+}

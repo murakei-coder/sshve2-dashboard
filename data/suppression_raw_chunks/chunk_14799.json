@@ -1,1 +1,22 @@
-{"1041467369502": [{"asin": "B0GGHNZ8HN", "item_name": "【5MP 進化一体&分離両用型】 防犯カメラ 屋外 ソーラー 500万画素 左右355°上下90°首振り 監視カメラ 屋外 そーらー 夜間カラー撮影 配線工事不要 太陽光充電 ぼうはんかめら ワイヤレス 5DBIアンテナ 広角 防水 かんしかめら 無線 屋外用 電池式防犯カメラ PIR人物検知 声光威嚇 スマホ遠隔監視 双方", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 70488.0, "t30d_units": 4.0}, {"asin": "B0G7D2PFR5", "item_name": "YESRAMO 800万画素・2G/5GWiFi両対応 ペットカメラ 4K画質 ネットワークカメラ 安定信号 室内監視カメラ ベビー ペット 高齢者向けの見守りカメラ 留守番 24時間全日録画 ベビーモニター 自動追跡 遠隔操作 AI動体検知 警報通知 双方向音声 家族共有 簡単設定 技適認証済み ブラック", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 284316.83, "t30d_units": 38.0}]}
+{
+  "1041467369502": [
+    {
+      "asin": "B0GGHNZ8HN",
+      "item_name": "【5MP 進化一体&分離両用型】 防犯カメラ 屋外 ソーラー 500万画素 左右355°上下90°首振り 監視カメラ 屋外 そーらー 夜間カラー撮影 配線工事不要 太陽光充電 ぼうはんかめら ワイヤレス 5DBIアンテナ 広角 防水 かんしかめら 無線 屋外用 電池式防犯カメラ PIR人物検知 声光威嚇 スマホ遠隔監視 双方",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 70488.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0G7D2PFR5",
+      "item_name": "YESRAMO 800万画素・2G/5GWiFi両対応 ペットカメラ 4K画質 ネットワークカメラ 安定信号 室内監視カメラ ベビー ペット 高齢者向けの見守りカメラ 留守番 24時間全日録画 ベビーモニター 自動追跡 遠隔操作 AI動体検知 警報通知 双方向音声 家族共有 簡単設定 技適認証済み ブラック",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 284316.83,
+      "t30d_units": 38.0
+    }
+  ]
+}

@@ -1,1 +1,22 @@
-{"479149331002": [{"asin": "B0FQ14RC44", "item_name": "リード工業(LEAD) バイクヘルメット フルフェイス CROSS スタンダード ハーフマットブラック フリーサイズ CR-715 -", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 316939.56, "t30d_units": 53.0}, {"asin": "B0FD6QRRKT", "item_name": "肩甲骨はがし ピロー 寝ながら 背中ストレッチ ツボ押し 肩まわり セルフケア 自宅用 Green Duo", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 828306.57, "t30d_units": 347.0}]}
+{
+  "479149331002": [
+    {
+      "asin": "B0FQ14RC44",
+      "item_name": "リード工業(LEAD) バイクヘルメット フルフェイス CROSS スタンダード ハーフマットブラック フリーサイズ CR-715 -",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 316939.56,
+      "t30d_units": 53.0
+    },
+    {
+      "asin": "B0FD6QRRKT",
+      "item_name": "肩甲骨はがし ピロー 寝ながら 背中ストレッチ ツボ押し 肩まわり セルフケア 自宅用 Green Duo",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 828306.57,
+      "t30d_units": 347.0
+    }
+  ]
+}

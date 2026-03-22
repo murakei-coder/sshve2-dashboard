@@ -1,1 +1,58 @@
-{"1007599629202": [{"asin": "B0FP5BK51X", "item_name": "【タブレット 10インチ】-Android16 強化版 wi-fiモデル タブレット、高性能8コアCPU T7250搭載、20GB+128GB+2TB拡張、6000mAh大容量バッテリー+Type-C充電、WidevineL1対応+無線投影、BT5.2+OTG+GPS搭載、顔認識+画面分割+児童保護+FMラジオ、Gemini AI最適化OS アンドロイド 16 Tablet 保護フイルム貼り済み", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 4063156.96, "t30d_units": 297.0}, {"asin": "B0F1V37RB6", "item_name": "【2.4K IPS 11.4インチ タブレットWi-Fi/SIM通話モデル】 Bmax Android 15タブレット、24GB+256GB+1TB拡張、8コアCPU Helio G99、90Hz高刷新率2408*1720解像度、8000mAh+18W Type-C充電、4G通話対応/5G WiFi/BT5.2/GPS/GMS/OTG/無線投影/Widevine L1対応 I12 Power", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 786017.99, "t30d_units": 33.0}, {"asin": "B0GC5VN5SS", "item_name": "【ミニpc Ryzen 5 7430U高性能モデル登場】BMAX ミニpc AMD Ryzen 5 7430U Windows 11 Pro 6コア12スレッド 最大4.3GHz 16GB(最大64GB可)DDR4＋512GB NVMe SSD（M.2 PCIe3.0x4）WiFi6 デュアル銅管冷却 静音スマートファン HDMI/DP/全機能Type-C 4K60Hz 3画面出力 B7APro", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 587988.0, "t30d_units": 12.0}, {"asin": "B0FP95VLYF", "item_name": "【ミニPC 第12世代 i5-1250P搭載】BMAX ミニPC Intel Core i5-1250P Windows 11 Pro 12コア16スレッド 最大4.4GHz 24GB LPDDR5＋512GB NVMe SSD 3画面同時出力（HDMI2.1＋DP1.4＋Type-C全機能）4K@60Hz 1GbpsLAN WiFi6&BT5.2 スマート静音高効率冷却システム B9Plus", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 247996.0, "t30d_units": 4.0}, {"asin": "B0F1V5D6HN", "item_name": "【2.4K IPS 11.4インチ タブレットWi-Fi/SIM通話モデル】 Bmax Android 15タブレット、22GB+128GB+1TB拡張、8コアCPU Helio G99、90Hz高刷新率2408*1720解像度、8000mAh+18W Type-C充電、4G通話対応/5G WiFi/BT5.2/GPS/GMS/OTG/無線投影/Widevine L1対応 I12 Power", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 151694.0, "t30d_units": 7.0}, {"asin": "B0FK9WCRWJ", "item_name": "【Android 15 タブレット 初登場】Bmax I10 Plus アンドロイド 15 タブレット 10インチ、12GB+128GB+1TB拡張、WidevineL1 Netflix対応、8コアCPU T606 tablet、6000mAh+Type-C充電+5GWiFi+BT5.0、OTG+顔認識+無線投影+画面分割+FMラジオ、Android 15 10インチ wi-fiモデル", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 811922.9, "t30d_units": 78.0}]}
+{
+  "1007599629202": [
+    {
+      "asin": "B0FP5BK51X",
+      "item_name": "【タブレット 10インチ】-Android16 強化版 wi-fiモデル タブレット、高性能8コアCPU T7250搭載、20GB+128GB+2TB拡張、6000mAh大容量バッテリー+Type-C充電、WidevineL1対応+無線投影、BT5.2+OTG+GPS搭載、顔認識+画面分割+児童保護+FMラジオ、Gemini AI最適化OS アンドロイド 16 Tablet 保護フイルム貼り済み",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 4063156.96,
+      "t30d_units": 297.0
+    },
+    {
+      "asin": "B0F1V37RB6",
+      "item_name": "【2.4K IPS 11.4インチ タブレットWi-Fi/SIM通話モデル】 Bmax Android 15タブレット、24GB+256GB+1TB拡張、8コアCPU Helio G99、90Hz高刷新率2408*1720解像度、8000mAh+18W Type-C充電、4G通話対応/5G WiFi/BT5.2/GPS/GMS/OTG/無線投影/Widevine L1対応 I12 Power",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 786017.99,
+      "t30d_units": 33.0
+    },
+    {
+      "asin": "B0GC5VN5SS",
+      "item_name": "【ミニpc Ryzen 5 7430U高性能モデル登場】BMAX ミニpc AMD Ryzen 5 7430U Windows 11 Pro 6コア12スレッド 最大4.3GHz 16GB(最大64GB可)DDR4＋512GB NVMe SSD（M.2 PCIe3.0x4）WiFi6 デュアル銅管冷却 静音スマートファン HDMI/DP/全機能Type-C 4K60Hz 3画面出力 B7APro",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 587988.0,
+      "t30d_units": 12.0
+    },
+    {
+      "asin": "B0FP95VLYF",
+      "item_name": "【ミニPC 第12世代 i5-1250P搭載】BMAX ミニPC Intel Core i5-1250P Windows 11 Pro 12コア16スレッド 最大4.4GHz 24GB LPDDR5＋512GB NVMe SSD 3画面同時出力（HDMI2.1＋DP1.4＋Type-C全機能）4K@60Hz 1GbpsLAN WiFi6&BT5.2 スマート静音高効率冷却システム B9Plus",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 247996.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0F1V5D6HN",
+      "item_name": "【2.4K IPS 11.4インチ タブレットWi-Fi/SIM通話モデル】 Bmax Android 15タブレット、22GB+128GB+1TB拡張、8コアCPU Helio G99、90Hz高刷新率2408*1720解像度、8000mAh+18W Type-C充電、4G通話対応/5G WiFi/BT5.2/GPS/GMS/OTG/無線投影/Widevine L1対応 I12 Power",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 151694.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0FK9WCRWJ",
+      "item_name": "【Android 15 タブレット 初登場】Bmax I10 Plus アンドロイド 15 タブレット 10インチ、12GB+128GB+1TB拡張、WidevineL1 Netflix対応、8コアCPU T606 tablet、6000mAh+Type-C充電+5GWiFi+BT5.0、OTG+顔認識+無線投影+画面分割+FMラジオ、Android 15 10インチ wi-fiモデル",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 811922.9,
+      "t30d_units": 78.0
+    }
+  ]
+}

@@ -1,1 +1,40 @@
-{"977166164302": [{"asin": "B0F1YG17LL", "item_name": "衣類乾燥機 部屋干し 衣服乾燥機 折りたため式 大容量 乾燥機 衣類 高温速乾 除菌 シワ防止 カビ対策 タイマー機能 省エネ 収納しやすい 除湿 消臭 梅雨対策 花粉対策 (ブルー)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 0.0, "t30d_units": 0.0}, {"asin": "B0FQP7PWB3", "item_name": "【2025年新モデル】 セラミックヒーター 小型 電気ファンヒーター 2秒速暖 暖房器具 マイナスイオン空気清浄 省エネ 速暖 大風量 コンパクト 1200W/800W 2段階温度調整 足元 ファンヒーター 過熱・転倒オフ保護 節電対策 窓下結露対策/寝室/トイレ/洗面所/オフィスに適用 (ホワイト)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 24794.0, "t30d_units": 12.0}, {"asin": "B0F1YD1NZS", "item_name": "衣類乾燥機 部屋干し 衣服乾燥機 折りたため式 大容量 乾燥機 衣類 高温速乾 除菌 シワ防止 カビ対策 タイマー機能 省エネ 収納しやすい 除湿 消臭 梅雨対策 花粉対策 (グレー)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 197600.0, "t30d_units": 14.0}, {"asin": "B0FQP811M2", "item_name": "【2025年新モデル】 セラミックヒーター 小型 電気ファンヒーター 2秒速暖 暖房器具 マイナスイオン空気清浄 省エネ 速暖 大風量 コンパクト 1200W/800W 2段階温度調整 足元 ファンヒーター 過熱・転倒オフ保護 節電対策 窓下結露対策/寝室/トイレ/洗面所/オフィスに適用 (ブラック)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 30807.0, "t30d_units": 15.0}]}
+{
+  "977166164302": [
+    {
+      "asin": "B0F1YG17LL",
+      "item_name": "衣類乾燥機 部屋干し 衣服乾燥機 折りたため式 大容量 乾燥機 衣類 高温速乾 除菌 シワ防止 カビ対策 タイマー機能 省エネ 収納しやすい 除湿 消臭 梅雨対策 花粉対策 (ブルー)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    },
+    {
+      "asin": "B0FQP7PWB3",
+      "item_name": "【2025年新モデル】 セラミックヒーター 小型 電気ファンヒーター 2秒速暖 暖房器具 マイナスイオン空気清浄 省エネ 速暖 大風量 コンパクト 1200W/800W 2段階温度調整 足元 ファンヒーター 過熱・転倒オフ保護 節電対策 窓下結露対策/寝室/トイレ/洗面所/オフィスに適用 (ホワイト)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 24794.0,
+      "t30d_units": 12.0
+    },
+    {
+      "asin": "B0F1YD1NZS",
+      "item_name": "衣類乾燥機 部屋干し 衣服乾燥機 折りたため式 大容量 乾燥機 衣類 高温速乾 除菌 シワ防止 カビ対策 タイマー機能 省エネ 収納しやすい 除湿 消臭 梅雨対策 花粉対策 (グレー)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 197600.0,
+      "t30d_units": 14.0
+    },
+    {
+      "asin": "B0FQP811M2",
+      "item_name": "【2025年新モデル】 セラミックヒーター 小型 電気ファンヒーター 2秒速暖 暖房器具 マイナスイオン空気清浄 省エネ 速暖 大風量 コンパクト 1200W/800W 2段階温度調整 足元 ファンヒーター 過熱・転倒オフ保護 節電対策 窓下結露対策/寝室/トイレ/洗面所/オフィスに適用 (ブラック)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 30807.0,
+      "t30d_units": 15.0
+    }
+  ]
+}

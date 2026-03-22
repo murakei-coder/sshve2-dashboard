@@ -1,1 +1,40 @@
-{"908670888102": [{"asin": "B0DSG5MV7K", "item_name": "Free-Style Wi-Fi｜【国内/海外約120ヵ国対応】ポケットwifi ルーター 30ギガ付き 契約不要 リチャージ 可能 月額費用無し 買い切り 届いたらすぐ使える 車用 旅行 リモートワーク", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 179080.0, "t30d_units": 11.0}, {"asin": "B0DSFZWMKP", "item_name": "Free-Style Wi-Fi｜【国内/海外約120ヵ国対応】ポケットwifi ルーター 100ギガ付き 契約不要 リチャージ 可能 月額費用無し 買い切り 届いたらすぐ使える 車用 旅行 リモートワーク", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 217580.0, "t30d_units": 11.0}, {"asin": "B0DSG2L94D", "item_name": "Free-Style Wi-Fi｜【国内/海外約120ヵ国対応】ポケットwifi ルーター 60ギガ付き 契約不要 リチャージ 可能 月額費用無し 買い切り 届いたらすぐ使える 車用 旅行 リモートワーク", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 36960.0, "t30d_units": 2.0}, {"asin": "B0DRBMJHTB", "item_name": "Free-Style Wi-Fi｜【国内/海外約120ヵ国対応】ポケットwifi ルーター 契約不要 リチャージ 可能 月額費用無し 買い切り 届いたらすぐ使える 車用 旅行 リモートワーク", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 13970.0, "t30d_units": 1.0}]}
+{
+  "908670888102": [
+    {
+      "asin": "B0DSG5MV7K",
+      "item_name": "Free-Style Wi-Fi｜【国内/海外約120ヵ国対応】ポケットwifi ルーター 30ギガ付き 契約不要 リチャージ 可能 月額費用無し 買い切り 届いたらすぐ使える 車用 旅行 リモートワーク",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 179080.0,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0DSFZWMKP",
+      "item_name": "Free-Style Wi-Fi｜【国内/海外約120ヵ国対応】ポケットwifi ルーター 100ギガ付き 契約不要 リチャージ 可能 月額費用無し 買い切り 届いたらすぐ使える 車用 旅行 リモートワーク",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 217580.0,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0DSG2L94D",
+      "item_name": "Free-Style Wi-Fi｜【国内/海外約120ヵ国対応】ポケットwifi ルーター 60ギガ付き 契約不要 リチャージ 可能 月額費用無し 買い切り 届いたらすぐ使える 車用 旅行 リモートワーク",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 36960.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0DRBMJHTB",
+      "item_name": "Free-Style Wi-Fi｜【国内/海外約120ヵ国対応】ポケットwifi ルーター 契約不要 リチャージ 可能 月額費用無し 買い切り 届いたらすぐ使える 車用 旅行 リモートワーク",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 13970.0,
+      "t30d_units": 1.0
+    }
+  ]
+}

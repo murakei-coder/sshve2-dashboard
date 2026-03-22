@@ -1,1 +1,94 @@
-{"9697089722": [{"asin": "B0FJ1P463P", "item_name": "GL.iNet GL-BE9300(Flint 3) トライバンド Wi-Fi 7 ルーター ワイファイルーター 家庭用 wi-fi 6GHzゲーミング 対応 無線lanルーター wifi7 広範囲カバー 5x2.5Gマルチギガポート 多数端末接続 MLO技術 OpenVPN/WireGuard高速化 (BE9300)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 600219.0, "t30d_units": 19.0}, {"asin": "B0B4S2V99D", "item_name": "GL.iNet GL-AXT1800(Slate AX) WiFiルーターWiFi6 無線LAN VPN トラベル デュアルバンド 11 b/g/n/ac/ax 1201Mbps (5GHz) + 574Mbps (2.4GHz) OpenVPN&wiregurad対応 日本語設定画面", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 2793966.9, "t30d_units": 147.0}, {"asin": "B0G3TG3JT2", "item_name": "GL.iNet Comet Pro (GL-RM10) Wi-Fi対応リモートKVM、デュアルバンドWi-Fi 6、4K@30FPSパススルー、タッチスクリーン、32GB eMMC、Tailscaleサポート、災害復旧・リモートオフィス・ITプロフェッショナル向け遠隔アクセス", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 1478604.0, "t30d_units": 50.0}, {"asin": "B0BTPDQXRV", "item_name": "GL.iNet MT2500A (Brume 2) VPNセキュリティゲートウェイ 2.5G WAN ギガビットLANポート インターネットセキュリティVPNカスケード接続 OpenVPNとWireGuard対応 ホーム オフィス リモートワーク 日本語設定画面（アルミニウム合金製ケース）", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 596481.4, "t30d_units": 39.0}, {"asin": "B0BQ1YRH9F", "item_name": "GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN |Wireguard WPA3 IPv6対応 テザリング 旅行 出張 RV GL-MT3000 (Beryl AX)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 1392365.0, "t30d_units": 85.0}, {"asin": "B09T91VPH2", "item_name": "GL.iNet GL-SFT1200 (Opal) トラベル VPN ルーター ワイヤレス セキュリティ ギガビット 無線LAN AC1200 300Mbps (2.4GHz) + 867Mbps (5GHz) Wi-Fi Gigaポート ポケットサイズ ホットスポット IPv6 リピーター テザリング ２年保証", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 1465372.59, "t30d_units": 236.0}, {"asin": "B0CQLPQP48", "item_name": "GL.iNet GL-MT6000(Flint 2) WiFi ルーター VPN WiFi6 無線LANルーター AX6000 2 x 2.5Gマルチギグポート+4 x 1G LANポート ペアレンタルコントロール OpenVpn WireGuard クアッドコア デュアルバンド WPA3 技術サポート ゲーミングルーター wifi", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1678740.66, "t30d_units": 63.0}, {"asin": "B099DXQM9Q", "item_name": "GL.iNet GL-XE300 (Puli) 4G LTE IoT ゲートウェイ モバイル VPN ルーター CAT6 ポータブル WiFi ワイヤレス トラベル ホットスポット OpenWrt 5000mAhバッテリー OpenVPN クライアント 300Mbps IPv6 WPA3 (EG25-G) 日本語設定画面", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 418379.33, "t30d_units": 20.0}, {"asin": "B0F5331N6R", "item_name": "GL.iNet GL-BE3600 (Slate 7) Wi-Fi 7 トラベルルーター 無線LAN wifi ルーター 小型 ポケットサイズ vpn ルーター wifi router タッチスクリーン ホテルルーター デュアルバンド ギガビット OpenVPN & Wireguard ポータブル ビジネス クルーズ RV 飛行機 ホテル Wi-Fi使用に最適", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 1398003.2, "t30d_units": 51.0}, {"asin": "B0G1LVN3XB", "item_name": "GL.iNet Comet PoE (GL-RM1PE) インターネット経由KVM制御 - PoE/Type-C デュアル電源対応 4K@30Hz・32GB eMMC内蔵 Tailscaleサポート PC・サーバー遠隔アクセス・電源管理 KVMスイッチ対応", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 1049575.0, "t30d_units": 48.0}]}
+{
+  "9697089722": [
+    {
+      "asin": "B0FJ1P463P",
+      "item_name": "GL.iNet GL-BE9300(Flint 3) トライバンド Wi-Fi 7 ルーター ワイファイルーター 家庭用 wi-fi 6GHzゲーミング 対応 無線lanルーター wifi7 広範囲カバー 5x2.5Gマルチギガポート 多数端末接続 MLO技術 OpenVPN/WireGuard高速化 (BE9300)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 600219.0,
+      "t30d_units": 19.0
+    },
+    {
+      "asin": "B0B4S2V99D",
+      "item_name": "GL.iNet GL-AXT1800(Slate AX) WiFiルーターWiFi6 無線LAN VPN トラベル デュアルバンド 11 b/g/n/ac/ax 1201Mbps (5GHz) + 574Mbps (2.4GHz) OpenVPN&wiregurad対応 日本語設定画面",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 2793966.9,
+      "t30d_units": 147.0
+    },
+    {
+      "asin": "B0G3TG3JT2",
+      "item_name": "GL.iNet Comet Pro (GL-RM10) Wi-Fi対応リモートKVM、デュアルバンドWi-Fi 6、4K@30FPSパススルー、タッチスクリーン、32GB eMMC、Tailscaleサポート、災害復旧・リモートオフィス・ITプロフェッショナル向け遠隔アクセス",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 1478604.0,
+      "t30d_units": 50.0
+    },
+    {
+      "asin": "B0BTPDQXRV",
+      "item_name": "GL.iNet MT2500A (Brume 2) VPNセキュリティゲートウェイ 2.5G WAN ギガビットLANポート インターネットセキュリティVPNカスケード接続 OpenVPNとWireGuard対応 ホーム オフィス リモートワーク 日本語設定画面（アルミニウム合金製ケース）",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 596481.4,
+      "t30d_units": 39.0
+    },
+    {
+      "asin": "B0BQ1YRH9F",
+      "item_name": "GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN |Wireguard WPA3 IPv6対応 テザリング 旅行 出張 RV GL-MT3000 (Beryl AX)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 1392365.0,
+      "t30d_units": 85.0
+    },
+    {
+      "asin": "B09T91VPH2",
+      "item_name": "GL.iNet GL-SFT1200 (Opal) トラベル VPN ルーター ワイヤレス セキュリティ ギガビット 無線LAN AC1200 300Mbps (2.4GHz) + 867Mbps (5GHz) Wi-Fi Gigaポート ポケットサイズ ホットスポット IPv6 リピーター テザリング ２年保証",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 1465372.59,
+      "t30d_units": 236.0
+    },
+    {
+      "asin": "B0CQLPQP48",
+      "item_name": "GL.iNet GL-MT6000(Flint 2) WiFi ルーター VPN WiFi6 無線LANルーター AX6000 2 x 2.5Gマルチギグポート+4 x 1G LANポート ペアレンタルコントロール OpenVpn WireGuard クアッドコア デュアルバンド WPA3 技術サポート ゲーミングルーター wifi",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1678740.66,
+      "t30d_units": 63.0
+    },
+    {
+      "asin": "B099DXQM9Q",
+      "item_name": "GL.iNet GL-XE300 (Puli) 4G LTE IoT ゲートウェイ モバイル VPN ルーター CAT6 ポータブル WiFi ワイヤレス トラベル ホットスポット OpenWrt 5000mAhバッテリー OpenVPN クライアント 300Mbps IPv6 WPA3 (EG25-G) 日本語設定画面",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 418379.33,
+      "t30d_units": 20.0
+    },
+    {
+      "asin": "B0F5331N6R",
+      "item_name": "GL.iNet GL-BE3600 (Slate 7) Wi-Fi 7 トラベルルーター 無線LAN wifi ルーター 小型 ポケットサイズ vpn ルーター wifi router タッチスクリーン ホテルルーター デュアルバンド ギガビット OpenVPN & Wireguard ポータブル ビジネス クルーズ RV 飛行機 ホテル Wi-Fi使用に最適",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 1398003.2,
+      "t30d_units": 51.0
+    },
+    {
+      "asin": "B0G1LVN3XB",
+      "item_name": "GL.iNet Comet PoE (GL-RM1PE) インターネット経由KVM制御 - PoE/Type-C デュアル電源対応 4K@30Hz・32GB eMMC内蔵 Tailscaleサポート PC・サーバー遠隔アクセス・電源管理 KVMスイッチ対応",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 1049575.0,
+      "t30d_units": 48.0
+    }
+  ]
+}

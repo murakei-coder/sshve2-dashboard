@@ -1,1 +1,49 @@
-{"6430036055": [{"asin": "B08KSM2FWR", "item_name": "[Intel 認証] Cable Matters 40Gbps Thunderbolt 4 ケーブル - 0.8m、8K@60Hz・240W充電、 サンダーボルト4 ケーブル、 USB4 / Thunderbolt 3 / USB-C下位互換、ブラック、MacBook Air Pro/iPad Pro/Air対応", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 287111.99, "t30d_units": 93.0}, {"asin": "B07PXLHNZ6", "item_name": "Cable Matters 2本セット 3分岐 4ピンPCケースファン 分岐ケーブル - 30cm、4ピンPWMファン 分岐コード、PWMスプリッターケーブル", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 143253.31, "t30d_units": 143.0}, {"asin": "B0CP8K1C59", "item_name": "[Intel認証] Cable Matters 80Gbps Thunderbolt 5 ケーブル - 1m、[最大120Gbps帯域幅ブースト・240W充電・8K / 4K 540Hz]、サンダーボルト5ケーブル、Thunderbolt 4/USB4/USB-C対応、ブラック", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 214173.66, "t30d_units": 50.0}, {"asin": "B0CFG85PW4", "item_name": "[Intel認定] Cable Matters 40Gbps 編組Thunderbolt 4 ケーブル - 1m、 240W 充電・ 8K ビデオ、サンダーボルト4ケーブル、MacBook Pro/iMac 用の、 Thunderbolt 3 / USB4 / USB-C完全互換、ブラック", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 127970.99, "t30d_units": 33.0}, {"asin": "B07Y5KB6ZW", "item_name": "[VESA認証済み] Cable Matters 32.4Gbps DisplayPort 1.4 ケーブル - 3m、8K@60HZ / 4K@240Hz / FreeSync/G-SYNC/HDR 対応、ディスプレイポートケーブル、Display Port 1.4 ゲームモニター/PC/RTX 4080/4090、RX 6800/6900など適用", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 79209.5, "t30d_units": 48.0}]}
+{
+  "6430036055": [
+    {
+      "asin": "B08KSM2FWR",
+      "item_name": "[Intel 認証] Cable Matters 40Gbps Thunderbolt 4 ケーブル - 0.8m、8K@60Hz・240W充電、 サンダーボルト4 ケーブル、 USB4 / Thunderbolt 3 / USB-C下位互換、ブラック、MacBook Air Pro/iPad Pro/Air対応",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 287111.99,
+      "t30d_units": 93.0
+    },
+    {
+      "asin": "B07PXLHNZ6",
+      "item_name": "Cable Matters 2本セット 3分岐 4ピンPCケースファン 分岐ケーブル - 30cm、4ピンPWMファン 分岐コード、PWMスプリッターケーブル",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 143253.31,
+      "t30d_units": 143.0
+    },
+    {
+      "asin": "B0CP8K1C59",
+      "item_name": "[Intel認証] Cable Matters 80Gbps Thunderbolt 5 ケーブル - 1m、[最大120Gbps帯域幅ブースト・240W充電・8K / 4K 540Hz]、サンダーボルト5ケーブル、Thunderbolt 4/USB4/USB-C対応、ブラック",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 214173.66,
+      "t30d_units": 50.0
+    },
+    {
+      "asin": "B0CFG85PW4",
+      "item_name": "[Intel認定] Cable Matters 40Gbps 編組Thunderbolt 4 ケーブル - 1m、 240W 充電・ 8K ビデオ、サンダーボルト4ケーブル、MacBook Pro/iMac 用の、 Thunderbolt 3 / USB4 / USB-C完全互換、ブラック",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 127970.99,
+      "t30d_units": 33.0
+    },
+    {
+      "asin": "B07Y5KB6ZW",
+      "item_name": "[VESA認証済み] Cable Matters 32.4Gbps DisplayPort 1.4 ケーブル - 3m、8K@60HZ / 4K@240Hz / FreeSync/G-SYNC/HDR 対応、ディスプレイポートケーブル、Display Port 1.4 ゲームモニター/PC/RTX 4080/4090、RX 6800/6900など適用",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 79209.5,
+      "t30d_units": 48.0
+    }
+  ]
+}

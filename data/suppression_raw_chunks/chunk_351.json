@@ -1,1 +1,94 @@
-{"698624914": [{"asin": "B0B4N6YDJ2", "item_name": "バイオテックジャパン 1/40越後ごはん (20個) 低たんぱくご飯 腎臓病食", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 371675.0, "t30d_units": 56.0}, {"asin": "B08P1M9XWN", "item_name": "バイオテックジャパン ロカゴ (150g×30個)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 550346.0, "t30d_units": 72.0}, {"asin": "B008FKNDQU", "item_name": "バイオテックジャパン 1/25プチ越後ごはん (129g×2カップ×20個)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 534586.0, "t30d_units": 59.0}, {"asin": "B00MWIQMTG", "item_name": "バイオテックジャパン 1/25越後米粒 常温保存タイプ (1kg×3袋) 低たんぱくご飯 腎臓病食", "suppression_reason": "nan", "suppression_category": "5.Others", "pf": "Consumables", "t30d_ops": 46606.0, "t30d_units": 4.0}, {"asin": "B09WTWB1JN", "item_name": "バイオテックジャパン ロカゴハーフ (150g×30個) 糖質50%オフ 低糖質 パックご飯 食物繊維", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 710111.0, "t30d_units": 86.0}, {"asin": "B08N6496KG", "item_name": "バイオテックジャパン ロカゴハーフ (150g×20個)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 115616.0, "t30d_units": 21.0}, {"asin": "B08BS49HM5", "item_name": "バイオテックジャパン 高カロリー やわらカロリーご飯 (130g×20個) おかゆ 介護食 歯茎でつぶせる", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 161677.0, "t30d_units": 30.0}, {"asin": "B07P7TMRC4", "item_name": "バイオテックジャパン 1/25越後ごはん小盛 (30個) 低たんぱくご飯 腎臓病食", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 865692.66, "t30d_units": 100.0}, {"asin": "B0DDKX9KKD", "item_name": "バイオテックジャパン 1/25越後ごはん (180g×30個) 低たんぱくご飯 腎臓病食", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 322094.0, "t30d_units": 34.0}, {"asin": "B07P7TM8L8", "item_name": "バイオテックジャパン 1/25越後ごはん大盛 (200g×30個) 低たんぱくご飯 腎臓病食", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 663053.0, "t30d_units": 65.0}]}
+{
+  "698624914": [
+    {
+      "asin": "B0B4N6YDJ2",
+      "item_name": "バイオテックジャパン 1/40越後ごはん (20個) 低たんぱくご飯 腎臓病食",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 371675.0,
+      "t30d_units": 56.0
+    },
+    {
+      "asin": "B08P1M9XWN",
+      "item_name": "バイオテックジャパン ロカゴ (150g×30個)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 550346.0,
+      "t30d_units": 72.0
+    },
+    {
+      "asin": "B008FKNDQU",
+      "item_name": "バイオテックジャパン 1/25プチ越後ごはん (129g×2カップ×20個)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 534586.0,
+      "t30d_units": 59.0
+    },
+    {
+      "asin": "B00MWIQMTG",
+      "item_name": "バイオテックジャパン 1/25越後米粒 常温保存タイプ (1kg×3袋) 低たんぱくご飯 腎臓病食",
+      "suppression_reason": "nan",
+      "suppression_category": "5.Others",
+      "pf": "Consumables",
+      "t30d_ops": 46606.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B09WTWB1JN",
+      "item_name": "バイオテックジャパン ロカゴハーフ (150g×30個) 糖質50%オフ 低糖質 パックご飯 食物繊維",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 710111.0,
+      "t30d_units": 86.0
+    },
+    {
+      "asin": "B08N6496KG",
+      "item_name": "バイオテックジャパン ロカゴハーフ (150g×20個)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 115616.0,
+      "t30d_units": 21.0
+    },
+    {
+      "asin": "B08BS49HM5",
+      "item_name": "バイオテックジャパン 高カロリー やわらカロリーご飯 (130g×20個) おかゆ 介護食 歯茎でつぶせる",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 161677.0,
+      "t30d_units": 30.0
+    },
+    {
+      "asin": "B07P7TMRC4",
+      "item_name": "バイオテックジャパン 1/25越後ごはん小盛 (30個) 低たんぱくご飯 腎臓病食",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 865692.66,
+      "t30d_units": 100.0
+    },
+    {
+      "asin": "B0DDKX9KKD",
+      "item_name": "バイオテックジャパン 1/25越後ごはん (180g×30個) 低たんぱくご飯 腎臓病食",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 322094.0,
+      "t30d_units": 34.0
+    },
+    {
+      "asin": "B07P7TM8L8",
+      "item_name": "バイオテックジャパン 1/25越後ごはん大盛 (200g×30個) 低たんぱくご飯 腎臓病食",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 663053.0,
+      "t30d_units": 65.0
+    }
+  ]
+}

@@ -1,1 +1,22 @@
-{"496405336102": [{"asin": "B0FHPBBCPW", "item_name": "10Gbps LANカード Intel X550-T2コントローラーチップ PCIe3.0 x4 デュアルRJ45ポート 10GbE ネットワークカード", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 511908.66, "t30d_units": 25.0}, {"asin": "B0BNP4LJYZ", "item_name": "SATA 増設 M.2から 6ポート SATA3.0 ASM1166 拡張カード Mキー PCIe M.2対応 Windows 10/11 Windows Server 2016/2019/2022 Linux FreeBSD 対応", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 47195.0, "t30d_units": 11.0}]}
+{
+  "496405336102": [
+    {
+      "asin": "B0FHPBBCPW",
+      "item_name": "10Gbps LANカード Intel X550-T2コントローラーチップ PCIe3.0 x4 デュアルRJ45ポート 10GbE ネットワークカード",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 511908.66,
+      "t30d_units": 25.0
+    },
+    {
+      "asin": "B0BNP4LJYZ",
+      "item_name": "SATA 増設 M.2から 6ポート SATA3.0 ASM1166 拡張カード Mキー PCIe M.2対応 Windows 10/11 Windows Server 2016/2019/2022 Linux FreeBSD 対応",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 47195.0,
+      "t30d_units": 11.0
+    }
+  ]
+}

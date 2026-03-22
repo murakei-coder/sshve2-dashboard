@@ -1,1 +1,40 @@
-{"685432004802": [{"asin": "B0CGVNF4V9", "item_name": "HSTCL エアコンリモコン ダイキンエアコン対応 代用リモコン 汎用 設定不要 自動ON/OFFタイマー機能 (ダイキンエアコン用)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 1880.0, "t30d_units": 1.0}, {"asin": "B0CGVMLBR3", "item_name": "HSTCL エアコンリモコン 日立エアコン対応 代用リモコン 汎用 設定不要 自動ON/OFFタイマー機能 (日立エアコン用)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 1880.0, "t30d_units": 1.0}, {"asin": "B0CH9Q2J6W", "item_name": "ブラウンシリーズ3用 s3 F/C32B 代替品 シェーバー替え刃 網刃・内刃一体型カセット HSTCL 電気シェーバー替刃", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 172009.92, "t30d_units": 117.0}, {"asin": "B0CGVNSS6N", "item_name": "HSTCL エアコンリモコン パナソニックエアコン対応 代用リモコン 汎用 設定不要 自動ON/OFFタイマー機能 (パナソニックエアコン用)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "685432004802": [
+    {
+      "asin": "B0CGVNF4V9",
+      "item_name": "HSTCL エアコンリモコン ダイキンエアコン対応 代用リモコン 汎用 設定不要 自動ON/OFFタイマー機能 (ダイキンエアコン用)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 1880.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0CGVMLBR3",
+      "item_name": "HSTCL エアコンリモコン 日立エアコン対応 代用リモコン 汎用 設定不要 自動ON/OFFタイマー機能 (日立エアコン用)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 1880.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0CH9Q2J6W",
+      "item_name": "ブラウンシリーズ3用 s3 F/C32B 代替品 シェーバー替え刃 網刃・内刃一体型カセット HSTCL 電気シェーバー替刃",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 172009.92,
+      "t30d_units": 117.0
+    },
+    {
+      "asin": "B0CGVNSS6N",
+      "item_name": "HSTCL エアコンリモコン パナソニックエアコン対応 代用リモコン 汎用 設定不要 自動ON/OFFタイマー機能 (パナソニックエアコン用)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

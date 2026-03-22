@@ -1,1 +1,22 @@
-{"74792693622": [{"asin": "B0FPM1HFG1", "item_name": "[susurrus] ダイエットスリッパ 健康サンダル 履くだけ 美と健康 バランスサンダル 足ツボ スリッパ 体幹シューズ 足痩せ脚やせ5本指シューズ 体感トレ一ニング むくみとり o脚矯正 姿勢矯正 美脚 ヒップアップ つま先 洗える 足つぼ ランキング おしゃ 軽量 防滑 室内用 レディース", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0FPBD3P5S", "item_name": "【2025改良版 120万本の極細毛】ボディブラシ 背中 ブラシ 柔らかい ボディスポンジ 掃除ニキビ 背中洗い たわしカビが生えにくい 体洗うブラシ 背中あらうブラシ お風呂 安心素材 臭わない 長柄 水洗い可能 曲柄", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 6550.0, "t30d_units": 3.0}]}
+{
+  "74792693622": [
+    {
+      "asin": "B0FPM1HFG1",
+      "item_name": "[susurrus] ダイエットスリッパ 健康サンダル 履くだけ 美と健康 バランスサンダル 足ツボ スリッパ 体幹シューズ 足痩せ脚やせ5本指シューズ 体感トレ一ニング むくみとり o脚矯正 姿勢矯正 美脚 ヒップアップ つま先 洗える 足つぼ ランキング おしゃ 軽量 防滑 室内用 レディース",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0FPBD3P5S",
+      "item_name": "【2025改良版 120万本の極細毛】ボディブラシ 背中 ブラシ 柔らかい ボディスポンジ 掃除ニキビ 背中洗い たわしカビが生えにくい 体洗うブラシ 背中あらうブラシ お風呂 安心素材 臭わない 長柄 水洗い可能 曲柄",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 6550.0,
+      "t30d_units": 3.0
+    }
+  ]
+}

@@ -1,1 +1,85 @@
-{"840196030202": [{"asin": "B0D8JR7Z16", "item_name": "【ゼラチン80年企業開発】ゼライス コラーゲン ヒアルロン酸 コラーゲントリペプチド コラーゲンペプチド 膝 サプリ コラーゲンサプリ 240g 日本製", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 413643.2, "t30d_units": 66.0}, {"asin": "B0D8JRXVLZ", "item_name": "【ゼラチン80年企業開発】ゼライス コラーゲン コラーゲントリペプチド コラーゲンペプチド 膝 サプリ コラーゲンサプリ 30本 30日分 日本製", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 390649.89, "t30d_units": 97.0}, {"asin": "B0DKNYCGGS", "item_name": "【医薬部外品】 JELLICE デイリー モイスチャライジング ローション 120ml 化粧水 コラーゲン ナイアシンアミド 美白 毛穴 美肌 肌荒れ 敏感肌", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 4700.0, "t30d_units": 1.0}, {"asin": "B0D8JTMPFH", "item_name": "【ゼラチン80年企業開発】ゼライス コラーゲン コラーゲントリペプチド コラーゲンペプチド 膝 サプリ コラーゲンサプリ 210粒 30日分 日本製", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 320761.78, "t30d_units": 85.0}, {"asin": "B0DKNWZNDL", "item_name": "【医薬部外品】 JELLICE リッチ モイスチャライジング シートマスク 4枚入 フェイスパック フェイスマスク コラーゲン ナイアシンアミド ヒアルロン酸", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 7548.0, "t30d_units": 5.0}, {"asin": "B0DKSH5PM1", "item_name": "【医薬部外品】 JELLICE リッチ コンセントレーテッド クリーム 30g 夜用 コラーゲン ナイアシンアミド ヒアルロン酸 集中保湿 美白 美肌 敏感肌 肌荒れ 乾燥", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 11600.0, "t30d_units": 2.0}, {"asin": "B0D8JPYV3Z", "item_name": "【ゼラチン80年企業開発】ゼライス 膝 サプリ コラーゲンサプリ コラーゲン ヒアルロン酸 コラーゲントリペプチド コラーゲンペプチド 30本 30日分 日本製 [機能性表示食品]", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 142311.47, "t30d_units": 36.0}, {"asin": "B0D8JS6FQ1", "item_name": "【ゼラチン80年企業開発】ゼライス 機能性表示食品 膝 サプリ コラーゲンサプリ コラーゲン ヒアルロン酸 コラーゲントリペプチド コラーゲンペプチド 240g 日本製 [機能性表示食品]", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 153524.08, "t30d_units": 25.0}, {"asin": "B0DKNX6HTJ", "item_name": "【医薬部外品】 JELLICE ビューティー エキストラクト コンセントレーテッド セラム 30ml 美容液 濃縮エイジングケア 毛穴 美白 コラーゲン ナイアシンアミド ヒアルロン酸 男女兼用", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "840196030202": [
+    {
+      "asin": "B0D8JR7Z16",
+      "item_name": "【ゼラチン80年企業開発】ゼライス コラーゲン ヒアルロン酸 コラーゲントリペプチド コラーゲンペプチド 膝 サプリ コラーゲンサプリ 240g 日本製",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 413643.2,
+      "t30d_units": 66.0
+    },
+    {
+      "asin": "B0D8JRXVLZ",
+      "item_name": "【ゼラチン80年企業開発】ゼライス コラーゲン コラーゲントリペプチド コラーゲンペプチド 膝 サプリ コラーゲンサプリ 30本 30日分 日本製",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 390649.89,
+      "t30d_units": 97.0
+    },
+    {
+      "asin": "B0DKNYCGGS",
+      "item_name": "【医薬部外品】 JELLICE デイリー モイスチャライジング ローション 120ml 化粧水 コラーゲン ナイアシンアミド 美白 毛穴 美肌 肌荒れ 敏感肌",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 4700.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0D8JTMPFH",
+      "item_name": "【ゼラチン80年企業開発】ゼライス コラーゲン コラーゲントリペプチド コラーゲンペプチド 膝 サプリ コラーゲンサプリ 210粒 30日分 日本製",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 320761.78,
+      "t30d_units": 85.0
+    },
+    {
+      "asin": "B0DKNWZNDL",
+      "item_name": "【医薬部外品】 JELLICE リッチ モイスチャライジング シートマスク 4枚入 フェイスパック フェイスマスク コラーゲン ナイアシンアミド ヒアルロン酸",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 7548.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0DKSH5PM1",
+      "item_name": "【医薬部外品】 JELLICE リッチ コンセントレーテッド クリーム 30g 夜用 コラーゲン ナイアシンアミド ヒアルロン酸 集中保湿 美白 美肌 敏感肌 肌荒れ 乾燥",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 11600.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0D8JPYV3Z",
+      "item_name": "【ゼラチン80年企業開発】ゼライス 膝 サプリ コラーゲンサプリ コラーゲン ヒアルロン酸 コラーゲントリペプチド コラーゲンペプチド 30本 30日分 日本製 [機能性表示食品]",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 142311.47,
+      "t30d_units": 36.0
+    },
+    {
+      "asin": "B0D8JS6FQ1",
+      "item_name": "【ゼラチン80年企業開発】ゼライス 機能性表示食品 膝 サプリ コラーゲンサプリ コラーゲン ヒアルロン酸 コラーゲントリペプチド コラーゲンペプチド 240g 日本製 [機能性表示食品]",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 153524.08,
+      "t30d_units": 25.0
+    },
+    {
+      "asin": "B0DKNX6HTJ",
+      "item_name": "【医薬部外品】 JELLICE ビューティー エキストラクト コンセントレーテッド セラム 30ml 美容液 濃縮エイジングケア 毛穴 美白 コラーゲン ナイアシンアミド ヒアルロン酸 男女兼用",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

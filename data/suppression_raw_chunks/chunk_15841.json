@@ -1,1 +1,112 @@
-{"1111321411402": [{"asin": "B0FL6WX5BN", "item_name": "デジタル名刺「プレーリーカード」｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜ホワイト", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 39420.0, "t30d_units": 9.0}, {"asin": "B0G2LL8KF1", "item_name": "【セット商品】デジタル名刺「プレーリーカード」＋専用カードケース付きセット｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜ナチュラルウッド", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 9960.0, "t30d_units": 2.0}, {"asin": "B0FLP1SYJ7", "item_name": "デジタル名刺「プレーリーカード」｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜リーフグリーン", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 4380.0, "t30d_units": 1.0}, {"asin": "B0FLQ6NW5P", "item_name": "デジタル名刺「プレーリーカード」｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜オレンジ", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 8760.0, "t30d_units": 2.0}, {"asin": "B0G2LFCBYZ", "item_name": "【セット商品】デジタル名刺「プレーリーカード」＋専用カードケース付きセット｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜ブラック", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0.0, "t30d_units": 0.0}, {"asin": "B0FLP64TQB", "item_name": "デジタル名刺「プレーリーカード」｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜イエローピンク", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 43647.0, "t30d_units": 10.0}, {"asin": "B0FLPPJLF1", "item_name": "デジタル名刺「プレーリーカード」｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜イエローグリーン", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 21900.0, "t30d_units": 5.0}, {"asin": "B0FJDD8RHK", "item_name": "デジタル名刺「プレーリーカード」｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜ブラック", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 319521.53, "t30d_units": 73.0}, {"asin": "B0FM7B2JDJ", "item_name": "デジタル名刺「プレーリーカード」｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし ｜ナチュラルウッド", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 367143.99, "t30d_units": 82.0}, {"asin": "B0FQBV6CZP", "item_name": "デジタル名刺カードホルダー｜IDカードホルダー｜ID｜ネックストラップ付き｜カードケース｜横型｜デジタル名刺収納・防水・軽量プラスチック素材｜W10.5×H8.0×D0.5cm｜シンプルデザイン｜交流会・カンファレンス・ビジネス｜※カード本体別売り｜【プレーリーカード】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 6444.0, "t30d_units": 9.0}, {"asin": "B0FLPHZCQN", "item_name": "デジタル名刺「プレーリーカード」｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜オーロラパープル", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 48179.66, "t30d_units": 11.0}, {"asin": "B0FLPQ9NGJ", "item_name": "デジタル名刺「プレーリーカード」｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜ブルー", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 39420.0, "t30d_units": 9.0}]}
+{
+  "1111321411402": [
+    {
+      "asin": "B0FL6WX5BN",
+      "item_name": "デジタル名刺「プレーリーカード」｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜ホワイト",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 39420.0,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B0G2LL8KF1",
+      "item_name": "【セット商品】デジタル名刺「プレーリーカード」＋専用カードケース付きセット｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜ナチュラルウッド",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 9960.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0FLP1SYJ7",
+      "item_name": "デジタル名刺「プレーリーカード」｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜リーフグリーン",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 4380.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0FLQ6NW5P",
+      "item_name": "デジタル名刺「プレーリーカード」｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜オレンジ",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 8760.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0G2LFCBYZ",
+      "item_name": "【セット商品】デジタル名刺「プレーリーカード」＋専用カードケース付きセット｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜ブラック",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    },
+    {
+      "asin": "B0FLP64TQB",
+      "item_name": "デジタル名刺「プレーリーカード」｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜イエローピンク",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 43647.0,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B0FLPPJLF1",
+      "item_name": "デジタル名刺「プレーリーカード」｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜イエローグリーン",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 21900.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0FJDD8RHK",
+      "item_name": "デジタル名刺「プレーリーカード」｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜ブラック",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 319521.53,
+      "t30d_units": 73.0
+    },
+    {
+      "asin": "B0FM7B2JDJ",
+      "item_name": "デジタル名刺「プレーリーカード」｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし ｜ナチュラルウッド",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 367143.99,
+      "t30d_units": 82.0
+    },
+    {
+      "asin": "B0FQBV6CZP",
+      "item_name": "デジタル名刺カードホルダー｜IDカードホルダー｜ID｜ネックストラップ付き｜カードケース｜横型｜デジタル名刺収納・防水・軽量プラスチック素材｜W10.5×H8.0×D0.5cm｜シンプルデザイン｜交流会・カンファレンス・ビジネス｜※カード本体別売り｜【プレーリーカード】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 6444.0,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B0FLPHZCQN",
+      "item_name": "デジタル名刺「プレーリーカード」｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜オーロラパープル",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 48179.66,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0FLPQ9NGJ",
+      "item_name": "デジタル名刺「プレーリーカード」｜スマホをかざすだけで情報共有・アプリ不要・月額料金なし｜ブルー",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 39420.0,
+      "t30d_units": 9.0
+    }
+  ]
+}

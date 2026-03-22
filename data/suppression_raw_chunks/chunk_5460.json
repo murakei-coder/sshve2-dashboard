@@ -1,1 +1,22 @@
-{"17667810522": [{"asin": "B0BJTWBTCG", "item_name": "【快眠タイム】睡眠サプリ 機能性表示食品 31粒(31日分) [サフラン/GABA/乳酸菌]", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 151308.58, "t30d_units": 40.0}, {"asin": "B07TYL6J22", "item_name": "【NHK出演医師が絶賛】ルックルック イヌリンプラス 186粒 (31日分）血糖値を抑える サプリ【機能性表示食品】", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 3822622.93, "t30d_units": 863.0}]}
+{
+  "17667810522": [
+    {
+      "asin": "B0BJTWBTCG",
+      "item_name": "【快眠タイム】睡眠サプリ 機能性表示食品 31粒(31日分) [サフラン/GABA/乳酸菌]",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 151308.58,
+      "t30d_units": 40.0
+    },
+    {
+      "asin": "B07TYL6J22",
+      "item_name": "【NHK出演医師が絶賛】ルックルック イヌリンプラス 186粒 (31日分）血糖値を抑える サプリ【機能性表示食品】",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 3822622.93,
+      "t30d_units": 863.0
+    }
+  ]
+}

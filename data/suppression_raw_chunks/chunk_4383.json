@@ -1,1 +1,49 @@
-{"8956323455": [{"asin": "B0FJXMPQBF", "item_name": "のむシリカLIGHT シリカ水 500ml 水 ミネラルウォーター 天然水 無添加 シリカ 72mg/L含有 500ミリリットル ペットボトル (500ml 48本)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 1530882.0, "t30d_units": 290.0}, {"asin": "B072Z8FFXR", "item_name": "のむシリカ シリカ水 500ml 24本 水 ミネラルウォーター 霧島天然水 無添加 シリカ 97mg/L含有", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 41463269.75, "t30d_units": 10797.0}, {"asin": "B0D49DX13T", "item_name": "のむシリカ化粧水 SilcMist シルクミスト 150g ミスト化粧水 スプレー 無添加 国産 敏感肌 全身に使える6つのフリー(防腐剤/着色料/合成香料/アルコール/鉱物油/増粘剤フリー) 水はのむシリカを使用", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 380160.0, "t30d_units": 192.0}, {"asin": "B0FQZNC4XY", "item_name": "のむシリカLIGHT シリカ水 500ml 水 ミネラルウォーター 天然水 無添加 シリカ 72mg/L含有 500ミリリットル ペットボトル (500ml 24本)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 9073073.0, "t30d_units": 3444.0}, {"asin": "B081VHVPV8", "item_name": "霧島天然水のむシリカ シリカ水 2l 9本 天然水 水 のむシリカ 飲むシリカ 無添加 ナチュラルミネラルウォーター ペットボトル シリカ 97mg/L含有 【1箱／２リットル × ９本】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 9098700.38, "t30d_units": 1832.0}]}
+{
+  "8956323455": [
+    {
+      "asin": "B0FJXMPQBF",
+      "item_name": "のむシリカLIGHT シリカ水 500ml 水 ミネラルウォーター 天然水 無添加 シリカ 72mg/L含有 500ミリリットル ペットボトル (500ml 48本)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 1530882.0,
+      "t30d_units": 290.0
+    },
+    {
+      "asin": "B072Z8FFXR",
+      "item_name": "のむシリカ シリカ水 500ml 24本 水 ミネラルウォーター 霧島天然水 無添加 シリカ 97mg/L含有",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 41463269.75,
+      "t30d_units": 10797.0
+    },
+    {
+      "asin": "B0D49DX13T",
+      "item_name": "のむシリカ化粧水 SilcMist シルクミスト 150g ミスト化粧水 スプレー 無添加 国産 敏感肌 全身に使える6つのフリー(防腐剤/着色料/合成香料/アルコール/鉱物油/増粘剤フリー) 水はのむシリカを使用",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 380160.0,
+      "t30d_units": 192.0
+    },
+    {
+      "asin": "B0FQZNC4XY",
+      "item_name": "のむシリカLIGHT シリカ水 500ml 水 ミネラルウォーター 天然水 無添加 シリカ 72mg/L含有 500ミリリットル ペットボトル (500ml 24本)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 9073073.0,
+      "t30d_units": 3444.0
+    },
+    {
+      "asin": "B081VHVPV8",
+      "item_name": "霧島天然水のむシリカ シリカ水 2l 9本 天然水 水 のむシリカ 飲むシリカ 無添加 ナチュラルミネラルウォーター ペットボトル シリカ 97mg/L含有 【1箱／２リットル × ９本】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 9098700.38,
+      "t30d_units": 1832.0
+    }
+  ]
+}

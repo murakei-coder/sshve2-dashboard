@@ -1,1 +1,31 @@
-{"7555028845": [{"asin": "B09TYMQCRP", "item_name": "表参道スパイス研究所 シビ辛薬膳カレー 辛口 6人前 無添加 カレールー カレー粉 スパイスカレー［4］", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 119062.35, "t30d_units": 42.0}, {"asin": "B0B7GFYRF2", "item_name": "表参道スパイス研究所 シビ辛薬膳カレー 辛口 6人前 無添加 カレールー カレー粉 スパイスカレー［8］", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 33687.0, "t30d_units": 7.0}, {"asin": "B084SS2B8Z", "item_name": "表参道スパイス研究所 シビ辛薬膳カレー 辛口 6人前 無添加 カレールー カレー粉 スパイスカレー", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 214182.85, "t30d_units": 272.0}]}
+{
+  "7555028845": [
+    {
+      "asin": "B09TYMQCRP",
+      "item_name": "表参道スパイス研究所 シビ辛薬膳カレー 辛口 6人前 無添加 カレールー カレー粉 スパイスカレー［4］",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 119062.35,
+      "t30d_units": 42.0
+    },
+    {
+      "asin": "B0B7GFYRF2",
+      "item_name": "表参道スパイス研究所 シビ辛薬膳カレー 辛口 6人前 無添加 カレールー カレー粉 スパイスカレー［8］",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 33687.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B084SS2B8Z",
+      "item_name": "表参道スパイス研究所 シビ辛薬膳カレー 辛口 6人前 無添加 カレールー カレー粉 スパイスカレー",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 214182.85,
+      "t30d_units": 272.0
+    }
+  ]
+}

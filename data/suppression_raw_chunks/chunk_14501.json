@@ -1,1 +1,40 @@
-{"998021346202": [{"asin": "B0G2JBZ1KL", "item_name": "fucuu ヒバ精油 10mL 国産 青森ヒバ 無添加 アロマオイル 精油 エッセンシャルオイル", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 58277.85, "t30d_units": 43.0}, {"asin": "B0G2HF8QB6", "item_name": "fucuu ヒノキ精油 10mL 国産 奈良県産ヒノキ 無添加 アロマオイル 精油 エッセンシャルオイル", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 330480.68, "t30d_units": 257.0}, {"asin": "B0G2JB8N5K", "item_name": "fucuu ヒノキ精油 30mL 国産 奈良県産ヒノキ 無添加 アロマオイル 精油 エッセンシャルオイル", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 240623.05, "t30d_units": 98.0}, {"asin": "B0G2JFBY15", "item_name": "fucuu ヒバ精油 30mL 国産 青森ヒバ 無添加 アロマオイル 精油 エッセンシャルオイル", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 63618.0, "t30d_units": 25.0}]}
+{
+  "998021346202": [
+    {
+      "asin": "B0G2JBZ1KL",
+      "item_name": "fucuu ヒバ精油 10mL 国産 青森ヒバ 無添加 アロマオイル 精油 エッセンシャルオイル",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 58277.85,
+      "t30d_units": 43.0
+    },
+    {
+      "asin": "B0G2HF8QB6",
+      "item_name": "fucuu ヒノキ精油 10mL 国産 奈良県産ヒノキ 無添加 アロマオイル 精油 エッセンシャルオイル",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 330480.68,
+      "t30d_units": 257.0
+    },
+    {
+      "asin": "B0G2JB8N5K",
+      "item_name": "fucuu ヒノキ精油 30mL 国産 奈良県産ヒノキ 無添加 アロマオイル 精油 エッセンシャルオイル",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 240623.05,
+      "t30d_units": 98.0
+    },
+    {
+      "asin": "B0G2JFBY15",
+      "item_name": "fucuu ヒバ精油 30mL 国産 青森ヒバ 無添加 アロマオイル 精油 エッセンシャルオイル",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 63618.0,
+      "t30d_units": 25.0
+    }
+  ]
+}

@@ -1,1 +1,49 @@
-{"466339461402": [{"asin": "B0FTT92DBC", "item_name": "【オリジナル商品管理シール付】コラージュ フルフル ボディソープ (つめかえ用) 200mL (医薬部外品)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 40628.0, "t30d_units": 22.0}, {"asin": "B0GGDC4Q46", "item_name": "【オリジナル商品管理シール付】 コラージュフルフル 泡石鹸 ピンク つめかえ用 210mL (医薬部外品)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 3437.0, "t30d_units": 2.0}, {"asin": "B0GGBSLBH1", "item_name": "【オリジナル商品管理シール付】 カウブランド無添加 ボディソープ 詰替用 380ml 2個セット", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0G29ZTYSV", "item_name": "【アソート セット】 ノーベル製菓 VC-3000のど飴 レモン 90g ／ 龍角散 のどすっきり飴 カシス&ブルーベリー 75g 【オリジナル商品管理シール付】", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0GGDF9LDX", "item_name": "【オリジナル商品管理シール付】 コラージュフルフル 泡石鹸 210mL (医薬部外品)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 13002.0, "t30d_units": 7.0}]}
+{
+  "466339461402": [
+    {
+      "asin": "B0FTT92DBC",
+      "item_name": "【オリジナル商品管理シール付】コラージュ フルフル ボディソープ (つめかえ用) 200mL (医薬部外品)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 40628.0,
+      "t30d_units": 22.0
+    },
+    {
+      "asin": "B0GGDC4Q46",
+      "item_name": "【オリジナル商品管理シール付】 コラージュフルフル 泡石鹸 ピンク つめかえ用 210mL (医薬部外品)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 3437.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0GGBSLBH1",
+      "item_name": "【オリジナル商品管理シール付】 カウブランド無添加 ボディソープ 詰替用 380ml 2個セット",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0G29ZTYSV",
+      "item_name": "【アソート セット】 ノーベル製菓 VC-3000のど飴 レモン 90g ／ 龍角散 のどすっきり飴 カシス&ブルーベリー 75g 【オリジナル商品管理シール付】",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0GGDF9LDX",
+      "item_name": "【オリジナル商品管理シール付】 コラージュフルフル 泡石鹸 210mL (医薬部外品)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 13002.0,
+      "t30d_units": 7.0
+    }
+  ]
+}

@@ -1,1 +1,49 @@
-{"44080016422": [{"asin": "B0GMH32J8F", "item_name": "【2026新登場 タブレット 11インチ wi-fiモデル 90Hz高リフレッシュレート】タブレット 10インチ以上 12GB+128GB+2TB拡張 T606 8コア、8000mAh大容量バッテリー、顔認識、WidevineL1/Netflix/YouTube対応、Gemini AI+無線投影+GPS+2.4&5G、アンドロイド tablet 日本語説明書付き（保護フイルム貼り済み 一年保証）", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 257300.0, "t30d_units": 17.0}, {"asin": "B0FP98XCKZ", "item_name": "ノートパソコン【爆速Ryzen 7 7730U 8コア16スレッド(最大4.5GHz) 32GB DDR4(64GB拡張可能）｜1TB 高速PCIe3.0 NVMe SSD】ノートパソコン 15.6インチ 51.3Wh大容量バッテリー スマートファン+デュアル銅製パイプ冷却、パソコン IPS液晶 Win11Pro ノートPC フル機能Type-C+WIFI6+Webカメラ/日本語キーボードカバー", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 2389942.0, "t30d_units": 25.0}, {"asin": "B0FL74D8ML", "item_name": "【初登場AI タブレット 大画面 10インチ Wi-fiモデル】16GB+64GB+2TB TF拡張 アンドロイド タブレット WidevineL1+GMS認証+Type-C充電+6000mAh、T310 A75大コア android tablet 薄型軽量 1280*800 TDDI IPS画面、GPS+顔認識+WiFi5+BT5.0+画面分割+重力センシング+無線投影 日本語説明書付属bmax", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 1269659.59, "t30d_units": 115.0}, {"asin": "B0FP996WGV", "item_name": "ノートパソコン【爆速Core i9-12900H 14コア20スレッド(最大5.0GHz) 32GB DDR4(64GB拡張可能）｜1TB 高速PCIe3.0 NVMe SSD】ノートパソコン 15.6インチ 51.3Wh大容量バッテリー スマートファン+デュアル銅製パイプ冷却、パソコン IPS液晶 Win11Pro ノートPC フルType-C+WIFI6+Webカメラ/日本語キーボードカバー", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 10564119.86, "t30d_units": 78.0}, {"asin": "B0DS65NZ2R", "item_name": "2026最新ノートパソコン Intel-N95 最大3.4GHz 4コア4スレッド ノートPC Win11 Pro 38Wh大容量バッテリー ノートパソコン 15.6インチ 12GB DDR5+512GB パソコン 1920×1080 IPS液晶 ウェブカメラ付き 高速放熱+静音 デスクトップ HDMI+Type-C+テンキー付き/日本語キーボードカバー 学生向け 仕事用 学習用 laptop", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 9140567.74, "t30d_units": 209.0}]}
+{
+  "44080016422": [
+    {
+      "asin": "B0GMH32J8F",
+      "item_name": "【2026新登場 タブレット 11インチ wi-fiモデル 90Hz高リフレッシュレート】タブレット 10インチ以上 12GB+128GB+2TB拡張 T606 8コア、8000mAh大容量バッテリー、顔認識、WidevineL1/Netflix/YouTube対応、Gemini AI+無線投影+GPS+2.4&5G、アンドロイド tablet 日本語説明書付き（保護フイルム貼り済み 一年保証）",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 257300.0,
+      "t30d_units": 17.0
+    },
+    {
+      "asin": "B0FP98XCKZ",
+      "item_name": "ノートパソコン【爆速Ryzen 7 7730U 8コア16スレッド(最大4.5GHz) 32GB DDR4(64GB拡張可能）｜1TB 高速PCIe3.0 NVMe SSD】ノートパソコン 15.6インチ 51.3Wh大容量バッテリー スマートファン+デュアル銅製パイプ冷却、パソコン IPS液晶 Win11Pro ノートPC フル機能Type-C+WIFI6+Webカメラ/日本語キーボードカバー",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 2389942.0,
+      "t30d_units": 25.0
+    },
+    {
+      "asin": "B0FL74D8ML",
+      "item_name": "【初登場AI タブレット 大画面 10インチ Wi-fiモデル】16GB+64GB+2TB TF拡張 アンドロイド タブレット WidevineL1+GMS認証+Type-C充電+6000mAh、T310 A75大コア android tablet 薄型軽量 1280*800 TDDI IPS画面、GPS+顔認識+WiFi5+BT5.0+画面分割+重力センシング+無線投影 日本語説明書付属bmax",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 1269659.59,
+      "t30d_units": 115.0
+    },
+    {
+      "asin": "B0FP996WGV",
+      "item_name": "ノートパソコン【爆速Core i9-12900H 14コア20スレッド(最大5.0GHz) 32GB DDR4(64GB拡張可能）｜1TB 高速PCIe3.0 NVMe SSD】ノートパソコン 15.6インチ 51.3Wh大容量バッテリー スマートファン+デュアル銅製パイプ冷却、パソコン IPS液晶 Win11Pro ノートPC フルType-C+WIFI6+Webカメラ/日本語キーボードカバー",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 10564119.86,
+      "t30d_units": 78.0
+    },
+    {
+      "asin": "B0DS65NZ2R",
+      "item_name": "2026最新ノートパソコン Intel-N95 最大3.4GHz 4コア4スレッド ノートPC Win11 Pro 38Wh大容量バッテリー ノートパソコン 15.6インチ 12GB DDR5+512GB パソコン 1920×1080 IPS液晶 ウェブカメラ付き 高速放熱+静音 デスクトップ HDMI+Type-C+テンキー付き/日本語キーボードカバー 学生向け 仕事用 学習用 laptop",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 9140567.74,
+      "t30d_units": 209.0
+    }
+  ]
+}

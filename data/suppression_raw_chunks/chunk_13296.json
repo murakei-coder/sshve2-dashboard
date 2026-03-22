@@ -1,1 +1,31 @@
-{"846418111202": [{"asin": "B0FXL37SXM", "item_name": "MAGEX iphone17 自撮りモニター 5インチ 1080P 超薄型 スマホモニター magsafe対応 ワイヤレス接続 画面ミラーリング 外カメラ iphone背面モニター Vlog記録・ビデオ録画・ライブ配信・TikTok撮影に最適", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 113625.0, "t30d_units": 11.0}, {"asin": "B0F23CG1C5", "item_name": "MAGEX iphone用自撮りモニター 4インチ 7.8mm超薄型 Vlogモニター magsafe対応 ワイヤレス接続 ミラーリング iphoneの画面をモニターに映す 背面モニター Vlog記録・ビデオ録画・ライブ配信・TikTok撮影に最適 iPhone＆Android対応【iPhone 17シリーズ非対応】 (ブラック)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 170339.75, "t30d_units": 29.0}, {"asin": "B0FN84K9CQ", "item_name": "MAGEX iphone 17 自撮りモニター|4インチ 超薄型 スマホモニター magsafe対応 ワイヤレス接続 ミラーリング iphone背面モニター Vlog記録・ビデオ録画・ライブ配信・TikTok撮影に最適 ピンク", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 24216.0, "t30d_units": 4.0}]}
+{
+  "846418111202": [
+    {
+      "asin": "B0FXL37SXM",
+      "item_name": "MAGEX iphone17 自撮りモニター 5インチ 1080P 超薄型 スマホモニター magsafe対応 ワイヤレス接続 画面ミラーリング 外カメラ iphone背面モニター Vlog記録・ビデオ録画・ライブ配信・TikTok撮影に最適",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 113625.0,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0F23CG1C5",
+      "item_name": "MAGEX iphone用自撮りモニター 4インチ 7.8mm超薄型 Vlogモニター magsafe対応 ワイヤレス接続 ミラーリング iphoneの画面をモニターに映す 背面モニター Vlog記録・ビデオ録画・ライブ配信・TikTok撮影に最適 iPhone＆Android対応【iPhone 17シリーズ非対応】 (ブラック)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 170339.75,
+      "t30d_units": 29.0
+    },
+    {
+      "asin": "B0FN84K9CQ",
+      "item_name": "MAGEX iphone 17 自撮りモニター|4インチ 超薄型 スマホモニター magsafe対応 ワイヤレス接続 ミラーリング iphone背面モニター Vlog記録・ビデオ録画・ライブ配信・TikTok撮影に最適 ピンク",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 24216.0,
+      "t30d_units": 4.0
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"970542866502": [{"asin": "B0G3QR5JFF", "item_name": "3in1 超ミニ 第2世代 Qi 充電器，3折りたたみ超軽量 MagSafe対応ワイヤレス充電器 Apple専用，20W 急速【iPhone 15W·AirPods 5W·Apple Watch 3W を同時充電】，強化版半導体冷却板内蔵，スマホスタンドで空間を極限まで節約，150mT強磁気吸着置くだけ充電雲台，出張·旅行·オフィス·自宅用，贈り物に最適です，TO", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 269457.3, "t30d_units": 66.0}, {"asin": "B0F2MN7R9B", "item_name": "卓上加湿器 小型 超音波式 1.3L大容量 TOPKYO加湿器 2モード切替式デュアル噴射口（デュアル/左、右単孔）静音設計 湿度デジタル表示 ナイトライト2モード（暖光・ブルー微光・消灯） 自動停止/空焚き防止 水漏れ防止 オフィス/寝室用 アロマ機能 乾燥/花粉対策 白", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0F6SJJCPV", "item_name": "MagSafe 3in1 ワイヤレス充電器、iPhone Apple Watch Airpods 同時充電、Apple対応、Qi認証（MFM）、マグセーフ スタンド 磁力150mT Max（ケース装着時最適化で2.5mm越えても位置固定）、総出力20W（iPhone 15W/Airpods 5W/Apple Watch 3W）Max、半導体冷却板内蔵、寝室 オフィス向け TOPKYO ホワイト", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 488496.24, "t30d_units": 131.0}]}
+{
+  "970542866502": [
+    {
+      "asin": "B0G3QR5JFF",
+      "item_name": "3in1 超ミニ 第2世代 Qi 充電器，3折りたたみ超軽量 MagSafe対応ワイヤレス充電器 Apple専用，20W 急速【iPhone 15W·AirPods 5W·Apple Watch 3W を同時充電】，強化版半導体冷却板内蔵，スマホスタンドで空間を極限まで節約，150mT強磁気吸着置くだけ充電雲台，出張·旅行·オフィス·自宅用，贈り物に最適です，TO",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 269457.3,
+      "t30d_units": 66.0
+    },
+    {
+      "asin": "B0F2MN7R9B",
+      "item_name": "卓上加湿器 小型 超音波式 1.3L大容量 TOPKYO加湿器 2モード切替式デュアル噴射口（デュアル/左、右単孔）静音設計 湿度デジタル表示 ナイトライト2モード（暖光・ブルー微光・消灯） 自動停止/空焚き防止 水漏れ防止 オフィス/寝室用 アロマ機能 乾燥/花粉対策 白",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0F6SJJCPV",
+      "item_name": "MagSafe 3in1 ワイヤレス充電器、iPhone Apple Watch Airpods 同時充電、Apple対応、Qi認証（MFM）、マグセーフ スタンド 磁力150mT Max（ケース装着時最適化で2.5mm越えても位置固定）、総出力20W（iPhone 15W/Airpods 5W/Apple Watch 3W）Max、半導体冷却板内蔵、寝室 オフィス向け TOPKYO ホワイト",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 488496.24,
+      "t30d_units": 131.0
+    }
+  ]
+}

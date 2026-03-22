@@ -1,1 +1,31 @@
-{"16956985922": [{"asin": "B0DRTBHFN8", "item_name": "【中古整備品】デル デスクトップパソコン DE LL OptiPlex 3060 SFF/CPU 第8世代インテル Core i5 8500 (最大3.4GHz）/8GB/Windows11 Pro＆MS Office2019/USB3.0/DP/DVD/HDMI搭載/外付けWIFI付き (SSD512GB)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 464296.0, "t30d_units": 13.0}, {"asin": "B0DRTB13GR", "item_name": "【中古整備品】デル デスクトップパソコン DE LL OptiPlex 3060 SFF/CPU 第8世代インテル Core i5 8500 (最大3.4GHz /8GB/Windows11 Pro＆MS Office2019/USB3.0/DP/DVD/HDMI搭載/外付けWIFI付き (SSD256GB)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 101238.0, "t30d_units": 3.0}, {"asin": "B0DRT9XD33", "item_name": "【中古整備品】デル デスクトップパソコン DE LL OptiPlex 3060 SFF/CPU 第8世代インテル Core i5 8500 (最大3.4GHz/8GB/Windows11 Pro＆MS Office2019/USB3.0/DP/DVD/HDMI搭載/外付けWIFI付き (SSD1000GB)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 41220.0, "t30d_units": 1.0}]}
+{
+  "16956985922": [
+    {
+      "asin": "B0DRTBHFN8",
+      "item_name": "【中古整備品】デル デスクトップパソコン DE LL OptiPlex 3060 SFF/CPU 第8世代インテル Core i5 8500 (最大3.4GHz）/8GB/Windows11 Pro＆MS Office2019/USB3.0/DP/DVD/HDMI搭載/外付けWIFI付き (SSD512GB)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 464296.0,
+      "t30d_units": 13.0
+    },
+    {
+      "asin": "B0DRTB13GR",
+      "item_name": "【中古整備品】デル デスクトップパソコン DE LL OptiPlex 3060 SFF/CPU 第8世代インテル Core i5 8500 (最大3.4GHz /8GB/Windows11 Pro＆MS Office2019/USB3.0/DP/DVD/HDMI搭載/外付けWIFI付き (SSD256GB)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 101238.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0DRT9XD33",
+      "item_name": "【中古整備品】デル デスクトップパソコン DE LL OptiPlex 3060 SFF/CPU 第8世代インテル Core i5 8500 (最大3.4GHz/8GB/Windows11 Pro＆MS Office2019/USB3.0/DP/DVD/HDMI搭載/外付けWIFI付き (SSD1000GB)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 41220.0,
+      "t30d_units": 1.0
+    }
+  ]
+}

@@ -1,1 +1,22 @@
-{"1073066647202": [{"asin": "B0FVLW6PY8", "item_name": "Flomep【2026 年新型】アームバー エキスパンダー 筋トレ器具 3 段階強度調整 (30-60kg) ツイスターアームトレーナー 静音設計 ダブルスプリング コンパクト 自宅・上半身トレーニングに最適", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 405625.14, "t30d_units": 155.0}, {"asin": "B0GFT9PL8J", "item_name": "Flomep デジタル握力計 【最大180kg測定/19人登録可能】 高精度 握力測定器 トレーニング用/家庭/ジム/学校向け 日本語説明書付き (ブラック)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 187099.33, "t30d_units": 46.0}]}
+{
+  "1073066647202": [
+    {
+      "asin": "B0FVLW6PY8",
+      "item_name": "Flomep【2026 年新型】アームバー エキスパンダー 筋トレ器具 3 段階強度調整 (30-60kg) ツイスターアームトレーナー 静音設計 ダブルスプリング コンパクト 自宅・上半身トレーニングに最適",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 405625.14,
+      "t30d_units": 155.0
+    },
+    {
+      "asin": "B0GFT9PL8J",
+      "item_name": "Flomep デジタル握力計 【最大180kg測定/19人登録可能】 高精度 握力測定器 トレーニング用/家庭/ジム/学校向け 日本語説明書付き (ブラック)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 187099.33,
+      "t30d_units": 46.0
+    }
+  ]
+}

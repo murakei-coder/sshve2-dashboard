@@ -1,1 +1,67 @@
-{"854164532402": [{"asin": "B0G1YGR52Q", "item_name": "BWJBSW デジタルフォトフレームWiFi 7インチ 1024×600解像度 フォトフレームデジタル タッチスクリーン デジタルフレーム 32GB内蔵 64GB SDカード拡張可 デジタル写真立て 自動回転 遠隔転送 写真/動画/天気予報", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 98096.0, "t30d_units": 16.0}, {"asin": "B0G1YCD8Z3", "item_name": "【2025新型】BWJBSW デジタルフォトフレームWifi 10.1インチ木製 1280*800解像度 内蔵32GBデジタルフレーム タッチスクリーン 写真/動画再生 遠隔転送 リアルタイムに共有 SDカード/USBメモリ対応 デジタルアルバム設置簡単 壁掛けスタンド付き", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 10090.0, "t30d_units": 1.0}, {"asin": "B0DGPVBNM6", "item_name": "【2025新型】BWJBSW デジタルフォトフレーム 8インチ Wifi 1024*768解像度 32GB内蔵 デジタルアルバム タッチスクリーン 写真/動画再生 遠隔転送 リアルタイムに共有 SDカード/USBメモリ対応 フォトフレーム 設置簡単 スタンド付き 壁に取付け可能 黒い", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0FCLM7JL6", "item_name": "BWJBSW デジタルフォトフレームWiFi 10.1インチ 32GB内蔵 1280×800解像度 デジタルアルバム タッチスクリーン 64GB SDカード/Tpye-C USBメモリ拡張可 自動回転 遠隔転送 フォトフレーム写真/動画再生", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 32540.0, "t30d_units": 4.0}, {"asin": "B0GG9Z9R5C", "item_name": "【2025新型】BWJBSW デジタルフォトフレーム 10.1インチ 1280×800 WiFiなし デジタル写真立て リモコン付き 写真/動画再生 256 GB SDカード/USBメモリ対応 自動回転 取り外し可能な木製フレーム SDカードは別途購入が必要", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 179389.0, "t30d_units": 24.0}, {"asin": "B0F59RCG52", "item_name": "BWJBSW デジタルフォトフレームWiFi 10.1インチ 32GB内蔵 1280×800解像度 デジタル写真立て タッチスクリーン 64GB SDカード/Type-C USBメモリ拡張可 デジタルアルバム 自動回転 遠隔転送 フォトフレーム写真/動画再生", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0DQLKFKM6", "item_name": "BWJBSWタブレット10.95インチWi-Fiモデル4GB+128GB+1TB拡張 5MP +13MPデュアルカメラ タブレットpc 8000mAh PD18W＆Type-C充電 8コア 1200*1920 FHD1080p 5GWiFi/BT5.0/OTG tablet Android 14日本語説明書 ケース付き", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "854164532402": [
+    {
+      "asin": "B0G1YGR52Q",
+      "item_name": "BWJBSW デジタルフォトフレームWiFi 7インチ 1024×600解像度 フォトフレームデジタル タッチスクリーン デジタルフレーム 32GB内蔵 64GB SDカード拡張可 デジタル写真立て 自動回転 遠隔転送 写真/動画/天気予報",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 98096.0,
+      "t30d_units": 16.0
+    },
+    {
+      "asin": "B0G1YCD8Z3",
+      "item_name": "【2025新型】BWJBSW デジタルフォトフレームWifi 10.1インチ木製 1280*800解像度 内蔵32GBデジタルフレーム タッチスクリーン 写真/動画再生 遠隔転送 リアルタイムに共有 SDカード/USBメモリ対応 デジタルアルバム設置簡単 壁掛けスタンド付き",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 10090.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0DGPVBNM6",
+      "item_name": "【2025新型】BWJBSW デジタルフォトフレーム 8インチ Wifi 1024*768解像度 32GB内蔵 デジタルアルバム タッチスクリーン 写真/動画再生 遠隔転送 リアルタイムに共有 SDカード/USBメモリ対応 フォトフレーム 設置簡単 スタンド付き 壁に取付け可能 黒い",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0FCLM7JL6",
+      "item_name": "BWJBSW デジタルフォトフレームWiFi 10.1インチ 32GB内蔵 1280×800解像度 デジタルアルバム タッチスクリーン 64GB SDカード/Tpye-C USBメモリ拡張可 自動回転 遠隔転送 フォトフレーム写真/動画再生",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 32540.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0GG9Z9R5C",
+      "item_name": "【2025新型】BWJBSW デジタルフォトフレーム 10.1インチ 1280×800 WiFiなし デジタル写真立て リモコン付き 写真/動画再生 256 GB SDカード/USBメモリ対応 自動回転 取り外し可能な木製フレーム SDカードは別途購入が必要",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 179389.0,
+      "t30d_units": 24.0
+    },
+    {
+      "asin": "B0F59RCG52",
+      "item_name": "BWJBSW デジタルフォトフレームWiFi 10.1インチ 32GB内蔵 1280×800解像度 デジタル写真立て タッチスクリーン 64GB SDカード/Type-C USBメモリ拡張可 デジタルアルバム 自動回転 遠隔転送 フォトフレーム写真/動画再生",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0DQLKFKM6",
+      "item_name": "BWJBSWタブレット10.95インチWi-Fiモデル4GB+128GB+1TB拡張 5MP +13MPデュアルカメラ タブレットpc 8000mAh PD18W＆Type-C充電 8コア 1200*1920 FHD1080p 5GWiFi/BT5.0/OTG tablet Android 14日本語説明書 ケース付き",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

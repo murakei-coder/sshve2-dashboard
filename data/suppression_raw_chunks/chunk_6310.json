@@ -1,1 +1,22 @@
-{"33486513022": [{"asin": "B08XWXVK61", "item_name": "シングルレバーカートリッジ 水栓カートリッジ レバーカートリッジ シングルレバー用カートリッジ 蛇口カートリッジバルブ 蛇口バルブタップ 水漏れ 補修用(35mm)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 78643.45, "t30d_units": 79.0}, {"asin": "B0B8MRDCLF", "item_name": "電源コンバータ DCDC コンバーター 電圧コンバーター DC-DC USB電源コンバータ 12V/24V to 5V コンバーター 12V/24V To 5V 電源アダプタ DC降圧レギュレータ 12V/24V to 5V 変換モジュール", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 42841.0, "t30d_units": 43.0}]}
+{
+  "33486513022": [
+    {
+      "asin": "B08XWXVK61",
+      "item_name": "シングルレバーカートリッジ 水栓カートリッジ レバーカートリッジ シングルレバー用カートリッジ 蛇口カートリッジバルブ 蛇口バルブタップ 水漏れ 補修用(35mm)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 78643.45,
+      "t30d_units": 79.0
+    },
+    {
+      "asin": "B0B8MRDCLF",
+      "item_name": "電源コンバータ DCDC コンバーター 電圧コンバーター DC-DC USB電源コンバータ 12V/24V to 5V コンバーター 12V/24V To 5V 電源アダプタ DC降圧レギュレータ 12V/24V to 5V 変換モジュール",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 42841.0,
+      "t30d_units": 43.0
+    }
+  ]
+}

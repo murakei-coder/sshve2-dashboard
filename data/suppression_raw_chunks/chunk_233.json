@@ -1,1 +1,49 @@
-{"659599645": [{"asin": "B09R8XM394", "item_name": "お米のムース 学校給食 デザート 釜庄オリジナルセット (5個入×6パック計30ヶ)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 35770.0, "t30d_units": 7.0}, {"asin": "B0046MDCZ8", "item_name": "釜庄 数の子 松前漬け 数の子コロコロ 500g×1パック", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B09R8VJHBL", "item_name": "なつかしの味 学校給食 お米のムース 20個 ( 5個入 4パック ) 釜庄　オリジナルセット スイーツ 洋菓子 ギフト 詰合せ お菓子 プチギフト プレゼント お祝い 誕生日 子供会", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 191011.5, "t30d_units": 52.0}, {"asin": "B07H7JN5GT", "item_name": "釜庄 数の子 松前漬け 数の子コロコロ 500g×2パック・計1kg", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B07H7H9HYW", "item_name": "釜庄 数の子 松前漬け 数の子コロコロ 500g×4パック 計2kg", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "659599645": [
+    {
+      "asin": "B09R8XM394",
+      "item_name": "お米のムース 学校給食 デザート 釜庄オリジナルセット (5個入×6パック計30ヶ)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 35770.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0046MDCZ8",
+      "item_name": "釜庄 数の子 松前漬け 数の子コロコロ 500g×1パック",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B09R8VJHBL",
+      "item_name": "なつかしの味 学校給食 お米のムース 20個 ( 5個入 4パック ) 釜庄　オリジナルセット スイーツ 洋菓子 ギフト 詰合せ お菓子 プチギフト プレゼント お祝い 誕生日 子供会",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 191011.5,
+      "t30d_units": 52.0
+    },
+    {
+      "asin": "B07H7JN5GT",
+      "item_name": "釜庄 数の子 松前漬け 数の子コロコロ 500g×2パック・計1kg",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B07H7H9HYW",
+      "item_name": "釜庄 数の子 松前漬け 数の子コロコロ 500g×4パック 計2kg",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"9286215955": [{"asin": "B01IXCLS7U", "item_name": "【新機種発売】DBPOWER ポータブルDVDプレーヤー 7.5インチ 5時間連続再生 車載 リージョンフリー CPRM対応 TV同期可能 SD/MS/MMCカード/USB対応可能 3系統給電式 海外の電圧OK リモコン付き レッド", "suppression_reason": "nan", "suppression_category": "5.Others", "pf": "Total CE", "t30d_ops": 286459.5, "t30d_units": 46.0}, {"asin": "B09BCSSB6B", "item_name": "DBPOWER ポータブルDVDプレーヤー 12.5型 【車載用ホルダー付き】 10.5インチ液晶画面 高耐久性 大容量充電式バッテリー 5時間長時間再生 軽量 車載携帯式 リージョンフリー CPRM対応 レジューム機能 リージョンフリー TVと同期可能 CD/SD/MS/MMCカード USBに対応 3電源対応 リモコン (ブラック)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 200533.05, "t30d_units": 22.0}, {"asin": "B07G9XGK2Y", "item_name": "DBPOWER ポータブルDVDプレーヤー 12.5型 車載用ホルダー付き 10.5インチ液晶 車載DVDプレーヤー 最大5時間再生 レジューム機能 リージョンフリー SD/USB多端子対応 海外の電圧OK (red)", "suppression_reason": "nan", "suppression_category": "5.Others", "pf": "Total CE", "t30d_ops": 385992.21, "t30d_units": 49.0}]}
+{
+  "9286215955": [
+    {
+      "asin": "B01IXCLS7U",
+      "item_name": "【新機種発売】DBPOWER ポータブルDVDプレーヤー 7.5インチ 5時間連続再生 車載 リージョンフリー CPRM対応 TV同期可能 SD/MS/MMCカード/USB対応可能 3系統給電式 海外の電圧OK リモコン付き レッド",
+      "suppression_reason": "nan",
+      "suppression_category": "5.Others",
+      "pf": "Total CE",
+      "t30d_ops": 286459.5,
+      "t30d_units": 46.0
+    },
+    {
+      "asin": "B09BCSSB6B",
+      "item_name": "DBPOWER ポータブルDVDプレーヤー 12.5型 【車載用ホルダー付き】 10.5インチ液晶画面 高耐久性 大容量充電式バッテリー 5時間長時間再生 軽量 車載携帯式 リージョンフリー CPRM対応 レジューム機能 リージョンフリー TVと同期可能 CD/SD/MS/MMCカード USBに対応 3電源対応 リモコン (ブラック)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 200533.05,
+      "t30d_units": 22.0
+    },
+    {
+      "asin": "B07G9XGK2Y",
+      "item_name": "DBPOWER ポータブルDVDプレーヤー 12.5型 車載用ホルダー付き 10.5インチ液晶 車載DVDプレーヤー 最大5時間再生 レジューム機能 リージョンフリー SD/USB多端子対応 海外の電圧OK (red)",
+      "suppression_reason": "nan",
+      "suppression_category": "5.Others",
+      "pf": "Total CE",
+      "t30d_ops": 385992.21,
+      "t30d_units": 49.0
+    }
+  ]
+}

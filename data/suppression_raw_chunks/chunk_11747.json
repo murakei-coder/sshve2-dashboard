@@ -1,1 +1,67 @@
-{"700801203502": [{"asin": "B0D5HLB1ZZ", "item_name": "Lightn-ing 有線LANアダプター ライト-ニング イーサネット 変換アダプタ10/100Mbps 高速 RJ45 ネットワークケーブル 充電ポート付き 給電不要 0.5m ケーブル i-Phone/i-Pad専用", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 238879.14, "t30d_units": 133.0}, {"asin": "B0D477FKHP", "item_name": "usb-c lightning イヤホン変換アダプター 60W PD急速充電/通話可能/音楽 USB Type C to ライトニング オーディオ 変換ケーブル データ転送 タイプ C to ライトニング 変換コネクター iPhone 15シリーズ/iPhone 16シリーズ/iPad Air/iPad Pro/MacBook/Samsung/Xperiaなど対応", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 12516.33, "t30d_units": 8.0}, {"asin": "B0DGLS5DTH", "item_name": "MFi認証 Lightn-ing HDMI 変換アダプタ i-Phone HDMI 変換ケーブル 給電不要 1080P ライト-ニング digital av アダプタ TV大画面 テレビ接続 デジタル AV アダプターiOS対応 iPhone/iPad専用 ホワイト（最新のiOSに対応）", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 282120.68, "t30d_units": 156.0}, {"asin": "B0FPG21K2R", "item_name": "iPhone17 iPhone16 充電器 type-c 20W PD 急速充電器 タイプc 充電器 [MFi/PSE認証済み] 2M USB C-C 充電ケーブル付き たいぷしー チャージャー アイフォン 充電 器 高耐久 断線防止 iPhone 17/16/15/Pro Max/iPad Pro その他usb-c機器対応", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 19420.33, "t30d_units": 15.0}, {"asin": "B0F65ML7NP", "item_name": "iPhone 充電器 20W PD 急速充電 [MFi/PSE認証済み] 2m USB C - Lightning ケーブル 付き AC式充電器 USB Type C スマホ 電源アダプター タイプC アイフォン 高耐久 断線防止 iPhone/iPad その他USB-C機器対応", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 40610.99, "t30d_units": 28.0}, {"asin": "B0DGLCJTYQ", "item_name": "Lightn-ing to HDMI/Audio/VGA 変換アダプタ HD 1080P Lightn-ing Digital AV アダプタ ライト-ニング HDMI 変換ケーブル 3 in 1 APP不要/大画面 アイフォン アイパッド hdmi 変換 ケーブル iPhone/iPad専用 IOS対応", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 30826.0, "t30d_units": 10.0}, {"asin": "B0FPM6STX1", "item_name": "USB-C LAN USB Type-C 有線LANアダプター 充電同時 タイプC イーサネット 100Mbps USB C TO RJ45 iPhone15/16/17/iPad Pro/MacBook Pro/MacBook Air/Samsung/等Type Cデバイスに対応", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 151313.15, "t30d_units": 98.0}]}
+{
+  "700801203502": [
+    {
+      "asin": "B0D5HLB1ZZ",
+      "item_name": "Lightn-ing 有線LANアダプター ライト-ニング イーサネット 変換アダプタ10/100Mbps 高速 RJ45 ネットワークケーブル 充電ポート付き 給電不要 0.5m ケーブル i-Phone/i-Pad専用",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 238879.14,
+      "t30d_units": 133.0
+    },
+    {
+      "asin": "B0D477FKHP",
+      "item_name": "usb-c lightning イヤホン変換アダプター 60W PD急速充電/通話可能/音楽 USB Type C to ライトニング オーディオ 変換ケーブル データ転送 タイプ C to ライトニング 変換コネクター iPhone 15シリーズ/iPhone 16シリーズ/iPad Air/iPad Pro/MacBook/Samsung/Xperiaなど対応",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 12516.33,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B0DGLS5DTH",
+      "item_name": "MFi認証 Lightn-ing HDMI 変換アダプタ i-Phone HDMI 変換ケーブル 給電不要 1080P ライト-ニング digital av アダプタ TV大画面 テレビ接続 デジタル AV アダプターiOS対応 iPhone/iPad専用 ホワイト（最新のiOSに対応）",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 282120.68,
+      "t30d_units": 156.0
+    },
+    {
+      "asin": "B0FPG21K2R",
+      "item_name": "iPhone17 iPhone16 充電器 type-c 20W PD 急速充電器 タイプc 充電器 [MFi/PSE認証済み] 2M USB C-C 充電ケーブル付き たいぷしー チャージャー アイフォン 充電 器 高耐久 断線防止 iPhone 17/16/15/Pro Max/iPad Pro その他usb-c機器対応",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 19420.33,
+      "t30d_units": 15.0
+    },
+    {
+      "asin": "B0F65ML7NP",
+      "item_name": "iPhone 充電器 20W PD 急速充電 [MFi/PSE認証済み] 2m USB C - Lightning ケーブル 付き AC式充電器 USB Type C スマホ 電源アダプター タイプC アイフォン 高耐久 断線防止 iPhone/iPad その他USB-C機器対応",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 40610.99,
+      "t30d_units": 28.0
+    },
+    {
+      "asin": "B0DGLCJTYQ",
+      "item_name": "Lightn-ing to HDMI/Audio/VGA 変換アダプタ HD 1080P Lightn-ing Digital AV アダプタ ライト-ニング HDMI 変換ケーブル 3 in 1 APP不要/大画面 アイフォン アイパッド hdmi 変換 ケーブル iPhone/iPad専用 IOS対応",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 30826.0,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B0FPM6STX1",
+      "item_name": "USB-C LAN USB Type-C 有線LANアダプター 充電同時 タイプC イーサネット 100Mbps USB C TO RJ45 iPhone15/16/17/iPad Pro/MacBook Pro/MacBook Air/Samsung/等Type Cデバイスに対応",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 151313.15,
+      "t30d_units": 98.0
+    }
+  ]
+}

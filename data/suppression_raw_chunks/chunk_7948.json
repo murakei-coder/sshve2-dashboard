@@ -1,1 +1,76 @@
-{"57372086722": [{"asin": "B0BBM4D4D1", "item_name": "せのばす セノバス SENOBAS 子供 カルシウム ボーンペップ ビタミン アルギニン スポーツ サプリ 栄養 日本製 GMP認定工場 自然堂 30日分 60粒 ラムネ味 (お試し単品)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 515857.54, "t30d_units": 224.0}, {"asin": "B0BBLXLPSK", "item_name": "せのばす SENOBAS 子供 スポーツ サプリ カルシウム ビタミン ボーンペップ アルギニン 栄養 日本製 60粒 ラムネ", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0BBLYRJD1", "item_name": "せのばす SENOBAS 子供 スポーツ サプリ カルシウム ビタミン ボーンペップ アルギニン 栄養 日本製 60粒 ラムネ (せのばす 90日分(3ヶ月))", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 93072.0, "t30d_units": 15.0}, {"asin": "B08737SBL5", "item_name": "グンっとアップ 子供 DHA ホスファチジルセリン GABA スピルリナ HMB カルシウム イチョウ葉エキス ビタミンC ビタミンE 成長 勉強 スポーツ 学習サポート サプリ 日本製 GMP認定工場 自然堂 30日分 60粒 ブドウ味 (お試し単品)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": -6388.0, "t30d_units": -3.0}, {"asin": "B0BBLYK2JN", "item_name": "せのばす SENOBAS 子供 スポーツ サプリ カルシウム ビタミン ボーンペップ アルギニン 栄養 日本製 60粒 ラムネ (せのばす 150日分(5ヶ月))", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0BBLX9FS3", "item_name": "せのばす SENOBAS 子供 スポーツ サプリ カルシウム ビタミン ボーンペップ アルギニン 栄養 日本製 60粒 ラムネ (せのばす 120日分(4ヶ月))", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0BBLY552V", "item_name": "せのばす SENOBAS 子供 スポーツ サプリ カルシウム ビタミン ボーンペップ アルギニン 栄養 日本製 60粒 ラムネ (せのばす 60日分(2ヶ月))", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 47751.0, "t30d_units": 11.0}, {"asin": "B0BBLZGYQ3", "item_name": "せのばす SENOBAS 子供 スポーツ サプリ カルシウム ビタミン ボーンペップ アルギニン 栄養 日本製 60粒 ラムネ (せのばす 180日分(6ヶ月))", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 63458.0, "t30d_units": 6.0}]}
+{
+  "57372086722": [
+    {
+      "asin": "B0BBM4D4D1",
+      "item_name": "せのばす セノバス SENOBAS 子供 カルシウム ボーンペップ ビタミン アルギニン スポーツ サプリ 栄養 日本製 GMP認定工場 自然堂 30日分 60粒 ラムネ味 (お試し単品)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 515857.54,
+      "t30d_units": 224.0
+    },
+    {
+      "asin": "B0BBLXLPSK",
+      "item_name": "せのばす SENOBAS 子供 スポーツ サプリ カルシウム ビタミン ボーンペップ アルギニン 栄養 日本製 60粒 ラムネ",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0BBLYRJD1",
+      "item_name": "せのばす SENOBAS 子供 スポーツ サプリ カルシウム ビタミン ボーンペップ アルギニン 栄養 日本製 60粒 ラムネ (せのばす 90日分(3ヶ月))",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 93072.0,
+      "t30d_units": 15.0
+    },
+    {
+      "asin": "B08737SBL5",
+      "item_name": "グンっとアップ 子供 DHA ホスファチジルセリン GABA スピルリナ HMB カルシウム イチョウ葉エキス ビタミンC ビタミンE 成長 勉強 スポーツ 学習サポート サプリ 日本製 GMP認定工場 自然堂 30日分 60粒 ブドウ味 (お試し単品)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": -6388.0,
+      "t30d_units": -3.0
+    },
+    {
+      "asin": "B0BBLYK2JN",
+      "item_name": "せのばす SENOBAS 子供 スポーツ サプリ カルシウム ビタミン ボーンペップ アルギニン 栄養 日本製 60粒 ラムネ (せのばす 150日分(5ヶ月))",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0BBLX9FS3",
+      "item_name": "せのばす SENOBAS 子供 スポーツ サプリ カルシウム ビタミン ボーンペップ アルギニン 栄養 日本製 60粒 ラムネ (せのばす 120日分(4ヶ月))",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0BBLY552V",
+      "item_name": "せのばす SENOBAS 子供 スポーツ サプリ カルシウム ビタミン ボーンペップ アルギニン 栄養 日本製 60粒 ラムネ (せのばす 60日分(2ヶ月))",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 47751.0,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0BBLZGYQ3",
+      "item_name": "せのばす SENOBAS 子供 スポーツ サプリ カルシウム ビタミン ボーンペップ アルギニン 栄養 日本製 60粒 ラムネ (せのばす 180日分(6ヶ月))",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 63458.0,
+      "t30d_units": 6.0
+    }
+  ]
+}

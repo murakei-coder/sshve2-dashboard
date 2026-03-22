@@ -1,1 +1,31 @@
-{"6029114122": [{"asin": "B0DLKKXYGY", "item_name": "AGALP アガルプ 育毛剤 男性用 薬用 医薬部外品 無添加 48.5mlｘ3本 90日分", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 8045.0, "t30d_units": 1.0}, {"asin": "B0DLKL241S", "item_name": "AGALP アガルプ 育毛剤 男性用 薬用 医薬部外品 無添加 48.5mlｘ2本 60日分", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 6040.22, "t30d_units": 1.0}, {"asin": "B0DLGV3DXX", "item_name": "AGALP アガルプ 育毛剤 男性用 薬用 医薬部外品 無添加 48.5mlｘ1本 30日分", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 44922.66, "t30d_units": 14.0}]}
+{
+  "6029114122": [
+    {
+      "asin": "B0DLKKXYGY",
+      "item_name": "AGALP アガルプ 育毛剤 男性用 薬用 医薬部外品 無添加 48.5mlｘ3本 90日分",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 8045.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0DLKL241S",
+      "item_name": "AGALP アガルプ 育毛剤 男性用 薬用 医薬部外品 無添加 48.5mlｘ2本 60日分",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 6040.22,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0DLGV3DXX",
+      "item_name": "AGALP アガルプ 育毛剤 男性用 薬用 医薬部外品 無添加 48.5mlｘ1本 30日分",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 44922.66,
+      "t30d_units": 14.0
+    }
+  ]
+}

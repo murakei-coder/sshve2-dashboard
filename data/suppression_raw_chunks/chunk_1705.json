@@ -1,1 +1,31 @@
-{"5560555222": [{"asin": "B08JYC682Y", "item_name": "lingyue コードレススプレーガン本体のみ マキタ 18V バッテリー専用 BL1830 BL1840 BL1850B BL1860B バッテリー対応 本体のみ", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 2168930.99, "t30d_units": 245.0}, {"asin": "B0D1VFSCFP", "item_name": "lingyue コードレススプレーガン 電動スプレーガン ペンキ屋くん 家庭用塗装ガン 3000mAhバッテリー1枚付属 18Vバッテリー対応 3つの銅ノズル 大容量800mlタンク付 3つの噴霧方法 【水平 垂直 丸型噴霧】 水性、油性、ラテックス塗料に適している DIY（PSE認証済み）…", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 335871.0, "t30d_units": 26.0}, {"asin": "B08RB3PZ62", "item_name": "家庭用塗装ガン本体のみ マキタ18Vバッテリー対応 　【本体のみ・バッテリー・充電器別売 】 コードレススプレーガン 、椅子、フェンス、室内壁、工芸品、橋などの塗装", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 9980.0, "t30d_units": 1.0}]}
+{
+  "5560555222": [
+    {
+      "asin": "B08JYC682Y",
+      "item_name": "lingyue コードレススプレーガン本体のみ マキタ 18V バッテリー専用 BL1830 BL1840 BL1850B BL1860B バッテリー対応 本体のみ",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 2168930.99,
+      "t30d_units": 245.0
+    },
+    {
+      "asin": "B0D1VFSCFP",
+      "item_name": "lingyue コードレススプレーガン 電動スプレーガン ペンキ屋くん 家庭用塗装ガン 3000mAhバッテリー1枚付属 18Vバッテリー対応 3つの銅ノズル 大容量800mlタンク付 3つの噴霧方法 【水平 垂直 丸型噴霧】 水性、油性、ラテックス塗料に適している DIY（PSE認証済み）…",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 335871.0,
+      "t30d_units": 26.0
+    },
+    {
+      "asin": "B08RB3PZ62",
+      "item_name": "家庭用塗装ガン本体のみ マキタ18Vバッテリー対応 　【本体のみ・バッテリー・充電器別売 】 コードレススプレーガン 、椅子、フェンス、室内壁、工芸品、橋などの塗装",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 9980.0,
+      "t30d_units": 1.0
+    }
+  ]
+}

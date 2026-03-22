@@ -1,1 +1,76 @@
-{"1100747793602": [{"asin": "B0GFN3FYMF", "item_name": "フェヤチ 5種の交換可能なピカティニーレールアダプター付きかつ複数モデルに適合したIPX7防水性能のある1500ルーメンのレール取り付け型タクティカルライト フラッシュライト ピストルライト", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "L&L", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0GFWNCPF9", "item_name": "フェヤチ 狩猟と屋外活動向けUSB-C充電機能とIPX7防水性能のある4モード（ウルトラ/高/低/ストロボ）式の焦点が調節可能な圧力スイッチ付き2000ルーメン充電式タクティカルライト", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "L&L", "t30d_ops": 1400.0, "t30d_units": 2.0}, {"asin": "B0GFCGGWQW", "item_name": "フェヤチ HL-20ピストルライト 1500ルーメン アップグレードLEDウェポンライト コンパクト レール取り付け型 拳銃 タクティカルフラッシュライト レールロケーティングキー ピカティニーレール用, サンドカラー", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 31689.33, "t30d_units": 6.0}, {"asin": "B0FJL5J7Z3", "item_name": "フェヤチ 1500ルーメン LEDタクティカルフラッシュライト 充電式 IPX7保護性能 4モード ウェポンライト ピカティニーレールフラッシュライト プレッシャースイッチ付き", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 6209.0, "t30d_units": 1.0}, {"asin": "B0FJLDD8XQ", "item_name": "フェヤチ WL25 高輝度1200ルーメン タクティカルARフラッシュライト プレッシャースイッチ&固定ピカティニーレールマウント付きLEDライト, 3モード - 高/低/ストロボ", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0FJLKV2CB", "item_name": "フェヤチ HL-20ピストルライト 1500ルーメン アップグレードLEDウェポンライト コンパクト レール取り付け型 拳銃 タクティカルフラッシュライト レールロケーティングキー ピカティニーレール用, ブラック", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 212154.0, "t30d_units": 40.0}, {"asin": "B0GFW36WPP", "item_name": "フェヤチ 圧力スイッチとピカティニーマウントが付属した焦点が調節可能な4モード（ウルトラ/高/低/ストロボ）式かつIPX7防水のUSB-C対応2000ルーメン充電式フラッシュライト タクティカルライト", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "L&L", "t30d_ops": 1400.0, "t30d_units": 2.0}, {"asin": "B0GFMN48NL", "item_name": "フェヤチ 5種の交換可能なピカティニーレールアダプター付きかつ複数モデルに適合したIPX7防水性能のある1500ルーメンのレール取り付け型タクティカルライト フラッシュライト ピストルライト", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "L&L", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "1100747793602": [
+    {
+      "asin": "B0GFN3FYMF",
+      "item_name": "フェヤチ 5種の交換可能なピカティニーレールアダプター付きかつ複数モデルに適合したIPX7防水性能のある1500ルーメンのレール取り付け型タクティカルライト フラッシュライト ピストルライト",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "L&L",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0GFWNCPF9",
+      "item_name": "フェヤチ 狩猟と屋外活動向けUSB-C充電機能とIPX7防水性能のある4モード（ウルトラ/高/低/ストロボ）式の焦点が調節可能な圧力スイッチ付き2000ルーメン充電式タクティカルライト",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "L&L",
+      "t30d_ops": 1400.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0GFCGGWQW",
+      "item_name": "フェヤチ HL-20ピストルライト 1500ルーメン アップグレードLEDウェポンライト コンパクト レール取り付け型 拳銃 タクティカルフラッシュライト レールロケーティングキー ピカティニーレール用, サンドカラー",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 31689.33,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0FJL5J7Z3",
+      "item_name": "フェヤチ 1500ルーメン LEDタクティカルフラッシュライト 充電式 IPX7保護性能 4モード ウェポンライト ピカティニーレールフラッシュライト プレッシャースイッチ付き",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 6209.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0FJLDD8XQ",
+      "item_name": "フェヤチ WL25 高輝度1200ルーメン タクティカルARフラッシュライト プレッシャースイッチ&固定ピカティニーレールマウント付きLEDライト, 3モード - 高/低/ストロボ",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0FJLKV2CB",
+      "item_name": "フェヤチ HL-20ピストルライト 1500ルーメン アップグレードLEDウェポンライト コンパクト レール取り付け型 拳銃 タクティカルフラッシュライト レールロケーティングキー ピカティニーレール用, ブラック",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 212154.0,
+      "t30d_units": 40.0
+    },
+    {
+      "asin": "B0GFW36WPP",
+      "item_name": "フェヤチ 圧力スイッチとピカティニーマウントが付属した焦点が調節可能な4モード（ウルトラ/高/低/ストロボ）式かつIPX7防水のUSB-C対応2000ルーメン充電式フラッシュライト タクティカルライト",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "L&L",
+      "t30d_ops": 1400.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0GFMN48NL",
+      "item_name": "フェヤチ 5種の交換可能なピカティニーレールアダプター付きかつ複数モデルに適合したIPX7防水性能のある1500ルーメンのレール取り付け型タクティカルライト フラッシュライト ピストルライト",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "L&L",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

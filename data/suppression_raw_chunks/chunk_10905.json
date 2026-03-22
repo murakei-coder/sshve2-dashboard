@@ -1,1 +1,22 @@
-{"588094830402": [{"asin": "B0D91WXS3G", "item_name": "【 PIVOTS 】 ピボッツ メンズ用モテ香水 [ オスモフェロモンでモテる男に/ムスク と シトラス 香る ] フェロモン 媚薬香水 オードパルファム オードパルファン 30ml 単品", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 7960.0, "t30d_units": 1.0}, {"asin": "B0FPVRHMYX", "item_name": "[ PIVOTS ] ソリッドパフューム 練り香水 フェロモン成分配合 男性用 [ 紳士のモテ香水 さりげない色気/フルーティ フローラル/ボディコロン バーム ] メンズ香水 ピボッツ", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 76305.0, "t30d_units": 22.0}]}
+{
+  "588094830402": [
+    {
+      "asin": "B0D91WXS3G",
+      "item_name": "【 PIVOTS 】 ピボッツ メンズ用モテ香水 [ オスモフェロモンでモテる男に/ムスク と シトラス 香る ] フェロモン 媚薬香水 オードパルファム オードパルファン 30ml 単品",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 7960.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0FPVRHMYX",
+      "item_name": "[ PIVOTS ] ソリッドパフューム 練り香水 フェロモン成分配合 男性用 [ 紳士のモテ香水 さりげない色気/フルーティ フローラル/ボディコロン バーム ] メンズ香水 ピボッツ",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 76305.0,
+      "t30d_units": 22.0
+    }
+  ]
+}

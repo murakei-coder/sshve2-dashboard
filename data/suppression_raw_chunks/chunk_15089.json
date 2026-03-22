@@ -1,1 +1,22 @@
-{"1070123318102": [{"asin": "B0FD3XS7GP", "item_name": "【公式】|【1690年創業】海苔 せんべい 個包装 ギフト おやつ 和菓子 手土産 内祝い 贈り物 山本山 のり せんべい 梅風味詰合せ 箱入り10枚×3個セット", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 310709.33, "t30d_units": 65.0}, {"asin": "B0F5HPCM8X", "item_name": "【公式】|【1690年創業】海苔 せんべい 個包装 ギフト おやつ 和菓子 手土産 内祝い 贈り物 [山本山 のりせんべい 詰合わせ 箱入り10枚×3個セット]", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 179757.99, "t30d_units": 41.0}]}
+{
+  "1070123318102": [
+    {
+      "asin": "B0FD3XS7GP",
+      "item_name": "【公式】|【1690年創業】海苔 せんべい 個包装 ギフト おやつ 和菓子 手土産 内祝い 贈り物 山本山 のり せんべい 梅風味詰合せ 箱入り10枚×3個セット",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 310709.33,
+      "t30d_units": 65.0
+    },
+    {
+      "asin": "B0F5HPCM8X",
+      "item_name": "【公式】|【1690年創業】海苔 せんべい 個包装 ギフト おやつ 和菓子 手土産 内祝い 贈り物 [山本山 のりせんべい 詰合わせ 箱入り10枚×3個セット]",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 179757.99,
+      "t30d_units": 41.0
+    }
+  ]
+}

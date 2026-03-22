@@ -1,1 +1,31 @@
-{"794204423802": [{"asin": "B0CYXZYMGC", "item_name": "ソニー KOOV 子供/小学生 向け 電子 工作キット [ 楽しく 組み立て 、 プログラミング ロボット 工学 が 学べる 知育 玩具/おもちゃ ] 教育 ギフト 入学祝いに 人気 (ベーシックキット2)", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 282564.66, "t30d_units": 12.0}, {"asin": "B0CYGR6XLV", "item_name": "ソニー KOOV プログラミングロボット キット 小学生 子供 おもちゃ [ 楽しく 組み立て 、コーディング プログラミング ロボット 工学 が学べる 知育玩具] STEAM教育 ギフト プレゼント にも (エントリーキット)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 117067.0, "t30d_units": 8.0}, {"asin": "B0CYXZRQ8J", "item_name": "ソニー KOOV 子供/小学生 向け 電子 工作キット [ 楽しく 組み立て 、 プログラミング ロボット 工学 が 学べる 知育 玩具/おもちゃ ] 教育 ギフト 入学祝いに 人気 (アドバンスキット)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 180927.0, "t30d_units": 3.0}]}
+{
+  "794204423802": [
+    {
+      "asin": "B0CYXZYMGC",
+      "item_name": "ソニー KOOV 子供/小学生 向け 電子 工作キット [ 楽しく 組み立て 、 プログラミング ロボット 工学 が 学べる 知育 玩具/おもちゃ ] 教育 ギフト 入学祝いに 人気 (ベーシックキット2)",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 282564.66,
+      "t30d_units": 12.0
+    },
+    {
+      "asin": "B0CYGR6XLV",
+      "item_name": "ソニー KOOV プログラミングロボット キット 小学生 子供 おもちゃ [ 楽しく 組み立て 、コーディング プログラミング ロボット 工学 が学べる 知育玩具] STEAM教育 ギフト プレゼント にも (エントリーキット)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 117067.0,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B0CYXZRQ8J",
+      "item_name": "ソニー KOOV 子供/小学生 向け 電子 工作キット [ 楽しく 組み立て 、 プログラミング ロボット 工学 が 学べる 知育 玩具/おもちゃ ] 教育 ギフト 入学祝いに 人気 (アドバンスキット)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 180927.0,
+      "t30d_units": 3.0
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"626466458002": [{"asin": "B0G46TLB9Z", "item_name": "【一年保証】4Kアクションカメラ ウェアラブルカメラ Vlogビデオカメラ ボディカメラ6軸 手ブレ補正 1.69インチタッチモニター 回転レンズ 160度広角小型 WiFi スマホ連携 バッテリー寿命5時間 縮時撮影 早い動きの撮影 循環録画 夜間録画 写真連写 タイマー撮影 軽量 Vlog 旅行 アウトドア 会議商談 授", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1094185.33, "t30d_units": 73.0}, {"asin": "B0DXDR12WH", "item_name": "隠しカメラ スパイカメラ 小型カメラ 1080P ACアダプター 超軽型カメラ 128GB対応 長時間録画 64GB SDカード付き防犯カメラ 日本語取扱付き", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 10598.0, "t30d_units": 2.0}, {"asin": "B0FXDNFHS7", "item_name": "PONAOO 小型カメラ 防犯カメラ 4K 充電式 監視カメラ 暗視機能 長時間録画録音 130°広角 暗視カメラ WIFIカメラ ペットカメラ 日本語取扱付き", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 13944.0, "t30d_units": 3.0}]}
+{
+  "626466458002": [
+    {
+      "asin": "B0G46TLB9Z",
+      "item_name": "【一年保証】4Kアクションカメラ ウェアラブルカメラ Vlogビデオカメラ ボディカメラ6軸 手ブレ補正 1.69インチタッチモニター 回転レンズ 160度広角小型 WiFi スマホ連携 バッテリー寿命5時間 縮時撮影 早い動きの撮影 循環録画 夜間録画 写真連写 タイマー撮影 軽量 Vlog 旅行 アウトドア 会議商談 授",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1094185.33,
+      "t30d_units": 73.0
+    },
+    {
+      "asin": "B0DXDR12WH",
+      "item_name": "隠しカメラ スパイカメラ 小型カメラ 1080P ACアダプター 超軽型カメラ 128GB対応 長時間録画 64GB SDカード付き防犯カメラ 日本語取扱付き",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 10598.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0FXDNFHS7",
+      "item_name": "PONAOO 小型カメラ 防犯カメラ 4K 充電式 監視カメラ 暗視機能 長時間録画録音 130°広角 暗視カメラ WIFIカメラ ペットカメラ 日本語取扱付き",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 13944.0,
+      "t30d_units": 3.0
+    }
+  ]
+}

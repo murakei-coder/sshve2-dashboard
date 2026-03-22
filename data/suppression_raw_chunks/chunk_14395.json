@@ -1,1 +1,31 @@
-{"984935462402": [{"asin": "B0F2MPCC2G", "item_name": "ひげそり 電動シェーバー メンズ シェーバー【4枚刃+乾湿両用+ロック機能】電気シェーバー 髭剃り 深剃り Type-c充電 LEDディスプレイ 残量表示 カミソリ 水洗い 男性用 持ち運び便利 出張/旅行 プレゼント", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 58852.0, "t30d_units": 18.0}, {"asin": "B0F6B59S3F", "item_name": "シェーバー メンズ 小型 電気シェーバー 6枚刃 回転式 電動シェーバー 乾湿両用 ひげ剃り Type-C充電式 マグネットキャップ カミソリ 低騒音 深剃り 電動髭剃り 水洗い 肌にやさしい 軽量 携帯便利 出張・旅行用 父の日 プレゼント (マットネイビー)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 55881.4, "t30d_units": 37.0}, {"asin": "B0F6BKBPPB", "item_name": "シェーバー メンズ 小型 電気シェーバー 6枚刃 回転式 電動シェーバー 乾湿両用 ひげ剃り Type-C充電式 マグネットキャップ カミソリ 低騒音 深剃り 電動髭剃り 水洗い 肌にやさしい 軽量 携帯便利 出張・旅行用 父の日 プレゼント (メタリックシルバー)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 30433.46, "t30d_units": 20.0}]}
+{
+  "984935462402": [
+    {
+      "asin": "B0F2MPCC2G",
+      "item_name": "ひげそり 電動シェーバー メンズ シェーバー【4枚刃+乾湿両用+ロック機能】電気シェーバー 髭剃り 深剃り Type-c充電 LEDディスプレイ 残量表示 カミソリ 水洗い 男性用 持ち運び便利 出張/旅行 プレゼント",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 58852.0,
+      "t30d_units": 18.0
+    },
+    {
+      "asin": "B0F6B59S3F",
+      "item_name": "シェーバー メンズ 小型 電気シェーバー 6枚刃 回転式 電動シェーバー 乾湿両用 ひげ剃り Type-C充電式 マグネットキャップ カミソリ 低騒音 深剃り 電動髭剃り 水洗い 肌にやさしい 軽量 携帯便利 出張・旅行用 父の日 プレゼント (マットネイビー)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 55881.4,
+      "t30d_units": 37.0
+    },
+    {
+      "asin": "B0F6BKBPPB",
+      "item_name": "シェーバー メンズ 小型 電気シェーバー 6枚刃 回転式 電動シェーバー 乾湿両用 ひげ剃り Type-C充電式 マグネットキャップ カミソリ 低騒音 深剃り 電動髭剃り 水洗い 肌にやさしい 軽量 携帯便利 出張・旅行用 父の日 プレゼント (メタリックシルバー)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 30433.46,
+      "t30d_units": 20.0
+    }
+  ]
+}

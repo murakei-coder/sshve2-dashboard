@@ -1,1 +1,22 @@
-{"1128889932902": [{"asin": "B0G3TDQYS8", "item_name": "DokiPet 小型犬 ペットカート 中型犬 車 折りたたみカート 分離型 バギー 4輪 犬 ベビーカー 犬 誕生日プレゼント コーヒー色", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0G3SVVPCW", "item_name": "DokiPet 小型犬 ペットカート 中型犬 車 折りたたみカート 分離型 バギー 4輪 犬 ベビーカー 犬 誕生日プレゼント (灰色)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 13998.0, "t30d_units": 2.0}]}
+{
+  "1128889932902": [
+    {
+      "asin": "B0G3TDQYS8",
+      "item_name": "DokiPet 小型犬 ペットカート 中型犬 車 折りたたみカート 分離型 バギー 4輪 犬 ベビーカー 犬 誕生日プレゼント コーヒー色",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0G3SVVPCW",
+      "item_name": "DokiPet 小型犬 ペットカート 中型犬 車 折りたたみカート 分離型 バギー 4輪 犬 ベビーカー 犬 誕生日プレゼント (灰色)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 13998.0,
+      "t30d_units": 2.0
+    }
+  ]
+}

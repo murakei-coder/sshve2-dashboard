@@ -1,1 +1,31 @@
-{"560990107502": [{"asin": "B0BTYLZGDR", "item_name": "姫ラボゲル クリセラ オールインワンゲル オールインワンジェル 100g 玉造 温泉水 セラミド 植物ヒト型セラミド 保湿ケア 乾燥 無香料 国産 スキンケア コスメ", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 181337.5, "t30d_units": 48.0}, {"asin": "B0BN199MC6", "item_name": "姫ラボ 洗顔石鹸 敏感肌 固形 石鹸 泡 乾燥肌 80g 玉造 温泉水 保湿ケア 無香料 国産 泡立て 低刺激", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 630634.35, "t30d_units": 348.0}, {"asin": "B0D9Y9YRJG", "item_name": "姫ラボ 洗顔石鹸 敏感肌 固形 石鹸 泡 乾燥肌 80g 玉造 温泉水 保湿ケア 無香料 国産 泡立て 低刺激 (2個)", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 165270.53, "t30d_units": 45.0}]}
+{
+  "560990107502": [
+    {
+      "asin": "B0BTYLZGDR",
+      "item_name": "姫ラボゲル クリセラ オールインワンゲル オールインワンジェル 100g 玉造 温泉水 セラミド 植物ヒト型セラミド 保湿ケア 乾燥 無香料 国産 スキンケア コスメ",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 181337.5,
+      "t30d_units": 48.0
+    },
+    {
+      "asin": "B0BN199MC6",
+      "item_name": "姫ラボ 洗顔石鹸 敏感肌 固形 石鹸 泡 乾燥肌 80g 玉造 温泉水 保湿ケア 無香料 国産 泡立て 低刺激",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 630634.35,
+      "t30d_units": 348.0
+    },
+    {
+      "asin": "B0D9Y9YRJG",
+      "item_name": "姫ラボ 洗顔石鹸 敏感肌 固形 石鹸 泡 乾燥肌 80g 玉造 温泉水 保湿ケア 無香料 国産 泡立て 低刺激 (2個)",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 165270.53,
+      "t30d_units": 45.0
+    }
+  ]
+}

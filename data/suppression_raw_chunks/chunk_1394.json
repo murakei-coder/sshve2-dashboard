@@ -1,1 +1,22 @@
-{"4053813922": [{"asin": "B0G4DCMSXC", "item_name": "【TickTime・新時代のデジタルタイマー】 正六角柱 ポモドーロタイマー キッチンタイマー キューブタイマー 勉強 会議 スポーツテスト ダークグレー", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 212556.99, "t30d_units": 41.0}, {"asin": "B08HWCWY6Z", "item_name": "【TickTime・新時代のデジタルタイマー】 正六角柱 ポモドーロタイマー キッチンタイマー キューブタイマー 勉強 会議 スポーツテスト", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 715084.09, "t30d_units": 151.0}]}
+{
+  "4053813922": [
+    {
+      "asin": "B0G4DCMSXC",
+      "item_name": "【TickTime・新時代のデジタルタイマー】 正六角柱 ポモドーロタイマー キッチンタイマー キューブタイマー 勉強 会議 スポーツテスト ダークグレー",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 212556.99,
+      "t30d_units": 41.0
+    },
+    {
+      "asin": "B08HWCWY6Z",
+      "item_name": "【TickTime・新時代のデジタルタイマー】 正六角柱 ポモドーロタイマー キッチンタイマー キューブタイマー 勉強 会議 スポーツテスト",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 715084.09,
+      "t30d_units": 151.0
+    }
+  ]
+}

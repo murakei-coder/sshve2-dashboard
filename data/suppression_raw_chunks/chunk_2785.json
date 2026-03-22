@@ -1,1 +1,67 @@
-{"7224380555": [{"asin": "B07ZKQKXTZ", "item_name": "琉球フロント沖縄 山原シークヮーサー 500ml ペットボトル やんばる 山原 世界遺産 原液 シークワーサー (12本)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 89157.0, "t30d_units": 6.0}, {"asin": "B086QRTP2M", "item_name": "琉球フロント沖縄 農薬不使用 山原シークヮーサー 720ml×6本セット 沖縄県産 シークワーサー 果汁100%", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 352272.0, "t30d_units": 24.0}, {"asin": "B0D22D9218", "item_name": "農薬不使用 山原シークヮーサー 1L PET 沖縄県産 シークワーサー 果汁100% (3)", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 118854.0, "t30d_units": 11.0}, {"asin": "B07ZKR1WQC", "item_name": "琉球フロント沖縄 山原シークヮーサー 500ml ペットボトル やんばる 山原 世界遺産 原液 シークワーサー (4本)", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 368391.6, "t30d_units": 70.0}, {"asin": "B089JT96MN", "item_name": "琉球フロント沖縄 山原シークヮーサー 500ml ペットボトル やんばる 山原 世界遺産 原液 シークワーサー (6本)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 906813.66, "t30d_units": 126.0}, {"asin": "B086QP19TV", "item_name": "農薬不使用 山原シークヮーサー 720ml×5本セット 沖縄県産 シークワーサー 果汁100%", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 232289.0, "t30d_units": 19.0}, {"asin": "B0DHJKBTGN", "item_name": "農薬不使用 山原シークヮーサー 1L PET 沖縄県産 シークワーサー 果汁100% (4)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 14500.0, "t30d_units": 1.0}]}
+{
+  "7224380555": [
+    {
+      "asin": "B07ZKQKXTZ",
+      "item_name": "琉球フロント沖縄 山原シークヮーサー 500ml ペットボトル やんばる 山原 世界遺産 原液 シークワーサー (12本)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 89157.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B086QRTP2M",
+      "item_name": "琉球フロント沖縄 農薬不使用 山原シークヮーサー 720ml×6本セット 沖縄県産 シークワーサー 果汁100%",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 352272.0,
+      "t30d_units": 24.0
+    },
+    {
+      "asin": "B0D22D9218",
+      "item_name": "農薬不使用 山原シークヮーサー 1L PET 沖縄県産 シークワーサー 果汁100% (3)",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 118854.0,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B07ZKR1WQC",
+      "item_name": "琉球フロント沖縄 山原シークヮーサー 500ml ペットボトル やんばる 山原 世界遺産 原液 シークワーサー (4本)",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 368391.6,
+      "t30d_units": 70.0
+    },
+    {
+      "asin": "B089JT96MN",
+      "item_name": "琉球フロント沖縄 山原シークヮーサー 500ml ペットボトル やんばる 山原 世界遺産 原液 シークワーサー (6本)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 906813.66,
+      "t30d_units": 126.0
+    },
+    {
+      "asin": "B086QP19TV",
+      "item_name": "農薬不使用 山原シークヮーサー 720ml×5本セット 沖縄県産 シークワーサー 果汁100%",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 232289.0,
+      "t30d_units": 19.0
+    },
+    {
+      "asin": "B0DHJKBTGN",
+      "item_name": "農薬不使用 山原シークヮーサー 1L PET 沖縄県産 シークワーサー 果汁100% (4)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 14500.0,
+      "t30d_units": 1.0
+    }
+  ]
+}

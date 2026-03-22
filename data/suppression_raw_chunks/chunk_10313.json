@@ -1,1 +1,22 @@
-{"89581284122": [{"asin": "B0C6P4K4FT", "item_name": "エマコッカーナ トリートメントプラス ケラチン サロン専売 100ml", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 115594.43, "t30d_units": 72.0}, {"asin": "B0C6PDB4BX", "item_name": "エマコッカーナヘアオイル 洗い流さないトリートメント オイル 60ml", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 252132.08, "t30d_units": 72.0}]}
+{
+  "89581284122": [
+    {
+      "asin": "B0C6P4K4FT",
+      "item_name": "エマコッカーナ トリートメントプラス ケラチン サロン専売 100ml",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 115594.43,
+      "t30d_units": 72.0
+    },
+    {
+      "asin": "B0C6PDB4BX",
+      "item_name": "エマコッカーナヘアオイル 洗い流さないトリートメント オイル 60ml",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 252132.08,
+      "t30d_units": 72.0
+    }
+  ]
+}

@@ -1,1 +1,40 @@
-{"68095847622": [{"asin": "B0FBRLM1XP", "item_name": "PEAKFIRE ランニングライト 7カラーチェンジ LEDアームバンド TYPE-C充電式 IPX5防水 ７色自動切替モード 360°反射バンド ジョギング ウォーキング マラソン 散歩 自転車 ライト 裾止め 夜間の事故防止 反射板 反射材 (ブラックベルト「竹編み模様」)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 29702.66, "t30d_units": 25.0}, {"asin": "B0DMVPZD79", "item_name": "PEAKFIRE ランニングライト 7カラーチェンジ LEDアームバンド TYPE-C充電式 IPX5防水 ７色自動切替モード 360°反射バンド ジョギング ウォーキング マラソン 散歩 自転車 ライト 裾止め 夜間の事故防止 反射板 反射材 (ブラック)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 166045.98, "t30d_units": 116.0}, {"asin": "B0FCL6WX67", "item_name": "PEAKFIRE ランニングライト 7カラーチェンジ LEDアームバンド TYPE-C充電式 IPX5防水 ７色自動切替モード 360°反射バンド ジョギング ウォーキング マラソン 散歩 自転車 ライト 裾止め 夜間の事故防止 反射板 反射材（グリーンベルト）", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 15038.0, "t30d_units": 9.0}, {"asin": "B0FBRNNF86", "item_name": "PEAKFIRE ランニングライト 7カラーチェンジ LEDアームバンド TYPE-C充電式 IPX5防水 ７色自動切替モード 360°反射バンド ジョギング ウォーキング マラソン 散歩 自転車 ライト 裾止め 夜間の事故防止 反射板 反射材 (ブラックベルト「朱雀羽模様」)", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 6033.0, "t30d_units": 4.0}]}
+{
+  "68095847622": [
+    {
+      "asin": "B0FBRLM1XP",
+      "item_name": "PEAKFIRE ランニングライト 7カラーチェンジ LEDアームバンド TYPE-C充電式 IPX5防水 ７色自動切替モード 360°反射バンド ジョギング ウォーキング マラソン 散歩 自転車 ライト 裾止め 夜間の事故防止 反射板 反射材 (ブラックベルト「竹編み模様」)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 29702.66,
+      "t30d_units": 25.0
+    },
+    {
+      "asin": "B0DMVPZD79",
+      "item_name": "PEAKFIRE ランニングライト 7カラーチェンジ LEDアームバンド TYPE-C充電式 IPX5防水 ７色自動切替モード 360°反射バンド ジョギング ウォーキング マラソン 散歩 自転車 ライト 裾止め 夜間の事故防止 反射板 反射材 (ブラック)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 166045.98,
+      "t30d_units": 116.0
+    },
+    {
+      "asin": "B0FCL6WX67",
+      "item_name": "PEAKFIRE ランニングライト 7カラーチェンジ LEDアームバンド TYPE-C充電式 IPX5防水 ７色自動切替モード 360°反射バンド ジョギング ウォーキング マラソン 散歩 自転車 ライト 裾止め 夜間の事故防止 反射板 反射材（グリーンベルト）",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 15038.0,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B0FBRNNF86",
+      "item_name": "PEAKFIRE ランニングライト 7カラーチェンジ LEDアームバンド TYPE-C充電式 IPX5防水 ７色自動切替モード 360°反射バンド ジョギング ウォーキング マラソン 散歩 自転車 ライト 裾止め 夜間の事故防止 反射板 反射材 (ブラックベルト「朱雀羽模様」)",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 6033.0,
+      "t30d_units": 4.0
+    }
+  ]
+}

@@ -1,1 +1,76 @@
-{"8815470845": [{"asin": "B0CQYXC2V1", "item_name": "永谷園 大人のふりかけ 詰め合わせセット (大人のふりかけ 16種 60袋セット)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 905620.4, "t30d_units": 610.0}, {"asin": "B0BMGC4Z93", "item_name": "レトルト 20種類 詰め合わせセット (20種 Aセット)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 1060542.15, "t30d_units": 201.0}, {"asin": "B0CLLQN4CY", "item_name": "人気 大盛り系ラーメン 12種12食 詰め合わせ オリジナルパッケージ", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 1264399.0, "t30d_units": 486.0}, {"asin": "B0CLQD88GR", "item_name": "レトルト 20種類 詰め合わせセット (20種 Bセット)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 228878.93, "t30d_units": 51.0}, {"asin": "B0C7LCXN5X", "item_name": "永谷園 大人のふりかけ 詰め合わせセット (大人のふりかけ 11種 40袋セット)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 179399.77, "t30d_units": 166.0}, {"asin": "B0BBGN2M57", "item_name": "Ｈｏｕｓｅ　ｃｈｏｉｃｅ　いいものだけを 明治 ザバス (SAVAS) ホエイプロテイン トライアルタイプ 7種7袋セット 【商標登録番号 第6548991】", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 105560.0, "t30d_units": 91.0}, {"asin": "B0BDG14B7X", "item_name": "明治 ザバス (SAVAS) ホエイプロテイン トライアルタイプ 7種14袋セット お試し", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 612480.0, "t30d_units": 319.0}, {"asin": "B0BXLPRSGQ", "item_name": "日清 12種12食 カップヌードル UFO どん兵衛 麺職人 チキンラーメン 出前一丁 詰め合わせ", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 162673.33, "t30d_units": 43.0}]}
+{
+  "8815470845": [
+    {
+      "asin": "B0CQYXC2V1",
+      "item_name": "永谷園 大人のふりかけ 詰め合わせセット (大人のふりかけ 16種 60袋セット)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 905620.4,
+      "t30d_units": 610.0
+    },
+    {
+      "asin": "B0BMGC4Z93",
+      "item_name": "レトルト 20種類 詰め合わせセット (20種 Aセット)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 1060542.15,
+      "t30d_units": 201.0
+    },
+    {
+      "asin": "B0CLLQN4CY",
+      "item_name": "人気 大盛り系ラーメン 12種12食 詰め合わせ オリジナルパッケージ",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 1264399.0,
+      "t30d_units": 486.0
+    },
+    {
+      "asin": "B0CLQD88GR",
+      "item_name": "レトルト 20種類 詰め合わせセット (20種 Bセット)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 228878.93,
+      "t30d_units": 51.0
+    },
+    {
+      "asin": "B0C7LCXN5X",
+      "item_name": "永谷園 大人のふりかけ 詰め合わせセット (大人のふりかけ 11種 40袋セット)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 179399.77,
+      "t30d_units": 166.0
+    },
+    {
+      "asin": "B0BBGN2M57",
+      "item_name": "Ｈｏｕｓｅ　ｃｈｏｉｃｅ　いいものだけを 明治 ザバス (SAVAS) ホエイプロテイン トライアルタイプ 7種7袋セット 【商標登録番号 第6548991】",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 105560.0,
+      "t30d_units": 91.0
+    },
+    {
+      "asin": "B0BDG14B7X",
+      "item_name": "明治 ザバス (SAVAS) ホエイプロテイン トライアルタイプ 7種14袋セット お試し",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 612480.0,
+      "t30d_units": 319.0
+    },
+    {
+      "asin": "B0BXLPRSGQ",
+      "item_name": "日清 12種12食 カップヌードル UFO どん兵衛 麺職人 チキンラーメン 出前一丁 詰め合わせ",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 162673.33,
+      "t30d_units": 43.0
+    }
+  ]
+}

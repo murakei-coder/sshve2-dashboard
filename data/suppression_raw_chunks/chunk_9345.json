@@ -1,1 +1,67 @@
-{"74662000022": [{"asin": "B0FF4G6191", "item_name": "Hoochii × Cheerble 犬ボール Wicked Rugby専用 交換用カバー (Rugby グリーンカバー)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0F98ZBYXW", "item_name": "Hoochii × Cheerble 猫 おもちゃ ウィキッドマウス ネオ 第三世代 2025 自動 ねずみ 動く 一人遊び 猫じゃらし 電動 ネズミのしっぽ 2スピード Type-C充電式 運動不足解消 ストレス解消 Wicked Mouse Neo 好奇心満足 インタラクティブ 簡単操作 ウィキッドマウス ネオ パープル", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 22194.0, "t30d_units": 6.0}, {"asin": "B0G4Q2NR86", "item_name": "HoochiiｘCheerble 犬ボール【2025年強化型】犬おもちゃ 自動 インタラクティブおもちゃ 3モード選択可能 天然ゴム製 安全材料 DC2.5充電式 ストレス解消 お留守番に 運動不足対策 小型犬に適用（Wicked ball SE グリーン）", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 47569.98, "t30d_units": 11.0}, {"asin": "B0F7X6L345", "item_name": "Hoochii × Cheerble 猫 ボール 自動 猫おもちゃ 電動 動くボール 一人遊び 3モード調整可能 Type-C充電式 鈴付き 猫じゃらし 天然素材 ふわふわ インタラクティブおもちゃ 運動不足解消 ストレス解消 (M3 グリーン)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 98140.0, "t30d_units": 24.0}, {"asin": "B0F7XL8VXM", "item_name": "Hoochii × Cheerble 犬用自動ボール【2025新登場】3モード切替 充電式 130gの超軽量 犬に優しいE-TPU素材採用 交換可能なカバー 回転・跳ねるペットおもちゃ ストレス・運動不足解消 屋内外OK（Wicked Ball Air グリーン)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 46192.75, "t30d_units": 8.0}, {"asin": "B0FF48BYQM", "item_name": "Hoochii × Cheerble 犬自動ボール【2025新型登場】3モード切替 交換可能なカバー 充電式 161gの超軽量 犬に優しいE-TPU素材採用 ラグビー形 音が鳴るおもちゃ 回転・跳ねる犬おもちゃ 中大型犬向け ストレス・運動不足解消 屋内外OK (Wicked Rugby グリーン)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 11394.87, "t30d_units": 2.0}, {"asin": "B0F7X8B8P3", "item_name": "Hoochii × Cheerble 犬ボール専用 Wicked Ball Air 交換用カバー (Air グリーンカバー)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 3544.0, "t30d_units": 2.0}]}
+{
+  "74662000022": [
+    {
+      "asin": "B0FF4G6191",
+      "item_name": "Hoochii × Cheerble 犬ボール Wicked Rugby専用 交換用カバー (Rugby グリーンカバー)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0F98ZBYXW",
+      "item_name": "Hoochii × Cheerble 猫 おもちゃ ウィキッドマウス ネオ 第三世代 2025 自動 ねずみ 動く 一人遊び 猫じゃらし 電動 ネズミのしっぽ 2スピード Type-C充電式 運動不足解消 ストレス解消 Wicked Mouse Neo 好奇心満足 インタラクティブ 簡単操作 ウィキッドマウス ネオ パープル",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 22194.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0G4Q2NR86",
+      "item_name": "HoochiiｘCheerble 犬ボール【2025年強化型】犬おもちゃ 自動 インタラクティブおもちゃ 3モード選択可能 天然ゴム製 安全材料 DC2.5充電式 ストレス解消 お留守番に 運動不足対策 小型犬に適用（Wicked ball SE グリーン）",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 47569.98,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0F7X6L345",
+      "item_name": "Hoochii × Cheerble 猫 ボール 自動 猫おもちゃ 電動 動くボール 一人遊び 3モード調整可能 Type-C充電式 鈴付き 猫じゃらし 天然素材 ふわふわ インタラクティブおもちゃ 運動不足解消 ストレス解消 (M3 グリーン)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 98140.0,
+      "t30d_units": 24.0
+    },
+    {
+      "asin": "B0F7XL8VXM",
+      "item_name": "Hoochii × Cheerble 犬用自動ボール【2025新登場】3モード切替 充電式 130gの超軽量 犬に優しいE-TPU素材採用 交換可能なカバー 回転・跳ねるペットおもちゃ ストレス・運動不足解消 屋内外OK（Wicked Ball Air グリーン)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 46192.75,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B0FF48BYQM",
+      "item_name": "Hoochii × Cheerble 犬自動ボール【2025新型登場】3モード切替 交換可能なカバー 充電式 161gの超軽量 犬に優しいE-TPU素材採用 ラグビー形 音が鳴るおもちゃ 回転・跳ねる犬おもちゃ 中大型犬向け ストレス・運動不足解消 屋内外OK (Wicked Rugby グリーン)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 11394.87,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0F7X8B8P3",
+      "item_name": "Hoochii × Cheerble 犬ボール専用 Wicked Ball Air 交換用カバー (Air グリーンカバー)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 3544.0,
+      "t30d_units": 2.0
+    }
+  ]
+}

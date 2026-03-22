@@ -1,1 +1,67 @@
-{"1099790496502": [{"asin": "B0FRMQFCS3", "item_name": "ArtO 歯のポリッシャー ホワイトニング 電動 歯の消しゴム 【歯を白くする】 ステイン除去 ヤニ取り 黄ばみ 着色汚れ落とし 研磨 ホームホワイトニング 自宅ケア（ブルー）", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 143280.33, "t30d_units": 36.0}, {"asin": "B0FRS4FXB8", "item_name": "65W 充電器 Type-C ArtO Core 急速充電器 GaN 窒化ガリウム【2ポート/マグネット ケーブル付】PD3.1 PPS対応 折りたたみ式 スティック型 iPhone 17 16 MacBook iPad Galaxy Android 各種対応 (PSE認証済/ホワイト, 充電器 + 磁気ケーブル)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 10494.0, "t30d_units": 9.0}, {"asin": "B0FR4G7LF1", "item_name": "ArtO Core 35W 急速充電器 USB-C & USB-A 2ポート [1.5m 絡まないケーブル付属] GaN (窒化ガリウム) PD/PPS / QC3.0 対応 コンパクト 折りたたみ式プラグ iPhone 17 / 16 / Galaxy S25 / Switch/イヤホン 対応 (PSE認証済) (ブラック)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 11512.0, "t30d_units": 9.0}, {"asin": "B0FRMQ64H1", "item_name": "ArtO 歯のポリッシャー ホワイトニング 電動 歯の消しゴム 【歯を白くする】 ステイン除去 ヤニ取り 黄ばみ 着色汚れ落とし 研磨 ホームホワイトニング 自宅ケア（ブラック）", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 167159.5, "t30d_units": 42.0}, {"asin": "B0FRS7MRPL", "item_name": "65W 充電器 Type-C ArtO Core 急速充電器 GaN 窒化ガリウム【2ポート/マグネット ケーブル付】PD3.1 PPS対応 折りたたみ式 スティック型 iPhone 17 16 MacBook iPad Galaxy Android 各種対応 (PSE認証済) (ブラック, 充電器 + 磁気ケーブル)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 8746.0, "t30d_units": 5.0}, {"asin": "B0FR43XSCP", "item_name": "ArtO Core 35W 急速充電器 USB-C & USB-A 2ポート [1.5m 絡まないケーブル付属] GaN (窒化ガリウム) PD/PPS / QC3.0 対応 コンパクト 折りたたみ式プラグ iPhone 17 / 16 / Galaxy S25 / Switch/イヤホン 対応 (PSE認証済) (ホワイト)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 24854.0, "t30d_units": 17.0}, {"asin": "B0FRMRRJV6", "item_name": "ArtO 歯のポリッシャー ホワイトニング 電動 歯の消しゴム 【歯を白くする】 ステイン除去 ヤニ取り 黄ばみ 着色汚れ落とし 研磨 ホームホワイトニング 自宅ケア（グリーン）", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 258700.33, "t30d_units": 65.0}]}
+{
+  "1099790496502": [
+    {
+      "asin": "B0FRMQFCS3",
+      "item_name": "ArtO 歯のポリッシャー ホワイトニング 電動 歯の消しゴム 【歯を白くする】 ステイン除去 ヤニ取り 黄ばみ 着色汚れ落とし 研磨 ホームホワイトニング 自宅ケア（ブルー）",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 143280.33,
+      "t30d_units": 36.0
+    },
+    {
+      "asin": "B0FRS4FXB8",
+      "item_name": "65W 充電器 Type-C ArtO Core 急速充電器 GaN 窒化ガリウム【2ポート/マグネット ケーブル付】PD3.1 PPS対応 折りたたみ式 スティック型 iPhone 17 16 MacBook iPad Galaxy Android 各種対応 (PSE認証済/ホワイト, 充電器 + 磁気ケーブル)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 10494.0,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B0FR4G7LF1",
+      "item_name": "ArtO Core 35W 急速充電器 USB-C & USB-A 2ポート [1.5m 絡まないケーブル付属] GaN (窒化ガリウム) PD/PPS / QC3.0 対応 コンパクト 折りたたみ式プラグ iPhone 17 / 16 / Galaxy S25 / Switch/イヤホン 対応 (PSE認証済) (ブラック)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 11512.0,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B0FRMQ64H1",
+      "item_name": "ArtO 歯のポリッシャー ホワイトニング 電動 歯の消しゴム 【歯を白くする】 ステイン除去 ヤニ取り 黄ばみ 着色汚れ落とし 研磨 ホームホワイトニング 自宅ケア（ブラック）",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 167159.5,
+      "t30d_units": 42.0
+    },
+    {
+      "asin": "B0FRS7MRPL",
+      "item_name": "65W 充電器 Type-C ArtO Core 急速充電器 GaN 窒化ガリウム【2ポート/マグネット ケーブル付】PD3.1 PPS対応 折りたたみ式 スティック型 iPhone 17 16 MacBook iPad Galaxy Android 各種対応 (PSE認証済) (ブラック, 充電器 + 磁気ケーブル)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 8746.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0FR43XSCP",
+      "item_name": "ArtO Core 35W 急速充電器 USB-C & USB-A 2ポート [1.5m 絡まないケーブル付属] GaN (窒化ガリウム) PD/PPS / QC3.0 対応 コンパクト 折りたたみ式プラグ iPhone 17 / 16 / Galaxy S25 / Switch/イヤホン 対応 (PSE認証済) (ホワイト)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 24854.0,
+      "t30d_units": 17.0
+    },
+    {
+      "asin": "B0FRMRRJV6",
+      "item_name": "ArtO 歯のポリッシャー ホワイトニング 電動 歯の消しゴム 【歯を白くする】 ステイン除去 ヤニ取り 黄ばみ 着色汚れ落とし 研磨 ホームホワイトニング 自宅ケア（グリーン）",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 258700.33,
+      "t30d_units": 65.0
+    }
+  ]
+}

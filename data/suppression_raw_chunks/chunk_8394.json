@@ -1,1 +1,40 @@
-{"61583992922": [{"asin": "B0F2HQVZGD", "item_name": "オールインワンコラーゲン 4種の美肌成分 低分子 コラーゲンペプチド セラミド エラスチン ビタミンC 粉末 パウダー collagen 120g", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 149924.37, "t30d_units": 77.0}, {"asin": "B0F9WJCT5X", "item_name": "オールインワンコラーゲン 4種の美肌成分 低分子 コラーゲンペプチド セラミド エラスチン ビタミンC 粉末 パウダー collagen 120g 3個", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 0.0, "t30d_units": 0.0}, {"asin": "B0F9WH1YX6", "item_name": "オールインワンコラーゲン 4種の美肌成分 低分子 コラーゲンペプチド セラミド エラスチン ビタミンC 粉末 パウダー collagen 120g 2個セット", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0BQYBNDRM", "item_name": "フラクトオリゴ糖 オリゴ糖 粉末 高純度 ケストース 食物繊維 腸活 国産 日本製 オリゴライフ 150g", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 944111.03, "t30d_units": 540.0}]}
+{
+  "61583992922": [
+    {
+      "asin": "B0F2HQVZGD",
+      "item_name": "オールインワンコラーゲン 4種の美肌成分 低分子 コラーゲンペプチド セラミド エラスチン ビタミンC 粉末 パウダー collagen 120g",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 149924.37,
+      "t30d_units": 77.0
+    },
+    {
+      "asin": "B0F9WJCT5X",
+      "item_name": "オールインワンコラーゲン 4種の美肌成分 低分子 コラーゲンペプチド セラミド エラスチン ビタミンC 粉末 パウダー collagen 120g 3個",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    },
+    {
+      "asin": "B0F9WH1YX6",
+      "item_name": "オールインワンコラーゲン 4種の美肌成分 低分子 コラーゲンペプチド セラミド エラスチン ビタミンC 粉末 パウダー collagen 120g 2個セット",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0BQYBNDRM",
+      "item_name": "フラクトオリゴ糖 オリゴ糖 粉末 高純度 ケストース 食物繊維 腸活 国産 日本製 オリゴライフ 150g",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 944111.03,
+      "t30d_units": 540.0
+    }
+  ]
+}

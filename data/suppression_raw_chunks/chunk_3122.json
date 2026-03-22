@@ -1,1 +1,40 @@
-{"7577097645": [{"asin": "B00MCDF1NE", "item_name": "カリフォルニア産 生クルミ LHP (無添加、無塩) 1kgパック", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 321014.84, "t30d_units": 149.0}, {"asin": "B08CXS8QGY", "item_name": "大島ナッツ 4種ミックスナッツ 1kg 均等配合 (くるみ カシュー アーモンド マカダミア) 無塩 油不使用", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 1292901.04, "t30d_units": 369.0}, {"asin": "B01CHC4XWO", "item_name": "ミックスナッツ 素焼き 無塩 1kg 3種 均等配合（アーモンド くるみ カシュー）油不使用 大島ナッツ", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 4206567.34, "t30d_units": 1376.0}, {"asin": "B0B4WB77Z6", "item_name": "大島ナッツ 素焼きアーモンド 1kg 無塩 油不使用 ノンパレル", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 345966.85, "t30d_units": 145.0}]}
+{
+  "7577097645": [
+    {
+      "asin": "B00MCDF1NE",
+      "item_name": "カリフォルニア産 生クルミ LHP (無添加、無塩) 1kgパック",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 321014.84,
+      "t30d_units": 149.0
+    },
+    {
+      "asin": "B08CXS8QGY",
+      "item_name": "大島ナッツ 4種ミックスナッツ 1kg 均等配合 (くるみ カシュー アーモンド マカダミア) 無塩 油不使用",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 1292901.04,
+      "t30d_units": 369.0
+    },
+    {
+      "asin": "B01CHC4XWO",
+      "item_name": "ミックスナッツ 素焼き 無塩 1kg 3種 均等配合（アーモンド くるみ カシュー）油不使用 大島ナッツ",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 4206567.34,
+      "t30d_units": 1376.0
+    },
+    {
+      "asin": "B0B4WB77Z6",
+      "item_name": "大島ナッツ 素焼きアーモンド 1kg 無塩 油不使用 ノンパレル",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 345966.85,
+      "t30d_units": 145.0
+    }
+  ]
+}

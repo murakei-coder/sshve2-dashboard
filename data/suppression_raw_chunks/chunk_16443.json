@@ -1,1 +1,22 @@
-{"1138702597502": [{"asin": "B0GJZPT7NM", "item_name": "ひげそり 電動シェーバー 【2026新登場】 シェーバー ひげそり 髭剃り 3刀頭 54枚刃 二重剃刀ネット 深剃り 低騒音 IPX7完全防水 1時間急速充電 乾湿両用 軽量 高速回転モーター LEDディスプレイ付き 360°フレックスヘッド 男性用 シェーバー 父の日 誕生日プレゼント", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 4068778.7, "t30d_units": 1445.0}, {"asin": "B0C5D4QVLJ", "item_name": "バリカン 2025新登場 USB充電式 ヘアーカッター 電動バリカンメンズ IPX7防水 5段階刈り高さ調節 3段階スピード LEDディスプレイ 大容量バッテリー 自動研磨 6種類ガイドコーム 低騒音 コードレス 子供 家庭用 散髪用 業務用 セルフカット 坊主 ツーブロック 軽量", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 23897167.54, "t30d_units": 10324.0}]}
+{
+  "1138702597502": [
+    {
+      "asin": "B0GJZPT7NM",
+      "item_name": "ひげそり 電動シェーバー 【2026新登場】 シェーバー ひげそり 髭剃り 3刀頭 54枚刃 二重剃刀ネット 深剃り 低騒音 IPX7完全防水 1時間急速充電 乾湿両用 軽量 高速回転モーター LEDディスプレイ付き 360°フレックスヘッド 男性用 シェーバー 父の日 誕生日プレゼント",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 4068778.7,
+      "t30d_units": 1445.0
+    },
+    {
+      "asin": "B0C5D4QVLJ",
+      "item_name": "バリカン 2025新登場 USB充電式 ヘアーカッター 電動バリカンメンズ IPX7防水 5段階刈り高さ調節 3段階スピード LEDディスプレイ 大容量バッテリー 自動研磨 6種類ガイドコーム 低騒音 コードレス 子供 家庭用 散髪用 業務用 セルフカット 坊主 ツーブロック 軽量",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 23897167.54,
+      "t30d_units": 10324.0
+    }
+  ]
+}

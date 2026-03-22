@@ -1,1 +1,49 @@
-{"1093436269102": [{"asin": "B0FF9JHR3L", "item_name": "ごぼう茶 国産 【美容皮膚科医がすすめる健康茶】【5大栄養成分をぎゅっと濃縮ｘ大容量50包入り】 ゴボウ茶 【300項目残留農薬検査済ｘノンカフェインｘ水出し可】美健style+ (50包×1袋)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 887441.25, "t30d_units": 607.0}, {"asin": "B0GKZT8ZWB", "item_name": "よもぎ茶 国産 【漢方・薬膳専門家監修×残留農薬検査済】 ヨモギ茶 【爽やかな味わい×日本古来のハーブ】ティーバッグ・大容量50包・ノンカフェイン・無添加・無農薬 美健style+ (50包×1袋)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 358320.12, "t30d_units": 265.0}, {"asin": "B0FNCT3TR1", "item_name": "【グルテンフリーと2種のスーパーフード】 雑穀米 混ぜるだけ 【自然食材100％のぷちぷち×もちもち食感】美健Style+ (300g×1袋)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 749213.5, "t30d_units": 391.0}, {"asin": "B0GK1611TC", "item_name": "【グルテンフリーと2種のスーパーフード】 雑穀米 混ぜるだけ 【自然食材100％のぷちぷち×もちもち食感】美健Style+ (300g×2袋【割引】)", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 77279.32, "t30d_units": 21.0}, {"asin": "B0GPPBX2F6", "item_name": "ごぼう茶 国産 【美容皮膚科医がすすめる健康茶】【5大栄養成分をぎゅっと濃縮ｘ大容量50包入り】 ゴボウ茶 【300項目残留農薬検査済ｘノンカフェインｘ水出し可】美健style+ (50包×2袋【割引】)", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 47550.0, "t30d_units": 16.0}]}
+{
+  "1093436269102": [
+    {
+      "asin": "B0FF9JHR3L",
+      "item_name": "ごぼう茶 国産 【美容皮膚科医がすすめる健康茶】【5大栄養成分をぎゅっと濃縮ｘ大容量50包入り】 ゴボウ茶 【300項目残留農薬検査済ｘノンカフェインｘ水出し可】美健style+ (50包×1袋)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 887441.25,
+      "t30d_units": 607.0
+    },
+    {
+      "asin": "B0GKZT8ZWB",
+      "item_name": "よもぎ茶 国産 【漢方・薬膳専門家監修×残留農薬検査済】 ヨモギ茶 【爽やかな味わい×日本古来のハーブ】ティーバッグ・大容量50包・ノンカフェイン・無添加・無農薬 美健style+ (50包×1袋)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 358320.12,
+      "t30d_units": 265.0
+    },
+    {
+      "asin": "B0FNCT3TR1",
+      "item_name": "【グルテンフリーと2種のスーパーフード】 雑穀米 混ぜるだけ 【自然食材100％のぷちぷち×もちもち食感】美健Style+ (300g×1袋)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 749213.5,
+      "t30d_units": 391.0
+    },
+    {
+      "asin": "B0GK1611TC",
+      "item_name": "【グルテンフリーと2種のスーパーフード】 雑穀米 混ぜるだけ 【自然食材100％のぷちぷち×もちもち食感】美健Style+ (300g×2袋【割引】)",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 77279.32,
+      "t30d_units": 21.0
+    },
+    {
+      "asin": "B0GPPBX2F6",
+      "item_name": "ごぼう茶 国産 【美容皮膚科医がすすめる健康茶】【5大栄養成分をぎゅっと濃縮ｘ大容量50包入り】 ゴボウ茶 【300項目残留農薬検査済ｘノンカフェインｘ水出し可】美健style+ (50包×2袋【割引】)",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 47550.0,
+      "t30d_units": 16.0
+    }
+  ]
+}

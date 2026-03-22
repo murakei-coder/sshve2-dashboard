@@ -1,1 +1,49 @@
-{"8135758145": [{"asin": "B09LV4BTL2", "item_name": "Superway LEDランタン 充電式 昼白色 昼光色 電球色 赤色点灯 SOS 光色/輝度記憶 数字型電気量 輝度表示 三脚接続可能 13400mAh 100調光モード アウトドア 防災グッズ 磁石内蔵 【1200ルーメン/連続点灯1500時間/PSE取得済】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 23040.0, "t30d_units": 3.0}, {"asin": "B0CQFBQKSD", "item_name": "SUPERWAY 20000mAh led ランタンQC 3.0/22.5W 2024新登場 1600ルーメン 四色切替 昼光色 昼白色 電球色 赤色点灯 SOS IP65 防水 防災グッズ アウトドア ライト 電気量輝度数字表示 光色/輝度記憶 三脚接続可能 磁石内蔵 電気式ランタンKHAK", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 38720.0, "t30d_units": 4.0}, {"asin": "B082NQM3V9", "item_name": "LEDランタン Superway 三色切替 昼光色 昼白色 電球色+ 赤色点灯 SOS 13400mAhバッテリー内蔵 充電式キャンプランタン 電気量輝度数字表示 光色/輝度記憶 三脚接続可能 磁石内蔵 アウトドア キャンプ 釣り 防災 非常用 PSE取得済 Black", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 324533.08, "t30d_units": 58.0}, {"asin": "B0CQFCDGR8", "item_name": "SUPERWAY 20000mAh led ランタンQC 3.0/22.5W 2024新登場 1600ルーメン 四色切替 昼光色 昼白色 電球色 赤色点灯 SOS IP65 防水 防災グッズ アウトドア ライト 電気量輝度数字表示 光色/輝度記憶 三脚接続可能 磁石内蔵 電気式ランタン GREEN", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 106947.33, "t30d_units": 17.0}, {"asin": "B0FMY1CQQX", "item_name": "SUPERWAY アウトドアLEDライト IP65防水・5色モード 420lm最大輝度 SOS機能付き 電池内蔵なし キャンプ・登山・移動電源利用向け", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 5340.0, "t30d_units": 3.0}]}
+{
+  "8135758145": [
+    {
+      "asin": "B09LV4BTL2",
+      "item_name": "Superway LEDランタン 充電式 昼白色 昼光色 電球色 赤色点灯 SOS 光色/輝度記憶 数字型電気量 輝度表示 三脚接続可能 13400mAh 100調光モード アウトドア 防災グッズ 磁石内蔵 【1200ルーメン/連続点灯1500時間/PSE取得済】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 23040.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0CQFBQKSD",
+      "item_name": "SUPERWAY 20000mAh led ランタンQC 3.0/22.5W 2024新登場 1600ルーメン 四色切替 昼光色 昼白色 電球色 赤色点灯 SOS IP65 防水 防災グッズ アウトドア ライト 電気量輝度数字表示 光色/輝度記憶 三脚接続可能 磁石内蔵 電気式ランタンKHAK",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 38720.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B082NQM3V9",
+      "item_name": "LEDランタン Superway 三色切替 昼光色 昼白色 電球色+ 赤色点灯 SOS 13400mAhバッテリー内蔵 充電式キャンプランタン 電気量輝度数字表示 光色/輝度記憶 三脚接続可能 磁石内蔵 アウトドア キャンプ 釣り 防災 非常用 PSE取得済 Black",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 324533.08,
+      "t30d_units": 58.0
+    },
+    {
+      "asin": "B0CQFCDGR8",
+      "item_name": "SUPERWAY 20000mAh led ランタンQC 3.0/22.5W 2024新登場 1600ルーメン 四色切替 昼光色 昼白色 電球色 赤色点灯 SOS IP65 防水 防災グッズ アウトドア ライト 電気量輝度数字表示 光色/輝度記憶 三脚接続可能 磁石内蔵 電気式ランタン GREEN",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 106947.33,
+      "t30d_units": 17.0
+    },
+    {
+      "asin": "B0FMY1CQQX",
+      "item_name": "SUPERWAY アウトドアLEDライト IP65防水・5色モード 420lm最大輝度 SOS機能付き 電池内蔵なし キャンプ・登山・移動電源利用向け",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 5340.0,
+      "t30d_units": 3.0
+    }
+  ]
+}

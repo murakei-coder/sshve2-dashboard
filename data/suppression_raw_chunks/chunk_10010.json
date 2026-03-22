@@ -1,1 +1,31 @@
-{"86363282922": [{"asin": "B0FK91X6DF", "item_name": "3in1 ワイヤレス充電器 折り畳み式 15W急速充電 I-phone17/16/15/14/13/12 マグセーフ 角度調整可能 雰囲気ライト付き 3台同時充電 iPhone/iWatch/ワイヤレスイヤホンに対応 無線 出張 旅行用（ホワイト）", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 1076100.12, "t30d_units": 333.0}, {"asin": "B0FNVY4N64", "item_name": "magsafe 車載ホルダー マグセーフ充電器 車 充電 15w 急速&超強磁力 【360°自由調整·エアベントクリップ·粘着式ダッシュマウント】 車載ワイヤレス充電器 自動位置調節 エアコン吹き出し口両用 車 スマホスタンド 片手操作 取付簡単 Phone17/16/15/14/13/12シリーズ対応", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1023982.35, "t30d_units": 507.0}, {"asin": "B0GFD8KB9Z", "item_name": "3in1 ワイヤレス充電器 折り畳み式 15W急速充電 I-phone17/16/15/14/13/12 マグセーフ 角度調整可能 雰囲気ライト付き 3台同時充電 iPhone/iWatch/Airpodsに対応 無線 出張 旅行用（ブラック）", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 248287.66, "t30d_units": 77.0}]}
+{
+  "86363282922": [
+    {
+      "asin": "B0FK91X6DF",
+      "item_name": "3in1 ワイヤレス充電器 折り畳み式 15W急速充電 I-phone17/16/15/14/13/12 マグセーフ 角度調整可能 雰囲気ライト付き 3台同時充電 iPhone/iWatch/ワイヤレスイヤホンに対応 無線 出張 旅行用（ホワイト）",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 1076100.12,
+      "t30d_units": 333.0
+    },
+    {
+      "asin": "B0FNVY4N64",
+      "item_name": "magsafe 車載ホルダー マグセーフ充電器 車 充電 15w 急速&超強磁力 【360°自由調整·エアベントクリップ·粘着式ダッシュマウント】 車載ワイヤレス充電器 自動位置調節 エアコン吹き出し口両用 車 スマホスタンド 片手操作 取付簡単 Phone17/16/15/14/13/12シリーズ対応",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1023982.35,
+      "t30d_units": 507.0
+    },
+    {
+      "asin": "B0GFD8KB9Z",
+      "item_name": "3in1 ワイヤレス充電器 折り畳み式 15W急速充電 I-phone17/16/15/14/13/12 マグセーフ 角度調整可能 雰囲気ライト付き 3台同時充電 iPhone/iWatch/Airpodsに対応 無線 出張 旅行用（ブラック）",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 248287.66,
+      "t30d_units": 77.0
+    }
+  ]
+}

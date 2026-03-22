@@ -1,1 +1,58 @@
-{"11217851122": [{"asin": "B0BMV4XFL8", "item_name": "富士コンテック 胎児心音計 FK-T01 お腹の赤ちゃんの心音が気軽に聴ける スピーカー内蔵", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 15360.0, "t30d_units": 2.0}, {"asin": "B0F42VJ6G6", "item_name": "富士コンテック カラダファクトリー ポカリン 温熱 カイロ 【２０個セット】", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 10500.0, "t30d_units": 3.0}, {"asin": "B0F3N721SG", "item_name": "富士コンテック カラダファクトリー ポカリン 温熱 カイロ 【6個セット】", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 1180.0, "t30d_units": 1.0}, {"asin": "B0DPJS93ZN", "item_name": "富士コンテック カラダファクトリー ポカリン 温熱 カイロ 【１０個セット】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 19800.0, "t30d_units": 10.0}, {"asin": "B081YKMS9M", "item_name": "富士コンテック 心電計 医療機器認証 FC-S1 ポータブル 医療用 看護 家庭用 介護 国内検査済", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 218550.0, "t30d_units": 13.0}, {"asin": "B082WQ5ZV8", "item_name": "富士コンテック メッシュ式ネブライザ 医療機器認証 FK-N01 吸入器 医療用 看護 家庭用 介護 国内検査済", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 68386.0, "t30d_units": 10.0}]}
+{
+  "11217851122": [
+    {
+      "asin": "B0BMV4XFL8",
+      "item_name": "富士コンテック 胎児心音計 FK-T01 お腹の赤ちゃんの心音が気軽に聴ける スピーカー内蔵",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 15360.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0F42VJ6G6",
+      "item_name": "富士コンテック カラダファクトリー ポカリン 温熱 カイロ 【２０個セット】",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 10500.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0F3N721SG",
+      "item_name": "富士コンテック カラダファクトリー ポカリン 温熱 カイロ 【6個セット】",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 1180.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0DPJS93ZN",
+      "item_name": "富士コンテック カラダファクトリー ポカリン 温熱 カイロ 【１０個セット】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 19800.0,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B081YKMS9M",
+      "item_name": "富士コンテック 心電計 医療機器認証 FC-S1 ポータブル 医療用 看護 家庭用 介護 国内検査済",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 218550.0,
+      "t30d_units": 13.0
+    },
+    {
+      "asin": "B082WQ5ZV8",
+      "item_name": "富士コンテック メッシュ式ネブライザ 医療機器認証 FK-N01 吸入器 医療用 看護 家庭用 介護 国内検査済",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 68386.0,
+      "t30d_units": 10.0
+    }
+  ]
+}

@@ -1,1 +1,40 @@
-{"61768426022": [{"asin": "B09X783B58", "item_name": "宅配ボックス ステッカー マグネット 置き配 ステッカー対応 宅配ボックス シールで簡単配送案内 ネコデザイン 防水・屋外対応12×6cm(OK-MG)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0B9MFGHY7", "item_name": "宅配ボックス ステッカー 置き配 ステッカー対応 宅配ボックス シールで簡単配送案内 ネコデザイン 防水・屋外対応12×6cm(OK-ST)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 2097.0, "t30d_units": 3.0}, {"asin": "B0CSXQM9NW", "item_name": "宅配ボックス ステッカー マグネット 置き配 マグネット＆ステッカー対応 宅配ボックス シールで簡単配送案内 ネコデザイン 防水・屋外対応12×6cm(OK-MG-CH)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B09X79BWDQ", "item_name": "宅配ボックス ステッカー マグネット 置き配 マグネット＆ステッカー対応 宅配ボックス シールで簡単配送案内 ネコデザイン 12×12cm 防水・屋外対応 (TH-MG)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 3750.0, "t30d_units": 5.0}]}
+{
+  "61768426022": [
+    {
+      "asin": "B09X783B58",
+      "item_name": "宅配ボックス ステッカー マグネット 置き配 ステッカー対応 宅配ボックス シールで簡単配送案内 ネコデザイン 防水・屋外対応12×6cm(OK-MG)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0B9MFGHY7",
+      "item_name": "宅配ボックス ステッカー 置き配 ステッカー対応 宅配ボックス シールで簡単配送案内 ネコデザイン 防水・屋外対応12×6cm(OK-ST)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 2097.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0CSXQM9NW",
+      "item_name": "宅配ボックス ステッカー マグネット 置き配 マグネット＆ステッカー対応 宅配ボックス シールで簡単配送案内 ネコデザイン 防水・屋外対応12×6cm(OK-MG-CH)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B09X79BWDQ",
+      "item_name": "宅配ボックス ステッカー マグネット 置き配 マグネット＆ステッカー対応 宅配ボックス シールで簡単配送案内 ネコデザイン 12×12cm 防水・屋外対応 (TH-MG)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 3750.0,
+      "t30d_units": 5.0
+    }
+  ]
+}

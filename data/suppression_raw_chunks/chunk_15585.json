@@ -1,1 +1,49 @@
-{"1099252294602": [{"asin": "B0F242GYSD", "item_name": "キャンプ用ポータブルシャワー 6000mAh 充電式キャンプシャワー 5.3ガロン折りたたみ式バケツ付き フィルター付きシャワーヘッド、ハイキング/RV、旅行、洗車/ペットバス用アウトドアキャンプシャワーポンプ", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B07B6NP36Q", "item_name": "CozyBomB™ マグネット式 魚釣りおもちゃ ゲームセット｜水遊び・お風呂・プール用 釣り竿と網付き｜浮遊魚と海の生き物｜3〜8歳 子供 誕生日プレゼント お風呂おもちゃ 釣りゲーム", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 73149.53, "t30d_units": 43.0}, {"asin": "B07TJH8BLB", "item_name": "CozyBomB™ マグネット式 魚釣りおもちゃ ゲームセット｜水遊び・お風呂・プール用 釣り竿と網付き｜浮遊魚と海の生き物｜3〜8歳 子供 誕生日プレゼント お風呂おもちゃ 釣りゲーム", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 56568.44, "t30d_units": 24.0}, {"asin": "B0CZNY3NYV", "item_name": "100 Pcs マグネットブロック 磁石ブロック おもちゃ 子供 知育玩具 磁石ブロック マグネット 男の子と女の子 おもちゃ 誕生日プレゼント クリスマス ギフト 贈り物", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 173075.48, "t30d_units": 49.0}, {"asin": "B0FBRX25S6", "item_name": "123ピース 大型 磁石ブロック セット - 大サイズマグネットタイル 知育玩具 3歳 4歳 5歳 7～12歳 男の子 女の子 プレゼント STEM モンテッソーリ センサリー プレスクール ラーニング", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "3.VRP missing", "pf": "L&L", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "1099252294602": [
+    {
+      "asin": "B0F242GYSD",
+      "item_name": "キャンプ用ポータブルシャワー 6000mAh 充電式キャンプシャワー 5.3ガロン折りたたみ式バケツ付き フィルター付きシャワーヘッド、ハイキング/RV、旅行、洗車/ペットバス用アウトドアキャンプシャワーポンプ",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B07B6NP36Q",
+      "item_name": "CozyBomB™ マグネット式 魚釣りおもちゃ ゲームセット｜水遊び・お風呂・プール用 釣り竿と網付き｜浮遊魚と海の生き物｜3〜8歳 子供 誕生日プレゼント お風呂おもちゃ 釣りゲーム",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 73149.53,
+      "t30d_units": 43.0
+    },
+    {
+      "asin": "B07TJH8BLB",
+      "item_name": "CozyBomB™ マグネット式 魚釣りおもちゃ ゲームセット｜水遊び・お風呂・プール用 釣り竿と網付き｜浮遊魚と海の生き物｜3〜8歳 子供 誕生日プレゼント お風呂おもちゃ 釣りゲーム",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 56568.44,
+      "t30d_units": 24.0
+    },
+    {
+      "asin": "B0CZNY3NYV",
+      "item_name": "100 Pcs マグネットブロック 磁石ブロック おもちゃ 子供 知育玩具 磁石ブロック マグネット 男の子と女の子 おもちゃ 誕生日プレゼント クリスマス ギフト 贈り物",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 173075.48,
+      "t30d_units": 49.0
+    },
+    {
+      "asin": "B0FBRX25S6",
+      "item_name": "123ピース 大型 磁石ブロック セット - 大サイズマグネットタイル 知育玩具 3歳 4歳 5歳 7～12歳 男の子 女の子 プレゼント STEM モンテッソーリ センサリー プレスクール ラーニング",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "L&L",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

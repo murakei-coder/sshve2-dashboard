@@ -1,1 +1,49 @@
-{"1157560465802": [{"asin": "B0GCNGD3P1", "item_name": "【Android 16 タブレット 8インチ 4G通信/Wi-Fiモデル】Headwolf Fpad6 SE タブレット Helio G100 120Hz高リフレッシュレート 24GB+128GB+1TB拡張 Tablet SIMフリー 1340*800 5500mAh Widevine L1対応 無線投影 顔認識 8MP/16MP力メラ GPS対応 デュアルスピーカー 薄型軽量", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1476387.0, "t30d_units": 75.0}, {"asin": "B0FVF9MLBH", "item_name": "Headwolf Titan 1 Android15 タブレット 8インチ Dimensity 8300、2.5K 144Hz高リフレッシュレート 24GB LPDDR5X+256GB UFS 4.0 2TB拡張、上下デュアルスピーカー、7200mAh USB3.0 HDMI/DP対応、simフリー タブレット WiFi-6E WidevineL1 光センサー GPS 8MP+16MP", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 28740116.28, "t30d_units": 597.0}, {"asin": "B0G8FX4KWF", "item_name": "Android 16 タブレット 10インチ Wi-Fiモデル Headwolf WPad6 、8コアCPU T615、24GB(4+20拡張)RAM+128GB ROM、Widevine L1対応、6000mAh、5MP/8MP、2.4/5GHz WiFi、BT5.0、顔認識+ワイヤレス投影+GPS、3.5mmイヤホンジャック付き", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 3540661.99, "t30d_units": 233.0}, {"asin": "B0GJ3S68KD", "item_name": "Android 16 タブレット 11インチ Wi-Fiモデル Headwolf WPad7、In-Cell 1920x1200 FHD、8000mAh、8コアCPU T615、24GB(4+20拡張)RAM+128GB ROM、Widevine L1対応、5MP/13MP、2.4/5GHz WiFi、BT5.0、重力センサー+顔認識+ワイヤレス投影+GPS", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0G338K9WJ", "item_name": "Headwolf タブレット ８インチ Android 15 SIMフリー - FPad7 tablet MT8791T 2560x1600解像度 16(8+8拡張)GB LPDDR5 256GB UFS 3.1 6軸ジャイロ 6500mAh PD18W急速充電 4G通信 WiFi6 BT5.2 Widevine L1 8MP/16MP 顔認識 ワイヤレス投影 GPS アンドロイド", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 12339634.27, "t30d_units": 452.0}]}
+{
+  "1157560465802": [
+    {
+      "asin": "B0GCNGD3P1",
+      "item_name": "【Android 16 タブレット 8インチ 4G通信/Wi-Fiモデル】Headwolf Fpad6 SE タブレット Helio G100 120Hz高リフレッシュレート 24GB+128GB+1TB拡張 Tablet SIMフリー 1340*800 5500mAh Widevine L1対応 無線投影 顔認識 8MP/16MP力メラ GPS対応 デュアルスピーカー 薄型軽量",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1476387.0,
+      "t30d_units": 75.0
+    },
+    {
+      "asin": "B0FVF9MLBH",
+      "item_name": "Headwolf Titan 1 Android15 タブレット 8インチ Dimensity 8300、2.5K 144Hz高リフレッシュレート 24GB LPDDR5X+256GB UFS 4.0 2TB拡張、上下デュアルスピーカー、7200mAh USB3.0 HDMI/DP対応、simフリー タブレット WiFi-6E WidevineL1 光センサー GPS 8MP+16MP",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 28740116.28,
+      "t30d_units": 597.0
+    },
+    {
+      "asin": "B0G8FX4KWF",
+      "item_name": "Android 16 タブレット 10インチ Wi-Fiモデル Headwolf WPad6 、8コアCPU T615、24GB(4+20拡張)RAM+128GB ROM、Widevine L1対応、6000mAh、5MP/8MP、2.4/5GHz WiFi、BT5.0、顔認識+ワイヤレス投影+GPS、3.5mmイヤホンジャック付き",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 3540661.99,
+      "t30d_units": 233.0
+    },
+    {
+      "asin": "B0GJ3S68KD",
+      "item_name": "Android 16 タブレット 11インチ Wi-Fiモデル Headwolf WPad7、In-Cell 1920x1200 FHD、8000mAh、8コアCPU T615、24GB(4+20拡張)RAM+128GB ROM、Widevine L1対応、5MP/13MP、2.4/5GHz WiFi、BT5.0、重力センサー+顔認識+ワイヤレス投影+GPS",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0G338K9WJ",
+      "item_name": "Headwolf タブレット ８インチ Android 15 SIMフリー - FPad7 tablet MT8791T 2560x1600解像度 16(8+8拡張)GB LPDDR5 256GB UFS 3.1 6軸ジャイロ 6500mAh PD18W急速充電 4G通信 WiFi6 BT5.2 Widevine L1 8MP/16MP 顔認識 ワイヤレス投影 GPS アンドロイド",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 12339634.27,
+      "t30d_units": 452.0
+    }
+  ]
+}

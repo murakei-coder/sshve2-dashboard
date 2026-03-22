@@ -1,1 +1,22 @@
-{"1117579336502": [{"asin": "B0FP5TZS1L", "item_name": "Re-IN リン スカルプブラシ メンズ 男性用 シャンプーブラシ 硬め 頭皮ブラシ 頭皮マッサージブラシ ヘッドスパブラシ スカルプケアブラシ 頭皮マッサージ メンズ シャンプー 頭皮ケア ブラシ シリコン 毛穴洗浄 皮脂汚れ除去 シリコンヘッドスパ リフレッシュ", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 11220.0, "t30d_units": 6.0}, {"asin": "B0FM71TLB6", "item_name": "リン スカルプシャンプー スカルプシャンプー メンズ 380ml スカルプケア スカルプ 無添加 リンスインシャンプー ノンシリコン サロン オールインワン", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 872493.83, "t30d_units": 432.0}]}
+{
+  "1117579336502": [
+    {
+      "asin": "B0FP5TZS1L",
+      "item_name": "Re-IN リン スカルプブラシ メンズ 男性用 シャンプーブラシ 硬め 頭皮ブラシ 頭皮マッサージブラシ ヘッドスパブラシ スカルプケアブラシ 頭皮マッサージ メンズ シャンプー 頭皮ケア ブラシ シリコン 毛穴洗浄 皮脂汚れ除去 シリコンヘッドスパ リフレッシュ",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 11220.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0FM71TLB6",
+      "item_name": "リン スカルプシャンプー スカルプシャンプー メンズ 380ml スカルプケア スカルプ 無添加 リンスインシャンプー ノンシリコン サロン オールインワン",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 872493.83,
+      "t30d_units": 432.0
+    }
+  ]
+}

@@ -1,1 +1,76 @@
-{"62722568122": [{"asin": "B0D6RBQ229", "item_name": "アイロン 小型 ミニアイロン 手芸用 ドライアイロン 衣類 デュアル電圧 海外対応 430g軽量 コンパクト 旅行 出張用(ミントグリーン)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 411763.97, "t30d_units": 107.0}, {"asin": "B0GF8HHWYQ", "item_name": "Mistsince スチームクリーナー ハンディ 15点セット 高圧スチーム洗浄 軽量タイプ 家庭用 ポータブル キッチン掃除 お風呂掃除 畳 油汚れ 水垢 年末清掃 除菌 1年商品保証", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0D6RDVR9Z", "item_name": "アイロン 小型 ミニアイロン 手芸用 ドライアイロン 衣類 デュアル電圧 海外対応 430g軽量 コンパクト 旅行 出張用(ダークブラウン)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 469235.0, "t30d_units": 121.0}, {"asin": "B09NVBX8CT", "item_name": "スチームクリーナー 高温スチームモップ スチーム掃除機 年末 年始 3段階蒸気量調節 床 玄関 水あか 油汚れ 家中どこでも使える 19点セット 1台多役", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 515144.4, "t30d_units": 62.0}, {"asin": "B0BKZQBYWV", "item_name": "衣類スチーマー スチームアイロン ハンガーにかけたまま 立ち上がり15秒 ハンディーアイロン パワフル連続スチーム機能 2段階スチーム プレス 水漏れ防止 軽量 アイロンパット付き 2WAY", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 7650.0, "t30d_units": 2.0}, {"asin": "B0DB639YP8", "item_name": "衣類スチーマー スチームアイロン 360°連続スチーム 3段階温度調節&スチーム調節 目詰まり除去機能 除菌 脱臭 ドライ機能付き2WAY 水漏れ防止 アイロンパット付き 軽量 小型【2025新登場】 (グレー＆ホワイト)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 18364.46, "t30d_units": 5.0}, {"asin": "B0G3WF42RH", "item_name": "スチームクリーナー 18点セット 全部屋対応1320mL 床 浴室 キッチン 多機能除菌スチームクリーナー 高い場所の掃除 天井掃除 油汚れ大掃除 コンパクト 軽量 2ldk 長時間掃除 PSE済み", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 66293.0, "t30d_units": 7.0}, {"asin": "B0C6F9FBV1", "item_name": "Mistsince スチームクリーナー スチームモップ 高温スチーム掃除機 カーベッドグライダー付き 450mL スチーム調整機能 水拭き 軽量 コンパクト 床 油汚れ 絨毯 畳 フローリング 大掃除", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 232820.0, "t30d_units": 33.0}]}
+{
+  "62722568122": [
+    {
+      "asin": "B0D6RBQ229",
+      "item_name": "アイロン 小型 ミニアイロン 手芸用 ドライアイロン 衣類 デュアル電圧 海外対応 430g軽量 コンパクト 旅行 出張用(ミントグリーン)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 411763.97,
+      "t30d_units": 107.0
+    },
+    {
+      "asin": "B0GF8HHWYQ",
+      "item_name": "Mistsince スチームクリーナー ハンディ 15点セット 高圧スチーム洗浄 軽量タイプ 家庭用 ポータブル キッチン掃除 お風呂掃除 畳 油汚れ 水垢 年末清掃 除菌 1年商品保証",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0D6RDVR9Z",
+      "item_name": "アイロン 小型 ミニアイロン 手芸用 ドライアイロン 衣類 デュアル電圧 海外対応 430g軽量 コンパクト 旅行 出張用(ダークブラウン)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 469235.0,
+      "t30d_units": 121.0
+    },
+    {
+      "asin": "B09NVBX8CT",
+      "item_name": "スチームクリーナー 高温スチームモップ スチーム掃除機 年末 年始 3段階蒸気量調節 床 玄関 水あか 油汚れ 家中どこでも使える 19点セット 1台多役",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 515144.4,
+      "t30d_units": 62.0
+    },
+    {
+      "asin": "B0BKZQBYWV",
+      "item_name": "衣類スチーマー スチームアイロン ハンガーにかけたまま 立ち上がり15秒 ハンディーアイロン パワフル連続スチーム機能 2段階スチーム プレス 水漏れ防止 軽量 アイロンパット付き 2WAY",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 7650.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0DB639YP8",
+      "item_name": "衣類スチーマー スチームアイロン 360°連続スチーム 3段階温度調節&スチーム調節 目詰まり除去機能 除菌 脱臭 ドライ機能付き2WAY 水漏れ防止 アイロンパット付き 軽量 小型【2025新登場】 (グレー＆ホワイト)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 18364.46,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0G3WF42RH",
+      "item_name": "スチームクリーナー 18点セット 全部屋対応1320mL 床 浴室 キッチン 多機能除菌スチームクリーナー 高い場所の掃除 天井掃除 油汚れ大掃除 コンパクト 軽量 2ldk 長時間掃除 PSE済み",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 66293.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0C6F9FBV1",
+      "item_name": "Mistsince スチームクリーナー スチームモップ 高温スチーム掃除機 カーベッドグライダー付き 450mL スチーム調整機能 水拭き 軽量 コンパクト 床 油汚れ 絨毯 畳 フローリング 大掃除",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 232820.0,
+      "t30d_units": 33.0
+    }
+  ]
+}

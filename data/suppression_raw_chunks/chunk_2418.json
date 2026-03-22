@@ -1,1 +1,40 @@
-{"6861853945": [{"asin": "B0DCZ8ZTD5", "item_name": "IKOU ペット用酸素濃度計 ペット用酸素ケージ適用 高精度 酸素濃度測定器 酸素室 O2測定濃度範囲 0-100%", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 1144242.0, "t30d_units": 63.0}, {"asin": "B0DB2GL4BK", "item_name": "IKOU ペット用酸素発生器 大型5L酸素発生器 濃度90％ 大型ペット用 犬 猫 動物 5Lタイプ (東日本50Hz)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 0.0, "t30d_units": 0.0}, {"asin": "B0D8FKT2RL", "item_name": "IKOU 大型 ペット用酸素発生器 高濃度酸素発生器 濃度90％ 大型ペット用 犬 猫 動物 5Lタイプ (西日本60Hz)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 209182.0, "t30d_units": 2.0}, {"asin": "B0DCYWYXS6", "item_name": "IKOU ペット酸素発生器 日本語パネル 安定供給 酸素吸入器 軽量 コンパクト リモコン付き 犬 猫 ペット用", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 4007414.0, "t30d_units": 152.0}]}
+{
+  "6861853945": [
+    {
+      "asin": "B0DCZ8ZTD5",
+      "item_name": "IKOU ペット用酸素濃度計 ペット用酸素ケージ適用 高精度 酸素濃度測定器 酸素室 O2測定濃度範囲 0-100%",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 1144242.0,
+      "t30d_units": 63.0
+    },
+    {
+      "asin": "B0DB2GL4BK",
+      "item_name": "IKOU ペット用酸素発生器 大型5L酸素発生器 濃度90％ 大型ペット用 犬 猫 動物 5Lタイプ (東日本50Hz)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    },
+    {
+      "asin": "B0D8FKT2RL",
+      "item_name": "IKOU 大型 ペット用酸素発生器 高濃度酸素発生器 濃度90％ 大型ペット用 犬 猫 動物 5Lタイプ (西日本60Hz)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 209182.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0DCYWYXS6",
+      "item_name": "IKOU ペット酸素発生器 日本語パネル 安定供給 酸素吸入器 軽量 コンパクト リモコン付き 犬 猫 ペット用",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 4007414.0,
+      "t30d_units": 152.0
+    }
+  ]
+}

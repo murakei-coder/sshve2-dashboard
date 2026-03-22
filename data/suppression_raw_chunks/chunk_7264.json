@@ -1,1 +1,31 @@
-{"48555894022": [{"asin": "B0CW2Z4N2J", "item_name": "BINGI 車載冷蔵庫 18L ポータブル冷蔵庫 コンパクト設計で 3WAY電源対応 12V/24V DC & 100-240V AC 両用 -18℃～15℃ 温度調整可能 軽量 静音 省エネ 車中泊 キャンプ 旅行 トラック ボート用", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0FC6C64S4", "item_name": "BINGI 車載冷蔵庫 22L ブルーシルバー雪花柄 コンパクト設計 ポータブル冷凍冷蔵庫 急速冷却(-18℃) 12/24V車載&AC家庭用両対応 静音省エネ 車中泊 キャンプ 旅行に最適", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 0.0, "t30d_units": 0.0}, {"asin": "B0FC6DD14X", "item_name": "BINGI 車載冷蔵庫 30L ポータブル冷蔵庫 3WAY電源 12V 24V AC100-240V 対応 -18℃〜15℃ 温度調整 大容量 静音 省エネ 車中泊 キャンプ トラック ボート用", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 311586.0, "t30d_units": 19.0}]}
+{
+  "48555894022": [
+    {
+      "asin": "B0CW2Z4N2J",
+      "item_name": "BINGI 車載冷蔵庫 18L ポータブル冷蔵庫 コンパクト設計で 3WAY電源対応 12V/24V DC & 100-240V AC 両用 -18℃～15℃ 温度調整可能 軽量 静音 省エネ 車中泊 キャンプ 旅行 トラック ボート用",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0FC6C64S4",
+      "item_name": "BINGI 車載冷蔵庫 22L ブルーシルバー雪花柄 コンパクト設計 ポータブル冷凍冷蔵庫 急速冷却(-18℃) 12/24V車載&AC家庭用両対応 静音省エネ 車中泊 キャンプ 旅行に最適",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    },
+    {
+      "asin": "B0FC6DD14X",
+      "item_name": "BINGI 車載冷蔵庫 30L ポータブル冷蔵庫 3WAY電源 12V 24V AC100-240V 対応 -18℃〜15℃ 温度調整 大容量 静音 省エネ 車中泊 キャンプ トラック ボート用",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 311586.0,
+      "t30d_units": 19.0
+    }
+  ]
+}

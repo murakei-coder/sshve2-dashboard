@@ -1,1 +1,40 @@
-{"989425671502": [{"asin": "B0D869F866", "item_name": "Bluetooth トランスミッター＆ レシーバー 3.5mm 一台三役 送信/受信/音声アシスタント/ハンズフリー通話 超小型 10時間連続運転 車/PC/テレビ/スピーカー/アンプなど適用 充電しながら使用可 技適取得済み 【メーカー正規品】(ブラックグレー)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 279341.12, "t30d_units": 184.0}, {"asin": "B0D12RJDTJ", "item_name": "自転車ライト USB充電式 自転車 ライト IPX5防水 自転車ヘッドライト テールライト付き 1000ルーメン 4つ調光モード クロスバイク ロードバイク キャンプ ハイキング サイクリング", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 55545.0, "t30d_units": 55.0}, {"asin": "B0FKHG3V7P", "item_name": "Bluetooth 5.4 トランスミッター ＆ レシーバー 2-in-1 送受信両対応 CDクオリティ LEDディスプレイ 2台同時接続 18時間連続運転 受信機&送信機 低遅延 3.5mm 飛行機/車載/テレビ/ホーム 充電しながら使用可 『TELEC認証済み』", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1525196.03, "t30d_units": 696.0}, {"asin": "B0CNXWZ25L", "item_name": "USB2.0 ビデオキャプチャー 1920×1080p 1080P対応 ビデオ/VHS 8mm DVD ダビング パソコン取り込み ビデオキャプチャー キャプチャーボード Windows & Mac 対応 【日本語取扱説明書】", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1067843.37, "t30d_units": 604.0}]}
+{
+  "989425671502": [
+    {
+      "asin": "B0D869F866",
+      "item_name": "Bluetooth トランスミッター＆ レシーバー 3.5mm 一台三役 送信/受信/音声アシスタント/ハンズフリー通話 超小型 10時間連続運転 車/PC/テレビ/スピーカー/アンプなど適用 充電しながら使用可 技適取得済み 【メーカー正規品】(ブラックグレー)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 279341.12,
+      "t30d_units": 184.0
+    },
+    {
+      "asin": "B0D12RJDTJ",
+      "item_name": "自転車ライト USB充電式 自転車 ライト IPX5防水 自転車ヘッドライト テールライト付き 1000ルーメン 4つ調光モード クロスバイク ロードバイク キャンプ ハイキング サイクリング",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 55545.0,
+      "t30d_units": 55.0
+    },
+    {
+      "asin": "B0FKHG3V7P",
+      "item_name": "Bluetooth 5.4 トランスミッター ＆ レシーバー 2-in-1 送受信両対応 CDクオリティ LEDディスプレイ 2台同時接続 18時間連続運転 受信機&送信機 低遅延 3.5mm 飛行機/車載/テレビ/ホーム 充電しながら使用可 『TELEC認証済み』",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1525196.03,
+      "t30d_units": 696.0
+    },
+    {
+      "asin": "B0CNXWZ25L",
+      "item_name": "USB2.0 ビデオキャプチャー 1920×1080p 1080P対応 ビデオ/VHS 8mm DVD ダビング パソコン取り込み ビデオキャプチャー キャプチャーボード Windows & Mac 対応 【日本語取扱説明書】",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1067843.37,
+      "t30d_units": 604.0
+    }
+  ]
+}

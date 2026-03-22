@@ -1,1 +1,22 @@
-{"726643862402": [{"asin": "B09TQY66NH", "item_name": "Sensyne スマホ三脚 157cm 自撮り棒 カメラリモコン付き Android/iOS対応 5段階伸縮 三脚スタンド コンパクト 自撮り兼用 軽量 収納便利 すべてのスマホ機種対応", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 28493.33, "t30d_units": 11.0}, {"asin": "B0CHB31MGX", "item_name": "Sensyne 撮影用ライト ビデオライト三色ライト マグネット式 スマホライト 充電式 クリップライト コンパクト 持ち運び 自撮りライト 目にやさしい光 スマホ/カメラ取付可能 補助照明", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "726643862402": [
+    {
+      "asin": "B09TQY66NH",
+      "item_name": "Sensyne スマホ三脚 157cm 自撮り棒 カメラリモコン付き Android/iOS対応 5段階伸縮 三脚スタンド コンパクト 自撮り兼用 軽量 収納便利 すべてのスマホ機種対応",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 28493.33,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0CHB31MGX",
+      "item_name": "Sensyne 撮影用ライト ビデオライト三色ライト マグネット式 スマホライト 充電式 クリップライト コンパクト 持ち運び 自撮りライト 目にやさしい光 スマホ/カメラ取付可能 補助照明",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

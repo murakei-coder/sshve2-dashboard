@@ -1,1 +1,22 @@
-{"27598420322": [{"asin": "B0F91Q37RD", "item_name": "国定農産 ハトムギ粉 100g 3袋セット 国産 ハトムギパウダー 鳩麦", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 66788.69, "t30d_units": 27.0}, {"asin": "B0CVN4XP1D", "item_name": "国定農産 ハトムギ粉 100g 国産 鳩麦 はとむぎ ハトムギパウダー ヨクイニン", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 427802.21, "t30d_units": 431.0}]}
+{
+  "27598420322": [
+    {
+      "asin": "B0F91Q37RD",
+      "item_name": "国定農産 ハトムギ粉 100g 3袋セット 国産 ハトムギパウダー 鳩麦",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 66788.69,
+      "t30d_units": 27.0
+    },
+    {
+      "asin": "B0CVN4XP1D",
+      "item_name": "国定農産 ハトムギ粉 100g 国産 鳩麦 はとむぎ ハトムギパウダー ヨクイニン",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 427802.21,
+      "t30d_units": 431.0
+    }
+  ]
+}

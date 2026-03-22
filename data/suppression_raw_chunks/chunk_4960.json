@@ -1,1 +1,22 @@
-{"12645643922": [{"asin": "B0FH6SYF8R", "item_name": "HAYLOU S40 ワイヤレスヘッドホン Bluetooth 6.0 ヘッドホン 50dBノイズキャンセリング 360°空間オーディオ 無線/有線両用 最大90時間連続再生 外音取り込み クリアな通話 折り畳み可能 マルチポイント対応 専用アプリ対応 着脱式マイク付き ブラック", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 31553.0, "t30d_units": 5.0}, {"asin": "B0FH6W4Z6J", "item_name": "HAYLOU S40 ワイヤレスヘッドホン Bluetooth 6.0 ヘッドホン 50dBノイズキャンセリング 360°空間オーディオ 無線/有線両用 最大90時間連続再生 外音取り込み クリアな通話 折り畳み可能 マルチポイント対応 専用アプリ対応 着脱式マイク付き ホワイト", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 315906.04, "t30d_units": 46.0}]}
+{
+  "12645643922": [
+    {
+      "asin": "B0FH6SYF8R",
+      "item_name": "HAYLOU S40 ワイヤレスヘッドホン Bluetooth 6.0 ヘッドホン 50dBノイズキャンセリング 360°空間オーディオ 無線/有線両用 最大90時間連続再生 外音取り込み クリアな通話 折り畳み可能 マルチポイント対応 専用アプリ対応 着脱式マイク付き ブラック",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 31553.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0FH6W4Z6J",
+      "item_name": "HAYLOU S40 ワイヤレスヘッドホン Bluetooth 6.0 ヘッドホン 50dBノイズキャンセリング 360°空間オーディオ 無線/有線両用 最大90時間連続再生 外音取り込み クリアな通話 折り畳み可能 マルチポイント対応 専用アプリ対応 着脱式マイク付き ホワイト",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 315906.04,
+      "t30d_units": 46.0
+    }
+  ]
+}

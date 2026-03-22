@@ -1,1 +1,31 @@
-{"850939993102": [{"asin": "B0DC6F2L5D", "item_name": "防災ラジオ ソーラー 手回し AM/FMラジオ対応 多機能防災 3WAY充電式 LEACCO 携帯 2500mAhバッテリー TYPE-C充電 懐中電灯 SOSアラーム 防災グッズ 軽量 コンパクト 被災地 地震 台風 アウトドア 緊急対策 (ホワイト)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 177558.27, "t30d_units": 67.0}, {"asin": "B0DC6G7Y7G", "item_name": "防災ラジオ ソーラー 手回し AM/FMラジオ対応 多機能防災 3WAY充電式 LEACCO 携帯ラジオ 2500mAhバッテリー 小型ラジオ TYPE-C充電 懐中電灯 SOSアラーム 防災グッズ 軽量 コンパクト 被災地 地震 台風 アウトドア 緊急対策 (グリーン)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 42080.75, "t30d_units": 16.0}, {"asin": "B0DC6GC7LP", "item_name": "防災ラジオ ソーラー 手回し AM/FMラジオ対応 多機能防災 3WAY充電式ラジオ LEACCO 携帯ラジオ 2500mAhバッテリー TYPE-C充電 懐中電灯 SOSアラーム 防災グッズ 軽量 コンパクト 被災地 地震 台風 アウトドア 緊急対策 (ブルー)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 39558.0, "t30d_units": 15.0}]}
+{
+  "850939993102": [
+    {
+      "asin": "B0DC6F2L5D",
+      "item_name": "防災ラジオ ソーラー 手回し AM/FMラジオ対応 多機能防災 3WAY充電式 LEACCO 携帯 2500mAhバッテリー TYPE-C充電 懐中電灯 SOSアラーム 防災グッズ 軽量 コンパクト 被災地 地震 台風 アウトドア 緊急対策 (ホワイト)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 177558.27,
+      "t30d_units": 67.0
+    },
+    {
+      "asin": "B0DC6G7Y7G",
+      "item_name": "防災ラジオ ソーラー 手回し AM/FMラジオ対応 多機能防災 3WAY充電式 LEACCO 携帯ラジオ 2500mAhバッテリー 小型ラジオ TYPE-C充電 懐中電灯 SOSアラーム 防災グッズ 軽量 コンパクト 被災地 地震 台風 アウトドア 緊急対策 (グリーン)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 42080.75,
+      "t30d_units": 16.0
+    },
+    {
+      "asin": "B0DC6GC7LP",
+      "item_name": "防災ラジオ ソーラー 手回し AM/FMラジオ対応 多機能防災 3WAY充電式ラジオ LEACCO 携帯ラジオ 2500mAhバッテリー TYPE-C充電 懐中電灯 SOSアラーム 防災グッズ 軽量 コンパクト 被災地 地震 台風 アウトドア 緊急対策 (ブルー)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 39558.0,
+      "t30d_units": 15.0
+    }
+  ]
+}

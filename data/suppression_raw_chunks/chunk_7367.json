@@ -1,1 +1,49 @@
-{"49238628522": [{"asin": "B0CT8FDVDG", "item_name": "【Amazon.co.jp限定】北海道産 鹿の角 犬のおもちゃ＜大型犬～中型犬 太めタイプ25cm＞", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 72280.0, "t30d_units": 26.0}, {"asin": "B09DWVJ74X", "item_name": "カムイ鹿角 北海道産 犬のおもちゃ デンタルケア 大型犬 鹿の角 しつけ いたずら防止 犬のおやつ ドッグガム 蝦夷鹿 口臭対策グッズ (大型犬 20cm)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 179746.66, "t30d_units": 61.0}, {"asin": "B09F29MG82", "item_name": "カムイ鹿角 北海道産 鹿の角 犬のおもちゃ デンタルケア 口臭対策 大型犬 蝦夷鹿 しつけ いたずら防止 超大型犬 20cm", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 7960.0, "t30d_units": 2.0}, {"asin": "B0CJ2HG3VM", "item_name": "カムイ鹿角 北海道産 犬のおもちゃ 鹿の角 超大型犬 大型犬 しつけ いたずら防止 犬のおやつ ドッグガム デンタルケア 蝦夷鹿 口臭対策グッズ ＜根本＞太め20cm", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 16400.55, "t30d_units": 5.0}, {"asin": "B09F29DHW7", "item_name": "カムイ鹿角 デンタルケア 北海道産 鹿の角 犬のおもちゃ しつけ いたずら防止 犬のおやつ ドッグガム 蝦夷鹿 口臭対策グッズ (15㎝前後（+-5㎝）枝角端材3本セット)", "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]", "suppression_category": "5.Others", "pf": "Consumables", "t30d_ops": 26080.0, "t30d_units": 11.0}]}
+{
+  "49238628522": [
+    {
+      "asin": "B0CT8FDVDG",
+      "item_name": "【Amazon.co.jp限定】北海道産 鹿の角 犬のおもちゃ＜大型犬～中型犬 太めタイプ25cm＞",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 72280.0,
+      "t30d_units": 26.0
+    },
+    {
+      "asin": "B09DWVJ74X",
+      "item_name": "カムイ鹿角 北海道産 犬のおもちゃ デンタルケア 大型犬 鹿の角 しつけ いたずら防止 犬のおやつ ドッグガム 蝦夷鹿 口臭対策グッズ (大型犬 20cm)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 179746.66,
+      "t30d_units": 61.0
+    },
+    {
+      "asin": "B09F29MG82",
+      "item_name": "カムイ鹿角 北海道産 鹿の角 犬のおもちゃ デンタルケア 口臭対策 大型犬 蝦夷鹿 しつけ いたずら防止 超大型犬 20cm",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 7960.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0CJ2HG3VM",
+      "item_name": "カムイ鹿角 北海道産 犬のおもちゃ 鹿の角 超大型犬 大型犬 しつけ いたずら防止 犬のおやつ ドッグガム デンタルケア 蝦夷鹿 口臭対策グッズ ＜根本＞太め20cm",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 16400.55,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B09F29DHW7",
+      "item_name": "カムイ鹿角 デンタルケア 北海道産 鹿の角 犬のおもちゃ しつけ いたずら防止 犬のおやつ ドッグガム 蝦夷鹿 口臭対策グッズ (15㎝前後（+-5㎝）枝角端材3本セット)",
+      "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
+      "suppression_category": "5.Others",
+      "pf": "Consumables",
+      "t30d_ops": 26080.0,
+      "t30d_units": 11.0
+    }
+  ]
+}

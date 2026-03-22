@@ -1,1 +1,22 @@
-{"670269617002": [{"asin": "B0CQ7ZVZCJ", "item_name": "ディスプレイオーディオ 4Kフロントカメラと1080Pリアカメラ付き CarPlay/Android Auto/ミラーリング対応 9.26インチ ポータブルカーオーディオ タッチスクリーン ワイヤレスカープレイ/アンドロイドオート ナビ 音楽再生 音声制御 WiFi/Bluetooth/AUX/FM 工事不要 取付簡単 色々な車種に対応 駐車補助 録画 64GB", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 311901.0, "t30d_units": 21.0}, {"asin": "B0D86K9M7R", "item_name": "ディスプレイオーディオ 9.26インチ Carplay&Android Auto無線接続 リアカメラ付き 駐車補助 ポータブルカーオーディオ タッチスクリーン 車載モニター ワイヤレスステレオ ナビ 音楽 電話 Googel/Siri音声制御 Bluetooth/AUX/FM ミラーリング 工事不要 取付簡単 色々な車種に対応 1年間メーカー保証付き Avylet", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 664771.0, "t30d_units": 59.0}]}
+{
+  "670269617002": [
+    {
+      "asin": "B0CQ7ZVZCJ",
+      "item_name": "ディスプレイオーディオ 4Kフロントカメラと1080Pリアカメラ付き CarPlay/Android Auto/ミラーリング対応 9.26インチ ポータブルカーオーディオ タッチスクリーン ワイヤレスカープレイ/アンドロイドオート ナビ 音楽再生 音声制御 WiFi/Bluetooth/AUX/FM 工事不要 取付簡単 色々な車種に対応 駐車補助 録画 64GB",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 311901.0,
+      "t30d_units": 21.0
+    },
+    {
+      "asin": "B0D86K9M7R",
+      "item_name": "ディスプレイオーディオ 9.26インチ Carplay&Android Auto無線接続 リアカメラ付き 駐車補助 ポータブルカーオーディオ タッチスクリーン 車載モニター ワイヤレスステレオ ナビ 音楽 電話 Googel/Siri音声制御 Bluetooth/AUX/FM ミラーリング 工事不要 取付簡単 色々な車種に対応 1年間メーカー保証付き Avylet",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 664771.0,
+      "t30d_units": 59.0
+    }
+  ]
+}

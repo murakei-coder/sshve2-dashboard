@@ -1,1 +1,22 @@
-{"7815037155": [{"asin": "B098NWTLPB", "item_name": "UDOLI 多機能収納スタンド スマートフォン・タブレット用 スタンドスマホスタンド 6台 卓上携帯電話タブレット収納ブラケットホワイト", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 37011.3, "t30d_units": 31.0}, {"asin": "B08B5Q5ZM6", "item_name": "UDOLI 多機能収納スタンド スマートフォン・タブレット用スタンド[6台収納タイプ]ブラック", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 80562.78, "t30d_units": 70.0}]}
+{
+  "7815037155": [
+    {
+      "asin": "B098NWTLPB",
+      "item_name": "UDOLI 多機能収納スタンド スマートフォン・タブレット用 スタンドスマホスタンド 6台 卓上携帯電話タブレット収納ブラケットホワイト",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 37011.3,
+      "t30d_units": 31.0
+    },
+    {
+      "asin": "B08B5Q5ZM6",
+      "item_name": "UDOLI 多機能収納スタンド スマートフォン・タブレット用スタンド[6台収納タイプ]ブラック",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 80562.78,
+      "t30d_units": 70.0
+    }
+  ]
+}

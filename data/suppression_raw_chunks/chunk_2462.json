@@ -1,1 +1,58 @@
-{"6908825355": [{"asin": "B07KRVY6FG", "item_name": "花畑牧場 お徳用生キャラメル500g (プレーン)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 176454.0, "t30d_units": 40.0}, {"asin": "B0B6HYK4FQ", "item_name": "花畑牧場 冷凍ブラータ チーズ ~生モッツァレラ~ 70g×12個セット (70g×12個入×3)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 162250.0, "t30d_units": 13.0}, {"asin": "B0GKFT66G7", "item_name": "花畑牧場 訳ありメダルモッツァレラ1kg", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 1815282.0, "t30d_units": 562.0}, {"asin": "B0784R1267", "item_name": "花畑牧場 ラクレット チーズ クラッシュタイプ 1kg (1kg×3) 【冷凍配送】", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0D7BX8Z19", "item_name": "花畑牧場 カマンベールチーズ プレーン 90g×9個セット 【冷蔵配送】", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 190120.0, "t30d_units": 49.0}, {"asin": "B0798KK656", "item_name": "花畑牧場 業務用 フレッシュモッツァレラ チーズ ひとくちタイプ 500g【冷凍配送】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 3240.0, "t30d_units": 1.0}]}
+{
+  "6908825355": [
+    {
+      "asin": "B07KRVY6FG",
+      "item_name": "花畑牧場 お徳用生キャラメル500g (プレーン)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 176454.0,
+      "t30d_units": 40.0
+    },
+    {
+      "asin": "B0B6HYK4FQ",
+      "item_name": "花畑牧場 冷凍ブラータ チーズ ~生モッツァレラ~ 70g×12個セット (70g×12個入×3)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 162250.0,
+      "t30d_units": 13.0
+    },
+    {
+      "asin": "B0GKFT66G7",
+      "item_name": "花畑牧場 訳ありメダルモッツァレラ1kg",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 1815282.0,
+      "t30d_units": 562.0
+    },
+    {
+      "asin": "B0784R1267",
+      "item_name": "花畑牧場 ラクレット チーズ クラッシュタイプ 1kg (1kg×3) 【冷凍配送】",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0D7BX8Z19",
+      "item_name": "花畑牧場 カマンベールチーズ プレーン 90g×9個セット 【冷蔵配送】",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 190120.0,
+      "t30d_units": 49.0
+    },
+    {
+      "asin": "B0798KK656",
+      "item_name": "花畑牧場 業務用 フレッシュモッツァレラ チーズ ひとくちタイプ 500g【冷凍配送】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 3240.0,
+      "t30d_units": 1.0
+    }
+  ]
+}

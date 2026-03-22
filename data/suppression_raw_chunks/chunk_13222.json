@@ -1,1 +1,31 @@
-{"840442503702": [{"asin": "B0DFTQKFBP", "item_name": "【京都製 宇治 抹茶 】抹茶パウダー 50g 粉末 無添加 抹茶ラテ スイーツ matcha powder 製菓用", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 619982.36, "t30d_units": 696.0}, {"asin": "B0D7LT4R3H", "item_name": "【国産・北海道産】黒豆茶 ティーバッグ 30包｜ノンカフェイン・無添加・水出しOK・ホットでも美味しい｜黒豆ポリフェノール・アントシアニン・イソフラボン豊富｜黒豆茶 国産 ダイエット 美容 健康茶 UPWELL", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 119384.5, "t30d_units": 170.0}, {"asin": "B0DFTMSST1", "item_name": "抹茶 宇治 抹茶パウダー 粉末 150g 無添加 抹茶ラテ スイーツ matcha powder 京都製造 製菓用 たっぷり 業務用", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 333598.75, "t30d_units": 161.0}]}
+{
+  "840442503702": [
+    {
+      "asin": "B0DFTQKFBP",
+      "item_name": "【京都製 宇治 抹茶 】抹茶パウダー 50g 粉末 無添加 抹茶ラテ スイーツ matcha powder 製菓用",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 619982.36,
+      "t30d_units": 696.0
+    },
+    {
+      "asin": "B0D7LT4R3H",
+      "item_name": "【国産・北海道産】黒豆茶 ティーバッグ 30包｜ノンカフェイン・無添加・水出しOK・ホットでも美味しい｜黒豆ポリフェノール・アントシアニン・イソフラボン豊富｜黒豆茶 国産 ダイエット 美容 健康茶 UPWELL",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 119384.5,
+      "t30d_units": 170.0
+    },
+    {
+      "asin": "B0DFTMSST1",
+      "item_name": "抹茶 宇治 抹茶パウダー 粉末 150g 無添加 抹茶ラテ スイーツ matcha powder 京都製造 製菓用 たっぷり 業務用",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 333598.75,
+      "t30d_units": 161.0
+    }
+  ]
+}

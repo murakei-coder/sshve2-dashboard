@@ -1,1 +1,67 @@
-{"1088783703102": [{"asin": "B0FRY766H8", "item_name": "GoPro 公式品 MAX2 360°アクションカメラ True 8K/10bit 交換式レンズ 搭載Max HyperSmoothとMax HyperView 4K100の360度ビデオで3倍スローモーション 5.6K60でも最大2倍スロー対応 128GB SD Card", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 15000.0, "t30d_units": 0.0}, {"asin": "B0FCYL82LV", "item_name": "GoPro 公式品 HERO13 Black 純正マルチアクセサリーセット 認定SDカード＆予備バッテリー＆AKTTR（クリップ/三脚/収納袋）同梱 5.3K60fps HDR 400fpsスローモーション【国内正規品】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 359200.0, "t30d_units": 4.0}, {"asin": "B0FCYH7GZP", "item_name": "GoPro 公式品 アクションカメラ HERO+128GB 認定高速SDカード+トラベルキット | AKTTR (Shorty、マグネティック スイベルクリップ、カメラケースのセット) 4K 超軽量86g 5m防水 HyperSmooth手ブレ補正 タッチ画面対応 内蔵バッテリー 【国内正規品】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 109600.0, "t30d_units": 2.0}, {"asin": "B0FRY6HN8Y", "item_name": "GoPro 公式品 MAX2 360°アクションカメラ True 8K/10bit 交換式レンズ 搭載Max HyperSmoothとMax HyperView 4K100の360度ビデオで3倍スローモーション 5.6K60でも最大2倍スロー対応128GB 2年保証 充電器+バッテリ3個", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 763021.0, "t30d_units": 8.0}, {"asin": "B0FCYT5Q97", "item_name": "GoPro 公式品 HERO13 Black +128GB 認定高速SDカード 5.3K60fps 10bit HDR 400fps/13倍スローモーション 初心者セット【国内正規品】", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1054354.42, "t30d_units": 16.0}, {"asin": "B0FCYHMTRH", "item_name": "GoPro 公式品 HERO13 Black+マグネット式ラッチマウント+Shortyミニ延長ポール+128GB 認定高速SDカード 5.3K60fps 10bit HDR 400fps/13倍スローモーション【国内正規品】", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 306473.0, "t30d_units": 4.0}, {"asin": "B0FCYKXN4Q", "item_name": "GoPro 公式品 HERO13 Black+デュアルバッテリーチャージャー+バッテリー3個+128GB 認定高速SDカード+マグネティック スイベルクリップ 5.3K60fps 10bit HLG-HDR 400fps/13倍スローモーション 瞬着長持ちセット【国内正規品】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 3415503.43, "t30d_units": 46.0}]}
+{
+  "1088783703102": [
+    {
+      "asin": "B0FRY766H8",
+      "item_name": "GoPro 公式品 MAX2 360°アクションカメラ True 8K/10bit 交換式レンズ 搭載Max HyperSmoothとMax HyperView 4K100の360度ビデオで3倍スローモーション 5.6K60でも最大2倍スロー対応 128GB SD Card",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 15000.0,
+      "t30d_units": 0.0
+    },
+    {
+      "asin": "B0FCYL82LV",
+      "item_name": "GoPro 公式品 HERO13 Black 純正マルチアクセサリーセット 認定SDカード＆予備バッテリー＆AKTTR（クリップ/三脚/収納袋）同梱 5.3K60fps HDR 400fpsスローモーション【国内正規品】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 359200.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0FCYH7GZP",
+      "item_name": "GoPro 公式品 アクションカメラ HERO+128GB 認定高速SDカード+トラベルキット | AKTTR (Shorty、マグネティック スイベルクリップ、カメラケースのセット) 4K 超軽量86g 5m防水 HyperSmooth手ブレ補正 タッチ画面対応 内蔵バッテリー 【国内正規品】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 109600.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0FRY6HN8Y",
+      "item_name": "GoPro 公式品 MAX2 360°アクションカメラ True 8K/10bit 交換式レンズ 搭載Max HyperSmoothとMax HyperView 4K100の360度ビデオで3倍スローモーション 5.6K60でも最大2倍スロー対応128GB 2年保証 充電器+バッテリ3個",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 763021.0,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B0FCYT5Q97",
+      "item_name": "GoPro 公式品 HERO13 Black +128GB 認定高速SDカード 5.3K60fps 10bit HDR 400fps/13倍スローモーション 初心者セット【国内正規品】",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1054354.42,
+      "t30d_units": 16.0
+    },
+    {
+      "asin": "B0FCYHMTRH",
+      "item_name": "GoPro 公式品 HERO13 Black+マグネット式ラッチマウント+Shortyミニ延長ポール+128GB 認定高速SDカード 5.3K60fps 10bit HDR 400fps/13倍スローモーション【国内正規品】",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 306473.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0FCYKXN4Q",
+      "item_name": "GoPro 公式品 HERO13 Black+デュアルバッテリーチャージャー+バッテリー3個+128GB 認定高速SDカード+マグネティック スイベルクリップ 5.3K60fps 10bit HLG-HDR 400fps/13倍スローモーション 瞬着長持ちセット【国内正規品】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 3415503.43,
+      "t30d_units": 46.0
+    }
+  ]
+}

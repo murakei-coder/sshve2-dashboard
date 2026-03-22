@@ -1,1 +1,67 @@
-{"1112432620402": [{"asin": "B0FMY5PYDY", "item_name": "SKYWORTH テレビ 43インチ 4K対応 UHD 液晶 地上波対応 Googleテレビ ネット動画 スマートテレビ 低ブルーライト ダブルチューナー 外付けHDD 裏番組録画 Bluetooth 目に優しい 43型 43G6600H スカイワース", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 108760.0, "t30d_units": 2.0}, {"asin": "B0FMY3VXWW", "item_name": "SKYWORTH テレビ 40インチ FHD 液晶 地上波対応 Googleテレビ ネット動画 スマートテレビ 低ブルーライト ダブルチューナー 外付けHDD 裏番組録画 Bluetooth 目に優しい 40型 40E5500G スカイワース", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 78560.0, "t30d_units": 2.0}, {"asin": "B0FMY711WV", "item_name": "SKYWORTH テレビ 55インチ 4K対応 UHD 液晶 地上波対応 Googleテレビ ネット動画 スマートテレビ 低ブルーライト ダブルチューナー 外付けHDD 裏番組録画 Bluetooth 目に優しい 55型 55G6600H スカイワース", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 133960.0, "t30d_units": 2.0}, {"asin": "B0FMXLGJ2G", "item_name": "SKYWORTH テレビ 24インチ チューナーレス FHD ポータブルテレビ ネット動画 スマートテレビ Bluetooth 液晶 アウトドア コンパクト 持ち運び便利 内蔵バッテリー 24型 24P5600H スカイワース", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 36980.0, "t30d_units": 1.0}, {"asin": "B0FMY13RQ9", "item_name": "SKYWORTH テレビ 32インチ HD 液晶 地上波対応 Googleテレビ ネット動画 スマートテレビ 低ブルーライト ダブルチューナー 外付けHDD 裏番組録画 Bluetooth 目に優しい 32型 32E5500G スカイワース", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 99992.0, "t30d_units": 3.0}, {"asin": "B0FMY5SQKH", "item_name": "SKYWORTH テレビ 50インチ 4K対応 UHD 液晶 地上波対応 Googleテレビ ネット動画 スマートテレビ 低ブルーライト ダブルチューナー 外付けHDD 裏番組録画 Bluetooth 目に優しい 50型 50G6600H スカイワース", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 62979.75, "t30d_units": 1.0}, {"asin": "B0FMY6PXX1", "item_name": "SKYWORTH テレビ 65インチ 4K対応 UHD 液晶 地上波対応 Googleテレビ ネット動画 スマートテレビ 低ブルーライト ダブルチューナー 外付けHDD 裏番組録画 Bluetooth 目に優しい 65型 65G6600H スカイワース", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0.0, "t30d_units": 0.0}]}
+{
+  "1112432620402": [
+    {
+      "asin": "B0FMY5PYDY",
+      "item_name": "SKYWORTH テレビ 43インチ 4K対応 UHD 液晶 地上波対応 Googleテレビ ネット動画 スマートテレビ 低ブルーライト ダブルチューナー 外付けHDD 裏番組録画 Bluetooth 目に優しい 43型 43G6600H スカイワース",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 108760.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0FMY3VXWW",
+      "item_name": "SKYWORTH テレビ 40インチ FHD 液晶 地上波対応 Googleテレビ ネット動画 スマートテレビ 低ブルーライト ダブルチューナー 外付けHDD 裏番組録画 Bluetooth 目に優しい 40型 40E5500G スカイワース",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 78560.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0FMY711WV",
+      "item_name": "SKYWORTH テレビ 55インチ 4K対応 UHD 液晶 地上波対応 Googleテレビ ネット動画 スマートテレビ 低ブルーライト ダブルチューナー 外付けHDD 裏番組録画 Bluetooth 目に優しい 55型 55G6600H スカイワース",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 133960.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0FMXLGJ2G",
+      "item_name": "SKYWORTH テレビ 24インチ チューナーレス FHD ポータブルテレビ ネット動画 スマートテレビ Bluetooth 液晶 アウトドア コンパクト 持ち運び便利 内蔵バッテリー 24型 24P5600H スカイワース",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 36980.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0FMY13RQ9",
+      "item_name": "SKYWORTH テレビ 32インチ HD 液晶 地上波対応 Googleテレビ ネット動画 スマートテレビ 低ブルーライト ダブルチューナー 外付けHDD 裏番組録画 Bluetooth 目に優しい 32型 32E5500G スカイワース",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 99992.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0FMY5SQKH",
+      "item_name": "SKYWORTH テレビ 50インチ 4K対応 UHD 液晶 地上波対応 Googleテレビ ネット動画 スマートテレビ 低ブルーライト ダブルチューナー 外付けHDD 裏番組録画 Bluetooth 目に優しい 50型 50G6600H スカイワース",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 62979.75,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0FMY6PXX1",
+      "item_name": "SKYWORTH テレビ 65インチ 4K対応 UHD 液晶 地上波対応 Googleテレビ ネット動画 スマートテレビ 低ブルーライト ダブルチューナー 外付けHDD 裏番組録画 Bluetooth 目に優しい 65型 65G6600H スカイワース",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    }
+  ]
+}

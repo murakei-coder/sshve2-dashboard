@@ -1,1 +1,94 @@
-{"46049303422": [{"asin": "B0D5WB67R9", "item_name": "ドーパミン高配合 集中力 サプリ ムクナ豆7500mg カフェイン ホスファチジルセリン GABA イチョウ葉 5-ALA チロシン トリプトファン アルギニン 「パーフェクトチャージEX」（90粒 30日分）", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": -9567.0, "t30d_units": -4.0}, {"asin": "B08W41KH5B", "item_name": "【ベルスノウ】ハイドロキノン5.5% 配合 ハイドロキノンクリーム 30日分 幹細胞 スクワランオイル 日本製 10g", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 299152.71, "t30d_units": 271.0}, {"asin": "B095PL99HH", "item_name": "パーフェクトクリアEX ホスファチジルセリン PS イチョウの葉 ムクナ豆 サプリメント GABA チロシン レシチン(30日分)日本製", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 1611185.74, "t30d_units": 1077.0}, {"asin": "B08VGBWM3N", "item_name": "パーフェクトカリウム カリウム サプリメント 1215mg 乳酸菌 塩化カリウム カルニチン ビタミン ポリフェノール クエン酸 生姜 アンフレーバー タブレット 日本製 30日分", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 284937.77, "t30d_units": 224.0}, {"asin": "B0CQR922KF", "item_name": "【パーフェクトクリアEX Premium 】ホスファチジルセリン PS イチョウの葉 ムクナ豆 サプリメント GABA DHA チロシン レシチン カプセル (30日分90粒) 日本製【管理栄養士監修】", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 667566.46, "t30d_units": 358.0}, {"asin": "B0DM1HMJPY", "item_name": "【獣医師W監修】パーフェクトわんケア 関節・足プラス 犬 関節 サプリ コンドロイチン グルコサミン DHA", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 263546.69, "t30d_units": 198.0}, {"asin": "B0G4MMCMNZ", "item_name": "【医師×管理栄養士のW監修】リポソームビタミンC サプリメント 2000㎎配合 タイムリリース 国内GMP認定工場 パーフェクトVITAC 120粒 30日分", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 331467.76, "t30d_units": 244.0}, {"asin": "B0D5W993PP", "item_name": "【医師×管理栄養士のW監修】国産菊芋サプリ サラシア イヌリン 高配合50000mg ５-ALA 食物繊維 納豆菌 乳酸菌 1.2兆個 ビタミンB₂ 酸化マグネシウム GABA 国内産菊芋サプリ「パーフェクト イヌリン 菊 EX」(240粒 30日分 日本製)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 83970.49, "t30d_units": 64.0}, {"asin": "B0DNR2BYHR", "item_name": "【獣医師W監修】パーフェクトわんケア 乳酸菌プラス 犬 猫 サプリメント 腸活 腸内環境 整腸", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 177980.23, "t30d_units": 135.0}, {"asin": "B09949BDHF", "item_name": "【管理栄養士監修】クリアカフェイン カフェイン サプリメント 100mg ホスファチジルセリン カカオ タウリン 日本製 30日分", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 291012.84, "t30d_units": 329.0}]}
+{
+  "46049303422": [
+    {
+      "asin": "B0D5WB67R9",
+      "item_name": "ドーパミン高配合 集中力 サプリ ムクナ豆7500mg カフェイン ホスファチジルセリン GABA イチョウ葉 5-ALA チロシン トリプトファン アルギニン 「パーフェクトチャージEX」（90粒 30日分）",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": -9567.0,
+      "t30d_units": -4.0
+    },
+    {
+      "asin": "B08W41KH5B",
+      "item_name": "【ベルスノウ】ハイドロキノン5.5% 配合 ハイドロキノンクリーム 30日分 幹細胞 スクワランオイル 日本製 10g",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 299152.71,
+      "t30d_units": 271.0
+    },
+    {
+      "asin": "B095PL99HH",
+      "item_name": "パーフェクトクリアEX ホスファチジルセリン PS イチョウの葉 ムクナ豆 サプリメント GABA チロシン レシチン(30日分)日本製",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 1611185.74,
+      "t30d_units": 1077.0
+    },
+    {
+      "asin": "B08VGBWM3N",
+      "item_name": "パーフェクトカリウム カリウム サプリメント 1215mg 乳酸菌 塩化カリウム カルニチン ビタミン ポリフェノール クエン酸 生姜 アンフレーバー タブレット 日本製 30日分",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 284937.77,
+      "t30d_units": 224.0
+    },
+    {
+      "asin": "B0CQR922KF",
+      "item_name": "【パーフェクトクリアEX Premium 】ホスファチジルセリン PS イチョウの葉 ムクナ豆 サプリメント GABA DHA チロシン レシチン カプセル (30日分90粒) 日本製【管理栄養士監修】",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 667566.46,
+      "t30d_units": 358.0
+    },
+    {
+      "asin": "B0DM1HMJPY",
+      "item_name": "【獣医師W監修】パーフェクトわんケア 関節・足プラス 犬 関節 サプリ コンドロイチン グルコサミン DHA",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 263546.69,
+      "t30d_units": 198.0
+    },
+    {
+      "asin": "B0G4MMCMNZ",
+      "item_name": "【医師×管理栄養士のW監修】リポソームビタミンC サプリメント 2000㎎配合 タイムリリース 国内GMP認定工場 パーフェクトVITAC 120粒 30日分",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 331467.76,
+      "t30d_units": 244.0
+    },
+    {
+      "asin": "B0D5W993PP",
+      "item_name": "【医師×管理栄養士のW監修】国産菊芋サプリ サラシア イヌリン 高配合50000mg ５-ALA 食物繊維 納豆菌 乳酸菌 1.2兆個 ビタミンB₂ 酸化マグネシウム GABA 国内産菊芋サプリ「パーフェクト イヌリン 菊 EX」(240粒 30日分 日本製)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 83970.49,
+      "t30d_units": 64.0
+    },
+    {
+      "asin": "B0DNR2BYHR",
+      "item_name": "【獣医師W監修】パーフェクトわんケア 乳酸菌プラス 犬 猫 サプリメント 腸活 腸内環境 整腸",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 177980.23,
+      "t30d_units": 135.0
+    },
+    {
+      "asin": "B09949BDHF",
+      "item_name": "【管理栄養士監修】クリアカフェイン カフェイン サプリメント 100mg ホスファチジルセリン カカオ タウリン 日本製 30日分",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 291012.84,
+      "t30d_units": 329.0
+    }
+  ]
+}

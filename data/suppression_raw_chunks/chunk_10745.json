@@ -1,1 +1,49 @@
-{"538772241802": [{"asin": "B0CD86RGG6", "item_name": "鹿角さん 鹿の角 犬 用 おもちゃ 大型犬用 けんか角 1本 北海道産 蝦夷鹿 天然 無添加 オゾン処理 デンタルケア 大ケンカ1", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 13640.0, "t30d_units": 5.0}, {"asin": "B0BFNDV419", "item_name": "鹿角さん 鹿の角 犬 用 おもちゃ 小型犬用 四つ割り 1本 北海道産 蝦夷鹿 天然 無添加 オゾン処理 デンタルケア 小4割", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 294229.01, "t30d_units": 272.0}, {"asin": "B0BFNG16M9", "item_name": "鹿角さん 鹿の角 犬 用 おもちゃ 小型犬用 ロング 四つ割り 1本 北海道産 蝦夷鹿 天然 無添加 オゾン処理 デンタルケア 小4割ロング", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 197484.14, "t30d_units": 141.0}, {"asin": "B0CD86HDFN", "item_name": "鹿角さん 鹿の角 犬 用 おもちゃ 小型犬用 割ってない先端 1本 北海道産 蝦夷鹿 天然 無添加 オゾン処理 デンタルケア 小先端1", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 39202.98, "t30d_units": 36.0}, {"asin": "B0BFNDL5KM", "item_name": "鹿角さん 鹿の角 犬 用 おもちゃ 中型犬用 四つ割り 1本 北海道産 蝦夷鹿 天然 無添加 オゾン処理 デンタルケア 中4割", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 168768.66, "t30d_units": 97.0}]}
+{
+  "538772241802": [
+    {
+      "asin": "B0CD86RGG6",
+      "item_name": "鹿角さん 鹿の角 犬 用 おもちゃ 大型犬用 けんか角 1本 北海道産 蝦夷鹿 天然 無添加 オゾン処理 デンタルケア 大ケンカ1",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 13640.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0BFNDV419",
+      "item_name": "鹿角さん 鹿の角 犬 用 おもちゃ 小型犬用 四つ割り 1本 北海道産 蝦夷鹿 天然 無添加 オゾン処理 デンタルケア 小4割",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 294229.01,
+      "t30d_units": 272.0
+    },
+    {
+      "asin": "B0BFNG16M9",
+      "item_name": "鹿角さん 鹿の角 犬 用 おもちゃ 小型犬用 ロング 四つ割り 1本 北海道産 蝦夷鹿 天然 無添加 オゾン処理 デンタルケア 小4割ロング",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 197484.14,
+      "t30d_units": 141.0
+    },
+    {
+      "asin": "B0CD86HDFN",
+      "item_name": "鹿角さん 鹿の角 犬 用 おもちゃ 小型犬用 割ってない先端 1本 北海道産 蝦夷鹿 天然 無添加 オゾン処理 デンタルケア 小先端1",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 39202.98,
+      "t30d_units": 36.0
+    },
+    {
+      "asin": "B0BFNDL5KM",
+      "item_name": "鹿角さん 鹿の角 犬 用 おもちゃ 中型犬用 四つ割り 1本 北海道産 蝦夷鹿 天然 無添加 オゾン処理 デンタルケア 中4割",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 168768.66,
+      "t30d_units": 97.0
+    }
+  ]
+}

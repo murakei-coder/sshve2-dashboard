@@ -1,1 +1,22 @@
-{"1083084373802": [{"asin": "B0F6LMK2TS", "item_name": "スマートウォッチ【2025年進化モデル＆SOS機能追加】1.9インチ大画面 Bluetooth5.3 通話機能付き iPhone対応 アンドロイド対応 活動量計 歩数計 腕時計 スポーツウォッチ 多種類運動モード 着信/メッセージ通知 音楽再生 200+文字盤切替 目覚まし時計 生活防水 長持ちバッテリー メンズ レディース 軽量 (", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 20580.0, "t30d_units": 6.0}, {"asin": "B0FM3XFBYQ", "item_name": "シェーバー 電気シェーバー ひげそり 電動シェーバー 髭剃り", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0.0, "t30d_units": 0.0}]}
+{
+  "1083084373802": [
+    {
+      "asin": "B0F6LMK2TS",
+      "item_name": "スマートウォッチ【2025年進化モデル＆SOS機能追加】1.9インチ大画面 Bluetooth5.3 通話機能付き iPhone対応 アンドロイド対応 活動量計 歩数計 腕時計 スポーツウォッチ 多種類運動モード 着信/メッセージ通知 音楽再生 200+文字盤切替 目覚まし時計 生活防水 長持ちバッテリー メンズ レディース 軽量 (",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 20580.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0FM3XFBYQ",
+      "item_name": "シェーバー 電気シェーバー ひげそり 電動シェーバー 髭剃り",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    }
+  ]
+}

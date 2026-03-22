@@ -1,1 +1,31 @@
-{"3458469122": [{"asin": "B08LG2X6QB", "item_name": "大宜味シークヮーサーパーク 専門店のシークヮーサー果汁100% 1.5L ／ 無添加", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 4968311.97, "t30d_units": 1423.0}, {"asin": "B0742KWDGX", "item_name": "沖縄特産販売 青切りシークヮーサー 100 プレミアム 720ml [ ストレート 原液 沖縄 大宜味村 青切り 100% 生搾り ノビレチン ビタミンC ] ボトル", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 4123265.34, "t30d_units": 1244.0}, {"asin": "B08LG57MGY", "item_name": "大宜味シークヮーサーパーク 青切り果汁 720ml ／ シークワーサー果汁100% 無添加", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 3259684.41, "t30d_units": 1252.0}]}
+{
+  "3458469122": [
+    {
+      "asin": "B08LG2X6QB",
+      "item_name": "大宜味シークヮーサーパーク 専門店のシークヮーサー果汁100% 1.5L ／ 無添加",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 4968311.97,
+      "t30d_units": 1423.0
+    },
+    {
+      "asin": "B0742KWDGX",
+      "item_name": "沖縄特産販売 青切りシークヮーサー 100 プレミアム 720ml [ ストレート 原液 沖縄 大宜味村 青切り 100% 生搾り ノビレチン ビタミンC ] ボトル",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 4123265.34,
+      "t30d_units": 1244.0
+    },
+    {
+      "asin": "B08LG57MGY",
+      "item_name": "大宜味シークヮーサーパーク 青切り果汁 720ml ／ シークワーサー果汁100% 無添加",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 3259684.41,
+      "t30d_units": 1252.0
+    }
+  ]
+}

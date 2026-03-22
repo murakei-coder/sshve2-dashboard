@@ -1,1 +1,49 @@
-{"1121993367502": [{"asin": "B0GM6FKWG6", "item_name": "電動ブロワー 小型 ブロアー エアダスター ミニ 超強力30,0000RPM高速回転 強力風速120m/s 3段階風量調整&4段階調光調整 明るさ140ルーメン 8000mAh 200分使用可 5種類ノズル PC掃除/エアコン/キーボード/洗車用 1HType-C急速充電式 日本語取扱説明書付き (ライトグレー)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0GM6F947L", "item_name": "電動ブロワー 小型 ブロアー エアダスター ミニ 超強力300,0000RPM高速回転 強力風速120m/s 3段階風量調整&4段階調光調整 明るさ140ルーメン 8000mAh 200分使用可 5種類ノズル PC掃除/エアコン/キーボード/洗車用 2HType-C急速充電式 日本語取扱説明書付き (グレー)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0FJFP9WMS", "item_name": "【超小型ながら暴風級】電動エアダスター 300,000RPM エアダスター 3段風量調整 洗車ブロワー 大容量バッテリー 8000mAh 連続200分使用可能 LCDディスプレイ搭載 ２個LEDライト付き AI省エネチップ搭載 洗車/車内/PC/キーボード/カメラ掃除/落ち葉の吹き飛ばし 日本語取扱説明書", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 135966.33, "t30d_units": 33.0}, {"asin": "B0GM6FNHN9", "item_name": "電動ブロワー 小型 ブロアー エアダスター ミニ 超強力300,0000RPM高速回転 強力風速120m/s 3段階風量調整&4段階調光調整 明るさ120ルーメン 8000mAh 200分使用可 5種類ノズル PC掃除/エアコン/キーボード/洗車用 2HType-C急速充電式 日本語取扱説明書付き (ダークグレー)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "3.VRP missing", "pf": "L&L", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0GM6DLVM2", "item_name": "電動ブロワー 小型 ブロアー エアダスター ミニ 超強力300,0000RPM高速回転 強力風速120m/s 3段階風量調整&4段階調光調整 明るさ140ルーメン 8000mAh 200分使用可 5種類ノズル PC掃除/エアコン/キーボード/洗車用 1HType-C急速充電式 日本語取扱説明書付き (シルバー)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "1121993367502": [
+    {
+      "asin": "B0GM6FKWG6",
+      "item_name": "電動ブロワー 小型 ブロアー エアダスター ミニ 超強力30,0000RPM高速回転 強力風速120m/s 3段階風量調整&4段階調光調整 明るさ140ルーメン 8000mAh 200分使用可 5種類ノズル PC掃除/エアコン/キーボード/洗車用 1HType-C急速充電式 日本語取扱説明書付き (ライトグレー)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0GM6F947L",
+      "item_name": "電動ブロワー 小型 ブロアー エアダスター ミニ 超強力300,0000RPM高速回転 強力風速120m/s 3段階風量調整&4段階調光調整 明るさ140ルーメン 8000mAh 200分使用可 5種類ノズル PC掃除/エアコン/キーボード/洗車用 2HType-C急速充電式 日本語取扱説明書付き (グレー)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0FJFP9WMS",
+      "item_name": "【超小型ながら暴風級】電動エアダスター 300,000RPM エアダスター 3段風量調整 洗車ブロワー 大容量バッテリー 8000mAh 連続200分使用可能 LCDディスプレイ搭載 ２個LEDライト付き AI省エネチップ搭載 洗車/車内/PC/キーボード/カメラ掃除/落ち葉の吹き飛ばし 日本語取扱説明書",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 135966.33,
+      "t30d_units": 33.0
+    },
+    {
+      "asin": "B0GM6FNHN9",
+      "item_name": "電動ブロワー 小型 ブロアー エアダスター ミニ 超強力300,0000RPM高速回転 強力風速120m/s 3段階風量調整&4段階調光調整 明るさ120ルーメン 8000mAh 200分使用可 5種類ノズル PC掃除/エアコン/キーボード/洗車用 2HType-C急速充電式 日本語取扱説明書付き (ダークグレー)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "L&L",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0GM6DLVM2",
+      "item_name": "電動ブロワー 小型 ブロアー エアダスター ミニ 超強力300,0000RPM高速回転 強力風速120m/s 3段階風量調整&4段階調光調整 明るさ140ルーメン 8000mAh 200分使用可 5種類ノズル PC掃除/エアコン/キーボード/洗車用 1HType-C急速充電式 日本語取扱説明書付き (シルバー)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

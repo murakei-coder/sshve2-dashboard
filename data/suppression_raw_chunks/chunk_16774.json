@@ -1,1 +1,40 @@
-{"1167566999002": [{"asin": "B0GHSFPSPB", "item_name": "[UMIUSO] トートバッグ メンズ 大容量 トートバッグ キャンバス ショルダーバッグ メッセンジャーバッグ ファスナー付き ポケット 帆布 無地 通学通勤 おしゃれ 買い物 旅行 (ブラック)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Softlines", "t30d_ops": 5871.0, "t30d_units": 3.0}, {"asin": "B0G95CNDGB", "item_name": "[UMIUSO] キャンバスバッグ 斜めがけ 大容量 トートバッグ キャンバス 肩掛け 斜め掛け 手で持てる 3way 斜めがけショルダーバッグ 帆布 無地 内ポケット*2＋外ポケット*2 買い物 旅行 通学通勤 男女兼用 ベージュ", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Softlines", "t30d_ops": 8282.0, "t30d_units": 10.0}, {"asin": "B0GHSQ9ZGT", "item_name": "[UMIUSO] トートバッグ キャンバス ショルダーバッグ メンズ メッセンジャーバッグ 大容量 ファスナー付き ポケット 帆布 無地 通学通勤 おしゃれ 買い物 旅行 (オフホワイト)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Softlines", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0G95K9BT8", "item_name": "[UMIUSO] キャンバスバッグ 斜めがけ 大容量 トートバッグ キャンバス 肩掛け 斜め掛け 手で持てる 3way 斜めがけショルダーバッグ 帆布 無地 内ポケット*2＋外ポケット*2 買い物 旅行 通学通勤 男女兼用 ブラック", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Softlines", "t30d_ops": 298.0, "t30d_units": 1.0}]}
+{
+  "1167566999002": [
+    {
+      "asin": "B0GHSFPSPB",
+      "item_name": "[UMIUSO] トートバッグ メンズ 大容量 トートバッグ キャンバス ショルダーバッグ メッセンジャーバッグ ファスナー付き ポケット 帆布 無地 通学通勤 おしゃれ 買い物 旅行 (ブラック)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Softlines",
+      "t30d_ops": 5871.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0G95CNDGB",
+      "item_name": "[UMIUSO] キャンバスバッグ 斜めがけ 大容量 トートバッグ キャンバス 肩掛け 斜め掛け 手で持てる 3way 斜めがけショルダーバッグ 帆布 無地 内ポケット*2＋外ポケット*2 買い物 旅行 通学通勤 男女兼用 ベージュ",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Softlines",
+      "t30d_ops": 8282.0,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B0GHSQ9ZGT",
+      "item_name": "[UMIUSO] トートバッグ キャンバス ショルダーバッグ メンズ メッセンジャーバッグ 大容量 ファスナー付き ポケット 帆布 無地 通学通勤 おしゃれ 買い物 旅行 (オフホワイト)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Softlines",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0G95K9BT8",
+      "item_name": "[UMIUSO] キャンバスバッグ 斜めがけ 大容量 トートバッグ キャンバス 肩掛け 斜め掛け 手で持てる 3way 斜めがけショルダーバッグ 帆布 無地 内ポケット*2＋外ポケット*2 買い物 旅行 通学通勤 男女兼用 ブラック",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Softlines",
+      "t30d_ops": 298.0,
+      "t30d_units": 1.0
+    }
+  ]
+}

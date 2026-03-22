@@ -1,1 +1,31 @@
-{"47572353322": [{"asin": "B0FMXNGGFM", "item_name": "【大正九年創業 豆の水野】 大豆 北海道産100% 国産 乾燥大豆（煮豆・惣菜・豆腐用）品種銘柄：とよまさり", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 95076.94, "t30d_units": 69.0}, {"asin": "B0FMXHDKSY", "item_name": "【大正九年創業 豆の水野】 黒大豆 北海道産100% 国産 黒豆 乾燥大豆（おせち・煮豆・黒豆茶用） 品種銘柄：光黒大豆", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 166619.56, "t30d_units": 84.0}, {"asin": "B0FMXHHTPN", "item_name": "【大正九年創業 豆の水野】 小豆 北海道産100% 国産 乾燥豆（お赤飯・おしるこ・あんこ用）あずき 品種：赤小豆", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 109900.15, "t30d_units": 61.0}]}
+{
+  "47572353322": [
+    {
+      "asin": "B0FMXNGGFM",
+      "item_name": "【大正九年創業 豆の水野】 大豆 北海道産100% 国産 乾燥大豆（煮豆・惣菜・豆腐用）品種銘柄：とよまさり",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 95076.94,
+      "t30d_units": 69.0
+    },
+    {
+      "asin": "B0FMXHDKSY",
+      "item_name": "【大正九年創業 豆の水野】 黒大豆 北海道産100% 国産 黒豆 乾燥大豆（おせち・煮豆・黒豆茶用） 品種銘柄：光黒大豆",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 166619.56,
+      "t30d_units": 84.0
+    },
+    {
+      "asin": "B0FMXHHTPN",
+      "item_name": "【大正九年創業 豆の水野】 小豆 北海道産100% 国産 乾燥豆（お赤飯・おしるこ・あんこ用）あずき 品種：赤小豆",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 109900.15,
+      "t30d_units": 61.0
+    }
+  ]
+}

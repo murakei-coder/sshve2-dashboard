@@ -1,1 +1,40 @@
-{"54524761522": [{"asin": "B09P8CKN35", "item_name": "自転車 サドルカバー 【インストラクター推薦】 クッション 防水 痛くない エアロバイク クロスバイク JOIEM (通常タイプ)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 33820.25, "t30d_units": 19.0}, {"asin": "B0CTC3D75D", "item_name": "男性用尿器 尿瓶 しびん 【看護師推薦】 ねじ込み式の蓋 こぼれない 1000㎖ 大容量 漏れ防止 軽い JOIEM (グリーン)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 71435.8, "t30d_units": 50.0}, {"asin": "B0CTC31ZNJ", "item_name": "男性用尿器 尿瓶 【看護師推薦】 しびん ねじ込み式の蓋 こぼれない 1000㎖ 大容量 漏れ防止 軽い JOIEM (ブルー)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 238658.73, "t30d_units": 161.0}, {"asin": "B09P8CH479", "item_name": "自転車 サドルカバー 【インストラクター推薦】 クッション 痛くない エアロバイク クロスバイク JOIEM (超肉厚タイプ)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 1441260.85, "t30d_units": 603.0}]}
+{
+  "54524761522": [
+    {
+      "asin": "B09P8CKN35",
+      "item_name": "自転車 サドルカバー 【インストラクター推薦】 クッション 防水 痛くない エアロバイク クロスバイク JOIEM (通常タイプ)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 33820.25,
+      "t30d_units": 19.0
+    },
+    {
+      "asin": "B0CTC3D75D",
+      "item_name": "男性用尿器 尿瓶 しびん 【看護師推薦】 ねじ込み式の蓋 こぼれない 1000㎖ 大容量 漏れ防止 軽い JOIEM (グリーン)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 71435.8,
+      "t30d_units": 50.0
+    },
+    {
+      "asin": "B0CTC31ZNJ",
+      "item_name": "男性用尿器 尿瓶 【看護師推薦】 しびん ねじ込み式の蓋 こぼれない 1000㎖ 大容量 漏れ防止 軽い JOIEM (ブルー)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 238658.73,
+      "t30d_units": 161.0
+    },
+    {
+      "asin": "B09P8CH479",
+      "item_name": "自転車 サドルカバー 【インストラクター推薦】 クッション 痛くない エアロバイク クロスバイク JOIEM (超肉厚タイプ)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 1441260.85,
+      "t30d_units": 603.0
+    }
+  ]
+}

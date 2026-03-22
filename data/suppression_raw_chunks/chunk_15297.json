@@ -1,1 +1,49 @@
-{"1082758960302": [{"asin": "B0956XJGSF", "item_name": "【整備済み品】Apple iPad (第８世代) Wi-Fi + Cellular 128GB シルバー", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1377861.99, "t30d_units": 41.0}, {"asin": "B0956XKJZH", "item_name": "【整備済み品】 Apple iPad (第８世代) Wi-Fi + Cellular 32GB スペースグレイ (整備済み品)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 5349161.95, "t30d_units": 235.0}, {"asin": "B09574H6T2", "item_name": "【整備済み品】 Apple iPad (第８世代) Wi-Fi + Cellular 128GB スペースグレイ (整備済み品)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 851284.33, "t30d_units": 24.0}, {"asin": "B0956XXWTG", "item_name": "【整備済み品】 Apple iPad (第８世代) Wi-Fi + Cellular 32GB シルバー (整備済み品)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 5462571.77, "t30d_units": 244.0}, {"asin": "B095765NZY", "item_name": "【整備済み品】Apple iPad (第８世代) Wi-Fi + Cellular 128GB ゴールド", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 37000.0, "t30d_units": 1.0}]}
+{
+  "1082758960302": [
+    {
+      "asin": "B0956XJGSF",
+      "item_name": "【整備済み品】Apple iPad (第８世代) Wi-Fi + Cellular 128GB シルバー",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1377861.99,
+      "t30d_units": 41.0
+    },
+    {
+      "asin": "B0956XKJZH",
+      "item_name": "【整備済み品】 Apple iPad (第８世代) Wi-Fi + Cellular 32GB スペースグレイ (整備済み品)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 5349161.95,
+      "t30d_units": 235.0
+    },
+    {
+      "asin": "B09574H6T2",
+      "item_name": "【整備済み品】 Apple iPad (第８世代) Wi-Fi + Cellular 128GB スペースグレイ (整備済み品)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 851284.33,
+      "t30d_units": 24.0
+    },
+    {
+      "asin": "B0956XXWTG",
+      "item_name": "【整備済み品】 Apple iPad (第８世代) Wi-Fi + Cellular 32GB シルバー (整備済み品)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 5462571.77,
+      "t30d_units": 244.0
+    },
+    {
+      "asin": "B095765NZY",
+      "item_name": "【整備済み品】Apple iPad (第８世代) Wi-Fi + Cellular 128GB ゴールド",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 37000.0,
+      "t30d_units": 1.0
+    }
+  ]
+}

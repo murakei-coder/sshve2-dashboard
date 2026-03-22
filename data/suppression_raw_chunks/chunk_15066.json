@@ -1,1 +1,85 @@
-{"1068900519402": [{"asin": "B0D6N8GHDN", "item_name": "リアス ディープモイスチャー CICA トリートメント [ 美容室 サロントリートメント ダメージ集中補修 うるおい保湿 ツヤ髪 ] 1袋 / 310ml", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 24750.25, "t30d_units": 17.0}, {"asin": "B0DNM8D3ZQ", "item_name": "riasu リアス ディープ モイスチャー CICA シャンプー トリートメント セット 詰め替え 3セット[ 美容室専売品 ダメージ集中補修 うるおい保湿 ツヤ髪 ] b.ris (詰め替え シャンプー トリートメント各3袋)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 30816.54, "t30d_units": 4.0}, {"asin": "B0CQ28BN7B", "item_name": "リアス ディープ モイスチャー CICA シャンプー トリートメント 詰め替え セット [ 美容室専売品 サロンシャンプー ダメージ集中補修 うるおい保湿 ツヤ髪 ] b.ris 1セット/310ml (詰め替えセット)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 253566.21, "t30d_units": 107.0}, {"asin": "B0BH3XZBHT", "item_name": "リアス ディープモイスチャー CICA シャンプー [ 美容室 サロンシャンプー ダメージ集中補修 うるおい保湿 ツヤ髪 ] 1本/380ml", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 11682.0, "t30d_units": 6.0}, {"asin": "B0D6N7471B", "item_name": "リアス ディープモイスチャー CICA シャンプー 詰め替え [ 美容室 サロントリートメント ダメージ集中補修 うるおい保湿 ツヤ髪 ] 1袋 / 310ml", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 44884.96, "t30d_units": 31.0}, {"asin": "B0BH3Z54ZD", "item_name": "リアス ディープ モイスチャー CICA シャンプー トリートメント セット [ 美容室 サロンシャンプー ダメージ集中補修 うるおい保湿 ツヤ髪 ] 1セット/380m", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 85418.96, "t30d_units": 25.0}, {"asin": "B0DNM9ZZQX", "item_name": "riasu リアス ディープ モイスチャー CICA シャンプー 詰め替え 3袋セット[ 美容室専売品 ダメージ集中補修 うるおい保湿 ツヤ髪 ] b.ris", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 16989.0, "t30d_units": 4.0}, {"asin": "B0BH4LGMCM", "item_name": "リアス ディープモイスチャー CICA トリートメント [ 美容室 サロントリートメント ダメージ集中補修 うるおい保湿 ツヤ髪 ] 1本/380m", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 18139.0, "t30d_units": 9.0}, {"asin": "B0D6MMF12D", "item_name": "リアス ディープモイスチャー CICA シャンプー トリートメント ヘアオイル セット [ 美容室 サロントリートメント ダメージ集中補修 うるおい保湿 ツヤ髪 ] 1本 セット", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 1087.0, "t30d_units": 0.0}]}
+{
+  "1068900519402": [
+    {
+      "asin": "B0D6N8GHDN",
+      "item_name": "リアス ディープモイスチャー CICA トリートメント [ 美容室 サロントリートメント ダメージ集中補修 うるおい保湿 ツヤ髪 ] 1袋 / 310ml",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 24750.25,
+      "t30d_units": 17.0
+    },
+    {
+      "asin": "B0DNM8D3ZQ",
+      "item_name": "riasu リアス ディープ モイスチャー CICA シャンプー トリートメント セット 詰め替え 3セット[ 美容室専売品 ダメージ集中補修 うるおい保湿 ツヤ髪 ] b.ris (詰め替え シャンプー トリートメント各3袋)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 30816.54,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0CQ28BN7B",
+      "item_name": "リアス ディープ モイスチャー CICA シャンプー トリートメント 詰め替え セット [ 美容室専売品 サロンシャンプー ダメージ集中補修 うるおい保湿 ツヤ髪 ] b.ris 1セット/310ml (詰め替えセット)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 253566.21,
+      "t30d_units": 107.0
+    },
+    {
+      "asin": "B0BH3XZBHT",
+      "item_name": "リアス ディープモイスチャー CICA シャンプー [ 美容室 サロンシャンプー ダメージ集中補修 うるおい保湿 ツヤ髪 ] 1本/380ml",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 11682.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0D6N7471B",
+      "item_name": "リアス ディープモイスチャー CICA シャンプー 詰め替え [ 美容室 サロントリートメント ダメージ集中補修 うるおい保湿 ツヤ髪 ] 1袋 / 310ml",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 44884.96,
+      "t30d_units": 31.0
+    },
+    {
+      "asin": "B0BH3Z54ZD",
+      "item_name": "リアス ディープ モイスチャー CICA シャンプー トリートメント セット [ 美容室 サロンシャンプー ダメージ集中補修 うるおい保湿 ツヤ髪 ] 1セット/380m",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 85418.96,
+      "t30d_units": 25.0
+    },
+    {
+      "asin": "B0DNM9ZZQX",
+      "item_name": "riasu リアス ディープ モイスチャー CICA シャンプー 詰め替え 3袋セット[ 美容室専売品 ダメージ集中補修 うるおい保湿 ツヤ髪 ] b.ris",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 16989.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0BH4LGMCM",
+      "item_name": "リアス ディープモイスチャー CICA トリートメント [ 美容室 サロントリートメント ダメージ集中補修 うるおい保湿 ツヤ髪 ] 1本/380m",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 18139.0,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B0D6MMF12D",
+      "item_name": "リアス ディープモイスチャー CICA シャンプー トリートメント ヘアオイル セット [ 美容室 サロントリートメント ダメージ集中補修 うるおい保湿 ツヤ髪 ] 1本 セット",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 1087.0,
+      "t30d_units": 0.0
+    }
+  ]
+}

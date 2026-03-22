@@ -1,1 +1,58 @@
-{"43497224922": [{"asin": "B0BWLRJCWX", "item_name": "MYNATURA モリンガ タブレット 300mg×90粒 乳酸菌 ビフィズス菌 サプリメント　サプリ", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 16345.0, "t30d_units": 2.0}, {"asin": "B08Y73M5V4", "item_name": "MYNATURA フルーツ青汁 モリンガ 青汁 酵素 乳酸菌 500億個 美味しい 飲みやすい リンゴ風味 国産 パウダー 置き換えダイエット 1包11.7kcal 3g × 5包 お試し", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 5610.0, "t30d_units": 7.0}, {"asin": "B09YV4JGC7", "item_name": "MYNATURA フルーツ青汁 スーパーフード モリンガ 青汁 酵素 121種類 乳酸菌 500億個 美味しい 飲みやすい リンゴ風味 国産 パウダー 置き換えダイエット 1包11.7kcal 30包", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 332369.81, "t30d_units": 131.0}, {"asin": "B0DCS5FX4H", "item_name": "マイハニー はちみつ アカシア蜂蜜 １本に2.5兆個の 乳酸菌 美容 健康 非加熱 ハチミツ アカシア 蜂蜜 はちみつ 子供 家族 寝る前 朝食時 純粋 ハンガリー産 500g", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 365002.24, "t30d_units": 116.0}, {"asin": "B08Y73ZF6P", "item_name": "MYNATURA 子供 フルーツ青汁 【栄養士監修】 乳酸菌 100億個 食物繊維 鉄分 モリンガ ビタミンC 配合 無添加 偏食サポート いちご味 栄養機能食品 モリママの赤い青汁 お試し 3包", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 999.66, "t30d_units": 1.0}, {"asin": "B0B15M81HS", "item_name": "MYNATURA 子ども フルーツ青汁 いちご味 【栄養士監修】 乳酸菌 100億個 ビフィズス菌 10億個 オリゴ糖 食物繊維 モリンガ 鉄分 無添加 モリママの赤い青汁 25包", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 470247.32, "t30d_units": 143.0}]}
+{
+  "43497224922": [
+    {
+      "asin": "B0BWLRJCWX",
+      "item_name": "MYNATURA モリンガ タブレット 300mg×90粒 乳酸菌 ビフィズス菌 サプリメント　サプリ",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 16345.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B08Y73M5V4",
+      "item_name": "MYNATURA フルーツ青汁 モリンガ 青汁 酵素 乳酸菌 500億個 美味しい 飲みやすい リンゴ風味 国産 パウダー 置き換えダイエット 1包11.7kcal 3g × 5包 お試し",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 5610.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B09YV4JGC7",
+      "item_name": "MYNATURA フルーツ青汁 スーパーフード モリンガ 青汁 酵素 121種類 乳酸菌 500億個 美味しい 飲みやすい リンゴ風味 国産 パウダー 置き換えダイエット 1包11.7kcal 30包",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 332369.81,
+      "t30d_units": 131.0
+    },
+    {
+      "asin": "B0DCS5FX4H",
+      "item_name": "マイハニー はちみつ アカシア蜂蜜 １本に2.5兆個の 乳酸菌 美容 健康 非加熱 ハチミツ アカシア 蜂蜜 はちみつ 子供 家族 寝る前 朝食時 純粋 ハンガリー産 500g",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 365002.24,
+      "t30d_units": 116.0
+    },
+    {
+      "asin": "B08Y73ZF6P",
+      "item_name": "MYNATURA 子供 フルーツ青汁 【栄養士監修】 乳酸菌 100億個 食物繊維 鉄分 モリンガ ビタミンC 配合 無添加 偏食サポート いちご味 栄養機能食品 モリママの赤い青汁 お試し 3包",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 999.66,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0B15M81HS",
+      "item_name": "MYNATURA 子ども フルーツ青汁 いちご味 【栄養士監修】 乳酸菌 100億個 ビフィズス菌 10億個 オリゴ糖 食物繊維 モリンガ 鉄分 無添加 モリママの赤い青汁 25包",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 470247.32,
+      "t30d_units": 143.0
+    }
+  ]
+}

@@ -1,1 +1,22 @@
-{"1005095430802": [{"asin": "B0FNVR6GPV", "item_name": "THREEKEY【Qi2 25W公式認定】スマホホルダー 車 qi2 magsafe車載充電器 25W急速充電 冷却ファン付き 両面マグネットワイヤレス充電器 360°回転 高硬度亜鉛合金製の延長サポートアーム N52超強力磁石 LEDライト iPhone 17/16 iOS 26バージョンと多車種が対応 取付簡単 自由調整", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 3080961.4, "t30d_units": 678.0}, {"asin": "B0G7X59XCT", "item_name": "【Apple公認・MFi・Qi2 25W公式認証】THREEKEY 3-in-1 ワイヤレス充電ステーション｜iPhone 17/16/15/14/13/12・for Apple Watch・AirPods対応｜折りたたみ式高速充電スタンド｜1.5m編み込みケーブル付属 (ブラック)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 2087255.07, "t30d_units": 210.0}]}
+{
+  "1005095430802": [
+    {
+      "asin": "B0FNVR6GPV",
+      "item_name": "THREEKEY【Qi2 25W公式認定】スマホホルダー 車 qi2 magsafe車載充電器 25W急速充電 冷却ファン付き 両面マグネットワイヤレス充電器 360°回転 高硬度亜鉛合金製の延長サポートアーム N52超強力磁石 LEDライト iPhone 17/16 iOS 26バージョンと多車種が対応 取付簡単 自由調整",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 3080961.4,
+      "t30d_units": 678.0
+    },
+    {
+      "asin": "B0G7X59XCT",
+      "item_name": "【Apple公認・MFi・Qi2 25W公式認証】THREEKEY 3-in-1 ワイヤレス充電ステーション｜iPhone 17/16/15/14/13/12・for Apple Watch・AirPods対応｜折りたたみ式高速充電スタンド｜1.5m編み込みケーブル付属 (ブラック)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 2087255.07,
+      "t30d_units": 210.0
+    }
+  ]
+}

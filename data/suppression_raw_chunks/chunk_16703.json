@@ -1,1 +1,31 @@
-{"1160882103602": [{"asin": "B0GHFDZ49G", "item_name": "ノートパソコン14インチ1920*1080 IPS パソコンノート Celeron J4105 2.0~2.8Ghz/メモリ:DDR４ 8GB/SSD:512GB ノートPC日本語キーボードフィルム付き薄型軽量 ラップトップ 在宅ワーク/学生向け", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 40182.0, "t30d_units": 1.0}, {"asin": "B0GHF9LH5B", "item_name": "ノートパソコン14インチ1920*1080 IPS パソコンノート Celeron J4105 2.0~2.8Ghz/メモリ:DDR４ 8GB/SSD:128GB ノートPC日本語キーボードフィルム付き薄型軽量 ラップトップ 在宅ワーク/学生向け", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 0.0, "t30d_units": 0.0}, {"asin": "B0GHF71D77", "item_name": "ノートパソコン14インチ1920*1080 IPS パソコンノート Celeron J4105 2.0~2.8Ghz/メモリ:DDR４ 8GB/SSD:256GB ノートPC日本語キーボードフィルム付き薄型軽量 ラップトップ 在宅ワーク/学生向け", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 76453.0, "t30d_units": 2.0}]}
+{
+  "1160882103602": [
+    {
+      "asin": "B0GHFDZ49G",
+      "item_name": "ノートパソコン14インチ1920*1080 IPS パソコンノート Celeron J4105 2.0~2.8Ghz/メモリ:DDR４ 8GB/SSD:512GB ノートPC日本語キーボードフィルム付き薄型軽量 ラップトップ 在宅ワーク/学生向け",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 40182.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0GHF9LH5B",
+      "item_name": "ノートパソコン14インチ1920*1080 IPS パソコンノート Celeron J4105 2.0~2.8Ghz/メモリ:DDR４ 8GB/SSD:128GB ノートPC日本語キーボードフィルム付き薄型軽量 ラップトップ 在宅ワーク/学生向け",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    },
+    {
+      "asin": "B0GHF71D77",
+      "item_name": "ノートパソコン14インチ1920*1080 IPS パソコンノート Celeron J4105 2.0~2.8Ghz/メモリ:DDR４ 8GB/SSD:256GB ノートPC日本語キーボードフィルム付き薄型軽量 ラップトップ 在宅ワーク/学生向け",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 76453.0,
+      "t30d_units": 2.0
+    }
+  ]
+}

@@ -1,1 +1,22 @@
-{"6370853922": [{"asin": "B0DN19KZKR", "item_name": "フロアライト 間接照明 フロアスタンド Alexa対応 Google Home対応 フロアランプ 調光調色ルームライト 目覚め リモコン付 北欧風 新築祝い おしゃれ", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 122275.0, "t30d_units": 27.0}, {"asin": "B0CF1Q95VJ", "item_name": "フロアライト 間接照明 スタンドライト Alexa対応 Google Home対応 フロアランプ スマート家電照明 調光調色ルームライト 目覚め リモコン付 北欧風 おしゃれ", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 132228.0, "t30d_units": 22.0}]}
+{
+  "6370853922": [
+    {
+      "asin": "B0DN19KZKR",
+      "item_name": "フロアライト 間接照明 フロアスタンド Alexa対応 Google Home対応 フロアランプ 調光調色ルームライト 目覚め リモコン付 北欧風 新築祝い おしゃれ",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 122275.0,
+      "t30d_units": 27.0
+    },
+    {
+      "asin": "B0CF1Q95VJ",
+      "item_name": "フロアライト 間接照明 スタンドライト Alexa対応 Google Home対応 フロアランプ スマート家電照明 調光調色ルームライト 目覚め リモコン付 北欧風 おしゃれ",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 132228.0,
+      "t30d_units": 22.0
+    }
+  ]
+}

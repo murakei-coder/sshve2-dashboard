@@ -1,1 +1,58 @@
-{"70739045922": [{"asin": "B09YLM5XX5", "item_name": "農家の誇り波動熟成黒にんにく 訳あり 黒にんにく ミニ バラ 500ｇ 青森県産 福地ホワイト六片種", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 1537612.68, "t30d_units": 635.0}, {"asin": "B0CQLMMBWW", "item_name": "ドラコン黒にんにく バラ 250g 約1ヶ月分 青森黒にんにく問屋", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 22750.0, "t30d_units": 13.0}, {"asin": "B09W976BWH", "item_name": "黒にんにく 青森県産 訳あり 福地ホワイト六片種 農家の誇り波動熟成黒にんにく (200ｇ)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 510990.22, "t30d_units": 372.0}, {"asin": "B09W8Z1BM5", "item_name": "黒にんにく 青森県産 訳あり 福地ホワイト六片種 農家の誇り波動熟成黒にんにく (1ｋｇ)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 139008.0, "t30d_units": 29.0}, {"asin": "B0BCNCGSXW", "item_name": "にんにく 青森県産 訳あり バラ 500g 福地ホワイト六片種 青森ニンニク", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 419310.0, "t30d_units": 233.0}, {"asin": "B09W96ZBSH", "item_name": "黒にんにく 青森県産 訳あり 福地ホワイト六片種 農家の誇り波動熟成黒にんにく (500ｇ)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 109960.0, "t30d_units": 40.0}]}
+{
+  "70739045922": [
+    {
+      "asin": "B09YLM5XX5",
+      "item_name": "農家の誇り波動熟成黒にんにく 訳あり 黒にんにく ミニ バラ 500ｇ 青森県産 福地ホワイト六片種",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 1537612.68,
+      "t30d_units": 635.0
+    },
+    {
+      "asin": "B0CQLMMBWW",
+      "item_name": "ドラコン黒にんにく バラ 250g 約1ヶ月分 青森黒にんにく問屋",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 22750.0,
+      "t30d_units": 13.0
+    },
+    {
+      "asin": "B09W976BWH",
+      "item_name": "黒にんにく 青森県産 訳あり 福地ホワイト六片種 農家の誇り波動熟成黒にんにく (200ｇ)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 510990.22,
+      "t30d_units": 372.0
+    },
+    {
+      "asin": "B09W8Z1BM5",
+      "item_name": "黒にんにく 青森県産 訳あり 福地ホワイト六片種 農家の誇り波動熟成黒にんにく (1ｋｇ)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 139008.0,
+      "t30d_units": 29.0
+    },
+    {
+      "asin": "B0BCNCGSXW",
+      "item_name": "にんにく 青森県産 訳あり バラ 500g 福地ホワイト六片種 青森ニンニク",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 419310.0,
+      "t30d_units": 233.0
+    },
+    {
+      "asin": "B09W96ZBSH",
+      "item_name": "黒にんにく 青森県産 訳あり 福地ホワイト六片種 農家の誇り波動熟成黒にんにく (500ｇ)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 109960.0,
+      "t30d_units": 40.0
+    }
+  ]
+}

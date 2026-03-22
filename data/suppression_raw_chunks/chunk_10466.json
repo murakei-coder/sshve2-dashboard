@@ -1,1 +1,22 @@
-{"445451959402": [{"asin": "B0BMFTZJCD", "item_name": "kah 干し芋 訳あり 茨城 紅はるか 国産 シロタ 800g 平干し 無添加 乾燥芋 ほしいも kah", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 620880.0, "t30d_units": 324.0}, {"asin": "B0BN5V6NZ2", "item_name": "kah 干し芋 訳あり 茨城 丸干し 紅はるか 国産 400g B品 干しいも 無添加 乾燥芋 スイーツ ほしいも kah", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 155035.0, "t30d_units": 83.0}]}
+{
+  "445451959402": [
+    {
+      "asin": "B0BMFTZJCD",
+      "item_name": "kah 干し芋 訳あり 茨城 紅はるか 国産 シロタ 800g 平干し 無添加 乾燥芋 ほしいも kah",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 620880.0,
+      "t30d_units": 324.0
+    },
+    {
+      "asin": "B0BN5V6NZ2",
+      "item_name": "kah 干し芋 訳あり 茨城 丸干し 紅はるか 国産 400g B品 干しいも 無添加 乾燥芋 スイーツ ほしいも kah",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 155035.0,
+      "t30d_units": 83.0
+    }
+  ]
+}

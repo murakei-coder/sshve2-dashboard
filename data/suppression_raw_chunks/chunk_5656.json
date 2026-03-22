@@ -1,1 +1,49 @@
-{"19406042422": [{"asin": "B085C3DWGC", "item_name": "黒玉 粒状 梅肉エキス（梅エキス）粒・1袋 150粒入 国内産・みなべ・紀州産梅使用【 梅肉エキス専門店 】【クエン酸】粒・携帯に便利 ｜ 酸っぱい梅エキス 青梅", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 482205.87, "t30d_units": 254.0}, {"asin": "B0CW9MSVD7", "item_name": "ねり梅 （ しそ入り梅 ・ しそ漬け味 ）150g チューブ 入 【 紀州南高梅 100% 使用 】【 国内産 】練り梅 ねりうめ 梅肉 梅にく しそ 紫蘇", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B09KSZ2G46", "item_name": "【 紀州産 南高梅 国内産 】干し梅 （ 種抜き ） 単品 ＜ 国産 種なし梅 ほし梅 たね抜き梅 たね無し梅 種無し梅 ＞", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 63591.46, "t30d_units": 73.0}, {"asin": "B09KNGP3XM", "item_name": "【 紀州南高梅 100% 使用 】ねり梅（白干梅）150g チューブ入【国内産】練り梅｜ねりうめ｜梅肉｜梅にく｜白干｜すっぱい｜無添加 ねり梅", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 850.0, "t30d_units": 1.0}, {"asin": "B0852DLYYH", "item_name": "純正 梅肉エキス 無添加 国産梅 大容量 120g 塩分0% ｜ 紀州南高梅 を煮詰めてつくった ｜ 梅エキス専門店 製造 【 塩分ゼロ・大容量・みなべ町産・青梅使用 クエン酸 ムメフラール 】", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 1212224.84, "t30d_units": 278.0}]}
+{
+  "19406042422": [
+    {
+      "asin": "B085C3DWGC",
+      "item_name": "黒玉 粒状 梅肉エキス（梅エキス）粒・1袋 150粒入 国内産・みなべ・紀州産梅使用【 梅肉エキス専門店 】【クエン酸】粒・携帯に便利 ｜ 酸っぱい梅エキス 青梅",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 482205.87,
+      "t30d_units": 254.0
+    },
+    {
+      "asin": "B0CW9MSVD7",
+      "item_name": "ねり梅 （ しそ入り梅 ・ しそ漬け味 ）150g チューブ 入 【 紀州南高梅 100% 使用 】【 国内産 】練り梅 ねりうめ 梅肉 梅にく しそ 紫蘇",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B09KSZ2G46",
+      "item_name": "【 紀州産 南高梅 国内産 】干し梅 （ 種抜き ） 単品 ＜ 国産 種なし梅 ほし梅 たね抜き梅 たね無し梅 種無し梅 ＞",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 63591.46,
+      "t30d_units": 73.0
+    },
+    {
+      "asin": "B09KNGP3XM",
+      "item_name": "【 紀州南高梅 100% 使用 】ねり梅（白干梅）150g チューブ入【国内産】練り梅｜ねりうめ｜梅肉｜梅にく｜白干｜すっぱい｜無添加 ねり梅",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 850.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0852DLYYH",
+      "item_name": "純正 梅肉エキス 無添加 国産梅 大容量 120g 塩分0% ｜ 紀州南高梅 を煮詰めてつくった ｜ 梅エキス専門店 製造 【 塩分ゼロ・大容量・みなべ町産・青梅使用 クエン酸 ムメフラール 】",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 1212224.84,
+      "t30d_units": 278.0
+    }
+  ]
+}

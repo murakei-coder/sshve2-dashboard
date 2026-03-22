@@ -1,1 +1,22 @@
-{"721178775": [{"asin": "B0DM1FN253", "item_name": "木製 工具セット 知育玩具 HomeLuxe 指先訓練 モンテッソーリ 組立おもちゃ DIY 知育 頭の体操 組み合わせ自由 誕生日 クリスマス プレゼント 男の子 女の子", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 26749.99, "t30d_units": 11.0}, {"asin": "B0B5WZS4LW", "item_name": "HomeLuxe テーブルナプキン 10枚セット 50×50cm 綿100% 布ナプキン ワイントーション 無地 レストラン ホテル 業務用 洗える 吸水 コットン", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 62745.0, "t30d_units": 23.0}]}
+{
+  "721178775": [
+    {
+      "asin": "B0DM1FN253",
+      "item_name": "木製 工具セット 知育玩具 HomeLuxe 指先訓練 モンテッソーリ 組立おもちゃ DIY 知育 頭の体操 組み合わせ自由 誕生日 クリスマス プレゼント 男の子 女の子",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 26749.99,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0B5WZS4LW",
+      "item_name": "HomeLuxe テーブルナプキン 10枚セット 50×50cm 綿100% 布ナプキン ワイントーション 無地 レストラン ホテル 業務用 洗える 吸水 コットン",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 62745.0,
+      "t30d_units": 23.0
+    }
+  ]
+}

@@ -1,1 +1,22 @@
-{"1073423985102": [{"asin": "B0FD3KWHT2", "item_name": "【PHILIPS タブレット T8015 国内正規品】11インチFHD/Android 15/90Hzリフレッシュレート/MediaTek G99 (6nm)/6GB/128GB+1TB拡張/8000mAh+18W急速充電/顔認証/GPS/Wi-Fi5/分割画面/ワイヤレス投影/ユーザー補助/保護者制限付き/学習・ビジネス・キッズ対応 AI搭載 高性能タブレット(グレー)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 11616787.26, "t30d_units": 420.0}, {"asin": "B0FG7LRFF8", "item_name": "【国内正規品】PHILIPS Android15 タブレット 10インチ wi-fiモデル 8コアCPU 12GB RAM+128GB ROM+1TB拡張 90Hzリフレッシュレート 6000mAhバッテリー Type-C充電 WidevineL1 BT5.0/顔認証/GPS/2.4G&5GWi-Fi/分割画面/無線投影/学習・ビジネス・子供対応 日本語説明書 T7315 (グレー)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 10195504.09, "t30d_units": 480.0}]}
+{
+  "1073423985102": [
+    {
+      "asin": "B0FD3KWHT2",
+      "item_name": "【PHILIPS タブレット T8015 国内正規品】11インチFHD/Android 15/90Hzリフレッシュレート/MediaTek G99 (6nm)/6GB/128GB+1TB拡張/8000mAh+18W急速充電/顔認証/GPS/Wi-Fi5/分割画面/ワイヤレス投影/ユーザー補助/保護者制限付き/学習・ビジネス・キッズ対応 AI搭載 高性能タブレット(グレー)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 11616787.26,
+      "t30d_units": 420.0
+    },
+    {
+      "asin": "B0FG7LRFF8",
+      "item_name": "【国内正規品】PHILIPS Android15 タブレット 10インチ wi-fiモデル 8コアCPU 12GB RAM+128GB ROM+1TB拡張 90Hzリフレッシュレート 6000mAhバッテリー Type-C充電 WidevineL1 BT5.0/顔認証/GPS/2.4G&5GWi-Fi/分割画面/無線投影/学習・ビジネス・子供対応 日本語説明書 T7315 (グレー)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 10195504.09,
+      "t30d_units": 480.0
+    }
+  ]
+}

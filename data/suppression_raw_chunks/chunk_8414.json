@@ -1,1 +1,49 @@
-{"61771708322": [{"asin": "B0DGL17777", "item_name": "Desobry CDプレーヤー Bluetooth5.2対応スピーカー内蔵 FMトランスミッター内蔵 ・(REC)録音機能付き 2000mAh充電式バッテリー A-Bリピート 5EQエフェクト機能 音飛び防止機能 CD-R/MP3 MicroSDカード等対応 レジューム機能 AUX出力 音楽再生 語学学習 出産前教育に適用【ブラック】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 475860.0, "t30d_units": 77.0}, {"asin": "B0DGKSLTHP", "item_name": "DESOBRY サウンドバー テレビ用 Bluetoothスピーカー、PCスピーカー、3EQモード、USB/光デジタル/AUX/HDMI(ARC)対応", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 442518.98, "t30d_units": 74.0}, {"asin": "B0DHJMQWL9", "item_name": "DESOBRY サウンドバー テレビ用 Bluetoothスピーカー PCスピーカー音楽/ゲーム/映画3つEQモード USB対応/光デジタル/AUX接続/HDMI（ARC）入力対応", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0DJ4T8V2X", "item_name": "ミニDVDプレーヤー1080Pサポート DVD/CD再生専用モデル リージョンフリー CPRM対応、Blue-ray非対応、USB/TFカード再生、HDMI/AV/AUX端子搭載 日本語説明書付き (ブラック)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 2603292.77, "t30d_units": 620.0}, {"asin": "B0DJ4QV29V", "item_name": "ミニDVDプレーヤー1080Pサポート DVD/CD再生専用モデル リージョンフリー CPRM対応、Blue-ray非対応、USB/TFカード再生、HDMI/AV/AUX出力 日本語説明書付き (ブルー)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 397927.29, "t30d_units": 94.0}]}
+{
+  "61771708322": [
+    {
+      "asin": "B0DGL17777",
+      "item_name": "Desobry CDプレーヤー Bluetooth5.2対応スピーカー内蔵 FMトランスミッター内蔵 ・(REC)録音機能付き 2000mAh充電式バッテリー A-Bリピート 5EQエフェクト機能 音飛び防止機能 CD-R/MP3 MicroSDカード等対応 レジューム機能 AUX出力 音楽再生 語学学習 出産前教育に適用【ブラック】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 475860.0,
+      "t30d_units": 77.0
+    },
+    {
+      "asin": "B0DGKSLTHP",
+      "item_name": "DESOBRY サウンドバー テレビ用 Bluetoothスピーカー、PCスピーカー、3EQモード、USB/光デジタル/AUX/HDMI(ARC)対応",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 442518.98,
+      "t30d_units": 74.0
+    },
+    {
+      "asin": "B0DHJMQWL9",
+      "item_name": "DESOBRY サウンドバー テレビ用 Bluetoothスピーカー PCスピーカー音楽/ゲーム/映画3つEQモード USB対応/光デジタル/AUX接続/HDMI（ARC）入力対応",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0DJ4T8V2X",
+      "item_name": "ミニDVDプレーヤー1080Pサポート DVD/CD再生専用モデル リージョンフリー CPRM対応、Blue-ray非対応、USB/TFカード再生、HDMI/AV/AUX端子搭載 日本語説明書付き (ブラック)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 2603292.77,
+      "t30d_units": 620.0
+    },
+    {
+      "asin": "B0DJ4QV29V",
+      "item_name": "ミニDVDプレーヤー1080Pサポート DVD/CD再生専用モデル リージョンフリー CPRM対応、Blue-ray非対応、USB/TFカード再生、HDMI/AV/AUX出力 日本語説明書付き (ブルー)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 397927.29,
+      "t30d_units": 94.0
+    }
+  ]
+}

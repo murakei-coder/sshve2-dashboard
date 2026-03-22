@@ -1,1 +1,22 @@
-{"1025221445802": [{"asin": "B0FKRJ9YLH", "item_name": "【人気商品】車載用 空気清浄機 加湿器 2in1｜イオン発生 USB-C給電 自動起動 静音設計 車内の乾燥対策（濃い灰色）", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 20700.0, "t30d_units": 6.0}, {"asin": "B0FH9M3THM", "item_name": "【人気商品】車載用 空気清浄機 加湿器 2in1｜イオン発生 USB-C給電 自動起動 静音設計 車内乾燥対策（淡い白）", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 6630.0, "t30d_units": 2.0}]}
+{
+  "1025221445802": [
+    {
+      "asin": "B0FKRJ9YLH",
+      "item_name": "【人気商品】車載用 空気清浄機 加湿器 2in1｜イオン発生 USB-C給電 自動起動 静音設計 車内の乾燥対策（濃い灰色）",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 20700.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0FH9M3THM",
+      "item_name": "【人気商品】車載用 空気清浄機 加湿器 2in1｜イオン発生 USB-C給電 自動起動 静音設計 車内乾燥対策（淡い白）",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 6630.0,
+      "t30d_units": 2.0
+    }
+  ]
+}

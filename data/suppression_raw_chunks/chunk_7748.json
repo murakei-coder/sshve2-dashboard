@@ -1,1 +1,22 @@
-{"52758761222": [{"asin": "B08ZRTJ856", "item_name": "SundayGolf サンデーゴルフ LOMA ロマ ゴルフバッグ ミッドナイトグリーン 軽量 スタンド式 ストラップ付 クラブ収納可能本数 6本 持ち運び簡単 練習用バッグ ショートコース", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Softlines", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B09GQ1524F", "item_name": "SundayGolf サンデーゴルフ LOMA ロマ ゴルフバッグ トーステッドアーモンド 軽量 スタンド式 ストラップ付 クラブ収納可能本数 6本 持ち運び簡単 練習用バッグ ショートコース", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Softlines", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "52758761222": [
+    {
+      "asin": "B08ZRTJ856",
+      "item_name": "SundayGolf サンデーゴルフ LOMA ロマ ゴルフバッグ ミッドナイトグリーン 軽量 スタンド式 ストラップ付 クラブ収納可能本数 6本 持ち運び簡単 練習用バッグ ショートコース",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Softlines",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B09GQ1524F",
+      "item_name": "SundayGolf サンデーゴルフ LOMA ロマ ゴルフバッグ トーステッドアーモンド 軽量 スタンド式 ストラップ付 クラブ収納可能本数 6本 持ち運び簡単 練習用バッグ ショートコース",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Softlines",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

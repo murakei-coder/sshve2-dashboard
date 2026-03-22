@@ -1,1 +1,31 @@
-{"948786211202": [{"asin": "B0FWBMGY39", "item_name": "筋膜リリースガン 【2-in-1変形可能 背中まで届く】 10mm振幅 自適応5段階振動 電池交換可能 最大10時間連続使用 軽量 静音 4種類ヘッド Type-C充電式 収納袋付き ハンディガン トータルボディケア プレゼント最適 Vitalshe", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 34995.0, "t30d_units": 5.0}, {"asin": "B0FDK3M77S", "item_name": "筋膜リリースガン 【2-in-1変形可能 背中まで届く】 10mm振幅 自適応5段階振動 電池交換可能 最大10時間連続使用 軽量 静音 4種類ヘッド Type-C充電式 収納袋付き ハンディガン トータルボディケア プレゼント最適 Vitalshe", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 261345.66, "t30d_units": 39.0}, {"asin": "B0FFSJWMSR", "item_name": "ハンドケア 手のケア リラクゼーション器 3モード 3段階加圧調整 温熱機能付き コードレス設計 男女兼用 Type-C充電 軽量コンパクト 大容量バッテリー 自動オフ 収納袋付き プレゼント最適 VitalShe", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 181992.75, "t30d_units": 22.0}]}
+{
+  "948786211202": [
+    {
+      "asin": "B0FWBMGY39",
+      "item_name": "筋膜リリースガン 【2-in-1変形可能 背中まで届く】 10mm振幅 自適応5段階振動 電池交換可能 最大10時間連続使用 軽量 静音 4種類ヘッド Type-C充電式 収納袋付き ハンディガン トータルボディケア プレゼント最適 Vitalshe",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 34995.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0FDK3M77S",
+      "item_name": "筋膜リリースガン 【2-in-1変形可能 背中まで届く】 10mm振幅 自適応5段階振動 電池交換可能 最大10時間連続使用 軽量 静音 4種類ヘッド Type-C充電式 収納袋付き ハンディガン トータルボディケア プレゼント最適 Vitalshe",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 261345.66,
+      "t30d_units": 39.0
+    },
+    {
+      "asin": "B0FFSJWMSR",
+      "item_name": "ハンドケア 手のケア リラクゼーション器 3モード 3段階加圧調整 温熱機能付き コードレス設計 男女兼用 Type-C充電 軽量コンパクト 大容量バッテリー 自動オフ 収納袋付き プレゼント最適 VitalShe",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 181992.75,
+      "t30d_units": 22.0
+    }
+  ]
+}

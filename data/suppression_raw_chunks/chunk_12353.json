@@ -1,1 +1,31 @@
-{"751535111202": [{"asin": "B0DHGBS9LD", "item_name": "無臭研 銀イオン歯磨き粉 高濃度銀イオン配合 イオン歯磨き 300ppm Ag+ 口臭 虫歯 口内細菌 ハミガキ 歯磨き粉 フッ素未配合 国内生産品 ペースト 銀イオン歯磨き 50g×3本", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 194619.0, "t30d_units": 17.0}, {"asin": "B0DD4ZRVHZ", "item_name": "無臭研 銀イオン歯磨き粉 高濃度銀イオン配合 イオン歯磨き 300ppm Ag+ 口臭 虫歯 口内細菌 ハミガキ 歯磨き粉 フッ素未配合 国内生産品 ペースト 銀イオン歯磨き 50g", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 1359703.03, "t30d_units": 349.0}, {"asin": "B0DDPL1CF9", "item_name": "無臭研 銀イオン歯磨き粉 高濃度銀イオン配合 イオン歯磨き 300ppm Ag+ 口臭 虫歯 口内細菌 ハミガキ 歯磨き粉 フッ素未配合 国内生産品 ペースト 銀イオン歯磨き 50g×2本", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 94690.75, "t30d_units": 12.0}]}
+{
+  "751535111202": [
+    {
+      "asin": "B0DHGBS9LD",
+      "item_name": "無臭研 銀イオン歯磨き粉 高濃度銀イオン配合 イオン歯磨き 300ppm Ag+ 口臭 虫歯 口内細菌 ハミガキ 歯磨き粉 フッ素未配合 国内生産品 ペースト 銀イオン歯磨き 50g×3本",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 194619.0,
+      "t30d_units": 17.0
+    },
+    {
+      "asin": "B0DD4ZRVHZ",
+      "item_name": "無臭研 銀イオン歯磨き粉 高濃度銀イオン配合 イオン歯磨き 300ppm Ag+ 口臭 虫歯 口内細菌 ハミガキ 歯磨き粉 フッ素未配合 国内生産品 ペースト 銀イオン歯磨き 50g",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 1359703.03,
+      "t30d_units": 349.0
+    },
+    {
+      "asin": "B0DDPL1CF9",
+      "item_name": "無臭研 銀イオン歯磨き粉 高濃度銀イオン配合 イオン歯磨き 300ppm Ag+ 口臭 虫歯 口内細菌 ハミガキ 歯磨き粉 フッ素未配合 国内生産品 ペースト 銀イオン歯磨き 50g×2本",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 94690.75,
+      "t30d_units": 12.0
+    }
+  ]
+}

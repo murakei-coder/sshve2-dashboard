@@ -1,1 +1,22 @@
-{"848919924902": [{"asin": "B0GMVGFCLH", "item_name": "フェイスタオル 1pcs 綿100% 16番手 33×70cm ライトブルー 幾何学模様ボーダー 敏感肌対応 日常使い 001", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 5988.32, "t30d_units": 10.0}, {"asin": "B0G4PWXDG7", "item_name": "加湿器 大容量 5L 【UVライト除菌 & 上から給水】 超音波式 300ml/hパワフル加湿 25dB静音 連続25時間運転 3段階ミスト リモコン付 空焚き防止 省エネ 乾燥/花粉対策 PSE認証済み おしゃれ 家庭/寝室/オフィス", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 366130.5, "t30d_units": 92.0}]}
+{
+  "848919924902": [
+    {
+      "asin": "B0GMVGFCLH",
+      "item_name": "フェイスタオル 1pcs 綿100% 16番手 33×70cm ライトブルー 幾何学模様ボーダー 敏感肌対応 日常使い 001",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 5988.32,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B0G4PWXDG7",
+      "item_name": "加湿器 大容量 5L 【UVライト除菌 & 上から給水】 超音波式 300ml/hパワフル加湿 25dB静音 連続25時間運転 3段階ミスト リモコン付 空焚き防止 省エネ 乾燥/花粉対策 PSE認証済み おしゃれ 家庭/寝室/オフィス",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 366130.5,
+      "t30d_units": 92.0
+    }
+  ]
+}

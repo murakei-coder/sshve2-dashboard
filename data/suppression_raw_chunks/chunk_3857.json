@@ -1,1 +1,31 @@
-{"8282407455": [{"asin": "B0GGGQVCX6", "item_name": "デジタルカメラ デジカメ 18倍ズーム ・4K動画撮影 WIFI対応 自撮り スマホ 転送 32GBSDカード付き 180°回転スクリーン ビデオカメラ AF機能 手ブレ補正 AF機能 ウェブカメラ Vlogカメラ 修学旅行 学生 初心者向け(4K ブラック)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 20324.0, "t30d_units": 2.0}, {"asin": "B0GHNT69LQ", "item_name": "デジタルカメラ デジカメ WIFI対応 7500万画素・5K動画撮影 自撮り スマホ 転送 180°回転スクリーン 18倍ズーム ビデオカメラ AF機能 手ブレ補正 AF機能 3インチ大画面 32GBSDカード付き コンパクト 子供や初心者向け 子供の日 クリスマスプレゼント ホワイト(5K ホワイト)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 12980.0, "t30d_units": 1.0}, {"asin": "B0GHNJ7S4L", "item_name": "デジタルカメラ デジカメ WIFI対応 7500万画素・5K動画撮影 自撮り スマホ 転送 180°回転スクリーン 18倍ズーム ビデオカメラ AF機能 手ブレ補正 AF機能 3インチ大画面 32GBSDカード付き コンパクト 子供や初心者向け 子供の日 クリスマスプレゼント ホワイト(5K ブラック)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 22324.0, "t30d_units": 2.0}]}
+{
+  "8282407455": [
+    {
+      "asin": "B0GGGQVCX6",
+      "item_name": "デジタルカメラ デジカメ 18倍ズーム ・4K動画撮影 WIFI対応 自撮り スマホ 転送 32GBSDカード付き 180°回転スクリーン ビデオカメラ AF機能 手ブレ補正 AF機能 ウェブカメラ Vlogカメラ 修学旅行 学生 初心者向け(4K ブラック)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 20324.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0GHNT69LQ",
+      "item_name": "デジタルカメラ デジカメ WIFI対応 7500万画素・5K動画撮影 自撮り スマホ 転送 180°回転スクリーン 18倍ズーム ビデオカメラ AF機能 手ブレ補正 AF機能 3インチ大画面 32GBSDカード付き コンパクト 子供や初心者向け 子供の日 クリスマスプレゼント ホワイト(5K ホワイト)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 12980.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0GHNJ7S4L",
+      "item_name": "デジタルカメラ デジカメ WIFI対応 7500万画素・5K動画撮影 自撮り スマホ 転送 180°回転スクリーン 18倍ズーム ビデオカメラ AF機能 手ブレ補正 AF機能 3インチ大画面 32GBSDカード付き コンパクト 子供や初心者向け 子供の日 クリスマスプレゼント ホワイト(5K ブラック)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 22324.0,
+      "t30d_units": 2.0
+    }
+  ]
+}

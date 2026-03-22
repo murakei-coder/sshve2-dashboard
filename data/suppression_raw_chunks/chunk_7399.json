@@ -1,1 +1,49 @@
-{"49425413522": [{"asin": "B09S5X11FC", "item_name": "[株式会社三和] タビックス 踵付き (OP袋入) 4足 (紺)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Softlines", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B09QGD5JG7", "item_name": "[株式会社三和] 不織布ラッピング袋 Lサイズ (100枚) ギフト袋 衣類カバー 保護袋 収納袋 不織布バッグ プレゼント アパレル シューズ バッグ 鞄 業務用 FWC-6", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B07XCBVFP6", "item_name": "[株式会社三和] 使い捨てフェイスタオル 600個 ECO-2484", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 155648.0, "t30d_units": 11.0}, {"asin": "B09TSSCS86", "item_name": "使い捨てストッキング (100枚) くるぶし丈 ストッキング ベージュ フリーサイズ 靴の試着用 試着 試し履き 予備用 FWC-7", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Softlines", "t30d_ops": 9405.0, "t30d_units": 5.0}, {"asin": "B07ZVN3DNH", "item_name": "[株式会社三和] 使い捨てバスタオル 120個 ECO-70140", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 181063.0, "t30d_units": 12.0}]}
+{
+  "49425413522": [
+    {
+      "asin": "B09S5X11FC",
+      "item_name": "[株式会社三和] タビックス 踵付き (OP袋入) 4足 (紺)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Softlines",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B09QGD5JG7",
+      "item_name": "[株式会社三和] 不織布ラッピング袋 Lサイズ (100枚) ギフト袋 衣類カバー 保護袋 収納袋 不織布バッグ プレゼント アパレル シューズ バッグ 鞄 業務用 FWC-6",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B07XCBVFP6",
+      "item_name": "[株式会社三和] 使い捨てフェイスタオル 600個 ECO-2484",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 155648.0,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B09TSSCS86",
+      "item_name": "使い捨てストッキング (100枚) くるぶし丈 ストッキング ベージュ フリーサイズ 靴の試着用 試着 試し履き 予備用 FWC-7",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Softlines",
+      "t30d_ops": 9405.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B07ZVN3DNH",
+      "item_name": "[株式会社三和] 使い捨てバスタオル 120個 ECO-70140",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 181063.0,
+      "t30d_units": 12.0
+    }
+  ]
+}

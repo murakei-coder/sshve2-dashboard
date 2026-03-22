@@ -1,1 +1,58 @@
-{"719396230302": [{"asin": "B0BV1ZDB9J", "item_name": "INSTA-NAIL マイクロチップ NFC通信 Phone Android 対応 電池不要", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 29640.0, "t30d_units": 20.0}, {"asin": "B0DM4JPNDW", "item_name": "CapacMouse 超小型 超薄型 無線 静音 Bluetooth5.0 2.4Gレシーバー 有線接続可 DPI調整 充電30分 動作30時間 Type-C充電式 Mac Windows iOS Android対応 持ち運び (ブラック)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 35616.0, "t30d_units": 4.0}, {"asin": "B0CRVXN56Y", "item_name": "Gloture 浮くランプ 照明 LED 3Dプリント 美しい月 雲型 安定性 浮遊 空中 タッチ式 おしゃれ デザイン ベッドランプ 癒される ウッド調 安全性 不思議 磁気浮上 稲妻効果 360度自由回転 (Cloudy-G/雲型)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 78809.0, "t30d_units": 6.0}, {"asin": "B0CLVKJJF4", "item_name": "Gloture【浮く】ライト ワイヤレス充電ポート搭載 誕生日プレゼント 女性 人気 浮揚技術 ベッドサイド デスクランプ 月ライト 宙 LED電球 モダン おしゃれ インテリア 間接照明 (おしゃれ電球/Vintage Bulb)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0CRVY2YFJ", "item_name": "Gloture 浮くランプ 照明 LED 3Dプリント 美しい月 雲型 安定性 浮遊 空中 タッチ式 おしゃれ デザイン ベッドランプ 癒される ウッド調 安全性 不思議 磁気浮上 稲妻効果 360度自由回転 (Moon exG/月型)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 69280.0, "t30d_units": 5.0}, {"asin": "B0CLVHY97C", "item_name": "Gloture【浮く】ライト ワイヤレス充電ポート搭載 誕生日プレゼント 女性 人気 浮揚技術 ベッドサイド デスクランプ 月ライト 宙 LED電球 モダン おしゃれ インテリア 間接照明 (リアルな満月/Moon G)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 58393.0, "t30d_units": 4.0}]}
+{
+  "719396230302": [
+    {
+      "asin": "B0BV1ZDB9J",
+      "item_name": "INSTA-NAIL マイクロチップ NFC通信 Phone Android 対応 電池不要",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 29640.0,
+      "t30d_units": 20.0
+    },
+    {
+      "asin": "B0DM4JPNDW",
+      "item_name": "CapacMouse 超小型 超薄型 無線 静音 Bluetooth5.0 2.4Gレシーバー 有線接続可 DPI調整 充電30分 動作30時間 Type-C充電式 Mac Windows iOS Android対応 持ち運び (ブラック)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 35616.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0CRVXN56Y",
+      "item_name": "Gloture 浮くランプ 照明 LED 3Dプリント 美しい月 雲型 安定性 浮遊 空中 タッチ式 おしゃれ デザイン ベッドランプ 癒される ウッド調 安全性 不思議 磁気浮上 稲妻効果 360度自由回転 (Cloudy-G/雲型)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 78809.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0CLVKJJF4",
+      "item_name": "Gloture【浮く】ライト ワイヤレス充電ポート搭載 誕生日プレゼント 女性 人気 浮揚技術 ベッドサイド デスクランプ 月ライト 宙 LED電球 モダン おしゃれ インテリア 間接照明 (おしゃれ電球/Vintage Bulb)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0CRVY2YFJ",
+      "item_name": "Gloture 浮くランプ 照明 LED 3Dプリント 美しい月 雲型 安定性 浮遊 空中 タッチ式 おしゃれ デザイン ベッドランプ 癒される ウッド調 安全性 不思議 磁気浮上 稲妻効果 360度自由回転 (Moon exG/月型)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 69280.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0CLVHY97C",
+      "item_name": "Gloture【浮く】ライト ワイヤレス充電ポート搭載 誕生日プレゼント 女性 人気 浮揚技術 ベッドサイド デスクランプ 月ライト 宙 LED電球 モダン おしゃれ インテリア 間接照明 (リアルな満月/Moon G)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 58393.0,
+      "t30d_units": 4.0
+    }
+  ]
+}

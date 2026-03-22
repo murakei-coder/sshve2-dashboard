@@ -1,1 +1,49 @@
-{"69315760222": [{"asin": "B0FCY76QXS", "item_name": "ジェルネイルライト UV/LED ネイルドライヤー 54W 高速硬化 人感センサー 自動点灯 3段階タイマー 低ヒートモード レジン対応 ジェルネイル硬化ライト ネイルランプ サロン/家庭用", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 112665.83, "t30d_units": 113.0}, {"asin": "B0FX9VC5JP", "item_name": "LED UVネイルランプ, 24灯プロ仕様, 4段階タイマー搭載, 全ジェル対応, 手足兼用, 低温設計", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 6793.33, "t30d_units": 6.0}, {"asin": "B0FCY35V7W", "item_name": "ジェルネイルライト UV/LED ネイルドライヤー コンパクト ネイルランプ 人感センサー 自動点灯 4段階タイマー 低ヒートモード レジン対応 セルフネイル 初心者 家庭用", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 108895.99, "t30d_units": 76.0}, {"asin": "B0GCRW9K33", "item_name": "【ジェルネイル ライト 2026最新 】ネイルライト LED UVライト レジン用 全ジェル対応 ネイル ledライト三階段タイマー硬化ライト 高速硬化 レジンライト 自動感知センサー 日本語説明書", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 54391.0, "t30d_units": 27.0}, {"asin": "B0FCX26NB5", "item_name": "【ジェルネイル ライト 2026最新 】ネイルライト LED UVライト レジン用 全ジェル対応 ネイル ledライト三階段タイマー硬化ライト 高速硬化 レジンライト 自動感知センサー 日本語説明書", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 4612854.04, "t30d_units": 3124.0}]}
+{
+  "69315760222": [
+    {
+      "asin": "B0FCY76QXS",
+      "item_name": "ジェルネイルライト UV/LED ネイルドライヤー 54W 高速硬化 人感センサー 自動点灯 3段階タイマー 低ヒートモード レジン対応 ジェルネイル硬化ライト ネイルランプ サロン/家庭用",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 112665.83,
+      "t30d_units": 113.0
+    },
+    {
+      "asin": "B0FX9VC5JP",
+      "item_name": "LED UVネイルランプ, 24灯プロ仕様, 4段階タイマー搭載, 全ジェル対応, 手足兼用, 低温設計",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 6793.33,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0FCY35V7W",
+      "item_name": "ジェルネイルライト UV/LED ネイルドライヤー コンパクト ネイルランプ 人感センサー 自動点灯 4段階タイマー 低ヒートモード レジン対応 セルフネイル 初心者 家庭用",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 108895.99,
+      "t30d_units": 76.0
+    },
+    {
+      "asin": "B0GCRW9K33",
+      "item_name": "【ジェルネイル ライト 2026最新 】ネイルライト LED UVライト レジン用 全ジェル対応 ネイル ledライト三階段タイマー硬化ライト 高速硬化 レジンライト 自動感知センサー 日本語説明書",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 54391.0,
+      "t30d_units": 27.0
+    },
+    {
+      "asin": "B0FCX26NB5",
+      "item_name": "【ジェルネイル ライト 2026最新 】ネイルライト LED UVライト レジン用 全ジェル対応 ネイル ledライト三階段タイマー硬化ライト 高速硬化 レジンライト 自動感知センサー 日本語説明書",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 4612854.04,
+      "t30d_units": 3124.0
+    }
+  ]
+}

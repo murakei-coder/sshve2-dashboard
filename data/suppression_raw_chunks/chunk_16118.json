@@ -1,1 +1,22 @@
-{"1124359372502": [{"asin": "B0GFG66T4B", "item_name": "街灯 ソーラー 屋外 24000LM ソーラーライト 防水 6500K IP66 外灯 ソーラー センサーライト モーションセンサー付き 夕暮れから夜明けまで LED 街路灯 取り付け簡単 1 個パック", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "3.VRP missing", "pf": "L&L", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0GFFVH9ZY", "item_name": "街灯 ソーラー 屋外 5000LM ソーラーライト 防水 6500K IP66 外灯 ソーラー モーションセンサー付き 夕暮れから夜明けまで LED 街路灯 屋外ライト 取り付け簡単 2 個パック", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "3.VRP missing", "pf": "L&L", "t30d_ops": 19998.0, "t30d_units": 2.0}]}
+{
+  "1124359372502": [
+    {
+      "asin": "B0GFG66T4B",
+      "item_name": "街灯 ソーラー 屋外 24000LM ソーラーライト 防水 6500K IP66 外灯 ソーラー センサーライト モーションセンサー付き 夕暮れから夜明けまで LED 街路灯 取り付け簡単 1 個パック",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "L&L",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0GFFVH9ZY",
+      "item_name": "街灯 ソーラー 屋外 5000LM ソーラーライト 防水 6500K IP66 外灯 ソーラー モーションセンサー付き 夕暮れから夜明けまで LED 街路灯 屋外ライト 取り付け簡単 2 個パック",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "L&L",
+      "t30d_ops": 19998.0,
+      "t30d_units": 2.0
+    }
+  ]
+}

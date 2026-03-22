@@ -1,1 +1,40 @@
-{"664194018402": [{"asin": "B0CVWDDGCB", "item_name": "昇降式 サイドテーブル 介護テーブル 昇降式デスク 机 PCデスク 高さ68-90cm無段階調節 キャスター付き 組み立て簡単 移動楽々 ベッドテーブル 在宅勤務 ブラウン", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 84657.33, "t30d_units": 9.0}, {"asin": "B0CVX1G874", "item_name": "昇降式 サイドテーブル 介護テーブル 昇降式デスク 机 PCデスク 高さ68-90cm無段階調節 キャスター付き 組み立て簡単 移動楽々 ベッドテーブル 在宅勤務 ウッディー", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 65833.0, "t30d_units": 7.0}, {"asin": "B0D2MB4BRX", "item_name": "Comhome ペットカート 小型犬・中型犬用カート ペットバギー 分離型 キャリー分離可能 老犬補助介護 前輪360°回転可能 折りたたみ式 軽量コンパクト 組み立て簡単 ペット外出用 便利外出 耐荷重20KG", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 55860.0, "t30d_units": 7.0}, {"asin": "B0D46RD6H2", "item_name": "Comhome ペットカート 大型犬用 犬 バギー 大型・中型・多匹飼い向け 老犬補助介護用 前輪360度回転可能 ワンタッチ折りたたみ式 組み立て簡単 通気性 ペット外出 耐荷重50Kg [グレー]", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "664194018402": [
+    {
+      "asin": "B0CVWDDGCB",
+      "item_name": "昇降式 サイドテーブル 介護テーブル 昇降式デスク 机 PCデスク 高さ68-90cm無段階調節 キャスター付き 組み立て簡単 移動楽々 ベッドテーブル 在宅勤務 ブラウン",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 84657.33,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B0CVX1G874",
+      "item_name": "昇降式 サイドテーブル 介護テーブル 昇降式デスク 机 PCデスク 高さ68-90cm無段階調節 キャスター付き 組み立て簡単 移動楽々 ベッドテーブル 在宅勤務 ウッディー",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 65833.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0D2MB4BRX",
+      "item_name": "Comhome ペットカート 小型犬・中型犬用カート ペットバギー 分離型 キャリー分離可能 老犬補助介護 前輪360°回転可能 折りたたみ式 軽量コンパクト 組み立て簡単 ペット外出用 便利外出 耐荷重20KG",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 55860.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0D46RD6H2",
+      "item_name": "Comhome ペットカート 大型犬用 犬 バギー 大型・中型・多匹飼い向け 老犬補助介護用 前輪360度回転可能 ワンタッチ折りたたみ式 組み立て簡単 通気性 ペット外出 耐荷重50Kg [グレー]",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

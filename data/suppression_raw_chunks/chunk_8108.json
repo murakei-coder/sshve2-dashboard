@@ -1,1 +1,22 @@
-{"58496483322": [{"asin": "B0FLDPKRHG", "item_name": "ToAuite 4Kデジカメ 6400万画素 デジタルカメラ 前後カメラ 自撮り AF機能 超軽量 学生 修学旅行 アウトドア 登山 白", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 34995.0, "t30d_units": 5.0}, {"asin": "B0FLDPVRGD", "item_name": "ToAuite 4Kデジカメ 6400万画素 デジタルカメラ 前後カメラ 自撮り AF機能 5Pレンズ採用 超軽量 学生 修学旅行 アウトドア 登山 黒", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "58496483322": [
+    {
+      "asin": "B0FLDPKRHG",
+      "item_name": "ToAuite 4Kデジカメ 6400万画素 デジタルカメラ 前後カメラ 自撮り AF機能 超軽量 学生 修学旅行 アウトドア 登山 白",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 34995.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0FLDPVRGD",
+      "item_name": "ToAuite 4Kデジカメ 6400万画素 デジタルカメラ 前後カメラ 自撮り AF機能 5Pレンズ採用 超軽量 学生 修学旅行 アウトドア 登山 黒",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

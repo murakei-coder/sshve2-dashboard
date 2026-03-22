@@ -1,1 +1,22 @@
-{"10733810122": [{"asin": "B0FL7G622Z", "item_name": "【2026最新】キッズカメラ インスタントカメラ 子供用 プリントカメラ 4800万画素 16倍ズーム 印刷 1080P録画 自撮り 32GBカード付属 おもちゃ 知育玩具 男の子 女の子 プレゼント 誕生日 入学/卒園祝い 黒", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 61804.0, "t30d_units": 11.0}, {"asin": "B0FL7DC6VJ", "item_name": "【2026最新】キッズカメラ インスタントカメラ 子供用 プリントカメラ 4800万画素 16倍ズーム 印刷 1080P録画 自撮り 32GBカード付属 おもちゃ 知育玩具 男の子 女の子 プレゼント 誕生日 入学/卒園祝い 青", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 179535.15, "t30d_units": 31.0}]}
+{
+  "10733810122": [
+    {
+      "asin": "B0FL7G622Z",
+      "item_name": "【2026最新】キッズカメラ インスタントカメラ 子供用 プリントカメラ 4800万画素 16倍ズーム 印刷 1080P録画 自撮り 32GBカード付属 おもちゃ 知育玩具 男の子 女の子 プレゼント 誕生日 入学/卒園祝い 黒",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 61804.0,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0FL7DC6VJ",
+      "item_name": "【2026最新】キッズカメラ インスタントカメラ 子供用 プリントカメラ 4800万画素 16倍ズーム 印刷 1080P録画 自撮り 32GBカード付属 おもちゃ 知育玩具 男の子 女の子 プレゼント 誕生日 入学/卒園祝い 青",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 179535.15,
+      "t30d_units": 31.0
+    }
+  ]
+}

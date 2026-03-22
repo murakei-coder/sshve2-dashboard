@@ -1,1 +1,31 @@
-{"51995541722": [{"asin": "B0CSYT8VX1", "item_name": "CSDmeewin ヘアアクセサリーセット ケース付き 女の子プレゼント 大容量 ヘアクリップ ヘアゴム 入園式 入学式 子供の日 七五三 誕生日 クリスマス 女の子ギフト お姫様 小学生 プレゼント (Pink-Upgraded)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 62371.33, "t30d_units": 17.0}, {"asin": "B0CSYD25PN", "item_name": "CSDmeewin ヘアアクセサリーセット ケース付き 女の子プレゼント 大容量 ヘアクリップ ヘアゴム 入園式 入学式 子供の日 七五三 誕生日 クリスマス 女の子ギフト お姫様 小学生 プレゼント (Cute bear)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 199020.38, "t30d_units": 54.0}, {"asin": "B0DFT84JML", "item_name": "CSDmeewin マニキュア 子供用 はがせるタイプ ネイルポリッシュ ネイルアート用品 12色セット トップコート お誕生日 プレゼント用", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 72297.33, "t30d_units": 24.0}]}
+{
+  "51995541722": [
+    {
+      "asin": "B0CSYT8VX1",
+      "item_name": "CSDmeewin ヘアアクセサリーセット ケース付き 女の子プレゼント 大容量 ヘアクリップ ヘアゴム 入園式 入学式 子供の日 七五三 誕生日 クリスマス 女の子ギフト お姫様 小学生 プレゼント (Pink-Upgraded)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 62371.33,
+      "t30d_units": 17.0
+    },
+    {
+      "asin": "B0CSYD25PN",
+      "item_name": "CSDmeewin ヘアアクセサリーセット ケース付き 女の子プレゼント 大容量 ヘアクリップ ヘアゴム 入園式 入学式 子供の日 七五三 誕生日 クリスマス 女の子ギフト お姫様 小学生 プレゼント (Cute bear)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 199020.38,
+      "t30d_units": 54.0
+    },
+    {
+      "asin": "B0DFT84JML",
+      "item_name": "CSDmeewin マニキュア 子供用 はがせるタイプ ネイルポリッシュ ネイルアート用品 12色セット トップコート お誕生日 プレゼント用",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 72297.33,
+      "t30d_units": 24.0
+    }
+  ]
+}

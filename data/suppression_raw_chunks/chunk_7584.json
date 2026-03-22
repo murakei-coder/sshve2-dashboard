@@ -1,1 +1,22 @@
-{"51259385922": [{"asin": "B0FX47CQG3", "item_name": "【2026新モデル】スタンドミキサー 5L大容量 家庭用 業務用 3種類アタッチメント付き 卓上ミキサー パワフル 低騒音 タイマー機能付き 11段階スピード調節 タイマー機能 DC OLEDタッチ機能付きメニュー こねる/混ぜる/泡立てるコンパクト 一台多役 stand mixer (白)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 335751.33, "t30d_units": 18.0}, {"asin": "B0FX4DWZDG", "item_name": "【2025新モデル】スタンドミキサー 5L大容量 卓上型ミキサー 低騒音 3種類アタッチメント付き 11段階スピード調節 コンパクト 家庭用/業務用 OLEDタッチ機能付きメニュー タイマー機能 DC 混ぜる/こねる/泡立てる 一台多役 stand mixer (赤)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 72476.0, "t30d_units": 4.0}]}
+{
+  "51259385922": [
+    {
+      "asin": "B0FX47CQG3",
+      "item_name": "【2026新モデル】スタンドミキサー 5L大容量 家庭用 業務用 3種類アタッチメント付き 卓上ミキサー パワフル 低騒音 タイマー機能付き 11段階スピード調節 タイマー機能 DC OLEDタッチ機能付きメニュー こねる/混ぜる/泡立てるコンパクト 一台多役 stand mixer (白)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 335751.33,
+      "t30d_units": 18.0
+    },
+    {
+      "asin": "B0FX4DWZDG",
+      "item_name": "【2025新モデル】スタンドミキサー 5L大容量 卓上型ミキサー 低騒音 3種類アタッチメント付き 11段階スピード調節 コンパクト 家庭用/業務用 OLEDタッチ機能付きメニュー タイマー機能 DC 混ぜる/こねる/泡立てる 一台多役 stand mixer (赤)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 72476.0,
+      "t30d_units": 4.0
+    }
+  ]
+}

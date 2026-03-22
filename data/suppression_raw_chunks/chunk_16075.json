@@ -1,1 +1,22 @@
-{"1122287589002": [{"asin": "B0GHNM2DKH", "item_name": "フラフープ ダイエット ソフトフラフープ フィットネスフープ 折りたたみ式 15db静音設計 1.3kg 周囲長190cm 脂肪燃焼 筋トレ シェイプアップ 腰に優しい 初心者向け ウエスト・背中・脚・胸エクササイズ 室内・公園用 男女兼用 (パープル, 1.3kg)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 31384.0, "t30d_units": 18.0}, {"asin": "B0GHNTCJCS", "item_name": "フラフープ ダイエット ソフトフラフープ フィットネスフープ 折りたたみ式 15db静音設計 1.3kg 周囲長190cm 脂肪燃焼 筋トレ シェイプアップ 腰に優しい 初心者向け ウエスト・背中・脚・胸エクササイズ 室内・公園用 男女兼用 (イエロー, 1.3kg)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 16032.0, "t30d_units": 9.0}]}
+{
+  "1122287589002": [
+    {
+      "asin": "B0GHNM2DKH",
+      "item_name": "フラフープ ダイエット ソフトフラフープ フィットネスフープ 折りたたみ式 15db静音設計 1.3kg 周囲長190cm 脂肪燃焼 筋トレ シェイプアップ 腰に優しい 初心者向け ウエスト・背中・脚・胸エクササイズ 室内・公園用 男女兼用 (パープル, 1.3kg)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 31384.0,
+      "t30d_units": 18.0
+    },
+    {
+      "asin": "B0GHNTCJCS",
+      "item_name": "フラフープ ダイエット ソフトフラフープ フィットネスフープ 折りたたみ式 15db静音設計 1.3kg 周囲長190cm 脂肪燃焼 筋トレ シェイプアップ 腰に優しい 初心者向け ウエスト・背中・脚・胸エクササイズ 室内・公園用 男女兼用 (イエロー, 1.3kg)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 16032.0,
+      "t30d_units": 9.0
+    }
+  ]
+}

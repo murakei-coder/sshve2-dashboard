@@ -1,1 +1,22 @@
-{"87369974122": [{"asin": "B0FJ1JYRZL", "item_name": "【専用ケース付き 8インチ Wi-Fi/SIM通話モデル】G12 Mini Android 15 タブレット、12GB+64GB+2TB拡張、8コアCPU Helio G80 IPS タブレット 4G LTE+GPS搭載、5100mAh+Type-C充電、5MP/8MPカメラ 5GWiFi+BT5.0+無線投影+ GMS認証、OTG+児童保護+FMラジオ 日本語サポート（グレー）", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 222185.33, "t30d_units": 15.0}, {"asin": "B0FSYXL5HJ", "item_name": "【専用ケース付き Android16 タブレット 10インチ 】120Hz高いリフレッシュレート Gemini AI 高性能T7200 8コアCPU 20GB+64GB+2TB拡張、6000mAhバッテリー、薄型軽量 Widevine L1&Netflix 無線投影 画面分割 FMラジオGMS/TELEC認証 顔認識 Android Tablet", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 342343.75, "t30d_units": 21.0}]}
+{
+  "87369974122": [
+    {
+      "asin": "B0FJ1JYRZL",
+      "item_name": "【専用ケース付き 8インチ Wi-Fi/SIM通話モデル】G12 Mini Android 15 タブレット、12GB+64GB+2TB拡張、8コアCPU Helio G80 IPS タブレット 4G LTE+GPS搭載、5100mAh+Type-C充電、5MP/8MPカメラ 5GWiFi+BT5.0+無線投影+ GMS認証、OTG+児童保護+FMラジオ 日本語サポート（グレー）",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 222185.33,
+      "t30d_units": 15.0
+    },
+    {
+      "asin": "B0FSYXL5HJ",
+      "item_name": "【専用ケース付き Android16 タブレット 10インチ 】120Hz高いリフレッシュレート Gemini AI 高性能T7200 8コアCPU 20GB+64GB+2TB拡張、6000mAhバッテリー、薄型軽量 Widevine L1&Netflix 無線投影 画面分割 FMラジオGMS/TELEC認証 顔認識 Android Tablet",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 342343.75,
+      "t30d_units": 21.0
+    }
+  ]
+}

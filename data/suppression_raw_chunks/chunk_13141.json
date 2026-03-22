@@ -1,1 +1,22 @@
-{"831751170102": [{"asin": "B0DLNKNGLD", "item_name": "【新型】15W急速ワイヤレス充電器 MagSafe対応 車載ホルダー 開閉不要 超軽量 コンパクト設計 360度回転 エアコン吹き出し口用 iPhone16/15/14/13/12シリーズ対応 | 車載スマホスタンド 着脱簡単 片手操作 脱落防止 高耐久 アルミ合金製", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 0.0, "t30d_units": 0.0}, {"asin": "B0D9NH7M55", "item_name": "Supidina【最軽量級】iPhone 充電器 ワイヤレス 3in1 MagSafe対応 アップルウォッチ充電器 AirPods対応 15W急速充電 USB-C 持ち運びに最適", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 3800.0, "t30d_units": 1.0}]}
+{
+  "831751170102": [
+    {
+      "asin": "B0DLNKNGLD",
+      "item_name": "【新型】15W急速ワイヤレス充電器 MagSafe対応 車載ホルダー 開閉不要 超軽量 コンパクト設計 360度回転 エアコン吹き出し口用 iPhone16/15/14/13/12シリーズ対応 | 車載スマホスタンド 着脱簡単 片手操作 脱落防止 高耐久 アルミ合金製",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    },
+    {
+      "asin": "B0D9NH7M55",
+      "item_name": "Supidina【最軽量級】iPhone 充電器 ワイヤレス 3in1 MagSafe対応 アップルウォッチ充電器 AirPods対応 15W急速充電 USB-C 持ち運びに最適",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 3800.0,
+      "t30d_units": 1.0
+    }
+  ]
+}

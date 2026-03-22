@@ -1,1 +1,49 @@
-{"468632071602": [{"asin": "B0GF9MNGHF", "item_name": "FAZ 美容液成分配合 高保湿 洗顔石鹸 ビタミンモイスチャーソープ 固形 ピーリング 毛穴 ビタミンC 無添加 処方 エイジングケア 泡立てネット付き", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 51623.0, "t30d_units": 19.0}, {"asin": "B0GF9M194C", "item_name": "FAZ 美容液成分配合 高保湿 洗顔石鹸 ビタミンモイスチャーソープ 固形 ピーリング 毛穴 ビタミンC 無添加 処方 エイジングケア 単品", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 15840.0, "t30d_units": 6.0}, {"asin": "B0BNVN3CYF", "item_name": "FAZ 薬用ブライトソープ｜ニキビ・毛穴ケア｜ピーリング石鹸｜角質・黒ずみ対策 洗顔 無添加 医薬部外品 100g", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 35245.33, "t30d_units": 17.0}, {"asin": "B0FLXJKK4R", "item_name": "FAZ ファズ ピーリングジェル ゴマージュ 【角質ポロポロ】毛穴 角栓取り 角質除去 顔用 くすみ ケア 小鼻 毛穴汚れ つるん ｜ダマスクローズ 精油の香り｜日本製", "suppression_reason": "nan", "suppression_category": "5.Others", "pf": "Consumables", "t30d_ops": 482401.8, "t30d_units": 182.0}, {"asin": "B0BVBSDK51", "item_name": "FAZ 薬用ブライトソープ｜ニキビ・毛穴ケア｜ピーリング石鹸｜角質・黒ずみ対策 洗顔 無添加 泡立てネット付き 医薬部外品 100g", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 73881.79, "t30d_units": 38.0}]}
+{
+  "468632071602": [
+    {
+      "asin": "B0GF9MNGHF",
+      "item_name": "FAZ 美容液成分配合 高保湿 洗顔石鹸 ビタミンモイスチャーソープ 固形 ピーリング 毛穴 ビタミンC 無添加 処方 エイジングケア 泡立てネット付き",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 51623.0,
+      "t30d_units": 19.0
+    },
+    {
+      "asin": "B0GF9M194C",
+      "item_name": "FAZ 美容液成分配合 高保湿 洗顔石鹸 ビタミンモイスチャーソープ 固形 ピーリング 毛穴 ビタミンC 無添加 処方 エイジングケア 単品",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 15840.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0BNVN3CYF",
+      "item_name": "FAZ 薬用ブライトソープ｜ニキビ・毛穴ケア｜ピーリング石鹸｜角質・黒ずみ対策 洗顔 無添加 医薬部外品 100g",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 35245.33,
+      "t30d_units": 17.0
+    },
+    {
+      "asin": "B0FLXJKK4R",
+      "item_name": "FAZ ファズ ピーリングジェル ゴマージュ 【角質ポロポロ】毛穴 角栓取り 角質除去 顔用 くすみ ケア 小鼻 毛穴汚れ つるん ｜ダマスクローズ 精油の香り｜日本製",
+      "suppression_reason": "nan",
+      "suppression_category": "5.Others",
+      "pf": "Consumables",
+      "t30d_ops": 482401.8,
+      "t30d_units": 182.0
+    },
+    {
+      "asin": "B0BVBSDK51",
+      "item_name": "FAZ 薬用ブライトソープ｜ニキビ・毛穴ケア｜ピーリング石鹸｜角質・黒ずみ対策 洗顔 無添加 泡立てネット付き 医薬部外品 100g",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 73881.79,
+      "t30d_units": 38.0
+    }
+  ]
+}

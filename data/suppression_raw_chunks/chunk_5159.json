@@ -1,1 +1,85 @@
-{"14077801422": [{"asin": "B07WCTBGZ2", "item_name": "LANケーブル 90M CAT7, UGOMI 屋外 カテゴリー7 イーサネットケーブル 工業階級 三重遮蔽 SSTP 10Gbps 600MHz UV/防水、直接埋葬、PEジャケット PS4 Xbox Modem Routerなどに適用されます", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 90153.16, "t30d_units": 6.0}, {"asin": "B0BGLZHCCX", "item_name": "LANケーブル CAT7 25M、UGOMI 屋外 カテゴリー7 イーサネットケーブル 工業階級 三重遮蔽 SSTP 10Gbps 600MHz UV/防水、直接埋葬、PEジャケット PS4 Xbox Modem Routerなどに適用されます", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 16983.0, "t30d_units": 5.0}, {"asin": "B07WD6PKJ1", "item_name": "LANケーブル 30M CAT7, UGOMI 屋外 カテゴリー7 イーサネットケーブル 工業階級 三重遮蔽 SSTP 10Gbps 600MHz UV/防水、直接埋葬、PEジャケット PS4 Xbox Modem Routerなどに適用されます", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 65629.25, "t30d_units": 21.0}, {"asin": "B07WD92D9K", "item_name": "LANケーブル 50M CAT7, UGOMI 屋外 カテゴリー7 イーサネットケーブル 工業階級 三重遮蔽 SSTP 10Gbps 600MHz UV/防水、直接埋葬、PEジャケット PS4 Xbox Modem Routerなどに適用されます", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 7489.0, "t30d_units": 1.0}, {"asin": "B07WCSRPHP", "item_name": "LANケーブル 60M CAT7, UGOMI 屋外 カテゴリー7 イーサネットケーブル 工業階級 三重遮蔽 SSTP 10Gbps 600MHz UV/防水、直接埋葬、PEジャケット PS4 Xbox Modem Routerなどに適用されます", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 8549.0, "t30d_units": 1.0}, {"asin": "B07WFBBN7B", "item_name": "LANケーブル 40M CAT7, UGOMI 屋外 カテゴリー7 イーサネットケーブル 工業階級 三重遮蔽 SSTP 10Gbps 600MHz UV/防水、直接埋葬、PEジャケット PS4 Xbox Modem Routerなどに適用されます", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 30229.0, "t30d_units": 6.0}, {"asin": "B07WCTZM8T", "item_name": "LANケーブル 70M CAT7, UGOMI 屋外 カテゴリー7 イーサネットケーブル 工業階級 三重遮蔽 SSTP 10Gbps 600MHz UV/防水、直接埋葬、PEジャケット PS4 Xbox Modem Routerなどに適用されます", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 12726.0, "t30d_units": 1.0}, {"asin": "B07WD9WXYL", "item_name": "LANケーブル 20M CAT7, UGOMI 屋外 カテゴリー7 イーサネットケーブル 工業階級 三重遮蔽 SSTP 10Gbps 600MHz UV/防水、直接埋葬、PEジャケット PS4 Xbox Modem Routerなどに適用されます", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 20722.33, "t30d_units": 7.0}, {"asin": "B07WCV8QDF", "item_name": "LANケーブル 10M CAT7, UGOMI 屋外 カテゴリー7 イーサネットケーブル 工業階級 三重遮蔽 SSTP 10Gbps 600MHz UV/防水、直接埋葬、PEジャケット PS4 Xbox Modem Routerなどに適用されます", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 9422.0, "t30d_units": 5.0}]}
+{
+  "14077801422": [
+    {
+      "asin": "B07WCTBGZ2",
+      "item_name": "LANケーブル 90M CAT7, UGOMI 屋外 カテゴリー7 イーサネットケーブル 工業階級 三重遮蔽 SSTP 10Gbps 600MHz UV/防水、直接埋葬、PEジャケット PS4 Xbox Modem Routerなどに適用されます",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 90153.16,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0BGLZHCCX",
+      "item_name": "LANケーブル CAT7 25M、UGOMI 屋外 カテゴリー7 イーサネットケーブル 工業階級 三重遮蔽 SSTP 10Gbps 600MHz UV/防水、直接埋葬、PEジャケット PS4 Xbox Modem Routerなどに適用されます",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 16983.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B07WD6PKJ1",
+      "item_name": "LANケーブル 30M CAT7, UGOMI 屋外 カテゴリー7 イーサネットケーブル 工業階級 三重遮蔽 SSTP 10Gbps 600MHz UV/防水、直接埋葬、PEジャケット PS4 Xbox Modem Routerなどに適用されます",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 65629.25,
+      "t30d_units": 21.0
+    },
+    {
+      "asin": "B07WD92D9K",
+      "item_name": "LANケーブル 50M CAT7, UGOMI 屋外 カテゴリー7 イーサネットケーブル 工業階級 三重遮蔽 SSTP 10Gbps 600MHz UV/防水、直接埋葬、PEジャケット PS4 Xbox Modem Routerなどに適用されます",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 7489.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B07WCSRPHP",
+      "item_name": "LANケーブル 60M CAT7, UGOMI 屋外 カテゴリー7 イーサネットケーブル 工業階級 三重遮蔽 SSTP 10Gbps 600MHz UV/防水、直接埋葬、PEジャケット PS4 Xbox Modem Routerなどに適用されます",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 8549.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B07WFBBN7B",
+      "item_name": "LANケーブル 40M CAT7, UGOMI 屋外 カテゴリー7 イーサネットケーブル 工業階級 三重遮蔽 SSTP 10Gbps 600MHz UV/防水、直接埋葬、PEジャケット PS4 Xbox Modem Routerなどに適用されます",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 30229.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B07WCTZM8T",
+      "item_name": "LANケーブル 70M CAT7, UGOMI 屋外 カテゴリー7 イーサネットケーブル 工業階級 三重遮蔽 SSTP 10Gbps 600MHz UV/防水、直接埋葬、PEジャケット PS4 Xbox Modem Routerなどに適用されます",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 12726.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B07WD9WXYL",
+      "item_name": "LANケーブル 20M CAT7, UGOMI 屋外 カテゴリー7 イーサネットケーブル 工業階級 三重遮蔽 SSTP 10Gbps 600MHz UV/防水、直接埋葬、PEジャケット PS4 Xbox Modem Routerなどに適用されます",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 20722.33,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B07WCV8QDF",
+      "item_name": "LANケーブル 10M CAT7, UGOMI 屋外 カテゴリー7 イーサネットケーブル 工業階級 三重遮蔽 SSTP 10Gbps 600MHz UV/防水、直接埋葬、PEジャケット PS4 Xbox Modem Routerなどに適用されます",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 9422.0,
+      "t30d_units": 5.0
+    }
+  ]
+}

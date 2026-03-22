@@ -1,1 +1,49 @@
-{"1127572296102": [{"asin": "B0FPQ7DVFL", "item_name": "お灸 火を使わない, 貼るお灸, 生姜艾灸贴, 千年灸, 肩颈腰背用, 50枚入, 無火艾灸パッド, 伝統漢方", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 11424.0, "t30d_units": 6.0}, {"asin": "B0GDZPG3GH", "item_name": "よもぎタンジンパッチ 火を使わない貼るお灸、自己発熱、肩・腰・頚椎用、よもぎ・生姜配合、30枚入り、通気性・吸湿性・低刺激性、日本語取扱説明書付 (1袋30枚)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 149425.93, "t30d_units": 75.0}, {"asin": "B0FPQ7YWQ1", "item_name": "お灸 火を使わない 千年灸 よもぎ温感シート, 24枚入り, 首・肩・腰・脚部用, 男女兼用, 漢方養生シート", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 37714.41, "t30d_units": 27.0}, {"asin": "B0G9H69TDV", "item_name": "艾灸パッチ よもぎ蒸しパッド 温熱シート, 肩首腰用, 貼るカイロ, 漢方ケア, 20枚入り", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 34330.0, "t30d_units": 15.0}, {"asin": "B0GDZLCBD3", "item_name": "よもぎタンジンパッチ 火を使わない貼るお灸、自己発熱、肩・腰・頚椎用、よもぎ・生姜配合、30枚入り、通気性・吸湿性・低刺激性、日本語取扱説明書付 (2袋60枚)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 74378.61, "t30d_units": 19.0}]}
+{
+  "1127572296102": [
+    {
+      "asin": "B0FPQ7DVFL",
+      "item_name": "お灸 火を使わない, 貼るお灸, 生姜艾灸贴, 千年灸, 肩颈腰背用, 50枚入, 無火艾灸パッド, 伝統漢方",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 11424.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0GDZPG3GH",
+      "item_name": "よもぎタンジンパッチ 火を使わない貼るお灸、自己発熱、肩・腰・頚椎用、よもぎ・生姜配合、30枚入り、通気性・吸湿性・低刺激性、日本語取扱説明書付 (1袋30枚)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 149425.93,
+      "t30d_units": 75.0
+    },
+    {
+      "asin": "B0FPQ7YWQ1",
+      "item_name": "お灸 火を使わない 千年灸 よもぎ温感シート, 24枚入り, 首・肩・腰・脚部用, 男女兼用, 漢方養生シート",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 37714.41,
+      "t30d_units": 27.0
+    },
+    {
+      "asin": "B0G9H69TDV",
+      "item_name": "艾灸パッチ よもぎ蒸しパッド 温熱シート, 肩首腰用, 貼るカイロ, 漢方ケア, 20枚入り",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 34330.0,
+      "t30d_units": 15.0
+    },
+    {
+      "asin": "B0GDZLCBD3",
+      "item_name": "よもぎタンジンパッチ 火を使わない貼るお灸、自己発熱、肩・腰・頚椎用、よもぎ・生姜配合、30枚入り、通気性・吸湿性・低刺激性、日本語取扱説明書付 (2袋60枚)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 74378.61,
+      "t30d_units": 19.0
+    }
+  ]
+}

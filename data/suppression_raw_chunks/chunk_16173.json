@@ -1,1 +1,31 @@
-{"1126954080302": [{"asin": "B0FR3DKTP4", "item_name": "BEGOALD ワインディングマシーン 2本巻き マブチモーター LEDライト 静音 自動停止 ウォッチワインダー 腕時計 ワインダー 時計 自動巻き上げ機 自動巻き 男女兼用 (ワインレッド, スモール)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Softlines", "t30d_ops": 18148.0, "t30d_units": 3.0}, {"asin": "B0FR3P16B1", "item_name": "BEGOALD ワインディングマシーン 2本巻き マブチモーター LEDライト 静音 自動停止 ウォッチワインダー 腕時計 ワインダー 時計 自動巻き上げ機 自動巻き 男女兼用 (ブラック, スモール)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 290689.56, "t30d_units": 48.0}, {"asin": "B0FR3NVPRL", "item_name": "BEGOALD ワインディングマシーン 2本巻き マブチモーター LEDライト 静音 自動停止 ウォッチワインダー 腕時計 ワインダー 時計 自動巻き上げ機 自動巻き 男女兼用 (ワインレッド, ラージ)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 16164.0, "t30d_units": 2.0}]}
+{
+  "1126954080302": [
+    {
+      "asin": "B0FR3DKTP4",
+      "item_name": "BEGOALD ワインディングマシーン 2本巻き マブチモーター LEDライト 静音 自動停止 ウォッチワインダー 腕時計 ワインダー 時計 自動巻き上げ機 自動巻き 男女兼用 (ワインレッド, スモール)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Softlines",
+      "t30d_ops": 18148.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0FR3P16B1",
+      "item_name": "BEGOALD ワインディングマシーン 2本巻き マブチモーター LEDライト 静音 自動停止 ウォッチワインダー 腕時計 ワインダー 時計 自動巻き上げ機 自動巻き 男女兼用 (ブラック, スモール)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 290689.56,
+      "t30d_units": 48.0
+    },
+    {
+      "asin": "B0FR3NVPRL",
+      "item_name": "BEGOALD ワインディングマシーン 2本巻き マブチモーター LEDライト 静音 自動停止 ウォッチワインダー 腕時計 ワインダー 時計 自動巻き上げ機 自動巻き 男女兼用 (ワインレッド, ラージ)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 16164.0,
+      "t30d_units": 2.0
+    }
+  ]
+}

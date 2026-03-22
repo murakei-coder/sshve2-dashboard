@@ -1,1 +1,58 @@
-{"1111054767302": [{"asin": "B0FXX3Q6NT", "item_name": "イヤホン Bluetooth【ネックバンド型・コード調整・40時間連続再生】ワイヤレスイヤホン ネックバンド 凸構造ボタン 首掛け ブルートゥースイヤホン CVC8.0ノイズキャンセリング Type-C急速充電 ハンズフリー通話 軽量 イヤフォン マグネット搭載 音量調節 Siri 音楽/WEB会議/ビジネス/通勤通学 技適認証", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 183948.0, "t30d_units": 52.0}, {"asin": "B0FR4NYBG6", "item_name": "【業界新定番！Bluetooth5.4+EDR】ヘッドセット bluetooth 片耳 Bluetooth ヘッドセット イヤホン片耳 耳掛け式 最大100時間連続使用 充電ケース付き LEDバッテリー残量ディスプレイ 左右耳兼用 ハンズフリー通話可 マイク内蔵 SIRI/ミュート機能 CVC8.0ノイズキャンセリング 運転/テレワーク/LINEチャット/zoom会", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1116586.79, "t30d_units": 458.0}, {"asin": "B0FXX2DSFV", "item_name": "イヤホン Bluetooth【ネックバンド型・コード調整・40時間連続再生】ワイヤレスイヤホン ネックバンド 凸構造ボタン 首掛け ブルートゥースイヤホン CVC8.0ノイズキャンセリング Type-C急速充電 ハンズフリー通話 軽量 イヤフォン マグネット搭載 音量調節 Siri 音楽/WEB会議/ビジネス/通勤通学 技適認証", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 344754.0, "t30d_units": 46.0}, {"asin": "B0FXX2MBFJ", "item_name": "イヤホン Bluetooth【ネックバンド型・コード調整・40時間連続再生】ワイヤレスイヤホン ネックバンド 凸構造ボタン 首掛け ブルートゥースイヤホン CVC8.0ノイズキャンセリング Type-C急速充電 ハンズフリー通話 軽量 イヤフォン マグネット搭載 音量調節 Siri 音楽/WEB会議/ビジネス/通勤通学 技適認証", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 157560.33, "t30d_units": 40.0}, {"asin": "B0FXWZJ7YJ", "item_name": "イヤホン Bluetooth【ネックバンド型・コード調整・40時間連続再生】ワイヤレスイヤホン ネックバンド 凸構造ボタン 首掛け ブルートゥースイヤホン CVC8.0ノイズキャンセリング Type-C急速充電 ハンズフリー通話 軽量 イヤフォン マグネット搭載 音量調節 Siri 音楽/WEB会議/ビジネス/通勤通学 技適認証", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 188143.57, "t30d_units": 38.0}, {"asin": "B0FXX3QCB8", "item_name": "イヤホン Bluetooth【ネックバンド型・コード調整・40時間連続再生】ワイヤレスイヤホン ネックバンド 凸構造ボタン 首掛け ブルートゥースイヤホン CVC8.0ノイズキャンセリング Type-C急速充電 ハンズフリー通話 軽量 イヤフォン マグネット搭載 音量調節 Siri 音楽/WEB会議/ビジネス/通勤通学 技適認証", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1071263.97, "t30d_units": 410.0}]}
+{
+  "1111054767302": [
+    {
+      "asin": "B0FXX3Q6NT",
+      "item_name": "イヤホン Bluetooth【ネックバンド型・コード調整・40時間連続再生】ワイヤレスイヤホン ネックバンド 凸構造ボタン 首掛け ブルートゥースイヤホン CVC8.0ノイズキャンセリング Type-C急速充電 ハンズフリー通話 軽量 イヤフォン マグネット搭載 音量調節 Siri 音楽/WEB会議/ビジネス/通勤通学 技適認証",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 183948.0,
+      "t30d_units": 52.0
+    },
+    {
+      "asin": "B0FR4NYBG6",
+      "item_name": "【業界新定番！Bluetooth5.4+EDR】ヘッドセット bluetooth 片耳 Bluetooth ヘッドセット イヤホン片耳 耳掛け式 最大100時間連続使用 充電ケース付き LEDバッテリー残量ディスプレイ 左右耳兼用 ハンズフリー通話可 マイク内蔵 SIRI/ミュート機能 CVC8.0ノイズキャンセリング 運転/テレワーク/LINEチャット/zoom会",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1116586.79,
+      "t30d_units": 458.0
+    },
+    {
+      "asin": "B0FXX2DSFV",
+      "item_name": "イヤホン Bluetooth【ネックバンド型・コード調整・40時間連続再生】ワイヤレスイヤホン ネックバンド 凸構造ボタン 首掛け ブルートゥースイヤホン CVC8.0ノイズキャンセリング Type-C急速充電 ハンズフリー通話 軽量 イヤフォン マグネット搭載 音量調節 Siri 音楽/WEB会議/ビジネス/通勤通学 技適認証",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 344754.0,
+      "t30d_units": 46.0
+    },
+    {
+      "asin": "B0FXX2MBFJ",
+      "item_name": "イヤホン Bluetooth【ネックバンド型・コード調整・40時間連続再生】ワイヤレスイヤホン ネックバンド 凸構造ボタン 首掛け ブルートゥースイヤホン CVC8.0ノイズキャンセリング Type-C急速充電 ハンズフリー通話 軽量 イヤフォン マグネット搭載 音量調節 Siri 音楽/WEB会議/ビジネス/通勤通学 技適認証",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 157560.33,
+      "t30d_units": 40.0
+    },
+    {
+      "asin": "B0FXWZJ7YJ",
+      "item_name": "イヤホン Bluetooth【ネックバンド型・コード調整・40時間連続再生】ワイヤレスイヤホン ネックバンド 凸構造ボタン 首掛け ブルートゥースイヤホン CVC8.0ノイズキャンセリング Type-C急速充電 ハンズフリー通話 軽量 イヤフォン マグネット搭載 音量調節 Siri 音楽/WEB会議/ビジネス/通勤通学 技適認証",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 188143.57,
+      "t30d_units": 38.0
+    },
+    {
+      "asin": "B0FXX3QCB8",
+      "item_name": "イヤホン Bluetooth【ネックバンド型・コード調整・40時間連続再生】ワイヤレスイヤホン ネックバンド 凸構造ボタン 首掛け ブルートゥースイヤホン CVC8.0ノイズキャンセリング Type-C急速充電 ハンズフリー通話 軽量 イヤフォン マグネット搭載 音量調節 Siri 音楽/WEB会議/ビジネス/通勤通学 技適認証",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1071263.97,
+      "t30d_units": 410.0
+    }
+  ]
+}

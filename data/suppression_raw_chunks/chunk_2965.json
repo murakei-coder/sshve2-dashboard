@@ -1,1 +1,22 @@
-{"7439503955": [{"asin": "B07D6KD3TL", "item_name": "LOFEE 散髪 ヘアカット すきばさみ セット ハサミ シザー 左右 プロ 初心者 美容師 理容師 セルフカット カットはさみ ケース付 くし付き カットケープ付 ブランド登録済み", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 855968.27, "t30d_units": 397.0}, {"asin": "B0FJXTBKDW", "item_name": "【1台4役・防災対策】 センサーライト 懐中電灯 ナイトライト 充電式 人感センサー 分離式 マグネット付き テーブルランプ 間接照明 停電時に自動点灯 廊下 階段 寝室 玄関 授乳ライト 常夜灯", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 210819.86, "t30d_units": 72.0}]}
+{
+  "7439503955": [
+    {
+      "asin": "B07D6KD3TL",
+      "item_name": "LOFEE 散髪 ヘアカット すきばさみ セット ハサミ シザー 左右 プロ 初心者 美容師 理容師 セルフカット カットはさみ ケース付 くし付き カットケープ付 ブランド登録済み",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 855968.27,
+      "t30d_units": 397.0
+    },
+    {
+      "asin": "B0FJXTBKDW",
+      "item_name": "【1台4役・防災対策】 センサーライト 懐中電灯 ナイトライト 充電式 人感センサー 分離式 マグネット付き テーブルランプ 間接照明 停電時に自動点灯 廊下 階段 寝室 玄関 授乳ライト 常夜灯",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 210819.86,
+      "t30d_units": 72.0
+    }
+  ]
+}

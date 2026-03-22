@@ -1,1 +1,40 @@
-{"9728402122": [{"asin": "B0DZX7NPH3", "item_name": "usb チェッカー Aideepen USB-C電流電圧チェッカー テスター DC4-30V 0-12A type-Cテスター PD、QC、PPSに対応", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 425278.25, "t30d_units": 165.0}, {"asin": "B07Z4JNX6R", "item_name": "Aideepen トランジスタテストランジスタテスターマルチメーターテスター LCR-TC1 1.8inch カラフルディスプレイテスター 多機能 TFTバックライトダイオード/トランジスタ/三極/コンデンサ抵抗用 ワンキー操作、自動検出およびシャットダウン（内蔵バッテリー）", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 134942.83, "t30d_units": 52.0}, {"asin": "B0F43F2KT8", "item_name": "ハンダゴテ Aideepen 5-in-1 デジタル表示 はんだごて ハンダゴテ セット ハンダコテ USB 充電式はんだごて はんだこて先×3 懐中電灯 はんだこて 5速温度調整 小型はんだごて 【日本語説明書】", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 84892.65, "t30d_units": 28.0}, {"asin": "B0G2XR5QBJ", "item_name": "Aideepen MF9 トランジスタ テスター TFT 1.8インチ カラー画面 高精度 多機能 電子部品 テスト LCRメーター 自動判定 コンデンサ 抵抗 ダイオード チェッカー テストリード付属", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 55711.33, "t30d_units": 19.0}]}
+{
+  "9728402122": [
+    {
+      "asin": "B0DZX7NPH3",
+      "item_name": "usb チェッカー Aideepen USB-C電流電圧チェッカー テスター DC4-30V 0-12A type-Cテスター PD、QC、PPSに対応",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 425278.25,
+      "t30d_units": 165.0
+    },
+    {
+      "asin": "B07Z4JNX6R",
+      "item_name": "Aideepen トランジスタテストランジスタテスターマルチメーターテスター LCR-TC1 1.8inch カラフルディスプレイテスター 多機能 TFTバックライトダイオード/トランジスタ/三極/コンデンサ抵抗用 ワンキー操作、自動検出およびシャットダウン（内蔵バッテリー）",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 134942.83,
+      "t30d_units": 52.0
+    },
+    {
+      "asin": "B0F43F2KT8",
+      "item_name": "ハンダゴテ Aideepen 5-in-1 デジタル表示 はんだごて ハンダゴテ セット ハンダコテ USB 充電式はんだごて はんだこて先×3 懐中電灯 はんだこて 5速温度調整 小型はんだごて 【日本語説明書】",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 84892.65,
+      "t30d_units": 28.0
+    },
+    {
+      "asin": "B0G2XR5QBJ",
+      "item_name": "Aideepen MF9 トランジスタ テスター TFT 1.8インチ カラー画面 高精度 多機能 電子部品 テスト LCRメーター 自動判定 コンデンサ 抵抗 ダイオード チェッカー テストリード付属",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 55711.33,
+      "t30d_units": 19.0
+    }
+  ]
+}

@@ -1,1 +1,40 @@
-{"807875423102": [{"asin": "B0D7MRZNM8", "item_name": "ドライマンゴー 大容量 1kg ソフトマンゴー ドライフルーツ 甘さ控えめ 低糖加工 着色料 香料不使用 完熟使用 ケオロミート種【SUSTELIFE】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 149149.53, "t30d_units": 47.0}, {"asin": "B0DWWVHVJF", "item_name": "ドライマンゴー 大容量 ソフトマンゴー ドライフルーツ 甘さ控えめ 低糖加工 着色料 香料不使用 完熟使用 ケオロミート種【SUSTELIFE】 (400g)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 72259.53, "t30d_units": 47.0}, {"asin": "B0D2887N9X", "item_name": "ドライマンゴー 砂糖不使用 完全無添加 ドライフルーツ 低GI 自然の甘味ぎゅっと凝縮100%完熟マンゴー使用 ケオロミート種【SUSTELIFE】 (300g)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 154743.77, "t30d_units": 58.0}, {"asin": "B0D287MNBQ", "item_name": "ドライマンゴー 砂糖不使用 完全無添加 ドライフルーツ 低GI 自然の甘味ぎゅっと凝縮100%完熟マンゴー使用 ケオロミート種【SUSTELIFE】 (165g)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 201978.26, "t30d_units": 131.0}]}
+{
+  "807875423102": [
+    {
+      "asin": "B0D7MRZNM8",
+      "item_name": "ドライマンゴー 大容量 1kg ソフトマンゴー ドライフルーツ 甘さ控えめ 低糖加工 着色料 香料不使用 完熟使用 ケオロミート種【SUSTELIFE】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 149149.53,
+      "t30d_units": 47.0
+    },
+    {
+      "asin": "B0DWWVHVJF",
+      "item_name": "ドライマンゴー 大容量 ソフトマンゴー ドライフルーツ 甘さ控えめ 低糖加工 着色料 香料不使用 完熟使用 ケオロミート種【SUSTELIFE】 (400g)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 72259.53,
+      "t30d_units": 47.0
+    },
+    {
+      "asin": "B0D2887N9X",
+      "item_name": "ドライマンゴー 砂糖不使用 完全無添加 ドライフルーツ 低GI 自然の甘味ぎゅっと凝縮100%完熟マンゴー使用 ケオロミート種【SUSTELIFE】 (300g)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 154743.77,
+      "t30d_units": 58.0
+    },
+    {
+      "asin": "B0D287MNBQ",
+      "item_name": "ドライマンゴー 砂糖不使用 完全無添加 ドライフルーツ 低GI 自然の甘味ぎゅっと凝縮100%完熟マンゴー使用 ケオロミート種【SUSTELIFE】 (165g)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 201978.26,
+      "t30d_units": 131.0
+    }
+  ]
+}

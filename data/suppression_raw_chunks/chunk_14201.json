@@ -1,1 +1,85 @@
-{"962657172902": [{"asin": "B0G1PHQX66", "item_name": "[Infippy] リュック 女の子 キッズ 小学生 中学生 リュックサック 可愛い 大容量 軽量 ハイキング 遠足 塾通いバッグ 家族旅行 旅行 (ブラック, フリー)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 63859.0, "t30d_units": 21.0}, {"asin": "B0F8ZH4BZJ", "item_name": "[Infippy] 【元客室乗務員監修】スカーフ 大判 110×110cm シルクタッチ ストール ショール おしゃれ", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 84698.65, "t30d_units": 38.0}, {"asin": "B0G1PHVSVT", "item_name": "[Infippy] リュック 女の子 キッズ 小学生 中学生 リュックサック 大容量 軽量 ハイキング 遠足 塾通いバッグ 旅行 (スカイブルー, フリー)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Softlines", "t30d_ops": 51648.0, "t30d_units": 17.0}, {"asin": "B0F91QDC1S", "item_name": "[Infippy] 【元客室乗務員監修】スカーフ 大判 110×110cm シルクタッチ ストール ショール おしゃれ (イエロー＆ブラック)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Softlines", "t30d_ops": 22001.0, "t30d_units": 9.0}, {"asin": "B0G1NJPTJW", "item_name": "[Infippy] リュック 女の子 キッズ 小学生 中学生 リュックサック 大容量 軽量 ハイキング 遠足 通塾バッグ 旅行 (ピンク, フリー)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 28950.33, "t30d_units": 10.0}, {"asin": "B0F91P5S1C", "item_name": "[Infippy] 【元客室乗務員監修】スカーフ 大判 110×110cm シルクタッチ ストール ショール おしゃれ (フラワー)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Softlines", "t30d_ops": 26183.0, "t30d_units": 11.0}, {"asin": "B0F91PPVWX", "item_name": "[Infippy] 【元客室乗務員監修】スカーフ 大判 110×110cm シルクタッチ ストール ショール おしゃれ (ペイズリー)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 43635.75, "t30d_units": 20.0}, {"asin": "B0G1NR68JB", "item_name": "[Infippy] リュック 女の子 キッズ 小学生 中学生 リュックサック 大容量 軽量 ハイキング 遠足 塾通いバッグ 旅行 (パープル, フリー)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 45714.0, "t30d_units": 15.0}, {"asin": "B0G5FYJKR6", "item_name": "[Infippy] 【元客室乗務員監修】スカーフ 大判 110×110cm シルクタッチ ストール ショール おしゃれ (オレンジ)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Softlines", "t30d_ops": 41520.5, "t30d_units": 17.0}]}
+{
+  "962657172902": [
+    {
+      "asin": "B0G1PHQX66",
+      "item_name": "[Infippy] リュック 女の子 キッズ 小学生 中学生 リュックサック 可愛い 大容量 軽量 ハイキング 遠足 塾通いバッグ 家族旅行 旅行 (ブラック, フリー)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 63859.0,
+      "t30d_units": 21.0
+    },
+    {
+      "asin": "B0F8ZH4BZJ",
+      "item_name": "[Infippy] 【元客室乗務員監修】スカーフ 大判 110×110cm シルクタッチ ストール ショール おしゃれ",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 84698.65,
+      "t30d_units": 38.0
+    },
+    {
+      "asin": "B0G1PHVSVT",
+      "item_name": "[Infippy] リュック 女の子 キッズ 小学生 中学生 リュックサック 大容量 軽量 ハイキング 遠足 塾通いバッグ 旅行 (スカイブルー, フリー)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Softlines",
+      "t30d_ops": 51648.0,
+      "t30d_units": 17.0
+    },
+    {
+      "asin": "B0F91QDC1S",
+      "item_name": "[Infippy] 【元客室乗務員監修】スカーフ 大判 110×110cm シルクタッチ ストール ショール おしゃれ (イエロー＆ブラック)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Softlines",
+      "t30d_ops": 22001.0,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B0G1NJPTJW",
+      "item_name": "[Infippy] リュック 女の子 キッズ 小学生 中学生 リュックサック 大容量 軽量 ハイキング 遠足 通塾バッグ 旅行 (ピンク, フリー)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 28950.33,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B0F91P5S1C",
+      "item_name": "[Infippy] 【元客室乗務員監修】スカーフ 大判 110×110cm シルクタッチ ストール ショール おしゃれ (フラワー)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Softlines",
+      "t30d_ops": 26183.0,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0F91PPVWX",
+      "item_name": "[Infippy] 【元客室乗務員監修】スカーフ 大判 110×110cm シルクタッチ ストール ショール おしゃれ (ペイズリー)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 43635.75,
+      "t30d_units": 20.0
+    },
+    {
+      "asin": "B0G1NR68JB",
+      "item_name": "[Infippy] リュック 女の子 キッズ 小学生 中学生 リュックサック 大容量 軽量 ハイキング 遠足 塾通いバッグ 旅行 (パープル, フリー)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 45714.0,
+      "t30d_units": 15.0
+    },
+    {
+      "asin": "B0G5FYJKR6",
+      "item_name": "[Infippy] 【元客室乗務員監修】スカーフ 大判 110×110cm シルクタッチ ストール ショール おしゃれ (オレンジ)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Softlines",
+      "t30d_ops": 41520.5,
+      "t30d_units": 17.0
+    }
+  ]
+}

@@ -1,1 +1,76 @@
-{"8167241122": [{"asin": "B0DFCWXJML", "item_name": "バイクカバー 原付カバー 防水 【200*90*100 】耐熱 厚手 超撥水塗料オックス生地 反射ストライプ 盗難防止 紫外線防止 防埃 防水 防雪 UVカット 丈夫収納袋付", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 7797.0, "t30d_units": 3.0}, {"asin": "B0DRDC3NWC", "item_name": "バイクカバー 防水 大型 210D 厚手【2025改良最新型 】 245*105*125cm 耐熱 厚手 超撥水塗料オックス生地 反射ストライプ 盗難防止 紫外線防止 防埃 防水 防雪 UVカット 丈夫収納袋付", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 193320.87, "t30d_units": 100.0}, {"asin": "B087BD3VLT", "item_name": "自転車カバー 防水 厚手 紫外線防止 盗難防止 収納袋付", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 6320.0, "t30d_units": 4.0}, {"asin": "B0DRDFC4Y7", "item_name": "バイクカバー 原付カバー 防水 210D 厚手【最新型 245*125*105】 耐熱 厚手 超撥水塗料オックス生地 盗難防止 紫外線防止 防埃 防水 防雪 UVカット 丈夫収納袋付", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 896279.64, "t30d_units": 506.0}, {"asin": "B01M6BNZQT", "item_name": "Puroma 自転車カバー 防水 厚手 原付カバー アウトドア 雨 太陽 紫外線 防塵 防風 ロック穴付き オックス製生地 収納袋付き", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 686076.64, "t30d_units": 504.0}, {"asin": "B0DRDDNZNT", "item_name": "バイクカバー 原付カバー 防水 210D 厚手【2025改良最新型 220*105*95】 耐熱 厚手 超撥水塗料オックス生地 盗難防止 紫外線防止 防埃 防水 防雪 UVカット 丈夫収納袋付", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 25252.23, "t30d_units": 12.0}, {"asin": "B0DRDH2JVQ", "item_name": "バイクカバー 防水 大型 210D 厚手【2025改良最新型 】 265*105*125cm 耐熱 厚手 超撥水塗料オックス生地 反射ストライプ 盗難防止 紫外線防止 防埃 防水 防雪 UVカット 丈夫収納袋付", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 356590.19, "t30d_units": 198.0}, {"asin": "B0C2KF6LD3", "item_name": "自転車カバー 子供乗せ 防水 300D 紫外線防止 ロックホール付き 反射 安全ループ マウンテンロード電動バイク アウトドアストレージ 高耐久素材 マウンテンロード電動バイク用 収納袋付", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 213698.34, "t30d_units": 85.0}]}
+{
+  "8167241122": [
+    {
+      "asin": "B0DFCWXJML",
+      "item_name": "バイクカバー 原付カバー 防水 【200*90*100 】耐熱 厚手 超撥水塗料オックス生地 反射ストライプ 盗難防止 紫外線防止 防埃 防水 防雪 UVカット 丈夫収納袋付",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 7797.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0DRDC3NWC",
+      "item_name": "バイクカバー 防水 大型 210D 厚手【2025改良最新型 】 245*105*125cm 耐熱 厚手 超撥水塗料オックス生地 反射ストライプ 盗難防止 紫外線防止 防埃 防水 防雪 UVカット 丈夫収納袋付",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 193320.87,
+      "t30d_units": 100.0
+    },
+    {
+      "asin": "B087BD3VLT",
+      "item_name": "自転車カバー 防水 厚手 紫外線防止 盗難防止 収納袋付",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 6320.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0DRDFC4Y7",
+      "item_name": "バイクカバー 原付カバー 防水 210D 厚手【最新型 245*125*105】 耐熱 厚手 超撥水塗料オックス生地 盗難防止 紫外線防止 防埃 防水 防雪 UVカット 丈夫収納袋付",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 896279.64,
+      "t30d_units": 506.0
+    },
+    {
+      "asin": "B01M6BNZQT",
+      "item_name": "Puroma 自転車カバー 防水 厚手 原付カバー アウトドア 雨 太陽 紫外線 防塵 防風 ロック穴付き オックス製生地 収納袋付き",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 686076.64,
+      "t30d_units": 504.0
+    },
+    {
+      "asin": "B0DRDDNZNT",
+      "item_name": "バイクカバー 原付カバー 防水 210D 厚手【2025改良最新型 220*105*95】 耐熱 厚手 超撥水塗料オックス生地 盗難防止 紫外線防止 防埃 防水 防雪 UVカット 丈夫収納袋付",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 25252.23,
+      "t30d_units": 12.0
+    },
+    {
+      "asin": "B0DRDH2JVQ",
+      "item_name": "バイクカバー 防水 大型 210D 厚手【2025改良最新型 】 265*105*125cm 耐熱 厚手 超撥水塗料オックス生地 反射ストライプ 盗難防止 紫外線防止 防埃 防水 防雪 UVカット 丈夫収納袋付",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 356590.19,
+      "t30d_units": 198.0
+    },
+    {
+      "asin": "B0C2KF6LD3",
+      "item_name": "自転車カバー 子供乗せ 防水 300D 紫外線防止 ロックホール付き 反射 安全ループ マウンテンロード電動バイク アウトドアストレージ 高耐久素材 マウンテンロード電動バイク用 収納袋付",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 213698.34,
+      "t30d_units": 85.0
+    }
+  ]
+}

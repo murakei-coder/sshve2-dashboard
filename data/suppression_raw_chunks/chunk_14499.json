@@ -1,1 +1,49 @@
-{"997952057902": [{"asin": "B0GG9TKZMD", "item_name": "Dr.GET IT ビューティーボリュームプラス ヘアサプリメント – ビオチン・ビール酵母・プロシアニジン（アヌーカリンゴ）配合、 髪のボリュームが気になる女性向け、 ボリューム＆ツヤサポート、 専門家監修のもと開発、2ヶ月分", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0GFW6B2NZ", "item_name": "Dr. GET IT フィッシュコラーゲンパウダー スティックタイプ 低分子コラーゲン配合 インナーケア アップル風味 女性のための美容習慣 30本", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0FYMZQ992", "item_name": "DR.GET IT Kスリム CLA ダイエット サプリ 1400mg｜体脂肪ケア・お腹周りサポート｜ドイツBASF原料使用｜60カプセル", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 15990.0, "t30d_units": 4.0}, {"asin": "B0GFVJ8VY4", "item_name": "Dr.GET IT クイーンズガード 女性向けサプリメント｜大豆イソフラボン・高麗人参（6年根）・エンジュ果実エキス・ビタミンD配合｜40代・50代 女性の健康サポート｜30日分", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0F9B1WGVP", "item_name": "Dr.GET IT イノシトール サプリ マイオイノシトール & D-キロイノシトール 40:1バランス 葉酸・コリン・ビタミンB群配合 妊活・ホルモンバランス・女性リズムサポート レモン風味 30本入", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 345114.0, "t30d_units": 77.0}]}
+{
+  "997952057902": [
+    {
+      "asin": "B0GG9TKZMD",
+      "item_name": "Dr.GET IT ビューティーボリュームプラス ヘアサプリメント – ビオチン・ビール酵母・プロシアニジン（アヌーカリンゴ）配合、 髪のボリュームが気になる女性向け、 ボリューム＆ツヤサポート、 専門家監修のもと開発、2ヶ月分",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0GFW6B2NZ",
+      "item_name": "Dr. GET IT フィッシュコラーゲンパウダー スティックタイプ 低分子コラーゲン配合 インナーケア アップル風味 女性のための美容習慣 30本",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0FYMZQ992",
+      "item_name": "DR.GET IT Kスリム CLA ダイエット サプリ 1400mg｜体脂肪ケア・お腹周りサポート｜ドイツBASF原料使用｜60カプセル",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 15990.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0GFVJ8VY4",
+      "item_name": "Dr.GET IT クイーンズガード 女性向けサプリメント｜大豆イソフラボン・高麗人参（6年根）・エンジュ果実エキス・ビタミンD配合｜40代・50代 女性の健康サポート｜30日分",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0F9B1WGVP",
+      "item_name": "Dr.GET IT イノシトール サプリ マイオイノシトール & D-キロイノシトール 40:1バランス 葉酸・コリン・ビタミンB群配合 妊活・ホルモンバランス・女性リズムサポート レモン風味 30本入",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 345114.0,
+      "t30d_units": 77.0
+    }
+  ]
+}

@@ -1,1 +1,40 @@
-{"69623285922": [{"asin": "B0BMWR2L55", "item_name": "PLIOSN 小型冷蔵庫 22L 小型 冷温庫 ミニ冷蔵庫 ペルチェ式 温度調節可能 LCD温度表示 -9°C~65°C ワンタッチ操作 保温・保冷 ペルチェ搭載 軽量 静音性 ポータブル AC/DC電源 車載 アウトドア 家庭用 PSE認証", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 70054.0, "t30d_units": 3.0}, {"asin": "B0C1FZN6DZ", "item_name": "冷蔵庫 小型 20L ミニ冷蔵庫 LCD温度表示 冷温庫 ペルチェ式 収納バッグ 保温&保冷 -9°C~65°C 小型 便利 省エネ AC/DC給電 静音 化粧品 車中泊 アウトドア キャンプ 家庭用 PSE認証済", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 230748.33, "t30d_units": 14.0}, {"asin": "B0BMWR3YGX", "item_name": "PLIOSN 小型冷蔵庫 22L 小型 冷温庫 ミニ冷蔵庫 ペルチェ式 温度調節可能 LCD温度表示 -9°C~65°C ワンタッチ操作 保温・保冷 ペルチェ搭載 軽量 静音性 ポータブル AC/DC電源 車載 アウトドア 家庭用 PSE認証", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 130450.0, "t30d_units": 7.0}, {"asin": "B0F4R4L85Y", "item_name": "小型冷蔵庫 6L小型 冷温庫 ミニ冷蔵庫 ペルチェ式 温度調節可能 LCD温度表示 0°C~55°C ワンタッチ操作 保温・保冷 ペルチェ搭載 軽量 静音性 ポータブル AC/DC電源 車載 アウトドア 家庭用 PSE認証 (6L, ホワイト)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 647249.33, "t30d_units": 74.0}]}
+{
+  "69623285922": [
+    {
+      "asin": "B0BMWR2L55",
+      "item_name": "PLIOSN 小型冷蔵庫 22L 小型 冷温庫 ミニ冷蔵庫 ペルチェ式 温度調節可能 LCD温度表示 -9°C~65°C ワンタッチ操作 保温・保冷 ペルチェ搭載 軽量 静音性 ポータブル AC/DC電源 車載 アウトドア 家庭用 PSE認証",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 70054.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0C1FZN6DZ",
+      "item_name": "冷蔵庫 小型 20L ミニ冷蔵庫 LCD温度表示 冷温庫 ペルチェ式 収納バッグ 保温&保冷 -9°C~65°C 小型 便利 省エネ AC/DC給電 静音 化粧品 車中泊 アウトドア キャンプ 家庭用 PSE認証済",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 230748.33,
+      "t30d_units": 14.0
+    },
+    {
+      "asin": "B0BMWR3YGX",
+      "item_name": "PLIOSN 小型冷蔵庫 22L 小型 冷温庫 ミニ冷蔵庫 ペルチェ式 温度調節可能 LCD温度表示 -9°C~65°C ワンタッチ操作 保温・保冷 ペルチェ搭載 軽量 静音性 ポータブル AC/DC電源 車載 アウトドア 家庭用 PSE認証",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 130450.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0F4R4L85Y",
+      "item_name": "小型冷蔵庫 6L小型 冷温庫 ミニ冷蔵庫 ペルチェ式 温度調節可能 LCD温度表示 0°C~55°C ワンタッチ操作 保温・保冷 ペルチェ搭載 軽量 静音性 ポータブル AC/DC電源 車載 アウトドア 家庭用 PSE認証 (6L, ホワイト)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 647249.33,
+      "t30d_units": 74.0
+    }
+  ]
+}

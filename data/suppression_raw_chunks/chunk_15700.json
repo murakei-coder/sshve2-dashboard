@@ -1,1 +1,22 @@
-{"1105711704602": [{"asin": "B0FND49WTJ", "item_name": "Lummis 美顔器 取扱説明書付き クリスマス プレゼント 誕生日 女性 母の日 ギフト 贈り物 お祝い バレンタインデー 敬老の日 誕生日", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 8531.0, "t30d_units": 1.0}, {"asin": "B0G1G7964K", "item_name": "Lummis 電気ブラシ 電動頭皮ブラシ クリスマス プレゼント 誕生日 女性 母の日 ギフト 贈り物 お祝い", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 3079.0, "t30d_units": 1.0}]}
+{
+  "1105711704602": [
+    {
+      "asin": "B0FND49WTJ",
+      "item_name": "Lummis 美顔器 取扱説明書付き クリスマス プレゼント 誕生日 女性 母の日 ギフト 贈り物 お祝い バレンタインデー 敬老の日 誕生日",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 8531.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0G1G7964K",
+      "item_name": "Lummis 電気ブラシ 電動頭皮ブラシ クリスマス プレゼント 誕生日 女性 母の日 ギフト 贈り物 お祝い",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 3079.0,
+      "t30d_units": 1.0
+    }
+  ]
+}

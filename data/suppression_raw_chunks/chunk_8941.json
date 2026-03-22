@@ -1,1 +1,94 @@
-{"68840468022": [{"asin": "B0DTZ136R8", "item_name": "GeneLife 全ゲノム解析遺伝子検査キット WGS 2個セット", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0.0, "t30d_units": 0.0}, {"asin": "B0DTZ2HXXF", "item_name": "GeneLife 筋肉遺伝子検査キット SPORTS 2個セット 筋肉タイプ分析", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 11600.0, "t30d_units": 1.0}, {"asin": "B0DTYYXHTY", "item_name": "GeneLife 祖先遺伝子検査キット Haplo 3.0 2個セット DNAで祖先のルーツをたどる", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 31600.0, "t30d_units": 1.0}, {"asin": "B0DTZ1N3G1", "item_name": "GeneLife 自己分析遺伝子検査キット Myself 2.0 保護フィルム個包装", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 47700.0, "t30d_units": 3.0}, {"asin": "B00MPBU3XG", "item_name": "[GeneLife Myself2.0] 自己分析遺伝子検査/自分を見つめなおしたい方に", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 438998.66, "t30d_units": 28.0}, {"asin": "B0C3TYXLCL", "item_name": "新 祖先を調べる遺伝子検査キット【GeneLife Haplo3.0 / ジーンライフ ハプロ3.0】 古代人 縄文人 ネアンデルタール人 子孫 1.0 個", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 1360825.66, "t30d_units": 88.0}, {"asin": "B076BNB41Q", "item_name": "GeneLife DIET 肥満遺伝子検査キット(Web版) ダイエット法はDNA検査で変わる", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 1152003.25, "t30d_units": 236.0}, {"asin": "B076C8GMRJ", "item_name": "[GeneLife SKIN] 肌老化の遺伝子検査 / 肌タイプを知りシミやシワを予防", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 98519.66, "t30d_units": 18.0}, {"asin": "B0DTYY139V", "item_name": "遺伝子型ダイエット GeneLife 肥満遺伝子検査キット DIET (ダイエット) 保護フィルム個包装", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 72000.0, "t30d_units": 15.0}, {"asin": "B09CGN1L5F", "item_name": "GeneLife Genesis2.0 Plus ジーンライフ 約360項目の総合遺伝子検査キット", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 10098658.81, "t30d_units": 637.0}]}
+{
+  "68840468022": [
+    {
+      "asin": "B0DTZ136R8",
+      "item_name": "GeneLife 全ゲノム解析遺伝子検査キット WGS 2個セット",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    },
+    {
+      "asin": "B0DTZ2HXXF",
+      "item_name": "GeneLife 筋肉遺伝子検査キット SPORTS 2個セット 筋肉タイプ分析",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 11600.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0DTYYXHTY",
+      "item_name": "GeneLife 祖先遺伝子検査キット Haplo 3.0 2個セット DNAで祖先のルーツをたどる",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 31600.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0DTZ1N3G1",
+      "item_name": "GeneLife 自己分析遺伝子検査キット Myself 2.0 保護フィルム個包装",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 47700.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B00MPBU3XG",
+      "item_name": "[GeneLife Myself2.0] 自己分析遺伝子検査/自分を見つめなおしたい方に",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 438998.66,
+      "t30d_units": 28.0
+    },
+    {
+      "asin": "B0C3TYXLCL",
+      "item_name": "新 祖先を調べる遺伝子検査キット【GeneLife Haplo3.0 / ジーンライフ ハプロ3.0】 古代人 縄文人 ネアンデルタール人 子孫 1.0 個",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 1360825.66,
+      "t30d_units": 88.0
+    },
+    {
+      "asin": "B076BNB41Q",
+      "item_name": "GeneLife DIET 肥満遺伝子検査キット(Web版) ダイエット法はDNA検査で変わる",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 1152003.25,
+      "t30d_units": 236.0
+    },
+    {
+      "asin": "B076C8GMRJ",
+      "item_name": "[GeneLife SKIN] 肌老化の遺伝子検査 / 肌タイプを知りシミやシワを予防",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 98519.66,
+      "t30d_units": 18.0
+    },
+    {
+      "asin": "B0DTYY139V",
+      "item_name": "遺伝子型ダイエット GeneLife 肥満遺伝子検査キット DIET (ダイエット) 保護フィルム個包装",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 72000.0,
+      "t30d_units": 15.0
+    },
+    {
+      "asin": "B09CGN1L5F",
+      "item_name": "GeneLife Genesis2.0 Plus ジーンライフ 約360項目の総合遺伝子検査キット",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 10098658.81,
+      "t30d_units": 637.0
+    }
+  ]
+}

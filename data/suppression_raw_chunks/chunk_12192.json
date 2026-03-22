@@ -1,1 +1,31 @@
-{"736172016202": [{"asin": "B0DRF2ZHLW", "item_name": "ジャムウ ハ－バルドリンク 粉末 50g 袋入 ノンカフェイン ジャムーティー パウダー ジャムー ドリンク 無添加 チャック付 ハーブ スパイス ウコン 温活 インドネシア ギフト Jamu coconut sugar purunama Original (オリジナル ココナッツシュガー入)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 42860.33, "t30d_units": 16.0}, {"asin": "B0CWKRQ3BG", "item_name": "しいの食品 酒盗 かつを + まぐろ 60g 2本 お試し セット 食べ比べ 塩辛 瓶詰め 酒の肴 酒のあて 珍味 PON店 シール付 (かつをとまぐろ 各1入)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 146064.98, "t30d_units": 107.0}, {"asin": "B0DTH15YNZ", "item_name": "千陶千賀陶器 こだわりのポット急須 萬古焼 ギフト お茶が美味しくなる 急須 後ろ手 日本製 軽い 480cc オリジナルラベル付き 36-34 (ルリ)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 66880.08, "t30d_units": 16.0}]}
+{
+  "736172016202": [
+    {
+      "asin": "B0DRF2ZHLW",
+      "item_name": "ジャムウ ハ－バルドリンク 粉末 50g 袋入 ノンカフェイン ジャムーティー パウダー ジャムー ドリンク 無添加 チャック付 ハーブ スパイス ウコン 温活 インドネシア ギフト Jamu coconut sugar purunama Original (オリジナル ココナッツシュガー入)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 42860.33,
+      "t30d_units": 16.0
+    },
+    {
+      "asin": "B0CWKRQ3BG",
+      "item_name": "しいの食品 酒盗 かつを + まぐろ 60g 2本 お試し セット 食べ比べ 塩辛 瓶詰め 酒の肴 酒のあて 珍味 PON店 シール付 (かつをとまぐろ 各1入)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 146064.98,
+      "t30d_units": 107.0
+    },
+    {
+      "asin": "B0DTH15YNZ",
+      "item_name": "千陶千賀陶器 こだわりのポット急須 萬古焼 ギフト お茶が美味しくなる 急須 後ろ手 日本製 軽い 480cc オリジナルラベル付き 36-34 (ルリ)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 66880.08,
+      "t30d_units": 16.0
+    }
+  ]
+}

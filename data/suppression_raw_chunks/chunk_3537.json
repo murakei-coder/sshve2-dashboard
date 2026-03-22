@@ -1,1 +1,40 @@
-{"7946239755": [{"asin": "B0DP6M7WT4", "item_name": "Elitech エリテック 温湿度データロガー USB接続 シャドウデータ機能搭載 PDF/CSV自動レポート生成 32,000データポイント 冷蔵庫温度計 LogEt5TH", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 99575.0, "t30d_units": 25.0}, {"asin": "B0CZDT2XJL", "item_name": "Elitech ILD-100H ポータブル加熱ダイオード冷媒漏れ検出器 - 高感度ハロゲン冷媒漏れ検出ツール、HVACおよび自動車A/Cに最適、迅速な漏れ位置特定、音声+グラフィックアラート", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 47597.42, "t30d_units": 3.0}, {"asin": "B0DMNSDGL1", "item_name": "Elitech エリテック 温湿度データロガー USB接続 外部センサー付き シャドウデータ機能搭載 PDF/CSV自動レポート生成 32,000データポイント 冷蔵庫温度計 LogEt5THE", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 140465.66, "t30d_units": 34.0}, {"asin": "B0CCV7JZBH", "item_name": "Elitech エアコンガス漏れ検知器 UVライト付き 冷媒リークディテクタ R134A R410A R22 R1234YF対応 ハロゲンガス検出 カーエアコン・家庭用エアコン・HVACに適用", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 43741.0, "t30d_units": 9.0}]}
+{
+  "7946239755": [
+    {
+      "asin": "B0DP6M7WT4",
+      "item_name": "Elitech エリテック 温湿度データロガー USB接続 シャドウデータ機能搭載 PDF/CSV自動レポート生成 32,000データポイント 冷蔵庫温度計 LogEt5TH",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 99575.0,
+      "t30d_units": 25.0
+    },
+    {
+      "asin": "B0CZDT2XJL",
+      "item_name": "Elitech ILD-100H ポータブル加熱ダイオード冷媒漏れ検出器 - 高感度ハロゲン冷媒漏れ検出ツール、HVACおよび自動車A/Cに最適、迅速な漏れ位置特定、音声+グラフィックアラート",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 47597.42,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0DMNSDGL1",
+      "item_name": "Elitech エリテック 温湿度データロガー USB接続 外部センサー付き シャドウデータ機能搭載 PDF/CSV自動レポート生成 32,000データポイント 冷蔵庫温度計 LogEt5THE",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 140465.66,
+      "t30d_units": 34.0
+    },
+    {
+      "asin": "B0CCV7JZBH",
+      "item_name": "Elitech エアコンガス漏れ検知器 UVライト付き 冷媒リークディテクタ R134A R410A R22 R1234YF対応 ハロゲンガス検出 カーエアコン・家庭用エアコン・HVACに適用",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 43741.0,
+      "t30d_units": 9.0
+    }
+  ]
+}

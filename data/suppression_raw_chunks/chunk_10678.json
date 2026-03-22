@@ -1,1 +1,22 @@
-{"502377833502": [{"asin": "B0FWX8V6B4", "item_name": "Cetdeirレジン液 UV LED 大容量 500g ハードタイプ 低粘度/高い透明性 クリア オープナー付き ノズルキャップ付き", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 176189.53, "t30d_units": 69.0}, {"asin": "B0FWXB5Q3M", "item_name": "Cetdeir UV LED レジン液 大容量 500g ハードタイプ 低粘度 クリア オープナー付き ノズルキャップ付き", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 518269.8, "t30d_units": 247.0}]}
+{
+  "502377833502": [
+    {
+      "asin": "B0FWX8V6B4",
+      "item_name": "Cetdeirレジン液 UV LED 大容量 500g ハードタイプ 低粘度/高い透明性 クリア オープナー付き ノズルキャップ付き",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 176189.53,
+      "t30d_units": 69.0
+    },
+    {
+      "asin": "B0FWXB5Q3M",
+      "item_name": "Cetdeir UV LED レジン液 大容量 500g ハードタイプ 低粘度 クリア オープナー付き ノズルキャップ付き",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 518269.8,
+      "t30d_units": 247.0
+    }
+  ]
+}

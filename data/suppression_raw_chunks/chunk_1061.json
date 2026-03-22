@@ -1,1 +1,22 @@
-{"945540184": [{"asin": "B09WRDJQBJ", "item_name": "【2本セット】コンサートライト 18色カラー 【専門誌「音楽と人」掲載モデル】 ペンライト コンサート ライブ LED LUXLEAF (ホワイト)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 1091460.78, "t30d_units": 425.0}, {"asin": "B0BG8M52ZP", "item_name": "【2本セット】コンサートライト 18色カラー 【専門誌「音楽と人」掲載モデル】 ペンライト コンサート ライブ LED LUXLEAF (ブラック)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 233580.33, "t30d_units": 91.0}]}
+{
+  "945540184": [
+    {
+      "asin": "B09WRDJQBJ",
+      "item_name": "【2本セット】コンサートライト 18色カラー 【専門誌「音楽と人」掲載モデル】 ペンライト コンサート ライブ LED LUXLEAF (ホワイト)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 1091460.78,
+      "t30d_units": 425.0
+    },
+    {
+      "asin": "B0BG8M52ZP",
+      "item_name": "【2本セット】コンサートライト 18色カラー 【専門誌「音楽と人」掲載モデル】 ペンライト コンサート ライブ LED LUXLEAF (ブラック)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 233580.33,
+      "t30d_units": 91.0
+    }
+  ]
+}

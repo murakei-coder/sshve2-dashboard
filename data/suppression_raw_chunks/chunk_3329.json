@@ -1,1 +1,40 @@
-{"7755280755": [{"asin": "B01IOSEZIW", "item_name": "北海道産 ゆめぴりか 5kg 白米 令和7年産", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 402160.0, "t30d_units": 67.0}, {"asin": "B01IP4W1QI", "item_name": "北海道産 ゆめぴりか 10kg (5kg×2袋) 白米 令和7年産", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 589240.0, "t30d_units": 47.0}, {"asin": "B083XJH247", "item_name": "北海道産 ななつぼし 10kg(5kg×2袋) 白米 令和7年産", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 422871.0, "t30d_units": 41.0}, {"asin": "B083XQRDSW", "item_name": "北海道産 ななつぼし 5kg 白米 令和7年産", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 124079.0, "t30d_units": 25.0}]}
+{
+  "7755280755": [
+    {
+      "asin": "B01IOSEZIW",
+      "item_name": "北海道産 ゆめぴりか 5kg 白米 令和7年産",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 402160.0,
+      "t30d_units": 67.0
+    },
+    {
+      "asin": "B01IP4W1QI",
+      "item_name": "北海道産 ゆめぴりか 10kg (5kg×2袋) 白米 令和7年産",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 589240.0,
+      "t30d_units": 47.0
+    },
+    {
+      "asin": "B083XJH247",
+      "item_name": "北海道産 ななつぼし 10kg(5kg×2袋) 白米 令和7年産",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 422871.0,
+      "t30d_units": 41.0
+    },
+    {
+      "asin": "B083XQRDSW",
+      "item_name": "北海道産 ななつぼし 5kg 白米 令和7年産",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 124079.0,
+      "t30d_units": 25.0
+    }
+  ]
+}

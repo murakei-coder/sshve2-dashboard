@@ -1,1 +1,22 @@
-{"637229235": [{"asin": "B0BJ1Z7L6P", "item_name": "OH!GLE 特大 ずわいがに 脚 3kg (通常出荷) ズワイガニ 国内工場生産 ギフト お歳暮 カニ 蟹", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0BLV5GCQH", "item_name": "OH!GLE 特特大 ずわいがに 脚 3kg 【5L・6Lサイズ】 (通常出荷) ズワイガニ 国内工場生産 ギフト お歳暮 カニ 蟹", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 21980.0, "t30d_units": 1.0}]}
+{
+  "637229235": [
+    {
+      "asin": "B0BJ1Z7L6P",
+      "item_name": "OH!GLE 特大 ずわいがに 脚 3kg (通常出荷) ズワイガニ 国内工場生産 ギフト お歳暮 カニ 蟹",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0BLV5GCQH",
+      "item_name": "OH!GLE 特特大 ずわいがに 脚 3kg 【5L・6Lサイズ】 (通常出荷) ズワイガニ 国内工場生産 ギフト お歳暮 カニ 蟹",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 21980.0,
+      "t30d_units": 1.0
+    }
+  ]
+}

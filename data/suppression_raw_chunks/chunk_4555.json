@@ -1,1 +1,31 @@
-{"9392480422": [{"asin": "B089S3WN8D", "item_name": "DAIKO繊維用高濃度 染料 藍 藍染 絞り染め 青 デニムブルー50g Tシャツ４枚染まる！ 色止め付き", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 45111.38, "t30d_units": 46.0}, {"asin": "B089DKPTS1", "item_name": "無水アルコール濃度100％ 業務用エタノール85％ 4L たっぷり4000ｍｌ 日本製", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 381072.0, "t30d_units": 62.0}, {"asin": "B0831G8HYQ", "item_name": "DAIKO繊維用高濃度 染料 黒 ディープブラック Tシャツ４枚染まる！ 50ｇ色止め付き", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 361673.86, "t30d_units": 361.0}]}
+{
+  "9392480422": [
+    {
+      "asin": "B089S3WN8D",
+      "item_name": "DAIKO繊維用高濃度 染料 藍 藍染 絞り染め 青 デニムブルー50g Tシャツ４枚染まる！ 色止め付き",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 45111.38,
+      "t30d_units": 46.0
+    },
+    {
+      "asin": "B089DKPTS1",
+      "item_name": "無水アルコール濃度100％ 業務用エタノール85％ 4L たっぷり4000ｍｌ 日本製",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 381072.0,
+      "t30d_units": 62.0
+    },
+    {
+      "asin": "B0831G8HYQ",
+      "item_name": "DAIKO繊維用高濃度 染料 黒 ディープブラック Tシャツ４枚染まる！ 50ｇ色止め付き",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 361673.86,
+      "t30d_units": 361.0
+    }
+  ]
+}

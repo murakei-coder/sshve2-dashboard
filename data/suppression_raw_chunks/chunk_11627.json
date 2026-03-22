@@ -1,1 +1,22 @@
-{"688396702102": [{"asin": "B0F9F2SV9F", "item_name": "VLAIANソーラーパネル60W 折りたたみ式 携帯電話ソーラー充電器 USB/Type-C/DCインターフェース 小型で持ち運びに便利 単結晶シリコン 23.4%の高光電変換効率 自動発電 IP65防水防塵 携帯電話/タブレット/ポータブル電源などに対応 屋外/停電/防災用充電器 (60W)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 13391.0, "t30d_units": 2.0}, {"asin": "B0F9F56LXR", "item_name": "VLAIANソーラーパネル30W 折りたたみ式 携帯電話ソーラー充電器 USB/Type-Cインターフェース コンパクト ポータブル 単結晶シリコン 23.4%の高光電変換効率 自動発電 IP65防水防塵 携帯電話/タブレット/パワーバンクなどのデバイスに対応 屋外/停電/防災充電器(30W)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 10765.81, "t30d_units": 3.0}]}
+{
+  "688396702102": [
+    {
+      "asin": "B0F9F2SV9F",
+      "item_name": "VLAIANソーラーパネル60W 折りたたみ式 携帯電話ソーラー充電器 USB/Type-C/DCインターフェース 小型で持ち運びに便利 単結晶シリコン 23.4%の高光電変換効率 自動発電 IP65防水防塵 携帯電話/タブレット/ポータブル電源などに対応 屋外/停電/防災用充電器 (60W)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 13391.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0F9F56LXR",
+      "item_name": "VLAIANソーラーパネル30W 折りたたみ式 携帯電話ソーラー充電器 USB/Type-Cインターフェース コンパクト ポータブル 単結晶シリコン 23.4%の高光電変換効率 自動発電 IP65防水防塵 携帯電話/タブレット/パワーバンクなどのデバイスに対応 屋外/停電/防災充電器(30W)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 10765.81,
+      "t30d_units": 3.0
+    }
+  ]
+}

@@ -1,1 +1,76 @@
-{"11562219922": [{"asin": "B0DXZS5RV5", "item_name": "15.6インチ Frameo デジタルフォトフレーム 32GB、1920x1080 FHD IPS LCDタッチスクリーン、Frameoアプリで写真やビデオを共有、USBドライブ/SDカードでのストレージ拡張対応、モーションセンサー、自動回転機能", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 79995.0, "t30d_units": 5.0}, {"asin": "B09Y5FW4FF", "item_name": "10.5インチ モバイルモニター IPS FHDパネル 1920*1280解像度 ディスプレUSB Type-C 給電/Mini HD/スピカー内蔵/専用ケース PS5/PS4/Switch/Xbox/PC/スマホなど対応 スクリン超薄8mm/重量：250g OSD言語：日本語", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 172973.0, "t30d_units": 20.0}, {"asin": "B0C5J7KKWZ", "item_name": "デジタルフォトフレーム 7インチ 1024x600 全視野角 写真/動画/音楽再生 リモコン操作 広視野角 SDカード/USBメモリに対応 カレンダー付 自動オンオフ デジタルアルバム プレゼントに アラーム カレンダー ミュージックカレンダー機能付き 敬老の日ギフト プレゼントに適用 日本語説明書", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 424763.1, "t30d_units": 85.0}, {"asin": "B0G1GHFRY1", "item_name": "FRAMEO 21.5インチ デジタルフォトフレーム Wi-Fi 対応 32GB内蔵 タッチパネル 1920x1080 IPS FHD 広視野角 写真 音楽 動画 転送 遠隔 スライドショー 無料アプリ 壁掛け対応 自動オンオフ デジタルアルバム プレゼントに スマホ転送 敬老の日ギフト プレゼントに適用", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 136788.0, "t30d_units": 6.0}, {"asin": "B0BNV3BBPW", "item_name": "デジタルフォトフレーム 10.1インチ 多機能WiFi 音楽 動画 転送 遠隔 タッチスクリーン 人感センサー カレンダー付 自動オンオフ デジタルアルバム プレゼントに スマホ転送 アラーム カレンダー 敬老の日ギフト プレゼントに適用 日本語取扱説明書 白", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 2835645.87, "t30d_units": 446.0}, {"asin": "B0CM9L6R6P", "item_name": "Frameo 11インチ スマートWiFiデジタルフォトフレーム 1920x1280 FHD IPS LCDタッチスクリーン、自動回転、64GBストレージ、サポートSDカード＆USBドライブ、どこからでもFrameoアプリを介して瞬時に瞬間を共有する", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1467503.0, "t30d_units": 159.0}, {"asin": "B0G1FDGM37", "item_name": "7インチ デジタルフォトフレーム 1024x600 全視野角 写真/動画/音楽再生 リモコン操作 広視野角 SDカード/USBメモリに対応 自動オンオフ デジタルアルバム プレゼントに アラーム カレンダー ミュージックカレンダー機能付き 敬老の日ギフト プレゼントに適用 日本語説明書 黒", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 215841.0, "t30d_units": 46.0}, {"asin": "B0853387KQ", "item_name": "moonka デジタルフォトフレーム 10.1インチ wifi 人感センサー 1280*800 32GBストレージ内蔵 タッチパネル 写真や動画音楽再生 スライドショー IPS タッチパネル 広角視野 無料アプリ プレゼント用 日本語説明書 ブラウン", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 564692.65, "t30d_units": 65.0}]}
+{
+  "11562219922": [
+    {
+      "asin": "B0DXZS5RV5",
+      "item_name": "15.6インチ Frameo デジタルフォトフレーム 32GB、1920x1080 FHD IPS LCDタッチスクリーン、Frameoアプリで写真やビデオを共有、USBドライブ/SDカードでのストレージ拡張対応、モーションセンサー、自動回転機能",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 79995.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B09Y5FW4FF",
+      "item_name": "10.5インチ モバイルモニター IPS FHDパネル 1920*1280解像度 ディスプレUSB Type-C 給電/Mini HD/スピカー内蔵/専用ケース PS5/PS4/Switch/Xbox/PC/スマホなど対応 スクリン超薄8mm/重量：250g OSD言語：日本語",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 172973.0,
+      "t30d_units": 20.0
+    },
+    {
+      "asin": "B0C5J7KKWZ",
+      "item_name": "デジタルフォトフレーム 7インチ 1024x600 全視野角 写真/動画/音楽再生 リモコン操作 広視野角 SDカード/USBメモリに対応 カレンダー付 自動オンオフ デジタルアルバム プレゼントに アラーム カレンダー ミュージックカレンダー機能付き 敬老の日ギフト プレゼントに適用 日本語説明書",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 424763.1,
+      "t30d_units": 85.0
+    },
+    {
+      "asin": "B0G1GHFRY1",
+      "item_name": "FRAMEO 21.5インチ デジタルフォトフレーム Wi-Fi 対応 32GB内蔵 タッチパネル 1920x1080 IPS FHD 広視野角 写真 音楽 動画 転送 遠隔 スライドショー 無料アプリ 壁掛け対応 自動オンオフ デジタルアルバム プレゼントに スマホ転送 敬老の日ギフト プレゼントに適用",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 136788.0,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0BNV3BBPW",
+      "item_name": "デジタルフォトフレーム 10.1インチ 多機能WiFi 音楽 動画 転送 遠隔 タッチスクリーン 人感センサー カレンダー付 自動オンオフ デジタルアルバム プレゼントに スマホ転送 アラーム カレンダー 敬老の日ギフト プレゼントに適用 日本語取扱説明書 白",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 2835645.87,
+      "t30d_units": 446.0
+    },
+    {
+      "asin": "B0CM9L6R6P",
+      "item_name": "Frameo 11インチ スマートWiFiデジタルフォトフレーム 1920x1280 FHD IPS LCDタッチスクリーン、自動回転、64GBストレージ、サポートSDカード＆USBドライブ、どこからでもFrameoアプリを介して瞬時に瞬間を共有する",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1467503.0,
+      "t30d_units": 159.0
+    },
+    {
+      "asin": "B0G1FDGM37",
+      "item_name": "7インチ デジタルフォトフレーム 1024x600 全視野角 写真/動画/音楽再生 リモコン操作 広視野角 SDカード/USBメモリに対応 自動オンオフ デジタルアルバム プレゼントに アラーム カレンダー ミュージックカレンダー機能付き 敬老の日ギフト プレゼントに適用 日本語説明書 黒",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 215841.0,
+      "t30d_units": 46.0
+    },
+    {
+      "asin": "B0853387KQ",
+      "item_name": "moonka デジタルフォトフレーム 10.1インチ wifi 人感センサー 1280*800 32GBストレージ内蔵 タッチパネル 写真や動画音楽再生 スライドショー IPS タッチパネル 広角視野 無料アプリ プレゼント用 日本語説明書 ブラウン",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 564692.65,
+      "t30d_units": 65.0
+    }
+  ]
+}

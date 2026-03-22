@@ -1,1 +1,76 @@
-{"883520569502": [{"asin": "B0DQ5SSCR2", "item_name": "ateka store 国産 貝ひも 280g おつまみ おやつ 珍味 酒のあて", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 2380.0, "t30d_units": 1.0}, {"asin": "B0G6SX4HM8", "item_name": "ateka store 味付け無し 干たら 干し鱈 スケトウダラ使用 むき身 低糖質 高たんぱく おつまみ 炙り 北海道製造 むきタラ プゴク スープ (250g)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 345648.91, "t30d_units": 118.0}, {"asin": "B0DPML9HXP", "item_name": "ateka store 北海道産 干し こまい 氷下魚 かんかい 硬め 350g 珍味 干物", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 11387.0, "t30d_units": 4.0}, {"asin": "B0G6STJMPS", "item_name": "ateka store 味付け無し 干たら 干し鱈 スケトウダラ使用 むき身 低糖質 高たんぱく おつまみ 炙り 北海道製造 むきタラ プゴク スープ (120g)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 172657.23, "t30d_units": 96.0}, {"asin": "B0DPMHXN8Q", "item_name": "ateka store 北海道産 干し こまい 氷下魚 かんかい 硬め 150g 珍味 干物", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 5340.33, "t30d_units": 3.0}, {"asin": "B0DJWFW6KC", "item_name": "ateka store 塩だけで味付けした 無添加 鮭とば (280g)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 59290.0, "t30d_units": 11.0}, {"asin": "B0DJMNS5G7", "item_name": "ateka store 塩だけで味付けした 無添加 鮭とば (140g)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 22060.0, "t30d_units": 7.0}, {"asin": "B0DX6RW41Z", "item_name": "ateka store 国産 貝ひも 140g おつまみ おやつ 珍味 酒のあて", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 15179.99, "t30d_units": 11.0}]}
+{
+  "883520569502": [
+    {
+      "asin": "B0DQ5SSCR2",
+      "item_name": "ateka store 国産 貝ひも 280g おつまみ おやつ 珍味 酒のあて",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 2380.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0G6SX4HM8",
+      "item_name": "ateka store 味付け無し 干たら 干し鱈 スケトウダラ使用 むき身 低糖質 高たんぱく おつまみ 炙り 北海道製造 むきタラ プゴク スープ (250g)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 345648.91,
+      "t30d_units": 118.0
+    },
+    {
+      "asin": "B0DPML9HXP",
+      "item_name": "ateka store 北海道産 干し こまい 氷下魚 かんかい 硬め 350g 珍味 干物",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 11387.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0G6STJMPS",
+      "item_name": "ateka store 味付け無し 干たら 干し鱈 スケトウダラ使用 むき身 低糖質 高たんぱく おつまみ 炙り 北海道製造 むきタラ プゴク スープ (120g)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 172657.23,
+      "t30d_units": 96.0
+    },
+    {
+      "asin": "B0DPMHXN8Q",
+      "item_name": "ateka store 北海道産 干し こまい 氷下魚 かんかい 硬め 150g 珍味 干物",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 5340.33,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0DJWFW6KC",
+      "item_name": "ateka store 塩だけで味付けした 無添加 鮭とば (280g)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 59290.0,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0DJMNS5G7",
+      "item_name": "ateka store 塩だけで味付けした 無添加 鮭とば (140g)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 22060.0,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0DX6RW41Z",
+      "item_name": "ateka store 国産 貝ひも 140g おつまみ おやつ 珍味 酒のあて",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 15179.99,
+      "t30d_units": 11.0
+    }
+  ]
+}

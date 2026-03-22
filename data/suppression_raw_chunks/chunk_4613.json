@@ -1,1 +1,40 @@
-{"9784715022": [{"asin": "B0CX8PX4LN", "item_name": "CMD 水泳用 トレーニングチューブ 男女兼用 水泳 チューブ トレーニング パドル スイミングゴム ストレッチバンド 水泳練習用具 収納袋付属(ブルー強度約9.0kg)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 26269.0, "t30d_units": 11.0}, {"asin": "B0F21FL6NH", "item_name": "CMD 水泳用 トレーニングチューブ 男女兼用 スイミングゴム ストレッチバンド トレーニング パドル 水泳 収納袋付属 トレーニング 用品 (イエロー)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 18951.0, "t30d_units": 9.0}, {"asin": "B0F21F6DZF", "item_name": "CMD 水泳用 トレーニングチューブ 男女兼用 スイミングゴム ストレッチバンド トレーニング パドル 水泳 収納袋付属 トレーニング 用品 (ブラック)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 2499.0, "t30d_units": 1.0}, {"asin": "B0CX8V57M3", "item_name": "CMD 水泳用 トレーニングチューブ 男女兼用 水泳 チューブ トレーニング パドル スイミングゴム ストレッチバンド 水泳練習用具 収納袋付属(レッド強度約6.0-7.0kg)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 54966.0, "t30d_units": 26.0}]}
+{
+  "9784715022": [
+    {
+      "asin": "B0CX8PX4LN",
+      "item_name": "CMD 水泳用 トレーニングチューブ 男女兼用 水泳 チューブ トレーニング パドル スイミングゴム ストレッチバンド 水泳練習用具 収納袋付属(ブルー強度約9.0kg)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 26269.0,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0F21FL6NH",
+      "item_name": "CMD 水泳用 トレーニングチューブ 男女兼用 スイミングゴム ストレッチバンド トレーニング パドル 水泳 収納袋付属 トレーニング 用品 (イエロー)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 18951.0,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B0F21F6DZF",
+      "item_name": "CMD 水泳用 トレーニングチューブ 男女兼用 スイミングゴム ストレッチバンド トレーニング パドル 水泳 収納袋付属 トレーニング 用品 (ブラック)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 2499.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0CX8V57M3",
+      "item_name": "CMD 水泳用 トレーニングチューブ 男女兼用 水泳 チューブ トレーニング パドル スイミングゴム ストレッチバンド 水泳練習用具 収納袋付属(レッド強度約6.0-7.0kg)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 54966.0,
+      "t30d_units": 26.0
+    }
+  ]
+}

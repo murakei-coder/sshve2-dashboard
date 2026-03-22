@@ -1,1 +1,22 @@
-{"692285085": [{"asin": "B07PWZ426Y", "item_name": "ラジャスタンヘナ 粉末 ミディアムブラウン 自然な茶色 100g", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 268501.27, "t30d_units": 224.0}, {"asin": "B07MZCRMT4", "item_name": "ラジャスタンヘナ ダークブラウン 濃い黒茶色 100g", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 387106.31, "t30d_units": 306.0}]}
+{
+  "692285085": [
+    {
+      "asin": "B07PWZ426Y",
+      "item_name": "ラジャスタンヘナ 粉末 ミディアムブラウン 自然な茶色 100g",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 268501.27,
+      "t30d_units": 224.0
+    },
+    {
+      "asin": "B07MZCRMT4",
+      "item_name": "ラジャスタンヘナ ダークブラウン 濃い黒茶色 100g",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 387106.31,
+      "t30d_units": 306.0
+    }
+  ]
+}

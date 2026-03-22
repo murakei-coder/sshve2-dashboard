@@ -1,1 +1,76 @@
-{"50403291722": [{"asin": "B0DCNNQLJ1", "item_name": "XIKAYADA グラインダー 充電式 3段変速 4000mAhバッテリー付き 100mm コードレスディスクグラインダー マキタ18V互換可 金属切断/研磨/研削 バリ取り 表面仕上 錆落とし 電動グラインダー", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 557190.25, "t30d_units": 89.0}, {"asin": "B0DCTGDDH5", "item_name": "XIKAYADA グラインダー 充電式 100mm マキタ18V互換可 3段変速 砥石8枚付き コードレスディスクグラインダー 16mmと15mmフランジ付き 金属切断/研磨/研削 バリ取り 表面仕上 錆落とし 電動グラインダー", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 418982.32, "t30d_units": 82.0}, {"asin": "B0FCFKH5SR", "item_name": "【改良型】ディスクグラインダー 充電式 12.6V/76mm ミニグラインダー 電池/モーター増強 19500RPM高速 2バッテリー 砥石5枚付き コードレスグラインダー 金属切断/研磨/研削 バリ取り 表面仕上 錆落とし 木工切断 小型 電動グラインダー (イェロー)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 119114.0, "t30d_units": 21.0}, {"asin": "B0CPXWH4NJ", "item_name": "【改良型】ディスクグラインダー 充電式 12.6V/76mm ミニグラインダー 電池/モーター増強 19500RPM高速 2バッテリー 砥石5枚付き コードレスグラインダー 金属切断/研磨/研削 バリ取り 表面仕上 錆落とし 木工切断 小型 電動グラインダー (イェロー)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 20043.0, "t30d_units": 3.0}, {"asin": "B0GHQTN5NS", "item_name": "【新型】充電式 単3/単4電池 4本セット 単三2本 3200mWh 2100mAh 単四2本 1000mWh 660mAh 1.5V リチウムイオン 2000回循環使用 専用充電器不要 USB-C充電池", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 112992.33, "t30d_units": 44.0}, {"asin": "B0CB1BG9T5", "item_name": "【改良型】ディスクグラインダー 充電式 12.6V/76mm ミニグラインダー 電池/モーター増強 19500RPM高速 2バッテリー 砥石5枚付き コードレスグラインダー 金属切断/研磨/研削 バリ取り 表面仕上 錆落とし 木工切断 小型 電動グラインダー (ブルー)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 305033.0, "t30d_units": 54.0}, {"asin": "B0FKMZNRR2", "item_name": "【新型】充電式 単3電池 4本セット 大容量 3200mWh 2100mAh 1.5V リチウムイオン 単3充電池 2000回循環使用 専用充電器不要 単三 USB-C充電池", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 272821.84, "t30d_units": 115.0}, {"asin": "B0G4FTRZ5Q", "item_name": "XIKAYADA ディスクグラインダー コード式100mm 6階段変速 900W・9A 強力 ブラシレスモーター サンダー 切断/研磨/研削 バリ取り 表面仕上 錆落とし等適用 電動グラインダー", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 315547.62, "t30d_units": 63.0}]}
+{
+  "50403291722": [
+    {
+      "asin": "B0DCNNQLJ1",
+      "item_name": "XIKAYADA グラインダー 充電式 3段変速 4000mAhバッテリー付き 100mm コードレスディスクグラインダー マキタ18V互換可 金属切断/研磨/研削 バリ取り 表面仕上 錆落とし 電動グラインダー",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 557190.25,
+      "t30d_units": 89.0
+    },
+    {
+      "asin": "B0DCTGDDH5",
+      "item_name": "XIKAYADA グラインダー 充電式 100mm マキタ18V互換可 3段変速 砥石8枚付き コードレスディスクグラインダー 16mmと15mmフランジ付き 金属切断/研磨/研削 バリ取り 表面仕上 錆落とし 電動グラインダー",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 418982.32,
+      "t30d_units": 82.0
+    },
+    {
+      "asin": "B0FCFKH5SR",
+      "item_name": "【改良型】ディスクグラインダー 充電式 12.6V/76mm ミニグラインダー 電池/モーター増強 19500RPM高速 2バッテリー 砥石5枚付き コードレスグラインダー 金属切断/研磨/研削 バリ取り 表面仕上 錆落とし 木工切断 小型 電動グラインダー (イェロー)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 119114.0,
+      "t30d_units": 21.0
+    },
+    {
+      "asin": "B0CPXWH4NJ",
+      "item_name": "【改良型】ディスクグラインダー 充電式 12.6V/76mm ミニグラインダー 電池/モーター増強 19500RPM高速 2バッテリー 砥石5枚付き コードレスグラインダー 金属切断/研磨/研削 バリ取り 表面仕上 錆落とし 木工切断 小型 電動グラインダー (イェロー)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 20043.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0GHQTN5NS",
+      "item_name": "【新型】充電式 単3/単4電池 4本セット 単三2本 3200mWh 2100mAh 単四2本 1000mWh 660mAh 1.5V リチウムイオン 2000回循環使用 専用充電器不要 USB-C充電池",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 112992.33,
+      "t30d_units": 44.0
+    },
+    {
+      "asin": "B0CB1BG9T5",
+      "item_name": "【改良型】ディスクグラインダー 充電式 12.6V/76mm ミニグラインダー 電池/モーター増強 19500RPM高速 2バッテリー 砥石5枚付き コードレスグラインダー 金属切断/研磨/研削 バリ取り 表面仕上 錆落とし 木工切断 小型 電動グラインダー (ブルー)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 305033.0,
+      "t30d_units": 54.0
+    },
+    {
+      "asin": "B0FKMZNRR2",
+      "item_name": "【新型】充電式 単3電池 4本セット 大容量 3200mWh 2100mAh 1.5V リチウムイオン 単3充電池 2000回循環使用 専用充電器不要 単三 USB-C充電池",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 272821.84,
+      "t30d_units": 115.0
+    },
+    {
+      "asin": "B0G4FTRZ5Q",
+      "item_name": "XIKAYADA ディスクグラインダー コード式100mm 6階段変速 900W・9A 強力 ブラシレスモーター サンダー 切断/研磨/研削 バリ取り 表面仕上 錆落とし等適用 電動グラインダー",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 315547.62,
+      "t30d_units": 63.0
+    }
+  ]
+}

@@ -1,1 +1,22 @@
-{"3701810122": [{"asin": "B09JP3BTKD", "item_name": "Delippo ブリタ カートリッジ 浄水ポット互換用ブリタ カートリッジ 浄水器用 カートリッジ 高除去 フィルターカートリッ ブリタ 新旧型ポート対応 (6個セット)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 187130.32, "t30d_units": 96.0}, {"asin": "B08XZ2X212", "item_name": "Delippo ブリタカートリッジ 浄水ポット互換用カートリッジ 浄水器用 カートリッジ 高除去 互換用フィルターカートリッジ 日本仕様 ブリタ 新旧型ポート対応 (6個セット)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 164856.4, "t30d_units": 84.0}]}
+{
+  "3701810122": [
+    {
+      "asin": "B09JP3BTKD",
+      "item_name": "Delippo ブリタ カートリッジ 浄水ポット互換用ブリタ カートリッジ 浄水器用 カートリッジ 高除去 フィルターカートリッ ブリタ 新旧型ポート対応 (6個セット)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 187130.32,
+      "t30d_units": 96.0
+    },
+    {
+      "asin": "B08XZ2X212",
+      "item_name": "Delippo ブリタカートリッジ 浄水ポット互換用カートリッジ 浄水器用 カートリッジ 高除去 互換用フィルターカートリッジ 日本仕様 ブリタ 新旧型ポート対応 (6個セット)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 164856.4,
+      "t30d_units": 84.0
+    }
+  ]
+}

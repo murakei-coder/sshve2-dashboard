@@ -1,1 +1,40 @@
-{"771699961002": [{"asin": "B081DCW23T", "item_name": "Deo-Ace EX plus（デオエースEXプラス） 40ml × 2個セット ロールオン 無香料", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 4860739.3, "t30d_units": 563.0}, {"asin": "B081DD6D3W", "item_name": "Deo-Ace EX plus（デオエースEXプラス） 40ml ロールオン 無香料", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 9326199.83, "t30d_units": 1976.0}, {"asin": "B091C91BWN", "item_name": "【医薬部外品】Deo-Ace EX plus（デオエースEXプラス） 薬用 30g デオドラント 制汗剤 汗止め 脇 手 足 顔 多汗症 無香料", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 597521.82, "t30d_units": 126.0}, {"asin": "B09Y13B692", "item_name": "【医薬部外品】Deo-Ace EX plus（デオエースEXプラス） 薬用 30g × 2個 デオドラント 制汗剤 汗止め 脇 手 足 顔 多汗症 無香料", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 183246.0, "t30d_units": 21.0}]}
+{
+  "771699961002": [
+    {
+      "asin": "B081DCW23T",
+      "item_name": "Deo-Ace EX plus（デオエースEXプラス） 40ml × 2個セット ロールオン 無香料",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 4860739.3,
+      "t30d_units": 563.0
+    },
+    {
+      "asin": "B081DD6D3W",
+      "item_name": "Deo-Ace EX plus（デオエースEXプラス） 40ml ロールオン 無香料",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 9326199.83,
+      "t30d_units": 1976.0
+    },
+    {
+      "asin": "B091C91BWN",
+      "item_name": "【医薬部外品】Deo-Ace EX plus（デオエースEXプラス） 薬用 30g デオドラント 制汗剤 汗止め 脇 手 足 顔 多汗症 無香料",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 597521.82,
+      "t30d_units": 126.0
+    },
+    {
+      "asin": "B09Y13B692",
+      "item_name": "【医薬部外品】Deo-Ace EX plus（デオエースEXプラス） 薬用 30g × 2個 デオドラント 制汗剤 汗止め 脇 手 足 顔 多汗症 無香料",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 183246.0,
+      "t30d_units": 21.0
+    }
+  ]
+}

@@ -1,1 +1,22 @@
-{"1050698538002": [{"asin": "B0F59XZJPN", "item_name": "Acer USB C ドッキングステーション (9-in-1, Dual Display) USB ハブ Type-c 4K@60Hz HDMI 拡張 リプル ディスプレイ 2畫面、 2*HDMI出力、3*USB A&C 3.0ポート 高速データ転送、100W PD急速充電、microSD＆SDカードスロット搭載 MacBook Pro/Airなど対応", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 84833.33, "t30d_units": 17.0}, {"asin": "B0CPSSD43L", "item_name": "Acer USB ハブ 4ポート【20cm ケーブル搭載】USB-A 3.0 拡張Hub 5Gbps高速転送 小型 コンパクト USB 変換アダプター デスクトップ ノートPC Surface 対応 キーボード マウス ファン Uディスク 対応 テレワーク 在宅勤務 – 20cm", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 251901.66, "t30d_units": 163.0}]}
+{
+  "1050698538002": [
+    {
+      "asin": "B0F59XZJPN",
+      "item_name": "Acer USB C ドッキングステーション (9-in-1, Dual Display) USB ハブ Type-c 4K@60Hz HDMI 拡張 リプル ディスプレイ 2畫面、 2*HDMI出力、3*USB A&C 3.0ポート 高速データ転送、100W PD急速充電、microSD＆SDカードスロット搭載 MacBook Pro/Airなど対応",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 84833.33,
+      "t30d_units": 17.0
+    },
+    {
+      "asin": "B0CPSSD43L",
+      "item_name": "Acer USB ハブ 4ポート【20cm ケーブル搭載】USB-A 3.0 拡張Hub 5Gbps高速転送 小型 コンパクト USB 変換アダプター デスクトップ ノートPC Surface 対応 キーボード マウス ファン Uディスク 対応 テレワーク 在宅勤務 – 20cm",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 251901.66,
+      "t30d_units": 163.0
+    }
+  ]
+}

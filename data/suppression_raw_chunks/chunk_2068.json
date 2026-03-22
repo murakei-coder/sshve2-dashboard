@@ -1,1 +1,31 @@
-{"6516430722": [{"asin": "B0C2Q2KK76", "item_name": "Kiboer 美顔器 かっさ 電動 カッサ 引き上げ EMS LED光 温感 小顔 1台両用 フェイスケア ボディケア 美顔ローラー 男女兼用 充電式 3段階調整可能 敬老の日 母の日 プレゼント ホワイト", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 2951710.91, "t30d_units": 858.0}, {"asin": "B0DCP1B7JJ", "item_name": "Kiboer 超音波 トリートメントアイロン髪質改善 浸透促進 ヘアダメージ補修 充電スタンド ヘアケア 1MHz 超音波 青色LED 浸透率アップ トリートメント導入器 プロ仕様 縮毛矯正 コードレス プレゼント シャンパンゴールド", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 112033.0, "t30d_units": 11.0}, {"asin": "B0BM9P4Q1C", "item_name": "Kiboer 超音波トリートメント アイロン トリートメントアイロン ツヤ髪 髪質改善 超音波トリートメント トリートメント浸透促進 ヘアアイロン ヘアダメージ補修 ヘアケア 1MHz 超音波 青色LED 浸透率アップ トリートメント導入器 ヘアケアプロ プロ仕様 縮毛矯正 コードレス 母の日 プレゼント", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 853887.26, "t30d_units": 96.0}]}
+{
+  "6516430722": [
+    {
+      "asin": "B0C2Q2KK76",
+      "item_name": "Kiboer 美顔器 かっさ 電動 カッサ 引き上げ EMS LED光 温感 小顔 1台両用 フェイスケア ボディケア 美顔ローラー 男女兼用 充電式 3段階調整可能 敬老の日 母の日 プレゼント ホワイト",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 2951710.91,
+      "t30d_units": 858.0
+    },
+    {
+      "asin": "B0DCP1B7JJ",
+      "item_name": "Kiboer 超音波 トリートメントアイロン髪質改善 浸透促進 ヘアダメージ補修 充電スタンド ヘアケア 1MHz 超音波 青色LED 浸透率アップ トリートメント導入器 プロ仕様 縮毛矯正 コードレス プレゼント シャンパンゴールド",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 112033.0,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0BM9P4Q1C",
+      "item_name": "Kiboer 超音波トリートメント アイロン トリートメントアイロン ツヤ髪 髪質改善 超音波トリートメント トリートメント浸透促進 ヘアアイロン ヘアダメージ補修 ヘアケア 1MHz 超音波 青色LED 浸透率アップ トリートメント導入器 ヘアケアプロ プロ仕様 縮毛矯正 コードレス 母の日 プレゼント",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 853887.26,
+      "t30d_units": 96.0
+    }
+  ]
+}

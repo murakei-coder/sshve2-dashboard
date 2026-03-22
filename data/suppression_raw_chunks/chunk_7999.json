@@ -1,1 +1,58 @@
-{"57634520322": [{"asin": "B0FG8332BW", "item_name": "ワイヤレスHDMI 送受信機 1TX+4RX HDMI 無線 LEDディスプレイ搭載 6台受信機増設可能1080P/5Ghz/50m無線伝送 映像音声同期出力【技適認証取得】デレビ/PC/Mac/Laptop/Window/カメラ/監視カメラなど多デバイス対応", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 177480.75, "t30d_units": 6.0}, {"asin": "B0FG81QQZR", "item_name": "ワイヤレスHDMI 送受信機 1TX+2RX HDMI 無線 LEDディスプレイ搭載 6台受信機増設可能1080P/5Ghz/50m無線伝送 映像音声同期出力【技適認証取得】デレビ/PC/Mac/Laptop/Window/カメラ/監視カメラなど多デバイス対応", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 308849.19, "t30d_units": 19.0}, {"asin": "B0C1SRXCGB", "item_name": "TIMBOOTECH ワイヤレス hdmi 受送信機 フルHD 1080P 2.4G/5G安定高速転送 無線接続 設定不要 HDCP対応 HDMIトランスミッター 日本技適認証取得", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 26997.0, "t30d_units": 3.0}, {"asin": "B0FG834NHR", "item_name": "ワイヤレスHDMI 送受信機 1TX+1RXセット HDMI 無線 LEDディスプレイ搭載 6台受信機増設可能 1080P/5Ghz/50m無線伝送 映像音声同期出力【技適認証取得】デレビ/PC/Mac/Laptop/Window/カメラ/監視カメラなど多デバイス対応", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 150423.5, "t30d_units": 13.0}, {"asin": "B0FG84GWG5", "item_name": "ワイヤレスHDMI 送受信機 1TX+3RX HDMI 無線 LEDディスプレイ搭載 6台受信機増設可能1080P/5Ghz/50m無線伝送 映像音声同期出力【技適認証取得】デレビ/PC/Mac/Laptop/Window/カメラ/監視カメラなど多デバイス対応", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 171935.26, "t30d_units": 8.0}, {"asin": "B0FG83235N", "item_name": "ワイヤレスHDMI 受信機 HDMI 無線化 LEDディスプレイ搭載 6台受信機増設可能 1080P/5Ghz/50m無線伝送 映像音声同期出力【技適認証取得】RXのみ", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 22280.42, "t30d_units": 3.0}]}
+{
+  "57634520322": [
+    {
+      "asin": "B0FG8332BW",
+      "item_name": "ワイヤレスHDMI 送受信機 1TX+4RX HDMI 無線 LEDディスプレイ搭載 6台受信機増設可能1080P/5Ghz/50m無線伝送 映像音声同期出力【技適認証取得】デレビ/PC/Mac/Laptop/Window/カメラ/監視カメラなど多デバイス対応",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 177480.75,
+      "t30d_units": 6.0
+    },
+    {
+      "asin": "B0FG81QQZR",
+      "item_name": "ワイヤレスHDMI 送受信機 1TX+2RX HDMI 無線 LEDディスプレイ搭載 6台受信機増設可能1080P/5Ghz/50m無線伝送 映像音声同期出力【技適認証取得】デレビ/PC/Mac/Laptop/Window/カメラ/監視カメラなど多デバイス対応",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 308849.19,
+      "t30d_units": 19.0
+    },
+    {
+      "asin": "B0C1SRXCGB",
+      "item_name": "TIMBOOTECH ワイヤレス hdmi 受送信機 フルHD 1080P 2.4G/5G安定高速転送 無線接続 設定不要 HDCP対応 HDMIトランスミッター 日本技適認証取得",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 26997.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0FG834NHR",
+      "item_name": "ワイヤレスHDMI 送受信機 1TX+1RXセット HDMI 無線 LEDディスプレイ搭載 6台受信機増設可能 1080P/5Ghz/50m無線伝送 映像音声同期出力【技適認証取得】デレビ/PC/Mac/Laptop/Window/カメラ/監視カメラなど多デバイス対応",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 150423.5,
+      "t30d_units": 13.0
+    },
+    {
+      "asin": "B0FG84GWG5",
+      "item_name": "ワイヤレスHDMI 送受信機 1TX+3RX HDMI 無線 LEDディスプレイ搭載 6台受信機増設可能1080P/5Ghz/50m無線伝送 映像音声同期出力【技適認証取得】デレビ/PC/Mac/Laptop/Window/カメラ/監視カメラなど多デバイス対応",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 171935.26,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B0FG83235N",
+      "item_name": "ワイヤレスHDMI 受信機 HDMI 無線化 LEDディスプレイ搭載 6台受信機増設可能 1080P/5Ghz/50m無線伝送 映像音声同期出力【技適認証取得】RXのみ",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 22280.42,
+      "t30d_units": 3.0
+    }
+  ]
+}

@@ -1,1 +1,22 @@
-{"950278996902": [{"asin": "B0F8RD8XM5", "item_name": "【生きた乳酸菌 酪酸菌 5兆個贅沢配合】BIOSUL(ビオスル) 乳酸菌 20種類 ビフィズス菌 5種類 酪酸菌 サプリ 美腸＆美肌ケア 30日分 国内GMP製造 菌活 オリゴ糖 イヌリン ナットウキナーゼ プロバイオティクス RegularStore", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 51178.26, "t30d_units": 27.0}, {"asin": "B0DNFNB93Q", "item_name": "【 X ENERGY 】マカ 亜鉛 マルチビタミン 120粒 トンカットアリ 牡蠣エキス 栄養機能食品12種類配合 ビタミン11種配合 Energy成分5種類配合 ビオチン 国産GMP認定工場", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 473890.33, "t30d_units": 300.0}]}
+{
+  "950278996902": [
+    {
+      "asin": "B0F8RD8XM5",
+      "item_name": "【生きた乳酸菌 酪酸菌 5兆個贅沢配合】BIOSUL(ビオスル) 乳酸菌 20種類 ビフィズス菌 5種類 酪酸菌 サプリ 美腸＆美肌ケア 30日分 国内GMP製造 菌活 オリゴ糖 イヌリン ナットウキナーゼ プロバイオティクス RegularStore",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 51178.26,
+      "t30d_units": 27.0
+    },
+    {
+      "asin": "B0DNFNB93Q",
+      "item_name": "【 X ENERGY 】マカ 亜鉛 マルチビタミン 120粒 トンカットアリ 牡蠣エキス 栄養機能食品12種類配合 ビタミン11種配合 Energy成分5種類配合 ビオチン 国産GMP認定工場",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 473890.33,
+      "t30d_units": 300.0
+    }
+  ]
+}

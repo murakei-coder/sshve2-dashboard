@@ -1,1 +1,58 @@
-{"1068883295602": [{"asin": "B0FKGQWSVV", "item_name": "Hyaloid エアダスター 電動 小型ブロワー Type-C充電式 130000RPM 8000mAh 5段階風量+MAXモード LEDライト付き バッテリースクリーン表示付き 軽量240g 強力 吹き飛ばし 日本語説明書付き PC掃除/キーボード/車内/洗車用/火起こし/ノズル付/ABSボディ (ホワイト)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0FCF24QKY", "item_name": "Hyaloid AI ボイスレコーダー 64GB大容量 GPT-4o連携 ワンタッチ録音 0.42型TFT高精細ディスプレイ搭載 自動文字起こし&議事録生成 先端LLM要約 500MAH 35時間連続使用 通話録音対応 ノイズキャンセル Bluetooth 5.2 磁石リング付属 専用ケース スマホ連動 会議/授業に最適 今すぐ効率化（A3 PRO）", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 12980.0, "t30d_units": 1.0}, {"asin": "B0FKGSVKXP", "item_name": "Hyaloid エアダスター 電動 小型ブロワー Type-C充電式 130000RPM 8000mAh 5段階風量+MAXモード LEDライト付き バッテリースクリーン表示付き 軽量240g 強力 吹き飛ばし 日本語説明書付き PC掃除/キーボード/車内/洗車用/火起こし/ノズル付/ABSボディ (グレー)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 3880.0, "t30d_units": 1.0}, {"asin": "B0G6LQWXMT", "item_name": "【Amazon.co.jp限定】 ハンディクリーナー コードレス 車用 掃除機 15000PA 強力吸引力 ハンディ掃除機 Type-C 充電式 乾湿両用 小型クリーナー高速充电 低噪音对策 軽量/キーボード掃除/車内清掃/家具", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 156240.0, "t30d_units": 93.0}, {"asin": "B0G3WZZPHF", "item_name": "充電式カイロ 【業界初売り·充電ケーブル付属】270°全面発熱 3秒急速発熱 4階段温度調節 9000mAh 大容量 電気カイロ 充電ケーブル付属 モバイルバッテリー機能 クリスマスプレゼント 23時間連続発熱可能 【新型磁気式/分離式設計】 小型 超軽量 持ち運びやすい 5V/2A急速充電 旅行 出張 通勤通学用 (", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 27057.0, "t30d_units": 24.0}, {"asin": "B0FWK4FZ64", "item_name": "充電式カイロ 【業界初売り·充電ケーブル付属】270°全面発熱 3秒急速発熱 4階段温度調節 9000mAh 大容量 電気カイロ 充電ケーブル付属 モバイルバッテリー機能 クリスマスプレゼント 23時間連続発熱可能 【新型磁気式/分離式設計】 小型 超軽量 持ち運びやすい 5V/2A急速充電 旅行 出張 通勤通学用 Hya", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 39564.0, "t30d_units": 36.0}]}
+{
+  "1068883295602": [
+    {
+      "asin": "B0FKGQWSVV",
+      "item_name": "Hyaloid エアダスター 電動 小型ブロワー Type-C充電式 130000RPM 8000mAh 5段階風量+MAXモード LEDライト付き バッテリースクリーン表示付き 軽量240g 強力 吹き飛ばし 日本語説明書付き PC掃除/キーボード/車内/洗車用/火起こし/ノズル付/ABSボディ (ホワイト)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0FCF24QKY",
+      "item_name": "Hyaloid AI ボイスレコーダー 64GB大容量 GPT-4o連携 ワンタッチ録音 0.42型TFT高精細ディスプレイ搭載 自動文字起こし&議事録生成 先端LLM要約 500MAH 35時間連続使用 通話録音対応 ノイズキャンセル Bluetooth 5.2 磁石リング付属 専用ケース スマホ連動 会議/授業に最適 今すぐ効率化（A3 PRO）",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 12980.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0FKGSVKXP",
+      "item_name": "Hyaloid エアダスター 電動 小型ブロワー Type-C充電式 130000RPM 8000mAh 5段階風量+MAXモード LEDライト付き バッテリースクリーン表示付き 軽量240g 強力 吹き飛ばし 日本語説明書付き PC掃除/キーボード/車内/洗車用/火起こし/ノズル付/ABSボディ (グレー)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 3880.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0G6LQWXMT",
+      "item_name": "【Amazon.co.jp限定】 ハンディクリーナー コードレス 車用 掃除機 15000PA 強力吸引力 ハンディ掃除機 Type-C 充電式 乾湿両用 小型クリーナー高速充电 低噪音对策 軽量/キーボード掃除/車内清掃/家具",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 156240.0,
+      "t30d_units": 93.0
+    },
+    {
+      "asin": "B0G3WZZPHF",
+      "item_name": "充電式カイロ 【業界初売り·充電ケーブル付属】270°全面発熱 3秒急速発熱 4階段温度調節 9000mAh 大容量 電気カイロ 充電ケーブル付属 モバイルバッテリー機能 クリスマスプレゼント 23時間連続発熱可能 【新型磁気式/分離式設計】 小型 超軽量 持ち運びやすい 5V/2A急速充電 旅行 出張 通勤通学用 (",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 27057.0,
+      "t30d_units": 24.0
+    },
+    {
+      "asin": "B0FWK4FZ64",
+      "item_name": "充電式カイロ 【業界初売り·充電ケーブル付属】270°全面発熱 3秒急速発熱 4階段温度調節 9000mAh 大容量 電気カイロ 充電ケーブル付属 モバイルバッテリー機能 クリスマスプレゼント 23時間連続発熱可能 【新型磁気式/分離式設計】 小型 超軽量 持ち運びやすい 5V/2A急速充電 旅行 出張 通勤通学用 Hya",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 39564.0,
+      "t30d_units": 36.0
+    }
+  ]
+}

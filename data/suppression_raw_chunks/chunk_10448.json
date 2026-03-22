@@ -1,1 +1,22 @@
-{"442799596102": [{"asin": "B0B6BGV9R1", "item_name": "AT COFFEE アットコーヒー チャコールコーヒー パウダー 100ｇ 約30日分 [ 置き換え ダイエット チャコール MCTオイル マヌカハニー 美容成分 配合 ]", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 64259.88, "t30d_units": 18.0}, {"asin": "B0BB611X8M", "item_name": "ＣＣジェルファンデ", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 2000.0, "t30d_units": 2.0}]}
+{
+  "442799596102": [
+    {
+      "asin": "B0B6BGV9R1",
+      "item_name": "AT COFFEE アットコーヒー チャコールコーヒー パウダー 100ｇ 約30日分 [ 置き換え ダイエット チャコール MCTオイル マヌカハニー 美容成分 配合 ]",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 64259.88,
+      "t30d_units": 18.0
+    },
+    {
+      "asin": "B0BB611X8M",
+      "item_name": "ＣＣジェルファンデ",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 2000.0,
+      "t30d_units": 2.0
+    }
+  ]
+}

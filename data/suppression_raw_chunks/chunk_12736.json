@@ -1,1 +1,31 @@
-{"795476302702": [{"asin": "B0FWKBS7NZ", "item_name": "Android16 タブレット アンドロイド 12インチ Besttab T60 Wi-Fiモデル、2400*1600 QHD 90Hz、48GB+256GB+2TB拡張、10,000mAh大容量バッテリー、Gemini AI、8コアCPU T7280、4G LTE通話+デュアルSIM、Widevine L1 Netflix対応、ペアレンタルコントロール 学習 ゲーム 旅行に最適", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1861613.0, "t30d_units": 63.0}, {"asin": "B0FCC5ZB3X", "item_name": "【Android 16 タブレット 10インチ Wi-Fiモデル】BESTTAB アンドロイド タブレット セット版 24GB+256GB+2TB TF拡張、8コアCPU、Gemini AI、Widevine L1 Netflix/LINE/Youtube対応、Wi-Fi 6+GPS搭載+児童保護、動画/電子書/マンガ見る、キーボード/フィルム/ケース付き tablet", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 1534646.0, "t30d_units": 95.0}, {"asin": "B0FHH3RQS1", "item_name": "【Android16 タブレット 11インチ新登場】アップグレード版 W90 通信できる4G LTE対応モデル 24GB+256GB+2TB拡張 2K FHD大画面、simフリータブレット、Gemini AI 2.0搭載、8000mAh/Widevine L1対応/ 8コアCPU/WiFi 6/GPS付き/キッズ-守護機能/画面分割/顔認証/高齢者 子供用tablet", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 304354.33, "t30d_units": 16.0}]}
+{
+  "795476302702": [
+    {
+      "asin": "B0FWKBS7NZ",
+      "item_name": "Android16 タブレット アンドロイド 12インチ Besttab T60 Wi-Fiモデル、2400*1600 QHD 90Hz、48GB+256GB+2TB拡張、10,000mAh大容量バッテリー、Gemini AI、8コアCPU T7280、4G LTE通話+デュアルSIM、Widevine L1 Netflix対応、ペアレンタルコントロール 学習 ゲーム 旅行に最適",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1861613.0,
+      "t30d_units": 63.0
+    },
+    {
+      "asin": "B0FCC5ZB3X",
+      "item_name": "【Android 16 タブレット 10インチ Wi-Fiモデル】BESTTAB アンドロイド タブレット セット版 24GB+256GB+2TB TF拡張、8コアCPU、Gemini AI、Widevine L1 Netflix/LINE/Youtube対応、Wi-Fi 6+GPS搭載+児童保護、動画/電子書/マンガ見る、キーボード/フィルム/ケース付き tablet",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 1534646.0,
+      "t30d_units": 95.0
+    },
+    {
+      "asin": "B0FHH3RQS1",
+      "item_name": "【Android16 タブレット 11インチ新登場】アップグレード版 W90 通信できる4G LTE対応モデル 24GB+256GB+2TB拡張 2K FHD大画面、simフリータブレット、Gemini AI 2.0搭載、8000mAh/Widevine L1対応/ 8コアCPU/WiFi 6/GPS付き/キッズ-守護機能/画面分割/顔認証/高齢者 子供用tablet",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 304354.33,
+      "t30d_units": 16.0
+    }
+  ]
+}

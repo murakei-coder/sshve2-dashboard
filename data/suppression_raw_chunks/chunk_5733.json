@@ -1,1 +1,22 @@
-{"20671832122": [{"asin": "B0GN18M4NS", "item_name": "GreenFox パーフェクトファイバー 食物繊維 パウダー 約50日分 難消化性デキストリン イヌリン W配合 250g", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 67801.57, "t30d_units": 72.0}, {"asin": "B0CQWYVLT5", "item_name": "ACURAS ツボ押し棒 すぐに始められる！顔と全身のツボ押し完全ガイド＆手と足のツボ地図 マッサージ フェイスマッサージ リフトアップ 筋膜リリース トリガーポイント", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 235798.43, "t30d_units": 158.0}]}
+{
+  "20671832122": [
+    {
+      "asin": "B0GN18M4NS",
+      "item_name": "GreenFox パーフェクトファイバー 食物繊維 パウダー 約50日分 難消化性デキストリン イヌリン W配合 250g",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 67801.57,
+      "t30d_units": 72.0
+    },
+    {
+      "asin": "B0CQWYVLT5",
+      "item_name": "ACURAS ツボ押し棒 すぐに始められる！顔と全身のツボ押し完全ガイド＆手と足のツボ地図 マッサージ フェイスマッサージ リフトアップ 筋膜リリース トリガーポイント",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 235798.43,
+      "t30d_units": 158.0
+    }
+  ]
+}

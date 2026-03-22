@@ -1,1 +1,22 @@
-{"1076523026002": [{"asin": "B0F6XJXT7Y", "item_name": "鮭ジャーキー 250g チーズ入 北海道産 大容量 お徳用 海鮮 おつまみ 珍味 鮭とば 訳あり 国産 魚 高タンパク スティック メール便", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 172076.0, "t30d_units": 87.0}, {"asin": "B0F83HKR8V", "item_name": "海鮮 ひと口 珍味 5種 詰め合わせ 300g 帆立 焼いか 鮭 たこ チーズ入 つぶのみチーズなし 個包装 おつまみ 珍味 チャック付 メール便 (300g)", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 121850.0, "t30d_units": 42.0}]}
+{
+  "1076523026002": [
+    {
+      "asin": "B0F6XJXT7Y",
+      "item_name": "鮭ジャーキー 250g チーズ入 北海道産 大容量 お徳用 海鮮 おつまみ 珍味 鮭とば 訳あり 国産 魚 高タンパク スティック メール便",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 172076.0,
+      "t30d_units": 87.0
+    },
+    {
+      "asin": "B0F83HKR8V",
+      "item_name": "海鮮 ひと口 珍味 5種 詰め合わせ 300g 帆立 焼いか 鮭 たこ チーズ入 つぶのみチーズなし 個包装 おつまみ 珍味 チャック付 メール便 (300g)",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 121850.0,
+      "t30d_units": 42.0
+    }
+  ]
+}

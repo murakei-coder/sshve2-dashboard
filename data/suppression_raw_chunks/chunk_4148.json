@@ -1,1 +1,76 @@
-{"8674429455": [{"asin": "B0DSKVSQCY", "item_name": "iVANKY Qi2認証 4in1 充電器 ワイヤレス充電ステーション MagSafe マグネット Wireless Charging Station 用ナイトランプ付き ポータブル トラベルスタンド マグセーフ 3in1 急速充電 iPhone 16/15/14/12/11 Pro Max 用, Apple Watch用, Airpods用 (ホワイト, 電源アダプターなし)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 56350.0, "t30d_units": 32.0}, {"asin": "B0DCP15XGX", "item_name": "iVANKY FusionFinder GPS Airtagスマートタグ エアトラッカー アイテムファインダー エアタグ Apple Find My (iOS専用) 紛失防止タグ、用 あなたの鍵、ウォレット、スーツケース、リュックサックを追跡 取り外し可能な電池、IP67防水、4パック", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B0D31KFB6D", "item_name": "IVANKY Thunderbolt 4 ケーブル 1.5m×2本 240W急速充電 8K映像出力 40Gbps 高速データ転送 USB-C & USB-C ケーブル iPhone17/Air/16/16e/15 充電 MacBook Air Pro iPad Pro/Air 他対応", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 93202.66, "t30d_units": 14.0}, {"asin": "B0D2XTNBSS", "item_name": "IVANKY Thunderbolt 4 ケーブル 0.7m 240W出力 8K対応 40Gbps 高速データ転送 USB-C & USB-C ケーブル iPhone17/Air/16/16e/15 充電 MacBook Air Pro iPad Pro/Air 他対応", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 94213.0, "t30d_units": 24.0}, {"asin": "B0CCJ4G6NL", "item_name": "iVANKY ROG Ally/Legion Go/Steam Deck ドックと65W PDチャージャー、HDMI 4K@144Hzギガビットイーサネット、USB-A 3.0、Valve Stream Deck用の100W充電USB-Cポートを搭載した6-in-1ハブドッキングステーション", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 61066.08, "t30d_units": 11.0}, {"asin": "B0D31GSTK3", "item_name": "IVANKY Thunderbolt 4 ケーブル 0.7m+1.5m 240W急速充電 8K映像出力 40Gbps 高速データ転送 USB-C & USB-C ケーブル iPhone17/Air/16/16e/15 充電 MacBook Air Pro iPad Pro/Air 他対応", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 61524.66, "t30d_units": 9.0}, {"asin": "B0D31HP7SS", "item_name": "IVANKY Thunderbolt 4 ケーブル 0.7m×2本 240W急速充電 8K映像出力 40Gbps 高速データ転送 USB-C & USB-C ケーブル iPhone17/Air/16/16e/15 充電 MacBook Air Pro iPad Pro/Air 他対応", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 31495.0, "t30d_units": 5.0}, {"asin": "B07PMNKL47", "item_name": "iVANKY Mini DisplayPort-HDMI 変換アダプタ 【4K@30Hz/20cm】 MiniDP (Thunderbolt 2 Port互換) - HDMIへの 変換 ミニディスプレイポート hdmi 変換MacBook Air/Pro, iMac, Microsoft Surface, サンダーボルト HDMI 変換", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 25712.66, "t30d_units": 27.0}]}
+{
+  "8674429455": [
+    {
+      "asin": "B0DSKVSQCY",
+      "item_name": "iVANKY Qi2認証 4in1 充電器 ワイヤレス充電ステーション MagSafe マグネット Wireless Charging Station 用ナイトランプ付き ポータブル トラベルスタンド マグセーフ 3in1 急速充電 iPhone 16/15/14/12/11 Pro Max 用, Apple Watch用, Airpods用 (ホワイト, 電源アダプターなし)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 56350.0,
+      "t30d_units": 32.0
+    },
+    {
+      "asin": "B0DCP15XGX",
+      "item_name": "iVANKY FusionFinder GPS Airtagスマートタグ エアトラッカー アイテムファインダー エアタグ Apple Find My (iOS専用) 紛失防止タグ、用 あなたの鍵、ウォレット、スーツケース、リュックサックを追跡 取り外し可能な電池、IP67防水、4パック",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B0D31KFB6D",
+      "item_name": "IVANKY Thunderbolt 4 ケーブル 1.5m×2本 240W急速充電 8K映像出力 40Gbps 高速データ転送 USB-C & USB-C ケーブル iPhone17/Air/16/16e/15 充電 MacBook Air Pro iPad Pro/Air 他対応",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 93202.66,
+      "t30d_units": 14.0
+    },
+    {
+      "asin": "B0D2XTNBSS",
+      "item_name": "IVANKY Thunderbolt 4 ケーブル 0.7m 240W出力 8K対応 40Gbps 高速データ転送 USB-C & USB-C ケーブル iPhone17/Air/16/16e/15 充電 MacBook Air Pro iPad Pro/Air 他対応",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 94213.0,
+      "t30d_units": 24.0
+    },
+    {
+      "asin": "B0CCJ4G6NL",
+      "item_name": "iVANKY ROG Ally/Legion Go/Steam Deck ドックと65W PDチャージャー、HDMI 4K@144Hzギガビットイーサネット、USB-A 3.0、Valve Stream Deck用の100W充電USB-Cポートを搭載した6-in-1ハブドッキングステーション",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 61066.08,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B0D31GSTK3",
+      "item_name": "IVANKY Thunderbolt 4 ケーブル 0.7m+1.5m 240W急速充電 8K映像出力 40Gbps 高速データ転送 USB-C & USB-C ケーブル iPhone17/Air/16/16e/15 充電 MacBook Air Pro iPad Pro/Air 他対応",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 61524.66,
+      "t30d_units": 9.0
+    },
+    {
+      "asin": "B0D31HP7SS",
+      "item_name": "IVANKY Thunderbolt 4 ケーブル 0.7m×2本 240W急速充電 8K映像出力 40Gbps 高速データ転送 USB-C & USB-C ケーブル iPhone17/Air/16/16e/15 充電 MacBook Air Pro iPad Pro/Air 他対応",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 31495.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B07PMNKL47",
+      "item_name": "iVANKY Mini DisplayPort-HDMI 変換アダプタ 【4K@30Hz/20cm】 MiniDP (Thunderbolt 2 Port互換) - HDMIへの 変換 ミニディスプレイポート hdmi 変換MacBook Air/Pro, iMac, Microsoft Surface, サンダーボルト HDMI 変換",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 25712.66,
+      "t30d_units": 27.0
+    }
+  ]
+}

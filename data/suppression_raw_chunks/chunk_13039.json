@@ -1,1 +1,76 @@
-{"822881332402": [{"asin": "B0DCNWXRSZ", "item_name": "【 限定 カラー ＆ フィルターセット 】ダイニチ(Dainichi) WebShop限定 加湿器 ハイブリッド式 HD-ERXT502-KW (適用床面積:プレハブ洋室14畳まで/木造和室8.5畳まで) ウォルナットグレー", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 99000.5, "t30d_units": 3.0}, {"asin": "B0FVSWPZN4", "item_name": "家庭用生ごみ乾燥機 ダイニチ (Dainichi) WebShop限定 GD-28A 0N04000", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 520080.0, "t30d_units": 13.0}, {"asin": "B0D6GKQBW9", "item_name": "ダイニチ WebShop限定 カフェプロ（Cafe Pro) コーヒー豆焙煎機 12段階 MR-102", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 2074489.83, "t30d_units": 21.0}, {"asin": "B0D6GKQHYR", "item_name": "ダイニチ WebShop限定 カフェプロ（Cafe Pro) コーヒー豆焙煎機 5段階 MR-F60A", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 797720.99, "t30d_units": 23.0}, {"asin": "B0DCP21945", "item_name": "【 限定 カラー ＆ フィルターセット 】ダイニチ(Dainichi) WebShop限定 加湿器 ハイブリッド式 HD-ERXT502-R (適用床面積:プレハブ洋室14畳まで/木造和室8.5畳まで) グレイッシュローズ", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 66000.0, "t30d_units": 2.0}, {"asin": "B0DCNZB3GF", "item_name": "【 限定 カラー ＆ フィルターセット 】ダイニチ(Dainichi) WebShop限定 加湿器 ハイブリッド式 HD-ERXT502-K (適用床面積:プレハブ洋室14畳まで/木造和室8.5畳まで) チャコールブラック", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 1214722.0, "t30d_units": 37.0}, {"asin": "B0DCNZ57GR", "item_name": "【 限定 カラー ＆ フィルターセット 】ダイニチ(Dainichi) WebShop限定 加湿器 ハイブリッド式 HD-ERXT502-C (適用床面積:プレハブ洋室14畳まで/木造和室8.5畳まで) ナチュラルアイボリー", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 97814.0, "t30d_units": 3.0}, {"asin": "B0DCP1VK8H", "item_name": "【 限定 カラー ＆ フィルターセット 】ダイニチ(Dainichi) WebShop限定 加湿器 ハイブリッド式 HD-ERXT502-S (適用床面積:プレハブ洋室14畳まで/木造和室8.5畳まで) アッシュグレー", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 165000.0, "t30d_units": 5.0}]}
+{
+  "822881332402": [
+    {
+      "asin": "B0DCNWXRSZ",
+      "item_name": "【 限定 カラー ＆ フィルターセット 】ダイニチ(Dainichi) WebShop限定 加湿器 ハイブリッド式 HD-ERXT502-KW (適用床面積:プレハブ洋室14畳まで/木造和室8.5畳まで) ウォルナットグレー",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 99000.5,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0FVSWPZN4",
+      "item_name": "家庭用生ごみ乾燥機 ダイニチ (Dainichi) WebShop限定 GD-28A 0N04000",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 520080.0,
+      "t30d_units": 13.0
+    },
+    {
+      "asin": "B0D6GKQBW9",
+      "item_name": "ダイニチ WebShop限定 カフェプロ（Cafe Pro) コーヒー豆焙煎機 12段階 MR-102",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 2074489.83,
+      "t30d_units": 21.0
+    },
+    {
+      "asin": "B0D6GKQHYR",
+      "item_name": "ダイニチ WebShop限定 カフェプロ（Cafe Pro) コーヒー豆焙煎機 5段階 MR-F60A",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 797720.99,
+      "t30d_units": 23.0
+    },
+    {
+      "asin": "B0DCP21945",
+      "item_name": "【 限定 カラー ＆ フィルターセット 】ダイニチ(Dainichi) WebShop限定 加湿器 ハイブリッド式 HD-ERXT502-R (適用床面積:プレハブ洋室14畳まで/木造和室8.5畳まで) グレイッシュローズ",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 66000.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0DCNZB3GF",
+      "item_name": "【 限定 カラー ＆ フィルターセット 】ダイニチ(Dainichi) WebShop限定 加湿器 ハイブリッド式 HD-ERXT502-K (適用床面積:プレハブ洋室14畳まで/木造和室8.5畳まで) チャコールブラック",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 1214722.0,
+      "t30d_units": 37.0
+    },
+    {
+      "asin": "B0DCNZ57GR",
+      "item_name": "【 限定 カラー ＆ フィルターセット 】ダイニチ(Dainichi) WebShop限定 加湿器 ハイブリッド式 HD-ERXT502-C (適用床面積:プレハブ洋室14畳まで/木造和室8.5畳まで) ナチュラルアイボリー",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 97814.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0DCP1VK8H",
+      "item_name": "【 限定 カラー ＆ フィルターセット 】ダイニチ(Dainichi) WebShop限定 加湿器 ハイブリッド式 HD-ERXT502-S (適用床面積:プレハブ洋室14畳まで/木造和室8.5畳まで) アッシュグレー",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 165000.0,
+      "t30d_units": 5.0
+    }
+  ]
+}

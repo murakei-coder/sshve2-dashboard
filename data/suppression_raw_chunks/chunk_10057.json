@@ -1,1 +1,31 @@
-{"86814678522": [{"asin": "B0FPFNFG5F", "item_name": "携帯電話家庭用信号増強器｜全てのキャリア対応｜全方向性アンテナによる全方向信号受信｜簡単設置", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 880377.0, "t30d_units": 23.0}, {"asin": "B0F3BXSB5T", "item_name": "家庭用携帯電話信号アンプ | すべての日本の携帯電話キャリアに対応 -KDDI & NTT & Softbank | 拡張帯域Band 1,6,18,19,26信号", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 359979.25, "t30d_units": 21.0}, {"asin": "B0C3G815RC", "item_name": "家庭用携帯電話シグナルブースター｜KDDI au、NTTドコモ、ソフトバンクの全キャリアに対応｜高利得指向性外部アンテナ｜バンド1、3、6、8、9、18、19、26、28の信号をブーストします", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 238330.0, "t30d_units": 7.0}]}
+{
+  "86814678522": [
+    {
+      "asin": "B0FPFNFG5F",
+      "item_name": "携帯電話家庭用信号増強器｜全てのキャリア対応｜全方向性アンテナによる全方向信号受信｜簡単設置",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 880377.0,
+      "t30d_units": 23.0
+    },
+    {
+      "asin": "B0F3BXSB5T",
+      "item_name": "家庭用携帯電話信号アンプ | すべての日本の携帯電話キャリアに対応 -KDDI & NTT & Softbank | 拡張帯域Band 1,6,18,19,26信号",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 359979.25,
+      "t30d_units": 21.0
+    },
+    {
+      "asin": "B0C3G815RC",
+      "item_name": "家庭用携帯電話シグナルブースター｜KDDI au、NTTドコモ、ソフトバンクの全キャリアに対応｜高利得指向性外部アンテナ｜バンド1、3、6、8、9、18、19、26、28の信号をブーストします",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 238330.0,
+      "t30d_units": 7.0
+    }
+  ]
+}

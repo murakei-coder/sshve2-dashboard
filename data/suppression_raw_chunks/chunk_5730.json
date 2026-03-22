@@ -1,1 +1,22 @@
-{"20576489722": [{"asin": "B088NHCX46", "item_name": "AX210 WiFi 6e lanカード、AX210NGW はWiFiを6GHz、M.2 2230/NGFF、2x2 AX+BT 5.3+トライバンドに拡張、RF ケーブル (11 インチ)、5dBi 高利得アンテナとブラケット", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 821757.06, "t30d_units": 228.0}, {"asin": "B07X462KRK", "item_name": "OKN WiFi 6E PCIe 無線LANカード AX5400 内蔵Intel AX210NGW WiFi 6モジュール 802.11AX PCI-Express 無線LANアダプタ Bluetooth 5.3対応, Windows10/11 64-bit対応", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1265158.38, "t30d_units": 369.0}]}
+{
+  "20576489722": [
+    {
+      "asin": "B088NHCX46",
+      "item_name": "AX210 WiFi 6e lanカード、AX210NGW はWiFiを6GHz、M.2 2230/NGFF、2x2 AX+BT 5.3+トライバンドに拡張、RF ケーブル (11 インチ)、5dBi 高利得アンテナとブラケット",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 821757.06,
+      "t30d_units": 228.0
+    },
+    {
+      "asin": "B07X462KRK",
+      "item_name": "OKN WiFi 6E PCIe 無線LANカード AX5400 内蔵Intel AX210NGW WiFi 6モジュール 802.11AX PCI-Express 無線LANアダプタ Bluetooth 5.3対応, Windows10/11 64-bit対応",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1265158.38,
+      "t30d_units": 369.0
+    }
+  ]
+}

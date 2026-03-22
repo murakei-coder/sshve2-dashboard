@@ -1,1 +1,40 @@
-{"985387811102": [{"asin": "B0DS5FFXNK", "item_name": "DAMA 335cm × 86 cm × 15 cm空気入りパドル、大人パドル、超高、軽量で耐久性があり、空気入りが便利で、デザインが多様で、機能がそろっており、高級部品、青を装備している", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 19998.71, "t30d_units": 1.0}, {"asin": "B0DPZGD5JG", "item_name": "DAMA 11'*34'*6'空気入りパドル、大人パドル、超高、軽量で耐久性があり、空気を入れやすく、スタイルが多様で、機能がそろっており、高級部品、紫色を装備している。", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 19999.0, "t30d_units": 1.0}, {"asin": "B0DS5BHKLQ", "item_name": "DAMA 11'*34'*6'空気入りパドル、大人パドル、超高、軽量で耐久性があり、空気入りが便利で、デザインが多様で、機能がそろっており、高級部品、黒を装備している。", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "L&L", "t30d_ops": 0.0, "t30d_units": 0.0}, {"asin": "B0DPZG71DC", "item_name": "DAMA 11'*34'*6'空気入りパドル、大人パドル、超高、軽量で耐久性があり、空気を入れやすく、スタイルが多様で、機能が完備しており、高級部品、ピンク色を搭載している", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "L&L", "t30d_ops": -17999.0, "t30d_units": -1.0}]}
+{
+  "985387811102": [
+    {
+      "asin": "B0DS5FFXNK",
+      "item_name": "DAMA 335cm × 86 cm × 15 cm空気入りパドル、大人パドル、超高、軽量で耐久性があり、空気入りが便利で、デザインが多様で、機能がそろっており、高級部品、青を装備している",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 19998.71,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0DPZGD5JG",
+      "item_name": "DAMA 11'*34'*6'空気入りパドル、大人パドル、超高、軽量で耐久性があり、空気を入れやすく、スタイルが多様で、機能がそろっており、高級部品、紫色を装備している。",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 19999.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0DS5BHKLQ",
+      "item_name": "DAMA 11'*34'*6'空気入りパドル、大人パドル、超高、軽量で耐久性があり、空気入りが便利で、デザインが多様で、機能がそろっており、高級部品、黒を装備している。",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "L&L",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    },
+    {
+      "asin": "B0DPZG71DC",
+      "item_name": "DAMA 11'*34'*6'空気入りパドル、大人パドル、超高、軽量で耐久性があり、空気を入れやすく、スタイルが多様で、機能が完備しており、高級部品、ピンク色を搭載している",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "L&L",
+      "t30d_ops": -17999.0,
+      "t30d_units": -1.0
+    }
+  ]
+}

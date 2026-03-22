@@ -1,1 +1,40 @@
-{"981306995602": [{"asin": "B0FY673WMQ", "item_name": "口臭ブレスチェッカー 口臭測定器 ブレスチェッカー ビジネス礼儀 自己確認 テスター 携帯型 家庭用 非侵入式", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Consumables", "t30d_ops": 138683.0, "t30d_units": 37.0}, {"asin": "B0GHRF3PNG", "item_name": "口臭チェッカー ブレスチェッカー 口臭測定器 高精度検出 ビジネス礼儀 自己確認 テスター 携帯型 家庭用 非接触式", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 650625.9, "t30d_units": 164.0}, {"asin": "B0DXZX9YRL", "item_name": "ピロースピーカー 骨伝導 pillow speaker 枕スピーカー 枕の下 Bluetooth5.3接続 スリープ ホワイトノイズマシン 自分だけ聞こえる ポケット SDカード再生可能 軽量50g 睡眠改善 寝かしつけ ヘッドホンから耳を解放 36曲サウンド収録 日本語説明書付き", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 108069.91, "t30d_units": 32.0}, {"asin": "B0F43DN4Q1", "item_name": "ピロースピーカー リモコン式 pillow speaker 骨伝導 枕スピーカー Bluetooth5.4接続 枕の下 スリープ ホワイトノイズ 自分だけ聞こえる メモリカード再生可能 軽量72g 睡眠改善 寝かしつけ ヘッドホンから耳を解放 就寝用音楽プレイヤー 日本語説明書付き Giteki認証取得", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 70298.0, "t30d_units": 18.0}]}
+{
+  "981306995602": [
+    {
+      "asin": "B0FY673WMQ",
+      "item_name": "口臭ブレスチェッカー 口臭測定器 ブレスチェッカー ビジネス礼儀 自己確認 テスター 携帯型 家庭用 非侵入式",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Consumables",
+      "t30d_ops": 138683.0,
+      "t30d_units": 37.0
+    },
+    {
+      "asin": "B0GHRF3PNG",
+      "item_name": "口臭チェッカー ブレスチェッカー 口臭測定器 高精度検出 ビジネス礼儀 自己確認 テスター 携帯型 家庭用 非接触式",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 650625.9,
+      "t30d_units": 164.0
+    },
+    {
+      "asin": "B0DXZX9YRL",
+      "item_name": "ピロースピーカー 骨伝導 pillow speaker 枕スピーカー 枕の下 Bluetooth5.3接続 スリープ ホワイトノイズマシン 自分だけ聞こえる ポケット SDカード再生可能 軽量50g 睡眠改善 寝かしつけ ヘッドホンから耳を解放 36曲サウンド収録 日本語説明書付き",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 108069.91,
+      "t30d_units": 32.0
+    },
+    {
+      "asin": "B0F43DN4Q1",
+      "item_name": "ピロースピーカー リモコン式 pillow speaker 骨伝導 枕スピーカー Bluetooth5.4接続 枕の下 スリープ ホワイトノイズ 自分だけ聞こえる メモリカード再生可能 軽量72g 睡眠改善 寝かしつけ ヘッドホンから耳を解放 就寝用音楽プレイヤー 日本語説明書付き Giteki認証取得",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 70298.0,
+      "t30d_units": 18.0
+    }
+  ]
+}

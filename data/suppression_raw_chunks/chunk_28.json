@@ -1,1 +1,49 @@
-{"461205944": [{"asin": "B0FKTL93TL", "item_name": "業務用 PM2.5 Co2ダブルセンサー搭載 経費を最小化しながら高性能 0.1μm粒子を99.81%除去 感染リスクお知らせ 洗えるフィルタ 最大28畳対応 BA-400 静電気フィルタ式空気清浄機 高圧洗浄機でフィルタ洗浄可能", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 168713.0, "t30d_units": 2.0}, {"asin": "B09SM14W9K", "item_name": "業務用 経費を最小化しながら高性能ウイルス除去99.99%実現 0.0146μm 微細粒子を除去可能 感染リスクお知らせ 洗えるフィルタ 最大43畳対応 BA-600 静電気フィルタ式空気清浄機 高圧洗浄機でフィルタ洗浄可能", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 821986.0, "t30d_units": 8.0}, {"asin": "B0BMZ7F8XY", "item_name": "空気から飲料水を作り出す製水器 Belle Water BW-1500W 結露式製水器 ROフィルター搭載 食品衛生法適合 PFAS除去可能 空気清浄機能搭載 ソーラーパネル 太陽光発電住宅に 防災用 災害 断水 水不足 宅配水 の代わりに BCP 純水", "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 687272.0, "t30d_units": 4.0}, {"asin": "B0FQ4B1XMK", "item_name": "セラミックフィルター式浄水器 災害時に飲料水確保に使える 水質検査51項目合格 塩素消毒 ウイルスにも対応 防災用 浄水器 セラミックフィルター 日本製", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 442503.0, "t30d_units": 14.0}, {"asin": "B0DD7WKD18", "item_name": "空気から飲料水を作り出す製水器 Belle Water BW-3000W 結露式製水器 ROフィルター搭載 PSE準拠 食品衛生法適合 PFAS除去可能 空気清浄機能搭載 ソーラーパネル 太陽光発電住宅に 防災用 災害 断水 水不足 宅配水 の代わりに BCP 純水", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "461205944": [
+    {
+      "asin": "B0FKTL93TL",
+      "item_name": "業務用 PM2.5 Co2ダブルセンサー搭載 経費を最小化しながら高性能 0.1μm粒子を99.81%除去 感染リスクお知らせ 洗えるフィルタ 最大28畳対応 BA-400 静電気フィルタ式空気清浄機 高圧洗浄機でフィルタ洗浄可能",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 168713.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B09SM14W9K",
+      "item_name": "業務用 経費を最小化しながら高性能ウイルス除去99.99%実現 0.0146μm 微細粒子を除去可能 感染リスクお知らせ 洗えるフィルタ 最大43畳対応 BA-600 静電気フィルタ式空気清浄機 高圧洗浄機でフィルタ洗浄可能",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 821986.0,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B0BMZ7F8XY",
+      "item_name": "空気から飲料水を作り出す製水器 Belle Water BW-1500W 結露式製水器 ROフィルター搭載 食品衛生法適合 PFAS除去可能 空気清浄機能搭載 ソーラーパネル 太陽光発電住宅に 防災用 災害 断水 水不足 宅配水 の代わりに BCP 純水",
+      "suppression_reason": "[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 687272.0,
+      "t30d_units": 4.0
+    },
+    {
+      "asin": "B0FQ4B1XMK",
+      "item_name": "セラミックフィルター式浄水器 災害時に飲料水確保に使える 水質検査51項目合格 塩素消毒 ウイルスにも対応 防災用 浄水器 セラミックフィルター 日本製",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 442503.0,
+      "t30d_units": 14.0
+    },
+    {
+      "asin": "B0DD7WKD18",
+      "item_name": "空気から飲料水を作り出す製水器 Belle Water BW-3000W 結露式製水器 ROフィルター搭載 PSE準拠 食品衛生法適合 PFAS除去可能 空気清浄機能搭載 ソーラーパネル 太陽光発電住宅に 防災用 災害 断水 水不足 宅配水 の代わりに BCP 純水",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

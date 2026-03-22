@@ -1,1 +1,22 @@
-{"1094837526602": [{"asin": "B0GFX88NWT", "item_name": "プロジェクター 家庭用 超小型 【2026衝撃作版Android TV14.0搭載＆270°回転＆HiFi外部スピーカー】 27000LM 1080P 4K対応 短距離投影 高輝度 天井投影 Wi-Fi6 Bluetooth5.4 大画面 自動台形補正 操作簡単 500g超軽量 IOS/Android/パソコン/DVD/PS機/SWITCH接続可 日本語取扱説明書 新春福袋 高級ホワイト", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 8719629.89, "t30d_units": 1067.0}, {"asin": "B0FW57774Q", "item_name": "プロジェクター 小型 プロジェクター 家庭用【業界ミニサイズ500g超軽量・2GB+16GBの大容量ストレージ】Android TV搭載 27000LM 4K対応 Wi-Fi6 Bluetooth5.4 270°回転 灰白い", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 0.0, "t30d_units": 0.0}]}
+{
+  "1094837526602": [
+    {
+      "asin": "B0GFX88NWT",
+      "item_name": "プロジェクター 家庭用 超小型 【2026衝撃作版Android TV14.0搭載＆270°回転＆HiFi外部スピーカー】 27000LM 1080P 4K対応 短距離投影 高輝度 天井投影 Wi-Fi6 Bluetooth5.4 大画面 自動台形補正 操作簡単 500g超軽量 IOS/Android/パソコン/DVD/PS機/SWITCH接続可 日本語取扱説明書 新春福袋 高級ホワイト",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 8719629.89,
+      "t30d_units": 1067.0
+    },
+    {
+      "asin": "B0FW57774Q",
+      "item_name": "プロジェクター 小型 プロジェクター 家庭用【業界ミニサイズ500g超軽量・2GB+16GBの大容量ストレージ】Android TV搭載 27000LM 4K対応 Wi-Fi6 Bluetooth5.4 270°回転 灰白い",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    }
+  ]
+}

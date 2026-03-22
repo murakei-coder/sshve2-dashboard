@@ -1,1 +1,31 @@
-{"822953323402": [{"asin": "B0D5YX5VT1", "item_name": "【医師推薦】すこやか工房 マカDX 有機 マカ サプリ 亜鉛 製法特許 シトルリン ニンニク スッポン 国内製造 180粒 90日分", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 341406.66, "t30d_units": 41.0}, {"asin": "B0D5LKRPNJ", "item_name": "【医師推薦】すこやか工房 マカDX 有機 マカ サプリ 製法特許 亜鉛 シトルリン ニンニク スッポン 国内製造 60粒 30日分", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 1473118.47, "t30d_units": 502.0}, {"asin": "B0D5YZ7X1F", "item_name": "【医師推薦】すこやか工房 マカDX 有機 マカ サプリ 製法特許 亜鉛 シトルリン ニンニク スッポン 国内製造 300粒 150日分", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": -189219.0, "t30d_units": -17.0}]}
+{
+  "822953323402": [
+    {
+      "asin": "B0D5YX5VT1",
+      "item_name": "【医師推薦】すこやか工房 マカDX 有機 マカ サプリ 亜鉛 製法特許 シトルリン ニンニク スッポン 国内製造 180粒 90日分",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 341406.66,
+      "t30d_units": 41.0
+    },
+    {
+      "asin": "B0D5LKRPNJ",
+      "item_name": "【医師推薦】すこやか工房 マカDX 有機 マカ サプリ 製法特許 亜鉛 シトルリン ニンニク スッポン 国内製造 60粒 30日分",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 1473118.47,
+      "t30d_units": 502.0
+    },
+    {
+      "asin": "B0D5YZ7X1F",
+      "item_name": "【医師推薦】すこやか工房 マカDX 有機 マカ サプリ 製法特許 亜鉛 シトルリン ニンニク スッポン 国内製造 300粒 150日分",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": -189219.0,
+      "t30d_units": -17.0
+    }
+  ]
+}

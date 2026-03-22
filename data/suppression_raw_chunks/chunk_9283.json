@@ -1,1 +1,22 @@
-{"74034438522": [{"asin": "B0DB28X1JY", "item_name": "CBDオイル 高濃度50％ 5000mg 10g 日本製 国内製造 テルペン配合 MCTオイル HEMP LEAD (オレンジ, CBD（5000mg）)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 1032309.0, "t30d_units": 306.0}, {"asin": "B0FNWT6DGQ", "item_name": "【日本製】 ヘンプシード オイル hemp 100% 無添加 コールドプレス 100ml オメガ3・6配合 美容と健康サポート HEMP LEAD（ヘンプリード）", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 93329.51, "t30d_units": 35.0}]}
+{
+  "74034438522": [
+    {
+      "asin": "B0DB28X1JY",
+      "item_name": "CBDオイル 高濃度50％ 5000mg 10g 日本製 国内製造 テルペン配合 MCTオイル HEMP LEAD (オレンジ, CBD（5000mg）)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 1032309.0,
+      "t30d_units": 306.0
+    },
+    {
+      "asin": "B0FNWT6DGQ",
+      "item_name": "【日本製】 ヘンプシード オイル hemp 100% 無添加 コールドプレス 100ml オメガ3・6配合 美容と健康サポート HEMP LEAD（ヘンプリード）",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 93329.51,
+      "t30d_units": 35.0
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"689636061402": [{"asin": "B0F1CV9MQ5", "item_name": "国産 無添加 手作り やじべえ 乾燥黒麹 500g チャック付袋 三重県産こしひかり100% 米糀 手作りで発酵力が高く香り豊か クエン酸豊富", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 129045.46, "t30d_units": 43.0}, {"asin": "B0D78Y17LV", "item_name": "やじべえ甲州小梅 500g 山梨県産 着色料 保存料 不使用 国産カリカリ梅 おやつ お弁当や食卓に 梅しば小梅 (無着色小梅味)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 185421.27, "t30d_units": 93.0}, {"asin": "B0D78YQ49X", "item_name": "やじべえ甲州小梅 500g 山梨県産 合成着色料 保存料 不使用 国産カリカリ梅 おやつ お弁当や食卓に 梅しば小梅 (赤小梅味)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 120944.02, "t30d_units": 61.0}]}
+{
+  "689636061402": [
+    {
+      "asin": "B0F1CV9MQ5",
+      "item_name": "国産 無添加 手作り やじべえ 乾燥黒麹 500g チャック付袋 三重県産こしひかり100% 米糀 手作りで発酵力が高く香り豊か クエン酸豊富",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 129045.46,
+      "t30d_units": 43.0
+    },
+    {
+      "asin": "B0D78Y17LV",
+      "item_name": "やじべえ甲州小梅 500g 山梨県産 着色料 保存料 不使用 国産カリカリ梅 おやつ お弁当や食卓に 梅しば小梅 (無着色小梅味)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 185421.27,
+      "t30d_units": 93.0
+    },
+    {
+      "asin": "B0D78YQ49X",
+      "item_name": "やじべえ甲州小梅 500g 山梨県産 合成着色料 保存料 不使用 国産カリカリ梅 おやつ お弁当や食卓に 梅しば小梅 (赤小梅味)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 120944.02,
+      "t30d_units": 61.0
+    }
+  ]
+}

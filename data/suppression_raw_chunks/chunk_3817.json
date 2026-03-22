@@ -1,1 +1,31 @@
-{"8224559555": [{"asin": "B01GSFTX08", "item_name": "Spectra479 ブルーライト 99.9% カット pcメガネ", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 736462.63, "t30d_units": 123.0}, {"asin": "B07SNPX3PL", "item_name": "ブルーライトカットメガネ クリップオン式 99%カット【スペクトラ製品 正規代理店品】", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 59800.0, "t30d_units": 10.0}, {"asin": "B0CYNV9L96", "item_name": "MEPSUS(メプサス) 2WAYステッパーバイク 立・座 スタンディング シッティング 2WAY エアロバイク ステッパー 静音 有酸素運動 立ち漕ぎ(ブラック)", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 686493.9, "t30d_units": 46.0}]}
+{
+  "8224559555": [
+    {
+      "asin": "B01GSFTX08",
+      "item_name": "Spectra479 ブルーライト 99.9% カット pcメガネ",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 736462.63,
+      "t30d_units": 123.0
+    },
+    {
+      "asin": "B07SNPX3PL",
+      "item_name": "ブルーライトカットメガネ クリップオン式 99%カット【スペクトラ製品 正規代理店品】",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 59800.0,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B0CYNV9L96",
+      "item_name": "MEPSUS(メプサス) 2WAYステッパーバイク 立・座 スタンディング シッティング 2WAY エアロバイク ステッパー 静音 有酸素運動 立ち漕ぎ(ブラック)",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 686493.9,
+      "t30d_units": 46.0
+    }
+  ]
+}

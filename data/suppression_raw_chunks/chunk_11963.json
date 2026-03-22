@@ -1,1 +1,76 @@
-{"719008648702": [{"asin": "B0DJ27C6WX", "item_name": "【VGP 2025受賞】 (nb) Open÷ オープンイヤー型 完全 ワイヤレスイヤホン 耳を塞がない 耳掛け 軽量7g 低遅延モード 通話マイク IPX4防水 Bluetooth 最大18時間再生 エヌビー オープンディー (アイボリー)", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 0.0, "t30d_units": 0.0}, {"asin": "B0D2K2GLF9", "item_name": "【VGP 2025受賞】 (nb) Open+ オープンイヤー型 完全 ワイヤレスイヤホン 耳を塞がない 耳掛け 軽量7g 低遅延モード 通話マイク IPX4防水 Bluetooth 最大18時間再生 【公式ポーチ付き】(ブラック)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Total CE", "t30d_ops": 0.0, "t30d_units": 0.0}, {"asin": "B0BP11NRHB", "item_name": "(nb) D45 ANC 完全 ワイヤレスイヤホン 物理ボタン ノイズキャンセリング 外音取込 低遅延モード 通話マイク 技術基準適合 Bluetooth 最大20時間再生 アップデート版 国内ブランド (ブラック)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 150297.0, "t30d_units": 25.0}, {"asin": "B0FC63YQ2K", "item_name": "(nb) Open＋2 オープンイヤー型 完全 ワイヤレスイヤホン 耳を塞がない 耳掛け 低遅延モード 通話マイク マルチポイント対応 PSE/技術基準適合 Bluetooth【(nb)ロゴ入りポーチ付き】 (ホワイト)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 27170.0, "t30d_units": 2.0}, {"asin": "B0FC5S9KLC", "item_name": "(nb) Open＋2 オープンイヤー型 完全 ワイヤレスイヤホン 耳を塞がない 耳掛け 低遅延モード 通話マイク マルチポイント対応 PSE/技術基準適合 Bluetooth【(nb)ロゴ入りポーチ付き】 (ブラック)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 14300.0, "t30d_units": 1.0}, {"asin": "B0DJ2828HP", "item_name": "【VGP 2025受賞】 (nb) Open÷ オープンイヤー型 完全 ワイヤレスイヤホン 耳を塞がない 耳掛け 軽量7g 低遅延モード 通話マイク IPX4防水 Bluetooth 最大18時間再生 エヌビーオープンディー (ブラック)", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 46122.0, "t30d_units": 8.0}, {"asin": "B0DMVG9DG7", "item_name": "(nb) SkeLeTon II ワイヤレスイヤホン 重低音 ヘッドトラッキング bluetooth 32時間再生 ノイズキャンセリング 大口径ドライバー 低遅延 外音取込み 6軸モーションセンサー エヌビーオーディオ スケルトン2 SKLT2-WH 国内メーカー【公式ポーチ付き】 (ホワイト)", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 24580.0, "t30d_units": 3.0}, {"asin": "B0DMVDH99Y", "item_name": "(nb) SkeLeTon II ワイヤレスイヤホン 重低音 ヘッドトラッキング bluetooth 32時間再生 ノイズキャンセリング 大口径ドライバー 低遅延 外音取込み 6軸モーションセンサー スケルトン2 SKLT2-BK 国内メーカー【公式ポーチ付き】 (ブラック)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "719008648702": [
+    {
+      "asin": "B0DJ27C6WX",
+      "item_name": "【VGP 2025受賞】 (nb) Open÷ オープンイヤー型 完全 ワイヤレスイヤホン 耳を塞がない 耳掛け 軽量7g 低遅延モード 通話マイク IPX4防水 Bluetooth 最大18時間再生 エヌビー オープンディー (アイボリー)",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    },
+    {
+      "asin": "B0D2K2GLF9",
+      "item_name": "【VGP 2025受賞】 (nb) Open+ オープンイヤー型 完全 ワイヤレスイヤホン 耳を塞がない 耳掛け 軽量7g 低遅延モード 通話マイク IPX4防水 Bluetooth 最大18時間再生 【公式ポーチ付き】(ブラック)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Total CE",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    },
+    {
+      "asin": "B0BP11NRHB",
+      "item_name": "(nb) D45 ANC 完全 ワイヤレスイヤホン 物理ボタン ノイズキャンセリング 外音取込 低遅延モード 通話マイク 技術基準適合 Bluetooth 最大20時間再生 アップデート版 国内ブランド (ブラック)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 150297.0,
+      "t30d_units": 25.0
+    },
+    {
+      "asin": "B0FC63YQ2K",
+      "item_name": "(nb) Open＋2 オープンイヤー型 完全 ワイヤレスイヤホン 耳を塞がない 耳掛け 低遅延モード 通話マイク マルチポイント対応 PSE/技術基準適合 Bluetooth【(nb)ロゴ入りポーチ付き】 (ホワイト)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 27170.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B0FC5S9KLC",
+      "item_name": "(nb) Open＋2 オープンイヤー型 完全 ワイヤレスイヤホン 耳を塞がない 耳掛け 低遅延モード 通話マイク マルチポイント対応 PSE/技術基準適合 Bluetooth【(nb)ロゴ入りポーチ付き】 (ブラック)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 14300.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0DJ2828HP",
+      "item_name": "【VGP 2025受賞】 (nb) Open÷ オープンイヤー型 完全 ワイヤレスイヤホン 耳を塞がない 耳掛け 軽量7g 低遅延モード 通話マイク IPX4防水 Bluetooth 最大18時間再生 エヌビーオープンディー (ブラック)",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 46122.0,
+      "t30d_units": 8.0
+    },
+    {
+      "asin": "B0DMVG9DG7",
+      "item_name": "(nb) SkeLeTon II ワイヤレスイヤホン 重低音 ヘッドトラッキング bluetooth 32時間再生 ノイズキャンセリング 大口径ドライバー 低遅延 外音取込み 6軸モーションセンサー エヌビーオーディオ スケルトン2 SKLT2-WH 国内メーカー【公式ポーチ付き】 (ホワイト)",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 24580.0,
+      "t30d_units": 3.0
+    },
+    {
+      "asin": "B0DMVDH99Y",
+      "item_name": "(nb) SkeLeTon II ワイヤレスイヤホン 重低音 ヘッドトラッキング bluetooth 32時間再生 ノイズキャンセリング 大口径ドライバー 低遅延 外音取込み 6軸モーションセンサー スケルトン2 SKLT2-BK 国内メーカー【公式ポーチ付き】 (ブラック)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

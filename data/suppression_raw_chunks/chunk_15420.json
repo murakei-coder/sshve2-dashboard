@@ -1,1 +1,40 @@
-{"1090245455602": [{"asin": "B0FCXP1QRZ", "item_name": "【ワコールから誕生】YOJOY（ヨジョイ） リフレッシングミスト 30ml デリケートゾーン ふきとり化粧水 保湿 角質ケア フェムケア みずみずしい生バラの香り 日本製 AZ1002", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 14087.33, "t30d_units": 7.0}, {"asin": "B0FCXLT4KD", "item_name": "【ワコールから誕生】YOJOY（ヨジョイ） インバスボディセラム 75ml デリケートゾーン オイル 保湿 美容液 フェムケア 野ばらのほのかな香り 日本製 AZ1001", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 293816.21, "t30d_units": 98.0}, {"asin": "B0FCX42688", "item_name": "【ワコールから誕生】YOJOY（ヨジョイ） フォーミングウォッシュ 150ml デリケートゾーン 泡 ソープ フェムケア 洗浄料 無香料 日本製 AZ1000", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 161079.57, "t30d_units": 67.0}, {"asin": "B0FCY1JH16", "item_name": "【ワコールから誕生】YOJOY（ヨジョイ） 薬用ホワイトニングクリーム【医薬部外品】 30g デリケートゾーン 美白 抗炎症 肌荒れ防止 保湿 フェムケア 無香料 日本製 AZ1003", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 54038.75, "t30d_units": 13.0}]}
+{
+  "1090245455602": [
+    {
+      "asin": "B0FCXP1QRZ",
+      "item_name": "【ワコールから誕生】YOJOY（ヨジョイ） リフレッシングミスト 30ml デリケートゾーン ふきとり化粧水 保湿 角質ケア フェムケア みずみずしい生バラの香り 日本製 AZ1002",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 14087.33,
+      "t30d_units": 7.0
+    },
+    {
+      "asin": "B0FCXLT4KD",
+      "item_name": "【ワコールから誕生】YOJOY（ヨジョイ） インバスボディセラム 75ml デリケートゾーン オイル 保湿 美容液 フェムケア 野ばらのほのかな香り 日本製 AZ1001",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 293816.21,
+      "t30d_units": 98.0
+    },
+    {
+      "asin": "B0FCX42688",
+      "item_name": "【ワコールから誕生】YOJOY（ヨジョイ） フォーミングウォッシュ 150ml デリケートゾーン 泡 ソープ フェムケア 洗浄料 無香料 日本製 AZ1000",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 161079.57,
+      "t30d_units": 67.0
+    },
+    {
+      "asin": "B0FCY1JH16",
+      "item_name": "【ワコールから誕生】YOJOY（ヨジョイ） 薬用ホワイトニングクリーム【医薬部外品】 30g デリケートゾーン 美白 抗炎症 肌荒れ防止 保湿 フェムケア 無香料 日本製 AZ1003",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 54038.75,
+      "t30d_units": 13.0
+    }
+  ]
+}

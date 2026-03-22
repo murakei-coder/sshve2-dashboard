@@ -1,1 +1,40 @@
-{"77810207222": [{"asin": "B0F1MHTN5V", "item_name": "KEEPRO MagSafe 3in1 ワイヤレス充電スタンド 折りたたみ式 iPhone/Apple Watch/AirPods対応 3デバイス同時充電 15W/10W/7.5W 横向き/縦向き自由調整 強力マグネット固定 ベッドサイド・デスク/旅行両用 コンパクト軽量【20W PD3.0アダプター付属】", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 0.0, "t30d_units": 0.0}, {"asin": "B0DMNYY821", "item_name": "KEEPRO ワイヤレス充電器 3in1 折り畳み式 Magsafe充電器 同時に3つのデバイス充電 15W/10W/7.5W マルチ充電スタンド マグセーフ充·電器 マグネット式 iPhone/Apple Watch/Airpodsに対応 無線充·電器 出張、旅行用 携帯充·電器【20W PD3.0アダプター付属】ホワイト", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 1614096.21, "t30d_units": 436.0}, {"asin": "B0DMNYWBCS", "item_name": "KEEPRO ワイヤレス充電器 3in1 折り畳み式 Magsafe充電器 同時に3つのデバイス充電 15W/10W/7.5W マルチ充電スタンド マグセーフ充·電器 マグネット式 iPhone/Apple Watch/Airpodsに対応 無線充·電器 出張、旅行用 携帯充·電器【20W PD3.0アダプター付属】ブラック", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Total CE", "t30d_ops": 3480625.2, "t30d_units": 938.0}, {"asin": "B0G1LQLZT8", "item_name": "KEEPRO MagSafe 3in1 ワイヤレス充電器 折り畳み充電スタンド 同時に3つのデバイス充電 15W/10W/7.5W 置くだけ充電 マグセーフ充電器 iPhone/Apple Watch/Airpodsに対応 コンパクト旅行用 【20W PD3.0アダプター付属】ブラック", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Total CE", "t30d_ops": 1587229.01, "t30d_units": 414.0}]}
+{
+  "77810207222": [
+    {
+      "asin": "B0F1MHTN5V",
+      "item_name": "KEEPRO MagSafe 3in1 ワイヤレス充電スタンド 折りたたみ式 iPhone/Apple Watch/AirPods対応 3デバイス同時充電 15W/10W/7.5W 横向き/縦向き自由調整 強力マグネット固定 ベッドサイド・デスク/旅行両用 コンパクト軽量【20W PD3.0アダプター付属】",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 0.0,
+      "t30d_units": 0.0
+    },
+    {
+      "asin": "B0DMNYY821",
+      "item_name": "KEEPRO ワイヤレス充電器 3in1 折り畳み式 Magsafe充電器 同時に3つのデバイス充電 15W/10W/7.5W マルチ充電スタンド マグセーフ充·電器 マグネット式 iPhone/Apple Watch/Airpodsに対応 無線充·電器 出張、旅行用 携帯充·電器【20W PD3.0アダプター付属】ホワイト",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 1614096.21,
+      "t30d_units": 436.0
+    },
+    {
+      "asin": "B0DMNYWBCS",
+      "item_name": "KEEPRO ワイヤレス充電器 3in1 折り畳み式 Magsafe充電器 同時に3つのデバイス充電 15W/10W/7.5W マルチ充電スタンド マグセーフ充·電器 マグネット式 iPhone/Apple Watch/Airpodsに対応 無線充·電器 出張、旅行用 携帯充·電器【20W PD3.0アダプター付属】ブラック",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Total CE",
+      "t30d_ops": 3480625.2,
+      "t30d_units": 938.0
+    },
+    {
+      "asin": "B0G1LQLZT8",
+      "item_name": "KEEPRO MagSafe 3in1 ワイヤレス充電器 折り畳み充電スタンド 同時に3つのデバイス充電 15W/10W/7.5W 置くだけ充電 マグセーフ充電器 iPhone/Apple Watch/Airpodsに対応 コンパクト旅行用 【20W PD3.0アダプター付属】ブラック",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Total CE",
+      "t30d_ops": 1587229.01,
+      "t30d_units": 414.0
+    }
+  ]
+}

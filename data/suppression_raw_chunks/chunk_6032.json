@@ -1,1 +1,31 @@
-{"26872406022": [{"asin": "B0DB5FP3HT", "item_name": "5-ALA ファイブアラ ボトル1本 60日分 アミノ酸 サプリメント 二酸化チタン不使用 国内製造 アミノレブリン酸 GMP認定工場 正規品", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 219640.86, "t30d_units": 56.0}, {"asin": "B0DB5K157C", "item_name": "5-ALA ファイブアラ ボトル3本 180日分 アミノ酸 サプリメント 二酸化チタン不使用 国内製造 アミノレブリン酸 GMP認定工場 正規品", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 55242.0, "t30d_units": 5.0}, {"asin": "B0DB5LRB1R", "item_name": "5-ALA ファイブアラ ボトル5本 300日分 アミノ酸 サプリメント 二酸化チタン不使用 国内製造 アミノレブリン酸 GMP認定工場 正規品", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 80907.2, "t30d_units": 5.0}]}
+{
+  "26872406022": [
+    {
+      "asin": "B0DB5FP3HT",
+      "item_name": "5-ALA ファイブアラ ボトル1本 60日分 アミノ酸 サプリメント 二酸化チタン不使用 国内製造 アミノレブリン酸 GMP認定工場 正規品",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_NOT_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 219640.86,
+      "t30d_units": 56.0
+    },
+    {
+      "asin": "B0DB5K157C",
+      "item_name": "5-ALA ファイブアラ ボトル3本 180日分 アミノ酸 サプリメント 二酸化チタン不使用 国内製造 アミノレブリン酸 GMP認定工場 正規品",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 55242.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0DB5LRB1R",
+      "item_name": "5-ALA ファイブアラ ボトル5本 300日分 アミノ酸 サプリメント 二酸化チタン不使用 国内製造 アミノレブリン酸 GMP認定工場 正規品",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 80907.2,
+      "t30d_units": 5.0
+    }
+  ]
+}

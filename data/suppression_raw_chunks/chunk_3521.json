@@ -1,1 +1,40 @@
-{"7938202622": [{"asin": "B091YNMZ9B", "item_name": "ROADNADO カーボンシートポスト、自転車用シートポスト 31.6ＭＭ 長さ350mm 軽量シートチューブ つや消し炭素繊維 ロードバイク マウンテンバイク 道路自転車 MTB用", "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 36553.41, "t30d_units": 11.0}, {"asin": "B091YMZH64", "item_name": "ROADNADO カーボンシートポスト、自転車用シートポスト、軽量シートチューブ、つや消し炭素繊維 ロードバイク マウンテンバイク 道路自転車 MTB 350ＭＭ 27.2ＭＭ", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 92106.2, "t30d_units": 27.0}, {"asin": "B091YNLQGT", "item_name": "ROADNADO カーボンシートポスト、自転車用シートポスト、軽量シートチューブ、つや消し炭素繊維 ロードバイク マウンテンバイク 道路自転車 MTB 350ＭＭ 25.4ＭＭ", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "2.OOS", "pf": "L&L", "t30d_ops": 7211.0, "t30d_units": 2.0}, {"asin": "B091YKGZNP", "item_name": "ROADNADO カーボンシートポスト、自転車用シートポスト、軽量シートチューブ、つや消し炭素繊維 ロードバイク マウンテンバイク 道路自転車 MTB 400ＭＭ 27.2ＭＭ", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 24591.0, "t30d_units": 7.0}]}
+{
+  "7938202622": [
+    {
+      "asin": "B091YNMZ9B",
+      "item_name": "ROADNADO カーボンシートポスト、自転車用シートポスト 31.6ＭＭ 長さ350mm 軽量シートチューブ つや消し炭素繊維 ロードバイク マウンテンバイク 道路自転車 MTB用",
+      "suppression_reason": "[DEAL_PRICE_GREATER_THAN_HISTORICAL_PRICE[NET_PROMOTION_PRICE_GREATER_THAN_NET30_DAY_PRICE[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 36553.41,
+      "t30d_units": 11.0
+    },
+    {
+      "asin": "B091YMZH64",
+      "item_name": "ROADNADO カーボンシートポスト、自転車用シートポスト、軽量シートチューブ、つや消し炭素繊維 ロードバイク マウンテンバイク 道路自転車 MTB 350ＭＭ 27.2ＭＭ",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 92106.2,
+      "t30d_units": 27.0
+    },
+    {
+      "asin": "B091YNLQGT",
+      "item_name": "ROADNADO カーボンシートポスト、自転車用シートポスト、軽量シートチューブ、つや消し炭素繊維 ロードバイク マウンテンバイク 道路自転車 MTB 350ＭＭ 25.4ＭＭ",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "2.OOS",
+      "pf": "L&L",
+      "t30d_ops": 7211.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B091YKGZNP",
+      "item_name": "ROADNADO カーボンシートポスト、自転車用シートポスト、軽量シートチューブ、つや消し炭素繊維 ロードバイク マウンテンバイク 道路自転車 MTB 400ＭＭ 27.2ＭＭ",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET[RULE_PROMOTION_ITEM_PARTIALLY_APPLIED[]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 24591.0,
+      "t30d_units": 7.0
+    }
+  ]
+}

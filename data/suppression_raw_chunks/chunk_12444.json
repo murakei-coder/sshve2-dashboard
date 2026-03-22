@@ -1,1 +1,40 @@
-{"766383694002": [{"asin": "B0FX3PLBLF", "item_name": "ACWELL 甘草水pHバランシングクレンジングトナー 300ml トナー 化粧水 クレンジング 洗顔 甘草水10％ 鎮静 水分 保湿 角質", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 6480.0, "t30d_units": 2.0}, {"asin": "B09B3BVGKD", "item_name": "ACWELL pHバランシングバブルフリークレンジングジェル 160ml 摩擦ゼロ 弱酸性 水分 保湿 しっとりクレンジング 洗浄力 ヒアルロン酸", "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}, {"asin": "B01LZK411L", "item_name": "ACWELL 甘草水pHバランシングクレンジングトナー 150ml トナー 化粧水 クレンジング 洗顔 甘草水10％ 鎮静 水分 保湿 角質", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 4180.0, "t30d_units": 2.0}, {"asin": "B09B3D13ZF", "item_name": "ACWELL 甘草水pHバランシングエッセンスミスト 100ml 保湿 高保湿 水分 潤い エッセンス ミスト 弱酸性 鎮静 美容液 弾力 毛穴", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 0, "t30d_units": 0}]}
+{
+  "766383694002": [
+    {
+      "asin": "B0FX3PLBLF",
+      "item_name": "ACWELL 甘草水pHバランシングクレンジングトナー 300ml トナー 化粧水 クレンジング 洗顔 甘草水10％ 鎮静 水分 保湿 角質",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 6480.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B09B3BVGKD",
+      "item_name": "ACWELL pHバランシングバブルフリークレンジングジェル 160ml 摩擦ゼロ 弱酸性 水分 保湿 しっとりクレンジング 洗浄力 ヒアルロン酸",
+      "suppression_reason": "[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    },
+    {
+      "asin": "B01LZK411L",
+      "item_name": "ACWELL 甘草水pHバランシングクレンジングトナー 150ml トナー 化粧水 クレンジング 洗顔 甘草水10％ 鎮静 水分 保湿 角質",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 4180.0,
+      "t30d_units": 2.0
+    },
+    {
+      "asin": "B09B3D13ZF",
+      "item_name": "ACWELL 甘草水pHバランシングエッセンスミスト 100ml 保湿 高保湿 水分 潤い エッセンス ミスト 弱酸性 鎮静 美容液 弾力 毛穴",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 0,
+      "t30d_units": 0
+    }
+  ]
+}

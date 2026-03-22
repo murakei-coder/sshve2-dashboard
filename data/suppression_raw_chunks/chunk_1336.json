@@ -1,1 +1,49 @@
-{"3632341222": [{"asin": "B0C1T84D9C", "item_name": "【医師監修】水素サプリ 36時間持続 水素 225mg NMN 高純度100% 8100mg S&S&K 酵素 青パパイヤ ローヤルゼリー 78種自然成分 30日分 90粒 GMP 日本製 分析済み", "suppression_reason": "[]", "suppression_category": "1.no suppression", "pf": "Consumables", "t30d_ops": 900753.87, "t30d_units": 192.0}, {"asin": "B0CW1MLWJ5", "item_name": "【産婦人科医推奨】Nincal (ニンカル) 葉酸 サプリ 妊活 ミトコンドリア 天然 葉酸 卵活 質の向上 温活 自然由来 (2袋)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 95304.0, "t30d_units": 10.0}, {"asin": "B0CWNDNX3J", "item_name": "【産婦人科医推奨】Nincal (ニンカル) 葉酸 サプリ 妊活 ミトコンドリア 天然 葉酸 卵活 質の向上 温活 自然由来 (3袋)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]", "suppression_category": "4.Price Error", "pf": "Consumables", "t30d_ops": 14640.0, "t30d_units": 1.0}, {"asin": "B0FTF8RWT7", "item_name": "【産婦人科医推奨】Nincal (ニンカル) 葉酸 サプリ 妊活 ミトコンドリア 天然 葉酸 卵活 質の向上 温活 自然由来 (お試し3袋)", "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]", "suppression_category": "5.Others", "pf": "Consumables", "t30d_ops": 24193.0, "t30d_units": 5.0}, {"asin": "B0886F8JPG", "item_name": "【産婦人科医推奨】Nincal (ニンカル) 葉酸 サプリ 妊活 ミトコンドリア 天然 葉酸 卵活 質の向上 温活 自然由来 (1袋)", "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]", "suppression_category": "3.VRP missing", "pf": "Consumables", "t30d_ops": 654027.91, "t30d_units": 159.0}]}
+{
+  "3632341222": [
+    {
+      "asin": "B0C1T84D9C",
+      "item_name": "【医師監修】水素サプリ 36時間持続 水素 225mg NMN 高純度100% 8100mg S&S&K 酵素 青パパイヤ ローヤルゼリー 78種自然成分 30日分 90粒 GMP 日本製 分析済み",
+      "suppression_reason": "[]",
+      "suppression_category": "1.no suppression",
+      "pf": "Consumables",
+      "t30d_ops": 900753.87,
+      "t30d_units": 192.0
+    },
+    {
+      "asin": "B0CW1MLWJ5",
+      "item_name": "【産婦人科医推奨】Nincal (ニンカル) 葉酸 サプリ 妊活 ミトコンドリア 天然 葉酸 卵活 質の向上 温活 自然由来 (2袋)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 95304.0,
+      "t30d_units": 10.0
+    },
+    {
+      "asin": "B0CWNDNX3J",
+      "item_name": "【産婦人科医推奨】Nincal (ニンカル) 葉酸 サプリ 妊活 ミトコンドリア 天然 葉酸 卵活 質の向上 温活 自然由来 (3袋)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_THRESHOLD_NOT_MET[RULE_DEAL_WAS_BASIS_PRICE_THRESHOLD_NOT_MET[]",
+      "suppression_category": "4.Price Error",
+      "pf": "Consumables",
+      "t30d_ops": 14640.0,
+      "t30d_units": 1.0
+    },
+    {
+      "asin": "B0FTF8RWT7",
+      "item_name": "【産婦人科医推奨】Nincal (ニンカル) 葉酸 サプリ 妊活 ミトコンドリア 天然 葉酸 卵活 質の向上 温活 自然由来 (お試し3袋)",
+      "suppression_reason": "[RULE_PROMOTION_ITEM_NOT_APPLIED[SELLER_PRICE_IS_NOT_WITHIN_ALLOWED_RANGE]",
+      "suppression_category": "5.Others",
+      "pf": "Consumables",
+      "t30d_ops": 24193.0,
+      "t30d_units": 5.0
+    },
+    {
+      "asin": "B0886F8JPG",
+      "item_name": "【産婦人科医推奨】Nincal (ニンカル) 葉酸 サプリ 妊活 ミトコンドリア 天然 葉酸 卵活 質の向上 温活 自然由来 (1袋)",
+      "suppression_reason": "[RULE_DEAL_BASIS_PRICE_MISSING[]",
+      "suppression_category": "3.VRP missing",
+      "pf": "Consumables",
+      "t30d_ops": 654027.91,
+      "t30d_units": 159.0
+    }
+  ]
+}

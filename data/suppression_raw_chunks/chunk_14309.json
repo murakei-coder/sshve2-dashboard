@@ -1,1 +1,31 @@
-{"975067957002": [{"asin": "B0DNSPNX3F", "item_name": "赤外線体温計 PC816", "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]", "suppression_category": "4.Price Error", "pf": "L&L", "t30d_ops": 960848.0, "t30d_units": 283.0}, {"asin": "B0FX8MLCQ6", "item_name": "メディケン(MEDIKEN) パルスオキシメーター 心拍計 spo2/PI値付き/脈拍測定器 敬老の日 脈拍計 酸素濃度計 指先 高精度 簡単操作・携帯便利 付属品4点セット 使いやすい 収納ケース付き ストラップ付き 旅行 家庭用 ディスプレイ", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 853226.0, "t30d_units": 227.0}, {"asin": "B0FSZHJHLW", "item_name": "メディケン(MEDIKEN) パルスオキシメーター【医療機器認証・健康守り】心拍計 spo2/脈拍測定器 脈拍計 酸素濃度計 指先 高精度 簡単操作・携帯便利 付属品4点セット 収納ケース付き ストラップ 旅行 家庭 日常用", "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]", "suppression_category": "2.OOS", "pf": "Total CE", "t30d_ops": 47921.0, "t30d_units": 13.0}]}
+{
+  "975067957002": [
+    {
+      "asin": "B0DNSPNX3F",
+      "item_name": "赤外線体温計 PC816",
+      "suppression_reason": "[RULE_DEAL_PRE_DEAL_PRICE_THRESHOLD_NOT_MET]",
+      "suppression_category": "4.Price Error",
+      "pf": "L&L",
+      "t30d_ops": 960848.0,
+      "t30d_units": 283.0
+    },
+    {
+      "asin": "B0FX8MLCQ6",
+      "item_name": "メディケン(MEDIKEN) パルスオキシメーター 心拍計 spo2/PI値付き/脈拍測定器 敬老の日 脈拍計 酸素濃度計 指先 高精度 簡単操作・携帯便利 付属品4点セット 使いやすい 収納ケース付き ストラップ付き 旅行 家庭用 ディスプレイ",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 853226.0,
+      "t30d_units": 227.0
+    },
+    {
+      "asin": "B0FSZHJHLW",
+      "item_name": "メディケン(MEDIKEN) パルスオキシメーター【医療機器認証・健康守り】心拍計 spo2/脈拍測定器 脈拍計 酸素濃度計 指先 高精度 簡単操作・携帯便利 付属品4点セット 収納ケース付き ストラップ 旅行 家庭 日常用",
+      "suppression_reason": "[ASIN_BUYABILITY_IS_FALSE[]",
+      "suppression_category": "2.OOS",
+      "pf": "Total CE",
+      "t30d_ops": 47921.0,
+      "t30d_units": 13.0
+    }
+  ]
+}
