@@ -38,7 +38,8 @@ def process_sourcing_to_chunks(max_chunk_size_mb=90):
         mcid_count += 1
         
         # Build records for this MCID - preserve ALL columns from original file
-        records = group.to_dict('records')
+        # Replace NaN with None (null in JSON) for valid JSON output
+        records = group.where(pd.notna(group), None).to_dict('records')
         
         # Check if this single MCID is too large
         single_mcid_json = json.dumps({mcid_str: records}, ensure_ascii=False, indent=2)
@@ -126,7 +127,8 @@ def process_suppression_to_chunks(max_chunk_size_mb=90):
         mcid_count += 1
         
         # Build records for this MCID - preserve ALL columns from original file
-        records = group.to_dict('records')
+        # Replace NaN with None (null in JSON) for valid JSON output
+        records = group.where(pd.notna(group), None).to_dict('records')
         
         # Check if this single MCID is too large
         single_mcid_json = json.dumps({mcid_str: records}, ensure_ascii=False, indent=2)
@@ -191,5 +193,4 @@ def main():
     print("1. Commit and push to GitHub")
     print("2. Test download functionality on GitHub Pages")
 
-if __name__ == '__main__':
-    main()
+if __name__ == '__ma
