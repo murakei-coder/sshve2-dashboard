@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+data/sourcing_raw_chunks/*.json filter=lfs diff=lfs merge=lfs -text
+data/suppression_raw_chunks/*.json filter=lfs diff=lfs merge=lfs -text
 *.json !text !filter !merge !diff
