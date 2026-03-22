@@ -1,0 +1,19 @@
+<!-- Add this button after the Suppression download button -->
+<button class="btn btn-success" onclick="downloadFullRawData('suppression')">📦 Suppressionデータダウンロード</button>
+<a href="https://github.com/murakei-coder/sshve2-dashboard/actions/workflows/manual-data-update.yml" target="_blank" style="text-decoration:none">
+  <button class="btn" style="background:linear-gradient(135deg,#FF9800 0%,#F57C00 100%)">🔄 管理者用: データ更新</button>
+</a>
+
+<!-- Add this explanation section after the 使い方 section -->
+<h3 style="color:#1565C0;margin:20px 0 10px 0">🔧 管理者用: データ更新手順</h3>
+<ol style="margin:0;padding-left:20px;font-size:0.9em;background:#fff3e0;padding:15px;border-radius:8px">
+<li>元のRawファイルを更新:
+  <ul style="margin-top:5px">
+    <li>Sourcing: <code>C:\Users\murakei\Desktop\SSHVE2\Sourcing\Tracking\Sourcing_data_raw_Sourcing更新.csv</code></li>
+    <li>Suppression: <code>C:\Users\murakei\Desktop\SSHVE2\Dashboard\raw\Suppression\SSHVE2_ByASIN_Suppression_raw_Final_item.tsv</code></li>
+  </ul>
+</li>
+<li>コマンドプロンプトで <code>update_raw_data.bat</code> を実行（自動でチャンク生成→Git push）</li>
+<li>または、上の「🔄 管理者用: データ更新」ボタンをクリック → GitHub Actionsページで「Run workflow」をクリック</li>
+<li>1-2分待つとGitHub Pagesに反映されます</li>
+</ol>

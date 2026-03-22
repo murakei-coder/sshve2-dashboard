@@ -1,0 +1,43 @@
+name: Manual Data Update
+
+on:
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Update reason'
+        required: false
+        default: 'Manual data update'
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        pip install pandas
+        
+    - name: Download source files
+      run: |
+        echo "Note: Source files need to be uploaded to GitHub or accessible URL"
+        echo "This workflow assumes source files are in the repository"
+        
+    - name: Generate raw data chunks
+      run: |
+        python generate_raw_data_chunks_from_source.py
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add data/sourcing_raw_chunks/ data/suppression_raw_chunks/
+        git diff --staged --quiet || git commit -m "Auto-update raw data chunks - ${{ github.event.inputs.reason }}"
+        git push
